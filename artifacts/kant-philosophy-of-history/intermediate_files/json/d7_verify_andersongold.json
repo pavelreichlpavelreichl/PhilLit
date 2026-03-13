@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Unnecessary Evil History Moral Progress Philosophy...' author=Anderson-Gold
+[verify_paper.py] Paper found: Evil and Enlightenment in the Philosophy of Immanu... (score: 44.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Unnecessary Evil History Moral Progress Philosophy Kant",
+    "author": "Anderson-Gold"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1524/9783050047140.113",
+      "title": "Evil and Enlightenment in the Philosophy of Immanuel Kant",
+      "authors": [
+        {
+          "family": "Anderson-Gold",
+          "given": "Sharon"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "Recht - Geschichte - Religion",
+      "volume": "",
+      "issue": "",
+      "page": "113-122",
+      "publisher": "Akademie Verlag",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1524/9783050047140.113",
+      "score": 44.905304
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

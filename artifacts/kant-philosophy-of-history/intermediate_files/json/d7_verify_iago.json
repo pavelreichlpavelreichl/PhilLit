@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S1369415420000369
+[verify_paper.py] DOI verified: Towards an Unfettered Critique: Adorno’s Appropria...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S1369415420000369"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s1369415420000369",
+      "title": "Towards an Unfettered Critique: Adorno\u2019s Appropriations and Transformations of Kant\u2019s Enlightenment",
+      "authors": [
+        {
+          "family": "Iago",
+          "given": "Garmon D."
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Kantian Review",
+      "volume": "25",
+      "issue": "4",
+      "page": "631-654",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s1369415420000369"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

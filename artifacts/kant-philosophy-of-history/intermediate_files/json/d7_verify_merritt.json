@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Mendelssohn and Kant on Human Progress a Neo-Stoic...' author=Merritt
+[verify_paper.py] Paper found: Mendelssohn and Kant on Human Progress... (score: 53.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Mendelssohn and Kant on Human Progress a Neo-Stoic Debate",
+    "author": "Merritt"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9781003259985-15",
+      "title": "Mendelssohn and Kant on Human Progress",
+      "authors": [
+        {
+          "family": "Merritt",
+          "given": "Melissa"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "Kant on Freedom and Human Nature",
+      "volume": "",
+      "issue": "",
+      "page": "190-208",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4324/9781003259985-15",
+      "score": 53.46808
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

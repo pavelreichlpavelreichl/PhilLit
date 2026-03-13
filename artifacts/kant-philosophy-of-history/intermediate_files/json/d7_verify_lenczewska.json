@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S1369415422000152
+[verify_paper.py] DOI verified: From Rationality to Morality: The Collective Devel...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S1369415422000152"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s1369415422000152",
+      "title": "From Rationality to Morality: The Collective Development of Practical Reason in Kant\u2019s Moral Anthropology",
+      "authors": [
+        {
+          "family": "Lenczewska",
+          "given": "Olga"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "Kantian Review",
+      "volume": "27",
+      "issue": "3",
+      "page": "363-383",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s1369415422000152"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

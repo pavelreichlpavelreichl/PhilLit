@@ -1,0 +1,18 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Zuolo Kant Conception Moral Progress Ontological I...'
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Zuolo Kant Conception Moral Progress Ontological Impossibility"
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (33.9) below threshold (50)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 4 paper(s)...
+[s2_batch.py] Processing 4 responses...
+[s2_batch.py] Found 4 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "4 paper IDs",
+  "results": [
+    {
+      "paperId": "721a28ac63d40c7e9b6320769063e416b9187a7d",
+      "title": "Is Progress Possible? Moral Improvement in Kant\u2019s Renewed Attempt",
+      "authors": [
+        {
+          "name": "Avery A. Williams",
+          "authorId": "2110016986"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This article seeks to understand the possibility of moral improvement in human social history through a close interpretation of Kant\u2019s A Renewed Attempt to Answer the Question: Is the Human Race Continually Improving? The article examines the ways in which Kant\u2019s\n arguments in this final piece, while often overlooked, complicate his philosophy of history as put forward in earlier works. Through this comparison, one sees important complications in Kant\u2019s thoughts on the philosophy of history at the end of his career, conceding that rightful progress\n towards a global republicanism is the most we can be sure of. This concession is striking considering Kant\u2019s ambitious goal at the outset to demonstrate the theoretical certainty of moral progress, going well beyond the practical optimism he advocates in earlier works. Yet, despite this\n concession, Kant is still optimistic about the possibility of moral progress at the end of the piece. This article suggests that Kant\u2019s Renewed Attempt is best understood as a window into Kant\u2019s grappling with the difficulties of constructing a philosophy of history that\n is consistent with his moral philosophy. By doing so, the text reveals underappreciated complexities of Kant\u2019s practical thought.",
+      "citationCount": 0,
+      "doi": "10.53765/20512988.45.2.327",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/721a28ac63d40c7e9b6320769063e416b9187a7d",
+      "venue": "History of Political Thought",
+      "journal": {
+        "name": "History of Political Thought"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "721a28ac63d40c7e9b6320769063e416b9187a7d"
+    },
+    {
+      "paperId": "dab4c1712806f766a7eb4082ee40ea6c73793ff5",
+      "title": "White Progress: Kant, Race and Teleology",
+      "authors": [
+        {
+          "name": "I. Marwah",
+          "authorId": "117423801"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Abstract This article examines how Kant\u2019s conceptualizations of natural history and teleological judgement shape his understanding of human difference and race. I argue that the teleological framework encasing Kant\u2019s racial theory implies constraints on the capacity of non-whites to make moral progress. While commentators tend to approach Kant\u2019s racial theory in relation to his political theory, his late-life cosmopolitanism, and his treatments (or non-treatments) of colonialism, empire and slavery, the problem I focus on here is that race is itself only intelligible in relation to a teleological natural history limiting certain races\u2019 capacities to engage in humanity\u2019s moral vocation.",
+      "citationCount": 11,
+      "doi": "10.1017/S1369415422000334",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/dab4c1712806f766a7eb4082ee40ea6c73793ff5",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "615 - 634",
+        "volume": "27"
+      },
+      "publicationTypes": null,
+      "_queryId": "dab4c1712806f766a7eb4082ee40ea6c73793ff5"
+    },
+    {
+      "paperId": "577eaeb6464ecee115ba0aaa69cbe307b3572631",
+      "title": "Towards an Unfettered Critique: Adorno\u2019s Appropriations and Transformations of Kant\u2019s Enlightenment",
+      "authors": [
+        {
+          "name": "Garmon D. Iago",
+          "authorId": "2084264662"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Abstract Many recent commentators have noticed how Adorno, in his late works, borrows Kant\u2019s definition of enlightenment to define key areas of his own critical practice. These discussions, however, have failed to notice how these late borrowings present an image of Kant\u2019s enlightenment which is diametrically opposed to his previous discussions. By tracing the development of Adorno\u2019s engagement with Kant\u2019s essay, I discover Adorno deliberately sublating Kant\u2019s definition as to enable its incorporation into his own works. Further, the article will examine some problems which appear to arise for Adorno when borrowing Kant\u2019s definition of enlightenment in his late works, which coalesce around the topics of negativism and the prospects for societal change.",
+      "citationCount": 2,
+      "doi": "10.1017/S1369415420000369",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/577eaeb6464ecee115ba0aaa69cbe307b3572631",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "631 - 654",
+        "volume": "25"
+      },
+      "publicationTypes": null,
+      "_queryId": "577eaeb6464ecee115ba0aaa69cbe307b3572631"
+    },
+    {
+      "paperId": "5407f08fcbcd8ded5a7fb4a25a76d6aa52e38d5b",
+      "title": "Adorno, Kant and Enlightenment",
+      "authors": [
+        {
+          "name": "D. Cook",
+          "authorId": "144906462"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Abstract Theodor W. Adorno often made reference to Immanuel Kant\u2019s famous essay on enlightenment. Although he denied that immaturity is self-incurred, the first section of this article will show that he adopted many of Kant\u2019s ideas about maturity in his philosophically informed critique of monopoly conditions under late capitalism. The second section will explore Adorno\u2019s claim that the educational system could foster maturity by encouraging critical reflection on the social conditions that have made us what we are. Finally, this article will demonstrate that Adorno links enlightenment to Kant\u2019s idea of a realm of ends.",
+      "citationCount": 2,
+      "doi": "10.1017/S1369415420000400",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5407f08fcbcd8ded5a7fb4a25a76d6aa52e38d5b",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "541 - 557",
+        "volume": "25"
+      },
+      "publicationTypes": null,
+      "_queryId": "5407f08fcbcd8ded5a7fb4a25a76d6aa52e38d5b"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

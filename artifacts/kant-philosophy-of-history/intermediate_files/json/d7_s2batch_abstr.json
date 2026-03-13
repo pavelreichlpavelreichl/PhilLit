@@ -1,0 +1,85 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 3 paper(s)...
+[s2_batch.py] Processing 3 responses...
+[s2_batch.py] Found 3 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "3 paper IDs",
+  "results": [
+    {
+      "paperId": "01a7795e82bc08fb381c8425dc85c3108498642c",
+      "title": "The moral ought in conjectural history",
+      "authors": [
+        {
+          "name": "Lea Ypi",
+          "authorId": "2271487121"
+        }
+      ],
+      "year": 2024,
+      "abstract": "ABSTRACT This article defends the importance of the idea of historical progress for constructivist justifications of moral normativity inspired by Kant\u2019s analysis of practical reason. Focusing on some key methodological requirements that must be satisfied for the constructivist vindication of practical normativity to succeed, the article focuses on the concept of purposiveness as it develops within Kant\u2019s moral and political philosophy. It concludes that without a critical notion of \u2018purposiveness\u2019 and related philosophical analysis of history, the constructivist rejection of scepticism is at risk of circularity.",
+      "citationCount": 0,
+      "doi": "10.1080/13698230.2024.2344386",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/01a7795e82bc08fb381c8425dc85c3108498642c",
+      "venue": "Critical Review of International Social and Political Philosophy",
+      "journal": {
+        "name": "Critical Review of International Social and Political Philosophy",
+        "pages": "991 - 1010",
+        "volume": "27"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "01a7795e82bc08fb381c8425dc85c3108498642c"
+    },
+    {
+      "paperId": "d51a3df76da5c45854431d66e6a2a80f3505ae15",
+      "title": "Kant on revolution as a sign of moral progress",
+      "authors": [
+        {
+          "name": "Sacha Golob",
+          "authorId": "72763720"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1111/1467-9752.12598",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d51a3df76da5c45854431d66e6a2a80f3505ae15",
+      "venue": "Journal of Philosophy of Education",
+      "journal": {
+        "name": "Journal of Philosophy of Education"
+      },
+      "publicationTypes": null,
+      "_queryId": "d51a3df76da5c45854431d66e6a2a80f3505ae15"
+    },
+    {
+      "paperId": "a0a1ba779637ce6a34caad745d05224556e244d3",
+      "title": "Kant on Enthusiasm",
+      "authors": [
+        {
+          "name": "J\u00fcrgen Stolzenberg",
+          "authorId": "2349132355"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Kant\u2019s theory of enthusiasm has received relatively little attention in Kant studies. This is surprising in view of the fact that Kant was preoccupied with the theme of enthusiasm throughout his life. One of the reasons may be that for Kant enthusiasm is an affect. Therefore, it cannot be used to justify ethics. On closer examination, however, a more differentiated picture emerges. In addition to pathological enthusiasm, Kant recognises an aesthetically sublime enthusiasm, and in his reflections on the reaction to the events of the French Revolution, Kant coined the concept of a true enthusiasm, related to the ideas of freedom and justice. Finally, Kant introduces the concept of the enthusiasm of good resolution. It is a preliminary stage of the feeling of respect for the moral law in moral education. It is no longer regarded as an affect, but is under the guidance of reason. The first part discusses the partly incompatible conceptions of enthusiasm. The second part examines Jean-Fran\u00e7ois Lyotard\u2019s interpretation and critique of Kant\u2019s philosophical-historical theory of enthusiasm. In the face of the devastating catastrophes of the twentieth century, Lyotard sees no reason for the enthusiasm that Kant perceived in the people\u2019s reaction to the French Revolution and interpreted as a prognostic sign of future history. It has been replaced by a general world-weariness. However, Lyotard\u2019s critique of Kant is based on a historicist fallacy. The reference to historical catastrophes is not an argument against the a priori validity of the ideas of freedom and justice and against the endeavour for their realisation.",
+      "citationCount": 0,
+      "doi": "10.5922/0207-6918-2025-1-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a0a1ba779637ce6a34caad745d05224556e244d3",
+      "venue": "Kantian journal",
+      "journal": {
+        "name": "Kantian journal"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "a0a1ba779637ce6a34caad745d05224556e244d3"
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

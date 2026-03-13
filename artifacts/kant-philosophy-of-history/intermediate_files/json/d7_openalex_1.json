@@ -1,79 +1,177 @@
+[search_openalex.py] Searching OpenAlex: 'Kant philosophy of history moral progress postcolonial' (year=2010-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_7f8d508626957a63)
 {
   "status": "success",
   "source": "openalex",
-  "query": "Kant philosophy of history moral progress eschatology",
+  "query": "Kant philosophy of history moral progress postcolonial",
   "results": [
     {
-      "openalex_id": "W2015447749",
-      "doi": "10.1017/s1369415400001746",
-      "title": "Opinion, Belief or Faith, and Knowledge",
+      "openalex_id": "W341488565",
+      "doi": "10.5070/t412011807",
+      "title": "Epistemic Disobedience and the Decolonial Option: A Manifesto",
       "authors": [
         {
-          "name": "Leslie Stevenson",
-          "openalex_id": "A5041219184",
-          "institutions": [
-            "University of St Andrews"
-          ]
+          "name": "Walter D. Mignolo",
+          "openalex_id": "A5051525798",
+          "orcid": "https://orcid.org/0000-0002-2948-0656"
         }
       ],
-      "publication_year": 2003,
-      "publication_date": "2003-03-01",
-      "abstract": "Kant famously said he 'had to deny knowledge ( Wissen ) in order to make room for faith ( Glaube )\u2019 (B xxx). But what exactly was his conception of Glaube , and how does it fit into his epistemology? In the first Critique it is not until the concluding Method section that he explicitly addresses these issues. In the Canon of Pure Reason he lists three questions that sum up \u2018all interest of my reason\u2019: What can I know? What should I do? What may I hope? (A 805/B 833). Kant here put hope on the agenda of philosophy. In his essays on history he argued that we can hope for secular progress in the development of human culture; but in his moral and religious philosophy he was also concerned with eschatological hopes that we can perfect our characters in a life after death, and that the moral governor of the universe will ensure that happiness is eventually proportionate to virtue. About immortality and the existence of God, his constant refrain is that we can have only a practical kind of faith ( Glaube ).",
-      "cited_by_count": 126,
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The ideas, many of which will unfold through years of engaged political work, need not be perfect, for in the end, it will be the hard, creative work of the communities that take them on. That work is the concrete manifestation of political imagination.",
+      "cited_by_count": 554,
       "type": "article",
       "source": {
-        "name": "Kantian Review",
+        "name": "TRANSMODERNITY Journal of Peripheral Cultural Production of the Luso-Hispanic World",
         "type": "journal",
         "issn": [
-          "1369-4154",
-          "2044-2394"
+          "2154-1353",
+          "2154-1361"
         ]
       },
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://escholarship.org/content/qt62j3w283/qt62j3w283.pdf?t=m284lt"
       },
       "topics": [
-        "Philosophical Ethics and Theory",
-        "Theology and Philosophy of Evil",
-        "Philosophy and Historical Thought"
+        "African cultural and philosophical studies",
+        "Anthropological Studies and Insights",
+        "Postcolonial and Cultural Literary Studies"
       ],
-      "referenced_works_count": 11,
-      "url": "https://openalex.org/W2015447749"
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W341488565"
     },
     {
-      "openalex_id": "W2900033011",
-      "doi": null,
-      "title": "A history of transhumanist thought",
+      "openalex_id": "W4252698994",
+      "doi": "10.5040/9781472544377",
+      "title": "Connected Sociologies",
       "authors": [
         {
-          "name": "Nick Bostrom",
-          "openalex_id": "A5027943191"
+          "name": "Gurminder K. Bhambra",
+          "openalex_id": "A5064248726",
+          "orcid": "https://orcid.org/0000-0003-3658-1575"
         }
       ],
-      "publication_year": 2005,
-      "publication_date": "2005-01-01",
-      "abstract": "The human desire to acquire new capacities is as ancient as our species itself. We have always sought to expand the boundaries of our existence, be it socially, geographically, or mentally. There is a tendency in at least some individuals always to search for a way around every obstacle and limitation to human life and happiness. Ceremonial burial and preserved fragments of religious writings show that prehistoric humans were disturbed by the death of loved ones. Although the belief in a hereafter was common, this did not preclude efforts to extend one\u2019s earthly life. In the Sumerian Epic of Gilgamesh (approx. 1700 B.C.), a king sets out on a quest for immortality. Gilgamesh learns that there exists a natural means \u2013 an herb that grows at the bottom of the sea. 1 He successfully retrieves the plant, but a snake steals it from him before he can eat it. In later times, explorers sought the Fountain of Youth, alchemists labored to concoct the Elixir of Life, and various schools of esoteric Taoism in China strove for physical immortality by way of control over or harmony with the forces of nature. The boundary between mythos and science, between magic and technology, was blurry, and almost all conceivable means to the preservation of life were attempted by somebody or other. Yet while explorers made many interesting discoveries and alchemists invented some useful things, such as new dyes and improvements in metallurgy, the goal of life extension proved elusive. The quest to transcend our natural confines has long been viewed with ambivalence, however. Reining it in is the concept of hubris: that some ambitions are off\u2010limits and will backfire if pursued. The ancient Greeks exhibited this ambivalence in their mythology. Prometheus stole fire from Zeus and gave it to humans, thereby permanently improving the human condition. Yet for this act he was severely punished by Zeus. The gods are repeatedly",
-      "cited_by_count": 604,
-      "type": "article",
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "<JATS1:p>This book outlines what theory for a global age might look like, positing an agenda for consideration, contestation and discussion, and a framework for the research-led volumes that follow in the series.</JATS1:p> <JATS1:p>Gurmider K. Bhambra takes up the classical concerns of sociology and social theory and shows how they are being rethought through an engagement with postcolonial studies, one of the most distinctive critical approaches of the past two decades. She also discusses the significance of the research programme surrounding coloniality and modernity that has emerged recently from Latin America.</JATS1:p>",
+      "cited_by_count": 597,
+      "type": "book",
       "source": {
-        "name": "Oxford University Research Archive (ORA) (University of Oxford)",
-        "type": "repository",
+        "name": "Bloomsbury Publishing Plc eBooks",
+        "type": "ebook platform",
         "issn": null
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://ora.ox.ac.uk/objects/uuid:55ab57ec-70d0-4b93-b058-0d7f57167cc2"
+        "oa_status": "bronze",
+        "oa_url": "https://www.bloomsburycollections.com/book/connected-sociologies.pdf?dl"
       },
       "topics": [
-        "Neuroethics, Human Enhancement, Biomedical Innovations",
-        "Space Science and Extraterrestrial Life",
-        "Bioethics and Human Rights Issues"
+        "Contemporary Sociological Theory and Practice"
       ],
-      "referenced_works_count": 36,
-      "url": "https://openalex.org/W2900033011"
+      "referenced_works_count": 228,
+      "url": "https://openalex.org/W4252698994"
+    },
+    {
+      "openalex_id": "W3092631251",
+      "doi": "10.1080/09644016.2020.1827608",
+      "title": "Multispecies justice: theories, challenges, and a research agenda for environmental politics",
+      "authors": [
+        {
+          "name": "Danielle Celermajer",
+          "openalex_id": "A5035414844",
+          "orcid": "https://orcid.org/0000-0002-5827-6988",
+          "institutions": [
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "David Schlosberg",
+          "openalex_id": "A5001414622",
+          "orcid": "https://orcid.org/0000-0003-3547-919X",
+          "institutions": [
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "Lauren Rickards",
+          "openalex_id": "A5043281584",
+          "orcid": "https://orcid.org/0000-0001-6088-3448",
+          "institutions": [
+            "University of Alberta",
+            "MIT University"
+          ]
+        },
+        {
+          "name": "Makere Stewart\u2010Harawira",
+          "openalex_id": "A5068267349",
+          "orcid": "https://orcid.org/0000-0002-7375-2305",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Mathias Thaler",
+          "openalex_id": "A5073564200",
+          "orcid": "https://orcid.org/0000-0001-7045-6159",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Petra Tschakert",
+          "openalex_id": "A5071605564",
+          "orcid": "https://orcid.org/0000-0002-4268-3378",
+          "institutions": [
+            "University of Western Australia"
+          ]
+        },
+        {
+          "name": "Blanche Verlie",
+          "openalex_id": "A5055835459",
+          "orcid": "https://orcid.org/0000-0002-1614-9913",
+          "institutions": [
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "Christine J. Winter",
+          "openalex_id": "A5091592707",
+          "orcid": "https://orcid.org/0000-0002-5427-9196",
+          "institutions": [
+            "University of Sydney"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-07",
+      "abstract": "This essay seeks to open a conversation about multispecies justice in environmental politics. It sets out some of the theoretical approaches, key areas of exploration, and obvious challenges that come with rethinking a core plank of liberal theory and politics. First, we discuss some of the diverse scholarly fields that have influenced the emergence of multispecies justice. We then discuss core concerns at the centre of this reconfiguration of justice \u2013 including broadening conceptions of the subject of justice and the means and processes of recognition (and misrecognition). The importance of deconstructing and decolonising the hegemony of liberal political discourse is crucial, and is part of a larger project for multispecies justice to rework a politics of knowledge and practice of political communication. Finally, we begin to explore what a commitment to multispecies justice might demand of politics and policy.",
+      "cited_by_count": 325,
+      "type": "article",
+      "source": {
+        "name": "Environmental Politics",
+        "type": "journal",
+        "issn": [
+          "0964-4016",
+          "1743-8934"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://admin.research-repository.uwa.edu.au/en/publications/250f35f5-3403-4ba3-b2a2-1e3b6b94e50c"
+      },
+      "topics": [
+        "Geographies of human-animal interactions",
+        "Environmental Philosophy and Ethics",
+        "Posthumanist Ethics and Activism"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W3092631251"
     },
     {
       "openalex_id": "W4256375234",
@@ -132,6 +230,87 @@
       "url": "https://openalex.org/W4256375234"
     },
     {
+      "openalex_id": "W584580261",
+      "doi": "10.5876/9781607322238",
+      "title": "Aztec Philosophy: Understanding a World in Motion",
+      "authors": [
+        {
+          "name": "James Maffie",
+          "openalex_id": "A5062723226"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "James Maffie reveals a highly sophisticated and systematic Aztec philosophy worthy of consideration alongside European philosophies of their time. Bringing together the fields of comparative world philosophy and Mesoamerican studies, Maffie excavates the distinctly philosophical aspects of Aztec thought. 'Aztec Philosophy' focuses on the ways Aztec metaphysics -- the Aztecs understanding of the nature, structure and constitution of reality -- underpinned Aztec thinking about wisdom, ethics, politics, and aesthetics, and served as a backdrop for Aztec religious practices as well as everyday activities such as weaving, farming, and warfare. Aztec metaphysicians conceived reality and cosmos as a grand, ongoing process of weaving -- theirs was a world in motion. Drawing upon linguistic, ethnohistorical, archaeological, historical, and contemporary ethnographic evidence, Maffie argues that Aztec metaphysics maintained a processive, transformational, and non-hierarchical view of reality, time, and existence along with a pantheistic theology. 'Aztec Philosophy' will be of great interest to Mesoamericanists, philosophers, religionists, folklorists, and Latin Americanists as well as students of indigenous philosophy, religion, and art of the Americas.",
+      "cited_by_count": 274,
+      "type": "book",
+      "source": {
+        "name": "University Press of Colorado eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Latin American history and culture",
+        "Archaeology and Natural History",
+        "Latin American and Latino Studies"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W584580261"
+    },
+    {
+      "openalex_id": "W1756642272",
+      "doi": "10.26530/oapen_560010",
+      "title": "Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies",
+      "authors": [
+        {
+          "name": "Heather Davis",
+          "openalex_id": "A5055808151",
+          "orcid": "https://orcid.org/0000-0003-1475-4076",
+          "institutions": [
+            "University of Indonesia",
+            "Travaux et Recherches Arch\u00e9ologiques sur les Cultures, les Espaces et les Soci\u00e9t\u00e9s",
+            "Indonesian Institute of Sciences"
+          ]
+        },
+        {
+          "name": "\u00c9tienne Turpin",
+          "openalex_id": "A5058994633",
+          "institutions": [
+            "Travaux et Recherches Arch\u00e9ologiques sur les Cultures, les Espaces et les Soci\u00e9t\u00e9s",
+            "University of Indonesia",
+            "Indonesian Institute of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "The era of climate change involves the mutation of systems beyond 20th century anthropomorphic models and has stood, until recently, outside representation or address. Understood in a broad and critical sense, climate change concerns material agencies that impact on biomass and energy, erased borders and microbial invention, geological and nanographic time, and extinction events. The possibility of extinction has always been a latent figure in the textual production and archives; but the current sense of depletion, decay, mutation and exhaustion calls for new modes of address, new styles of publishing and authoring, and new formats and speeds of distribution. As the pressures and re-alignments of this re-arrangement occur, so must the critical languages and conceptual templates, political premises and definitions of \"life.\" There is a particular need to publish in a timely fashion experimental monographs that redefine the boundaries of disciplinary fields, rhetorical invasions, the interface of conceptual and scientific languages, and geomorphic and geopolitical interventions. Critical Climate Change is oriented, in this general manner, toward the epistemo-political mutations that correspond to the temporalities of terrestrial mutation.",
+      "cited_by_count": 617,
+      "type": "book",
+      "source": {
+        "name": "Open Humanities Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://oapen.org/download?type=document&docid=560010"
+      },
+      "topics": [
+        "Geographies of human-animal interactions",
+        "Ecocriticism and Environmental Literature",
+        "Climate Change Communication and Perception"
+      ],
+      "referenced_works_count": 89,
+      "url": "https://openalex.org/W1756642272"
+    },
+    {
       "openalex_id": "W2110070463",
       "doi": "10.12946/rg19/152-176",
       "title": "Histories of International law: Dealing with Eurocentrism",
@@ -167,812 +346,185 @@
       "url": "https://openalex.org/W2110070463"
     },
     {
-      "openalex_id": "W2498444861",
-      "doi": "10.22439/fs.v0i0.5011",
-      "title": "From Counter-Conduct to Critical Attitude: Michel Foucault and the Art of Not Being Governed Quite So Much",
+      "openalex_id": "W2729125798",
+      "doi": "10.1017/s0003055417000223",
+      "title": "It's Not about Race: Good Wars, Bad Wars, and the Origins of Kant's Anti-Colonialism",
       "authors": [
         {
-          "name": "Daniele Lorenzini",
-          "openalex_id": "A5027158894",
-          "orcid": "https://orcid.org/0000-0001-8794-9419",
+          "name": "In\u00e9s Valdez",
+          "openalex_id": "A5083974814",
+          "orcid": "https://orcid.org/0000-0002-8834-809X",
           "institutions": [
-            "Universit\u00e9 Paris-Est Cr\u00e9teil"
+            "The Ohio State University"
           ]
         }
       ],
-      "publication_year": 2016,
-      "publication_date": "2016-06-28",
-      "abstract": "In this article I reconstruct the philosophical conditions for the emergence of the notion of counter-conduct within the framework of Michel Foucault\u2019s study of governmentality, and I explore the reasons for its disappearance after 1978. In particular, I argue that the concept of conduct becomes crucial for Foucault in order to redefine governmental power relations as specific ways to conduct the conduct of individuals: it is initially within this context that, in Security, Territory, Population, he rethinks the problem of resistance in terms of counter-conduct. However, a few months later, in What is Critique?, Foucault (implicitly) replaces the notion of counter-conduct with that of critical attitude, defined as the particular form that counter-conduct takes in modern times. This notion allows him to highlight the role played by the will (to be or not to be governed like that) in resistance to governmental strategies. But since the notion of counter-conduct is conceptually wider than that of critical attitude, I suggest in conclusion that it could be worth reactivating it as a \u201chistorical category which, in various forms and with diverse objectives, runs through the whole of Western history.\u201d",
-      "cited_by_count": 118,
+      "publication_year": 2017,
+      "publication_date": "2017-07-10",
+      "abstract": "This article offers a new interpretation of Kant's cosmopolitanism and his anti-colonialism in Toward Perpetual Peace . Kant's changing position has been the subject of extensive debates that have, however, not recognized the central place of colonialism in the political, economic, and military debates in Europe in Kant's writings. Based on historical evidence not previously considered alongside Perpetual Peace , I suggest that Kant's leading concern at the time of writing is the negative effect of European expansionism and intra-European rivalry over colonial possessions on the possibility of peace in Europe. Because of the lack of affinity between colonial conflict and his philosophy of history, Kant must adjust his concept of antagonism to distinguish between war between particular dyads, in particular spaces, and with particular non-state actors. I examine the implications of this argument for Kant's system of Right and conclude that his anti-colonialism co-exists with hierarchical views of race.",
+      "cited_by_count": 108,
       "type": "article",
       "source": {
-        "name": "Foucault Studies",
+        "name": "American Political Science Review",
         "type": "journal",
         "issn": [
-          "1832-5203"
+          "0003-0554",
+          "1537-5943"
         ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://rauli.cbs.dk/index.php/foucault-studies/article/download/5011/5441"
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E8D6C05332BA5C98C5A6E72BBCEB66E/S0003055417000223a.pdf/div-class-title-it-s-not-about-race-good-wars-bad-wars-and-the-origins-of-kant-s-anti-colonialism-div.pdf"
       },
       "topics": [
-        "Foucault, Power, and Ethics",
-        "Feminism, Gender, and Sexuality Studies",
+        "Global Peace and Security Dynamics",
+        "War, Ethics, and Justification",
         "Political Philosophy and Ethics"
       ],
-      "referenced_works_count": 2,
-      "url": "https://openalex.org/W2498444861"
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W2729125798"
     },
     {
-      "openalex_id": "W3017115965",
-      "doi": "10.1111/phc3.12665",
-      "title": "Hope in political philosophy",
+      "openalex_id": "W2978252335",
+      "doi": "10.1111/dech.12550",
+      "title": "De\u2010centring the \u2018White Gaze\u2019 of Development",
       "authors": [
         {
-          "name": "Claudia Bl\u00f6ser",
-          "openalex_id": "A5016453064",
+          "name": "Robtel Neajai Pailey",
+          "openalex_id": "A5086235830",
+          "orcid": "https://orcid.org/0000-0001-9584-6524",
           "institutions": [
-            "Goethe University Frankfurt"
-          ]
-        },
-        {
-          "name": "Jakob Huber",
-          "openalex_id": "A5089507118",
-          "orcid": "https://orcid.org/0000-0003-3156-1962",
-          "institutions": [
-            "Goethe University Frankfurt"
-          ]
-        },
-        {
-          "name": "Darrel Moellendorf",
-          "openalex_id": "A5062005561",
-          "institutions": [
-            "Goethe University Frankfurt"
-          ]
-        }
-      ],
-      "publication_year": 2020,
-      "publication_date": "2020-04-17",
-      "abstract": "Abstract The language of hope is a ubiquitous part of political life, but its value is increasingly contested. While there is an emerging debate about hope in political philosophy, an assessment of the prevalent scepticism about its role in political practice is still outstanding. The aim of this article is to provide an overview of historical and recent treatments of hope in political philosophy and to indicate lines of further research. We argue that even though political philosophy can draw on recent analyses of hope in analytic philosophy, there are distinct challenges for an account of hope in political contexts. Examples such as racial injustice or climate change show the need for a systematic normative account that is sensitive to the unavoidability of hope in politics as much as its characteristic dangers.",
-      "cited_by_count": 48,
-      "type": "article",
-      "source": {
-        "name": "Philosophy Compass",
-        "type": "journal",
-        "issn": [
-          "1747-9991"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phc3.12665"
-      },
-      "topics": [
-        "Political Philosophy and Ethics",
-        "Hannah Arendt's Political Philosophy",
-        "Feminist Epistemology and Gender Studies"
-      ],
-      "referenced_works_count": 39,
-      "url": "https://openalex.org/W3017115965"
-    },
-    {
-      "openalex_id": "W1589157190",
-      "doi": "10.1111/1467-9248.12136",
-      "title": "The Major Ideologies of Liberalism, Socialism and Conservatism",
-      "authors": [
-        {
-          "name": "James Alexander",
-          "openalex_id": "A5079791348",
-          "orcid": "https://orcid.org/0000-0003-2432-6876",
-          "institutions": [
-            "Bilkent University"
-          ]
-        }
-      ],
-      "publication_year": 2014,
-      "publication_date": "2014-06-02",
-      "abstract": "In the last thirty years ideologies have been treated as if they are contingent assemblages of concepts. This has complicated the study of ideologies so much that some philosophical consideration now seems necessary. In this article an original theory is put forward in which the three major ideologies of liberalism, socialism and conservatism are understood to be three differing views about the nature of the fundamental criterion by which politics should be judged. Since this theory explains the relation between the three as if they are elaborations of the same original criterion, it enables us to see how the ideologies relate to and yet differ from each other.",
-      "cited_by_count": 68,
-      "type": "article",
-      "source": {
-        "name": "Political Studies",
-        "type": "journal",
-        "issn": [
-          "0032-3217",
-          "1467-9248"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://repository.bilkent.edu.tr/bitstreams/21654b86-36b7-4c3c-8a54-0c05b5464318/download"
-      },
-      "topics": [
-        "Political Philosophy and Ethics",
-        "Political and Economic history of UK and US",
-        "Social Policy and Reform Studies"
-      ],
-      "referenced_works_count": 61,
-      "url": "https://openalex.org/W1589157190"
-    },
-    {
-      "openalex_id": "W2944074404",
-      "doi": "10.1007/s11625-019-00697-6",
-      "title": "Thinking about future/democracy: towards a political theory of futurity",
-      "authors": [
-        {
-          "name": "Rosine Kelz",
-          "openalex_id": "A5086895664",
-          "orcid": "https://orcid.org/0000-0001-8727-8838",
-          "institutions": [
-            "Research Institute For Sustainability \u2013 Helmholtz Centre Potsdam"
+            "Unilever (United Kingdom)"
           ]
         }
       ],
       "publication_year": 2019,
-      "publication_date": "2019-05-06",
-      "abstract": "Today, representative politics are often perceived as being primarily concerned with short-term goals. Moreover, the future appears to be pre-determined by economic or technological necessities. This \u2018closing\u2019 of the future, however, becomes increasingly problematic in the face of global existential crises, such as environmental depletion and climate change. These catastrophic developments could only be mitigated by immediate, decisive political interventions, which would amount to systemic changes that redirect technological research and economic activities. This article seeks to outline how political theory and philosophy can contribute to \u201c(re-)Politicizing the Future\u201d. I argue that political thought should take temporality, and in particular futurity, as a central conceptual and methodological concern. Drawing on the works of prominent twentieth century thinkers such as Hannah Arendt, Stanley Cavell, and Jacques Derrida, I want to develop a deepened analytical understanding of the possibility for a \u2018future directed\u2019 political thought which highlights intrinsic connections between sustainability and democracy.",
-      "cited_by_count": 40,
+      "publication_date": "2019-10-01",
+      "abstract": "ABSTRACT In its crudest form, development has traditionally been about dissecting the political, socio\u2010economic and cultural processes of black, brown and other subjects of colour in the so\u2010called global South and finding them regressive, particularly in comparison to the so\u2010called progressive global North. However, in the midst of a 21st century, de\u2010colonial scholarly pivot, \u2018opening up development\u2019 fundamentally demands turning the colonial, \u2018white gaze\u2019 on its head. In particular, contemporary social media movements challenging white supremacy such as #BlackLivesMatter have gained prominence while non\u2010white development actors such as China have emerged as enticing alternatives. These phenomena have pried open development with both positive and negative results, intended and unintended consequences. This article seeks to put Critical Development Studies into fluid conversation with Critical Race Studies in an examination of how scholars, policy makers and practitioners have simultaneously succeeded and failed in subverting the \u2018white gaze\u2019 of development.",
+      "cited_by_count": 237,
       "type": "article",
       "source": {
-        "name": "Sustainability Science",
+        "name": "Development and Change",
         "type": "journal",
         "issn": [
-          "1862-4057",
-          "1862-4065"
+          "0012-155X",
+          "1467-7660"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/dech.12550"
+      },
+      "topics": [
+        "Tourism, Volunteerism, and Development",
+        "Global Educational Policies and Reforms",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2978252335"
+    },
+    {
+      "openalex_id": "W4394624215",
+      "doi": "10.1093/isq/sqae038",
+      "title": "Positionality Statements as a Function of Coloniality: Interrogating Reflexive Methodologies",
+      "authors": [
+        {
+          "name": "Jasmine K. Gani",
+          "openalex_id": "A5032532300",
+          "orcid": "https://orcid.org/0000-0002-8218-1807",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Rabea M. Khan",
+          "openalex_id": "A5030440023",
+          "orcid": "https://orcid.org/0000-0002-0709-6493",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-14",
+      "abstract": "Abstracts Declaration of positionality and the confession of privilege as a way of revealing unequal power dynamics in knowledge production has become an increasingly encouraged reflexive practice in international relations and other disciplines. However, we interrogate the potentially negative implications of this methodology, occurring through a reification of material, assumed, and imagined hierarchies between people, which then is advertised and (re)produced by its utterance. We further query the modernist origins of reflexive methodology, which has inspired the practice of declaring positionality, and argue that its underpinning coloniality has bearings for its use today. We then explore how this coloniality manifests: Thus, first, we consider the extent to which publicly acknowledging privilege paradoxically acts as a means of centering whiteness through the narcissistic gaze and an assertion of legitimacy. Second, we argue positionality statements offer a redemption of guilt for the hegemonic researcher. And lastly, rather than ameliorating unequal power dynamics in the production of knowledge, we contend positionality statements may constitute hidden power moves in which one is able to signal and reinstate one\u2019s authority vis-\u00e0-vis people, but especially women, of color. We end with a call for a reparative scholarship that acknowledges these limitations in positionality statements.",
+      "cited_by_count": 233,
+      "type": "article",
+      "source": {
+        "name": "International Studies Quarterly",
+        "type": "journal",
+        "issn": [
+          "0020-8833",
+          "1468-2478"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11625-019-00697-6.pdf"
+        "oa_url": "https://academic.oup.com/isq/article-pdf/68/2/sqae038/57187997/sqae038.pdf"
       },
       "topics": [
-        "Political Theology and Sovereignty",
-        "Philosophy, Ethics, and Existentialism",
-        "Hannah Arendt's Political Philosophy"
+        "Qualitative Research Methods and Ethics",
+        "Social Science and Policy Research",
+        "Migration, Refugees, and Integration"
       ],
-      "referenced_works_count": 35,
-      "url": "https://openalex.org/W2944074404"
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4394624215"
     },
     {
-      "openalex_id": "W4255899040",
-      "doi": "10.4324/9781351212472",
-      "title": "The Political Sociology of Emotions",
+      "openalex_id": "W1521173870",
+      "doi": "10.1080/02690403.2010.506265",
+      "title": "For a Relational Musicology: Music and Interdisciplinarity, Beyond the Practice Turn",
       "authors": [
         {
-          "name": "Nicolas Demertzis",
-          "openalex_id": "A5079171861",
-          "orcid": "https://orcid.org/0000-0002-6251-0239",
-          "institutions": [
-            "National and Kapodistrian University of Athens"
-          ]
+          "name": "Georgina Born",
+          "openalex_id": "A5015708663",
+          "orcid": "https://orcid.org/0000-0002-4056-9053"
         }
       ],
-      "publication_year": 2020,
-      "publication_date": "2020-06-01",
-      "abstract": "The Political Sociology of Emotions articulates the political sociology of emotions as a sub-field of emotions sociology in relation to cognate disciplines and sub-disciplines. Far from reducing politics to affectivity, the political sociology of emotions is coterminous with political sociology itself plus the emotive angle added in the investigation of its traditional and more recent areas of research. The worldwide predominance of affective anti-politics (e.g., the securitization of immigration policies, reactionism, terrorism, competitive authoritarianism, nationalism and populism, etc.) makes the political sociology of emotions increasingly&nbsp;necessary in&nbsp;making the prospects of democracy and republicanism in the twenty-first century more intelligible. Through a weak constructionist theoretical perspective, the book shows the utility of this new sub-field by addressing two central themes: trauma and ressentiment. Trauma is considered as a key cultural-political phenomenon of our times, evoking both negative and positive emotions; ressentiment is a pertaining individual and collective political emotion allied to insecurities and moral injuries. In tandem, they constitute fundamental experiences of late modern times. The value of the political sociology of emotions is revealed in the analysis of civil wars, cultural traumas, the politics of pity, the suffering of distant others in the media, populism, and national identities on both sides of the Atlantic.",
-      "cited_by_count": 76,
-      "type": "book",
-      "source": null,
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781351212472&type=googlepdf"
-      },
-      "topics": [
-        "Youth Education and Societal Dynamics",
-        "Critical Theory and Philosophy",
-        "Gender, Feminism, and Media"
-      ],
-      "referenced_works_count": 762,
-      "url": "https://openalex.org/W4255899040"
-    },
-    {
-      "openalex_id": "W2519592399",
-      "doi": "10.1017/apa.2016.26",
-      "title": "The Arc of Personhood: Menkiti and Kant on Becoming and Being a Person",
-      "authors": [
-        {
-          "name": "Katrin Flikschuh",
-          "openalex_id": "A5077022478",
-          "orcid": "https://orcid.org/0000-0002-4585-6844"
-        }
-      ],
-      "publication_year": 2016,
-      "publication_date": "2016-01-01",
-      "abstract": "ABSTRACT: This article seeks to come to a better understanding of the account of normative personhood given by the Nigerian philosopher Ifeyani Menkiti by engaging it with that of Kant. The idea is not to adjudicate between the two accounts, but to explore the philosophical possibilities and constraints in both. I focus on the moral significance of the afterlife in each account. I engage Kant's doctrine of the postulates in support of Menkiti's defense of belief in this-worldly ancestral existence and evaluate Kant's moral commitment to belief in the immortality of the soul in the light of Menkiti's more social conception of the afterlife. I close with some comments on the general need for greater cross-cultural philosophical engagement.",
-      "cited_by_count": 30,
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "What would contemporary music scholarship look like if it was no longer imprinted with the disciplinary assumptions, boundaries and divisions inherited from the last century? This article proposes that a generative model for future music studies would take the form of a relational musicology. The model is drawn from the author's work; but signs of an incipient relational musicology are found scattered across recent research in musicology, ethnomusicology, and jazz and popular music studies. In support of such a development, the article calls for a reconfiguration of the boundaries between the subdisciplines of music study \u2013 notably musicology, ethnomusicology, music sociology and popular music studies \u2013 so as to render problematic the music/social opposition and achieve a new interdisciplinary settlement, one that launches the study of music onto new epistemological and ontological terrain. In proposing this direction, the article points to the limits of the vision of interdisciplinarity in music research that is more often articulated, one that \u2013 in the guise of a turn to practice or performance \u2013 sutures together the historically inclined, humanities model of musicology with the micro-social, musicologically inclined aspects of ethnomusicology. The article suggests, moreover, that this vision obscures other sources of renewal in music scholarship: those deriving from anthropology, social theory and history, and how they infuse the recent work gathered under the rubric of a relational musicology. As an alternative to the practice turn, a future direction is proposed that entails an expanded analytics of the social, cultural, material and temporal in music. The last part of the article takes the comparativist dimension of a relational musicology to four topics: questions of the social, technology, temporality and ontology.",
+      "cited_by_count": 280,
       "type": "article",
       "source": {
-        "name": "Journal of the American Philosophical Association",
+        "name": "Journal of the Royal Musical Association",
         "type": "journal",
         "issn": [
-          "2053-4477",
-          "2053-4485"
+          "0269-0403",
+          "1471-6933"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "bronze",
-        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/739676483BCC11F24244F8C0C931B42B/S2053447716000269a.pdf/div-class-title-the-arc-of-personhood-menkiti-and-kant-on-becoming-and-being-a-person-div.pdf"
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B18BEA6B906CBA06F672F33D20EE8296/S0269040300000906a.pdf/div-class-title-for-a-relational-musicology-music-and-interdisciplinarity-beyond-the-practice-turn-div.pdf"
       },
       "topics": [
-        "African cultural and philosophical studies",
-        "Political Philosophy and Ethics",
-        "Anthropological Studies and Insights"
+        "Diverse Musicological Studies",
+        "Music History and Culture",
+        "Musicology and Musical Analysis"
       ],
-      "referenced_works_count": 49,
-      "url": "https://openalex.org/W2519592399"
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W1521173870"
     },
     {
-      "openalex_id": "W2084498637",
-      "doi": "10.1163/15691640360699591",
-      "title": "The \"World\" of the Enlightenment to Come (Exception, Calculation, Sovereignty)",
-      "authors": [
-        {
-          "name": "Jacques Derrida",
-          "openalex_id": "A5109864576"
-        }
-      ],
-      "publication_year": 2003,
-      "publication_date": "2003-01-01",
-      "abstract": "Abstract Taking as its point of departure Edmund Husserl's 1935-36 text The Crisis of European Sciences, this essay attempts to develop a new conception of reason by means of a thoroughgoing critique of some ideas often used to support and define it. Because the notion of \"enlightenment\" has been tied since the time of Kant to a certain coming of age of reason or rationality, the \"enlightenment\" to come must at once draw upon the resources of this reason and open reason to some of the aporias it has traditionally rejected. Reducible neither to a simple irrationalism nor to a mere mode of calculative thought, such reason must ultimately challenge, it is argued, not only the sovereignty and identity of the (human) subject but the very concepts of sovereignty and identity. Only such a renewed thinking of reason or of what is reasonable, the essay suggests, can help us diagnose, analyze, and help treat some of the aporias posed by a whole host of contemporary issues, from cloning to the erosion of the nation-state to globalization and terrorism. Only in this way can we at once \"save the honor of reason\" - to use a phrase that runs throughout the essay - and help reorient the reason of politics, of the sciences, and, indeed, of philosophy along the lines of a more fundamental and urgent ethical imperative.",
-      "cited_by_count": 45,
-      "type": "article",
-      "source": {
-        "name": "Research in Phenomenology",
-        "type": "journal",
-        "issn": [
-          "0085-5553",
-          "1569-1640"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://brill.com/downloadpdf/journals/rip/33/1/article-p9_3.pdf"
-      },
-      "topics": [
-        "Phenomenology and Existential Philosophy",
-        "Philosophy, Ethics, and Existentialism",
-        "Critical Theory and Philosophy"
-      ],
-      "referenced_works_count": 2,
-      "url": "https://openalex.org/W2084498637"
-    },
-    {
-      "openalex_id": "W2997579782",
-      "doi": "10.15802/ampr.v0i16.187540",
-      "title": "PHILOSOPHICAL AND PSYCHOLOGICAL DIMENSIONS OF SOCIAL EXPECTATIONS OF PERSONALITY",
-      "authors": [
-        {
-          "name": "V. V. Khmil",
-          "openalex_id": "A5110709753",
-          "institutions": [
-            "Dnipro National University of Railway Transport named after Academician V. Lazaryan"
-          ]
-        },
-        {
-          "name": "Ihor Popovych",
-          "openalex_id": "A5056487456",
-          "orcid": "https://orcid.org/0000-0002-1663-111X",
-          "institutions": [
-            "Kherson State University"
-          ]
-        }
-      ],
-      "publication_year": 2019,
-      "publication_date": "2019-12-16",
-      "abstract": "Purpose. To analyse the philosophical and psychological contexts of social expectations of personality, to form general scientific provisions, to reveal the properties, patterns of formation, development and functioning of social expectations as a process, result of reflection and construction of social reality. Theoretical basis of the study is based on the phenomenology of E. Husserl, the social constructivism philosophy of L. S. Vygotskiy, P. Berger, T. Luckmann, K. J. Gergen, ideas of constructive alternativeism of G. Kelly, psychology of social expectations of a personality as the unity of the mental process, mental state and properties of expectations. Originality. Social expectations of personality are considered as philosophical and psychological dimensions of the study, presented by analysing expectations in social constructivism, externalizing, building a model of the expected future. The authors clarified some theoretical and methodological aspects of the study of patterns of social expectations in the reflection and construction of social reality. The role of social institutions in the formation of expectations is outlined. The poly-aspect of the investigated problems is shown. It is substantiated that formation, realization of social expectations in organization of interaction of personality and social environment is possible in the presence of subject, object and content of activity. Conclusions. Social expectations influence social behaviour and determine the behaviour of an individual, small contact group, community, or large mass of people. Social expectations are able to set specific requirements, norms, sanctions, ideals that participants of the process must follow or must not violate. The philosophical dimension of the study integrates the ontological, epistemological, axiological preconditions for the formation and realization of the social ideal, represented by the study of the expected future in the forms of utopia, eschatology and thanatology. Psychological dimension of the study has a sufficiently developed content orientation from the psychological content parameters of social expectations to the role of expectations in social institutions and various spheres of human life. Systematic, actionable, self-regulatory, and subjective approaches have constituted a verified system of interpreting the social expectations of personality as a process, a result of the reflection and construction of social reality. The topic of social expectations of personality is far from being completed, in our opinion it is promising to create a deeper philosophical concept of social expectations of the personality. The specific topics are of particular relevance in the context of socio-political uncertainty, domination of the mass consciousness, loss of national and cultural identity.",
-      "cited_by_count": 34,
-      "type": "article",
-      "source": {
-        "name": "Anthropological Measurements of Philosophical Research",
-        "type": "journal",
-        "issn": [
-          "2227-7242",
-          "2304-9685"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "http://ampr.diit.edu.ua/article/download/187540/189849"
-      },
-      "topics": [
-        "Psychology of Development and Education",
-        "Educational Methods and Teacher Development",
-        "Transactional Analysis in Psychotherapy"
-      ],
-      "referenced_works_count": 5,
-      "url": "https://openalex.org/W2997579782"
-    },
-    {
-      "openalex_id": "W2597734097",
-      "doi": "10.1017/s175297191700001x",
-      "title": "The conduct of history in International Relations: rethinking philosophy of history in IR theory",
-      "authors": [
-        {
-          "name": "Joseph MacKay",
-          "openalex_id": "A5082202847",
-          "orcid": "https://orcid.org/0000-0002-3945-315X",
-          "institutions": [
-            "Columbia University"
-          ]
-        },
-        {
-          "name": "Christopher David LaRoche",
-          "openalex_id": "A5087599366",
-          "orcid": "https://orcid.org/0000-0002-5501-0455",
-          "institutions": [
-            "University of Toronto"
-          ]
-        }
-      ],
-      "publication_year": 2017,
-      "publication_date": "2017-03-20",
-      "abstract": "IR scholars have made increasingly sophisticated use of historical analysis in the last two decades. To do so, they have appealed to theories or philosophies of history, tacitly or explicitly. However, the plurality of approaches to these theories has gone largely unsystematized. Nor have their implications been compared. Such historical\u2013theoretic orientations concern the \u2018problem of history\u2019: the theoretical question of how to make the facts of the past coherently intelligible. We aim to make these assumptions explicit, and to contrast them systematically. In so doing, we show theories of history are necessary: IR-theoretic research unavoidably has tacit or overt historical\u2013theoretic commitments. We locate the field\u2019s current historical commitments in a typology, along two axes. Theories of history may be either familiar to the observer or unfamiliar. They may also be linear, having a long-term trajectory, nonlinear, lacking such directionality, or multilinear, proceeding along multiple trajectories. This comparative exercise both excavates the field\u2019s sometimes-obscured commitments and shows some IR theorists unexpectedly share commitments, while others unexpectedly do not. We argue that better awareness of historical\u2013theoretic reasoning, embedded in all IR uses and invocations of history, may encourage the discipline become more genuinely plural.",
-      "cited_by_count": 46,
-      "type": "article",
-      "source": {
-        "name": "International Theory",
-        "type": "journal",
-        "issn": [
-          "1752-9719",
-          "1752-9727"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F4D72BA1A6CB1F7063C73B63896A195E/S175297191700001Xa.pdf/div-class-title-the-conduct-of-history-in-international-relations-rethinking-philosophy-of-history-in-ir-theory-div.pdf"
-      },
-      "topics": [
-        "International Relations and Foreign Policy",
-        "Military History and Strategy",
-        "Peacebuilding and International Security"
-      ],
-      "referenced_works_count": 194,
-      "url": "https://openalex.org/W2597734097"
-    },
-    {
-      "openalex_id": "W1507121061",
-      "doi": "10.22439/fs.v0i16.4121",
-      "title": "Foucault and Althusser: Epistemological Differences with Political Effects",
-      "authors": [
-        {
-          "name": "Andrew G. Ryder",
-          "openalex_id": "A5018776034",
-          "orcid": "https://orcid.org/0000-0003-3041-7168",
-          "institutions": [
-            "University of Pittsburgh"
-          ]
-        }
-      ],
-      "publication_year": 2013,
-      "publication_date": "2013-08-22",
-      "abstract": "Michel Foucault was at times critical of the Marxist tradition, and at other times more sympathetic. After his dismissal of Marx in The Order of Things, he conceded the existence of a more compelling, non-humanist version of this discourse. Louis Althusser\u2019s innovations are crucial for the existence of this second Marxism. While consideration of the relation between Foucault and Althusser varies between those who emphasize relations between State and capital, and conversely those who inscribe Marxist considerations into a micro-political account, the distinction between the two thinkers takes place earlier in the development of their respective outlooks. Foucault initially emphasized Marxism as an anthropological eschatology; he revises this argument, commending the possibility of an epistemological mutation of history inherent in Marx\u2019s thought. I locate crucial distinctions between Foucault and Althusser in the early work of the 1960s as inflecting relations in the seemingly more proximate work of the 1970s. In this approach, we can better examine Foucault\u2019s non-Marxist contentions in order to consider the reciprocal distinctions and contributions between these two forms of anti-humanism, providing the necessary groundwork for debates regarding the nature of subjectivity, the State, and revolution.",
-      "cited_by_count": 30,
-      "type": "article",
-      "source": {
-        "name": "Foucault Studies",
-        "type": "journal",
-        "issn": [
-          "1832-5203"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://rauli.cbs.dk/index.php/foucault-studies/article/download/4121/4537"
-      },
-      "topics": [
-        "Marxism and Critical Theory",
-        "Philosophy, Sociology, Political Theory",
-        "Political Economy and Marxism"
-      ],
-      "referenced_works_count": 1,
-      "url": "https://openalex.org/W1507121061"
-    },
-    {
-      "openalex_id": "W2402670577",
-      "doi": "10.3726/978-1-4539-1643-8",
-      "title": "The Ethics of Intercultural Communication",
-      "authors": [
-        {
-          "name": "Bo Shan",
-          "openalex_id": "A5057171437"
-        },
-        {
-          "name": "Clifford G. Christians",
-          "openalex_id": "A5109091061"
-        }
-      ],
-      "publication_year": 2015,
-      "publication_date": "2015-01-01",
-      "abstract": "Contents: Clifford Christians/Bo Shan: Moral Reasoning in Intercultural Media - Comparative Research on Chinese and Western Communication Ethics Bo Shan/Jincao Xiao: The Analects of Confucius and the Greek Classics: A Comparative Approach Clifford Christians: The Problem of Communitas in Western Moral Philosophy Hugues Hotier: The Islamic Veil in France: The Body That Communicates Jiamei Tang/Bo Shan: Derailed News Frames and Dynamic Cultural Hegemony: A Textual Analysis of 9/11 10th Anniversary Reports Hemant Shah: Framing White Privilege: Eliminating Ethnic Studies from Arizona Schools Xinya Liu: Moral Indifference or Unwillingness in Public Affairs? Comparing Chinese and Western News Discourse in Reporting Moral Issues Jing Xin/Donald Matheson: Strange and Familiar: The Othering of Chinese Writer Mo Yan in U.S. News Bo Shan/Xue Liu: Discourse Bias and Face-to-Face Negotiation: Intercultural Analysis of Coverage of the Wenchuan Earthquake Romayne Smith Fullerton/Margaret Jones Patterson: Crime News: Defining the Boundaries Xuewei Liu: Cultural Sojourners: A Study of Western Sub-cultural Musicians in China Bo Shan: The Self-Salvation Path of Communication Dan Yang: Intercultural News Reports and Intercultural Competence of Western Journalists in China Valerie Alia: Original Voices and New Paradigms: Indigenous Media and Social Transformation in Canada Patrick Lee Plaisance: Moral Motivation Within Media Cultures Sandra L. Borden/David E. Boeyink: Casuistry's Strengths for Intercultural Journalism Ethics: A Case in Point Chris Roberts: A Media Ethics Code for all Time Zones? The Global Use and Implications of the Society of Professional Journalists' Code Constructing an Intercultural Public Sphere Jack Lule: The Global Imaginary in Mumford and McLuhan Clifford Christians: The Ethics of Human Dignity in a Multicultural World Bo Shan: How Is Intercultural Communication Possible?",
-      "cited_by_count": 26,
-      "type": "book",
-      "source": null,
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.peterlang.com/library_access?document_id=1051673&product_form=ebook&publication_type=pdf"
-      },
-      "topics": [
-        "Rhetoric and Communication Studies"
-      ],
-      "referenced_works_count": 16,
-      "url": "https://openalex.org/W2402670577"
-    },
-    {
-      "openalex_id": "W4304123777",
-      "doi": "10.7146/nja.v31i64.134219",
-      "title": "Elements Matter",
-      "authors": [
-        {
-          "name": "Leon Gabriel",
-          "openalex_id": "A5037606760",
-          "orcid": "https://orcid.org/0000-0001-5262-6409"
-        },
-        {
-          "name": "Stefan H\u00f6lscher",
-          "openalex_id": "A5074375351"
-        },
-        {
-          "name": "J. P. Schad\u00e9",
-          "openalex_id": "A5062579863"
-        },
-        {
-          "name": "Ruth \u00c4. Schmidt",
-          "openalex_id": "A5017650565",
-          "orcid": "https://orcid.org/0000-0002-0528-7667"
-        }
-      ],
-      "publication_year": 2022,
-      "publication_date": "2022-10-10",
-      "abstract": "This contribution takes into focus elements as scenes of thought in order to contest our colonial, anthropocentric and extractivist mo-dernity: fires of burning fossil fuels, waves of the open sea, shores as the landscape of islands, clouds in the sky and beyond. We sug-gest that these motifs bear the possibility to examine the problems of our present as well as to develop other, differing and new rela-tionalities.",
-      "cited_by_count": 39,
-      "type": "article",
-      "source": {
-        "name": "The Nordic Journal of Aesthetics",
-        "type": "journal",
-        "issn": [
-          "2000-1452",
-          "2000-9607"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://tidsskrift.dk/nja/article/download/134219/179165"
-      },
-      "topics": [
-        "Geographies of human-animal interactions"
-      ],
-      "referenced_works_count": 15,
-      "url": "https://openalex.org/W4304123777"
-    },
-    {
-      "openalex_id": "W2017568523",
-      "doi": "10.1080/07075332.2014.900815",
-      "title": "Martin Wight, Western Values, and the Whig Tradition of International Thought",
-      "authors": [
-        {
-          "name": "Ian Hall",
-          "openalex_id": "A5069657219",
-          "orcid": "https://orcid.org/0000-0002-0397-2011",
-          "institutions": [
-            "Schlumberger (Ireland)"
-          ]
-        }
-      ],
-      "publication_year": 2014,
-      "publication_date": "2014-04-04",
-      "abstract": "Martin Wight is often regarded as a disengaged historian of international thought who avoided commentary on contemporary events and shunned opportunities to contribute to discussion over policy. This article argues that this interpretation is mistaken. It argues instead that Wight was deeply concerned with the practice of international relations, as well as the theory, and sought repeatedly to find and use different means to influence British foreign policy and world politics more generally. To that end, it concentrates on one particular effort: Wight's attempt to construct a set of Whig or Western values that he believed should guide the conduct of practitioners.",
-      "cited_by_count": 27,
-      "type": "article",
-      "source": {
-        "name": "The International History Review",
-        "type": "journal",
-        "issn": [
-          "0707-5332",
-          "1949-6540"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://openresearch-repository.anu.edu.au/bitstreams/38f532cf-3558-4f07-b53c-b6718efacba2/download"
-      },
-      "topics": [
-        "American Constitutional Law and Politics",
-        "Australian History and Society"
-      ],
-      "referenced_works_count": 61,
-      "url": "https://openalex.org/W2017568523"
-    },
-    {
-      "openalex_id": "W2598098786",
-      "doi": "10.3389/fsoc.2017.00003",
-      "title": "Modernity and the Idea of Progress",
-      "authors": [
-        {
-          "name": "Angelos Mouzakitis",
-          "openalex_id": "A5002778904",
-          "institutions": [
-            "University of Crete",
-            "Crete University Press"
-          ]
-        }
-      ],
-      "publication_year": 2017,
-      "publication_date": "2017-03-20",
-      "abstract": "This paper aims to show the centrality the concept of progress occupies explicitly and implicitly in social theory, in relation to the theorization and understanding of modernity; it also raises the question whether in times where Eurocentrism, logocentrism and indeed almost every claim of supremacy are rightly viewed with suspicion, it is possible to think of modernity without relying on some interpretation of the notion of progress. Arguably, the theme of progress, together with the complementary notion of decline, can be considered as a key-component of discourses concerning modernity and has played a major role in the shaping of social theory. Comte and Durkheim relied in different ways in the idea of progress and the same holds for Marxist accounts of social change. Even later sociological theories address modernity from the perspective of progress, Parsons being exemplary in this respect. Moreover, theoretical discourses adopting a critical or even hostile attitude against the modern project often question the idea of progress and are woven around the representation of modernity in terms of decline and regression into unreason, as e.g. Adorno and Horkheimer\u2019s Dialectic of Enightment. Arguably, the imagery of progress informs the distinction between society and community, which is also hidden behind Habermas\u2019s more recent theorization of societies in terms of systems and lifeworlds. Finally, the question regarding the possibility of partially disentangling the theorization of modernity from the idea of progress, is pursued via a critical assessment of Eisenstadt's multiple modernities and Wagner's theorization of modernity in terms of responses given to basic probl\u00e9matiques.",
-      "cited_by_count": 36,
-      "type": "article",
-      "source": {
-        "name": "Frontiers in Sociology",
-        "type": "journal",
-        "issn": [
-          "2297-7775"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.frontiersin.org/articles/10.3389/fsoc.2017.00003/pdf"
-      },
-      "topics": [
-        "Critical Theory and Philosophy",
-        "Political Economy and Marxism",
-        "Weber, Simmel, Sociological Theory"
-      ],
-      "referenced_works_count": 52,
-      "url": "https://openalex.org/W2598098786"
-    },
-    {
-      "openalex_id": "W3016383693",
-      "doi": "10.3726/b16974",
-      "title": "Advancing the Human Self",
-      "authors": [
-        {
-          "name": "Ewa Nowak",
-          "openalex_id": "A5033968512",
-          "orcid": "https://orcid.org/0000-0002-5722-7711"
-        }
-      ],
-      "publication_year": 2020,
-      "publication_date": "2020-03-31",
-      "abstract": "Whoever finds himself is superior to the world\" Syrian Thomas ' Gospel The aim in the title may sound a mission impossible-like in the light of the post-selfhood turn 1 that has been observed over the last two decades not only in analytical philosophy and the philosophy of mind but also in the so-called posthumanism\ufffd If we no longer live in a human world, why care about this \"central abstraction\" 2 projected by our minds, i\ufffde\ufffd, our self-identity?The problem is not only ontological and cognitive in nature -it is more anthropological, existential, social, and therapeutic\ufffd Philosophical anthropology used to formulate it with the Kantian question \"What is man?\"According to Robert Loaden, Kant's approach to the human being put an end to \"scholastic anthropology, \" 3 as it was useless for modern humans who had to revise their concept of human nature after the discovery indigenous nations with their different multicultural identities\ufffd However, Kant's concept of man as an autonomous subjectivity delivered a powerful counterbalance to reductionist concepts such as that of La Mettrie (L'homme machine, 1747)\ufffdIn contrast to these approaches, phenomenological and hermeneutical philosophy rather asked 'Who am I?' -as a unique human being with interiority (mental life) and exteriority (corporeality, embodiment)\ufffd Finally, analytical philosophy proclaimed non-egological and conceptions of the self\ufffd 4 Contemporary transhumanist scholars seem to follow Peter Strawson's concept, as they have begun talking about \"postpersons\" (Julian Savulescu) and post-selves in a radical human enhancement context\ufffd \"We are not essentially selves (\u2026) Being a self is 1 See Terry C\ufffd Muck, \"After selfhood: Constructing the religious self in a post-self age, \"",
-      "cited_by_count": 38,
-      "type": "book",
-      "source": {
-        "name": "Peter Lang D eBooks",
-        "type": "ebook platform",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.3726/b16974"
-      },
-      "topics": [
-        "Neuroethics, Human Enhancement, Biomedical Innovations",
-        "Phenomenology and Existential Philosophy",
-        "Mental Health and Psychiatry"
-      ],
-      "referenced_works_count": 210,
-      "url": "https://openalex.org/W3016383693"
-    },
-    {
-      "openalex_id": "W4286613513",
-      "doi": "10.1007/978-3-030-95062-0_9",
-      "title": "Hopeful Pessimism: The Kantian Mind at the End of All Things",
-      "authors": [
-        {
-          "name": "Andrew Chignell",
-          "openalex_id": "A5047101737",
-          "institutions": [
-            "Princeton University"
-          ]
-        }
-      ],
-      "publication_year": 2022,
-      "publication_date": "2022-01-01",
-      "abstract": "Abstract Kant\u2019s third question (\u201cWhat may I hope?\u201d) is underdiscussed in comparison to the other two, even though he himself took it to be the question that united his efforts in theoretical and practical philosophy. This is largely his own fault: in his discussion of the question he moves quickly from talking about rational hope to discussing the kind of Belief or faith ( Glaube ) that grounds it. Moreover, the canonical statements of his own moral proof do not seem to give hope any essential role to play. In this chapter I first consider the ways in which pre-Kantian authors muddied the distinction between what we would call \u201chope\u201d and \u201cexpectation.\u201d I then look at how Kant\u2019s views about hope evolve to the point where, by the time of the \u201cEnd of All Things\u201d essay of 1794, he seems to endorse a kind of hopeful pessimism about our this-worldly situation, at least. I then examine a version of Kant\u2019s moral proof that succeeds in locating a role for hope that is distinct from that of Belief, expectation, optimism, and so on. Finally, I turn to some contemporary work in two very different arenas \u2013 Anthropocene scholarship and Christian eschatology \u2013 in order to look at how the concepts of hope and optimism are deployed in those contexts. We will see that although some of the recent discourses about the \u201cGood Anthropocene\u201d slip beyond hope into full-blown optimism, most authors working on ecological and environmental topics are careful to keep the attitudes distinct. By contrast, there is a tendency among contemporary theologians to follow earlier Christian authors in slipping beyond mere hope to optimistic faith, and even to full-blown certainty.",
-      "cited_by_count": 13,
-      "type": "book-chapter",
-      "source": {
-        "name": "Boston studies in philosophy, religion and public life",
-        "type": "book series",
-        "issn": [
-          "2352-8206",
-          "2352-8214"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-95062-0_9.pdf"
-      },
-      "topics": [
-        "Religion, Ecology, and Ethics",
-        "Theology and Philosophy of Evil",
-        "Theological Perspectives and Practices"
-      ],
-      "referenced_works_count": 34,
-      "url": "https://openalex.org/W4286613513"
-    },
-    {
-      "openalex_id": "W4211210301",
-      "doi": "10.1007/s10699-015-9434-y",
-      "title": "Big Historical Foundations for Deep Future Speculations: Cosmic Evolution, Atechnogenesis, and Technocultural Civilization",
-      "authors": [
-        {
-          "name": "Cadell Last",
-          "openalex_id": "A5047239788",
-          "orcid": "https://orcid.org/0000-0002-2444-1009",
-          "institutions": [
-            "Vrije Universiteit Brussel"
-          ]
-        }
-      ],
-      "publication_year": 2015,
-      "publication_date": "2015-09-19",
-      "abstract": null,
-      "cited_by_count": 41,
-      "type": "article",
-      "source": {
-        "name": "Foundations of Science",
-        "type": "journal",
-        "issn": [
-          "1233-1821",
-          "1572-8471"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10699-015-9434-y.pdf"
-      },
-      "topics": [
-        "Space Science and Extraterrestrial Life",
-        "Earth Systems and Cosmic Evolution",
-        "Origins and Evolution of Life"
-      ],
-      "referenced_works_count": 416,
-      "url": "https://openalex.org/W4211210301"
-    },
-    {
-      "openalex_id": "W2973868370",
-      "doi": "10.17478/jegys.603574",
-      "title": "Urgency Education Morals of Sufism in Millennial Era",
-      "authors": [
-        {
-          "name": "Aahad M. Osman Gani",
-          "openalex_id": "A5089880674",
-          "orcid": "https://orcid.org/0000-0003-1799-1253"
-        }
-      ],
-      "publication_year": 2019,
-      "publication_date": "2019-09-15",
-      "abstract": "Sufism is morally defined as a character and attitude builder which satisfies the intellectual requirement through its philosophical approach. This act is practiced by every Muslim irrespective of their social status and region. However, there is a significant relevance with its use in the new millennial era, as it gives peace of mind and sharia discipline concurrently. The qualitative descriptive approach was utilized in this study, with data obtained from the library. The result show that Sufism moral education is urgently required, as it controls humans toward the right path, thereby, avoiding moral decadence, spiritual anomaly and suprematism of morality. Currently, reinterpretation and recontextualization of Sufism's spiritual valuesare needed to adequately face the challenges , in order to build a ritual and righteous social personality.",
-      "cited_by_count": 19,
-      "type": "article",
-      "source": {
-        "name": "Journal for the Education of Gifted Young Scientists",
-        "type": "journal",
-        "issn": [
-          "2149-360X"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://dergipark.org.tr/en/download/article-file/799891"
-      },
-      "topics": [
-        "Islamic Studies and Radicalism",
-        "Education and Islamic Studies",
-        "Asian Studies and History"
-      ],
-      "referenced_works_count": 10,
-      "url": "https://openalex.org/W2973868370"
-    },
-    {
-      "openalex_id": "W3006817716",
-      "doi": "10.3390/rel11030104",
-      "title": "Religion: A Source of Fundamentalism or A Safeguard Against It?",
-      "authors": [
-        {
-          "name": "Micha\u0142 Gierycz",
-          "openalex_id": "A5052828949",
-          "orcid": "https://orcid.org/0000-0002-0863-189X",
-          "institutions": [
-            "Institute of Political Science",
-            "Cardinal Stefan Wyszy\u0144ski University in Warsaw"
-          ]
-        }
-      ],
-      "publication_year": 2020,
-      "publication_date": "2020-02-26",
-      "abstract": "This article contributes to critical reflection on the political study approach towards the relations between religion and fundamentalism. In the context of post-secularism, in which the cognitive and moral role of religion for politics is quite widely recognised, the aim is to discuss three hypotheses. The first one argues that, contrary to what the majority of the subject\u2019s literature maintains, fundamentalism is not only a strictly religious phenomenon, but a specific attitude, able to evolve equally well on both religious and secular foundations. The second one implies that secularisation encourages, at least to an equal degree, both profane and religious fundamentalist tendencies. The third thesis asserts that religion, in its nature, constitutes a potential safeguard against fundamentalism. In the course of analysis, the pertinence of the above hypotheses are generally demonstrated. However, it is also indicated that the third point constitutes a mid-range theorem, accurately describing the contemporary specificity of Christianity, and especially Catholicism.",
-      "cited_by_count": 17,
-      "type": "article",
-      "source": {
-        "name": "Religions",
-        "type": "journal",
-        "issn": [
-          "2077-1444"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.mdpi.com/2077-1444/11/3/104/pdf?version=1584267687"
-      },
-      "topics": [
-        "Religion and Society Interactions",
-        "American Constitutional Law and Politics",
-        "Turkey's Politics and Society"
-      ],
-      "referenced_works_count": 30,
-      "url": "https://openalex.org/W3006817716"
-    },
-    {
-      "openalex_id": "W2273052950",
-      "doi": "10.13140/rg.2.1.5098.2643",
-      "title": "Christopher Small's Concept of Musicking: Toward a Theory for Choral Singing Pedagogy in Prison Contexts",
-      "authors": [
-        {
-          "name": "Mary L. Cohen",
-          "openalex_id": "A5029681942",
-          "orcid": "https://orcid.org/0000-0002-3391-3338"
-        }
-      ],
-      "publication_year": 2016,
-      "publication_date": "2016-01-01",
-      "abstract": null,
-      "cited_by_count": 43,
-      "type": "dissertation",
-      "source": {
-        "name": "KU ScholarWorks (The University of Kansas)",
-        "type": "repository",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://hdl.handle.net/1808/29289"
-      },
-      "topics": [
-        "Diverse Music Education Insights",
-        "Music Therapy and Health",
-        "Neuroscience and Music Perception"
-      ],
-      "referenced_works_count": 127,
-      "url": "https://openalex.org/W2273052950"
-    },
-    {
-      "openalex_id": "W2769395157",
+      "openalex_id": "W3125168479",
       "doi": null,
-      "title": "Treacherous Translation: Culture, Nationalism, and Colonialism in Korea and Japan from the 1910s to the 1960s",
+      "title": "Migration as Decolonization",
       "authors": [
         {
-          "name": "Serk-Bae Suh",
-          "openalex_id": "A5004876592"
+          "name": "E. Tendayi Achiume",
+          "openalex_id": "A5065560028"
         }
       ],
-      "publication_year": 2013,
-      "publication_date": "2013-10-01",
-      "abstract": "This book examines the role of translation\u00e2\u0080\u0094the rendering of texts and ideas from one language to another, as both act and trope\u00e2\u0080\u0094in shaping attitudes toward nationalism and colonialism in Korean and Japanese intellectual discourse between the time of Japan\u00e2\u0080\u0099s annexation of Korea in 1910 and the passing of the colonial generation in the mid-1960s. Drawing on Korean and Japanese texts ranging from critical essays to short stories produced in the colonial and postcolonial periods, it analyzes the ways in which Japanese colonial and Korean nationalist discourse pivoted on such concepts as language, literature, and culture.",
-      "cited_by_count": 27,
-      "type": "book",
+      "publication_year": 2019,
+      "publication_date": "2019-06-01",
+      "abstract": "International migration is a defining problem of our time, and central to this problem are the ethical intuitions that dominate thinking on migration and its governance.This Article challenges existing approaches to one particularly contentious form of international migration, as an important first step toward a novel and more ethical way of approaching problems of the movement of people across national borders.The prevailing doctrine of state sovereignty under international law today is that it entails the right to exclude nonnationals, with only limited exceptions.Whatever the scope of these exceptions, so-called economic migrants-those whose movement is motivated primarily by a desire for a better life-are typically beyond them.Whereas international refugee law and international human rights law impose restrictions on states' right to exclude nonnationals whose lives are endangered by the risk of certain forms of persecution in their countries of origin, no similar protections exist for economic migrants.International legal theorists have not fundamentally challenged this formulation of state sovereignty, which justifies the assertion of a largely unfettered right to exclude economic migrants.",
+      "cited_by_count": 207,
+      "type": "article",
       "source": {
         "name": "eScholarship (California Digital Library)",
         "type": "repository",
@@ -981,14 +533,559 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://escholarship.org/uc/item/3xr9f9dk"
+        "oa_url": "https://escholarship.org/uc/item/8m83b98j"
       },
       "topics": [
-        "Japanese History and Culture",
-        "Asian Culture and Media Studies"
+        "Migration, Refugees, and Integration",
+        "Migration and Labor Dynamics",
+        "Migration, Racism, and Human Rights"
       ],
       "referenced_works_count": 0,
-      "url": "https://openalex.org/W2769395157"
+      "url": "https://openalex.org/W3125168479"
+    },
+    {
+      "openalex_id": "W2978635483",
+      "doi": "10.1162/posc_e_00319",
+      "title": "Introduction: Debates on Experience and Empiricism in Nineteenth Century France",
+      "authors": [
+        {
+          "name": "Delphine Antoine-Mahut",
+          "openalex_id": "A5049193501",
+          "orcid": "https://orcid.org/0000-0002-8254-3097",
+          "institutions": [
+            "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+            "Centre National de la Recherche Scientifique",
+            "Institut d'Histoire des Repr\u00e9sentations et des Id\u00e9es dans les Modernit\u00e9s"
+          ]
+        },
+        {
+          "name": "Silvia Manzo",
+          "openalex_id": "A5033409572",
+          "orcid": "https://orcid.org/0000-0002-3944-7331",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "Universidad Nacional de La Plata"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-01",
+      "abstract": "The lasting effects of the debate over canon-formation during the 1980s affected the whole field of Humanities, which became increasingly engaged in interrogating the origin and function of the Western canon (Gorak 1991; Searle 1990). In philosophy, a great deal of criticism was, as a result, directed at the traditional narrative of seventeenth- and eighteenth-century philosophies\u2014a critique informed by postcolonialism (Park 2013) as well as feminist historiography (Shapiro 2016). D. F. Norton (1981), L. Loeb (1981) and many others1 attempted to demonstrate the weaknesses of the tripartite division between rationalism, empiricism and critical philosophy.2 As time went on, symptoms of dissatisfaction with what has been called the \u201cstandard narrative\u201d (Vanzo 2013) and the \u201cepistemological paradigm\u201d (Haakonssen 2004, 2006) only increased. Indeed, at present, a consensus has been reached that the narrative of the antagonism between \u201cContinental rationalism\u201d and \u201cBritish empiricism\u201d, and the consequent Aufhebung provided by \u201cGerman critical philosophy,\u201d has been unable to make sense of the complexity, variety and dynamics of early modern philosophy. Such a reconstruction oversimplifies and distorts the complex picture of the actual positions and conceptual relations through which the canonical figures associated with these labels were intertwined (Cottingham 1988, pp. 1\u20134; Woolhouse 1988, pp. 1\u20133; Ayers 1998; Haakonssen 2004, 2006; Huenemann 2008, pp. 1\u20132; Fraenkel et al. 2011, pp. 1\u20136; Gaukroger 2010, pp. 155\u201357).What is more, the flaws of this reductive narrative have ultimately had negative consequences for our representation not only of the philosophical developments of that period but of the nineteenth century as well, by replicating the tripartite division \u201cempiricism, rationalism, critical philosophy\u201d under the label \u201cempiricism/sensualism, spiritualism, idealism.\u201d Accordingly, depictions of the various \u201cnational philosophies\u201d of the nineteenth century have usually been put into the following terms: to British \u201cempiricism\u201d corresponds French \u201cspiritualism\u201d and German \u201cidealism.\u201d On the other hand, such representations are also informed by the existence of intra-national oppositions. In the case of France, French spiritualism is interpreted as a response to various forms of id\u00e9ologie (Antoine Destutt de Tracy, 1754\u20131836), as well as being seen as a reaction to positivism (Auguste Comte, 1798\u20131857), a school that recovered the empiricist legacy of \u00c9tienne Bonnott de Condillac\u2019s \u201csensualism\u201d (1714\u20131780), heir of John Locke\u2019s (1632\u20131704) \u201cempiricism.\u201d Furthermore, Franco-German relations have been interpreted in terms of a fight on both sides of the Rhine to produce the most rational and least hypothetical proposal for a new psychology and a new metaphysics. From the British point of view, France and Germany are led astray from the correct path of a genuine philosophy of experience. Moreover, when it comes to the renewal of psychology and metaphysics, Germany is seen to triumph over a defeated France on the grounds of both experience and rationality. Such an account customarily concludes that from Pierre Maine de Biran (1766\u20131824)3 to Henri Bergson (1859\u20131941) nothing happened that was philosophically coherent in France, because the epistemological potential of its experimentation shifted from philosophy to the positive sciences, and also because its contributions to new developments in psychology and metaphysics bore fruit on the other side of the Rhine.Criticism of the canon often involves a historiographical commitment to dealing with the past in a certain way. In general, those who criticize the misuse of the traditional categories oppose the \u201cappropriationist\u201d historiographic approach, considering that, through them, features that had their origin much later were improperly transferred to the past. Relatedly, adherents to a critical review are much more sensitive to \u201ccontextualist\u201d reconstructions, which seek to read the philosophical past in approximately the same terms in which it was thought by its own protagonists, through attention to its context (Laerke et al. 2013). Such an approach has been dismissed as \u201cantiquarianism\u201d by its detractors. Several authors with a more sympathetic approach to contextualism have pointed out that the distinction between rationalism and empiricism is only rooted in the last quarter of the eighteenth century (Norton 1981, pp. 331\u201333; Cottingham 1988, p. 2; Haakonssen 2004; Vanzo 2013, 2014, 2016). While Norton and Haakonssen argue that initial indications of it can be recognized in those reconstructions of the philosophical past found in the works of Immanuel Kant (1724\u20131804) or Thomas Reid (1710\u20131796), Vanzo\u2019s recent investigations (2016) have cogently demonstrated that, strictly speaking, it is only in Kant\u2019s work that the earliest antecedent of this dichotomy can be found. Furthermore, what was only sketched in Kant is standardized in the histories of the German Kantian school, such as those of Karl L. Reinhold (1757\u20131823) Wilhelm G. Tennemann (1761\u20131819) and Johann G. Buhle (1763\u20131821). With the institutionalization of philosophy, this narrative began to dominate German intellectual life, particularly through the works of Tennemann and Buhle. Thus, the nineteenth century became a momentous period for canon formation, not only because it was the moment in which the standard narrative took shape, but also because it was then when the philosophical canon became institutionalized in the educational system (Schneider 1999).According to the standard narrative, empiricism was to be typically understood as exclusive reliance upon sense data to attain knowledge. By the same token, science has often been considered the field of application for philosophical empiricism, paradigmatically by means of the \u201cexperimental method\u201d allegedly endorsed by the Scientific Revolution. Bacon, Locke and Newton were recognized as the champions of this way of thinking and practicing science.4 However, reappraisals of the standard narrative have challenged such a view. P. Anstey (2005) has suggested replacing \u201cempiricism\u201d by \u201cexperimental philosophy,\u201d a category used by the historical actors themselves in opposition to \u201cspeculative philosophy.\u201d5 Other studies have offered a more nuanced and convincing interpretation: for example, A. Charrak (2009) has distinguished two forms of empiricism. On the one hand, a \u201cgenetic empiricism\u201d (empirisme de la gen\u00e8se), dating back to the seventeenth century, that attends to the origins of knowledge and analyses its progressive growth; and, on the other hand, an \u201cempiricism of constitution\u201d (empirisme de la constitution), developed in the second half of the eighteenth century, that attempts to explain the constitution of positive scientific objects. More recently, S. Bodenmann and A.-L. Rey (2018) have pointed to the existence of a plurality of empiricisms and claimed that eighteenth-century empiricisms integrated rather than rejected rationalism.6Drawing on the aforementioned interrogation of the origin and function of the canon, this special issue studies the concept of experience and of empiricism during the nineteenth century. It concentrates on the reflections and debates around these concepts by representatives of French eclecticism and spiritualism, particularly (but not only) in their exchange with their German counterparts. The papers collected in this volume will contribute to showing the extent to which these debates exhibited a much more diverse, complex and nuanced understanding of experience and empiricism than has been the case for adherents of the standard narrative. Particularly, it will demonstrate how this debate was formed in a specific location, France, where spiritualism was institutionally dominant. It is precisely the historiographical narrative of spiritualism as dualistic and inhospitable to the positive sciences that has for a long time relegated to the shadows the actual interactions that took place between spiritualist authors and their interlocutors of other persuasions. As a result, this special issue will point out that the historiographical categories empiricism, rationalism and criticism and the nineteenth-century labels sensualism, spiritualism, idealism are ideological constructs that obscure, hide and overlook the complicated contestations around experience ongoing between historians of philosophy of various persuasions (Joseph-Marie Deg\u00e9rando [1772\u20131842] and Tennemann) within the dominant eclectic and spiritualist school itself (Victor Cousin [1792\u20131867]), between various strands of post-Kantian philosophy (Cousin and Friedrich W. J. Schelling [1775\u20131854]), and among those spiritualisms competing with that of Cousin (Paul Janet [1823\u20131899]).In the particular case of France, the classificatory categories applied to philosophical schools were subject to critical assessment, readjustment and transformation by two key figures, whose role in forging the canon cannot be underestimated: Deg\u00e9rando and, above all, Cousin. Deg\u00e9rando was a prominent public figure, who both occupied various high-level government positions, and, although he has often been identified as an id\u00e9ologue of the \u201cthird generation\u201d (Picavet 1891, pp. 101, 505\u2013518; Daled 2005, p. 27), other approaches prefer to characterize him as an eclectic, a thinker of synthesis, rather than as a fully-committed id\u00e9ologue (Chappey et al. 2014, pp. 12\u201313, 20). Throughout his life, Deg\u00e9rando maintained intellectual links with Germany, notably with the Berlin Academy of Sciences, the main representative of what has been called the \u201cempiricism of constitution\u201d (Charrak 2009, 2018). Moreover, he became known in the philosophical field through his treatise De la g\u00e9n\u00e9ration des connaissances humaines (Deg\u00e9rando 1802), that took the prize in a competition sponsored by the Berlin Academy of Sciences on the question of the origin of knowledge.7 At the same time, he authored Histoire compar\u00e9e des syst\u00e8mes de philosophie, one of the first French general histories of philosophy. The first edition of this work, published between 1802 and 1804 before the start of the Cousinian era, had an important reception in Europe, to the point that it was soon later translated by Tennemann. In addition, it was highly valued by the Scottish Dugald Stewart (1753\u20131828), a representative of the Scottish Enlightenment and an influential figure on both Deg\u00e9rando and Cousin (Daled 2005). The Histoire compar\u00e9e set the tone and the terminology for later accounts.In turn, Cousin personified the \u201cState Philosopher\u201d (philosophe d\u2019Etat) par excellence (Vermeren 1995). On the one hand, he personally took on all of the institutional functions relevant to the establishment of a \u201cState Philosophy\u201d: Professor of History of early modern philosophy at the Sorbonne, director of the \u00c9cole Normale, Counsellor of State, a peer of the realm, a member of the French Academy, director of the Academy of Moral and Political Sciences, Minister for Public Instruction, president of the agr\u00e9gation8 jury and in charge of appointing teachers throughout France as well as of the syllabus. No doubt, this indicates some success at the institutional level\u2014he was the main actor of the time in forging and establishing the canon which dominated the French educational system. Besides, Cousin has been considered as the founder of a philosophie fran\u00e7aise, consisting in a syncretic eclecticism (Antoine-Mahut &amp; Whistler eds., 2019), neither purely German, nor purely Scottish,9 and a metaphysics based on a narrow interpretation of the Cartesian cogito. However, he fell short of creating a long-standing philosophical school. And such a defeat is to be discerned in the fact that today French syllabuses have space for Comte\u2019s philosophy but not for Cousin and his followers. Moreover, contemporary scholars express doubts about Cousin really belonging to \u201ctrue\u201d French spiritualism.10 Thus, Cousin\u2019s undertaking represents both an institutional triumph and a philosophical failure.In terms of our special issue, the initial stage of debate over the label empiricism at the very beginning of the nineteenth century is examined in Silvia Manzo\u2019s article, which compares the historiographical approaches of Deg\u00e9rando and Tennemann. Both authors judged that \u201cempiricism\u201d required substantial reform to provide a theoretical foundation for knowledge. Moreover, they shared the goal of \u201cpacifying\u201d the philosophical battlefield, by constructing a middle way\u2014that is, a system that would overcome the excesses and extremes exhibited by other systems. Nonetheless, in their attempts to distinguish proper experience from \u201crough empiricism\u201d neither of them agreed as to the meaning of \u201cempiricism\u201d nor as to the solutions to the problems posed by it. Whereas Deg\u00e9rando embraced the Baconian path of natural historical \u201cphilosophy of experience\u201d (philosophie de l\u2019exp\u00e9rience) and thought that Kant in fact adopted empiricist tenets, Tennemann held that Baconianism was empiricist and that Kant\u2019s critical philosophy was the sole possible way of overcoming its flaws. In addition, Manzo\u2019s article provides new insight into the first French reactions towards Kantianism and Kantian historiography, by showing that Deg\u00e9rando\u2019s disagreements with critical philosophy in this respect were in sharp contrast to the earlier reception by Charles Villers (1765\u20131815).Interestingly enough, the posthumous edition (1847) of Deg\u00e9rando\u2019s Histoire compar\u00e9e rehabilitated the French philosophy of experience, as developed both by Pierre Gassendi (1592\u20131655), the so-called \u201csensualist\u201d philosophers of the eighteenth century, and the exemplar of Cousin\u2019s own spiritualism: Ren\u00e9 Descartes (1596\u20131650). While, in Deg\u00e9rando\u2019s first edition (1802\u20134), the Descartes of Part IV of Discours de la m\u00e9thode (1637) and of the second M\u00e9ditation m\u00e9taphysique (1640) was seen as inhibiting the progress of the philosophy of experience in France, in the latter 1847 edition, Descartes came to be considered as one of the most significant representatives of the very same philosophy of experience, owing to his physiological writings, the Passions de l\u2019\u00e2me (1649) and his correspondence with Princess Elisabeth (Antoine-Mahut and Whistler eds., 2020). About three decades earlier, in 1811, Stewart placed Descartes in the same lineage, and portrayed him as the father of \u201cexperimental Philosophy of the Mind.\u201d11 Such an account emphasizes the continuities instead of the confrontations between Baconianism and Cartesianism. In this manner, the two opposed interpretations of the cogito that Maine de Biran distinguished in 1819, the empiricist one and the \u201cpure\u201d spiritualist one, were articulated in harmony, rather than opposed.12The next stage of our survey is to be found in Delphine Antoine-Mahut\u2019s essay, which studies the evolution of Cousin\u2019s attitude to experience in the field of psychology. Early in his career, Cousin exhibited a positive recovery of the Baconian and Condillacian legacy in order to thereby found a new psychology. Accordingly, experience takes the form of a sort of self-observation that attempts to transform the collection of sensible, voluntary, and rational facts of consciousness into scientific facts. This methodological roadmap, laid claim to and adopted by the members of the Cousinian r\u00e9giment, was later abandoned in favor of a dualist and ontological turn, which, according to the same members of this r\u00e9giment, fell back into the excesses of a hidden metaphysics already denounced by Condillac and his positivist heirs. Thus, it is because of Cousin\u2019s failure to give psychology a truly experimental scope, and not because he ruled out such a goal, that his philosophy failed, even if at the same time his program triumphed at the institutional level. At the same time and despite himself, Cousin opened the way to other forms of spiritualism, much more anxious to exploit the positivist traces in his early works. In this sense, Cousin also became implicated in the history of \u201cexperimental psychology.\u201dThere were two different reactions to Cousin\u2019s attempts to build a concept of experience compatible with a metaphysics of ontological pretensions. On the one hand, the young French Cousinians judged it to be outright impossible to establish a metaphysical view of experience, instead of identifying observation with experimentation in order to establish a truly empirical and clinical psychology. On the other hand, Cousin\u2019s German readers rethought Cousin\u2019s project by experience as experience in order to an the first of reaction to Cousin\u2019s the case of a spiritualist and a key figure in the renewal of philosophical psychology. with in the field of psychology at the same time, a renewal of philosophical spiritualism, by creating space for a that shared of with the experimental psychology of the nineteenth century. Furthermore, he was engaged in spiritualist psychology at the educational and level. with the clinical experience of Janet denounced the and form of observation by and, following the of and his German he experimentation in the In addition, he on the of the French which used as an experimental means of and understanding In this became a way of on this experimental approach, Janet a by means of which psychology came to be in all its clinical At the same time, Janet an new spiritualism, of the most that had been by its positivist to the institutionally dominant of In this Comte\u2019s criticism to Cousinian was seen as a for spiritualism as but as the of this new experimental of reaction to Cousin\u2019s to build a new concept of experience is in essay, which through interactions with Schelling what was to a of \u201cGerman not in opposition to empiricism, on the in the of a The of empirical metaphysics posed by its British and French were to the of the of a that Cousin\u2019s to the British and French not him to at least that claim that Cousin and Schelling were opposed on this Whistler that they both by a of empiricism\u201d that they claimed had been in the of critical to a time when these categories had not been in a dominant historiography, the collected in this special issue to that, the and categories representative of the standard of different the nineteenth century to and conceptual between and German philosophers and Thus, Deg\u00e9rando\u2019s cannot be interpreted as a variety of the French id\u00e9ologie it was developed through with and German In addition, even if it highly valued the Kantian philosophy, it it. In turn, Cousin upon the legacy of Bacon, before it as means of to as well as German philosophy. a reaction is the of an as by the exchange between Cousin and attempts to French spiritualism were not only out of French but also out of the and transformation of and from German and Scottish this whole picture more, that the institutional and approach to the of the canon by the standard narrative has and the philosophical history of Daled Rey survey of the evolution of and between historiographical categories indicates that of the origins and of knowledge were in the nineteenth century in terms of the functions and of experience. The same for the of metaphysics, which were at the of early modern to reform philosophy. Moreover, this had a on the constitution of psychology and its with other such as metaphysics and was at in these interactions was the of the of philosophy itself and, by of considered as to or different from it. The of the meaning of and its as psychology throughout the period and thereby affected the legacy of Condillac and that of Kant as the other hand, the both Cousin\u2019s spiritualism and spiritualisms make that spiritualist philosophy was not much of experience from Bacon, John Locke or Thomas on the one hand, or from Pierre Gassendi and de on the but rather in and with it possible to philosophy\u201d by on the philosophy rather than on the and by through its from rather than by on what it 2013). in of this of experience and empiricism, takes on the form of a metaphysics that to put itself in with positive It became one of the foundation of in the nineteenth it is a of this history that more of the canon has",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Perspectives on Science",
+        "type": "journal",
+        "issn": [
+          "1063-6145",
+          "1530-9274"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://direct.mit.edu/posc/article-pdf/27/5/643/1790811/posc_e_00319.pdf"
+      },
+      "topics": [
+        "Historical and Literary Studies",
+        "Historical Linguistics and Language Studies",
+        "Historical and Literary Analyses"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W2978635483"
+    },
+    {
+      "openalex_id": "W3193935740",
+      "doi": "10.1177/26317877211036714",
+      "title": "Celebrating the End of Enlightenment: Organization Theory in the Age of the Anthropocene and Gaia (and why neither is the solution to our ecological crisis)",
+      "authors": [
+        {
+          "name": "Subhabrata Bobby Banerjee",
+          "openalex_id": "A5052007670",
+          "orcid": "https://orcid.org/0000-0002-8699-6368",
+          "institutions": [
+            "City, University of London"
+          ]
+        },
+        {
+          "name": "Diane\u2010Laure Arjali\u00e8s",
+          "openalex_id": "A5086570023",
+          "orcid": "https://orcid.org/0000-0002-4070-9191",
+          "institutions": [
+            "Western University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-25",
+      "abstract": "This article aims to change the terms of the conversation about the ecological crisis. We argue that the human\u2013nature dualism, a product of Enlightenment thought and primarily responsible for the ecological crisis, cannot be the basis for any meaningful solutions. We show how more recent Western imaginaries like the Anthropocene and Gaia proposed to overcome the separation of nature from culture are also based on exclusions that reflect Enlightenment rationality and legacies of colonialism. In sharp contrast, we show that Indigenous philosophies that preceded the Enlightenment by thousands of years have developed systems of knowledge based on a relational ontology that reflects profound connections between humans and nature. We demonstrate that such forms of knowledge have been systematically subjugated by Western scholarship based on arguments inspired by Enlightenment ideals of rationality and empiricism. A decolonial imagination will be able to generate new insights into understanding and addressing the ecological crisis. We therefore call for organization and management scholars to challenge the anthropomorphic biases and the economism that dominates our field through a respectful engagement with Indigenous worldviews.",
+      "cited_by_count": 110,
+      "type": "article",
+      "source": {
+        "name": "Organization Theory",
+        "type": "journal",
+        "issn": [
+          "2631-7877"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/26317877211036714"
+      },
+      "topics": [
+        "Management and Organizational Studies",
+        "Complex Systems and Decision Making",
+        "Management Theory and Practice"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W3193935740"
+    },
+    {
+      "openalex_id": "W3152896236",
+      "doi": "10.1007/s11191-021-00205-2",
+      "title": "Scientific Literacy and Social Transformation",
+      "authors": [
+        {
+          "name": "Liliana Valladares",
+          "openalex_id": "A5058988757",
+          "orcid": "https://orcid.org/0000-0001-9616-7021",
+          "institutions": [
+            "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-10",
+      "abstract": null,
+      "cited_by_count": 275,
+      "type": "article",
+      "source": {
+        "name": "Science & Education",
+        "type": "journal",
+        "issn": [
+          "0926-7220",
+          "1573-1901"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-021-00205-2.pdf"
+      },
+      "topics": [
+        "Global Educational Policies and Reforms",
+        "Educational Strategies and Epistemologies",
+        "Environmental Education and Sustainability"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W3152896236"
+    },
+    {
+      "openalex_id": "W2157038993",
+      "doi": "10.1093/migration/mns008",
+      "title": "A geography of extra-territorial citizenship: Explanations of external voting \u2020",
+      "authors": [
+        {
+          "name": "Michael Collyer",
+          "openalex_id": "A5073059867",
+          "orcid": "https://orcid.org/0000-0003-0407-5600",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-13",
+      "abstract": "Geographers have a long-standing interest in citizenship as the link between political and territorial membership. Yet, even when key political processes associated with citizenship, such as voting or lobbying government institutions are carried out from beyond the territory there is a more complex relationship with territory than the simple \u2018inside/outside\u2019 division that external voting suggests. This article develops a specifically geographical analysis of the territorial context of voting practices. Although a number of general explanations have been offered for the introduction of external voting, and for the nature of the systems introduced it seems that contextual, country-specific factors concerning the history and nature of the relationship between the government and emigrant groups are usually determinant.",
+      "cited_by_count": 169,
+      "type": "article",
+      "source": {
+        "name": "Migration Studies",
+        "type": "journal",
+        "issn": [
+          "2049-5838",
+          "2049-5846"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/migration/article-pdf/2/1/55/19569731/mns008.pdf"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration",
+        "Diaspora, migration, transnational identity",
+        "Migration and Labor Dynamics"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2157038993"
+    },
+    {
+      "openalex_id": "W2171426841",
+      "doi": null,
+      "title": "A Powerless Companion: Human Rights in the Age of Neoliberalism",
+      "authors": [
+        {
+          "name": "Samuel Moyn",
+          "openalex_id": "A5066990155",
+          "orcid": "https://orcid.org/0000-0001-5152-956X"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "It is increasingly common to claim that international human rights law is a neoliberal phenomenon. And certainly the common timing is right: the human rights revolution and the victory of market fundamentalism have been simultaneous. In an important new essay, Marxist international lawyer Susan Marks compares Naomi Klein's The Shock Doctrine with my own recent history of international human rights, which emphasizes the 1970s as the moment of breakthrough for their ascent. Both histories, Marks observes, ascribe the newfound visibility of human rights to their promise to transcend formerly attractive political options east and west that seemed inadequate or even dangerous. \"For her too,\" Marks acknowledges of Klein's treatment, \"the human rights movement as we know it today took shape during the 1970s. And for her too, a defining characteristic of the new movement was its non-political creed.\"",
+      "cited_by_count": 187,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:16073952"
+      },
+      "topics": [
+        "Human Rights and Development",
+        "Historical and Contemporary Political Dynamics",
+        "International Law and Human Rights"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2171426841"
+    },
+    {
+      "openalex_id": "W3206412785",
+      "doi": "10.1007/s10551-021-04971-5",
+      "title": "Decolonizing Deliberative Democracy: Perspectives from Below",
+      "authors": [
+        {
+          "name": "Subhabrata Bobby Banerjee",
+          "openalex_id": "A5052007670",
+          "orcid": "https://orcid.org/0000-0002-8699-6368",
+          "institutions": [
+            "City, University of London"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-16",
+      "abstract": null,
+      "cited_by_count": 81,
+      "type": "article",
+      "source": {
+        "name": "Journal of Business Ethics",
+        "type": "journal",
+        "issn": [
+          "0167-4544",
+          "1573-0697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10551-021-04971-5.pdf"
+      },
+      "topics": [
+        "Development, Ethics, and Society",
+        "Social Media and Politics",
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 171,
+      "url": "https://openalex.org/W3206412785"
+    },
+    {
+      "openalex_id": "W2303473023",
+      "doi": "10.1007/s10734-016-9994-y",
+      "title": "Is a posthumanist Bildung possible? Reclaiming the promise of Bildung for contemporary higher education",
+      "authors": [
+        {
+          "name": "Carol Taylor",
+          "openalex_id": "A5021829253",
+          "orcid": "https://orcid.org/0000-0002-0914-8461",
+          "institutions": [
+            "Sheffield Hallam University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-23",
+      "abstract": "My central argument in this article is that the notion of Bildung may offer conceptual sustenance to those who wish to develop educative practices to supplement or contest the prevalence and privileging of market and economic imperatives in higher education, which configure teaching and learning as an object available to measurement. I pursue this argument by making the case for an ethical posthuman Bildung which recognises the inseparability of knowing and being, the materiality of educative relations, and the need to install an ecology of ethical relations at the centre of educational practice in higher education. Such a re-conceptualisation situates Bildung not purely as an individual goal but as a process of ecologies and relationships. The article explores Bildung as a flexible concept, via three theoretical lenses, and notes that it has always been subject to continuing revision in response to changing social and educational contexts. In proposing the possibility of, and need for, a posthuman Bildung, the articles offer a critical review of the promise of Bildung and outline some of the radical ways that a posthuman Bildung might reinvigorate conceptualisations of contemporary higher education.",
+      "cited_by_count": 109,
+      "type": "article",
+      "source": {
+        "name": "Higher Education",
+        "type": "journal",
+        "issn": [
+          "0018-1560",
+          "1573-174X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs10734-016-9994-y.pdf"
+      },
+      "topics": [
+        "Posthumanist Ethics and Activism",
+        "Digital Education and Society",
+        "Education, Philosophy, and Society"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2303473023"
+    },
+    {
+      "openalex_id": "W1603011375",
+      "doi": "10.2307/j.ctt183gzx9",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        },
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. logging, pulping and manufacturing processes are expected to conform to the environmental standards of the country of origin.",
+      "cited_by_count": 126,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/45623/1/625231.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W1603011375"
+    },
+    {
+      "openalex_id": "W2763759406",
+      "doi": "10.1080/03057267.2017.1384649",
+      "title": "Use of the concept of <i>Bildung</i> in the international science education literature, its potential, and implications for teaching and learning",
+      "authors": [
+        {
+          "name": "Jesper Sj\u00f6str\u00f6m",
+          "openalex_id": "A5072176466",
+          "orcid": "https://orcid.org/0000-0002-3083-1716",
+          "institutions": [
+            "Malm\u00f6 University"
+          ]
+        },
+        {
+          "name": "Nadja Frerichs",
+          "openalex_id": "A5090464076",
+          "orcid": "https://orcid.org/0000-0002-3418-8094",
+          "institutions": [
+            "University of Bremen"
+          ]
+        },
+        {
+          "name": "V\u00e2nia Gomes Zuin",
+          "openalex_id": "A5018551124",
+          "orcid": "https://orcid.org/0000-0003-4452-4570",
+          "institutions": [
+            "Universidade Federal de S\u00e3o Carlos"
+          ]
+        },
+        {
+          "name": "Ingo Eilks",
+          "openalex_id": "A5077406641",
+          "orcid": "https://orcid.org/0000-0003-0453-4491",
+          "institutions": [
+            "University of Bremen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-03",
+      "abstract": "Bildung is a complex educational concept that emerged in Germany in the mid eighteenth century. Especially in Germany and Scandinavia conceptions of Bildung became the general philosophical framework to guide both formal and informal education. Bildung concerns the whole range of education from setting educational objectives in general towards its particular operation in different school subjects, among them science education. In more recent years, the concept of Bildung has slowly begun to be used in the international science and environmental education literature. This paper presents a systematic analysis of the international literature concerning the use of the concept of Bildung, with a view on its meaning in and for science education. At least five versions based on or closely connected to the tradition of Bildung can be identified: (a) Von Humboldt's classical Bildung, (b) Anglo-American liberal education, (c) Scandinavian folk-Bildung, (d) democratic education, and (e) critical-hermeneutic Bildung. These different understandings of Bildung are discussed in relation to their historical roots, educational theory, critique, and their relation to philosophies of science education, such as different visions of scientific literacy. Based on critical-hermeneutic Bildung, the paper theoretically develops views of critical-reflexive Bildung as an educational metatheory. It is connected to ideas of transformative learning, sustainability education and a Vision III of scientific literacy. Finally, some implications of critical-reflexive Bildung for teaching and learning are discussed.",
+      "cited_by_count": 174,
+      "type": "article",
+      "source": {
+        "name": "Studies in Science Education",
+        "type": "journal",
+        "issn": [
+          "0305-7267",
+          "1940-8412"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/epdf/10.1080/03057267.2017.1384649?needAccess=true&role=button"
+      },
+      "topics": [
+        "Science Education and Pedagogy",
+        "Educational Strategies and Epistemologies",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 141,
+      "url": "https://openalex.org/W2763759406"
+    },
+    {
+      "openalex_id": "W4234956358",
+      "doi": "10.1007/978-3-030-69978-9",
+      "title": "Artificial Intelligence for a Better Future",
+      "authors": [
+        {
+          "name": "Bernd Carsten Stahl",
+          "openalex_id": "A5042194412",
+          "orcid": "https://orcid.org/0000-0002-4058-4456",
+          "institutions": [
+            "De Montfort University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "This open access book offers a novel conceptualization of the AI ethics debate by applying the discourse of innovation ecosystems to AI",
+      "cited_by_count": 248,
+      "type": "book",
+      "source": {
+        "name": "SpringerBriefs in research and innovation governance",
+        "type": "book series",
+        "issn": [
+          "2452-0519",
+          "2452-0527"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-69978-9.pdf"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 136,
+      "url": "https://openalex.org/W4234956358"
+    },
+    {
+      "openalex_id": "W2337176373",
+      "doi": "10.1093/isr/viv018",
+      "title": "\u201cContrapuntal Reading\u201d as a Method, an Ethos, and a Metaphor for Global IR",
+      "authors": [
+        {
+          "name": "P\u0131nar Bilgin",
+          "openalex_id": "A5066551568",
+          "orcid": "https://orcid.org/0000-0002-7326-8329",
+          "institutions": [
+            "Bilkent University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-19",
+      "abstract": "How to approach Global International Relations (IR)? This is a question asked by students of IR who recognize the limits of our field while expressing their concern that those who strive for a Global IR have been less-than-clear about the \u201chow to?\u201d question. In this article, I point to Edward W. Said\u2019s approach to \u201ccontrapuntal reading\u201d as one way of approaching Global IR that embraces diversity and reflects multiple and overlapping experiences and perspectives of humankind. More specifically, I suggest that contrapuntal reading offers students of IR a method of studying world politics that focuses on our \u201cintertwined and overlapping histories,\u201d past and present; an ethos for approaching IR through raising the \u201ccontrapuntal awareness\u201d of its students and offering an anchor for those who translate the findings of different perspectives; and a metaphor for thinking about Global IR as regional and global, one and many.",
+      "cited_by_count": 97,
+      "type": "article",
+      "source": {
+        "name": "International Studies Review",
+        "type": "journal",
+        "issn": [
+          "1468-2486",
+          "1521-9488"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/isr/article-pdf/18/1/134/6956557/viv018.pdf"
+      },
+      "topics": [
+        "International Relations and Foreign Policy",
+        "International Development and Aid",
+        "Political Conflict and Governance"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W2337176373"
+    },
+    {
+      "openalex_id": "W2991221827",
+      "doi": null,
+      "title": "Histories of International Law: Significance and Problems for a Critical View",
+      "authors": [
+        {
+          "name": "Martti Koskenniemi",
+          "openalex_id": "A5111382963",
+          "institutions": [
+            "Finnish Society of Sciences and Letters"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": null,
+      "cited_by_count": 70,
+      "type": "article",
+      "source": {
+        "name": "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+        "type": "journal",
+        "issn": [
+          "0784-1272",
+          "1459-7780"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10138/230993"
+      },
+      "topics": [
+        "Historical and Contemporary Political Dynamics",
+        "International Law and Human Rights"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2991221827"
+    },
+    {
+      "openalex_id": "W3137001812",
+      "doi": "10.1057/s41312-021-00086-1",
+      "title": "Conceptualizing epistemic violence: an interdisciplinary assemblage for IR",
+      "authors": [
+        {
+          "name": "Claudia Brunner",
+          "openalex_id": "A5045082985",
+          "orcid": "https://orcid.org/0000-0003-3085-3146",
+          "institutions": [
+            "University of Klagenfurt"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-13",
+      "abstract": "Abstract While many forms of violence shape the global world order, the disciplines devoted to international politics are often content with reductionist concepts of violence; knowledge and knowledge production are more often than not seen as altogether antithetical to direct and physical harm. At the same time, global entanglements of knowledge with violence have increasingly come into view in the course of the ongoing (de-)colonial turn. After more than 30 years, Gayatri C. Spivak\u2019s feminist postcolonial understanding of epistemic violence is still the preeminent theoretical touchstone for addressing this issue. By providing an interdisciplinary understanding of lesser known conceptions of epistemic violence, I open up additional routes for deploying the term in the analysis, theorization, and critique of international politics. Based on this assemblage, I frame epistemic violence along the decolonial concept of a coloniality of power, knowledge, and Being and finally consider how we can possibly undo epistemic violence while un/doing IR.",
+      "cited_by_count": 99,
+      "type": "article",
+      "source": {
+        "name": "International Politics Reviews",
+        "type": "journal",
+        "issn": [
+          "2050-2982",
+          "2050-2990"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/s41312-021-00086-1.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Gender, Security, and Conflict",
+        "Feminist Epistemology and Gender Studies"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W3137001812"
     }
   ],
   "count": 25,

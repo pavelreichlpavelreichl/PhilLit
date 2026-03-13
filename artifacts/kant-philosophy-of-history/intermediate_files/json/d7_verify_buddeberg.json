@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S1369415419000165
+[verify_paper.py] DOI verified: Kant on the Role of Religion for Moral Progress...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S1369415419000165"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s1369415419000165",
+      "title": "Kant on the Role of Religion for Moral Progress",
+      "authors": [
+        {
+          "family": "Buddeberg",
+          "given": "Eva"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Kantian Review",
+      "volume": "24",
+      "issue": "3",
+      "page": "335-357",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s1369415419000165"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

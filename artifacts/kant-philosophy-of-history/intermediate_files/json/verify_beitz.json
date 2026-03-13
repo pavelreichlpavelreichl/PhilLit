@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/1-4020-3847-X_2"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/1-4020-3847-x_2",
+      "title": "Cosmopolitanism and Global Justice",
+      "authors": [
+        {
+          "family": "Beitz",
+          "given": "Charles R."
+        }
+      ],
+      "editors": [],
+      "year": 2005,
+      "container_title": "Studies in Global Justice",
+      "volume": "",
+      "issue": "",
+      "page": "11-27",
+      "publisher": "Springer-Verlag",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/1-4020-3847-x_2"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

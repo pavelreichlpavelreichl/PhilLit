@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1046/J.1351-0487.2003.00348.X"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1046/j.1351-0487.2003.00348.x",
+      "title": "J\u00fcrgen Habermas's Theory of Cosmopolitanism",
+      "authors": [
+        {
+          "family": "Fine",
+          "given": "Robert"
+        },
+        {
+          "family": "Smith",
+          "given": "Will"
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "Constellations",
+      "volume": "10",
+      "issue": "4",
+      "page": "469-487",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1046/j.1351-0487.2003.00348.x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

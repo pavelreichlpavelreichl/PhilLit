@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3998/mpub.5036715"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3998/mpub.5036715",
+      "title": "Kant's International Relations",
+      "authors": [
+        {
+          "family": "Molloy",
+          "given": "Sean"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "University of Michigan Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3998/mpub.5036715"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

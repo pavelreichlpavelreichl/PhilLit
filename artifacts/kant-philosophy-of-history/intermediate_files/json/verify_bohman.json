@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Perpetual Peace Essays on Kant's Cosmopolitan Ideal",
+    "author": "Bohman",
+    "year": 1997
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (26.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

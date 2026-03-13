@@ -1,0 +1,37 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "7d569916ec1640e1e6246d0d2ada60e9ba7dd23d",
+      "title": "From Kant to Sade: a fragment of the history of philosophy in the Dialectic of Enlightenment",
+      "authors": [
+        {
+          "name": "D. James",
+          "authorId": "145884422"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1080/09608788.2018.1437537",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7d569916ec1640e1e6246d0d2ada60e9ba7dd23d",
+      "venue": "",
+      "journal": {
+        "name": "British Journal for the History of Philosophy",
+        "pages": "557 - 577",
+        "volume": "26"
+      },
+      "publicationTypes": null,
+      "_queryId": "7d569916ec1640e1e6246d0d2ada60e9ba7dd23d"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

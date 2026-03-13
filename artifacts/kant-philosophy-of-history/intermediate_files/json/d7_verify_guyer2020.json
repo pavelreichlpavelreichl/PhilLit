@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1093/oso/9780198850335.003.0013
+[verify_paper.py] DOI verified: Mendelssohn, Kant, and the Possibility of Progress...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/oso/9780198850335.003.0013"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/oso/9780198850335.003.0013",
+      "title": "Mendelssohn, Kant, and the Possibility of Progress",
+      "authors": [
+        {
+          "family": "Guyer",
+          "given": "Paul"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Reason and Experience in Mendelssohn and Kant",
+      "volume": "",
+      "issue": "",
+      "page": "321-338",
+      "publisher": "Oxford University PressOxford",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/oso/9780198850335.003.0013"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

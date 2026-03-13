@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/09608788.2018.1437537
+[verify_paper.py] DOI verified: From Kant to Sade: a fragment of the history of ph...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/09608788.2018.1437537"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09608788.2018.1437537",
+      "title": "From Kant to Sade: a fragment of the history of philosophy in the<i>Dialectic of Enlightenment</i>",
+      "authors": [
+        {
+          "family": "James",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "British Journal for the History of Philosophy",
+      "volume": "26",
+      "issue": "3",
+      "page": "557-577",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/09608788.2018.1437537"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

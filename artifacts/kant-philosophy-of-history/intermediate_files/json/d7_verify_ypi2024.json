@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/13698230.2024.2344386
+[verify_paper.py] DOI verified: The moral ought in conjectural history...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/13698230.2024.2344386"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/13698230.2024.2344386",
+      "title": "The moral ought in conjectural history",
+      "authors": [
+        {
+          "family": "Ypi",
+          "given": "Lea"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Critical Review of International Social and Political Philosophy",
+      "volume": "27",
+      "issue": "6",
+      "page": "991-1010",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/13698230.2024.2344386"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

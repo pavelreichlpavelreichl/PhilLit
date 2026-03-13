@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Jurgen Habermas Theory of Cosmopolitanism",
+    "author": "Fine Smith",
+    "year": 2003
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Author 'Fine Smith' not found in result authors",
+      "recoverable": false
+    }
+  ]
+}

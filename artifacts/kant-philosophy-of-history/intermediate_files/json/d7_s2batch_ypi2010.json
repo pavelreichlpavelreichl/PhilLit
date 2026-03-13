@@ -1,0 +1,38 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Rate limited, backing off (attempt 1/5)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "089c748d04a299a3e5cb12a59c19fe1ad8a946f9",
+      "title": "Natura Daedala Rerum? On the Justification of Historical Progress in Kant's Guarantee of Perpetual Peace",
+      "authors": [
+        {
+          "name": "Lea Ypi",
+          "authorId": "93245994"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 15,
+      "doi": "10.1017/S1369415400001497",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/089c748d04a299a3e5cb12a59c19fe1ad8a946f9",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "118 - 148",
+        "volume": "14"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1017/S1369415400001497"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

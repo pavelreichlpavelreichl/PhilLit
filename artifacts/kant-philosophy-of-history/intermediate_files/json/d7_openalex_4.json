@@ -1,0 +1,1929 @@
+[search_openalex.py] Searching OpenAlex: 'moral progress evidence philosophy contemporary' (year=2015-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_b188358956df369c)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "moral progress evidence philosophy contemporary",
+  "results": [
+    {
+      "openalex_id": "W4246307630",
+      "doi": "10.4324/9781315576930",
+      "title": "Diagnostic Cultures",
+      "authors": [
+        {
+          "name": "Svend Brinkmann",
+          "openalex_id": "A5088127190",
+          "orcid": "https://orcid.org/0000-0001-7579-1212"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-04-14",
+      "abstract": "Some studies estimate that each year, around a quarter of the population of Western countries will suffer from at least one mental disorder. Should this be interpreted as evidence for the progress of psychiatry, a discipline that is now able to identify and treat mental illnesses that have always existed, or might it be the case that modern life somehow creates new conditions, or social pathologies? This book argues that in fact something more fundamental has been taking place in recent years: the development of diagnostic cultures. Taking account of the phenomenon of patients themselves 'pushing for' pathologization - and acknowledging therefore that this is not simply a case of psychiatry pursuing an agenda of 'medicalisation from above' - this volume examines the emerging trend towards interpreting our sufferings in terms of psychiatric conceptions and diagnostic categories. Drawing on new empirical case studies of psychological diagnoses, including depression and ADHD, and employing both cultural-psychological and sociological analyses, it charts the development of contemporary diagnostic cultures and asks whether, in transforming existential, moral and political concerns into individual psychiatric disorders, we risk losing sight of the larger historical and social forces that affect our lives. A ground-breaking examination of the shift towards the pathologization of suffering and the dangers that this presents to human self-understanding, Diagnostic Cultures will be of interest to scholars of social theory and philosophy, the sociology of culture, psychology and the sociology health and medicine.",
+      "cited_by_count": 122,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Historical Psychiatry and Medical Practices",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4246307630"
+    },
+    {
+      "openalex_id": "W2239486811",
+      "doi": "10.1159/000435926",
+      "title": "Moral Identity and Developmental Theory",
+      "authors": [
+        {
+          "name": "Daniel K. Lapsley",
+          "openalex_id": "A5054626497",
+          "orcid": "https://orcid.org/0000-0001-6104-6852",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "The notion that self-identity and morality are deeply implicated has long-standing roots in both ethical theory and psychology. In ethical theory it is evident in Harry Frankfurt's [1971] account of what it means to be a person: A person (as opposed to a wanton) is someone who cares about morality. A person cares about the desirability of one's desires (second-order desires) and then wishes to will them all the way to action (second-order volitions). Similarly, Charles Taylor [1989] argued that identity is defined by reference to things that have significance for us. It is the result of strong evaluation about what is worthy or unworthy, and these discriminations are made against a horizon of significance that frames and constitutes who we are as persons. He writes, \u201cMy identity is defined by the commitments and identifications which provide the frame or horizon within which I can try to determine from case to case what is good or valuable, or what ought to be done or what I endorse or oppose\u201d [Taylor, 1989, p. 27].The affinity of selfhood and morality is a theme in several psychological traditions as well. Erikson [1968, p. 39] argued, for example, that an ethical capacity is the \u201ctrue criterion of identity,\u201d but he also noted that \u201cidentity and fidelity are necessary for ethical strength\u201d [Erikson, 1964, p. 126]. This suggests that moral identity is the clear goal of both moral and identity development and that in the moral person the two developmental tracks are ideally conjoined. Similarly, Damon and Hart [1982] showed that, within each domain of the \u201cMe Self\u201d (physical, active, social, psychological), the highest level of self-understanding implicates a moral point of view. This suggests that the moral self is the clear outcome of self-development [Lapsley, 2005]. Indeed, recent research has shown that morality is considered indispensable to selfhood; it is the moral self that is essential to our identity, more than personality traits, memory, or desires [Strohminger and Nichols, 2014]. It may well be that, for all the contingent facts about ourselves, it is our moral integrity that is the necessary fact of the \u201creal me\u201d [Carr, 2001].Of course few have done more than Blasi [1984, 1985] to elevate the importance of moral identity in post-Kohlberg moral development research. For Blasi, the moral person is someone whose very selfhood is constructed on moral grounds; it is someone whose desires reflect a wholehearted commitment to morality. Morality is essential, important, and central to self-understanding; and, to the extent that not everyone prioritizes morality in this way, it is also a dimension of individual differences.Blasi's account of moral self-identity struck a chord. It encouraged reflection on the link between personal agency and the construction of moral ideals. It raised questions about how best to understand moral character. It opened up possibilities for engaging other psychological literatures, particularly those regarding personality and cognition, with the goal of deriving robust integrative models of moral functioning [Lapsley & Stey, 2014]. It is implicated in research on the moral ideal self [Hardy, Walker, Olsen, Woodbury, & Hickman, 2014], moral exemplars [e.g., Colby & Damon, 1992; Walker & Frimer, 2007], and social-cognitive accounts of moral personality [Aquino & Reed, 2002; Lapsley & Narvaez, 2004].From these perspectives, Krettenauer and Hertz [this issue] assembled what they call the \u201cstandard model\u201d of moral identity: Moral identity is the degree to which being a moral person is important to an individual's identity [Hardy & Carlo, 2011]. The goal of moral identity development, on the standard account, is the integration of self and morality; it is the integration of values with motivational and emotional systems. The authors add an important codicil to the standard account: The integration of self and morality is not available to children. Childhood, on this account, is \u201cvoid of identity.\u201dBut the authors think that Blasian moral identity has been given enough time to show its mettle and has not delivered all that it promised. It promised to offer a resolution of the judgment-action gap, but there are doubts about whether moral identity is a better predictor of behavior than moral affect. It implied a developmental model that has not been adequately tested, let alone vindicated. For example, indices of moral identity are uncorrelated with age over the course of adolescence and emerging adulthood. Krettenauer and Hertz are concerned to understand why the developmental claims of the standard model have proved unavailing and to offer a number of recommendations by way of remedy.In their view one reason for the paucity of developmental research is the \u201ctop-down logic\u201d that has characterized research on moral identity. This means that extant research focuses on the measurement of moral identity in adolescents and young adults and has neglected charting the developmental trajectories that get us to adult manifestations. A second reason is that current (adult-centric) measurement strategies are insensitive to the developmental features of moral identity even if developmental research were undertaken. So, on their view, we need both a new conceptual understanding of moral identity and new ways to measure it. Certainly, both are welcome.Krettenauer and Hertz propose a way of rescuing the developmental claims of moral identity by linking it to three domains that show more developmental promise. One might find evidence of development in literatures that track the increasing differentiation and integration of self-development. Harter [2012] showed, for example, that self-conceptions are both increasingly differentiated as one moves from early to late adolescence but also more deeply integrated. Hence the rhythm of development bids the adolescent to differentiate real versus ideal selves, or display multiple selves across different contexts, or create self-evaluations that differ across domains, but, at the same time, integrate disparate selves into a higher-order generalization, create a global sense of self-worth, or coordinate disparate and contradictory aspects of the self into a coherent self-system. Perhaps something like this can be deployed to understand the rhythm of moral identity development.Self-determination theory is also held out as a promising source of developmental claims. The continuum of self-determination moves from several forms of extrinsic regulation (external, introjected, identified, integrated) to authentic internal self-regulation where the self is experienced as the locus of causal agency [Ryan & Deci, 2000]. Perhaps this continuum is a model of how moral identity development might proceed. Finally, one might look for developmental themes in life story narratives [e.g., McAdams, 2009; McAdams & Pals, 2006]. For example, moral identity development could be a matter of creating a life story but one that follows either an essentialist (where the focus is on self-traits) or narrative line. In the narrative approach, a life story is constructed in a way that brings coherence to past and future conceptions of self-identity.This is perhaps enough to reprise the major themes of Krettenauer and Hertz's thesis. What is attractive about the proposal is just how strongly integrative it is. It folds the \u201cself-importance\u201d aspect of moral identity within the context of what Harter [2012] has to say about differentiation and integration in the development of the self. It locates moral identity as a moment in the growth of internal motivation as outlined in self-determination theory. It holds out a place for moral self-identity in the way we make sense of our lives through personal narrative.Hence, self-important moral traits will show differentiation and integration; behavior will be self-regulated increasingly by internal sources of motivation and be connected to larger narratives of the responsible self-as-agent. Indeed, the narrative understanding of the responsible self anticipates connections to important new constructs [e.g., moral agency; see Pasupathi & Wainryb, 2010]. Moreover, as the authors point out, their scheme aligns with three layers of personality as conceptualized by McAdams [McAdams, 2009; McAdams & Olson, 2010; McAdams & Pals, 2006], a conceptualization that has strong heuristic value.These are entirely plausible and welcome suggestions. Indeed, Krettenauer and Hertz propose a highly interesting and possibly field-expanding contribution to moral identity theory to the extent that it burnishes the developmental claims of the theory. Yet there are grounds for caution. My concern is that the proposal overstates its developmental promise and gives slight notice to the real strengths of extant theoretical approaches which seem to offer a much more promising basis for building the developmental case for moral identity.One problem is that, of the three alternatives, only the differentiation-integration angle is explicitly developmental. The authors themselves seem deeply ambivalent about the developmental bona fides of the narrative level of abstraction; and the external, introjected, identified, and integrated modes of external regulation in the continuum of self-determination are characteristic adaptations to social contexts and are not stages of development, as the authors note. Moreover, the fact that all four modes can be motivating to the self-same individual seems like a problem for a developmental theory (without further exposition) and not a mere caveat (as the authors would have it). And in self-determination theory, the importance of autonomy-supporting contexts cannot be overstated, so a moral identity theory premised on self-determination would have to include a contextual or situational element that is thinly described in the present account. A social-cognitive approach does much better on this score, as I will argue below.The authors blame the top-down logic of current approaches to moral identity for the current lack of developmental specification. But this cannot be correct. The so-called top-down logic is, in fact, required of developmental accounts that accord with the orthogenetic principle [Werner, 1957]. The authors implicitly commit to an orthogenetic account of development in their embrace of the differentiation-integration of self-development. Indeed, Harter [2012] appeals to differentiation-integration just to underscore the cognitive developmental aspects of self-construction.But, if any developmental process accords with the orthogenetic principle, it is cognitive development. Here a conception of the end-point is crucial for making sense of the developmental processes. The top-down logic makes developmental explanation possible. The end-point makes reference to a standard that allows one to distinguish progressive development from mere change, and the standard is instantiated in the conceptualization of the end-point. Put differently, developmental change, if it is to count as an instance of development, is evaluated in terms of how closely it approximates the final stage of the developmental process [Kitchener, 1983]. Indeed, \u201cthe developmental end-state is a normative standard of reference by means of which we can evaluate the direction of development and its degree of progress towards this goal\u201d [Kitchener, 1986, p. 29]. Far from an impediment to developmental analysis, a conceptualization of the end-state is utterly required. Hence, the authors cannot simultaneously reject (what they call) top-down logic while also touting an approach to self-development (e.g., in terms of increasing differentiation-integration) that requires it.There is also a sense in which the authors appear to have given up on moral identity development, or else have overstated the developmental promise of the approach they favor. More than once they remind readers that there is no moral identity in childhood and that all the action is in adolescence and young adulthood. Apparently there is not much action for all that given that moral identity does not appear to be correlated with age over this period. But surely correlations with age over a restricted range have little probative value and are an ambiguous indicator of development in any event.Yet even if we accept the authors' conclusion that the lack of correlations with age during adolescence counts against the standard model, it would seem odd that the remedy is to completely abandon childhood in the search for developmental precursors. To do so leaves us in a far worse place than the standard model that does not give up on early developmental precursors of moral identity. The authors do acknowledge some evidence of moral-self integration in childhood but do not follow the implications of this for establishing a developmental line for moral self-identity in young adulthood. Instead, we are referred to the personological approach favored by McAdams [McAdams, 2009; McAdams & Pals, 2006] for our developmental intuitions.The difficulty is that the \u201cnew Big Five\u201d is not a theory of development but rather a taxonomy of perspectives that frame a unified science of personality. It is more metatheory than theory. It tells us where to look for moral personality (e.g., in dispositional traits, characteristic adaptations, self-defining life narratives) but not with any specificity for the purposes of theory-building. I agree with the authors that personal life story narratives are a hugely important component of any theory of moral identity, but we get no closer to a developmental story by waving our hands at \u201ccharacteristic adaptations\u201d or \u201cdispositional traits.\u201d Here we are simply naming things that must have preceded construction of life story narratives. What we have not done is the hard work of articulating a theory of development that yields moral identity (even as life story narratives) as an outcome. With the approach favored by the authors, we have substituted a taxonomy of categories relevant for personality for developmental theory and hence are no closer to a developmental analysis of moral identity.But we are closer to a developmental analysis of moral identity than the authors acknowledge. Although Krettenauer and Hertz mention Blasi's sadly neglected account of identity modes, they pass over his own seven-stage developmental account of moral character that ranges from early life to adulthood [Blasi, 2005]. At the highest stage, there comes into clear focus the notion of \u201cwholeheartedness\u201d [a notion derived from Frankfurt, 1988] that refers to a commitment to structure the will around moral desires. Wholehearted commitment to moral desires, to the moral good, becomes an aspect of identity to the extent that not to act in accordance with the moral will is unthinkable. It is hard to say whether this sequence has empirical promise, but we should also not conclude too hastily that childhood is a theoretical void with nothing of interest to contribute to a developmental story for moral identity.In my view, the social-cognitive account of moral self-identity has more resources for achieving what Krettenauer and Hertz say they want, which is a theory that accounts for behavior and has a developmental story to tell (and one that reaches all the way down into early childhood). Aquino and colleagues, for example, have developed an impressive research program that documents the many powerful ways that moral-identity centrality moderates behavior of all kinds and in many settings [e.g., Aquino, Freeman, Reed, & Lim, 2009]. This research program has shown that our self-concept is a m\u00e9lange of different identities of which morality is but one and that the key variables of interest are not so much differentiation-integration but rather the availability and accessibility of moral identity as a social-cognitive construct. The chronicity of social-cognitive-moral schemes is the defining feature of moral personality [Lapsley & Narvaez, 2004]. Moreover, social-cognitive theories of moral personality readily account for the dynamic interaction between persons and contexts, for \u201csituationism\u201d in the display of moral behavior, and for individual differences. And there is a plausible developmental story, too.A plausible developmental account of the moral personality would not begin in adolescence, as Krettenauer and Hertz might prefer it, but in early childhood [e.g., Lapsley & Hill, 2009; Lapsley & Narvaez, 2004]. This account must have several features. It must track the sort of developmental change that yields adult moral identity as an outcome. It must pick out notions of wholeheartedness but also key social-cognitive variables such as availability, accessibility, and chronicity. It should also anticipate novel facts, some of which are corroborated [following Lakatos, 1978].Where should we find the developmental source of wholeheartedness that characterizes the standard model of adult moral identity? Perhaps it is found in the emergence of conscience and the committed compliance of young children to sensitive and responsive adult caregivers [Kochanska, 2002a]. Children with a strong history of committed compliance to parents are likely to see themselves as embracing parents' values and, on this basis, construct a moral self that regulates future behavior [Kochanska, 2002b]. Indeed, in one study Kochanska, Koenig, Barry, Kim, and Yoon [2010] showed that toddlers with a strong history of internalized \u201cout-of-sight\u201d compliance (at 25-52 months) were competent, engaged, and prosocial at 80 months of age. But this effect was mediated at 67 months by the moral self. Kochanska et al. surmised that the self-regulation of the moral self might be due to the high (chronic) accessibility of moral schemas, which is precisely the mechanism anticipated by social-cognitive accounts of moral self-identity [Lapsley & Narvaez, 2004; Narvaez & Lapsley, 2009].We have also attempted to articulate a developmental account of the moral self from a social-cognitive perspective [Lapsley & Hill, 2009; Lapsley & Narvaez, 2004]. On this account, moral chronicity is built on the foundation of generalized event representations that characterize early sociopersonality development [Thompson, 1998]. These prototypic knowledge structures are progressively elaborated in the early dialogues with caregivers who help children review, structure, and consolidate memories in script-like fashion [Fivush, Kuebli, & Clubb, 1992]. Autobiographical memory is also constructed within this \u201cweb of interlocution.\u201d Parents help children organize events into personally relevant autobiographical memories which provide action-guiding scripts that become frequently practiced, habitual, and automatic. A sense of the morality can become a part of the child's autobiographical narrative to the extent that parents reference norms, standards, and values in their dialogic interactions. In this way, parents help children identify morally relevant features of their experience and encourage the formation of social-cognitive schemas that are chronically accessible. One attraction of this model is that it provides direct developmental lineage between the autobiographical narratives of concern to adult moral identity with the emergence of autobiographical self-narratives in early childhood.Krettenauer and Hertz make a real contribution to the ongoing articulation of moral identity theory. Every theory can use a little help, and their appeal to self-determination theory, to the orthogenesis of self-concept development, and to life-course personal narratives are useful emendations. I hope it leads to productive new lines of research. But the at the of their that it is all by an for a developmental theory, is The personological approach that is requires developmental specification. It to show how developmental in childhood the of moral identity in adolescence and and it seems to do I think the social-cognitive approach that I is an It is deeply integrative with personality theory, it is a robust predictor of behavior, it accounts for contextual and and there is a plausible developmental that us to adult forms of moral self-identity development. Although there are for moral identity theory to the three lines of research by the authors, with the of developmental research is not one of",
+      "cited_by_count": 3824,
+      "type": "article",
+      "source": {
+        "name": "Human Development",
+        "type": "journal",
+        "issn": [
+          "0018-716X",
+          "1423-0054"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://karger.com/hde/article-pdf/58/3/164/2898162/000435926.pdf"
+      },
+      "topics": [
+        "Social and Intergroup Psychology",
+        "Cultural Differences and Values",
+        "Ethics in Business and Education"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2239486811"
+    },
+    {
+      "openalex_id": "W2593502661",
+      "doi": null,
+      "title": "Diagnostic Cultures:A Cultural Approach to the Pathologization of Modern Life",
+      "authors": [
+        {
+          "name": "Svend Brinkmann",
+          "openalex_id": "A5088127190",
+          "orcid": "https://orcid.org/0000-0001-7579-1212",
+          "institutions": [
+            "Institut f\u00fcr Medien- und Kommunikationspolitik"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Some studies estimate that each year, around a quarter of the population of Western countries will suffer from at least one mental disorder. Should this be interpreted as evidence for the progress of psychiatry, a discipline that is now able to identify and treat mental illnesses that have always existed, or might it be the case that modern life somehow creates new conditions, or social pathologies? This book argues that in fact something more fundamental has been taking place in recent years: the development of diagnostic cultures. Taking account of the phenomenon of patients themselves 'pushing for' pathologization - and acknowledging therefore that this is not simply a case of psychiatry pursuing an agenda of 'medicalisation from above' - this volume examines the emerging trend towards interpreting our sufferings in terms of psychiatric conceptions and diagnostic categories. Drawing on new empirical case studies of psychological diagnoses, including depression and ADHD, and employing both cultural-psychological and sociological analyses, it charts the development of contemporary diagnostic cultures and asks whether, in transforming existential, moral and political concerns into individual psychiatric disorders, we risk losing sight of the larger historical and social forces that affect our lives. A ground-breaking examination of the shift towards the pathologization of suffering and the dangers that this presents to human self-understanding, Diagnostic Cultures will be of interest to scholars of social theory and philosophy, the sociology of culture, psychology and the sociology health and medicine.",
+      "cited_by_count": 65,
+      "type": "book",
+      "source": {
+        "name": "VBN Forskningsportal (Aalborg Universitet)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2593502661"
+    },
+    {
+      "openalex_id": "W3016902371",
+      "doi": "10.1038/s41562-020-0884-z",
+      "title": "Using social and behavioural science to support COVID-19 pandemic response",
+      "authors": [
+        {
+          "name": "Jay Joseph Van Bavel",
+          "openalex_id": "A5055444532",
+          "orcid": "https://orcid.org/0000-0002-2520-0442",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Katherine Baicker",
+          "openalex_id": "A5042023473",
+          "orcid": "https://orcid.org/0000-0001-5960-3058",
+          "institutions": [
+            "University of Chicago"
+          ]
+        },
+        {
+          "name": "Paulo S. Boggio",
+          "openalex_id": "A5082168520",
+          "orcid": "https://orcid.org/0000-0002-6109-0447",
+          "institutions": [
+            "Universidade Presbiteriana Mackenzie"
+          ]
+        },
+        {
+          "name": "Valerio Capraro",
+          "openalex_id": "A5068651250",
+          "orcid": "https://orcid.org/0000-0002-0579-0166",
+          "institutions": [
+            "Middlesex University"
+          ]
+        },
+        {
+          "name": "Aleksandra Cichocka",
+          "openalex_id": "A5001068690",
+          "orcid": "https://orcid.org/0000-0003-1703-1586",
+          "institutions": [
+            "Nicolaus Copernicus University",
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "Mina Cikara",
+          "openalex_id": "A5017619946",
+          "orcid": "https://orcid.org/0000-0002-6612-4474",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Molly J. Crockett",
+          "openalex_id": "A5014931127",
+          "orcid": "https://orcid.org/0000-0001-8800-410X",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Alia J. Crum",
+          "openalex_id": "A5052244076",
+          "orcid": "https://orcid.org/0000-0002-0892-1811",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Karen M. Douglas",
+          "openalex_id": "A5087650169",
+          "orcid": "https://orcid.org/0000-0002-0381-6924",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "James Druckman",
+          "openalex_id": "A5063647785",
+          "orcid": "https://orcid.org/0000-0002-1249-6790",
+          "institutions": [
+            "Northwestern University"
+          ]
+        },
+        {
+          "name": "John Drury",
+          "openalex_id": "A5080252472",
+          "orcid": "https://orcid.org/0000-0002-7748-5128",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Oeindrila Dube",
+          "openalex_id": "A5008239895",
+          "institutions": [
+            "University of Chicago"
+          ]
+        },
+        {
+          "name": "Naomi Ellemers",
+          "openalex_id": "A5067477814",
+          "orcid": "https://orcid.org/0000-0001-9810-1165",
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Eli J. Finkel",
+          "openalex_id": "A5033733184",
+          "orcid": "https://orcid.org/0000-0002-0213-5318",
+          "institutions": [
+            "Northwestern University"
+          ]
+        },
+        {
+          "name": "James H. Fowler",
+          "openalex_id": "A5082330712",
+          "orcid": "https://orcid.org/0000-0001-7795-1638",
+          "institutions": [
+            "University of California San Diego"
+          ]
+        },
+        {
+          "name": "Michele J. Gelfand",
+          "openalex_id": "A5070913945",
+          "orcid": "https://orcid.org/0000-0002-9780-9230",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Shihui Han",
+          "openalex_id": "A5048496931",
+          "orcid": "https://orcid.org/0000-0003-3350-5104",
+          "institutions": [
+            "Peking University",
+            "Chinese Institute for Brain Research"
+          ]
+        },
+        {
+          "name": "S. Alexander Haslam",
+          "openalex_id": "A5054793827",
+          "orcid": "https://orcid.org/0000-0001-9523-7921",
+          "institutions": [
+            "The University of Queensland"
+          ]
+        },
+        {
+          "name": "Jolanda Jetten",
+          "openalex_id": "A5004337400",
+          "orcid": "https://orcid.org/0000-0002-7588-5355",
+          "institutions": [
+            "The University of Queensland"
+          ]
+        },
+        {
+          "name": "Shinobu Kitayama",
+          "openalex_id": "A5025375729",
+          "orcid": "https://orcid.org/0000-0001-9147-7936",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Dean Mobbs",
+          "openalex_id": "A5027144528",
+          "orcid": "https://orcid.org/0000-0003-1175-3772",
+          "institutions": [
+            "California Institute of Technology"
+          ]
+        },
+        {
+          "name": "Lucy E. Napper",
+          "openalex_id": "A5036547557",
+          "orcid": "https://orcid.org/0000-0002-2510-3407",
+          "institutions": [
+            "Lehigh University"
+          ]
+        },
+        {
+          "name": "Dominic J. Packer",
+          "openalex_id": "A5033653295",
+          "orcid": "https://orcid.org/0000-0001-8420-6548",
+          "institutions": [
+            "Lehigh University"
+          ]
+        },
+        {
+          "name": "Gordon Pennycook",
+          "openalex_id": "A5020533147",
+          "orcid": "https://orcid.org/0000-0003-1344-6143",
+          "institutions": [
+            "University of Regina"
+          ]
+        },
+        {
+          "name": "Ellen Peters",
+          "openalex_id": "A5040147060",
+          "orcid": "https://orcid.org/0000-0003-0702-6169",
+          "institutions": [
+            "University of Oregon"
+          ]
+        },
+        {
+          "name": "Richard E. Petty",
+          "openalex_id": "A5017989783",
+          "orcid": "https://orcid.org/0000-0002-2870-8575",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        },
+        {
+          "name": "David G. Rand",
+          "openalex_id": "A5056499434",
+          "orcid": "https://orcid.org/0000-0001-8975-2783",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Stephen Reicher",
+          "openalex_id": "A5016584129",
+          "orcid": "https://orcid.org/0000-0002-3449-0082",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Simone Schnall",
+          "openalex_id": "A5053589098",
+          "orcid": "https://orcid.org/0000-0002-4672-7534",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Azim Shariff",
+          "openalex_id": "A5040553648",
+          "orcid": "https://orcid.org/0000-0003-4444-460X",
+          "institutions": [
+            "University of British Columbia"
+          ]
+        },
+        {
+          "name": "Linda J. Skitka",
+          "openalex_id": "A5079570616",
+          "orcid": "https://orcid.org/0000-0002-7078-0650",
+          "institutions": [
+            "University of Illinois Chicago"
+          ]
+        },
+        {
+          "name": "Sandra Susan Smith",
+          "openalex_id": "A5108102095",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Cass R. Sunstein",
+          "openalex_id": "A5052372722",
+          "orcid": "https://orcid.org/0000-0003-4194-3008",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Nassim Tabri",
+          "openalex_id": "A5082814826",
+          "orcid": "https://orcid.org/0000-0002-7085-9350",
+          "institutions": [
+            "Carleton University"
+          ]
+        },
+        {
+          "name": "Joshua A. Tucker",
+          "openalex_id": "A5072046918",
+          "orcid": "https://orcid.org/0000-0003-1321-8650",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Sander van der Linden",
+          "openalex_id": "A5073961643",
+          "orcid": "https://orcid.org/0000-0002-0269-1744",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Paul A. M. Van Lange",
+          "openalex_id": "A5061330788",
+          "orcid": "https://orcid.org/0000-0001-7774-6984",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Kim A. Weeden",
+          "openalex_id": "A5048263486",
+          "orcid": "https://orcid.org/0000-0002-9975-8457",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Michael J. A. Wohl",
+          "openalex_id": "A5083913334",
+          "orcid": "https://orcid.org/0000-0001-6945-5562",
+          "institutions": [
+            "Carleton University"
+          ]
+        },
+        {
+          "name": "Jamil Zaki",
+          "openalex_id": "A5047315859",
+          "orcid": "https://orcid.org/0000-0002-0664-2982",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Sean R. Zion",
+          "openalex_id": "A5019951719",
+          "orcid": "https://orcid.org/0000-0002-0802-2066",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Robb Willer",
+          "openalex_id": "A5014466973",
+          "orcid": "https://orcid.org/0000-0003-3404-6472",
+          "institutions": [
+            "Stanford University",
+            "Stanford Medicine"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-30",
+      "abstract": null,
+      "cited_by_count": 4988,
+      "type": "review",
+      "source": {
+        "name": "Nature Human Behaviour",
+        "type": "journal",
+        "issn": [
+          "2397-3374"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.nature.com/articles/s41562-020-0884-z.pdf"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "Behavioral Health and Interventions",
+        "Cultural Differences and Values"
+      ],
+      "referenced_works_count": 256,
+      "url": "https://openalex.org/W3016902371"
+    },
+    {
+      "openalex_id": "W1622878345",
+      "doi": "10.1007/s10551-015-2693-2",
+      "title": "The Circular Economy: An Interdisciplinary Exploration of the Concept and Application in a Global Context",
+      "authors": [
+        {
+          "name": "Alan Murray",
+          "openalex_id": "A5101976700",
+          "orcid": "https://orcid.org/0000-0003-4413-3326",
+          "institutions": [
+            "University of Winchester"
+          ]
+        },
+        {
+          "name": "Keith R. Skene",
+          "openalex_id": "A5089246555",
+          "orcid": "https://orcid.org/0000-0003-2141-7836"
+        },
+        {
+          "name": "Kathryn Haynes",
+          "openalex_id": "A5035155923",
+          "orcid": "https://orcid.org/0000-0003-4514-6436",
+          "institutions": [
+            "Newcastle University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-21",
+      "abstract": null,
+      "cited_by_count": 3065,
+      "type": "article",
+      "source": {
+        "name": "Journal of Business Ethics",
+        "type": "journal",
+        "issn": [
+          "0167-4544",
+          "1573-0697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10551-015-2693-2.pdf"
+      },
+      "topics": [
+        "Sustainable Supply Chain Management",
+        "Sustainable Industrial Ecology",
+        "Environmental Sustainability in Business"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W1622878345"
+    },
+    {
+      "openalex_id": "W2969625533",
+      "doi": "10.1016/j.ijinfomgt.2019.08.002",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "authors": [
+        {
+          "name": "Yogesh K. Dwivedi",
+          "openalex_id": "A5048622877",
+          "orcid": "https://orcid.org/0000-0002-5547-9990",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Laurie Hughes",
+          "openalex_id": "A5072512285",
+          "orcid": "https://orcid.org/0000-0002-0956-0608",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Elvira Ismagilova",
+          "openalex_id": "A5033472055",
+          "orcid": "https://orcid.org/0000-0001-9634-194X",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Gert Aarts",
+          "openalex_id": "A5027512483",
+          "orcid": "https://orcid.org/0000-0002-6038-3782",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Crispin Coombs",
+          "openalex_id": "A5018731131",
+          "orcid": "https://orcid.org/0000-0002-4203-9291",
+          "institutions": [
+            "Loughborough University"
+          ]
+        },
+        {
+          "name": "Tom Crick",
+          "openalex_id": "A5015452463",
+          "orcid": "https://orcid.org/0000-0001-5196-9389",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Yanqing Duan",
+          "openalex_id": "A5032994640",
+          "orcid": "https://orcid.org/0000-0003-4205-7403",
+          "institutions": [
+            "University of Bedfordshire"
+          ]
+        },
+        {
+          "name": "Rohita Dwivedi",
+          "openalex_id": "A5070017829",
+          "orcid": "https://orcid.org/0000-0003-3801-3635",
+          "institutions": [
+            "Prin. L. N. Welingkar Institute of Management Development and Research"
+          ]
+        },
+        {
+          "name": "John S. Edwards",
+          "openalex_id": "A5007695310",
+          "orcid": "https://orcid.org/0000-0003-3979-017X",
+          "institutions": [
+            "Aston University"
+          ]
+        },
+        {
+          "name": "Aled Eirug",
+          "openalex_id": "A5000411910",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Vassilis Galanos",
+          "openalex_id": "A5015685463",
+          "orcid": "https://orcid.org/0000-0002-8363-4855",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "P. Vigneswara Ilavarasan",
+          "openalex_id": "A5004125306",
+          "orcid": "https://orcid.org/0000-0002-9431-3520",
+          "institutions": [
+            "Indian Institute of Technology Delhi"
+          ]
+        },
+        {
+          "name": "Marijn Janssen",
+          "openalex_id": "A5062073470",
+          "orcid": "https://orcid.org/0000-0001-6211-8790",
+          "institutions": [
+            "Delft University of Technology"
+          ]
+        },
+        {
+          "name": "Paul Jones",
+          "openalex_id": "A5080152304",
+          "orcid": "https://orcid.org/0000-0003-0417-9143",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Arpan Kumar Kar",
+          "openalex_id": "A5061235109",
+          "orcid": "https://orcid.org/0000-0003-4186-4887",
+          "institutions": [
+            "Indian Institute of Technology Delhi"
+          ]
+        },
+        {
+          "name": "Hatice Kizgin",
+          "openalex_id": "A5037522059",
+          "orcid": "https://orcid.org/0000-0003-0841-8973",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Bianca Kronemann",
+          "openalex_id": "A5037724665",
+          "orcid": "https://orcid.org/0009-0002-5146-537X",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Banita Lal",
+          "openalex_id": "A5103045218",
+          "orcid": "https://orcid.org/0000-0003-1340-1746",
+          "institutions": [
+            "University of Bedfordshire"
+          ]
+        },
+        {
+          "name": "Biagio Lucini",
+          "openalex_id": "A5003777616",
+          "orcid": "https://orcid.org/0000-0001-8974-8266",
+          "institutions": [
+            "Swansea University",
+            "Foundry (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Rony Medaglia",
+          "openalex_id": "A5003475331",
+          "orcid": "https://orcid.org/0000-0001-7292-5895",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        },
+        {
+          "name": "Kenneth Le Meunier\u2010FitzHugh",
+          "openalex_id": "A5059234800",
+          "institutions": [
+            "University of East Anglia"
+          ]
+        },
+        {
+          "name": "Leslie Caroline Le Meunier-FitzHugh",
+          "openalex_id": "A5076965699"
+        },
+        {
+          "name": "Santosh K. Misra",
+          "openalex_id": "A5018760782",
+          "orcid": "https://orcid.org/0000-0002-3313-4895",
+          "institutions": [
+            "University of East Anglia",
+            "Government of Tamil Nadu"
+          ]
+        },
+        {
+          "name": "Emmanuel Mogaji",
+          "openalex_id": "A5082000265",
+          "orcid": "https://orcid.org/0000-0003-0544-4842",
+          "institutions": [
+            "University of Greenwich"
+          ]
+        },
+        {
+          "name": "Sujeet Kumar Sharma",
+          "openalex_id": "A5037836435",
+          "orcid": "https://orcid.org/0000-0003-3614-9053"
+        },
+        {
+          "name": "Jang Bahadur Singh",
+          "openalex_id": "A5040405430",
+          "orcid": "https://orcid.org/0000-0001-7017-1989",
+          "institutions": [
+            "Indian Institute of Management Tiruchirappalli"
+          ]
+        },
+        {
+          "name": "Vishnupriya Raghavan",
+          "openalex_id": "A5050603102"
+        },
+        {
+          "name": "Ramakrishnan Raman",
+          "openalex_id": "A5072261829",
+          "orcid": "https://orcid.org/0000-0003-3642-6989",
+          "institutions": [
+            "Symbiosis International University"
+          ]
+        },
+        {
+          "name": "Nripendra P. Rana",
+          "openalex_id": "A5034248834",
+          "orcid": "https://orcid.org/0000-0003-1105-8729",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Spyridon Samothrakis",
+          "openalex_id": "A5033216620",
+          "orcid": "https://orcid.org/0000-0003-1902-9690",
+          "institutions": [
+            "University of Essex"
+          ]
+        },
+        {
+          "name": "Jak Spencer",
+          "openalex_id": "A5016998336",
+          "institutions": [
+            "Training Programs in Epidemiology and Public Health Interventions Network"
+          ]
+        },
+        {
+          "name": "Kuttimani Tamilmani",
+          "openalex_id": "A5008267619",
+          "orcid": "https://orcid.org/0000-0002-9615-1465",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Annie Tubadji",
+          "openalex_id": "A5070089201",
+          "orcid": "https://orcid.org/0000-0002-6134-3520",
+          "institutions": [
+            "University of the West of England"
+          ]
+        },
+        {
+          "name": "Paul Walton",
+          "openalex_id": "A5109157215",
+          "institutions": [
+            "Capgemini (United Kingdom)",
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Michael D. Williams",
+          "openalex_id": "A5002569790",
+          "orcid": "https://orcid.org/0000-0002-3047-0332",
+          "institutions": [
+            "Swansea University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-27",
+      "abstract": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reached the limits of physical capacity. Artificial Intelligence (AI) offers this same transformative potential for the augmentation and potential replacement of human tasks and activities within a wide range of industrial, intellectual and social applications. The pace of change for this new AI technological age is staggering, with new breakthroughs in algorithmic machine learning and autonomous decision-making, engendering new opportunities for continued innovation. The impact of AI could be significant, with industries ranging from: finance, healthcare, manufacturing, retail, supply chain, logistics and utilities, all potentially disrupted by the onset of AI technologies. The study brings together the collective insight from a number of leading expert contributors to highlight the significant opportunities, realistic assessment of impact, challenges and potential research agenda posed by the rapid emergence of AI within a number of domains: business and management, government, public sector, and science and technology. This research offers significant and timely insight to AI technology and its impact on the future of industry and society in general, whilst recognising the societal and industrial influence on pace and direction of AI development.",
+      "cited_by_count": 3758,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Information Management",
+        "type": "journal",
+        "issn": [
+          "0268-4012",
+          "1873-4707"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S026840121930917X"
+      },
+      "topics": [
+        "Big Data and Business Intelligence",
+        "Economic and Technological Systems Analysis",
+        "Digital Transformation in Industry"
+      ],
+      "referenced_works_count": 338,
+      "url": "https://openalex.org/W2969625533"
+    },
+    {
+      "openalex_id": "W2129245434",
+      "doi": "10.1017/s0140525x15000965",
+      "title": "Cognition does not affect perception: Evaluating the evidence for \u201ctop-down\u201d effects",
+      "authors": [
+        {
+          "name": "Chaz Firestone",
+          "openalex_id": "A5021570361",
+          "orcid": "https://orcid.org/0000-0002-1247-2422",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Brian J. Scholl",
+          "openalex_id": "A5052429455",
+          "orcid": "https://orcid.org/0000-0003-3610-0890",
+          "institutions": [
+            "Yale University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-07-20",
+      "abstract": "Abstract What determines what we see? In contrast to the traditional \u201cmodular\u201d understanding of perception, according to which visual processing is encapsulated from higher-level cognition, a tidal wave of recent research alleges that states such as beliefs, desires, emotions, motivations, intentions, and linguistic representations exert direct, top-down influences on what we see. There is a growing consensus that such effects are ubiquitous, and that the distinction between perception and cognition may itself be unsustainable. We argue otherwise: None of these hundreds of studies \u2013 either individually or collectively \u2013 provides compelling evidence for true top-down effects on perception, or \u201ccognitive penetrability.\u201d In particular, and despite their variety, we suggest that these studies all fall prey to only a handful of pitfalls. And whereas abstract theoretical challenges have failed to resolve this debate in the past, our presentation of these pitfalls is empirically anchored: In each case, we show not only how certain studies could be susceptible to the pitfall (in principle), but also how several alleged top-down effects actually are explained by the pitfall (in practice). Moreover, these pitfalls are perfectly general, with each applying to dozens of other top-down effects. We conclude by extracting the lessons provided by these pitfalls into a checklist that future work could use to convincingly demonstrate top-down effects on visual perception. The discovery of substantive top-down effects of cognition on perception would revolutionize our understanding of how the mind is organized; but without addressing these pitfalls, no such empirical report will license such exciting conclusions.",
+      "cited_by_count": 1185,
+      "type": "article",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/FIRCDN.pdf"
+      },
+      "topics": [
+        "Multisensory perception and integration",
+        "Olfactory and Sensory Function Studies",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 241,
+      "url": "https://openalex.org/W2129245434"
+    },
+    {
+      "openalex_id": "W1598829572",
+      "doi": "10.26192/q7w89",
+      "title": "Social Science Research: Principles, Methods and Practices",
+      "authors": [
+        {
+          "name": "Anol Bhattacherjee",
+          "openalex_id": "A5021648020",
+          "orcid": "https://orcid.org/0000-0001-9559-6027"
+        },
+        {
+          "name": "Toleman, Mark",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-0535-8103",
+          "institutions": [
+            "Vecima Technology (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Rowling, Samara",
+          "openalex_id": ""
+        },
+        {
+          "name": "Frederiks, Anita",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0001-9618-5748",
+          "institutions": [
+            "Vecima Technology (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Andersen, Nikki",
+          "openalex_id": "",
+          "institutions": [
+            "Vecima Technology (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "This book is designed to introduce doctoral and postgraduate students to the process of conducting scientific research in the social sciences, business, education, public health, and related disciplines. It is a one-stop, comprehensive, and compact source for foundational concepts in behavioural research, and can serve as a standalone text or as a supplement to research readings in any doctoral seminar or research methods class. This book is currently being used as a research text at universities in 216 countries, across six continents and has been translated into seven different languages. To receive updates on this book, including the translated versions, please follow the author on Facebook or Twitter @Anol_B.",
+      "cited_by_count": 2049,
+      "type": "book",
+      "source": {
+        "name": "University of Southern Queensland ePrints (University of Southern Queensland)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.usf.edu/oa_textbooks/3"
+      },
+      "topics": [
+        "Information Systems Theories and Implementation",
+        "Complex Systems and Decision Making",
+        "Innovation and Knowledge Management"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W1598829572"
+    },
+    {
+      "openalex_id": "W2744284029",
+      "doi": "10.3390/philosophies2030017",
+      "title": "The Unreasonable Destructiveness of Political Correctness in Philosophy",
+      "authors": [
+        {
+          "name": "Manuel I. Doria",
+          "openalex_id": "A5108472671"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-03",
+      "abstract": "I submit that epistemic progress in key areas of contemporary academic philosophy has been compromised by politically correct (\u201cPC\u201d) ideology. First, guided by an evolutionary account of ideology, results from social and cognitive psychology and formal philosophical methods, I expose evidence for political bias in contemporary Western academia and sketch a formalization for the contents of beliefs from the PC worldview taken to be of core importance, the theory of social oppression and the thesis of anthropological mental egalitarianism. Then, aided by discussions from contemporary epistemology on epistemic values, I model the problem of epistemic appraisal using the frameworks of multi-objective optimization theory and multi-criteria decision analysis and apply it to politically correct philosophy. I conclude that philosophy guided by politically correct values is bound to produce constructs that are less truth-conducive and that spurious values which are ideologically motivated should be abandoned. Objections to my framework stemming from contextual empiricism, the feminine voice in ethics and political philosophy are considered. I conclude by prescribing the epistemic value of epistemic adequacy, the contextual value of political diversity and the moral virtue of moral courage to reverse unwarranted trends in academic philosophy due to PC ideology.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Philosophies",
+        "type": "journal",
+        "issn": [
+          "2409-9287"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2409-9287/2/3/17/pdf?version=1502088889"
+      },
+      "topics": [
+        "Social and Intergroup Psychology",
+        "Psychology of Moral and Emotional Judgment",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 164,
+      "url": "https://openalex.org/W2744284029"
+    },
+    {
+      "openalex_id": "W617753704",
+      "doi": "10.1515/9780748695959",
+      "title": "A Feminine Enlightenment: British Women Writers and the Philosophy of Progress, 1759-1820",
+      "authors": [
+        {
+          "name": "JoEllen DeLucia",
+          "openalex_id": "A5016809279",
+          "orcid": "https://orcid.org/0009-0000-4574-7667",
+          "institutions": [
+            "Central Michigan University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-11",
+      "abstract": "Drawing on original archival research, A Feminine Enlightenment argues that women writers shaped Enlightenment conversations regarding the role of sentiment and gender in the civilizing process. By reading women's literature alongside history and philosophy and moving between the eighteenth century and Romantic era, JoEllen DeLucia challenges conventional historical and generic boundaries. Beginning with Adam Smith's Theory of Moral Sentiments (1759), she tracks discussions of 'women's progress' from the rarified atmosphere of mid-eighteenth-century Bluestocking salons and the masculine domain of the Scottish university system to the popular Minerva Press novels of the early nineteenth century. Ultimately, this study positions feminine genres such as the Gothic romance and Bluestocking poetry, usually seen as outliers in a masculine Age of Reason, as essential to understanding emotion's role in Enlightenment narratives of progress. The effect of this study is twofold: to show how developments in women's literature reflected and engaged with Enlightenment discussions of emotion, sentiment, and commercial and imperial expansion; and to provide new literary and historical contexts for contemporary conversations that continue to use 'women's progress' to assign cultures and societies around the globe a place in universalizing schemas of development. Key Features: * Establishes the centrality of gender to Enlightenment discussions of social and historical development * Uncovers evidence of women writers' participation in the Scottish Enlightenment's theorization of sentiment and historical progress *Provides literary and historical background for ongoing discussions of the history of emotion and the study of affect",
+      "cited_by_count": 8,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ci.nii.ac.jp/ncid/BB18528648"
+      },
+      "topics": [
+        "Historical Economic and Social Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W617753704"
+    },
+    {
+      "openalex_id": "W2735244379",
+      "doi": "10.1073/pnas.1702996114",
+      "title": "On the promotion of human flourishing",
+      "authors": [
+        {
+          "name": "Tyler J. VanderWeele",
+          "openalex_id": "A5028103646",
+          "orcid": "https://orcid.org/0000-0002-6112-0239",
+          "institutions": [
+            "Quantitative BioSciences",
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-13",
+      "abstract": "Many empirical studies throughout the social and biomedical sciences focus only on very narrow outcomes such as income, or a single specific disease state, or a measure of positive affect. Human well-being or flourishing, however, consists in a much broader range of states and outcomes, certainly including mental and physical health, but also encompassing happiness and life satisfaction, meaning and purpose, character and virtue, and close social relationships. The empirical literature from longitudinal, experimental, and quasiexperimental studies is reviewed in attempt to identify major determinants of human flourishing, broadly conceived. Measures of human flourishing are proposed. Discussion is given to the implications of a broader conception of human flourishing, and of the research reviewed, for policy, and for future research in the biomedical and social sciences.",
+      "cited_by_count": 1224,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.pnas.org/content/pnas/114/31/8148.full.pdf"
+      },
+      "topics": [
+        "Psychological Well-being and Life Satisfaction",
+        "Employment and Welfare Studies",
+        "Health disparities and outcomes"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W2735244379"
+    },
+    {
+      "openalex_id": "W2905498624",
+      "doi": "10.1111/pops.12568",
+      "title": "Understanding Conspiracy Theories",
+      "authors": [
+        {
+          "name": "Karen M. Douglas",
+          "openalex_id": "A5087650169",
+          "orcid": "https://orcid.org/0000-0002-0381-6924",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "Joseph E. Uscinski",
+          "openalex_id": "A5090868842",
+          "orcid": "https://orcid.org/0000-0003-2179-6952",
+          "institutions": [
+            "University of Miami"
+          ]
+        },
+        {
+          "name": "Robbie M. Sutton",
+          "openalex_id": "A5069725782",
+          "orcid": "https://orcid.org/0000-0003-1542-1716",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "Aleksandra Cichocka",
+          "openalex_id": "A5001068690",
+          "orcid": "https://orcid.org/0000-0003-1703-1586",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "T\u00fcrkay Salim Nefes",
+          "openalex_id": "A5000096797",
+          "orcid": "https://orcid.org/0000-0002-0294-2064",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Chee Siang Ang",
+          "openalex_id": "A5010062612",
+          "orcid": "https://orcid.org/0000-0002-1109-9689",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "Farzin Deravi",
+          "openalex_id": "A5067851689",
+          "orcid": "https://orcid.org/0000-0003-0885-437X",
+          "institutions": [
+            "University of Kent"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-01",
+      "abstract": "Scholarly efforts to understand conspiracy theories have grown significantly in recent years, and there is now a broad and interdisciplinary literature. In reviewing this body of work, we ask three specific questions. First, what factors are associated with conspiracy beliefs? Our review of the literature shows that conspiracy beliefs result from a range of psychological, political, and social factors. Next, how are conspiracy theories communicated? Here, we explain how conspiracy theories are shared among individuals and spread through traditional and social media platforms. Next, what are the societal risks and rewards associated with conspiracy theories? By focusing on politics and science, we argue that conspiracy theories do more harm than good. We conclude by suggesting several promising avenues for future research.",
+      "cited_by_count": 1400,
+      "type": "article",
+      "source": {
+        "name": "Political Psychology",
+        "type": "journal",
+        "issn": [
+          "0162-895X",
+          "1467-9221"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pops.12568"
+      },
+      "topics": [
+        "Misinformation and Its Impacts",
+        "Media Influence and Politics",
+        "Hate Speech and Cyberbullying Detection"
+      ],
+      "referenced_works_count": 302,
+      "url": "https://openalex.org/W2905498624"
+    },
+    {
+      "openalex_id": "W2597171500",
+      "doi": "10.1016/j.enpol.2017.03.005",
+      "title": "New frontiers and conceptual frameworks for energy justice",
+      "authors": [
+        {
+          "name": "Benjamin K. Sovacool",
+          "openalex_id": "A5088822272",
+          "orcid": "https://orcid.org/0000-0002-4794-9403",
+          "institutions": [
+            "University of Sussex",
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Matthew J. Burke",
+          "openalex_id": "A5044822217",
+          "orcid": "https://orcid.org/0000-0003-0620-3960",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Lucy Baker",
+          "openalex_id": "A5076230881",
+          "orcid": "https://orcid.org/0000-0001-6008-1656",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Chaitanya Kumar Kotikalapudi",
+          "openalex_id": "A5061859084",
+          "orcid": "https://orcid.org/0000-0003-1416-1588",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Holle Linnea Wlokas",
+          "openalex_id": "A5040602289",
+          "institutions": [
+            "University of Cape Town"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-18",
+      "abstract": null,
+      "cited_by_count": 717,
+      "type": "article",
+      "source": {
+        "name": "Energy Policy",
+        "type": "journal",
+        "issn": [
+          "0301-4215",
+          "1873-6777"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://sro.sussex.ac.uk/id/eprint/67183/3/Sovacool-et-al-EP-Justice-011717-Final.pdf"
+      },
+      "topics": [
+        "Energy and Environment Impacts",
+        "Social Acceptance of Renewable Energy",
+        "Sustainability and Climate Change Governance"
+      ],
+      "referenced_works_count": 100,
+      "url": "https://openalex.org/W2597171500"
+    },
+    {
+      "openalex_id": "W3041968715",
+      "doi": "10.1007/s13347-020-00405-8",
+      "title": "Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence",
+      "authors": [
+        {
+          "name": "Shakir Mohamed",
+          "openalex_id": "A5084530286",
+          "orcid": "https://orcid.org/0000-0002-1184-5776",
+          "institutions": [
+            "DeepMind (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Marie-Th\u00e9r\u00e8se Png",
+          "openalex_id": "A5083299129",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "William Isaac",
+          "openalex_id": "A5048272174",
+          "orcid": "https://orcid.org/0000-0002-1297-5409",
+          "institutions": [
+            "DeepMind (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-12",
+      "abstract": "Abstract This paper explores the important role of critical science, and in particular of post-colonial and decolonial theories, in understanding and shaping the ongoing advances in artificial intelligence. Artificial intelligence (AI) is viewed as amongst the technological advances that will reshape modern societies and their relations. While the design and deployment of systems that continually adapt holds the promise of far-reaching positive change, they simultaneously pose significant risks, especially to already vulnerable peoples. Values and power are central to this discussion. Decolonial theories use historical hindsight to explain patterns of power that shape our intellectual, political, economic, and social world. By embedding a decolonial critical approach within its technical practice, AI communities can develop foresight and tactics that can better align research and technology development with established ethical principles, centring vulnerable peoples who continue to bear the brunt of negative impacts of innovation and scientific progress. We highlight problematic applications that are instances of coloniality, and using a decolonial lens, submit three tactics that can form a decolonial field of artificial intelligence: creating a critical technical practice of AI, seeking reverse tutelage and reverse pedagogies, and the renewal of affective and political communities. The years ahead will usher in a wave of new scientific breakthroughs and technologies driven by AI research, making it incumbent upon AI communities to strengthen the social contract through ethical foresight and the multiplicity of intellectual perspectives available to us, ultimately supporting future technologies that enable greater well-being, with the goal of beneficence and justice for all.",
+      "cited_by_count": 625,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13347-020-00405-8.pdf"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Digital Education and Society"
+      ],
+      "referenced_works_count": 180,
+      "url": "https://openalex.org/W3041968715"
+    },
+    {
+      "openalex_id": "W1978372683",
+      "doi": "10.1186/s13012-015-0237-x",
+      "title": "What\u2019s in a mechanism? Development of a key concept in realist evaluation",
+      "authors": [
+        {
+          "name": "Sonia Dalkin",
+          "openalex_id": "A5036288123",
+          "orcid": "https://orcid.org/0000-0002-3266-5926",
+          "institutions": [
+            "University of Leeds"
+          ]
+        },
+        {
+          "name": "Joanne Greenhalgh",
+          "openalex_id": "A5018297265",
+          "orcid": "https://orcid.org/0000-0003-2189-8879",
+          "institutions": [
+            "University of Leeds"
+          ]
+        },
+        {
+          "name": "Diana Jones",
+          "openalex_id": "A5013561366",
+          "orcid": "https://orcid.org/0000-0002-7912-7797",
+          "institutions": [
+            "Northumbria University"
+          ]
+        },
+        {
+          "name": "Bill Cunningham",
+          "openalex_id": "A5080084665",
+          "institutions": [
+            "Exeter Primary Care"
+          ]
+        },
+        {
+          "name": "Monique Lhussier",
+          "openalex_id": "A5015828280",
+          "orcid": "https://orcid.org/0000-0001-9383-2356",
+          "institutions": [
+            "Northumbria University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-15",
+      "abstract": null,
+      "cited_by_count": 877,
+      "type": "article",
+      "source": {
+        "name": "Implementation Science",
+        "type": "journal",
+        "issn": [
+          "1748-5908"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/s13012-015-0237-x"
+      },
+      "topics": [
+        "Community Health and Development",
+        "Evaluation and Performance Assessment",
+        "Critical Realism in Sociology"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W1978372683"
+    },
+    {
+      "openalex_id": "W2159141474",
+      "doi": "10.1257/jep.29.1.89",
+      "title": "The Superiority of Economists",
+      "authors": [
+        {
+          "name": "Marion Fourcade",
+          "openalex_id": "A5064154638",
+          "orcid": "https://orcid.org/0000-0002-4821-9031",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "\u00c9tienne Ollion",
+          "openalex_id": "A5022704573",
+          "orcid": "https://orcid.org/0000-0003-3099-5240",
+          "institutions": [
+            "Universit\u00e9 de Strasbourg"
+          ]
+        },
+        {
+          "name": "Yann Algan",
+          "openalex_id": "A5051037471",
+          "orcid": "https://orcid.org/0000-0002-8120-5969",
+          "institutions": [
+            "Institut d'Etudes Politiques de Paris",
+            "Centre Pour La Recherche Economique et ses Applications"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-01",
+      "abstract": "In this essay, we analyze the dominant position of economics within the network of the social sciences in the United States. We begin by documenting the relative insularity of economics, using bibliometric data. Next we analyze the tight management of the field from the top down, which gives economics its characteristic hierarchical structure. Economists also distinguish themselves from other social scientists through their much better material situation (many teach in business schools, have external consulting activities), their more individualist worldviews, and their confidence in their discipline's ability to fix the world's problems. Taken together, these traits constitute what we call the superiority of economists, where economists' objective supremacy is intimately linked with their subjective sense of authority and entitlement. While this superiority has certainly fueled economists' practical involvement and their considerable influence over the economy, it has also exposed them more to conflicts of interests, political critique, even derision.",
+      "cited_by_count": 672,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Economic Perspectives",
+        "type": "journal",
+        "issn": [
+          "0895-3309",
+          "1944-7965"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.29.1.89"
+      },
+      "topics": [
+        "Economic Theory and Institutions"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W2159141474"
+    },
+    {
+      "openalex_id": "W2557811647",
+      "doi": "10.1016/j.biocon.2016.10.006",
+      "title": "Conservation social science: Understanding and integrating human dimensions to improve conservation",
+      "authors": [
+        {
+          "name": "Nathan Bennett",
+          "openalex_id": "A5008685860",
+          "orcid": "https://orcid.org/0000-0003-4852-3401",
+          "institutions": [
+            "University of Washington",
+            "University of British Columbia",
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Robin Roth",
+          "openalex_id": "A5038874634",
+          "orcid": "https://orcid.org/0000-0003-2296-6386",
+          "institutions": [
+            "University of Guelph"
+          ]
+        },
+        {
+          "name": "Sarah C. Klain",
+          "openalex_id": "A5064099321",
+          "orcid": "https://orcid.org/0000-0002-3798-9436",
+          "institutions": [
+            "University of British Columbia"
+          ]
+        },
+        {
+          "name": "Kai M. A. Chan",
+          "openalex_id": "A5064887876",
+          "orcid": "https://orcid.org/0000-0002-7804-3276",
+          "institutions": [
+            "University of British Columbia"
+          ]
+        },
+        {
+          "name": "Patrick Christie",
+          "openalex_id": "A5049351380",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Douglas A. Clark",
+          "openalex_id": "A5064534699",
+          "orcid": "https://orcid.org/0000-0002-0480-030X",
+          "institutions": [
+            "University of Saskatchewan"
+          ]
+        },
+        {
+          "name": "Georgina Cullman",
+          "openalex_id": "A5028273702",
+          "institutions": [
+            "American Museum of Natural History"
+          ]
+        },
+        {
+          "name": "Deborah Curran",
+          "openalex_id": "A5014614005",
+          "orcid": "https://orcid.org/0000-0002-6014-0553",
+          "institutions": [
+            "University of Victoria"
+          ]
+        },
+        {
+          "name": "Trevor J. Durbin",
+          "openalex_id": "A5084744866",
+          "orcid": "https://orcid.org/0000-0002-4804-2133",
+          "institutions": [
+            "University of Wyoming"
+          ]
+        },
+        {
+          "name": "Graham Epstein",
+          "openalex_id": "A5067373883",
+          "orcid": "https://orcid.org/0000-0003-3431-8511",
+          "institutions": [
+            "University of Waterloo"
+          ]
+        },
+        {
+          "name": "Alison Greenberg",
+          "openalex_id": "A5003982474",
+          "institutions": [
+            "International Union for Conservation of Nature"
+          ]
+        },
+        {
+          "name": "Michael Nelson",
+          "openalex_id": "A5054026635",
+          "orcid": "https://orcid.org/0000-0001-6917-4752",
+          "institutions": [
+            "Oregon State University"
+          ]
+        },
+        {
+          "name": "John Sandlos",
+          "openalex_id": "A5055459827",
+          "orcid": "https://orcid.org/0000-0001-7556-3498",
+          "institutions": [
+            "Memorial University of Newfoundland"
+          ]
+        },
+        {
+          "name": "Richard C. Stedman",
+          "openalex_id": "A5063834092",
+          "orcid": "https://orcid.org/0000-0001-8115-6696",
+          "institutions": [
+            "Louisiana Department of Natural Resources",
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Tara L. Teel",
+          "openalex_id": "A5069868751",
+          "orcid": "https://orcid.org/0000-0002-1944-1864",
+          "institutions": [
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "Rebecca Thomas",
+          "openalex_id": "A5070105995",
+          "orcid": "https://orcid.org/0000-0003-2528-7258",
+          "institutions": [
+            "Slippery Rock University"
+          ]
+        },
+        {
+          "name": "Diogo Ver\u00edssimo",
+          "openalex_id": "A5076635361",
+          "orcid": "https://orcid.org/0000-0002-3519-6782",
+          "institutions": [
+            "Georgia State University"
+          ]
+        },
+        {
+          "name": "Carina Wyborn",
+          "openalex_id": "A5045872612",
+          "orcid": "https://orcid.org/0000-0002-4314-347X"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-29",
+      "abstract": null,
+      "cited_by_count": 1141,
+      "type": "article",
+      "source": {
+        "name": "Biological Conservation",
+        "type": "journal",
+        "issn": [
+          "0006-3207",
+          "1873-2917"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0006320716305328-fx1_lrg.jpg"
+      },
+      "topics": [
+        "Environmental Education and Sustainability",
+        "Conservation, Biodiversity, and Resource Management",
+        "Conservation Techniques and Studies"
+      ],
+      "referenced_works_count": 302,
+      "url": "https://openalex.org/W2557811647"
+    },
+    {
+      "openalex_id": "W2591654989",
+      "doi": "10.1257/jel.53.4.898",
+      "title": "Culture and Institutions",
+      "authors": [
+        {
+          "name": "Alberto Alesina",
+          "openalex_id": "A5083494527",
+          "institutions": [
+            "Bocconi University",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Paola Giuliano",
+          "openalex_id": "A5044204764",
+          "orcid": "https://orcid.org/0000-0002-3809-4108",
+          "institutions": [
+            "Anderson University - South Carolina",
+            "UCLA Health"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-01",
+      "abstract": "A growing body of empirical work measuring different types of cultural traits has shown that culture matters for a variety of economic outcomes. This paper focuses on one specific aspect of the relevance of culture: its relationship to institutions. We review work with a theoretical, empirical, and historical bent to assess the presence of a two-way causal effect between culture and institutions. ( JEL D02, D72, I32, J12, Z13)",
+      "cited_by_count": 1396,
+      "type": "article",
+      "source": {
+        "name": "Journal of Economic Literature",
+        "type": "journal",
+        "issn": [
+          "0022-0515",
+          "1547-1101",
+          "2328-8175"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jel.53.4.898"
+      },
+      "topics": [
+        "Culture, Economy, and Development Studies",
+        "Economic Policies and Impacts",
+        "Experimental Behavioral Economics Studies"
+      ],
+      "referenced_works_count": 219,
+      "url": "https://openalex.org/W2591654989"
+    },
+    {
+      "openalex_id": "W4317910584",
+      "doi": "10.37074/jalt.2023.6.1.9",
+      "title": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+      "authors": [
+        {
+          "name": "J\u00fcrgen Rudolph",
+          "openalex_id": "A5109171711"
+        },
+        {
+          "name": "Samson Tan",
+          "openalex_id": "A5049520538",
+          "orcid": "https://orcid.org/0000-0003-1059-1839"
+        },
+        {
+          "name": "Shannon Tan",
+          "openalex_id": "A5007592120"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-25",
+      "abstract": "ChatGPT is the world\u2019s most advanced chatbot thus far. Unlike other chatbots, it can create impressive prose within seconds, and it has created much hype and doomsday predictions when it comes to student assessment in higher education and a host of other matters. ChatGPT is a state-of-the-art language model (a variant of OpenAI\u2019s Generative Pretrained Transformer (GPT) language model) designed to generate text that can be indistinguishable from text written by humans. It can engage in conversation with users in a seemingly natural and intuitive way. In this article, we briefly tell the story of OpenAI, the organisation behind ChatGPT. We highlight the fundamental change from a not-for-profit organisation to a commercial business model. In terms of our methods, we conducted an extensive literature review and experimented with this artificial intelligence (AI) software. Our literature review shows our review to be amongst the first peer-reviewed academic journal articles to explore ChatGPT and its relevance for higher education (especially assessment, learning and teaching). After a description of ChatGPT\u2019s functionality and a summary of its strengths and limitations, we focus on the technology\u2019s implications for higher education and discuss what is the future of learning, teaching and assessment in higher education in the context of AI chatbots such as ChatGPT. We position ChatGPT in the context of current Artificial Intelligence in Education (AIEd) research, discuss student-facing, teacher-facing and system-facing applications, and analyse opportunities and threats. We conclude the article with recommendations for students, teachers and higher education institutions. Many of them focus on assessment.",
+      "cited_by_count": 1578,
+      "type": "article",
+      "source": {
+        "name": "Journal of Applied Learning & Teaching",
+        "type": "journal",
+        "issn": [
+          "2591-801X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.sfu.ca/jalt/index.php/jalt/article/download/689/539"
+      },
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Online Learning and Analytics",
+        "Topic Modeling"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W4317910584"
+    },
+    {
+      "openalex_id": "W3002093512",
+      "doi": "10.1007/s11023-020-09539-2",
+      "title": "Artificial Intelligence, Values, and Alignment",
+      "authors": [
+        {
+          "name": "Iason Gabriel",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-7552-4576",
+          "institutions": [
+            "DeepMind (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-01",
+      "abstract": "Abstract This paper looks at philosophical questions that arise in the context of AI alignment. It defends three propositions. First, normative and technical aspects of the AI alignment problem are interrelated, creating space for productive engagement between people working in both domains. Second, it is important to be clear about the goal of alignment. There are significant differences between AI that aligns with instructions, intentions, revealed preferences, ideal preferences, interests and values. A principle-based approach to AI alignment, which combines these elements in a systematic way, has considerable advantages in this context. Third, the central challenge for theorists is not to identify \u2018true\u2019 moral principles for AI; rather, it is to identify fair principles for alignment that receive reflective endorsement despite widespread variation in people\u2019s moral beliefs. The final part of the paper explores three ways in which fair principles for AI alignment could potentially be identified.",
+      "cited_by_count": 548,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11023-020-09539-2.pdf"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Explainable Artificial Intelligence (XAI)",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W3002093512"
+    },
+    {
+      "openalex_id": "W2738319541",
+      "doi": "10.1093/he/9780198860914.001.0001",
+      "title": "The Oxford Handbook of Criminology",
+      "authors": [
+        {
+          "name": "Alison Liebling",
+          "openalex_id": "A5075023372",
+          "orcid": "https://orcid.org/0000-0001-8857-3695",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Shadd Maruna",
+          "openalex_id": "A5080507902",
+          "orcid": "https://orcid.org/0000-0002-4978-7073",
+          "institutions": [
+            "University of Manchester"
+          ]
+        },
+        {
+          "name": "Lesley McAra",
+          "openalex_id": "A5086075860"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-01",
+      "abstract": "As the most comprehensive and authoritative single volume on the subject, the seventh edition of the acclaimed Oxford Handbook of Criminology is a completely revised collection of 44 essays by leading authors in the field. It is organized into four sections: constructions of crime and justice; borders, boundaries, and beliefs; dynamics of crime and violence; and responses to crime. Criminology is expanding its borders and seeking new answers to questions of crime and punishment, citizenship, and democratic living, including issues of state crime and globalization. Some of the newest areas of study in criminology include migration, asylum, and the integration of global populations following war or famine; privacy and the governance of \u2018big data;\u2019 and the movement to abolish the police and prisons. All of these topics, as well as classic questions of the causes and consequences of crime, receive attention here. The editors have also made room for greater inclusiveness and diversity, with a wider range of newer scholars, and taking account of new developments in the fields of zemiology and green criminology, as well as previously neglected themes such as victimology, sexual violence, and atrocity crimes. The chapters contain extensive references to aid further research, and the book is accompanied by an online resource centre featuring: selected chapters from previous editions; guidance on answering essay questions; practice essay questions; web links; and figures and tables from the text.",
+      "cited_by_count": 688,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://gala.gre.ac.uk/id/eprint/45467/1/45467_SCHREECHE%20POWELL_Convict_criminology_without_guarantees_Proposing_hard_labour_ABSTRACT.pdf"
+      },
+      "topics": [
+        "Wildlife Conservation and Criminology Analyses"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2738319541"
+    },
+    {
+      "openalex_id": "W4304943299",
+      "doi": "10.1007/s10639-022-11316-w",
+      "title": "Ethical principles for artificial intelligence in education",
+      "authors": [
+        {
+          "name": "Andy Nguyen",
+          "openalex_id": "A5091570362",
+          "orcid": "https://orcid.org/0000-0002-0759-9656",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Ha Ngan Ngo",
+          "openalex_id": "A5031594602",
+          "orcid": "https://orcid.org/0000-0002-4275-3620",
+          "institutions": [
+            "Victoria University of Wellington"
+          ]
+        },
+        {
+          "name": "Yvonne Hong",
+          "openalex_id": "A5084270282",
+          "orcid": "https://orcid.org/0000-0002-0046-3983",
+          "institutions": [
+            "Victoria University of Wellington"
+          ]
+        },
+        {
+          "name": "Belle Dang",
+          "openalex_id": "A5052061009",
+          "orcid": "https://orcid.org/0009-0006-8734-6697",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Bich\u2010Phuong Thi Nguyen",
+          "openalex_id": "A5032059076",
+          "orcid": "https://orcid.org/0000-0003-1836-4403",
+          "institutions": [
+            "University of Languages and International Studies"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-13",
+      "abstract": null,
+      "cited_by_count": 900,
+      "type": "article",
+      "source": {
+        "name": "Education and Information Technologies",
+        "type": "journal",
+        "issn": [
+          "1360-2357",
+          "1573-7608"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-022-11316-w.pdf"
+      },
+      "topics": [
+        "Online Learning and Analytics",
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W4304943299"
+    },
+    {
+      "openalex_id": "W3017994143",
+      "doi": "10.1111/ejop.12538",
+      "title": "What if the private linguist were a poet? Iris Murdoch on privacy and ethics",
+      "authors": [
+        {
+          "name": "Rachael Wiseman",
+          "openalex_id": "A5012436920",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-01",
+      "abstract": "The historical individual, or rather the absence of the historical individual, in modern philosophy is at the centre of the three lectures collected in The Sovereignty of Good and at the centre of Murdoch's moral philosophy taken as a whole. Murdoch is driven by the insight, and the anxiety, that the conceptual resources available to moral philosophy are catastrophically diminished by a picture of the human individual as \u2018an isolated principle of will, or burrowing pinpoint of consciousness, inside, or beside, a lump of being which has been handed over to other disciplines\u2019 (GG 338). Though her contemporaries might not recognise this rather grotesque character as the hero of their philosophy, Murdoch believes that the presence of this \u2018soul-picture\u2019 in their work is betrayed by the anaemic character of the moral scene they describe. Such a soul-picture, Murdoch argues, has left ethicists with the resources to speak only of reasonableness, rationality, authenticity, sincerity and correctness and has transformed moral progress from a demanding personal struggle towards unachievable perfection into a \u2018mediocre achievement\u2019 (GG 340) consisting in \u2018the making of sensible choices and the giving of sensible and simple reasons\u2019 (HT 177; GG 340; SG 364). Murdoch argues that moral philosophy must be able speak in terms of good and evil, piety and salvation, humility and love\u2014concepts that are connected to perfection, not mediocracy\u2014and she thinks that these concepts get application only against a background picture of humans as substantive individuals or selves, each with a personal history, and a rich, unique, and ultimately private, inner life (e.g., GG 343). She proposes such a soul-picture, one that foregrounds the privacy of individual consciousness and links both practical rationality and the moral significance of action to the irreducible particularity of \u2018an individual living in time\u2019 (MGM 273). This soul-picture, Murdoch thinks, will allow us to recognise that \u2018the area of morals, and ergo of moral philosophy [is not a] hole-and-corner matter of debts and promises, but [covers] the whole of our mode of living and the quality of our relations with the world\u2019 (SG 380) In this short piece, it will only be possible to explore a tiny corner of the Murdochian vision just described. The discussion will focus on the role in which Murdoch casts Wittgenstein in this drama between two opposing soul-pictures. Murdoch's engagement with Wittgenstein's writings on the meaning of mental concepts, including the so-called \u2018private language argument\u2019, spans her whole philosophical life.11 Much less than one would like has been written on \u2018Murdoch's Wittgenstein\u2019. For exceptions, see Mac Cumhaill, (2020) in this volume; H\u00e4m\u00e4l\u00e4inen, 2014; Forsberg, 2013. Her first two publications\u2014\u2018Thinking and Language\u2019 (1951) and \u2018Nostalgia for the Particular\u2019 (1952)\u2014are concerned Wittgenstein's impact on philosophy of mind and ethics. Her Metaphysics as a Guide to Morals (1992) includes a chapter on Wittgenstein that centres on a discussion of the private linguist. Murdoch's relationship with Wittgenstein's later thought is far from that of a disciple, and though she presents herself as staying within the broad contours of his philosophy of mind and language,22 In her earlier writing, she is more inclined to limit her disagreement to Wittgenstein's followers, while Wittgenstein himself \u2018remains sphinx-like in the background\u2019 (IP 311). Later, in MGM, she takes a somewhat more critical stance, describing him, for example, as \u2018at times like a Martian staring at human affairs\u2019 (280) and asking why he is \u2018so anxious to set up this machinery which so pointedly excludes the individual peculiarity of speaking humans?\u2019 (281). But even there she is ambivalent, pointing to remarks in Wittgenstein, 1977 as evidence of agreement (283). her reading is an exploration of her own temperament as much as it is a cool appraisal of the text.33 The opening line of GG: \u2018To do philosophy is to explore one's own temperament, and yet at the same time to attempt to discover the truth\u2019 (337). But despite the novelty of her approach, her serious and systematic engagement with Wittgenstein's work illuminates links between the central themes of Philosophical Investigations and the project of virtue ethics that many interpreters of Wittgenstein have missed.44 We have been slow to appreciate the ethical significance of Wittgenstein's Philosophical Investigations. Even if we accept Williams and Montenfiore (1966) view that in his later work Wittgenstein's \u2018concern is with philosophy itself, in particular with the philosophy of logic and language\u2019 and not with \u2018moral or political topics\u2019 (12), this should not obscure for us the ethical significance of that work. Placed alongside Culture and Value (1977) the ethical dimension of that text is clearer still. For an overview of Murdochian virtue ethics see Bridget Clarke (2018). Some of these links are illuminated (though from a different angle) by her friend and interlocutor G. E. M. Anscombe; others are peculiar to Murdoch.55 In Anscombe, 1958. Unfortunately, I do not have space in this essay to explore these connections in the depth they deserve. Murdoch's task, as I see it, is to speak of the importance of privacy and individual consciousness in moral life in a way that is consistent with Wittgenstein's insight that we acquire mental concepts by mastering a technique for the use of a term in a public linguistic practice. Murdoch begins \u2018The Idea of Perfection\u2019 by sketching the \u2018theory of human nature\u2019 (IP 300) that she finds at work in much modern\u2014by which she means, post-Wittgensteinian British\u2014moral philosophy, of which the work of Hare (1952), Nowell-Smith (1954), and Hampshire (1959) is representative. The theory is connected with a \u2018powerful image\u2019 (IP 305) or \u2018picture of the soul\u2019 that (she says) is rarely fully articulated by these writers, but which she will seek to extract and describe (IP 300). What strikes Murdoch about this \u2018image\u2019\u2014and what, as we will see, makes it so damaging to the prospect of a perfectionist ethics\u2014is the extent to which it downplays or eradicates what is inner, private, personal and individual in favour of what is outer, public, universal and general, and describes a subject who is of (GG and his to the \u2018the that Murdoch in describes and G. E. M. as in \u2018the that Murdoch us to the presence of this by a in for this picture and not our (IP moral philosophy the it being an ethics which begins from the of (IP Murdoch in that on I with and not with his (IP In of a subject who and this is first and an a of his about in a public world\u2019 (IP I use This hero is to be as his inner is the and is as and only as it and in to this mental are and but not the for the of these I will to the of or the to be a in the to the to get by a of and and if such are at into this soul-picture, are (IP Murdoch the (IP the mental is in his public This in Murdoch in the of modern moral with a view about the relationship between will, or and The world\u2019 in which our is to (IP it is the of This is the of in the and it is his his that on in a (IP not vision the and the public is there is of this what is of his individual G. E. ethics of the of his is and an as it is his will that (IP is this individual that Murdoch to the (IP The choices what is of But he has public universal for on the of action for to For example, a to his and the presence of a of he will the to up the and from The of this practical from a universal with the to to a of This a from the particular to the there is about him, individual, that makes it the that he to do rather he in his The makes to as an individual but is with that the in which the such as the is will be by and so \u2018moral or \u2018moral what a to and the of a moral who this is to that it is to moral The Murdoch is on this view \u2018the of that and the Good by it with this (IP this in that is and only be concerned with public (IP The picture is and would be a for to the extent to which the and Murdoch in this picture be and of or Murdoch has a or This not for Murdoch in The Sovereignty of her is only to describe a picture she finds at work in modern moral philosophy she in (IP that might have been different in the of Murdoch's project a of historical and not of more is Murdoch has the work of her the that Murdoch in \u2018The of in the of this to explore this is by the this picture of human for the moral concepts that are of the This in that it would a of not to as the of modern moral philosophy with \u2018the whole of the is on the of modern philosophy, but like Murdoch she the of to the absence of a of that of human Murdoch makes her of this in terms of the of modern moral philosophy are at with of there has been a in our moral language from of vision to of and this has for our thought and about The of modern philosophy is a in public of himself only that are universal and general, his to of The moral into his at and isolated of is different to the individual of \u2018the the centre of ethical life is personal and and for is that is at a whole of and Murdoch a like to why a set of concepts that central to ethics have to be or have to be for This is of to that we have these us are while concepts (IP for the individual and for the The use of a the background against which it has meaning has to example, and be to a time or in which the background not or is not (e.g., the to the of a many practical and political in human life is the we have in our use of a is with a and it is a friend of on this a The we The discussion of Wittgenstein on this Mac in this their in the in philosophy of mind and that with and which have or the background to human against which concepts have their This is Murdoch's (GG 343). Anscombe, In these Murdoch's way into the that is the modern (IP is about \u2018the of what is (IP on these she is able to the of Wittgenstein's on the \u2018private of the mind on moral of in her to a for the of an inner life in the of Wittgenstein's with Murdoch's philosophy will that there are many her and that the of are and In on this which is a one in these I one and others moral even that which is is the of a of that be thought of as two The Sovereignty of Good on the if we are to Murdoch's and just she privacy into we will to to the earlier In both the in the of what is is with a in or to that this of a in or is connected with what Wittgenstein \u2018the first that in philosophy We a picture that our philosophical to the making the and that are at work in our and that they be The first a of the human mind as an The are by subject to their own a \u2018private in which to which she is the only about that on her or making on the of her this picture of the mind a on the way we about and the meaning of mental concepts, of other and the privacy of the for and The are it against this the of inner and within is to the I with by an of pointing Wittgenstein, This picture of and of the and role of inner the philosophical as Murdoch and many others of her it, not Wittgenstein's work from the Wittgenstein's the of the of in which the view of privacy that is Murdoch's is This is by an attempt to the picture other an on the theory of meaning that it This in makes it possible to the \u2018private which is with and In it is a central of the picture that each individual the meaning of and mental concepts of inner picture mind as an inner is to the of as only I \u2018private The public has a but I must to what I by Wittgenstein's on this in the so-called \u2018private language and in his exploration of the between meaning and use to the what mental terms in their meaning is a and between language and Murdoch us that the modern to be Wittgenstein's on the picture of meaning connected with of taken to that concepts must be (IP who that concepts must be that the meaning of a mental is by what is by a who up the use of a What is Wittgenstein is not a for to private, inner, but a public with by which linguistic her this is the for concepts, including mental Wittgenstein us that a is for the public use of This is is a of the first of Wittgenstein, For more these see, for example, Anscombe, and The use of is into of linguistic and and a of what must be is the to in in which have their This will much that is not For example, the of and in the of to for an discussion of and for remarks on is the that these to the we a the meaning of a by a of linguistic and and so But the more of her is and is the of her being by her and by other who for as a in the of life into which she is This for example, of being who speak with each other and to and so The is to have the that a she is fully able to in the in which the has one of which is that she the in that with the linguistic of her The that concepts must be is not the that to acquire mental concepts is to acquire for the public use of is the that the the meaning of mental Murdoch it, it is the that do not that the that the public for the use of the and that I at the of life as a is \u2018the of the (IP This is the to Murdoch's of the of the mental concepts are only of that to the of a public technique are to the meaning of mental This the of or in that might from (IP on the of the that is of the public that might more of and The of moral example, about the meaning of or the quality of be only as that of more of a public the significance of or private for the meaning of mental concepts is to the of moral concepts must their application in the public at of We see for a moral philosophy that from the that mental concepts must be will of what is a the technique for the use of a is a of the The use of be by to what is but must rather to what is and of being to what is being that there is much more to be about Murdoch's For a and see Mac (2020) in this Murdoch to accept of Wittgenstein's on the picture of the Wittgenstein's of language to the of view of meaning that is to that Wittgenstein that for linguistic meaning that is in the The of a and between and is a as much for the of as for of inner Wittgenstein's us that the language we use to speak of our private the language in which the his is the of our that is private of the of a public (IP Murdoch not accept the that mental concepts must be an that the the of Wittgenstein's picture of it into a on the of Murdoch's insight is that on privacy by Wittgenstein is an on the of the private and as such is not an on or the private as that modern of the private is the of a of philosophical with two The on which we have that the as the of meaning for mental that modern moral to that is to including the meaning of mental concepts, in the public But it the that the with of which the of that is Wittgenstein's is Wittgenstein's is that Murdoch is to that in that what is private of the of a public his is not privacy as but privacy as it is or within the Wittgenstein not that the are is or but it is to by Murdoch in that are of Wittgenstein's must be between and the private Wittgenstein, Wittgenstein the picture of the private inner there is to that the picture of the human he is not a background for of This is Murdoch's in that Wittgenstein as of his on the picture of is to the whole human including her life with other such as the of philosophical This from the of life and not We and in this as a to or in Anscombe, and but this is more in Murdoch's rather than life of and and and as as the historical individual, and Murdoch Wittgenstein that she the privacy of the inner in the use that a who has a public on to of it as she her Murdoch that who has the technique for the use of a and has there is to in a public is \u2018an individual living in time\u2019 and has virtue of this a her and a of her (MGM 273). This will particular on the concepts she has that her what she or in the life she has so far The simple of her is living her that the she she a language will over is in this of possible only for a human who is one speaking a Murdoch the We might use Murdoch's discussion of and to this (IP but I to her less of a to what he is or (IP This is for a of with the concepts of and I it with it Murdoch us with a of Wittgenstein's \u2018private This is a she in Murdoch's Wittgenstein's is to work what he But Wittgenstein's private to a private only the resources that would be available to the mind as the it, Murdoch's is an living in time\u2019 (MGM 273). Wittgenstein's private Murdoch in a that a philosophical moral for a who has the picture (MGM 273). and we will have to \u2018an of about character and that Wittgenstein's he a a a a a to the character in with of as but a with the in is more is a a or to to to be left by Murdoch the In Murdoch takes up the of he is to what he is from us as a this describe his to what he is is by the to what he is the same as he in it a subject matter for and what I or or or and we the into human life we must what we from is an historical individual who into a by human of action and he as he has to the of in a This is must have if we are to of as to he not we would to the first or to other that would recognise that he to the that our of mental concepts by mastering public for the use of private of that and his not into the meaning of the he despite his of these he finds in a way that is with the he our or to in the of the or 311). The language he has in a both to these and to a do I is not the same as the I the public that the he and use of our for the use of the with the or the describes the as the and the The between Murdoch and illuminates the between Wittgenstein's view of and that of the so-called language\u2019 on his own example, he he the or in a But such if they are in a of serious moral if they within an ethical that as central to moral progress and to at to \u2018the of language\u2019 and to focus his (IP what would be for him, the individual that he with a life and that is his that the he has is not or or he be concerned that a with the is that who are with or the depth and sincerity of their in just these of and that such in their and their of Murdoch he will be a use of a one in which he into his (IP is to that Murdoch thinks such a be possible or of This must be if he is to one who others and language is a for living that for the work that he with and on his he to private his not our that is and which makes that work as \u2018moral he to the public with his and connections will be to he for example, at see his to his as an of her or a as a of see his own of the ethical of this it will be to the of the or that in Murdoch's thought with that which has to in the of Wittgenstein's I he is thought of as a virtue of a Murdochian I picture of the mind between his ethics and For the of this I to in it is in his and that he his moral philosophy to For the is by the conceptual of the in the The he takes from the private language is that just as the public is so is the that this is an of Wittgenstein's own though he that his reading must of in and is on the and on the This to a of that are to of which I the inner and so that of inner are to the subject with the conceptual that linguistic For there be inner that the of picture makes of the of and that Murdoch describes as the of a into for will be fully by \u2018the of like the conceptual available on the theory of it only to more of a public of is articulated in terms of of is that that are and inner must be as of not For connections between Wittgenstein's and discussion of see In for Murdoch an on her to the that the of public Murdoch's picture the of an individual public concepts that would her into a particular set of for example, as a of language have a it have the and thought are not this is so is if we the of to a linguistic as to an We what it is like for thought to be by a or for a to a This of for her from the into which she is that from the in her this in the of Murdoch's we might the in that from and to Wittgenstein's within a picture by by of and Murdoch Wittgenstein in a to by I have it, Murdoch's view is that the of the private use of public concepts is not one that is at with Wittgenstein's insight that the public human is by concepts, and that what a must do in to to such a is on to and within What a for privacy is the of concepts, which and by the that their Murdoch us to in our ethics the particular who her life in this and not only of what is and The extent to which Murdoch disagreement with Wittgenstein is a matter of rather than is In she is inclined to be more critical of Wittgenstein than his than in SG and the earlier In a simple there is to as the of or just and such choices be as I I I and I (IP This area of the moral life of sensible reasons\u2019 and is by and about what is and this area of moral is a of human of a whole. What Murdoch to this is a of moral that moral life to be our life as ethics to be \u2018the whole of our mode of living and the quality of our relations with the world\u2019 (SG Her picture of the private use of concepts by an public in a private and there that it to a life her to what is to is what she in and if what she in thought on the concepts she this the in which that individual is an which in the of such an world\u2019 (IP two public use of concepts in the of and the private use of concepts by an in the life of an life with much of the will a life with much of the will the moral or of Wittgenstein's not to inner (MGM I up a about or or the of must from in a private on life will both in I to one of Murdoch's ethics in this the role of language in the moral Murdoch has resources available that so this dimension of between we Murdoch's that one way to the private to life to of as to the of that I that the this individual to his of the that to his and not to our But Murdoch other that we have not yet which is the that the private is a and it is the who I by We in the of of attempt to describe. This is of our use of language to in a picture of our such is or This is not to that the of a as a is is not a even is to it is not the only one of philosophical In his earlier the a public into and in so to his with which he to the public The has the to do far more Her attempt to particular and for which she has her to and in an attempt to be she is a will be that others and use for This is for \u2018the of language\u2019 is the of The is not the individual of the of but of our and of this as the of from to to to have for the background to human to the philosophy at and and to their Murdoch and to the at that for and discussion particular and to Mac for many and on this",
+      "cited_by_count": 15,
+      "type": "article",
+      "source": {
+        "name": "European Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0966-8373",
+          "1468-0378"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejop.12538"
+      },
+      "topics": [
+        "Philosophy and Literary Analysis",
+        "Philosophy, Ethics, and Existentialism",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3017994143"
+    },
+    {
+      "openalex_id": "W2622634793",
+      "doi": "10.3998/mpub.9708722",
+      "title": "Academic Ableism",
+      "authors": [
+        {
+          "name": "Jay Dolmage",
+          "openalex_id": "A5087968800"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The cover features bold colors and bold, oversize typography. Against a black background the word ACADEMIC is written in white and the word ABLEISM in red. The cover is not wide enough to accommodate the size of these words, so the words are intentionally broken: ACA-, then below this DEMIC, then below this ABLE-and then ISM (suggesting among other things that something in academia is broken). To the left is a small photograph of the sculpture Untitled (Spiral Staircase) by Peter Coffin. The sculpture consists of metal stairs that go nowhere, but instead curve back into themselves in one continuous tangle. The author's name, Jay Timothy Dolmage, appears in the top left corner; at the bottom of the page is Thanks to all of the folks who have shared their energy and dedication through the Committee on Disability Issues in College Composition over the years, from my mentor Cindy Lewiecki-Wilson to my first, finest, and continued coconspirators Stephanie Kerschbaum, Margaret Price, and Amy Vidali, through to all of those who will continue this work into the future.",
+      "cited_by_count": 710,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.fulcrum.org/ebooks/6t053h23g/download?locale=en"
+      },
+      "topics": [
+        "Disability Rights and Representation",
+        "University Challenges and Reforms"
+      ],
+      "referenced_works_count": 210,
+      "url": "https://openalex.org/W2622634793"
+    },
+    {
+      "openalex_id": "W2769436221",
+      "doi": "10.11647/obp.0130",
+      "title": "Wellbeing, Freedom and Social Justice",
+      "authors": [
+        {
+          "name": "Ingrid Robeyns",
+          "openalex_id": "A5050270181",
+          "orcid": "https://orcid.org/0000-0002-2893-1814",
+          "institutions": [
+            "Utrecht University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-27",
+      "abstract": "Notions such as wellbeing, freedom, and social justice are integral to evaluating social progress and developing policies. One increasingly influential way to think about these concepts is the capability approach, a theoretical framework which was pioneered by the philosopher and economist Amartya Sen in the 1980s. In this book Ingrid Robeyns orientates readers new to the capability approach through offering an explanation of this framework. Wellbeing, Freedom and Social Justice also endeavors to resolve historical disputes in the literature and thus will be equally engaging to those familiar with the field. The author offers a novel and illuminating account of how the capability approach can be understood in a variety of academic disciplines and fields of application. Special attention is paid to clarifying misunderstandings that have been caused by different disciplinary assumptions and the interpretive consequences they have for our consideration of the capability approach. Robeyns argues that respecting the distinction between the general capability approach, and more specific capability theories or applications, helps to clear up confusion and misinterpretation. In addition, the author presents detailed analyses of well-known objections to the capability approach, and also discusses how it relates to other schools of analysis such as theories of justice, human rights, basic needs, and the human development approach. Wellbeing, Freedom and Social Justice offers an original and comprehensive account of the field. The book will appeal to scholars of the capability approach as well as new readers looking for an interdisciplinary introduction.",
+      "cited_by_count": 838,
+      "type": "book",
+      "source": {
+        "name": "Open Book Publishers",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.openbookpublishers.com/10.11647/OBP.0130.pdf"
+      },
+      "topics": [
+        "Psychological Well-being and Life Satisfaction",
+        "Income, Poverty, and Inequality",
+        "Employment and Welfare Studies"
+      ],
+      "referenced_works_count": 461,
+      "url": "https://openalex.org/W2769436221"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

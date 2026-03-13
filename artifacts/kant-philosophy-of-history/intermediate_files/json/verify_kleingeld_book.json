@@ -1,18 +1,33 @@
 {
-  "status": "error",
+  "status": "success",
   "source": "crossref",
   "query": {
-    "title": "Fortschritt und Vernunft: Zur Geschichtsphilosophie Kants",
-    "author": "Kleingeld",
-    "year": 1995
+    "doi": "10.1017/cbo9781139015486"
   },
-  "results": [],
-  "count": 0,
-  "errors": [
+  "results": [
     {
-      "type": "not_found",
-      "message": "No matching papers found",
-      "recoverable": false
+      "verified": true,
+      "doi": "10.1017/cbo9781139015486",
+      "title": "Kant and Cosmopolitanism",
+      "authors": [
+        {
+          "family": "Kleingeld",
+          "given": "Pauline"
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/cbo9781139015486"
     }
-  ]
+  ],
+  "count": 1,
+  "errors": []
 }

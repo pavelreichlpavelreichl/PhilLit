@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Law of Peoples",
+    "author": "Rawls",
+    "year": 1999
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (20.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

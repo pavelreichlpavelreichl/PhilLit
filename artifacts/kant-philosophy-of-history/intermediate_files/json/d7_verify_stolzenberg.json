@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5922/0207-6918-2025-1-2
+[verify_paper.py] DOI verified: Kant on Enthusiasm...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5922/0207-6918-2025-1-2"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5922/0207-6918-2025-1-2",
+      "title": "Kant on Enthusiasm",
+      "authors": [
+        {
+          "family": "Stolzenberg",
+          "given": "J\u00fcrgen"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Kantian journal",
+      "volume": "44",
+      "issue": "1",
+      "page": "40-67",
+      "publisher": "Immanuel Kant Baltic Federal University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5922/0207-6918-2025-1-2"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,474 @@
+[search_arxiv.py] Connecting to arXiv API...
+[search_arxiv.py] Searching arXiv: 'all:moral progress philosophy history Kant', limit=20
+[search_arxiv.py] Search complete: 20 papers found
+[search_arxiv.py] Cached results (cache key: arxiv_f31a652fefc15b3c)
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:moral progress philosophy history Kant",
+  "results": [
+    {
+      "arxiv_id": "2603.12257",
+      "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
+      "authors": [
+        "Yujie Wei",
+        "Xinyu Liu",
+        "Shiwei Zhang",
+        "Hangjie Yuan",
+        "Jinbo Xing",
+        "Zhekai Chen",
+        "Xiang Wang",
+        "Haonan Qiu",
+        "Rui Zhao",
+        "Yutong Feng",
+        "Ruihang Chu",
+        "Yingya Zhang",
+        "Yike Guo",
+        "Xihui Liu",
+        "Hongming Shan"
+      ],
+      "abstract": "While large-scale diffusion models have revolutionized video synthesis, achieving precise control over both multi-subject identity and multi-granularity motion remains a significant challenge. Recent attempts to bridge this gap often suffer from limited motion granularity, control ambiguity, and identity degradation, leading to suboptimal performance on identity preservation and motion control. In this work, we present DreamVideo-Omni, a unified framework enabling harmonious multi-subject customization with omni-motion control via a progressive two-stage training paradigm. In the first stage, we integrate comprehensive control signals for joint training, encompassing subject appearances, global motion, local dynamics, and camera movements. To ensure robust and precise controllability, we introduce a condition-aware 3D rotary positional embedding to coordinate heterogeneous inputs and a hierarchical motion injection strategy to enhance global motion guidance. Furthermore, to resolve multi-subject ambiguity, we introduce group and role embeddings to explicitly anchor motion signals to specific identities, effectively disentangling complex scenes into independent controllable instances. In the second stage, to mitigate identity degradation, we design a latent identity reward feedback learning paradigm by training a latent identity reward model upon a pretrained video diffusion backbone. This provides motion-aware identity rewards in the latent space, prioritizing identity preservation aligned with human preferences. Supported by our curated large-scale dataset and the comprehensive DreamOmni Bench for multi-subject and omni-motion control evaluation, DreamVideo-Omni demonstrates superior performance in generating high-quality videos with precise controllability.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12257v1",
+      "url": "https://arxiv.org/abs/2603.12257"
+    },
+    {
+      "arxiv_id": "2603.12252",
+      "title": "EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models",
+      "authors": [
+        "Xuanlang Dai",
+        "Yujie Zhou",
+        "Long Xing",
+        "Jiazi Bu",
+        "Xilin Wei",
+        "Yuhong Liu",
+        "Beichen Zhang",
+        "Kai Chen",
+        "Yuhang Zang"
+      ],
+      "abstract": "Recently, Multimodal Large Language Models (MLLMs) have been widely integrated into diffusion frameworks primarily as text encoders to tackle complex tasks such as spatial reasoning. However, this paradigm suffers from two critical limitations: (i) MLLMs text encoder exhibits insufficient reasoning depth. Single-step encoding fails to activate the Chain-of-Thought process, which is essential for MLLMs to provide accurate guidance for complex tasks. (ii) The guidance remains invariant during the decoding process. Invariant guidance during decoding prevents DiT from progressively decomposing complex instructions into actionable denoising steps, even with correct MLLM encodings. To this end, we propose Endogenous Chain-of-Thought (EndoCoT), a novel framework that first activates MLLMs' reasoning potential by iteratively refining latent thought states through an iterative thought guidance module, and then bridges these states to the DiT's denoising process. Second, a terminal thought grounding module is applied to ensure the reasoning trajectory remains grounded in textual supervision by aligning the final state with ground-truth answers. With these two components, the MLLM text encoder delivers meticulously reasoned guidance, enabling the DiT to execute it progressively and ultimately solve complex tasks in a step-by-step manner. Extensive evaluations across diverse benchmarks (e.g., Maze, TSP, VSP, and Sudoku) achieve an average accuracy of 92.1%, outperforming the strongest baseline by 8.3 percentage points.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12252v1",
+      "url": "https://arxiv.org/abs/2603.12252"
+    },
+    {
+      "arxiv_id": "2603.12226",
+      "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
+      "authors": [
+        "Priyanka Kargupta",
+        "Shuhaib Mehri",
+        "Dilek Hakkani-Tur",
+        "Jiawei Han"
+      ],
+      "abstract": "Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, bypassing the exploratory, collaborative reasoning processes that drive creative interdisciplinary breakthroughs. As a result, prior efforts largely prioritize automating scientific discovery rather than augmenting the reasoning processes that underlie scientific disruption. We present Idea-Catalyst, a novel framework that systematically identifies interdisciplinary insights to support creative reasoning in both humans and large language models. Starting from an abstract research goal, Idea-Catalyst is designed to assist the brainstorming stage, explicitly avoiding premature anchoring on specific solutions. The framework embodies key metacognitive features of interdisciplinary reasoning: (a) defining and assessing research goals, (b) awareness of a domain's opportunities and unresolved challenges, and (c) strategic exploration of interdisciplinary ideas based on impact potential. Concretely, Idea-Catalyst decomposes an abstract goal (e.g., improving human-AI collaboration) into core target-domain research questions that guide the analysis of progress and open challenges within that domain. These challenges are reformulated as domain-agnostic conceptual problems, enabling retrieval from external disciplines (e.g., Psychology, Sociology) that address analogous issues. By synthesizing and recontextualizing insights from these domains back into the target domain, Idea-Catalyst ranks source domains by their interdisciplinary potential. Empirically, this targeted integration improves average novelty by 21% and insightfulness by 16%, while remaining grounded in the original research problem.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12226v1",
+      "url": "https://arxiv.org/abs/2603.12226"
+    },
+    {
+      "arxiv_id": "2603.12210",
+      "title": "A blended approach for evolving phase fields using peridynamics: Cyclic loading in quasi-brittle fracture",
+      "authors": [
+        "Hayden Bromley",
+        "Robert Lipton"
+      ],
+      "abstract": "A field theory is presented for predicting damage and fracture in quasi brittle materials incorporating effects of irreversible (plastic) deformation as well as elastic moduli that soften with damage. The new observation made here is that material degradation models consistent with plastic dissipation can be described by a two-point history-dependent phase field. This approach blends a two-point phase field with the deformation evolving according to Newton's second law by way of a nonlocal constitutive law. Here the nonlocality is in both space and time. The strain is given by an additive decomposition of elastic strain and irreversible strain. The stress-strain behavior is described by a strength envelope and a family of unloading laws based on damage and plasticity with elastic moduli that degrade in coordination with the accumulation of irreversible strain. The material displacement field is uniquely determined by the initial boundary value problem. The theory satisfies energy balance, with positive energy dissipation rate in accordance with the laws of thermodynamics. The fracture energy of flat cracks is recovered directly from the model and is the product of energy release rate and the crack area, moreover this formula is independent of the length scale of non-locality. The formulation delivers a mesh free method for predicting crack patterns and simulations show quantitative and qualitative agreement with experiments, including hysteresis and damage associated with three-point bending tests on concrete and size effects for quasi-brittle materials.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12210v1",
+      "url": "https://arxiv.org/abs/2603.12210"
+    },
+    {
+      "arxiv_id": "2603.12203",
+      "title": "Sparse Phase Ansatzes for Resource-Efficient Qudit State Preparation via the SNAP-Displacement Protocol",
+      "authors": [
+        "Maurizio Ferrari Dacrema"
+      ],
+      "abstract": "Efficient preparation of nonclassical bosonic states is a central requirement for quantum computing, simulation, and precision metrology. We study resource-efficient quantum state preparation in bosonic qudit systems using the SNAP-displacement (SD) protocol. Existing SD-based approaches typically require a large number of gates and SNAP phases, resulting in complex control pulses, increasing the ansatz duration, and amplifying the impact of photon-loss and control errors. In this work, we focus on the near- to medium-term regime, in which noisy quantum devices impose trade-offs on the fidelity that can be achieved, which must be taken into account. Specifically, we propose to optimize only a subset of the SNAP phases and introduce three progressively more general sparse ansatzes. To provide fine-grained control and identify the most suitable ansatz for a given target fidelity, we further employ a scalarized multi-objective optimization that trades off fidelity against either the number of phases or the duration of the ansatz. Numerical results for several target states and qudit dimensions up to $d=64$ show that these sparse ansatzes achieve favorable trade-offs compared to the fully parameterized SD protocol in both ideal and noisy settings, consistently reducing the number of required phases and suggesting a practical route to more efficient near- and medium-term bosonic state preparation.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "quant-ph",
+      "categories": [
+        "quant-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12203v1",
+      "url": "https://arxiv.org/abs/2603.12203"
+    },
+    {
+      "arxiv_id": "2603.12173",
+      "title": "AstroSat-UVIT observations of a possibly interacting pair of galaxies in HCG 77",
+      "authors": [
+        "Anshul Srivastava",
+        "Harvinder K. Jassal",
+        "Mamta Gulati",
+        "Kulinder P. Singh"
+      ],
+      "abstract": "We aim to study star-forming regions and the spectral energy distribution of two possibly interacting galaxies, PGC 56121 and PGC 56125, in the Hickson Compact Group 77. We utilized the far-ultraviolet (FUV) channel of the Ultra Violet Imaging Telescope (UVIT) on board AstroSat to observe and produce FUV images of the galaxies. Our FUV images are at a much higher resolution in comparison to those obtained from previous galaxy surveys by GALEX in the near-UV and those from PS-1, DSS. We have identified several star-forming regions in the two possibly interacting galaxies, PGC 56121 and PGC 56125. These two galaxies form a pair widely separated in redshift and are seen in projection. We also report the presence of a candidate tidal dwarf galaxy at the end of one of the tidal tails located to the east of the pair, and we identified three major star-forming regions in the tidal dwarf. The spectral energy distribution of three galaxies in the system is presented and analyzed to investigate the key physical properties, such as stellar mass, dust mass, total luminosity, and star formation history, of the three galaxies. Based on these observations and on a comparison with observations in radio, these three galaxies are probably part of a small group of interacting galaxies.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "astro-ph.GA",
+      "categories": [
+        "astro-ph.GA"
+      ],
+      "doi": "10.1051/0004-6361/202557341",
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12173v1",
+      "url": "https://arxiv.org/abs/2603.12173"
+    },
+    {
+      "arxiv_id": "2603.12166",
+      "title": "LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning",
+      "authors": [
+        "Haiying Xu",
+        "Zihan Wang",
+        "Song Dai",
+        "Zhengxuan Zhang",
+        "Kairan Dou",
+        "Xuming Hu"
+      ],
+      "abstract": "Despite recent advances in multimodal reasoning, representing auxiliary geometric constructions remains a fundamental challenge for multimodal large language models (MLLMs). Such constructions are absent from the original diagram and must be introduced before theorems apply. Existing approaches predominantly rely on explicit construction paradigms, including text-based geometric specification, visual-token interleaving during reasoning, and tool-augmented geometric execution. However, these methods either fail to faithfully represent complex spatial relationships, incur representation mismatch between discrete symbols and continuous geometric structures, or rely on external capabilities that hinder end-to-end optimization. To address these limitations, we propose LatentGeo, a framework that learns continuous latent visual representations to internalize auxiliary geometric constructions without pixel-level rendering or external executors. We design a three-stage curriculum that progressively aligns and internalizes these latent representations through auxiliary visual supervision, followed by LaGDPO, a latent-aware reinforcement learning procedure that stabilizes latent representations during policy optimization while improving end-task correctness. To systematically evaluate construction-centric representation quality, we introduce GeoAux, a new benchmark targeting visually dependent geometry problems, and conduct experiments on GeoAux and MathVerse. Results show that LatentGeo achieves substantial gains on geometric reasoning tasks, particularly those requiring auxiliary constructions. Extensive analyses and ablation studies further validate the effectiveness of each component in our framework.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12166v1",
+      "url": "https://arxiv.org/abs/2603.12166"
+    },
+    {
+      "arxiv_id": "2603.12161",
+      "title": "Quantum lower bounds for simulating fluid dynamics",
+      "authors": [
+        "Abtin Ameri",
+        "Joseph Carolan",
+        "Andrew M. Childs",
+        "Hari Krovi"
+      ],
+      "abstract": "Developing quantum algorithms to simulate fluid dynamics has become an active area of research, as accelerating fluid simulations could have significant impact in both industry and fundamental science. While many approaches have been proposed for simulating fluid dynamics on quantum computers, it is largely unclear whether these algorithms will provide speedup over existing classical approaches. In this paper we give evidence that quantum computers cannot significantly outperform classical simulations of fluid dynamics in general. We study two models of fluids: the Korteweg-de Vries (KdV) equation, which models shallow water waves, and the incompressible Euler equations, which model ideal, inviscid fluids. We show that any quantum algorithm simulating the KdV equation or the Euler equations for time $T$ requires $\u03a9(T^2)$ and $e^{\u03a9(T)}$ copies of the initial state in the worst case, respectively. These lower bounds hold for the task of preparing the final state, and similar bounds hold for history state preparation. We prove the lower bound for the KdV equation by investigating divergence of solitons. For the Euler equations, we show that instabilities enable fast state discrimination.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "quant-ph",
+      "categories": [
+        "quant-ph",
+        "physics.flu-dyn",
+        "physics.plasm-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12161v1",
+      "url": "https://arxiv.org/abs/2603.12161"
+    },
+    {
+      "arxiv_id": "2603.12155",
+      "title": "GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows",
+      "authors": [
+        "Zexuan Yan",
+        "Jiarui Jin",
+        "Yue Ma",
+        "Shijian Wang",
+        "Jiahui Hu",
+        "Wenxiang Jiao",
+        "Yuan Lu",
+        "Linfeng Zhang"
+      ],
+      "abstract": "Despite recent advances in generative models driving significant progress in text rendering, accurately generating complex text and mathematical formulas remains a formidable challenge. This difficulty primarily stems from the limited instruction-following capabilities of current models when encountering out-of-distribution prompts. To address this, we introduce GlyphBanana, alongside a corresponding benchmark specifically designed for rendering complex characters and formulas. GlyphBanana employs an agentic workflow that integrates auxiliary tools to inject glyph templates into both the latent space and attention maps, facilitating the iterative refinement of generated images. Notably, our training-free approach can be seamlessly applied to various Text-to-Image (T2I) models, achieving superior precision compared to existing baselines. Extensive experiments demonstrate the effectiveness of our proposed workflow. Associated code is publicly available at https://github.com/yuriYanZeXuan/GlyphBanana.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12155v1",
+      "url": "https://arxiv.org/abs/2603.12155"
+    },
+    {
+      "arxiv_id": "2603.12152",
+      "title": "LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation",
+      "authors": [
+        "Feiyu Duan",
+        "Xuanjing Huang",
+        "Zhongyu Wei"
+      ],
+      "abstract": "The rapid advancement of large language models (LLMs) has accelerated progress toward universal AI assistants. However, existing benchmarks for personalized assistants remain misaligned with real-world user-assistant interactions, failing to capture the complexity of external contexts and users' cognitive states. To bridge this gap, we propose LifeSim, a user simulator that models user cognition through the Belief-Desire-Intention (BDI) model within physical environments for coherent life trajectories generation, and simulates intention-driven user interactive behaviors. Based on LifeSim, we introduce LifeSim-Eval, a comprehensive benchmark for multi-scenario, long-horizon personalized assistance. LifeSim-Eval covers 8 life domains and 1,200 diverse scenarios, and adopts a multi-turn interactive method to assess models' abilities to complete explicit and implicit intentions, recover user profiles, and produce high-quality responses. Under both single-scenario and long-horizon settings, our experiments reveal that current LLMs face significant limitations in handling implicit intention and long-term user preference modeling.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12152v1",
+      "url": "https://arxiv.org/abs/2603.12152"
+    },
+    {
+      "arxiv_id": "2603.12146",
+      "title": "FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance",
+      "authors": [
+        "Quanhao Li",
+        "Zhen Xing",
+        "Rui Wang",
+        "Haidong Cao",
+        "Qi Dai",
+        "Daoguo Dong",
+        "Zuxuan Wu"
+      ],
+      "abstract": "Recent advances in trajectory-controllable video generation have achieved remarkable progress. Previous methods mainly use adapter-based architectures for precise motion control along predefined trajectories. However, all these methods rely on a multi-step denoising process, leading to substantial time redundancy and computational overhead. While existing video distillation methods successfully distill multi-step generators into few-step, directly applying these approaches to trajectory-controllable video generation results in noticeable degradation in both video quality and trajectory accuracy. To bridge this gap, we introduce FlashMotion, a novel training framework designed for few-step trajectory-controllable video generation. We first train a trajectory adapter on a multi-step video generator for precise trajectory control. Then, we distill the generator into a few-step version to accelerate video generation. Finally, we finetune the adapter using a hybrid strategy that combines diffusion and adversarial objectives, aligning it with the few-step generator to produce high-quality, trajectory-accurate videos. For evaluation, we introduce FlashBench, a benchmark for long-sequence trajectory-controllable video generation that measures both video quality and trajectory accuracy across varying numbers of foreground objects. Experiments on two adapter architectures show that FlashMotion surpasses existing video distillation methods and previous multi-step models in both visual quality and trajectory consistency.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "cs.MM"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12146v1",
+      "url": "https://arxiv.org/abs/2603.12146"
+    },
+    {
+      "arxiv_id": "2603.12132",
+      "title": "History state formalism for time series with application to finance",
+      "authors": [
+        "F. Lomoc",
+        "N. Canosa",
+        "A. P. Boette",
+        "R. Rossignoli"
+      ],
+      "abstract": "We present a method for analyzing general time series by employing the history state formalism of quantum mechanics. This formalism allows us to describe a complete evolution based on a single quantum state, the history state, which simultaneously includes -also as a quantum system- the reference clock. It naturally leads to the concept of system-time entanglement, with the ensuing entanglement entropy constituting a measure of the effective number of distinguishable states visited in the history. Through a quantum coherent state embedding of the time series data, it is then possible to associate a quantum history state to the series. The gaussian overlap between these coherent states provides thus a smooth measure of distinguishability between the series data. The eigenvalues of the corresponding overlap matrix determine in fact the entanglement spectrum and entropy of the history state, which provide a rigorous characterization of the evolution. As illustration, the formalism is applied to typical financial time-series data. Through the entanglement entropy and spectrum, different evolution regimes can be identified. Entanglement based volatility indicators are also derived, and compared with standard volatility measures.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "quant-ph",
+      "categories": [
+        "quant-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12132v1",
+      "url": "https://arxiv.org/abs/2603.12132"
+    },
+    {
+      "arxiv_id": "2603.12123",
+      "title": "Cross-Context Review: Improving LLM Output Quality by Separating Production and Review Sessions",
+      "authors": [
+        "Tae-Eun Song"
+      ],
+      "abstract": "Large language models struggle to catch errors in their own outputs when the review happens in the same session that produced them. This paper introduces Cross-Context Review (CCR), a straightforward method where the review is conducted in a fresh session with no access to the production conversation history. We ran a controlled experiment: 30 artifacts (code, technical documents, presentation scripts) with 150 injected errors, tested under four review conditions -- same-session Self-Review (SR), repeated Self-Review (SR2), context-aware Subagent Review (SA), and Cross-Context Review (CCR). Over 360 reviews, CCR reached an F1 of 28.6%, outperforming SR (24.6%, p=0.008, d=0.52), SR2 (21.7%, p<0.001, d=0.72), and SA (23.8%, p=0.004, d=0.57). The SR2 result matters most for interpretation: reviewing twice in the same session did not beat reviewing once (p=0.11), which rules out repetition as an explanation for CCR's advantage. The benefit comes from context separation itself. CCR works with any model, needs no infrastructure, and costs only one extra session.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12123v1",
+      "url": "https://arxiv.org/abs/2603.12123"
+    },
+    {
+      "arxiv_id": "2603.12108",
+      "title": "EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation",
+      "authors": [
+        "Yan Li",
+        "Ning Liao",
+        "Xiangyu Zhao",
+        "Shaofeng Zhang",
+        "Xiaoxing Wang",
+        "Yifan Yang",
+        "Junchi Yan",
+        "Xue Yang"
+      ],
+      "abstract": "The development of unified multimodal large language models (MLLMs) is fundamentally challenged by the granularity gap between visual understanding and generation: understanding requires high-level semantic abstractions, while image generation demands fine-grained pixel-level representations. Existing approaches usually enforce the two supervision on the same set of representation or decouple these two supervision on separate feature spaces, leading to interference and inconsistency, respectively. In this work, we propose EvoTok, a unified image tokenizer that reconciles these requirements through a residual evolution process within a shared latent space. Instead of maintaining separate token spaces for pixels and semantics, EvoTok encodes an image into a cascaded sequence of residual tokens via residual vector quantization. This residual sequence forms an evolution trajectory where earlier stages capture low-level details and deeper stages progressively transition toward high-level semantic representations. Despite being trained on a relatively modest dataset of 13M images, far smaller than the billion-scale datasets used by many previous unified tokenizers, EvoTok achieves a strong reconstruction quality of 0.43 rFID on ImageNet-1K at 256x256 resolution. When integrated with a large language model, EvoTok shows promising performance across 7 out of 9 visual understanding benchmarks, and remarkable results on image generation benchmarks such as GenEval and GenAI-Bench. These results demonstrate that modeling visual representations as an evolving trajectory provides an effective and principled solution for unifying visual understanding and generation.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12108v1",
+      "url": "https://arxiv.org/abs/2603.12108"
+    },
+    {
+      "arxiv_id": "2603.12091",
+      "title": "Resource-Efficient Iterative LLM-Based NAS with Feedback Memory",
+      "authors": [
+        "Xiaojie Gu",
+        "Dmitry Ignatov",
+        "Radu Timofte"
+      ],
+      "abstract": "Neural Architecture Search (NAS) automates network design, but conventional methods demand substantial computational resources. We propose a closed-loop pipeline leveraging large language models (LLMs) to iteratively generate, evaluate, and refine convolutional neural network architectures for image classification on a single consumer-grade GPU without LLM fine-tuning. Central to our approach is a historical feedback memory inspired by Markov chains: a sliding window of $K{=}5$ recent improvement attempts keeps context size constant while providing sufficient signal for iterative learning. Unlike prior LLM optimizers that discard failure trajectories, each history entry is a structured diagnostic triple -- recording the identified problem, suggested modification, and resulting outcome -- treating code execution failures as first-class learning signals. A dual-LLM specialization reduces per-call cognitive load: a Code Generator produces executable PyTorch architectures while a Prompt Improver handles diagnostic reasoning. Since both the LLM and architecture training share limited VRAM, the search implicitly favors compact, hardware-efficient models suited to edge deployment. We evaluate three frozen instruction-tuned LLMs (${\\leq}7$B parameters) across up to 2000 iterations in an unconstrained open code space, using one-epoch proxy accuracy on CIFAR-10, CIFAR-100, and ImageNette as a fast ranking signal. On CIFAR-10, DeepSeek-Coder-6.7B improves from 28.2% to 69.2%, Qwen2.5-7B from 50.0% to 71.5%, and GLM-5 from 43.2% to 62.0%. A full 2000-iteration search completes in ${\\approx}18$ GPU hours on a single RTX~4090, establishing a low-budget, reproducible, and hardware-aware paradigm for LLM-driven NAS without cloud infrastructure.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12091v1",
+      "url": "https://arxiv.org/abs/2603.12091"
+    },
+    {
+      "arxiv_id": "2603.12089",
+      "title": "EmbTracker: Traceable Black-box Watermarking for Federated Language Models",
+      "authors": [
+        "Haodong Zhao",
+        "Jinming Hu",
+        "Yijie Bai",
+        "Tian Dong",
+        "Wei Du",
+        "Zhuosheng Zhang",
+        "Yanjiao Chen",
+        "Haojin Zhu",
+        "Gongshen Liu"
+      ],
+      "abstract": "Federated Language Model (FedLM) allows a collaborative learning without sharing raw data, yet it introduces a critical vulnerability, as every untrustworthy client may leak the received functional model instance. Current watermarking schemes for FedLM often require white-box access and client-side cooperation, providing only group-level proof of ownership rather than individual traceability. We propose EmbTracker, a server-side, traceable black-box watermarking framework specifically designed for FedLMs. EmbTracker achieves black-box verifiability by embedding a backdoor-based watermark detectable through simple API queries. Client-level traceability is realized by injecting unique identity-specific watermarks into the model distributed to each client. In this way, a leaked model can be attributed to a specific culprit, ensuring robustness even against non-cooperative participants. Extensive experiments on various language and vision-language models demonstrate that EmbTracker achieves robust traceability with verification rates near 100\\%, high resilience against removal attacks (fine-tuning, pruning, quantization), and negligible impact on primary task performance (typically within 1-2\\%).",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CR",
+      "categories": [
+        "cs.CR"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12089v1",
+      "url": "https://arxiv.org/abs/2603.12089"
+    },
+    {
+      "arxiv_id": "2603.12071",
+      "title": "Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments",
+      "authors": [
+        "Zhaoyang Jiang",
+        "Zhizhong Fu",
+        "David McAllister",
+        "Yunsoo Kim",
+        "Honghan Wu"
+      ],
+      "abstract": "Longitudinal brain MRI is essential for characterizing the progression of neurological diseases such as Alzheimer's disease assessment. However, current deep-learning tools fragment this process: classifiers reduce a scan to a label, volumetric pipelines produce uninterpreted measurements, and vision-language models (VLMs) may generate fluent but potentially hallucinated conclusions. We present LoV3D, a pipeline for training 3D vision-language models, which reads longitudinal T1-weighted brain MRI, produces a region-level anatomical assessment, conducts longitudinal comparison with the prior scan, and finally outputs a three-class diagnosis (Cognitively Normal, Mild Cognitive Impairment, or Dementia) along with a synthesized diagnostic summary. The stepped pipeline grounds the final diagnosis by enforcing label consistency, longitudinal coherence, and biological plausibility, thereby reducing the risks of hallucinations. The training process introduces a clinically-weighted Verifier that scores candidate outputs automatically against normative references derived from standardized volume metrics, driving Direct Preference Optimization without a single human annotation. On a subject-level held-out ADNI test set (479 scans, 258 subjects), LoV3D achieves 93.7% three-class diagnostic accuracy (+34.8% over the no-grounding baseline), 97.2% on two-class diagnosis accuracy (+4% over the SOTA) and 82.6% region-level anatomical classification accuracy (+33.1% over VLM baselines). Zero-shot transfer yields 95.4% on MIRIAD (100% Dementia recall) and 82.9% three-class accuracy on AIBL, confirming high generalizability across sites, scanners, and populations. Code is available at https://github.com/Anonymous-TEVC/LoV-3D.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12071v1",
+      "url": "https://arxiv.org/abs/2603.12071"
+    },
+    {
+      "arxiv_id": "2603.12056",
+      "title": "XSkill: Continual Learning from Experience and Skills in Multimodal Agents",
+      "authors": [
+        "Guanyu Jiang",
+        "Zhaochen Su",
+        "Xiaoye Qu",
+        "Yi R.",
+        "Fung"
+      ],
+      "abstract": "Multimodal agents can now tackle complex reasoning tasks with diverse tools, yet they still suffer from inefficient tool use and inflexible orchestration in open-ended settings. A central challenge is enabling such agents to continually improve without parameter updates by learning from past trajectories. We identify two complementary forms of reusable knowledge essential for this goal: experiences, providing concise action-level guidance for tool selection and decision making, and skills, providing structured task-level guidance for planning and tool use. To this end, we propose XSkill, a dual-stream framework for continual learning from experience and skills in multimodal agents. XSkill grounds both knowledge extraction and retrieval in visual observations. During accumulation, XSkill distills and consolidates experiences and skills from multi-path rollouts via visually grounded summarization and cross-rollout critique. During inference, it retrieves and adapts this knowledge to the current visual context and feeds usage history back into accumulation to form a continual learning loop. Evaluated on five benchmarks across diverse domains with four backbone models, XSkill consistently and substantially outperforms both tool-only and learning-based baselines. Further analysis reveals that the two knowledge streams play complementary roles in influencing the reasoning behaviors of agents and show superior zero-shot generalization.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12056v1",
+      "url": "https://arxiv.org/abs/2603.12056"
+    },
+    {
+      "arxiv_id": "2603.12044",
+      "title": "HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment",
+      "authors": [
+        "Krishna Kant Singh",
+        "Eric M\u00fcller",
+        "Eleni Mathioulaki",
+        "Wouter Klijn",
+        "Lena Oden"
+      ],
+      "abstract": "Deploying complex, distributed scientific workflows across diverse HPC sites is often hindered by site-specific dependencies and complex build environments. This paper investigates the design and performance of portable HPC container images capable of encapsulating MPI- and CUDA-enabled software stacks without sacrificing bare-metal performance. This work is part of recent work performed within the EBRAINS Research Infrastructure, to evaluate the implementation of portable HPC (Apptainer-based) container images targeting the EBRAINS Software Distribution (ESD) -- a Spack-based software ecosystem comprising approximately 80 top-level packages (and 800 dependencies). We evaluate a hybrid, PMIx-based containerization strategy using Apptainer that seamlessly bypasses the need for site-specific builds by dynamically leveraging host-level specialized hardware, such as network interfaces and GPUs, on two production HPC clusters: Karolina and Jureca-DC. We demonstrate the feasibility of building portable, MPI- and CUDA-enabled scientific software into container images that correctly leverage site-installed drivers and hardware to reproduce bare-metal communication behavior. Using communication microbenchmarks (e.g., OSU and NCCL) alongside performance metrics of applications from neuroscience, we measure and verify their performance against bare-metal deployments. Crucially, our verification approach extends beyond top-level runtime measurements; we highlight the analysis of underlying debug logs to actively detect misbehavior and misconfigurations, such as suboptimal transport pathways. Ultimately, this investigation demonstrates the feasibility of a simple and reproducible methodology for decoupling software environments from underlying infrastructures, paving the way for automated pipelines that ensure optimized, performance-verified execution across varied HPC architectures.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.DC",
+      "categories": [
+        "cs.DC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12044v1",
+      "url": "https://arxiv.org/abs/2603.12044"
+    },
+    {
+      "arxiv_id": "2603.12038",
+      "title": "Slow-Fast Inference: Training-Free Inference Acceleration via Within-Sentence Support Stability",
+      "authors": [
+        "Xingyu Xie",
+        "Zhaochen Yu",
+        "Yue Liao",
+        "Tao Wang",
+        "Kim-Chuan Toh",
+        "Shuicheng Yan"
+      ],
+      "abstract": "Long-context autoregressive decoding remains expensive because each decoding step must repeatedly process a growing history. We observe a consistent pattern during decoding: within a sentence, and more generally within a short semantically coherent span, the dominant attention support often remains largely stable. Motivated by this observation, we propose Slow-Fast Inference (SFI), a training-free decoding framework that decouples generation into frequent low-cost fast steps and occasional dense-attention slow steps. Fast steps reuse a compact sparse memory for efficient decoding. Slow steps are triggered near semantic boundaries. At slow steps, the model revisits the broader context and uses the Selector to refresh the selected memory for subsequent fast steps. Across the evaluated context lengths, SFI delivers approximately $1.6\\times$--$14.4\\times$ higher decoding throughput while generally maintaining quality on par with the full-KV baseline across long-context and long-CoT settings. Because SFI is training-free and applies directly to existing checkpoints, it offers a practical path to reducing inference cost for contemporary autoregressive reasoning models in long-context, long-horizon, and agentic workloads.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12038v1",
+      "url": "https://arxiv.org/abs/2603.12038"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}
