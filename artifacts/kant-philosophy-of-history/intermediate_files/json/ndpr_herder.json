@@ -1,0 +1,2 @@
+usage: fetch_ndpr.py [-h] (--url URL | --slug SLUG) [--debug]
+fetch_ndpr.py: error: one of the arguments --url --slug is required

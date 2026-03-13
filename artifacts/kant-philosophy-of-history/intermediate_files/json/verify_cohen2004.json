@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Kant's Antinomy of Reflective Judgment: A Re-evaluation",
+    "author": "Cohen",
+    "year": 2004
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (19.9) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

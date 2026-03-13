@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Bounds of Justice",
+    "author": "O'Neill",
+    "year": 2000
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (15.8) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

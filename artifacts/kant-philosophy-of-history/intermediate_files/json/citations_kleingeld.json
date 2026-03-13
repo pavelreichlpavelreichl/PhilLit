@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "fd8d8bca7746c1e7289a7bd980ef0a9bbd2daaf0",
+  "results": [
+    {
+      "paper": {
+        "paperId": "fd8d8bca7746c1e7289a7bd980ef0a9bbd2daaf0",
+        "title": "Kant, History, and the Idea of Moral Development",
+        "authors": [
+          {
+            "name": "P. Kleingeld",
+            "authorId": "35001952"
+          }
+        ],
+        "year": 1999,
+        "abstract": null,
+        "citationCount": 92,
+        "doi": null,
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/fd8d8bca7746c1e7289a7bd980ef0a9bbd2daaf0",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "b62ed9e47689d40bcfb41f08894046feed499450",
+          "title": "From Rationality to Morality: The Collective Development of Practical Reason in Kant\u2019s Moral Anthropology",
+          "authors": [
+            {
+              "name": "Olga Lenczewska",
+              "authorId": "87755192"
+            }
+          ],
+          "year": 2022,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1017/S1369415422000152",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/b62ed9e47689d40bcfb41f08894046feed499450",
+          "venue": "Kantian Review",
+          "isInfluential": true,
+          "contexts": [
+            "4 See, for example, Yovel 1978, 1989; Kain 1989; Wood 1991, 1999; Kleingeld 1997, 2009; Munzel 1999, 2003; Deligiorgi 2005, 2017; Herman 2009; Schneewind 2009; Louden 2011, 2017; Cohen 2012; Formosa 2012; Kuehn 2012; Moran 2012; Frierson 2013; Shell 2015.",
+            "In other words, it is not morality that goes through a historical process; rather, it is human understanding of it that does (cf. Kleingeld 1997: 65\u20139).",
+            "(To be sure, this does not mean that prudential reason is somehow created at this point, which would be incompatible with Kant\u2019s assertions that humans of all eras enter the world with the same rational predispositions and moral potential (Kleingeld 1997: 65\u20136).",
+            "The rational development of humankind \u2018is ultimately to culminate in the selftransformation of society into a moral community\u2019 (Kleingeld 1997: 61; see also Anth, 7: 331)."
+          ],
+          "intents": [
+            "background"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

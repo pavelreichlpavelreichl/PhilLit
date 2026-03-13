@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Kant, History, and the Idea of Moral Development",
+    "author": "Kleingeld",
+    "year": 1999
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (25.8) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

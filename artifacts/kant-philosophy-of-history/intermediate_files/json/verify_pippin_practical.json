@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel practical philosophy rational agency...' author=Pippin year=2008
+[verify_paper.py] Paper found: Hegel's Practical Philosophy... (score: 49.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel practical philosophy rational agency",
+    "author": "Pippin",
+    "year": 2008
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cbo9780511808005",
+      "title": "Hegel's Practical Philosophy",
+      "authors": [
+        {
+          "family": "Pippin",
+          "given": "Robert B."
+        }
+      ],
+      "editors": [],
+      "year": 2008,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cbo9780511808005",
+      "score": 49.548557
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

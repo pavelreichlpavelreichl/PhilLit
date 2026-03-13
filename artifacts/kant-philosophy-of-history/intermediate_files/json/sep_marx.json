@@ -1,0 +1,617 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: marx
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Karl Marx
+{
+  "status": "success",
+  "source": "sep",
+  "query": "marx",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/marx/",
+      "entry_name": "marx",
+      "title": "Karl Marx",
+      "preamble": "Karl Marx (1818\u20131883) is often treated as an activist rather\nthan a philosopher, a revolutionary whose works inspired the\nfoundation of communist regimes in the twentieth century.\nHowever\u2014without denying that considerable, if complex,\nhistorical impact\u2014Marx was trained academically as a philosopher\n(with a doctorate in ancient philosophy); he engaged directly with\nphilosophical contemporaries and predecessors (including G.W.F.\nHegel); and his extensive writings include many interesting and\ninfluential treatments of philosophical subjects. In terms of social\nand political philosophy, those subject include: Marx\u2019s\nphilosophical anthropology, his theory of history, his economic\nanalysis, his critical engagement with contemporary capitalist society\n(raising issues about morality and ideology); his account of the\nmodern state; and his prediction of a communist future. Marx\u2019s early writings are dominated by an understanding of\nalienation, a distinct social ill the diagnosis of which rests on a\ncontroversial account of human nature and its flourishing. He\nsubsequently developed an influential theory of history\u2014often\ncalled historical materialism\u2014centred around the idea that forms\nof society rise and fall as they further and then impede the\ndevelopment of human productive power. Marx was also increasingly\npreoccupied with an attempt to understand the contemporary capitalist\nmode of production, as driven by a remorseless pursuit of profit, the\norigins of which are found in the extraction of surplus value from the\nexploited proletariat. The precise role of morality and moral\ncriticism in Marx\u2019s critique of contemporary capitalist society\nis much discussed, and there is no settled scholarly consensus on\nthese issues. His understanding of morality may be related to his\naccount of ideology, and his reflection on the extent to which certain\nwidely-shared misunderstandings might help explain the stability of\nclass-divided societies. Marx also developed his controversial account\nof the character and role of the modern state, and more generally of\nthe relation between political and economic life. He saw the\nhistorical process as proceeding through a series of modes of\nproduction, characterised by (more or less explicit) class struggles,\nand driving humankind towards communism. However, Marx is famously\nreluctant to say much about the detailed arrangements of the social\nalternative that he sought to bring into being, arguing that the basic\nstructure of communism would be delivered by the historical process,\nwithout being the realisation of a pre-determined plan or\nblueprint.",
+      "bibliography": [
+        {
+          "raw": "Feuerbach, Ludwig, 1841, Das Wesen des Christenthums ( The Essence of Christianity ), Leipzig: Otto Wigand.",
+          "parsed": {
+            "authors": [
+              "Feuerbach, Ludwig"
+            ],
+            "year": "1841",
+            "title": "Das Wesen des Christenthums ( The Essence of Christianity )",
+            "publisher": "Leipzig: Otto Wigand"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Marx, Karl and Friedrich Engels, Gesamtausgabe (MEGA),\nBerlin, 1975\u2013.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, [ MECW ] Collected Works ,\nNew York and London: International Publishers. 1975.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Marx, Karl, Karl Marx: Selected Writings , second edition,\nDavid McLellan (ed.), Oxford: Oxford University Press, 2000.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Acton, H.B., 1955, The Illusion of the Epoch: Marxism-Leninism\nas a Philosophical Creed , London: Cohen and West.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Althusser, Louis, 1969, For Marx , London: Penguin.",
+          "parsed": {
+            "authors": [
+              "Althusser, Louis"
+            ],
+            "year": "1969",
+            "title": "For Marx ",
+            "publisher": "London: Penguin"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Althusser, Louis and \u00c9tienne Balibar, 1970, Reading\n\u201cCapital\u201d , Ben Brewster (trans.), London: NLB.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Anderson, Perry, 1976, Considerations on Western Marxism ,\nLondon: New Left Books.",
+          "parsed": {
+            "authors": [
+              "Anderson, Perry"
+            ],
+            "year": "1976",
+            "title": "Considerations on Western Marxism ",
+            "publisher": "London: New Left Books"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Anderson, Kevin B., 2010, Marx at the Margins: On Nationalism,\nEthnicity, and Non-Western Societies , Chicago: University of\nChicago Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Arthur, C.J., 1986, Dialectics of Labour , Oxford: Basil\nBlackwell.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Avineri, Shlomo, 1970, The Social and Political Thought of\nKarl Marx , Cambridge: Cambridge University Press.\ndoi:10.1017/CBO9781139171410",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bottomore, Tom (ed.), 1979, Karl Marx , Oxford:\nBlackwell.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brudney, Daniel, 1998, Marx\u2019s Attempt to Leave\nPhilosophy , Cambridge, MA: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Carter, Alan B., 1989, Marx: A Radical Critique ,\nBrighton: Harvester-Wheatsheaf.",
+          "parsed": {
+            "authors": [
+              "Carter, Alan B."
+            ],
+            "year": "1989",
+            "title": "Marx: A Radical Critique ",
+            "publisher": "Brighton: Harvester-Wheatsheaf"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Carver, Terrell, 1982, Marx\u2019s Social Theory , New\nYork: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1991, The Cambridge Companion to\nMarx , Cambridge: Cambridge University Press.\ndoi:10.1017/CCOL0521366259",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1991",
+            "title": "\u2013\u2013\u2013 (ed.), 1991, The Cambridge Companion to\nMarx , Cambridge: Cambridge University Press.\ndoi:10.1017/CCOL0521366259"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1998, The Post-Modern Marx ,\nManchester: Manchester University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1998",
+            "title": "The Post-Modern Marx ",
+            "publisher": "Manchester: Manchester University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Cohen, G. A., 1979, \u201cThe Labor Theory of Value and the\nConcept of Exploitation\u201d, Philosophy & Public\nAffairs , 8(4): 338\u2013360.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1983, \u201cReview of Karl Marx ,\nby Allen W Wood\u201d, Mind , 92(367): 440\u2013445.\ndoi:10.1093/mind/XCII.367.440",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1983",
+            "title": "\u2013\u2013\u2013, 1983, \u201cReview of Karl Marx ,\nby Allen W Wood\u201d, Mind , 92(367): 440\u2013445.\ndoi:10.1093/mind/XCII.367.440"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1988, History, Labour and Freedom ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1988",
+            "title": "History, Labour and Freedom ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1978 [2001], Karl Marx\u2019s Theory\nof History: A Defence , Princeton, NJ: Princeton University Press.\nSecond edition, Oxford, Oxford University Press, 2001.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1978",
+            "title": "\u2013\u2013\u2013, 1978 [2001], Karl Marx\u2019s Theory\nof History: A Defence , Princeton, NJ: Princeton University Press.\nSecond edition, Oxford, Oxford University Press, 2001."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, If You\u2019re an Egalitarian,\nHow Come You\u2019re So Rich , Cambridge, MA: Harvard University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "\u2013\u2013\u2013, 2000, If You\u2019re an Egalitarian,\nHow Come You\u2019re So Rich , Cambridge, MA: Harvard University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Cohen, Joshua, 1982, \u201cReview of Karl Marx\u2019s Theory\nof History: A Defence , by G. A. Cohen\u201d, The Journal of\nPhilosophy , 79(5): 253\u2013273. doi:10.2307/2026062",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Desai, Megnad, 2002, Marx\u2019s Revenge , London:\nVerso.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Draper, Hal, 1985, The Marx-Engels Register. A Complete\nBibliography of Marx and Engels\u2019 Individual Writings , New\nYork: Schocken Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1986, Karl Marx\u2019s Theory of\nRevolution, volume three: The \u201cDictatorship of the\nProletariat\u201d , New York: Monthly Review Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1986",
+            "title": "\u2013\u2013\u2013, 1986, Karl Marx\u2019s Theory of\nRevolution, volume three: The \u201cDictatorship of the\nProletariat\u201d , New York: Monthly Review Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Edwards, Jaime, and Brian Leiter, 2024, Marx , New York:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Elster, Jon, 1985, Making Sense of Marx , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Geras, Norman, 1983, Marx and Human Nature , London: Verso\nBooks.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1986, Literature of Revolution. Essays\non Marxism , London: Verso Books.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1986",
+            "title": "\u2013\u2013\u2013, 1986, Literature of Revolution. Essays\non Marxism , London: Verso Books."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1989, \u201cThe Controversy about Marx and\nJustice\u201d, in Marxist Theory , Alex Callinicos (ed.),\nOxford: Oxford University Press, 211\u2013268.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1989",
+            "title": "\u2013\u2013\u2013, 1989, \u201cThe Controversy about Marx and\nJustice\u201d, in Marxist Theory , Alex Callinicos (ed.),\nOxford: Oxford University Press, 211\u2013268."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Geuss, Raymond, 1981, The Idea of a Critical Theory: Habermas\nand the Frankfurt School , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gilabert, Pablo, 2015, \u201cThe Socialist Principle \u2018From\nEach According To Their Abilities, To Each According To Their\nNeeds\u2019\u201d, Journal of Social Philosophy , 46(2):\n197\u2013225. doi:10.1111/josp.12096",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hardimon, Michael O., 1994, Hegel\u2019 Social Philosophy.\nThe Project of Reconciliation , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Heinrich, Michael, 2012, An Introduction to the Three Volumes\nof Karl Marx\u2019s Capital, New York: Monthly Review\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Henning, Christoph, 2014, Philosophy After Marx. 100 Years of\nMisreadings and the Normative Turn in Political Philosophy , The\nHague: Brill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hook, Sidney, 1950, From Hegel to Marx , New York:\nHumanities Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hunt, Richard N., 1974, The Political Ideas of Marx and\nEngels, volume 1: Marxism and Totalitarian Democracy,\n1818\u20131850 , Pittsburgh, PA: University of Pittsburgh\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Husami, Ziyad I., 1978, \u201cMarx on Distributive\nJustice\u201d, Philosophy & Public Affairs , 8(1):\n27\u201364.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jaeggi, Rahel, 2016, Alienation , New York: Columbia\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kamenka, Eugene, 1962, The Ethical Foundations of Marxism London: Routledge and Kegan Paul.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kandiyali, Jan, (ed.), 2018, Reassessing Marx\u2019s Social\nand Political Philosophy: Freedom, Recognition and Human\nFlourishing , London: Routledge. doi:10.4324/9781315398068",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kolakowski, Leszek, 1976 [1978], Gl\u00f3wne nurty\nmarksizmu , Paris: Institut Litt\u00e9raire. Translated as Main Currents of Marxism: Its Rise, Growth, and Dissolution ,\n3 volumes, P. S. Falla (trans.), Oxford: Clarendon Press, 1978.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Leipold, Bruno, 2024, Citizen Marx. Republicanism and the\nFormation of Karl Marx\u2019s Social and Political Thought ,\nPrinceton, NJ: Princeton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Leiter, Brian, 2004, \u201cThe Hermeneutics of Suspicion:\nRecovering Marx, Nietzsche, and Freud\u201d, in Brian Leiter (ed.), The Future of Philosophy , New York: Oxford University Press.\npp. 74\u2013105.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Leopold, David, 2007, The Young Karl Marx , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2016, \u201cOn Marxian Utopophobia\u201d, Journal of the History of Philosophy , 54(1): 111\u2013134.\ndoi:10.1353/hph.2016.0004",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2016",
+            "title": "\u2013\u2013\u2013, 2016, \u201cOn Marxian Utopophobia\u201d, Journal of the History of Philosophy , 54(1): 111\u2013134.\ndoi:10.1353/hph.2016.0004"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2018, \u201cMarx, Engels, and Some\n(Non-Foundational) Arguments Against Utopian Socialism\u201d, in\nKandiyali 2018: 60\u201379.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2018",
+            "title": "\u2013\u2013\u2013, 2018, \u201cMarx, Engels, and Some\n(Non-Foundational) Arguments Against Utopian Socialism\u201d, in\nKandiyali 2018: 60\u201379."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Lukes, Stephen, 1987, Marxism and Morality , Oxford:\nOxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Maguire, John, 1972, Marx\u2019s Paris Writings , Dublin:\nGill and Macmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McLellan, David, 1970, Marx Before Marxism , London:\nMacmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1973, Karl Marx: His Life and\nThought , London: Macmillan.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1973",
+            "title": "\u2013\u2013\u2013, 1973, Karl Marx: His Life and\nThought , London: Macmillan."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "McMurtry, John, 1978, The Structure of Marx\u2019s\nWorld-View , Princeton, NJ: Princeton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mepham, John, 1979, \u201cThe Theory of Ideology in Capital \u201d, in Issues in Marxist Philosophy ,\nvolume 3: Epistemology Science Ideology , John Mepham and\nDavid-Hillel Ruben (eds), Brighton: Harvester Press,\n141\u2013174.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Miller, Richard, 1984, Analyzing Marx , Princeton, NJ:\nPrinceton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nozick, Robert, 1974, Anarchy, State, and Utopia , New\nYork: Basic Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Peffer, Rodney, 1990, Marxism, Morality and Social\nJustice , Princeton: Princeton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Plekhanov, Georgi Valentinovich, 1895 [1947], K voprosu o\nrazvitii monisticheskogo vzgli\u0361ada na istorii\u0361u .\nTranslated as The Development of the Monist View of History London: Lawrence and Wishart.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ricoeur, Paul, 1970, Freud and Philosophy , New Haven, CT:\nYale University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Roberts, William Clare, 2017, Marx\u2019s Inferno: The\nPolitical Theory of Capital , Princeton, NJ: Princeton University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Robinson, Joan, 1942, An Essay on Marxian Economics ,\nLondon: Macmillan.",
+          "parsed": {
+            "authors": [
+              "Robinson, Joan"
+            ],
+            "year": "1942",
+            "title": "An Essay on Marxian Economics ",
+            "publisher": "London: Macmillan"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Roemer, John E., 1982, A General Theory of Exploitation and\nClass , Cambridge MA: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1985, \u201cShould Marxists Be Interested\nin Exploitation?\u201d, Philosophy & Public Affairs ,\n14(1): 30\u201365.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1985",
+            "title": "\u2013\u2013\u2013, 1985, \u201cShould Marxists Be Interested\nin Exploitation?\u201d, Philosophy & Public Affairs ,\n14(1): 30\u201365."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1986, Analytical Marxism ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1986",
+            "title": "Analytical Marxism ",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Rosen, Michael, 1996, On Voluntary Servitude , Cambridge:\nPolity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rosen, Michael and Jonathan Wolff, 1996, \u201cThe Problem of\nIdeology\u201d, Aristotelian Society Supplementary Volume ,\n70(1): 209\u2013242. doi:10.1093/aristoteliansupp/70.1.209",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Saito, Kohei, 2017, Karl Marx\u2019s Ecosocialism: Capital,\nNature, and the Unfinished Critique of Political Economy , New\nYork: Monthly Review Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2024, Slow Down. How Degrowth Communism\nCan Save The Earth , London: Weidenfeld & Nicolson",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2024",
+            "title": "\u2013\u2013\u2013, 2024, Slow Down. How Degrowth Communism\nCan Save The Earth , London: Weidenfeld & Nicolson"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Sayers, Sean, 1984 [1990], \u201cMarxism and the Dialectical\nMethod: A Critique of G.A. Cohen\u201d, Radical Philosophy ,\n36: 4\u201313. Reprinted in Socialism, Feminism and Philosophy: A\nRadical Philosophy Reader , Sean Sayers and Peter Osborne (eds),\nLondon: Routledge, 1990, 140\u2013168.\n [ Sayers 1984 available online ]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Shanin, Theodor (ed.), 1983, Late Marx and the Russian Road.\nMarx and \u201cThe Peripheries of Capitalism\u201d , London:\nRoutledge and Kegan Paul.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Singer, Peter, 2000, Marx: A Very Short Introduction ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "Singer, Peter"
+            ],
+            "year": "2000",
+            "title": "Marx: A Very Short Introduction ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Sober, Elliott, Andrew Levine, and Erik Olin Wright, 1992, Reconstructing Marx , London: Verso.",
+          "parsed": {
+            "authors": [
+              "Sober, Elliott, Andrew Levine,",
+              "Erik Olin Wright"
+            ],
+            "year": "1992",
+            "title": "Reconstructing Marx ",
+            "publisher": "London: Verso"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Stedman Jones, Gareth, 2016, Karl Marx. Greatness and\nIllusion , London: Allan Lane.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sweezy, Paul M., 1942 [1970], The Theory of Capitalist\nDevelopment: Principles of Marxian Political Economy , New York:\nOxford University Press. Reprinted New York: Monthly Review Press,\n1970.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thomas, Paul, 1980, Karl Marx and the Anarchists , London:\nRoutledge & Kegan Paul.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Vrousalis, Nicholas, 2013, \u201cExploitation, Vulnerability, and\nSocial Domination: Exploitation, Vulnerability, and Social\nDomination\u201d, Philosophy & Public Affairs , 41(2):\n131\u2013157. doi:10.1111/papa.12013",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Weil, Simone, 1955 [1958], Oppression et libert\u00e9 ,\nParis: Gallimard. Translated as Oppression and Liberty ,\nArthur Wills and John Petrie (trans.), London: Routledge & Kegan\nPaul.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wheen, Francis, 1999, Karl Marx , London: Fourth\nEstate.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wills, Vanessa Christina, 2024, Marx\u2019s Ethical\nVision , New York: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wolff, Jonathan, 1999, \u201cMarx and Exploitation\u201d, The Journal of Ethics , 3(2): 105\u2013120.\ndoi:10.1023/A:1009811416665",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, Why Read Marx Today? ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "Why Read Marx Today? ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Wolff, Robert Paul, 1984, Understanding Marx , Princeton,\nNJ: Princeton University Press.",
+          "parsed": {
+            "authors": [
+              "Wolff, Robert Paul"
+            ],
+            "year": "1984",
+            "title": "Understanding Marx , Princeton",
+            "publisher": "NJ: Princeton University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Wood, Allen W., 1972, \u201cThe Marxian Critique of\nJustice\u201d, Philosophy & Public Affairs , 1(3):\n244\u2013282.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1981 [2004], Karl Marx , London:\nRoutledge; second edition, 2004.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1981",
+            "title": "\u2013\u2013\u2013, 1981 [2004], Karl Marx , London:\nRoutledge; second edition, 2004."
+          },
+          "confidence": "low"
+        }
+      ],
+      "sections": {
+        "1": {
+          "id": "1",
+          "title": "5 Remaining Questions",
+          "content": "Even with these elaborations, many additional questions remain about\nMarx\u2019s account. Three concerns are briefly addressed here. The first concerns the place of alienation in the evolution of\nMarx\u2019s thought. The once-popular suggestion that Marx only wrote\nabout alienation in his early writings\u2014his published and\nunpublished works from the early 1840s\u2014is not sustained by the\ntextual evidence. However, the theoretical role that the concept of\nalienation plays in his writings might still be said to evolve. For\nexample, it has been suggested that alienation in the early writings\nis intended to play an \u201cexplanatory role\u201d, whereas in his\nlater work it comes to have a more \u201cdescriptive or\ndiagnostic\u201d function (Wood 1981 [2004: 7]). The second concerns the place of human nature in Marx\u2019s account\nof alienation. The exegetical suggestion that Marx\u2019s later\nunderstanding of historical specificity and change conflicted with any\nuniversal account of human nature is also not sustained by textual\nevidence (see Geras 1983). Indeed, the \u201cmature\u201d Marx\nexplicitly affirms that human nature has both constant and mutable\nelements; that human beings are characterised by both universal\nqualities, constant across history and culture, and variable\nqualities, reflecting historical and cultural diversity (McMurtry\n1978: 19\u201353). A more systematic suggestion is that accounts of\nalienation which depend on \u201cthick\u201d and inevitably\ncontroversial accounts of human nature should be rejected (Jaeggi\n2016). Whatever our view of that critical recommendation, there seems\nlittle doubt about the \u201cthickness\u201d of Marx\u2019s own\naccount of human flourishing. To provide for the latter, a society\nmust satisfy not only basic needs (for sustenance, warmth and shelter,\ncertain climatic conditions, physical exercise, basic hygiene,\nprocreation and sexual activity), but also less basic needs, both\nthose that are not always appreciated to be part of his account (for\nrecreation, culture, intellectual stimulation, artistic expression,\nemotional satisfaction, and aesthetic pleasure), and those that Marx\nis more often associated with (for fulfilling work and meaningful\ncommunity) (Leopold 2007: 227\u2013245). The third concerns Marx\u2019s attitude towards the distinction\nsometimes made between subjective and objective alienation. These two\nforms of alienation can be exemplified separately or conjointly in the\nlives of particular individuals or societies (Hardimon 1994:\n119\u2013122). Alienation is \u201csubjective\u201d when it is\ncharacterised in terms of the presence (or absence) of certain beliefs\nor feelings; for example, when individuals are said to be alienated\nbecause they feel estranged from the world. Alienation is\n\u201cobjective\u201d when it is characterised in terms which make\nno reference to the beliefs or feelings of individuals; for example,\nwhen individuals are said to be alienated because they fail to develop\nand deploy their essential human characteristics, whether or not they\nexperience that lack of self-realisation as a loss. Marx seems to\nallow that these two forms of alienation are conceptually distinct,\nbut assumes that in capitalist societies they are typically found\ntogether. Indeed, he often appears to think of subjective alienation\nas tracking the objective variant. That said, Marx does allow that\nthey can come apart sociologically. At least, that is one way of\nreading a passage in The Holy Family where he recognises that\ncapitalists do not get to engage in self-realising activities of the\nright kind (and hence are objectively alienated), but\nthat\u2014unlike the proletariat\u2014they are content in\ntheir estrangement (and hence are lacking subjective alienation),\nfeeling \u201cat ease\u201d in it, and even\n\u201cstrengthened\u201d by it ( MECW 4: 36)."
+        },
+        "2": {
+          "id": "2",
+          "title": "6 Alternative Interpretations",
+          "content": "Many defenders of Marx will argue that the problems stated are\nproblems for Cohen\u2019s interpretation of Marx, rather than for\nMarx himself. It is possible to argue, for example, that Marx did not\nhave a general theory of history, but rather was a social scientist\nobserving and encouraging the transformation of capitalism into\ncommunism as a singular event. And it is certainly true that when Marx\nanalyses a particular historical episode, as he does in the 18th\nBrumaire of Louis Napoleon (1852), any idea of fitting events\ninto a fixed pattern of history seems very far from Marx\u2019s mind.\nOn other views Marx did have a general theory of history but it is far\nmore flexible and less determinate than Cohen insists (Miller 1984).\nAnd finally, as noted, there are critics who believe that\nCohen\u2019s interpretation is entirely wrong-headed owing to its\ndismissive attitude to dialectical reasoning (Sayers 1984 [1990]). More recently, some scholars have also questioned the\n\u201cPrometheanism\u201d which seems central to this kind of\nreading of Marx\u2019s theory of history. Or rather, they have argued\nthat whilst broadly accurate of his views in the \u201c1859\nPreface\u201d, Marx subsequently discarded a view of the earth as\nmerely a means to human ends. His retreat from such productivism is\nsaid to have occurred in two stages: first, in the period following\nthe publication of Volume One of Capital , Marx increasingly\nthought of communism in eco-socialist terms, as offering\nsustainable economic growth (Saito 2017); and second, in his very last\nyears (for instance, in correspondence with Vera Zasulich in 1881)\nMarx is said to embrace what has been called degrowth\ncommunism (Saito 2024 Chapter 4)."
+        }
+      }
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

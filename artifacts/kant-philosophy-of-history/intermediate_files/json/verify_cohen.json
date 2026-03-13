@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Karl Marx Theory of History Defense...' author=Cohen year=1978
+[verify_paper.py] Paper found: Karl Marx's Theory of History... (score: 31.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Karl Marx Theory of History Defense",
+    "author": "Cohen",
+    "year": 1978
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/9780691213002",
+      "title": "Karl Marx's Theory of History",
+      "authors": [
+        {
+          "family": "Cohen",
+          "given": "G. A."
+        }
+      ],
+      "editors": [],
+      "year": 1979,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Princeton University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1515/9780691213002",
+      "score": 31.776995
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/acprof:oso/9780199547975.001.0001"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780199547975.001.0001",
+      "title": "The Normativity of Nature",
+      "authors": [
+        {
+          "family": "Ginsborg",
+          "given": "Hannah"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Oxford University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199547975.001.0001"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,48 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel Modernity...' author=Pippin year=1991
+[verify_paper.py] Paper found: Hegel, Modernity, and Habermas... (score: 32.7)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel Modernity",
+    "author": "Pippin",
+    "year": 1991
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/monist199174314",
+      "title": "Hegel, Modernity, and Habermas",
+      "authors": [
+        {
+          "family": "Pippin",
+          "given": "Robert B."
+        },
+        {
+          "family": "The Hegeler Institute",
+          "given": ""
+        }
+      ],
+      "editors": [
+        {
+          "family": "Sugden",
+          "given": "Sherwood J. B."
+        }
+      ],
+      "year": 1991,
+      "container_title": "Monist",
+      "volume": "74",
+      "issue": "3",
+      "page": "329-357",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.5840/monist199174314",
+      "score": 32.73727
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

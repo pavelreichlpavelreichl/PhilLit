@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1515/AGPH-2017-0128
+[verify_paper.py] DOI verified: Was Hegel an Authoritarian Thinker?<b>Reading Hege...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/AGPH-2017-0128"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/agph-2017-0128",
+      "title": "Was Hegel an Authoritarian Thinker?<b>Reading Hegel\u2019s</b><b><i>Philosophy of History</i></b><b>on the Basis of his Metaphysics</b>",
+      "authors": [
+        {
+          "family": "Baumann",
+          "given": "Charlotte"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Archiv f\u00fcr Geschichte der Philosophie",
+      "volume": "103",
+      "issue": "1",
+      "page": "120-147",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/agph-2017-0128"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

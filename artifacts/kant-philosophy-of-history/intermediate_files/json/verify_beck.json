@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "A Commentary on Kant's Critique of Practical Reason",
+    "author": "Beck",
+    "year": 1960
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2183616",
+      "title": "Commentary on Kant's Critique of Practical Reason.",
+      "authors": [
+        {
+          "family": "Duncan",
+          "given": "A. R. C."
+        },
+        {
+          "family": "Beck",
+          "given": "Lewis White"
+        }
+      ],
+      "editors": [],
+      "year": 1961,
+      "container_title": "The Philosophical Review",
+      "volume": "70",
+      "issue": "4",
+      "page": "560",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/2183616",
+      "score": 38.713623
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

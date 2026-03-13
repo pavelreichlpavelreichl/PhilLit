@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Does History Make Sense Hegel Historical Shapes Ju...' author=Pinkard year=2017
+[verify_paper.py] Paper found: Does History Make Sense?... (score: 87.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Does History Make Sense Hegel Historical Shapes Justice",
+    "author": "Pinkard",
+    "year": 2017
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4159/9780674978782",
+      "title": "Does History Make Sense?",
+      "authors": [
+        {
+          "family": "Pinkard",
+          "given": "Terry"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Harvard University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4159/9780674978782",
+      "score": 87.51035
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

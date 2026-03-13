@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/kant.1999.90.2.129"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/kant.1999.90.2.129",
+      "title": "Kant: Progress in Universal History as a Postulate of Practical Reason",
+      "authors": [
+        {
+          "family": "Lindstedt",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 1999,
+      "container_title": "Kant-Studien",
+      "volume": "90",
+      "issue": "2",
+      "page": "",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/kant.1999.90.2.129"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

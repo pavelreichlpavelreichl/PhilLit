@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='History Teleology Grand Illusion...' author=Carr year=2017
+[verify_paper.py] Paper found: HISTORICAL TELEOLOGY: THE GRAND ILLUSION... (score: 50.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "History Teleology Grand Illusion",
+    "author": "Carr",
+    "year": 2017
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/hith.12020",
+      "title": "HISTORICAL TELEOLOGY: THE GRAND ILLUSION",
+      "authors": [
+        {
+          "family": "Carr",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "History and Theory",
+      "volume": "56",
+      "issue": "2",
+      "page": "307-317",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1111/hith.12020",
+      "score": 50.291313
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

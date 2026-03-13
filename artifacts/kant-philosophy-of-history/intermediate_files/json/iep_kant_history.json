@@ -1,0 +1,14 @@
+{
+  "status": "error",
+  "source": "iep",
+  "query": "kant-history",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "IEP entry not found: kant-history",
+      "recoverable": false
+    }
+  ]
+}

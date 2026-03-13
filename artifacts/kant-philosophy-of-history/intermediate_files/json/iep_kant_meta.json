@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "source": "iep",
+  "query": "kantmeta",
+  "results": [
+    {
+      "url": "https://iep.utm.edu/kantmeta/",
+      "entry_name": "kantmeta",
+      "title": "Internet Encyclopedia of Philosophy",
+      "sections": {
+        "1": {
+          "id": "1",
+          "title": "Table of Contents",
+          "content": ""
+        },
+        "2": {
+          "id": "2",
+          "title": "1. Historical Background to Kant",
+          "content": "In order to understand Kant\u2019s position, we must understand the philosophical background that he was reacting to. First, this article presents a brief overview of his predecessor\u2019s positions with a brief statement of Kant\u2019s objections, then I will return to a more detailed exposition of Kant\u2019s arguments. There are two major historical movements in the early modern period of philosophy that had a significant impact on Kant: Empiricism and Rationalism. Kant argues that both the method and the content of these philosophers\u2019 arguments contain serious flaws. A central epistemological problem for philosophers in both movements was determining how we can escape from within the confines of the human mind and the immediately knowable content of our own thoughts to acquire knowledge of the world outside of us. The Empiricists sought to accomplish this through the senses and a posteriori reasoning. The Rationalists attempted to use a priori reasoning to build the necessary bridge. A posteriori reasoning depends upon experience or contingent events in the world to provide us with information. That \u201cBill Clinton was president of the United States in 1999,\u201d for example, is something that I can know only through experience; I cannot determine this to be true through an analysis of the concepts of \u201cpresident\u201d or \u201cBill Clinton.\u201d A priori reasoning, in contrast, does not depend upon experience to inform it. The concept \u201cbachelor\u201d logically entails the ideas of an unmarried, adult, human male without my needing to conduct a survey of bachelors and men who are unmarried. Kant believed that this twofold distinction in kinds of knowledge was inadequate to the task of understanding metaphysics for reasons we will discuss in a moment."
+        },
+        "3": {
+          "id": "3",
+          "title": "a. Empiricism",
+          "content": "Empiricists, such as Locke , Berkeley , and Hume , argued that human knowledge originates in our sensations. Locke, for instance, was a representative realist about the external world and placed great confidence in the ability of the senses to inform us of the properties that empirical objects really have in themselves. Locke had also argued that the mind is a blank slate, or a tabula rasa, that becomes populated with ideas by its interactions with the world. Experience teaches us everything, including concepts of relationship, identity, causation, and so on. Kant argues that the blank slate model of the mind is insufficient to explain the beliefs about objects that we have; some components of our beliefs must be brought by the mind to experience. Berkeley\u2019s strict phenomenalism, in contrast to Locke, raised questions about the inference from the character of our sensations to conclusions about the real properties of mind-independent objects. Since the human mind is strictly limited to the senses for its input, Berkeley argued, it has no independent means by which to verify the accuracy of the match between sensations and the properties that objects possess in themselves. In fact, Berkeley rejected the very idea of mind-independent objects on the grounds that a mind is, by its nature, incapable of possessing an idea of such a thing. Hence, in Kant\u2019s terms, Berkeley was a material idealist. To the material idealist, knowledge of material objects is ideal or unachievable, not real. For Berkeley, mind-independent material objects are impossible and unknowable. In our sense experience we only have access to our mental representations, not to objects themselves. Berkeley argues that our judgments about objects are really judgments about these mental representations alone, not the substance that gives rise to them. In the Refutation of Material Idealism , Kant argues that material idealism is actually incompatible with a position that Berkeley held, namely that we are capable of making judgments about our experience. David Hume pursued Berkeley\u2019s empirical line of inquiry even further, calling into question even more of our common sense beliefs about the source and support of our sense perceptions. Hume maintains that we cannot provide a priori or a posteriori justifications for a number of our beliefs like, \u201cObjects and subjects persist identically over time,\u201d or \u201cEvery event must have a cause.\u201d In Hume\u2019s hands, it becomes clear that empiricism cannot give us an epistemological justification for the claims about objects, subjects, and causes that we took to be most obvious and certain about the world. Kant expresses deep dissatisfaction with the idealistic and seemingly skeptical results of the empirical lines of inquiry. In each case, Kant gives a number of arguments to show that Locke\u2019s, Berkeley\u2019s, and Hume\u2019s empiricist positions are untenable because they necessarily presuppose the very claims they set out to disprove. In fact, any coherent account of how we perform even the most rudimentary mental acts of self-awareness and making judgments about objects must presuppose these claims, Kant argues. Hence, while Kant is sympathetic with many parts of empiricism, ultimately it cannot be a satisfactory account of our experience of the world."
+        }
+      }
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

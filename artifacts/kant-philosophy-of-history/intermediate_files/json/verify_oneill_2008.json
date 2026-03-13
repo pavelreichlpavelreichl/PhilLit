@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1016/J.SHPSA.2008.09.005"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1016/j.shpsa.2008.09.005",
+      "title": "Historical trends and human futures",
+      "authors": [
+        {
+          "family": "O\u2019Neill",
+          "given": "Onora"
+        }
+      ],
+      "editors": [],
+      "year": 2008,
+      "container_title": "Studies in History and Philosophy of Science Part A",
+      "volume": "39",
+      "issue": "4",
+      "page": "529-534",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1016/j.shpsa.2008.09.005"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "05c206d3afafa4aa0e772b651ce0c25fc7f607c6",
+      "title": "Kant on biological teleology: Towards a two-level interpretation.",
+      "authors": [
+        {
+          "name": "Marcel Quarfood",
+          "authorId": "1796798"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 44,
+      "doi": "10.1016/J.SHPSC.2006.09.007",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/05c206d3afafa4aa0e772b651ce0c25fc7f607c6",
+      "venue": "Studies in history and philosophy of biological and biomedical sciences",
+      "journal": {
+        "name": "Studies in history and philosophy of biological and biomedical sciences",
+        "pages": "\n          735-47\n        ",
+        "volume": "37 4"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1016/j.shpsc.2006.09.007"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

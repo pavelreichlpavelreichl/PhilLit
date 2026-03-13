@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel on history McCarney...' author=McCarney year=2000
+[verify_paper.py] Paper found: Hegel’s Legacy... (score: 48.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel on history McCarney",
+    "author": "McCarney",
+    "year": 2000
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1057/9780230595934_3",
+      "title": "Hegel\u2019s Legacy",
+      "authors": [
+        {
+          "family": "McCarney",
+          "given": "Joseph"
+        }
+      ],
+      "editors": [],
+      "year": 2000,
+      "container_title": "The Hegel-Marx Connection",
+      "volume": "",
+      "issue": "",
+      "page": "56-78",
+      "publisher": "Palgrave Macmillan UK",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1057/9780230595934_3",
+      "score": 48.238865
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2107910"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2107910",
+      "title": "The Concept of the Highest Good in Kant's Moral Theory",
+      "authors": [
+        {
+          "family": "Engstrom",
+          "given": "Stephen"
+        }
+      ],
+      "editors": [],
+      "year": 1992,
+      "container_title": "Philosophy and Phenomenological Research",
+      "volume": "52",
+      "issue": "4",
+      "page": "747",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2107910"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

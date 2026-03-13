@@ -1,0 +1,65 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Analogy, Natural History and the Philosophy of Nat...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 1 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "19e288186808ef8ab0ab01571daa4cb43222f3bb",
+  "results": [
+    {
+      "paper": {
+        "paperId": "19e288186808ef8ab0ab01571daa4cb43222f3bb",
+        "title": "Analogy, Natural History and the Philosophy of Nature: Kant, Herder and the Problem of Empirical Science",
+        "authors": [
+          {
+            "name": "D. Nassar",
+            "authorId": "115540214"
+          }
+        ],
+        "year": 2015,
+        "abstract": null,
+        "citationCount": 39,
+        "doi": "10.1163/18722636-12341302",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/19e288186808ef8ab0ab01571daa4cb43222f3bb",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "c2bda4fe929ff0763072354f0505b1d2d4bcde68",
+          "title": "Analogical reflection as a source for the science of life: Kant and the possibility of the biological sciences.",
+          "authors": [
+            {
+              "name": "D. Nassar",
+              "authorId": "115540214"
+            }
+          ],
+          "year": 2016,
+          "abstract": null,
+          "citationCount": 17,
+          "doi": "10.1016/j.shpsa.2016.03.008",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/c2bda4fe929ff0763072354f0505b1d2d4bcde68",
+          "venue": "Studies in history and philosophy of science",
+          "isInfluential": true,
+          "contexts": [
+            "See Nassar (2015).",
+            "On differences between Kant\u2019s earlier views of analogy and analogy as elaborated in the Critique of Judgment, see Nassar (2015) and Breitenbach (2014).\nurce for the science of life: Kant and the possibility of the biological oi.org/10.1016/j.shpsa.2016.03.008\n66 Kant (1790), AA 5, 400.",
+            "Please cite this article in press as: Nassar, D., Analogical reflection as a so sciences, Studies in History and Philosophy of Science (2016), http://dx."
+          ],
+          "intents": [
+            "background",
+            "methodology"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

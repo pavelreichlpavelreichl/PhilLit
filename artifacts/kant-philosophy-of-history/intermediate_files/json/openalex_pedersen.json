@@ -1,0 +1,85 @@
+[search_openalex.py] Searching OpenAlex: 'Pedersen Herder Kant teleology Critique Judgment' (year=2015-2020), limit=25
+[search_openalex.py] Retrieved 2 papers...
+[search_openalex.py] Search complete: 2 papers found
+[search_openalex.py] Cached results (cache key: openalex_88818a1c903647c2)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Pedersen Herder Kant teleology Critique Judgment",
+  "results": [
+    {
+      "openalex_id": "W2886117384",
+      "doi": null,
+      "title": "Examining Nontherapeutic Circumcision",
+      "authors": [
+        {
+          "name": "Stephen R. Munzer",
+          "openalex_id": "A5067993473"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The article argues that male minors have a moral anticipatory right-in-trust not to be circumcised without a medical indication. Topics discussed include ethical, political, and intellectual persuasions of children's rights, parental rights, religious freedom; moral implications to circumcise male minors without a medical indication; and moral rights of male minors",
+      "cited_by_count": 35,
+      "type": "article",
+      "source": {
+        "name": "eYLS (Yale Law School)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarlycommons.law.case.edu/healthmatrix/vol28/iss1/5"
+      },
+      "topics": [
+        "Genital Health and Disease",
+        "Female Genital Mutilation/Cutting Issues",
+        "Ethics and Legal Issues in Pediatric Healthcare"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2886117384"
+    },
+    {
+      "openalex_id": "W2915597168",
+      "doi": "10.3390/educsci9010047",
+      "title": "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education",
+      "authors": [
+        {
+          "name": "Steen Nepper Larsen",
+          "openalex_id": "A5018534406",
+          "orcid": "https://orcid.org/0000-0002-8451-6009",
+          "institutions": [
+            "Aarhus University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-28",
+      "abstract": "An international consensus seems to have developed in educational research\u2014and among educational planners and policymakers\u2014during the last 10\u201315 years proclaiming that learning is, and must be, a visible phenomenon. This paper questions this predominant view and serves an assemblage of points offering educational scientists at least four profound perspectives to reflect upon. First of all, learning is not immediately visible to the learning subject. It demands and deserves a qualitative lifelong perspective and\u2014not to be underestimated\u2014autonomous reflections to come to know and acknowledge what learning is and can be in an existential perspective. For the individual, it is always worth asking the question whether or not the things \u2018learned\u2019 in the first place were worth learning. Secondly, no one can examine the complex synaptic wiring process in the changeable and \u2018learning\u2019 brain (i.e., human neuroplasticity); the body-phenomenological depths and growth of a human being; or the manifold processes constituting the totality of historical social interactions surrounding the learning process and reduce them to something simple and already \u2018known\u2019 (a figure, a score, an effect, an answer in a test, an evaluation statement, etc). Thirdly, so-called visible learning for teachers has to be differentiated from both conscious and unconscious learning for pupils and students. The attempts to objectify and sometimes even instrumentalize learning risk running into obvious problems and fostering serious mistakes. Besides, the teacher and the \u2018learner\u2019 do not share the same perspectives and they often also have different interests. Fourthly, the concept of learning is not a value-neutral term and should only be used with an awareness of its historical development as a concept. I will argue that character formation\u2014edification of character (Bildung), in light of the rich German geisteswissenschaftliche tradition\u2014and the capability to think and become a vivid language user and creator demand much more than learning. Moreover, teaching is much more than a method to \u2018produce\u2019 learning, and to reproduce learning goals, and the purpose of education must transcend a teleological implementation of strategic national and international learning goals. In this paper, the revitalized concept of Bildung both serves as a critique of the visible learning paradigm and as a take-off of an alternative and more fertile way to conceptualize the task and possibilities of education. The line of the argument and ambition of the paper is to depict how blindness seems to be an inevitable part of educational seeing. The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see\u2014neither when they see what they (think they) see, nor when they do not see what they do not (want to) see.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Education Sciences",
+        "type": "journal",
+        "issn": [
+          "2227-7102"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-7102/9/1/47/pdf?version=1551420514"
+      },
+      "topics": [
+        "Neuroscience, Education and Cognitive Function",
+        "Embodied and Extended Cognition",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2915597168"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

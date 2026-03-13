@@ -1,0 +1,1838 @@
+[s2_recommend.py] Connecting to Semantic Scholar Recommendations API...
+[s2_recommend.py] Using 2 positive seed paper(s)
+[s2_recommend.py] Found 100 recommendations
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "recommendations from 2 positive",
+  "results": [
+    {
+      "paperId": "c4bc258f70664e6246bda8a377cdedd0f6a986e6",
+      "title": "Johann Georg Hamann's Theological Language View in the Context of His Criticism of Kant",
+      "authors": [
+        {
+          "name": "Yavuz Da\u015fdemir",
+          "authorId": "2406657122"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This study aims to examine German philosopher Johann Georg Hamann's view of divine language within the context of the Enlightenment and his critiques of Kant. Hamann, the first thinker in the Hamann-Herder-Humboldt (3H) linguistic tradition in German thought, laid the foundations of linguistic relativity, which posits that every language influences the collective thinking of its people. Against the rationalist and dualist views of the Enlightenment, he argued that language is not a byproduct of reason, but a divine faculty bestowed by God. In this sense, Hamann advanced a radical thesis, incorporating his theological understanding of language into a monist one, which posits that reason, language, and thought are a single human faculty. These ideas of the philosopher contrast sharply with Kant's understanding of \"reason.\" According to the philosopher, Kant overlooks the essential role of language in the cognitive process and attempts to separate reason from individual experience. Hamann believed that Kant had overlooked a \"middle ground\" between idealism and realism and called his own philosophy \"verbalism.\" According to this philosophy, language is the ground where both reason and experience are embodied. Furthermore, language is the organ and criterion of reason. For Hamann, language plays a fundamental role in understanding the structure of reality, as opposed to rationalism, which seeks to separate what nature unites, and thus to Kant and the Enlightenment philosophy.",
+      "citationCount": 0,
+      "doi": "10.29157/etusbed.1795045",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c4bc258f70664e6246bda8a377cdedd0f6a986e6",
+      "venue": "Erzurum Teknik Universitesi Sosyal Bilimler Enstitusu Dergisi"
+    },
+    {
+      "paperId": "8efe37f5b77da8032610e8398da2c6963bf9b350",
+      "title": "Women\u2019s intellectual and moral predispositions in Kant\u2019s observations on the feeling of the beautiful and sublime",
+      "authors": [
+        {
+          "name": "Milica Smajevic-Roljic",
+          "authorId": "2248831541"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In contemporary interpretations of Kant?s philosophy, it is widely accepted that Kant considered women to be intellectually and morally inferior to men by nature. This paper challenges that interpretation, with a particular focus on contentious claims in Observations on the Feeling of the Beautiful and Sublime, a popular-philosophical and entertaining text. The analysis shows that, although Kant considers women?s nature different from men?s, he does not question their cognitive abilities; rather, he problematizes their engagement in demanding intellectual activity in light of his teleological understanding of sexual differences and complementary social roles. Similarly, Kant does not deny women the capacity for moral action, but holds that their actions possess legality rather than moral worth ? which, as he points out, is true for most people of both sexes. This article contributes to a more precise understanding of Kant?s views on women by showing that his remarks on sex differences reflect his personal as well as the social and philosophical assumptions of the eighteenth century, rather than an inherent critique of women?s natural capacities.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601079s",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8efe37f5b77da8032610e8398da2c6963bf9b350",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "b2b73b14bdd26fb42e638989845578beb9614491",
+      "title": "Grounding the Highest Good: the omnipotent, omniscient, and omnibenevolent God of Kant\u2019s moral argument",
+      "authors": [
+        {
+          "name": "Maya Krishnan",
+          "authorId": "30454931"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract Kant claims that his moral arguments for faith in God\u2019s existence secure faith in a being with traditional divine properties including omniscience, omnipotence, and omnibenevolence. However, it is unclear how Kant\u2019s moral arguments attain this result. This paper presents a new interpretation of Kant\u2019s moral arguments, the \u2018grounding interpretation,\u2019 which shows why moral faith concerns a being with the traditional divine omni-properties. It argues for a connection between moral faith and a metaphysical conception of God as the ground of possibility. While that conception has previously been associated with Kant\u2019s theoretical philosophy, Kant\u2019s moral arguments supply it with both a practical justification and a practical interpretation. Recognizing this point enables us to understand why Kant holds that the God of moral faith has the traditional divine properties.",
+      "citationCount": 0,
+      "doi": "10.1515/kant-2024-0044",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b2b73b14bdd26fb42e638989845578beb9614491",
+      "venue": "Kant-Studien"
+    },
+    {
+      "paperId": "df081db62663fe4c0f3f7e9832de817df788fa42",
+      "title": "Evil, yet righteous: Kant\u2019s devils and the moral concept of right",
+      "authors": [
+        {
+          "name": "Gehad Marcon Bark",
+          "authorId": "2410662115"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/df081db62663fe4c0f3f7e9832de817df788fa42",
+      "venue": ""
+    },
+    {
+      "paperId": "43603a3ef853fa66a7b297d0c22d697f1b98086e",
+      "title": "Philosophy\u2019s Crutches: Kant\u2019s Use of Analogical Reasoning in the Critique of Pure Reason",
+      "authors": [
+        {
+          "name": "Karin de Boer",
+          "authorId": "1387194275"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract This article seeks to demonstrate that Kant throughout the Critique of Pure Reason employs a type of analogical reasoning that belongs to the methodical backbone of the work. More specifically, I take him to draw on disciplines such as mathematics, general logic, and empirical psychology to expose the a priori features of human cognition at stake in his analyses. After examining Kant\u2019s own comments on the use of analogies in the Critique of Pure Reason, the Prolegomena, the Critique of Judgment and relevant lecture transcripts, I outline the predicative type of analogical reasoning I take to be employed in the Critique of Pure Reason itself. Turning from theory to practice, I analyze Kant\u2019s use of (1) metaphors, (2) analogical inferences intended to clarify concepts such as transcendental illusion, and (3) analogical inferences that inform key arguments, namely, the metaphysical deduction and the so-called subjective deduction contained in the 1781 edition of the Critique. In each case, I argue, Kant\u2019s sustained attempt to illuminate the a priori dimension of the human mind by means of analogical inferences is akin to the use of analogical inferences in former natural theology to obtain cognitions of God.",
+      "citationCount": 0,
+      "doi": "10.1515/kant-2024-0031",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/43603a3ef853fa66a7b297d0c22d697f1b98086e",
+      "venue": "Kant-Studien"
+    },
+    {
+      "paperId": "630b39f95bdd9cebcb45a316ae94322531a35d4f",
+      "title": "Kant Machine",
+      "authors": [
+        {
+          "name": "Yuk Hui",
+          "authorId": "144331668"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Rethinking the philosophy of Immanuel Kant in the age of artificial intelligence.\n What could be called an intelligent machine? Are machines capable of being moral? Does an algorithm for perpetual peace exist? In this groundbreaking new work, Yuk Hui considers how current debates on artificial intelligence echo historical philosophical discussions about the workings of the mind, with the philosophy of Immanuel Kant emerging as a lens through which to consider the ethical and political implications of AI and robotics in a new light.\n Addressing fundamental questions around machine intelligence and morality, transcendental idealism and learning, and the metaphysics of machines, the history of AI and Kantian ideas are expertly woven together alongside an array of figures in the histories of technology and philosophy: from Gottfried Wilhelm Leibniz and Alan Turing to Hubert Dreyfus and Jacques de Vaucanson.\n In asking how we can understand AI in light of the challenges Kant posed to both rationalism and empiricism, and how revisiting Kant can help us better comprehend the nature and limitations of contemporary technologies,Kant Machineis an essential critical contribution both to Kant studies and to the philosophy of digital technology.",
+      "citationCount": 0,
+      "doi": "10.5040/9781350563230",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/630b39f95bdd9cebcb45a316ae94322531a35d4f",
+      "venue": ""
+    },
+    {
+      "paperId": "8b492e3b00552e1f636ff34a15dc6b8748bcb611",
+      "title": "The cognitive subject in I. Kant\u2019s philosophy: characteristics, limits, and legacy",
+      "authors": [
+        {
+          "name": "Nguy\u1ec5n V\u00e2n H\u1ea1nh",
+          "authorId": "2274592842"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The cognitive subject in I. Kant's philosophy occupies a central position in the development of modern epistemology, marking a decisive shift from object-centered to subject-centered theories of knowledge. This article investigates the key characteristics of Kant\u2019s cognitive subject through a critical analysis of his major works, particularly Critique of Pure Reason, and situates it within the broader context of Enlightenment thought. The study applies dialectical and historical materialist methodology to reveal six defining features: (1) the cognitive subject is formed through Kant\u2019s critical method, emphasizing self-reflection and the limits of reason; (2) it is proactive, dynamic, and creative, not a passive recipient of external stimuli; (3) it raises foundational questions about dialectical logic and the conditions of knowledge; (4) it is speculative and ahistorical, reflecting Enlightenment individualism; (5) it is characterized by epistemological limits, as Kant asserts the unknowability of the \u201cthing-in-itself\u201d; and (6) it unifies the cognitive, moral, and aesthetic dimensions of the human subject. The article also critically examines the legacy of Kant\u2019s conception, highlighting both its enduring influence on epistemology and its limitations, particularly the abstraction from social and historical context.",
+      "citationCount": 0,
+      "doi": "10.31977/grirfi.v26i1.5802",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8b492e3b00552e1f636ff34a15dc6b8748bcb611",
+      "venue": "Griot : Revista de Filosofia"
+    },
+    {
+      "paperId": "35c2766b1e6274131294fb1c2e6ba49387f20e68",
+      "title": "A Cipher of Morality in Nature. Kant on Interest in the Beautiful",
+      "authors": [
+        {
+          "name": "Giulia Milli",
+          "authorId": "2219633414"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n \n This paper explores the moral import of Kant\u2019s theory of the beautiful in relation to his systematic aim of bridging the gulf between nature and freedom. The aim is to preserve the importance of the beautiful \u2013 whether natural or artistic \u2013 while also accounting for Kant\u2019s emphasis on the pre-eminence of natural beauty. Drawing on Kant\u2019s distinction between intellectual and empirical interest in the beautiful, this paper argues that only natural beauty enables a transition to the supersensible both\n within\n the subject and\n externally\n . It concludes by examining whether intellectual interest in natural beauty might be regarded as a duty.\n",
+      "citationCount": 0,
+      "doi": "10.1017/s1369415425101155",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/35c2766b1e6274131294fb1c2e6ba49387f20e68",
+      "venue": "Kantian Review"
+    },
+    {
+      "paperId": "3c5b13641c5fc2b2426dc7bead9d383038a7d183",
+      "title": "Kant and Plato on lying",
+      "authors": [
+        {
+          "name": "I. Deretic",
+          "authorId": "83977070"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Kant?s uncompromising prohibition of lying, even when motivated by compassion or aimed at preventing harm, remains one of the most contested aspects of his moral philosophy. This paper offers a comparative analysis of Kant?s account of lying and an opposing position found in Plato, who permits deception in certain circumstances, particularly when it serves the good and when the person deceived lacks full rational agency. Although the paper is primarily devoted to an examination of Kant?s position - given its greater conceptual complexity and its grounding in central Kantian notions such as duty, the moral law, and respect for humanity - it retains a distinctly comparative aim, examining Kant?s view from the perspective of Plato?s account. I argue that, despite their disagreement over the permissibility of lying to others, Kant and Plato share a significant underlying commitment concerning the moral wrongness of inner falsehood, understood as self-deception or the corruption of one?s own self. Both regard truthfulness toward oneself as a fundamental moral requirement, even though they diverge sharply on whether deception of others can ever be justified. Finally, I argue that Kant?s strict demand not to lie is ethically and logically better grounded than is often assumed and that, when properly understood, it is not as detached from ordinary moral life as its critics suggest.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601031d",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3c5b13641c5fc2b2426dc7bead9d383038a7d183",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "338e042f5d0b348907e32a8b4f4107eb0624f77a",
+      "title": "Reason and the Good in Leibniz, Kant and Hegel",
+      "authors": [
+        {
+          "name": "Alex Englander",
+          "authorId": "113571679"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Hegel's claim that his philosophy provides a theodicy tends to be dismissed as an outdated or implausible feature of his thought. Yet through a novel retelling of the development from Leibniz to Kant to Hegel, this book places that claim in a new light, showing its centrality both to Hegel's transformations of such fundamental notions as freedom and goodness, and to his understanding of the task of philosophy as such. The account begins with Leibniz's distinctively modern project of proving that the world is a hospitable home for rational subjects, before turning to Kant's critical appropriation of Leibniz's programme in light of his radical reconfiguration of freedom as autonomy. Hegel's attempt to liberate Kant's philosophy from its residual rationalist and theological commitments then gives birth to his programme of reconciling us with the world, but only by turning the prior tradition of theodicy on its head.",
+      "citationCount": 0,
+      "doi": "10.1017/9781009442558",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/338e042f5d0b348907e32a8b4f4107eb0624f77a",
+      "venue": ""
+    },
+    {
+      "paperId": "7d521bd65ff475c2cb6e32c311a09a2eb05aaf6f",
+      "title": "What is transcendental in Kant's practical philosophy?",
+      "authors": [
+        {
+          "name": "F. Rauscher",
+          "authorId": "143750437"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Loparic\u2019s A Sem\u00e2ntica Transcendental de Kant centers on theoretical philosophy but offers a framework for semantic interpretation of Kant\u2019s practical philosophy as well. Loparic has explored this application for Kant\u2019s Juridical Semantics and in other works related to practical philosophy. This paper asks the question \u201cwhat is transcendental\u201d in transcendental semantics in practical philosophy. Universal claims made in practical philosophy involve the rightness of free actions as determined by an a priori moral law. Specific claims also involve particular individuals in physical and social relation to one another. Somewhere between the first type and the second type would be the limit of the transcendental. I assess Loparic\u2019s claims about the Fact of Reason as well as about property in juridical semantics as part of an exploration of the status of the transcendental in practical philosophy.",
+      "citationCount": 0,
+      "doi": "10.20396/kant.v21i00.8682620",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7d521bd65ff475c2cb6e32c311a09a2eb05aaf6f",
+      "venue": "Kant e-Prints"
+    },
+    {
+      "paperId": "8929375009e2e141c5e51a01cb97aef21ff396e9",
+      "title": "Kant - prerequisites of cosmopolitism (1784.)",
+      "authors": [
+        {
+          "name": "Lazar Atanaskovic",
+          "authorId": "2098172352"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Idee zu einer allgemeinen Geschichte in Weltb?rgerlicher Absicht is one of the earliest of Kant?s texts on cosmopolitism - in the context of its emergence (1784), it departs from the framework established in the Critique of Pure Reason. Kant?s later political thought cannot be examined solely in terms of his systemic philosophy; it also calls for an investigation of the historical context of his interest in political topics of the German Enlightenment. In that regard, the long and at first glance unclear title of the text on universal history constitutes a source through which it is possible to show systemic and social prerequisites of Kant?s interest in cosmopolitism and the politics of the bourgeois class. This paper examines presuppositions of Kant?s interest in cosmopolitism through the analysis of concepts from the long title of his text on universal history.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601177a",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8929375009e2e141c5e51a01cb97aef21ff396e9",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "b1c59866f4a6409eaaef4f926041e272b9992ded",
+      "title": "Toward a Kantian theory of prudential irrationality",
+      "authors": [
+        {
+          "name": "Tales Yamamoto",
+          "authorId": "2176113596"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article investigates the conditions for a Kantian theory of prudential irrationality. Against Merle (2023), it argues that intellectual errors, such as incorrect beliefs, do not suffice to generate irrational actions. The analysis focuses instead on whether volitional failures can lead to prudentially irrational actions. To examine this, two interpretive models are considered: the negative model, inspired by Timmerman (2022), which denies prudential irrationality, and the positive model, developed by Korsgaard (2008), which affirms it. While Timmerman strips the Hypothetical Imperative of normativity, Korsgaard subordinates it to the Categorical Imperative. Both models face limits: the first excludes the possibility of instrumental irrationality; the second risks expanding the moral domain or weakening the link between freedom and the moral law. The challenge remains to explain how instrumental rationality is possible without reducing it to morality, while preserving its intrinsic tie to freedom.",
+      "citationCount": 0,
+      "doi": "10.5380/dp.v22i3.100722",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b1c59866f4a6409eaaef4f926041e272b9992ded",
+      "venue": "DoisPontos"
+    },
+    {
+      "paperId": "b60ca2b9f35fc32bf84fb511e8d760149dec6aa6",
+      "title": "Kant\u2019s critique of theodicy",
+      "authors": [
+        {
+          "name": "Veljko Kosevic",
+          "authorId": "2419611477"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In this paper, we analyze Kant?s late essay ?On the Miscarriage of All Philosophical Trials in Theodicy? and compare it with his Lectures on the Philosophical Doctrine of Religion, which represent an important expression of the transitional phase between his pre-critical and critical thinking. Special attention will also be given to Leibniz?s theodicy, considering its influence on Kant?s reflections regarding the relationship between God and the existence of evil. After the introductory considerations, we will examine in detail the nine doctrinal theodicies that Kant explicitly rejects before turning to his notion of an ?authentic? theodicy. We will argue that Kant does not attempt to solve the problem of evil within the bounds of speculative reason but instead adopts a position of agnosticism grounded in moral sincerity and in faith rooted in the postulates of practical reason.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601131k",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b60ca2b9f35fc32bf84fb511e8d760149dec6aa6",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "94c812dcb3c3db6375fb0c1bcce4a736a6feb6dd",
+      "title": "Kant on Lying. Historical and Philosophical Analysis",
+      "authors": [
+        {
+          "name": "Elizaveta Karpitskaya",
+          "authorId": "2407048480"
+        },
+        {
+          "name": "Arsen Volskii",
+          "authorId": "2407056492"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The inadmissibility of lying is widely recognized as one of the key features of Kant\u2019s moral philosophy and arguably its most controversial characteristic. Kant is commonly positioned as a rigorist who does not allow lying under any circumstances, insisting on this prohibition as an unconditional ethical requirement. In support of this position, Kant\u2019s own arguments from the article \u201cOn a Supposed Right to Lie from Philanthropy\u201d are usually cited. Equally widespread, however, is the reproach that Kant is inconsistent, since certain formulations of the categorical imperative seem to permit lying under some pre-specified circumstances. In our view, a significant part of such appeals distorts the content and intent of Kant\u2019s arti\u00adcle. The present paper aims to demonstrate the fallaciousness of both lines of reasoning by clarifying what kind of truthfulness (namely, truthfulness in testimony) Kant insists upon in this article, as well as by elucidating the grounds on which he does so. Thus, we maintain that \u201ctestimony\u201d is a technical term, which is also confirmed by other Kantian texts (in par\u00adticular, the Metaphysics of Morals). Moreover, we demonstrate the illegitimacy of appealing to the categorical imperative as justification for the permissibility of lying to a wrongdoer by examining the grounds for its inadmissibility as presented by Kant himself in the article, and by situating them within the broader context presented by the Doctrine of Right and Per\u00adpetual Peace.",
+      "citationCount": 0,
+      "doi": "10.21146/2074-4870-2025-25-2-83-94",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/94c812dcb3c3db6375fb0c1bcce4a736a6feb6dd",
+      "venue": "Ethical Thought"
+    },
+    {
+      "paperId": "72945aa830253e08a69ae58ea6f17e6224c197bf",
+      "title": "The Kantian Legal Turn of \u2018Republicanism\u2019: \u2018Rightfulness\u2019 by a Categorical Right to Justification",
+      "authors": [
+        {
+          "name": "Ulrike M\u00fc\u00dfig",
+          "authorId": "2406090006"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Immanuel Kant\u2019s position as a preeminent Enlightenment philosopher is undisputed. Yet his legacy is largely tied to German liberalism, by dint of the fact that his works were highly influential among the liberal delegates at the Frankfurt Parliament during 1848/49. Consequently, even though Kant himself often referred to the concept of the \u2018republic\u2019 throughout many of his works, it is a rare piece of scholarship that considers him a \u2018republican thinker.\u2019 However, a close reading of Kant\u2019s works, most notably (but not limited to) his Metaphysics of Morals, demonstrates that Kant was deeply motivated by the quest to shape a rule of law that was guided by moral autonomy, which he conceived of as the fundamental basis for a functioning human society \u2013 a republic in the sense of the Latin res publica. So understood, Kant\u2019s model of \u2018rightful republicanism\u2019 offers us a vital case study by which we as legal historians may approach the current crises facing the liberal-democratic rule of law, in light of a resurgent extreme right, a misuse of state force, and the tension between individual and collective freedoms during the COVID-19 pandemic.",
+      "citationCount": 0,
+      "doi": "10.63277/gsc.v42i.4545",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/72945aa830253e08a69ae58ea6f17e6224c197bf",
+      "venue": "Giornale di storia costituzionale"
+    },
+    {
+      "paperId": "2c1c297b2db5edb14eb1acc279606d5262615554",
+      "title": "Hegel\u2019s Concept of the Concept and the Original Emptiness of Pure Thinking",
+      "authors": [
+        {
+          "name": "Florian Ganzinger",
+          "authorId": "2411457666"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n While Kantian readers consider Hegel\u2019s discussion of the significance of Kant\u2019s account of apperception as the key to understanding what he means by the concept of the concept, the so-called metaphysical readers have warned against identifying these accounts too swiftly, urging instead that the concept is an onto-logical structure which needs to be conceived through the genuinely Hegelian notion of absolute negativity. In this paper, I reject the problematic underlying assumption shared by both interpretative strands that Hegel\u2019s notion of self-negation sits uncomfortably with conceiving Hegel\u2019s concept of the concept in terms of the unity of apperception. Contrary to both one-sided readings, I seek to preserve their insights by arguing first that Hegel\u2019s conception of the concept, or thinking only thinking itself, and its absolute negativity, can be understood as the radicalization of Kant\u2019s account of apperception, or self-relation of thinking, and its original emptiness. Second, I will show that the absolute negation provides the conceptual resources to understand how pure thinking can determine itself and thus give itself concrete conceptual content.",
+      "citationCount": 0,
+      "doi": "10.1017/hgl.2025.10089",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2c1c297b2db5edb14eb1acc279606d5262615554",
+      "venue": "Hegel Bulletin"
+    },
+    {
+      "paperId": "73205678e5a6732cffdc85490939ee4f1a6e4017",
+      "title": "Is Kant\u2019s Concept World Self-Contradictory?",
+      "authors": [
+        {
+          "name": "Aaron Wells",
+          "authorId": "26554057"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract There is a relatively overlooked problem with Kant\u2019s claim that in inquiry we must treat nature as if it were actually infinite in extent: he also states that the concept of an actually infinite world is self-contradictory. This threatens to make the command to treat the world as infinite incoherent; the problem also affects his error theory for traditional metaphysics and his account of the sublime. After laying out this worry in greater detail than has been done so far, I consider and reject readings on which Kant either does not consider this case a violation of ought-implies-can or allows that in this case, following an incoherent demand is epistemically acceptable on consequentialist grounds. Then I turn to my preferred solution, which takes the relevant regulative principle to concern Kant\u2019s noumena (understood as intensionally distinct from things in themselves), whereas the contradiction is provoked only by representations of phenomena.",
+      "citationCount": 0,
+      "doi": "10.1515/agph-2025-0148",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/73205678e5a6732cffdc85490939ee4f1a6e4017",
+      "venue": "Archiv f\u00fcr Geschichte der Philosophie"
+    },
+    {
+      "paperId": "9816447bf9097c952b69b3fd7475083cda124fd9",
+      "title": "Kant\u2019s moral teleology of hope",
+      "authors": [
+        {
+          "name": "Franjo Mijatovi\u0107",
+          "authorId": "2083728834"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper examines Kant?s concept of hope within the framework of his theoretical and practical philosophy, focusing on the relation between morality, happiness, and the highest good. Hope is understood as a rationally justified expectation of happiness conditional upon moral action and is therefore subordinate to duty. While hope for happiness must not serve as the motive of moral action, it may legitimately accompany and sustain it. The transition from moral teleology to moral theology is interpreted as a reflective justification of rational hope, in which God?s existence is not theoretically proven but postulated as a condition of moral assurance and of the meaningfulness of moral striving in a world of finite, purposive beings. Hope is thus necessarily situated beyond the limits of theoretical cognition, and it is precisely through this limitation that it finds its proper place within moral teleology.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601067m",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9816447bf9097c952b69b3fd7475083cda124fd9",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "f72fb234bc60cd81faf1250b713cd251319e8b7b",
+      "title": "Kant and the argument from possibility",
+      "authors": [
+        {
+          "name": "Radenko Gurdeljevic",
+          "authorId": "2419851475"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper examines Kant?s pre-critical argument from possibility, developed in The Only Possible Argument in Support of a Demonstration of the Existence of God (1763). In this work, Kant attempts to establish the existence of a necessary being on the basis of the very concept of internal possibility-conceivability without contradiction. The argument is based on a distinction between the formal element of possibility, grounded in the principle of non-contradiction, and the material element, which requires actual existence as a condition for anything to be thinkable. Without this material element, Kant argues, all possibility would be abolished. Since contingent beings cannot provide such a foundation, he concludes that a necessary being must exist as the ground of all internal possibility. The paper offers a systematic reconstruction of the argument and reassesses its philosophical significance. It argues that Kant?s early account of the relation between possibility and existence anticipates key problems that reappear-transformed-in his critical philosophy. In this way, the argument from possibility merits renewed attention, not merely as a historical curiosity, but as a significant step in the broader trajectory of Kant?s metaphysical development.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601151g",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f72fb234bc60cd81faf1250b713cd251319e8b7b",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "c2ece59fe5478811a5f98af6e1f51e21c341c9e6",
+      "title": "Self-censorship and the puzzle of publicity: Kant\u2019s political philosophy in the context of democracy/autocracy dichotomy",
+      "authors": [
+        {
+          "name": "A. Soc",
+          "authorId": "113693746"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper examines whether Kant?s practical philosophy is applicable to contemporary circumstances of politics. In the first section, I outline the challenge we face when trying to define these circumstances by pointing to the growing importance of recognizing the democracy/autocracy dichotomy. In the second section, I examine five prominent interpretations of morality-politics relationship within Kant?s philosophy. To show where such interpretations fall short, in the third section I outline the puzzle of publicity - i.e. the problem of applying Kant?s demand for publicity in contemporary autocratic societies (or, more broadly, oppressive circumstances) - by showing how it may lead to self-censorship, rather than autonomous use of reason. I suggest that to fully grasp the applicability of Kant?s views within contemporary complexity of political issues and debates, we need to carefully consider the hierarchy of Kant?s views by analyzing their transcendentality, i.e. by finding which tenet presents a necessary condition for other tenets. Thus, in the fourth section I offer a comprehensive picture of Kant?s key ideas in politics and ethics, and I show which ideas are fundamental and how all of them need to be transcendentally ordered for us to be able to apply Kant?s political philosophy today.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601045s",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c2ece59fe5478811a5f98af6e1f51e21c341c9e6",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "beb315eef7343b4bc6a96e67b6214d636919959d",
+      "title": "What is man?",
+      "authors": [
+        {
+          "name": "Aleksandar Lukic",
+          "authorId": "2335805330"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In this paper, we explore the question of humanity, which has been one of the main questions throughout the history of philosophy. We approached the research through the teachings of three important thinkers - Plato, Kant and Scheler. The reason for choosing these philosophers is the importance they gave to anthropological problems on the one hand, and the continuity of the topic from ancient times to modern times. In Kant?s famous questions - what can I know, what should I do and what can I hope for, which refer to his three Critiques, the crucial anthropological question - what is man is contained. The basic difficulty that ?tormented? all thinkers is contained in the mystery of human nature, but also of nature in general, i.e. the unavailability of an indisputable answer to the question about being, which represents an almost insurmountable obstacle in philosophical research. In this work, we primarily tried to find some possible answers to the riddle of human existence through the thoughts of Plato, Kant and Scheler.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601213l",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/beb315eef7343b4bc6a96e67b6214d636919959d",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "06a0ce29d8e664dda295a319ccb3cb35f024a89e",
+      "title": "What\u2019s Really Wrong with Postmodernism?",
+      "authors": [
+        {
+          "name": "D. Armitage",
+          "authorId": "133813461"
+        },
+        {
+          "name": "Danielle Haggerty",
+          "authorId": "50705358"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper offers a new critique of postmodernism by focusing on the inadequacy of postmodernism\u2019s underlying philosophy of mathematics, which we argue is more philosophically fundamental, and yet compatible with more common critiques of postmodernism, such as those exposing its self-referential incoherency. We define postmodernism as any philosophical system assuming a critique of the objective nature of rationality. Thus, firstly, this paper is devoted to a brief historical overview and argument for this understanding, with an emphasis on the implicit conception of mathematics (and reason) within it, which we argue is largely Kantian. We then turn to an analysis of Kant\u2019s theory of mathematics as it appears in the First Critique and the Prolegomena. Finally, we argue as follows: if Kant\u2019s theory of mathematics is incorrect, then postmodernism\u2019s \u201cmetaphysical\u201d pretensions as a critique of rationality, which both arise from and refer back to a Kantian view of mathematics, are bankrupt. The paper concludes by suggesting that the affirmation of intelligibility\u2019s reality implies a theistic metaphysics, uniting philosophical and theological reason.",
+      "citationCount": 0,
+      "doi": "10.15290/rtk.2025.24.03",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/06a0ce29d8e664dda295a319ccb3cb35f024a89e",
+      "venue": "Rocznik Teologii Katolickiej"
+    },
+    {
+      "paperId": "b2f28f9543b7c7f31300a2b75ae29a17ef4160e1",
+      "title": "Kant\u2019s two formulas of universal law and the relationship between right and morals in the Metaphysics of Morals",
+      "authors": [
+        {
+          "name": "Gehad Marcon Bark",
+          "authorId": "2410662115"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper addresses the difference between Kant\u2019s two formulas of universal law in the Groundwork to the Metaphysics of Morals (1785) and in the Introduction to the Metaphysics of Morals (1797). The main argument is that the principle is formulated, in the last text, essentially as a principle of adjudication which is fully compatible with both internal and external lawgiving of ethical and juridical laws respectively. Given this new formulation, the principle is relieved from the strongly motivational content which characterizes it in the Groundwork, thus providing, alongside the conceptual framework developed in the Introduction to the Metaphysics of Morals, the textual basis needed for a better understanding of the moral grounds of obligation and duty in the realm of right according to Kantian thought.",
+      "citationCount": 0,
+      "doi": "10.36311/2318-0501/2025.v13.e025008",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b2f28f9543b7c7f31300a2b75ae29a17ef4160e1",
+      "venue": "Estudos Kantianos [EK]"
+    },
+    {
+      "paperId": "9eddde45939a26709e4a8cd7f3f424edf62dc885",
+      "title": "Kant on Utopia",
+      "authors": [
+        {
+          "name": "K. Reinhardt",
+          "authorId": "2053142741"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n Immanuel Kant's The Dispute between the Faculties (1798) contains a footnote referencing four utopian states \u2014 Atlantis, Utopia, Oceana, and Severambia. This passage has largely been overlooked in Kantian scholarship. This paper revisits this neglected passage to explore Kant's engagement with utopian literature and its implications for his philosophy of history and political thought. The footnote, though brief, sheds light on Kant's views regarding the feasibility of ideal states and their connection to revolutionary change. It reveals Kant's nuanced perspective on the role of utopian visions in shaping political ideals and the duties of individuals and governments in realizing such ideals. While Kant acknowledges these utopias as \u201csweet dreams,\u201d he also questions their practicality and warns against revolutionary approaches to achieving them. This paper examines how Kant's references to these utopian constructs reflect his broader philosophical concerns about progress and reform, emphasizing that progress must occur through gradual, lawful reform rather than through revolutionary upheaval. By analyzing Kant's treatment of these literary fictions, the paper aims to illuminate his complex relationship with utopian thought and its place within his broader theoretical framework.",
+      "citationCount": 0,
+      "doi": "10.1111/ejop.70044",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9eddde45939a26709e4a8cd7f3f424edf62dc885",
+      "venue": "European Journal of Philosophy"
+    },
+    {
+      "paperId": "779caf1b4edcb7d99ebe6d5b7d4d21eaed6d0edd",
+      "title": "Why even a rational devil could be righteous under a Kantian account of right?",
+      "authors": [
+        {
+          "name": "Gehad Marcon Bark",
+          "authorId": "2125757789"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper focuses on Kant\u2019s Towards Perpetual Peace famous statement according to which the problem of the State can be solved even for a race of devils. Its first aim is to show that coercion exerted via positive laws is pivotal to the understanding of Kant\u2019s main thesis regarding this nation of devils and the correspondent accomplishment of reason\u2019s ends through the \u201cmechanical course of nature\u201d (ZeF, AA 08, p. 367). According to this reviewed version of Kant\u2019s hypothesis, however, by refraining from violating the laws of a republican State out of self-interest, a devil would have to be taken as genuinely righteous according to rational principles. To make sense of this statement, Kant\u2019s hypothesis shall be developed and interpreted as coherently enclosing a general thesis regarding the normativity of right and its source on the external use of free choice independently of each agent\u2019s moral virtue.",
+      "citationCount": 0,
+      "doi": "10.5380/dp.v22i3.100681",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/779caf1b4edcb7d99ebe6d5b7d4d21eaed6d0edd",
+      "venue": "DoisPontos"
+    },
+    {
+      "paperId": "19ef3e62702ed9bafd19785b9e43680be602c8e0",
+      "title": "Myth and Truth about Kant\u2019s \u201cFormalism\u201d, or This Obscure Form of a Maxim",
+      "authors": [
+        {
+          "name": "Andrey Sudakov",
+          "authorId": "2348394518"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The article attempts to problematize the grounds for Hegel\u2019s criticism of Kant\u2019s ethicsas \u201cformalism\u201d, which still remains a philosophical commonplace. For Hegel, Kant\u2019s position is the point of view of abstract morality, on which the rational principle of the good is the prin\u00adciple of the formal accordance of reason with itself, the law of self-reliance of the good as conscience; an essential property of Kantian morality is the requirement to fulfill duty for its own sake, and at the same time the allegedimpossibility to deduce any specific definitions of this duty, a system of private moralobligations. Hegel, followed by his disciples and fol\u00adlowers, concluded from this thatKantian ethics, as an ethics of the pure form of maxims, stopped at the ideal of goodwill, not proceeding \u2013 and not even having a logical possibility to proceed \u2013 to the actuality of the good. It turns out, however, that such criticism is based on a sort of a misunderstanding: on the identification of Kant\u2019s universal legislative form of a maximwith the logical form of universality inherent in the law of nature. Although the letterof Kant\u2019s definitions sometimes gives some cause for such an identification, upon the whole it distorts the view on Kant\u2019s ethics, in which the legislation of reason is not a logi\u00adcal, but a practical, i.e. freedom-mediated determination, and therefore the form of the princi\u00adple of will, which claims to participate in this legislation, is also a practicalform. If the mat\u00adter of the will is its object, the logical form of the maxim is the form of a system of means to achieve the object, the practical form of the maxim is a mode of self-determination to ac\u00adtions that achieve the object. The practical form of the maximconcerns the entire use of free\u00addom, therefore there can be only one legitimate practicalform of the maxim; however, this becomes clear only at the level of Kant\u2019s philosophyof moral religion. It is the practical form of the maxim of every action that can and must be legislative in Kant\u2019s ethics, i.e. the legiti\u00admate determining ground for the acts of freedom; the logical form of the maxim is practically incapable to determine anything practically. Only with this understanding of the matter is it possible to overcome the myth of Kantian \u201cformalism\u201d, at the same time retaining the valid and philosophicallyfruitful meaning of the concept of the legislative form of maxims.",
+      "citationCount": 0,
+      "doi": "10.21146/2074-4870-2025-25-2-68-82",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/19ef3e62702ed9bafd19785b9e43680be602c8e0",
+      "venue": "Ethical Thought"
+    },
+    {
+      "paperId": "0bcd2baa40d6e227f0a8a7b5f72914e9325500bf",
+      "title": "Validity and Reason",
+      "authors": [
+        {
+          "name": "Christian Krijnen",
+          "authorId": "2317650046"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract The problem of validity is the fundamental problem of philosophy. In this, transcendental and speculative idealism agree. Concerning the nature of the method to solve this problem, however, transcendental and speculative idealism diverge. Krijnen holds that due to its method, transcendental idealism fails to produce true self-knowledge of reason. In considering itself, thought forgets itself, which leads to the issue of externalitiy as an intrinsic feature of transcendental idealism. Krijnen illustrates this methodically induced externality by scrutinizing some doctrines of transcendental philosophy, placing particular emphasis on the contribution of the later generation of neo-Kantians like Bauch, Cassirer, and Cohn, but finally also on Fichte. The scrutinzed doctrines concerns the much-debated problem of the beginning of philosophy, the highly praised neo-Kantian concept of the concept as a function, and the self-destruction of the concept.",
+      "citationCount": 0,
+      "doi": "10.1515/jtph-2025-0022",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0bcd2baa40d6e227f0a8a7b5f72914e9325500bf",
+      "venue": "Journal of Transcendental Philosophy"
+    },
+    {
+      "paperId": "12f93c60e5a0cfa849106c65dc72a48089993235",
+      "title": "Rationalizing and social irrationality from a Kantian perspective",
+      "authors": [
+        {
+          "name": "Eduardo De Oliveira da Costa",
+          "authorId": "2419677610"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The present paper addresses the relation between, on the one hand, Kant\u2019s concept of rationalizing  and, on the other hand, the concept and phenomenon of social irrationality understood in a Kantian perspective. More specifically, this work argues that one can see in Kant\u2019s concept of rationalizing, which is understood by Kant as a form of irrationality, a source of social irrationality and, therefore, a conceptual tool that can help us to address the phenomenon of social irrationality in our society. To accomplish task, this paper is divided in four sections: an introduction (1), a definition of the concepts of irrationality and social irrationality (2), an explanation of the essential characteristics of Kant\u2019s concept of rationalizing as one can find in Kant\u2019s works and in the interpreters (3), and a demonstration of the usefulness of Kant\u2019s concept of rationalizing for understanding the sources of social irrationality in our society (4).",
+      "citationCount": 0,
+      "doi": "10.5380/dp.v22i3.100711",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/12f93c60e5a0cfa849106c65dc72a48089993235",
+      "venue": "DoisPontos"
+    },
+    {
+      "paperId": "b8d102b5a418588e5dc22ff2773611e8f5bb7425",
+      "title": "Methodological Naturalism for Philosophy: Insights from Wittgenstein",
+      "authors": [
+        {
+          "name": "A. Rakhmanin",
+          "authorId": "2368168569"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract This paper seeks to contribute to the ongoing debates about methodological naturalism in philosophy by examining the interpretations of Wittgenstein as a naturalist philosopher. Through analyzing these interpretations, I characterize Wittgenstein\u2019s position as a rare kind of naturalism independent of ontological or metaphysical claims. I show that what makes Wittgenstein\u2019s naturalism methodological is its metaphilosophical thrust, which I exemplify in two interrelated features of Wittgenstein\u2019s thought. First, the idea of philosophy\u2019s radical autonomy prevents philosophy from committing itself to any metaphysical thesis. Second, the emphasis that Wittgenstein places on the descriptiveness of philosophy makes \u201cgeneral facts of nature\u201d not the material of observation but the hinges of philosophy. Naturalism in Wittgenstein\u2019s thought, I argue, is the precondition for philosophy as opposed to science. Since Wittgenstein\u2019s naturalism is metaphilosophical, it is methodological: it prevents a philosopher from adopting the supernatural positions embodied in metaphysical theses. Thus, the proposed interpretation not only refines dominant views of Wittgenstein\u2019s naturalism as liberal or liberating, but also adds to the diversity of naturalistic positions in philosophy.",
+      "citationCount": 0,
+      "doi": "10.1515/sats-2025-0005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b8d102b5a418588e5dc22ff2773611e8f5bb7425",
+      "venue": "Sats: northern european journal of philosophy"
+    },
+    {
+      "paperId": "9b2ce1e666f78c68bccd9f75b223a5afafb99e5c",
+      "title": "Kant\u2019s wager?: Betting as a touchstone of subjective conviction",
+      "authors": [
+        {
+          "name": "J. Merle",
+          "authorId": "50346593"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9b2ce1e666f78c68bccd9f75b223a5afafb99e5c",
+      "venue": ""
+    },
+    {
+      "paperId": "b8ba365cdbd87a0c24de0654f6ede1e7e47cb112",
+      "title": "Kant on Complete and Thoroughgoing Determination",
+      "authors": [
+        {
+          "name": "Zachary Biondi",
+          "authorId": "134901014"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract In section two of the Ideal of Pure Reason in the Critique of Pure Reason, Kant provides an intricate attempt to ground possibility in the idea of \u201call of reality\u201d (omnitudo realitiatis). The section begins with two principles, 1) the principle of determinability and 2) the principle of thoroughgoing determination. How the two principles work and relate to each other has been a matter of scholarly debate. The paper contributes to this debate first by outlining Kant\u2019s different senses of \u2018determination\u2019. It then uses the senses to suggest a distinction between thoroughgoing determination and complete determination. The distinction enables a reading of the first moves of Kant\u2019s argument in the section. Then the paper places Kant\u2019s use of complete determination in the context of his theory of cognition and criticism of the Leibnizian rationalist tradition.",
+      "citationCount": 0,
+      "doi": "10.1515/kant-2024-0030",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b8ba365cdbd87a0c24de0654f6ede1e7e47cb112",
+      "venue": "Kant-Studien"
+    },
+    {
+      "paperId": "b5a209cb783eff1c570c559181bec4f79b65fec1",
+      "title": "The meeting between Kant and Marx on the plane of eschatology",
+      "authors": [
+        {
+          "name": "Danilo Pupavac",
+          "authorId": "2323988266"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In many ways (seemingly) on opposite sides, Kant and Marx also show some similarities in their thoughts, thus creating an important conceptual-theoretical connection that is important both for further reflection on the theory of both authors, as well as for understanding Marx?s theoretical development and which deserves special research attention. In this paper, we are about to give a framework and added illumination to this conceptual-theoretical relationship which, according to the basic thesis of the paper, is most significantly reflected in the design of anthropology and the philosophy of history, in its eschatological manner, both of these authors. So Kant?s undertaking of translating Christian eschatology on a philosophical basis, thus differentiating a few necessary, but intrinsically insufficient, phases of the eschatological flow, will represent that conceptual shift which will allow Marks to continue to move within the framework of the eschatological understanding of history, but which, by contrast to Kant, will solve this problem with an entirely different kind of anthropology.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601105p",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b5a209cb783eff1c570c559181bec4f79b65fec1",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "28f856e1951ce65f297f2ec13425ba4f87cec57d",
+      "title": "LEVINAS AND THE ACTUAL DIMENSIONS OF HUMANISM 'WITHOUT GENUS': LEVINAS'S HUMANISM RECONSIDERED",
+      "authors": [
+        {
+          "name": "P. Atterton",
+          "authorId": "8078157"
+        },
+        {
+          "name": "San Diego",
+          "authorId": "2238962243"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/28f856e1951ce65f297f2ec13425ba4f87cec57d",
+      "venue": ""
+    },
+    {
+      "paperId": "7e13e400688d14279555fb8d587dab3295ea732a",
+      "title": "A faithless metaphysics: Spengler's influence on Husserl's\n The Crisis of European Sciences",
+      "authors": [
+        {
+          "name": "Benjamin Ogden",
+          "authorId": "2384623200"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n This paper demonstrates the important role that Oswald Spengler's skeptical philosophy played in motivating Edmund Husserl's\n The Crisis of European Sciences\n (1936). To date, almost no scholarship has considered the place of Spengler in Husserl's critique of philosophical skepticism and his philosophy of history. To underscore the relationship between Spengler and Husserl, this paper draws extensively from a previously ignored and untranslated source in English scholarship: the\n Spenglerheft\n (1921), published in the journal\n Logos\n , which Husserl co-edited. These essays, published during the\n Spengler-Streit\n , anticipate many of the arguments which Husserl would develop a decade later in the\n Crisis\n . They thereby evidence that Husserl's turn to the philosophy of history in the\n Crisis\n participated in a broader effort to overcome a Spengler's philosophical skepticism, and that Husserl's method clearly builds on arguments being levelled explicitly against Spengler in the\n Spenglerheft\n . The\n Spenglerheft\n emerges as a critical moment in advancing a philosophically robust dialogue between Spengler and Husserl.\n",
+      "citationCount": 0,
+      "doi": "10.1177/09526951251390713",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7e13e400688d14279555fb8d587dab3295ea732a",
+      "venue": "History of the Human Sciences"
+    },
+    {
+      "paperId": "4960e4a041b96a0bef6d884db28535da36e6e242",
+      "title": "Two Anxieties about Rights: Joan Lockwood O\u2019Donovan and Pierre Manent on Liberalism and the Political",
+      "authors": [
+        {
+          "name": "John Walker",
+          "authorId": "2110865204"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article examines the relationship between the work of Anglican political theologian Joan Lockwood O\u2019Donovan and French Catholic political philosopher Pierre Manent, focusing on their respective rights-critical narratives of modern political liberalism. While both thinkers fault the natural rights tradition for relying on a false anthropology, they draw different conclusions about the relationship of natural rights to the political. O\u2019Donovan sees the theory of natural rights as a case of over-politicization, of subjugating natural and redeemed sociality to the alien juridical logic of postlapsarian earthly politics. Manent, by contrast, sees in the theory of natural rights a de-politicization of erstwhile political relationships and an eclipse of the human qua citizen (i.e., political animal). O\u2019Donovan represents an Augustinian anxiety over rights, and Manent an Aristotelian one. Though evidently opposed, I consider if and how these two approaches might converge. The crux of the inquiry turns on how one specifies the nature of the political. Manent regards political action as human action at its highest pitch. O\u2019Donovan, by contrast, sees it as essentially derivative, reactive, and concealing as much as disclosing. Where Manent centers the political act, O\u2019Donovan centers the doxological act. The question of which has primacy represents a fundamental decision for any political theology seeking to think beyond the limits of liberalism.",
+      "citationCount": 1,
+      "doi": "10.1177/09539468251409114",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4960e4a041b96a0bef6d884db28535da36e6e242",
+      "venue": "Studies in Christian Ethics"
+    },
+    {
+      "paperId": "4a90697df33fb72a23dba1f7ae277b3892cabafe",
+      "title": "The Annotated Kant",
+      "authors": [
+        {
+          "name": "I. Kant",
+          "authorId": "2270296878"
+        }
+      ],
+      "year": 2020,
+      "abstract": "This new, complete translation of Immanuel Kant\u2019s Groundwork for the Metaphysics of Morals provides the most accessible version of this challenging foundational work in moral philosophy. Calling on the insights of a team of noted scholar-teachers, The Annotated Kant rendersthe text as clearly as possible, supplementing it with an inviting introduction, clarifying running commentary, and a helpful glossary. Annotations are presented on facing pages to provide support for readers and room for their note-taking.\n Remaining true to the intricacies of the original German text, this presentation of Kant\u2019s masterpiece enables all to appreciate the powerful vision it offers.",
+      "citationCount": 0,
+      "doi": "10.5040/9798881828509",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4a90697df33fb72a23dba1f7ae277b3892cabafe",
+      "venue": ""
+    },
+    {
+      "paperId": "505e564d4d71ac2511a08585d806d6c34b6ec042",
+      "title": "A liking arising from displeasure - Kant\u2019s category of the sublime and the force of the subject\u2019s powerlessness",
+      "authors": [
+        {
+          "name": "Iva Draskic-Vicanovic",
+          "authorId": "1404839780"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This text explores the role of the sublime in Kant?s transcendental philosophy. The author argues that the sublime is a key concept, present even in Kant?s pre-critical phase, and later gaining deeper significance beyond aesthetics within his critical system. The focus is on a transcendental analysis of the faculties involved in judgments of the sublime-imagination and reason-and their moral implications. Central to the argument is the notion of ?pleasure through displeasure,? where the imagination?s failure to grasp the absolute evokes a sense of inner defeat. Yet this failure awakens the subject?s awareness of its own inner strength-an indomitable power that resists all forces of nature. Thus, the sublime becomes a gateway to realizing the boundless moral potential of the self.",
+      "citationCount": 0,
+      "doi": "10.2298/theo2601093d",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/505e564d4d71ac2511a08585d806d6c34b6ec042",
+      "venue": "Theoria Beograd"
+    },
+    {
+      "paperId": "9769cc61f5d3fab4b7df9a656f892fbb51350335",
+      "title": "Love, Goodness and Moral Understanding: Two Reflections",
+      "authors": [
+        {
+          "name": "Salla Aldrin Salskov",
+          "authorId": "1919664648"
+        },
+        {
+          "name": "Philip Strammer",
+          "authorId": "2234763303"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The article examines the relation between love and moral understanding in the context of post-Wittgensteinian ethics via two examples, the Biblical parable of the Good Samaritan and Raimond Gaita\u2019s autobiographical account of an encounter with a loving nun. The article suggests that the examples are best understood as teachings about love as expressive of moral understanding and speak of love thus understood in terms of a wholehearted responsiveness to others \u2013 as wholeheartedness. While both examples teach a similar lesson, they emphasise different aspects: whereas the discussion of the Biblical parable focuses on the moral understanding involved in being loving towards another, Gaita\u2019s anecdote foregrounds the question of what it is like to witness and understand such love. Our discussion shows that philosophy often overlooks the moral significance of love by rationalising morality. Whereas rational conceptions of morality overemphasise its practical and socio-cultural dimensions, the moral understanding that finds expression in love illustrates the radically personal nature of moral concerns. Thus, it is suggested that love is not merely an aspect of morality but lies at its very heart.",
+      "citationCount": 0,
+      "doi": "10.15845/nwr.si2026.3788",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9769cc61f5d3fab4b7df9a656f892fbb51350335",
+      "venue": "Nordic Wittgenstein Review"
+    },
+    {
+      "paperId": "7ae0431c089825ef1b05b3fa6b17afd044ff2086",
+      "title": "Arguing with Kant in the Postcolonial Middle East",
+      "authors": [
+        {
+          "name": "Michael Frey",
+          "authorId": "2056524551"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n \n This article examines the first Arabic translations of Immanuel Kant\u2019s\n Critique of Pure Reason\n (1965) and\n Critique of Practical Reason\n (1966) in light of the intellectual journey of their translator, A\u1e25mad al-\u0160ayb\u0101n\u012b (1923\u201395). It argues that, shaped by experiences of repression, exile, and a search for identity, al-\u0160ayb\u0101n\u012b developed in his own writings a core moral concern centered on human dignity, freedom, and rationalism\u2014values that he perceived to be upheld by Islam and threatened by what he calls \u201cmaterialism\u201d. As the prefaces to his translations show, Kant helped him synthesize these beliefs, including his religious convictions. By offering a historically grounded perspective on Kant as a global thinker that goes beyond parochial Eurocentric truth claims, this article also draws attention to a philosophical engagement with the political and social changes of the postcolonial Middle East that evades the ideological framing prevalent in the intellectual historiography of that era.\n",
+      "citationCount": 0,
+      "doi": "10.1163/15700607-20262019",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7ae0431c089825ef1b05b3fa6b17afd044ff2086",
+      "venue": "Die Welt des Islams"
+    },
+    {
+      "paperId": "73d39b5440b7ced5cd71ffae52f9ed04a60b755a",
+      "title": "The Problem of Methodological Dogmatism: The Curious Case of Kant on Race",
+      "authors": [
+        {
+          "name": "Zachary Vereb",
+          "authorId": "117290988"
+        },
+        {
+          "name": "William A. B. Parkhurst",
+          "authorId": "2406160878"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n \n We argue that scholars involved in debates on Kant\u2019s writings on race and racism are deeply entangled with a tacit methodological debate about the use of a \u2018priority principle\u2019. We identify three variants of the priority principle in Kant scholarship. To illustrate, we focus on interpretations of Kant\u2019s\n Physical Geography\n . The methodological approaches we analyse offer three\n opposite and mutually exclusive\n interpretative recommendations. We articulate a taxonomy of methods commonly employed and suggest that focusing on individual texts reveals value-laden methodological assumptions guiding the debate. To address substantive issues surrounding Kant\u2019s raciology, we suggest commentators should carefully justify their methodological choices.\n",
+      "citationCount": 0,
+      "doi": "10.1017/s1369415425101180",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/73d39b5440b7ced5cd71ffae52f9ed04a60b755a",
+      "venue": "Kantian Review"
+    },
+    {
+      "paperId": "eba23203455fcb249142324a0f6940e3f84970b7",
+      "title": "Sensus communis and Critical Judgment in Eighteenth-Century Theories of Taste",
+      "authors": [
+        {
+          "name": "A. Gatti",
+          "authorId": "2054491356"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract. The debate surrounding the concept of common sense played a significant role in shaping the major currents of thought and society in 18th-century England. Initially regarded as synonymous with widespread, and sometimes fallacious, opinions, the concept gained epistemological validity during the century\u2019s second half. This shift occurred after the rejection of common sense had led to the development of theories that hindered further intellectual progress, standing in stark contrast to the epistemological insights that would later be considered incontrovertible. This essay examines the nature and effects of the peculiar notion of common sense that emerged in this period, both in theoretical and practical terms, as well as within individual and social contexts. The study aims to analyze the implications and effects of sensus communis as it evolved during this time and investigates the role it plays in articulating certain speculative tendencies underlying eighteenth-century aesthetic inquiries in England.",
+      "citationCount": 0,
+      "doi": "10.36253/ds-17045",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/eba23203455fcb249142324a0f6940e3f84970b7",
+      "venue": "Diciottesimo Secolo"
+    },
+    {
+      "paperId": "61b0bc8a53433858a47270a1d9e0ab5e9fefbe82",
+      "title": "Metaethics \u2013 An Ontological Analysis Regarding Man: In Franz Rosenzweig\u2019s The Star Of Redemption",
+      "authors": [
+        {
+          "name": "Nguyen Phuong Hoang",
+          "authorId": "2410573059"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Based mainly on part I of the Star of Redemption (the Star), this paper is divided into three main parts. First of all, the first part will mention the new thinking and its circumstances. Rosenzweig criticizes both Kant (man as a moral entity) and Hegel (the notion of totality and reduction of man to spirit). Rosenzweig justifies the need for new thinking as follows: philosophy begins with \u201cthe fear of death.\u201d Philosophy has until now endorsed man based on concepts and essences which are inevitably abstract. Thus, he calls for a radical \u201cnew thinking.\u201d Next, three irreducible elements (God, world, and man) and the ontological analysis of personality is the content of the second part. Cohen\u2019s infinitesimal calculus and how the three irreducible elements generate themselves out of their own particular nothings will be mentioned. Rosenzweig argues that personality, the first stage in the ontological analysis regarding man, is an inauthentic self. Thirdly, the main content of the third part is the ontological analysis of an authentic self in the second stage (character) and third stage (self). The shift from personality to character is significant. Character is non-relational because it is a self-enclosure. In addition, the writer focuses highly on the self in its entire form (\u201cB=B\u201d) as metaethics. Through these analyses, Rosenzweig proves that man is both finite and infinite. Furthermore, he uses the \u201csoul\u201d as the self that emerges at the intersubjective level. The \u201csoul\u201d is both beyond \u201cpersonality\u201d, \u201ccharacter\u201d and even \u201cmetaethics\u201d. And so, man is beyond metaethics and non-definitive. In conclusion, man is not only one element alongside but also in relation to God as a living subject (in part II of the Star).",
+      "citationCount": 0,
+      "doi": "10.54855/csl.26614",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/61b0bc8a53433858a47270a1d9e0ab5e9fefbe82",
+      "venue": "Khoa H\u1ecdc C\u00f4ng Gi\u00e1o v\u00e0 \u0110\u1eddi S\u1ed1ng"
+    },
+    {
+      "paperId": "b1b8fbc2f1fa551aec2ae302fd1d5935c6b3f5df",
+      "title": "Transhumanist Nietzsche? An Interpretation and Critique of Stefan Lorenz Sorgner\u2019s Position",
+      "authors": [
+        {
+          "name": "Mark Horvath",
+          "authorId": "2243283000"
+        },
+        {
+          "name": "\u00c1. Lov\u00e1sz",
+          "authorId": "113552395"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b1b8fbc2f1fa551aec2ae302fd1d5935c6b3f5df",
+      "venue": ""
+    },
+    {
+      "paperId": "1f4893397a66bb1f457f6c79435484e5b2add6eb",
+      "title": "Ancient Ruins and the Sublime",
+      "authors": [
+        {
+          "name": "Patrick Hassan",
+          "authorId": "116139517"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1f4893397a66bb1f457f6c79435484e5b2add6eb",
+      "venue": ""
+    },
+    {
+      "paperId": "377c3327361144dac5c9a46e7597fe30879fa8ee",
+      "title": "Ontic Structural Realism and the Case of the Missing Kantian Residue",
+      "authors": [
+        {
+          "name": "R. van der Merwe",
+          "authorId": "1814605477"
+        }
+      ],
+      "year": 2026,
+      "abstract": "As the name suggests, Ontic Structural Realism (OSR) entails the claim that structure is all there is. However, several critics have argued that OSR\u2019s ontology is incomplete. There must be something ontologically significant beyond structure. I will suggest an ontology for these critics, one that invokes what Ladyman and Ross call \u201cKantian residue\u201d. In doing so, I modify Rae Langton\u2019s Kantian humility thesis to incorporate some extra-structural noumenal \u201csomething=x\u201d (as Kant puts it). This involves positing (a) that a mysterious something=x exists and (b) that something=x is responsible for structure (specifically structure\u2019s non-arbitrary properties). Responsibility is a modal relation that is potentially equivalent to some asymmetric relation (causation, explanation, determination, grounding, or the like). Regarding the nature of something=x, I argue in deflationary spirit that we can only know that it is that which is responsible for structure.",
+      "citationCount": 0,
+      "doi": "10.36446/af.e1202",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/377c3327361144dac5c9a46e7597fe30879fa8ee",
+      "venue": "An\u00e1lisis filos\u00f3fico"
+    },
+    {
+      "paperId": "375a8983865c15ce8a52726a56971a09e9f539fb",
+      "title": "Kant on Citizenship and Poverty",
+      "authors": [
+        {
+          "name": "Nicholas Vrousalis",
+          "authorId": "2372766444"
+        }
+      ],
+      "year": 2026,
+      "abstract": "According to Kant, citizenship amounts to freedom (Freiheit), equality (Gleichheit), and civil self-sufficiency (Selbst\u00e4ndigkeit). This Element provides a unifying interpretation of these three elements. Vrousalis argues that Kant affirms the idea of interdependent independence: in the just society, citizens have independent use of their interdependent rightful powers. Kant therefore thinks of the modern state as a system of cooperative production, in which reciprocal entitlements to one another's labour carry a justificatory burden. The empirical form of that ideal is a republic of economically independent commodity producers. It follows that citizenship and poverty, for Kant, are inextricably connected. Vrousalis explains how Kant's arguments anticipate Hegel's discussion of the division of labour, Marx's account of alienated labour, and Rawls' defence of a well-ordered society. This title is also available as Open Access on Cambridge Core.",
+      "citationCount": 0,
+      "doi": "10.1017/9781009671323",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/375a8983865c15ce8a52726a56971a09e9f539fb",
+      "venue": ""
+    },
+    {
+      "paperId": "b14f287e6e0b197c2d7d2580e9d72e499b0fd4ed",
+      "title": "Encyclopedia of Early Russian Kant-Studies. Review on: Kruglov A.N. Kant\u2019s Philosophy in Russia. Kaliningrad: Immanuel Kant Baltic Federal University Press, 2024. 795 p.",
+      "authors": [
+        {
+          "name": "Andrei Sudakov",
+          "authorId": "2410424899"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The review focuses on A.N. Kruglov\u2019s monograph \u201cKant\u2019s Philosophy in Russia\u201d, which is a com\u00adprehensive study of early Russian Kantianism. The reviewer notes that Kruglov has undertaken an extensive reconstruction of the reception of Kant\u2019s philosophy in Russia during the late 18th and mid-19th centuries, drawing on a wide range of archival and published sources. Special attention is paid to the first Russian translations of Kant\u2019s works, the role of universities and theological acad\u00ademies in the dissemination of critical philosophy, as well as the contributions of key figures such as Melman, Odoevsky, Solovyov, Lopatin, and Trubetskoy. The book also explores the interpreta\u00adtion of Kant\u2019s ideas by Russian Marxists. The reviewer highlights the impressive scope of the ma\u00adterial covered in the book, which encompasses not only philosophical, but also cultural and histori\u00adcal contexts that reveal how Kant\u2019s ideas were understood, reinterpreted, and transformed within the Russian intellectual tradition. At the same time, the author acknowledges the methodological challenges inherent in a project of such an encyclopedic scale: limited analysis of individual thinkers, uneven source material, and ambiguity in the criteria for including works within the Rus\u00adsian Kantian corpus. Despite these difficulties, Kruglov\u2019s work is recognized as a valuable contri\u00adbution \u2013 an ambitious and well-researched attempt to systematize the phenomenon of \u201cKant in Russia\u201d, opening up new perspectives for future studies on the history of Russian reception of critical philosophy.",
+      "citationCount": 0,
+      "doi": "10.21146/2949-3102-2025-3-3-116-127",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b14f287e6e0b197c2d7d2580e9d72e499b0fd4ed",
+      "venue": "Otechestvennaya Filosofiya"
+    },
+    {
+      "paperId": "df190a329d58d48588bca5b5e4a9e9740e79e947",
+      "title": "Not Even Ideal. Kant on Absolute Time and G\u00a8odel\u2019s Rotating Universes",
+      "authors": [
+        {
+          "name": "Silvia De Bianchi",
+          "authorId": "2315131762"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/df190a329d58d48588bca5b5e4a9e9740e79e947",
+      "venue": ""
+    },
+    {
+      "paperId": "adda17a71d1ba393d37cd1a20de82442210b172b",
+      "title": "On Aristotle\u2019s Instrumentalism: Can Reason Set Goals",
+      "authors": [
+        {
+          "name": "A. Sanzhenakov",
+          "authorId": "116909641"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The article is devoted to the study of the history of the concept of moral dignity in philoso\u00adphy. Such an inquiry is associated with a number of difficulties arising from the polysemy of the concept, as well as methodological issues linked to this complexity. At the center of the article lies the understanding of dignity as a universal and inalienable inner value (and/or status) of the human being, which justifies the demand for recognition and respect in human relations. The formation of a refined concept is analyzed through the use of a \u201cret\u00adrospective\u201d method, which makes it possible to trace the premises of this understanding of dignity in the history of thought. The article focuses on the interpretations of dignity in Cicero, Pufendorf, and Kant, which establish a certain line in the conceptual develop\u00adment. Through the lens of Kant\u2019s mature conception of dignity, the reflections of Pufendorf and Cicero are examined. The example of Cicero\u2019s philosophy shows that even early notions of dignity, albeit in embryonic form, already contained important premises later elaborated in the early modern period.",
+      "citationCount": 0,
+      "doi": "10.21146/2074-4870-2025-25-2-55-67",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/adda17a71d1ba393d37cd1a20de82442210b172b",
+      "venue": "Ethical Thought"
+    },
+    {
+      "paperId": "4eed6df84e95daa535e3390355e3202792be361f",
+      "title": "Lies and Fake News",
+      "authors": [
+        {
+          "name": "Karine Cristine De Souza Barboza",
+          "authorId": "2419805696"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article explores the contributions of Kantian philosophy to contemporary debates on information disorders, with a focus on fake news. It begins with Kant\u2019s definition of lying, emphasizing the conditions of declaration, untruthfulness, and intentionality as fundamental criteria for distinguishing misinformation, disinformation, and malinformation. The article argues that, unlike approaches centered on the medium of dissemination, these Kantian criteria offer a more precise delimitation of the concept of fake news. It then develops a critical analysis of Kant\u2019s definition of lying within the framework of Doctrine of Right, highlighting the distinction between private law, which protects individual rights, and public law, which safeguards the rights of humanity and social trust\u2014the foundation of the civil pact. The article concludes that the integration of these criteria provides a robust theoretical framework for critically understanding fake news and related information disturbances, contributing to ethical and legal discussions on legitimacy and responsibility in the public sphere.",
+      "citationCount": 0,
+      "doi": "10.5380/dp.v22i3.100750",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4eed6df84e95daa535e3390355e3202792be361f",
+      "venue": "DoisPontos"
+    },
+    {
+      "paperId": "0de38183baed657051b348ccd5e755cbe1b23377",
+      "title": "Faith and Philosophy: Journal of the Society of Christian Faith and Philosophy: Journal of the Society of Christian Philosophers Philosophers",
+      "authors": [
+        {
+          "name": "J. Beillard",
+          "authorId": "134134409"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0de38183baed657051b348ccd5e755cbe1b23377",
+      "venue": ""
+    },
+    {
+      "paperId": "77814be137a45dc5b7921a8d3b3c77d33beeae1b",
+      "title": "Kant\u2019s Concept of Race and Ludwig Emil Cichorius\u2019 Contribution to the Conversations-Lexikon",
+      "authors": [
+        {
+          "name": "Joris van Gorkom",
+          "authorId": "1662751143"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract Despite his academic position and contributions to one of the most respected German encyclopedias, Ludwig Emil Cichorius (1770\u20131829) remains an unknown figure in German intellectual history. This article explores Cichorius\u2019 publications on the topic of race, highlighting Kant\u2019s influence on 19th-century thought through Cichorius\u2019 contributions to the Conversations-Lexikon of Renatus Gotthelf L\u00f6bel (1767\u20131799), Christian Wilhelm Franke (1765\u20131831), and Friedrich Arnold Brockhaus (1772\u20131823). These contributions to the lexicon included distinct entries on the \u201craces of human beings\u201d and \u201craces of animals,\u201d where he engaged with Kantian ideas. He underscored the significance of unfailingly inherited traits over superficial characteristics in classifying races.",
+      "citationCount": 0,
+      "doi": "10.1515/kant-2024-0043",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/77814be137a45dc5b7921a8d3b3c77d33beeae1b",
+      "venue": "Kant-Studien"
+    },
+    {
+      "paperId": "69fdece642c48fda6443ca793063c70435c43ad7",
+      "title": "An Analysis of Kant\u2019s Verdict on Inuit Senicide",
+      "authors": [
+        {
+          "name": "Leon van Rijsbergen",
+          "authorId": "2373173034"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n \n In this paper, I attempt to interpret Kant\u2019s early reported thesis that the historical practice of senicide (i.e., killing the elderly) among certain Inuit communities constituted a \u2018loving service\u2019 and was \u2018to some degree justified\u2019 insofar as it was carried out to prevent one\u2019s parents from facing a \u2018more ignominious death\u2019. On my interpretation, Kant\u2019s verdict on Inuit senicide sheds new light on a core idea within his mature ethics \u2013 that persons are obligated to preserve themselves for as long as they remain a subject of duty. As I argue, Kant\u2019s verdict implies that those subject to senicide were no longer bound by the duty of self-preservation insofar as they were no longer able to\n live as\n persons with inviolable moral dignity. If my argument holds, this invites further exploration of the relationship between Kant\u2019s notion of dignity and the duty of self-preservation in the broader context of end-of-life decision-making.\n",
+      "citationCount": 1,
+      "doi": "10.1017/s1369415425101143",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/69fdece642c48fda6443ca793063c70435c43ad7",
+      "venue": "Kantian Review"
+    },
+    {
+      "paperId": "f531a6d6d954864c057b6f9d6fe2412f04ff4fcd",
+      "title": "Neglected Again? Peirce's \"Neglected Argument\" and the Theory of Religion Today: 2025 Presidential Address of the Charles S. Peirce Society",
+      "authors": [
+        {
+          "name": "H. Joas",
+          "authorId": "73171929"
+        }
+      ],
+      "year": 2026,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2979/csp.00046",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f531a6d6d954864c057b6f9d6fe2412f04ff4fcd",
+      "venue": ""
+    },
+    {
+      "paperId": "233c229732ed38f362b7a0727ea29ff357b636c4",
+      "title": "Democracy and the Need for \u201cHealthy Moral Selves\u201d",
+      "authors": [
+        {
+          "name": "Susan t. Gardner",
+          "authorId": "2298514093"
+        },
+        {
+          "name": "Wayne I. Henry",
+          "authorId": "40609761"
+        }
+      ],
+      "year": 2026,
+      "abstract": "A fairly precise vision of a healthy physical self can serve as motivation for undertaking the means to that end. The same cannot be said with regard to \u201chealthy moral selves\u201d. By definition, democracy is about living with others and, as we argue, a healthy moral self is one that lives well with others. However, precisely what \u201cliving with others\u201d entails is ambiguous, particularly in a capitalist economy that presumes that the greatest happiness results from antagonistic competitiveness. In an attempt to demystify how self-focused individuals may nonetheless thrive in \u201cthe space between\u201d, we will examine, with the help of Kant and Foucault, the Enlightenment Project that promoted maximal reasonableness (or what we are referring to as \u201chealthy moral selves\u201d) and then, with the help of Steven Pinker and Alisdair MacIntyre, explore the factors that have led to its seeming relatively recent failure. We will argue, following Iris Murdoch and others, that the best hope for its revitalization, and with it, democracy, lies, on one hand, with the debunking of counterfeit moral selves who use a \u201cmoral stance\u201d to deliver what Frankfurt refers to as \u201cbullshit\u201d, and, on the other, with the reinvigoration of our understanding that healthy moral selves require a steady diet of engaging in \u201cobjective practical reasoning\u201d with those who think differently, thereby potentially starving our fat relentless egos that are so often the source of divisiveness and, in so doing, become happy by becoming worthy\nof being happy. In animating the value of this goal, the hope is that the means, i.e., education for the reinvigoration of practical reason (the forgotten twin of theoretical reason) and genuine deliberative dialogue across difference will become sufficiently attractive that it will energize democratic practice and dialogue to such an extent that democracy, as a form of government, may yet flourish despite the atomizing forces of capitalism.",
+      "citationCount": 0,
+      "doi": "10.17265/2159-5313/2026.01.006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/233c229732ed38f362b7a0727ea29ff357b636c4",
+      "venue": "Philosophy Study"
+    },
+    {
+      "paperId": "2067af504e3ee3310865b816fa9a47cf0d6b2cc0",
+      "title": "Between nature and mind: Simone Weil's intermediaries upon consideration of Charles Taylor's concept of \u2018interspace\u2019",
+      "authors": [
+        {
+          "name": "E. O. Springsted",
+          "authorId": "93142973"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Simone Weil's concept of the metaxu, taken from Plato's Philebus, is a well\u2010recognised and central feature of her thinking. However, it has not been sufficiently examined, especially as it is part of Weil's larger philosophical project. This essay seeks to provide new perspective on the concept by using Charles Taylor's concept of \u2018interspace\u2019 as a way of focussing it. Like Taylor, Weil wants to talk about an \u2018interspace\u2019 where concepts are part of \u2018a third objectivity\u2019, a logical space where mind and nature intersect. This space is the space of human meaning in our life world. The paper seeks to show this first by examining Weil's concepts of beauty and of science, and then to show that it was an epistemic concern of hers by carefully looking at her essay \u2018Concept of Reading\u2019. It concludes with five points on how Weil's concept of the intermediaries should be used in treating her thinking.",
+      "citationCount": 0,
+      "doi": "10.1111/phin.70020",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2067af504e3ee3310865b816fa9a47cf0d6b2cc0",
+      "venue": "Philosophical Investigation"
+    },
+    {
+      "paperId": "c381281d91815a0eef1531cb284fb04ad3b1721d",
+      "title": "Beyond Democracy Promotion: Kant, Rawls, and a Liberal Alternative",
+      "authors": [
+        {
+          "name": "Huw L Williams",
+          "authorId": "52153472"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c381281d91815a0eef1531cb284fb04ad3b1721d",
+      "venue": ""
+    },
+    {
+      "paperId": "9681b6ce6fd4bdca5494f06c25b485cdb0d25aec",
+      "title": "The Intersection Between Kantian Human Dignity and Ubuntu/Hunhu: A Critical Engagement with Oliver Sensen\u2019s Perspective",
+      "authors": [
+        {
+          "name": "Felix Mofolo",
+          "authorId": "2409421836"
+        },
+        {
+          "name": "Telma Shiri",
+          "authorId": "2409421897"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Human dignity is a central concept in moral, legal, and political discourse, often invoked as the foundation of rights and ethical treatment. Traditional interpretations of Kantian dignity emphasise its intrinsic worth, tied to rational autonomy. However, Oliver Sensen offers a nuanced view, contending that, for Kant, dignity should be understood as a relational property, arising from our moral relations rather than from internal capacities. Sensen argues that human dignity, in the Kantian sense, is not a quality possessed in degrees or based on individual traits, but is rooted in the moral status rational beings hold by virtue of their autonomy. Particularly, Sensen\u2019s conception of human dignity resonates with the classical understanding of Hunhu/ Ubuntu in an African Ethical context. Ubuntu, a Southern African philosophical tradition, centres on the idea of personhood as inherently relational. It upholds values of mutual respect, shared responsibility, and ethical living within the community. In this worldview, human dignity is not a solitary possession but a quality nurtured through meaningful relationships, moral behaviour, and the recognition of each person\u2019s humanity. The guiding principle, \u2018I am because we are\u2019, captures this ethic, affirming that dignity flourishes through collective care and moral solidarity. It is therefore the aim of this paper to examine the relationship between Sensen\u2019s relational reading and Ubuntu in the African context. The paper will also consider the relevance of Sensen\u2019s understanding to contemporary African societies while looking at the significance of human dignity in contemporary moral thought.",
+      "citationCount": 0,
+      "doi": "10.65846/yuyv2596",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9681b6ce6fd4bdca5494f06c25b485cdb0d25aec",
+      "venue": "Jocap - Journal of Contemporary African Philosophy"
+    },
+    {
+      "paperId": "d400a292929d27050cf882d5e63e585480280841",
+      "title": "Faith and Philosophy: Journal of the Society of Christian Faith and Philosophy: Journal of the Society of Christian Philosophers Philosophers",
+      "authors": [
+        {
+          "name": "P. Corry",
+          "authorId": "105069953"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d400a292929d27050cf882d5e63e585480280841",
+      "venue": ""
+    },
+    {
+      "paperId": "3d6d151a03791752c2fda06db25c4ceed711633c",
+      "title": "What Was Already There",
+      "authors": [
+        {
+          "name": "Niklas Toivakainen",
+          "authorId": "2389723031"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The first half of the paper discusses Wittgenstein\u2019s critique of metaphysics in the Philosophical Investigations, why metaphysical uses of language are idling, by examining the rationale and method of inquiry informing Descartes\u2019 first principle of philosophy. The focus will be on clarifying how it is that metaphysical language use reproduces the very sickness of thought it is supposed to cure. In the second half, the paper discusses in what sense, and to what extent, the critique of metaphysics eliminates the relevance of the kinds of concerns that underpin metaphysics. The proposal is that while the central problem with metaphysical uses of language lies in its excessive urge to subdue its philosophical concerns to questions of knowledge, Philosophical Investigations brings to light the essentially moral-existential nature of these concerns.",
+      "citationCount": 0,
+      "doi": "10.15845/nwr.si2026.3749",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3d6d151a03791752c2fda06db25c4ceed711633c",
+      "venue": "Nordic Wittgenstein Review"
+    },
+    {
+      "paperId": "abe03483e202188e976b9d65336f36f561f714f7",
+      "title": "Sartre and the Burden of Responsibility",
+      "authors": [
+        {
+          "name": "V. Liu",
+          "authorId": "2275121114"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This essay explores Jean-Paul Sartre\u2019s idea of radical freedom and the criticism that his philosophy places too heavy a weight of responsibility on human beings. Starting with Sartre\u2019s contention that existence precedes essence, it considers how his ontology of freedom insists on radical self-determining in a universe without divine or natural assurances. But critics say this requirement makes life unbearably solitary and morally absolutist. The essay rereads the accusation of bad faith through Sartre\u2019s model for it and argues that its protest responsibility is a masked form of refusal to confront one\u2019s freedom. It goes on to examine the modifications brought by Simone de Beauvoir\u2019s concept of situated freedom and Sartre\u2019s own subsequent formulation in Critique of Dialectical Reason, which conceives freedom within historical and social totalities. Finally, the essay maintains that the \u201cburden\u201d of responsibility is not an ethical excess or a failure of abstraction, but constitutive of human existence as such: an ontological necessity enabling both authenticity and dignity and moral creativity.",
+      "citationCount": 0,
+      "doi": "10.61173/xajmnm16",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/abe03483e202188e976b9d65336f36f561f714f7",
+      "venue": "Arts, Culture and Language"
+    },
+    {
+      "paperId": "eb50213127667b58ca6f2f2eb9f792fe884be925",
+      "title": "Deleuze\u2019s Philosophy of Time and Logic",
+      "authors": [
+        {
+          "name": "Jonathan B. Paetsch",
+          "authorId": "89122368"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In this compelling study Charles John Paetsch explores the overlooked relationship between time and logic in Gilles Deleuze\u2019s philosophy.\n Drawing on the work of philosophers and mathematicians, from Kant and Peirce to Bergson and Brandom, this book plots an original path through Deleuze\u2019s thought and transcendental empiricism.\n Divided into 2 parts, each with a transcendental and a logical focus respectively, Part I introduces the concept of time in Deleuze\u2019s philosophy. Having dismissed all previous philosophies of time as deficient, with the notable exception of Bergson, Paetsch reveals how, in critiquing theories of temporality, Deleuze turns in particular to Kant. In doing so, Deleuze innovatively reconsiders transcendental philosophy in light of Bergson\u2019s theses ondur\u00e9e(lived duration). Building on the first part, Part II then investigates Deleuze\u2019s understanding of logic and its relation to time. Both Deleuze and Bergson claimed that time undermines the central principles of every logical system. And yet, this book examines how Deleuze steps beyond logic, contending that a mathematical expression of \u2018durative continuity\u2019 could inaugurate a novel philosophy of physics.\n Engaging with key Deleuzian texts, includingLogic of Sense, Difference and Repetition,andA Thousand Plateaus, Deleuze\u2019s Philosophy of Time and Logicprovides a bold new interpretation of fundamental questions concerning time, how we understand it, and how it affects what we think. It will be of interest to scholars across continental philosophy, logic, philosophy of mathematics, and metaphysics.",
+      "citationCount": 1,
+      "doi": "10.5040/9781350577466",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/eb50213127667b58ca6f2f2eb9f792fe884be925",
+      "venue": ""
+    },
+    {
+      "paperId": "37d8ecad2f74073c61fda093639763cb8ad16329",
+      "title": "Imagination - Equivalent Notions in Early Chinese Poetics",
+      "authors": [
+        {
+          "name": "Karl-Heinz Pohl",
+          "authorId": "2239681588"
+        }
+      ],
+      "year": 2024,
+      "abstract": "\"Imagination in literature and art usually means the ability to form images and sensations in the mind and to evoke words \u2013 and worlds. The paper first draws attention to some of Immanuel Kant's thought about imagination in his third Critique (\"\"Critique of Judgement\"\"). Paragraph 49 of this book deals with imagination in the context of artistic creativity. There, Kant puts forth his notion of \"\"Aesthetic Ideas\"\" which he contrasts to intellectual ideas (bound to concepts). He defines them as \u201crepresentations of the imagination\u201d, occasioning \u201cmuch thought, without, however, any definite thought, i.e. any concept, being capable of being adequate to it; it consequently cannot be completely compassed and made intelligible by language.\u201d Against this background of German philosophy, the paper deals with correspondences between Kant's concept of imagination and comparable notions in the Chinese tradition. For this purpose, first the (Daoist) philosophical background of imagination in Chinese Texts will be highlighted. Then the paper explores three texts/writers: \u2022, Lu Ji (261-303): \u201cThe Poetic Exposition on Literature\u201d (\u6587\u8d4b) \u2022, Liu Xie (c. 465-522): The Literary Mind and the Carving of Dragons (Chapter 26: \u201cSpiritual Thought\u201c \u2013 shen si \u795e\u601d) \u2022, Sikong Tu (837-908): \u201cTwenty-four Qualities of Poetry\u201d (\u4e8c\u5341\u56db\u8bd7\u54c1) + excerpts from his letters. It will be shown that there appears to be a similarity between the Chinese notion of shen si \u795e\u601d (spiritual thought) and Kant\u2019s \u201cimagination\u201d (Einbildungskraft). In the works discussed, one of the crucial qualities of poetry in the Chinese tradition is \"\"suggestiveness\"\", that is: poetry conveys ideas \u201cbeyond language\u201d (yan wai \u8a00\u5916). Also, according to Wang Fuzhi \u738b\u592b\u4e4b (1619-1692), poetry aims at merging \u201cfeeling\u201d with \u201clandscape\u201d (\u60c5\u666f\u878d\u5408). Today, this is expressed with the word yijing \u610f\u5883 (roughly \u201cartistic idea\u201d), popularized by Wang Guowei (1877\u20131927). Thus, there might be a correspondence between this new popular (but illusive) Chinese term yijing and Kant\u2019s \u201caesthetical idea\u201d. Both are the results of imagination.\"",
+      "citationCount": 0,
+      "doi": "10.12906/9781682025673_012",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/37d8ecad2f74073c61fda093639763cb8ad16329",
+      "venue": "WACS Conference Proceedings"
+    },
+    {
+      "paperId": "5fa5b660177af74ed746173ed02dfb699ef8f53a",
+      "title": "PHILOSOPHY AS INVOLUNTARY SELF",
+      "authors": [
+        {
+          "name": "Lucas Do",
+          "authorId": "84409954"
+        },
+        {
+          "name": "R\u00eago Monteiro",
+          "authorId": "84587513"
+        },
+        {
+          "name": "Villa Ufpi",
+          "authorId": "2408399982"
+        },
+        {
+          "name": "Lou Andreas -Salom\u00e9",
+          "authorId": "2408400041"
+        },
+        {
+          "name": "Friedrich Nietzsche",
+          "authorId": "2379943996"
+        },
+        {
+          "name": "Eterno Retorno",
+          "authorId": "2408400031"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5fa5b660177af74ed746173ed02dfb699ef8f53a",
+      "venue": ""
+    },
+    {
+      "paperId": "15efb2adead4bd3f7c225b750236d16dfa84c183",
+      "title": "Embodiment and Subversion: Objections to Judith Butler\u2019s Nietzsche",
+      "authors": [
+        {
+          "name": "M. Messerschmidt",
+          "authorId": "2189389897"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract This article considers the importance of Nietzsche\u2019s GM I 13 to Judith Butler\u2019s Gender Trouble (1990), arguing that Butler misreads Nietzsche\u2019s passage and exploring the implications of their misreading. I begin by placing Butler\u2019s reading in the context of French poststructuralist readings of Nietzsche that appear to have influenced Butler. I then turn to Butler\u2019s crucial invocation of GM I 13, showing how Nietzsche is claiming that consideration of the human being as a hierarchy of drives reveals our limitations when it comes to self-transformation \u2013 whereas Butler takes the lack of a \u201cdoer\u201d behind the \u201cdeed\u201d to be a thought that amplifies our capacity for self-transformation. Turning to Saba Mahmood\u2019s criticisms of Butler\u2019s account of the subversion of gender norms, I show how, without speaking of Nietzsche, Mahmood\u2019s critique highlights what Butler failed to register in Nietzsche: namely, that thinking of the gendered human being as embodied means acknowledging that the subversion of cultural norms must involve more than the disruption of repeated culturally significant acts. Rather, it must involve the potentially long, slow work of reengineering the body as a hierarchy of drives.",
+      "citationCount": 0,
+      "doi": "10.1515/nietzstu-2025-0043",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/15efb2adead4bd3f7c225b750236d16dfa84c183",
+      "venue": "Nietzsche-Studien"
+    },
+    {
+      "paperId": "cab07e8e852e4603e67efdc694c87b909fd72cb5",
+      "title": "Concentration Camps and (Ir)Rationality",
+      "authors": [
+        {
+          "name": "O. Honcharenko",
+          "authorId": "114280967"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Concentration camps became a\u00a0subject of philosophical reflection after the\u00a0Second World War. Some philosophers have linked their emergence and functioning to rationality. Skepticism toward rationality in relation to concentration camps is present in the\u00a0philosophy of Hannah Arendt, Giorgio Agamben and Zygmunt Bauman. According to these philosophers, concentration camps hold the\u00a0key to understanding modern society. It is widely acknowledged that concentration camps were, to a\u00a0certain extent, effective tools of totalitarian regimes, if evaluated from the\u00a0perspective of the\u00a0empirical approach, but is there any moral justification for such rationalisation if their result is the\u00a0transformation of a\u00a0human being into an ordinary thing?A moral perspective on concentration camps may reveal their inherent irrationality from the\u00a0perspective of the\u00a0transcendentalist approach. The\u00a0central thesis of this article is that in philosophical studies about concentration camps, it is necessary to distinguish two concepts of rationality\u00a0\u2013\u00a0empirical and transcendentalist, only in this way it becomes clear that treating a\u00a0person as a\u00a0means, rather than an aim, arises from irrational reasoning. This article presents an analysis of the\u00a0goals and means of concentration camps from the\u00a0perspective of Kant\u2019s categorical imperative and compares them with Karl Popper\u2019s two approaches to social construction\u00a0\u2013\u00a0gradual and utopian engineering, as well as a\u00a0distinction between rationalism and irrationalism. The\u00a0conclusion is made about the\u00a0appropriateness of considering the\u00a0problem of concentration camps from the\u00a0standpoint of contrasting rationality and irrationality, rather than rationality and empiricism. With this approach, the\u00a0prospects of modern society become clearer: open\u00a0\u2013\u00a0thanks to rationality, and closed\u00a0\u2013\u00a0through irrationality.",
+      "citationCount": 0,
+      "doi": "10.6001/fil-soc.2026.37.1.10",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cab07e8e852e4603e67efdc694c87b909fd72cb5",
+      "venue": "Filosofija Sociologija"
+    },
+    {
+      "paperId": "cce0c0284265ed7ca271118b7e23bf227aaa5780",
+      "title": "SOCIOLOGICAL ROMANTICISM: A CRITICISM MARKED BY RESIGNATION",
+      "authors": [
+        {
+          "name": "Vin\u00edcius Bernardes",
+          "authorId": "2404384756"
+        },
+        {
+          "name": "Dr. Carlos Henrique Gileno",
+          "authorId": "2231146059"
+        },
+        {
+          "name": "Prof. Dr. Jos\u00e9 Anderson Santos Cruz",
+          "authorId": "2260675204"
+        },
+        {
+          "name": "Sociologia. Max",
+          "authorId": "2404398859"
+        },
+        {
+          "name": "Weber. Resigna\u00e7\u00e3o",
+          "authorId": "2404385385"
+        },
+        {
+          "name": "Romantismo",
+          "authorId": "2404393494"
+        },
+        {
+          "name": "Capitalismo",
+          "authorId": "2404401943"
+        },
+        {
+          "name": "Weber. Resignaci\u00f3n",
+          "authorId": "2404402038"
+        },
+        {
+          "name": "Romanticismo",
+          "authorId": "2404402003"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cce0c0284265ed7ca271118b7e23bf227aaa5780",
+      "venue": ""
+    },
+    {
+      "paperId": "8c056af36407a70799a421dc179ec80b26aa6386",
+      "title": "Sense of Democracy Against Totalitarianism as a Way of Life",
+      "authors": [
+        {
+          "name": "Shunji Ukai",
+          "authorId": "2347636032"
+        }
+      ],
+      "year": 2026,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2979/csp.00047",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8c056af36407a70799a421dc179ec80b26aa6386",
+      "venue": ""
+    },
+    {
+      "paperId": "c159af84b289217f55d892306db5d1f66698a48f",
+      "title": "Living With Each Other: Dorothy Emmet on Social Roles and Moral Facts",
+      "authors": [
+        {
+          "name": "Peter West",
+          "authorId": "2270401998"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract In 1966, Dorothy Emmet published Rules, Roles and Relations, in which she argues that moral philosophy could stand to learn a lot by drawing on sociological research. In this paper. I will argue that Rules, Roles and Relations is deserving of much wider scholarly attention, especially in light of an explosion of scholarship focusing on contemporaries of Emmet such as Philippa Foot, Mary Midgley, Elizabeth Anscombe, and Iris Murdoch (the \u2018Wartime Quartet\u2019). Emmet, unlike the Quartet, has received a very minimal amount of scholarly attention. Yet, like the Quartet, Emmet rejects the fact-value distinction, endorses what can be characterized as an Aristotelian approach to ethics, and defends a form of moral cognitivism. What is more, her approach to these issues is novel (in drawing on sociological research) and thus enrichens our understanding of how certain philosophers in twentieth-century Britain sought to push back against dominant analytic approaches to moral theorizing.",
+      "citationCount": 0,
+      "doi": "10.1515/agph-2025-0082",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c159af84b289217f55d892306db5d1f66698a48f",
+      "venue": "Archiv f\u00fcr Geschichte der Philosophie"
+    },
+    {
+      "paperId": "da64ecf84389d4fa54bb122e88c5de16d85b84a4",
+      "title": "Towards the Fourfold Root of Organic Representation, or Gilles Deleuze\u2019s Critique of Aristotle Part II: Analogy of Being and Its Variations",
+      "authors": [
+        {
+          "name": "Danila A. Volkov",
+          "authorId": "2388343757"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The article continues the systematic presentation of the critique of the postulates of \u201corganic representation\u201d generated by Aristotle\u2019s philosophy, which is realized by Gilles Deleuze in his work Difference and Repetition. Having considered the first three \u201croots\u201d of organic representation (identity \u2013 opposition \u2013 resem\u00adblance), the author proceeds to the analysis of the most difficult and understud\u00adied subject \u2013 Deleuze\u2019s interpretation of the Aristotelian analogy of being. De\u00adspite the extreme brevity of Deleuzean arguments concerning the Aristotelian doctrine of categories and supra-categorical identity of being, the author seeks to show that, when properly contextualized, they not only become understand\u00adable and explain the logic of the construction of Deleuzean text, but also clearly demonstrate the methodology of the French philosopher\u2019s work in history of phi\u00adlosophy. The author shows that for an adequate understanding of the Deleuzian text that criticizes the analogy of being, it is necessary to turn to the French-lan\u00adguage literature on Aristotle that was contemporary to Deleuze, principally Pierre Aubenque\u2019s The Problem of Being in Aristotle. By examining Aubenque\u2019s arguments against traditional conceptualizations of the Aristotelian analogy of being, the author argues that Deleuze seeks to identify in Aristotle not so much his real arguments as the origins of the future Thomist tradition of inter\u00adpreting analogy. In doing so, the author aims to show the significant scholastic inspiration of Deleuze\u2019s analysis of the analogy of being and to demonstrate its similarity to the late Thomist conception of Thomas Cajetan. On the basis of his critique of Aristotelian categorical difference and his defense of the doctrines of Plato\u2019s Sophist, the methodology of Deleuze\u2019s work with the history of philo\u00adsophy as such, his tendency to construct opposing lines and to construct his own canon are shown.",
+      "citationCount": 0,
+      "doi": "10.21146/0042-8744-2026-1-112-124",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/da64ecf84389d4fa54bb122e88c5de16d85b84a4",
+      "venue": "Voprosy filosofii"
+    },
+    {
+      "paperId": "5b2af3c42439c634fe14f3851e8d3f6c4673b9b1",
+      "title": "Materialism and Social Inquiry in the Continental Tradition in Philosophy",
+      "authors": [
+        {
+          "name": "A. Koch",
+          "authorId": "38275232"
+        }
+      ],
+      "year": 2017,
+      "abstract": "The continental tradition in philosophy has gotten more \u201cmaterialistic\u201d over the last two hundred years. This has resulted from a combination of some very specific moves with regard to the epistemological parameters of understanding and the assertion that ideas may have material force in history. Therefore, the materialism within the continental tradition is not a materiality of being, but a materiality of understanding and action. Such an inquiry opens up space between the activities of sensation and the mental faculty of cognition. \u2018I think, therefore I am,\u2019 is not an empirical statement, but a statement of cognition. It is assumed that this distinction is at the core of continental philosophy.\n Cognition is always interpretive. Experience is the start of cognition, but not its final product. Our cognitions cannot be separated from our experience of the physical, social, and cultural environment around us. The symbolic nature of language reinforces the interpretive nature of our thoughts and ideas. Our language is, therefore, always projecting an implicit image of the world. Language is, therefore, always political. The materiality of these cognitive world-views is manifested in two ways. First, in their formation. They are the products of sensual contact with the world. Second, in their effects. They move people. It is a picture of the world which serves to shape the content and character of human behavior. Whether we want to call these phantoms of the mind, world-view, ideas, thoughts, cognitions, or any other term, the dual character of their materiality is secure.\n This work examines the threads materialist ideas running through the efforts of some major authors in the continental tradition in philosophy. A model of materialism is constructed in Chapter One and used to assess the materialist elements in works from Kant, Marx, Weber, Nietzsche, and contemporary poststructuralism. The work demonstrates the evolution of materialist thinking within the tradition and asserts an evolving and developing articulation of materialism in relation to the thoughts and activities of human beings.",
+      "citationCount": 1,
+      "doi": "10.5040/9798216458838",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5b2af3c42439c634fe14f3851e8d3f6c4673b9b1",
+      "venue": ""
+    },
+    {
+      "paperId": "3aa3d8c41e9403ee2c5a89e9b8bcca290b10d034",
+      "title": "Peirce's Cosmological Argumentation: God as Ens necessarium",
+      "authors": [
+        {
+          "name": "Jon Alan Schmidt",
+          "authorId": "2326960133"
+        }
+      ],
+      "year": 2026,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2979/csp.00048",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3aa3d8c41e9403ee2c5a89e9b8bcca290b10d034",
+      "venue": ""
+    },
+    {
+      "paperId": "54674c1b057fd71c265dda0bdf9cb5ea3f88f963",
+      "title": "\u201cA Wedge-Shaped Core of Darkness\u201d: On Self-Knowledge, Self-Opacity, and Soul-Pictures",
+      "authors": [
+        {
+          "name": "Francey Russell",
+          "authorId": "117579039"
+        }
+      ],
+      "year": 2026,
+      "abstract": "ABSTRACT:This paper explores the idea that forms of self-opacity\u2014vicissitudes of self-consciousness and disruptions of straightforward self-knowledge, registrations of dissonance and self-strangeness\u2014need not be understood exclusively or necessarily as pathologies nor as brute psychological facts, but can be valued as part of a rich moral psychology and conception of selfhood. I consider a prominent contemporary account of self-knowledge that situates self-knowledge in the context of philosophical moral psychology and analyzes self-knowledge as an achievement of \u201crational, responsible self-directed agency.\u201d While this model provides resources for understanding both self-knowledge and self-opacity, its broadly Kantian normative or axiological orientation means that forms of opacity tend to be framed as privations or pathologies of rational agency, in such a way as to leave us potentially cut off from the kinds of complexity, value, and significance that they might have for us. I then turn to some suggestive remarks by Bernard Williams, Lionel Trilling, and a passage from Virginia Woolf\u2019s To the Lighthouse, that serve not only to indicate a way of thinking about the value of opacity, but suggest that attending to this value might call for imaginative and metaphorical forms of representation. This is to say that attending to this particular topic\u2014the significance of self-opacity\u2014involves attending to questions of philosophical and aesthetic style.",
+      "citationCount": 0,
+      "doi": "10.5840/philtopics202452219",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/54674c1b057fd71c265dda0bdf9cb5ea3f88f963",
+      "venue": "Philosophical Topics"
+    },
+    {
+      "paperId": "b5d3c2c33661a89cfb08321c4fe7652f0df633f9",
+      "title": "The Burden of Freedom: Exploring Sartre's Existentialism",
+      "authors": [
+        {
+          "name": "Nikesh Kumar",
+          "authorId": "2420760963"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article explores Jean-Paul Sartre's profound and challenging philosophy of existentialism, centered on his iconic assertion that \"existence precedes essence.\" It argues that humanity is born without a pre-defined purpose or nature, thereby being \"condemned to be free\" and entirely responsible for self-creation through choices and actions. The inherent weight of this radical freedom manifests in three core existential emotions: anguish, arising from universal responsibility; forlornness, stemming from a world devoid of objective divine meaning; and despair, born from acknowledging limits to external control. The essay further delves into Sartre's concept of \"bad faith,\" a form of self-deception where individuals deny their freedom by adopting predetermined roles, contrasting it with the imperative for authenticity. It distinguishes between the inert \"Being-in-itself\" and conscious, evolving \"Being-for-itself,\" highlighting the futile human endeavor to achieve a complete, divinized state. Finally, the article examines the existentialist view of the Other as both constitutive and threatening to one's subjectivity, concluding that despite its often-bleak outlook, Sartre's philosophy ultimately serves as a powerful call to active commitment, self-definition, and ethical responsibility in an indifferent world.",
+      "citationCount": 0,
+      "doi": "10.36948/ijfmr.2026.v08i01.68578",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b5d3c2c33661a89cfb08321c4fe7652f0df633f9",
+      "venue": "International Journal For Multidisciplinary Research"
+    },
+    {
+      "paperId": "56aa5581de4ccac5dc7598312b1da37e3bc09126",
+      "title": "Morality/Ethics and Politics: An Inter-Relationship",
+      "authors": [
+        {
+          "name": "Samsul Samsul",
+          "authorId": "2091634118"
+        }
+      ],
+      "year": 2026,
+      "abstract": "A homocentric worldview, in which humans are superior to all other kinds of existence, has historically been maintained by classical philosophy and biology. This unquestioned presumption placed human interests, goals, and satisfactions at the centre of value production and social organization, influencing both theoretical and practical understandings of life. The field of morality emerged as a framework for directing and influencing behaviour as a result of this anthropocentric orientation's gradual regulation of human relations through norms, customs, and quasi-transcendental principles. Although morality is defined lexically as the difference between right and wrong or good and terrible, this definition is nevertheless insufficient to convey its conceptual richness and paradigmatic complexity. Morality serves as a system of judgment, behavioural correction, and social interaction in addition to being a binary opposition to immorality, as organized ethical interpretations progressively replaced customary meanings. The study emphasizes the multifaceted nature of morality and its influence on society values and human behaviour, drawing on Frankena's categorization of moral judgments. Therefore, the abstract highlights the shift from an unquestioned homocentric premise to a sophisticated philosophical investigation into the origin and purpose of morality.",
+      "citationCount": 0,
+      "doi": "10.65842/nbpa.v2.i1.006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/56aa5581de4ccac5dc7598312b1da37e3bc09126",
+      "venue": "NBPA Journal for Arts, Humanities &amp; Social Sciences"
+    },
+    {
+      "paperId": "3e92f3497674ecd1c13ac008864168e09eb3f75e",
+      "title": "REALISM OR IDEALISM? PERSPECTIVES ON THE PHILOSOPHY OF HISTORY FROM A PRACTICING HISTORIAN",
+      "authors": [
+        {
+          "name": "S. Berger",
+          "authorId": "66570295"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n \n This review essay argues that the realist philosophy of history, as represented by Adam Timmins in\n Towards a Realist Philosophy of History\n , raises interesting questions about the nature of historical writing and challenges some of the foundations of idealist philosophy of history. A basic problem with Timmins's book is the conflation of \u201cconstructivism\u201d with \u201cidealism\u201d when there are, indeed, quite a few \u201crealists\u201d who are also \u201cconstructivists.\u201d After summarizing the main arguments of the book and critically examining them, this essay argues that realism, if combined with constructivism, is appealing for many practicing historians, but it also warns that there can be no foundationalism regarding the institutionalization of professional historiography. Furthermore, it emphasizes skepticism regarding trust in specialization, and it cautions that idealist philosophy of history has had more of an impact on practicing historians than Timmins's book suggests. Because I am not a philosopher of history, I must leave the finer points of philosophy to other reviewers; instead, I focus on the perspective of a practicing historian with an interest in historical theory.\n",
+      "citationCount": 0,
+      "doi": "10.1111/hith.70019",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3e92f3497674ecd1c13ac008864168e09eb3f75e",
+      "venue": "History and Theory"
+    },
+    {
+      "paperId": "4b673aa1f847dcb56c9e05e2775991324dce40af",
+      "title": "Is the Principle of Sufficient Reason Dispensable in a Cosmological Argument for an Ens Necessarium? An Inquiry with Peirce",
+      "authors": [
+        {
+          "name": "Gesche Linde",
+          "authorId": "2404325345"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract This essay examines the relationship between the principle of sufficient reason (PSR) and the claim of a necessarily existing being (NEB) within the context of cosmological arguments for the existence of God. While the contemporary philosopher of religion Friedrich Hermanni, following Leibniz, regards the PSR as implying \u2013 or even being equivalent to \u2013 the assumption of a NEB, Charles Sanders Peirce, who shares certain philosophical concerns with Leibniz but writes under the influence of 19th-century evolutionary theories, appears to treat the NEB either as having a projection function or merely as a conjunct. This article seeks to illuminate the distinct conceptual backgrounds \u2013 particularly regarding the theory of signs and the paradigms of logic \u2013 and to explain how Peirce, by taking into account vagueness and indeterminacy, arrives at a different understanding of inference, metaphysics, reality, and the idea of God as the Ens necessarium.",
+      "citationCount": 0,
+      "doi": "10.1515/nzsth-2025-0045",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4b673aa1f847dcb56c9e05e2775991324dce40af",
+      "venue": "Neue Zeitschrift F\u00fcr Systematische Theologie und Religionsphilosophie"
+    },
+    {
+      "paperId": "09601f36ebf41bad61a420b85e4e91462e1b0050",
+      "title": "Ethics as the Task of Being Human",
+      "authors": [
+        {
+          "name": "D. Perpich",
+          "authorId": "116164099"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This paper examines whether Emmanuel Levinas\u2019s ethical philosophy is suited to address the contemporary crises facing democratic and social life, including rising autocracy, corporate corruption, and intensifying forms of racism, sexism, and xenophobia. Written in the aftermath of the catastrophic ethical failures of the twentieth century, Levinas\u2019s work effectively asks what ethics can mean when traditional moral foundations have been compromised or shown to enable violence. This paper traces Levinas\u2019s response to violence from his early notion of an \u201cunheroic\u201d human will to his later reconcepualization of subjectivity as vulnerability and responsibility. I argue that while Levinas\u2019s thought does not provide a rule or algorithm for determine ethical norms, his work does remain practically meaningful. Ethics, on this view, is not a possession but a recurring, urgent task of asking what ethics, and thus what humanity, is possible for us now.",
+      "citationCount": 0,
+      "doi": "10.25180/lj.v27i2.385",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/09601f36ebf41bad61a420b85e4e91462e1b0050",
+      "venue": "Labyrinth"
+    },
+    {
+      "paperId": "cf9ff5b364e1b63a345f747623ebeed087e513be",
+      "title": "Socio-ethical dimensions of ancient rationalism",
+      "authors": [
+        {
+          "name": "A. Semenov",
+          "authorId": "2410168435"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The article explores current issues in philosophical and anthropological inquiry within ancient philosophy, focusing on the principles and priorities of the anthropological dimensions of classical and post-classical ancient spiritual culture. \nThe study outlines dialogical forms of philosophical, socio-ethical, and anthropological exploration, which display an extraordinary plurality of perspectives and ideas. This pluralism is evident both in the diversity of normative models of conduct and in attempts to define the ideal structure of the human being. The article emphasixes that during the era of the first ethical reflections, philosophy in antiquity had a profoundly pragmatic character. This pragmatism encompassed both moral rationality and the theoretical aspects of the philosophy of values. For the individual in antiquity, it was necessary to consolidate theoretical and empirical life-goal orientations, combining spiritual-ethical values with the pragmatism of transient social existence. \nThe analysis shows that, from an anthropological perspective, during the period of ancient classical philosophy, the observational approach to understanding the world gave way to an active, even transformative, approach to life, reflecting the productive, dynamic, and creative nature of human existence. The individual\u2019s active status is defined through practical engagement with the world, nature, and the self. It is noted that it was the Classical and Late Classical periods of antiquity (5th\u20134th centuries BC) that the philosophy of the human being developed most significantly, directing philosophical thought toward personal world-creation, the harmony of the inner spiritual world, and intellectual, rational cognition. The pragmatism of the early Greek philosophers, initially reinforced by their psychologically significant authoritarianism, gradually gave way to philosophical-gnoseological reflections on the problems of inner dialectics and harmony, socio-ethical life of a person of Ancient Rationalism.",
+      "citationCount": 0,
+      "doi": "10.61345/1339-7915.2025.4.20",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cf9ff5b364e1b63a345f747623ebeed087e513be",
+      "venue": "Visegrad journal on human rights"
+    },
+    {
+      "paperId": "fd600605bd7b7e898d30589f072cd702080f1dc3",
+      "title": "Representation and the Limits of Reason in Habermas\u2019s Theory of Popular Sovereignty",
+      "authors": [
+        {
+          "name": "Alexander Latham-Gambi",
+          "authorId": "1583209870"
+        }
+      ],
+      "year": 2026,
+      "abstract": "ABSTRACT Habermas\u2019s theory of popular sovereignty has attracted both praise and opprobrium but surprisingly little critical analysis. This article looks to remedy this omission, by locating what Habermas says about popular sovereignty within the context of his broader philosophical project. My analysis reveals that popular sovereignty plays a crucial role in Habermas\u2019s account of the \u201crationalisation of the lifeworld\u201d in modern liberal democracies, by mediating between the \u201cfacticity\u201d of existing political cultures and the \u201cnormativity\u201d of universalistic principles of political morality. This interpretation raises a challenge, however, since in order for popular sovereignty to play this mediating role, advocates of universalistic principles must be able to successfully claim to be representing \u201cthe people.\u201d Yet such claims take us beyond the scope of communicative rationality, and point instead to the symbolic dimension of democracy. Taking the judicial review of legislation as an example, I argue that it is possible for a political decision to be justified in terms of communicative rationality and yet nevertheless have symbolic connotations that hinder the ability of citizens to view themselves as equal participants in the process of democratic self-government. I conclude by suggesting that my analysis demonstrates a limit to the process of the rationalisation of the lifeworld which Habermas fails to acknowledge.",
+      "citationCount": 0,
+      "doi": "10.1080/10848770.2025.2608381",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fd600605bd7b7e898d30589f072cd702080f1dc3",
+      "venue": "The European Legacy"
+    },
+    {
+      "paperId": "b26f2c263b72831e2926e8389beaee4245de59b1",
+      "title": "Deflationism and virtue",
+      "authors": [
+        {
+          "name": "Adam C. Podlaskowski",
+          "authorId": "2731952"
+        }
+      ],
+      "year": 2026,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s44204-026-00379-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b26f2c263b72831e2926e8389beaee4245de59b1",
+      "venue": "Asian Journal of Philosophy"
+    },
+    {
+      "paperId": "8b903951b7c6e581d30df131fc16df824fd5680e",
+      "title": "Caius Dobrescu Mimesis versus Mimesis: A Pseudo-Kantian Meditation on the Limits of Artificial Intelligence",
+      "authors": [
+        {
+          "name": "C. Dobrescu",
+          "authorId": "49655544"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8b903951b7c6e581d30df131fc16df824fd5680e",
+      "venue": ""
+    },
+    {
+      "paperId": "4b2dcb322f8f05a7f9f074cfe852a4d1f8786eab",
+      "title": "Moral certainty and the wrongness of killing: A non\u2010propositional view",
+      "authors": [
+        {
+          "name": "Nigel Pleasants",
+          "authorId": "2255374043"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In 2008 I published a paper making the case that Wittgenstein's On Certainty reflections can be fruitfully extended to cast light on the foundations of our moral lives and practices. My primary example was that the wrongness of killing is a basic moral certainty. This proposal has come in for sustained criticism, with critics arguing that there is can and can be no such moral certainty. In this paper, I respond to the dominant line of critique, which I call \u2018the exceptions objection\u2019 to the wrongness of killing being a basic moral certainty. My diagnosis shows that, and how, this objection is predicated on a \u2018propositional\u2019 (mis)interpretation of the concept of basic certainty. In its stead, I present and develop an opposing \u2018non\u2010propositional\u2019 conception, which is crucial to seeing aright the claim that the wrongness of killing is a basic moral certainty.",
+      "citationCount": 0,
+      "doi": "10.1111/phin.70018",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4b2dcb322f8f05a7f9f074cfe852a4d1f8786eab",
+      "venue": "Philosophical Investigation"
+    },
+    {
+      "paperId": "e975069747652a0457df1d671fc974655fd2794a",
+      "title": "Laozi\u2019s Concept of Dao and Emerson\u2019s Belief in the \u201cOver-Soul\u201d: A Comparison of Views on Nature Within the Context of Ecological Religion",
+      "authors": [
+        {
+          "name": "Pinghua Liu",
+          "authorId": "2316235002"
+        }
+      ],
+      "year": 2026,
+      "abstract": "In the face of escalating ecological crises, this study explores the ecological wisdom embedded in Laozi\u2019s concept of \u201cDao\u201d and Ralph Waldo Emerson\u2019s belief in the \u201cOver-Soul,\u201d conducting a systematic comparative analysis of their views on nature within the framework of ecological religion. Laozi\u2019s \u201cDao\u201d serves as the cornerstone of Daoist thought, emphasizing the unity of heaven, earth, and humans as the origin and governing law of the universe. It advocates \u201cDao follows nature\u201d (\u9053\u6cd5\u81ea\u7136), urging humans to relinquish excessive interference and utilitarian desires, humbly integrating into nature\u2019s inherent rhythms for harmonious coexistence while inspiring reverence for nature\u2019s sacredness and inherent worth. Emerson\u2019s \u201cOver-Soul,\u201d central to New England Transcendentalism, posits a universal spirit permeating all existence, with nature as its outward manifestation and symbolic expression of the divine. Through direct engagement with nature, individuals access spiritual elevation, moral insight, and reverence for all life forms. Despite distinct cultural origins, both Laozi and Emerson sacralize nature, foster opposition to anthropocentric exploitation, and envision harmonious human\u2013nature relations\u2014albeit through different pathways: Wuwei and surrender for Laozi; intuitive communion for Emerson. While their metaphysical visions do not fully align with modern ecocentric notions of objective intrinsic value (as articulated in contemporary environmental ethics), they offer profound resources for reverent coexistence. This comparative study deepens cross-cultural understanding of ecological wisdom, challenging modernity\u2019s instrumental worldview and providing philosophical insights for constructing a rational, reverent ecological ethic. By bridging Eastern and Western mystical traditions, it highlights their shared potential to inspire sustainable development, spiritual renewal, and a transformative shift toward coexistence with the non-human world.",
+      "citationCount": 0,
+      "doi": "10.3390/rel17020215",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e975069747652a0457df1d671fc974655fd2794a",
+      "venue": "Religions"
+    },
+    {
+      "paperId": "40336a7fdfee1f8a5f626ee839da1d370eb671ee",
+      "title": "Faraway, So Close: Skepticism, subjective Idealism and the Problem of Shine in Hegel\u2019 s Science of Logic",
+      "authors": [],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/40336a7fdfee1f8a5f626ee839da1d370eb671ee",
+      "venue": ""
+    },
+    {
+      "paperId": "cf1d7e5eee5f13b42a1b5557881eac67f1751210",
+      "title": "Faraway, So Close: Skepticism, subjective Idealism and the Problem of Shine in Hegel\u2019 s Science of Logic",
+      "authors": [],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cf1d7e5eee5f13b42a1b5557881eac67f1751210",
+      "venue": ""
+    },
+    {
+      "paperId": "fe36e7910d59baf8d697f5ffcf702dfea1ef68c2",
+      "title": "From Medieval Aristotelianism to Modern Philosophies of Science: Key Stages in the Development of Scientific Thought",
+      "authors": [
+        {
+          "name": "Foteini Efthymiou",
+          "authorId": "2397129858"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This essay examines four key periods in the evolution of scientific thought, from the medieval period to contemporary philosophy. It begins with the era of interdependence and tensions between Aristotelianism and theology (from Latin Europe of the Middle Ages to the 14th century). It continues with the period of the scientific revolution marked by Copernicus, Galileo, and Newton (16th and 17th centuries). It then examines modern philosophy through the contrast between rationalism and empiricism (ca. 1650\u20131780) and concludes with contemporary philosophies of science, from logical positivism to the theories of Kuhn and Feyerabend (ca. 1920\u20131980). During the Middle Ages, the conflict and attempts at reconciliation between Aristotelianism and theology were articulated both within the University and within the Church, leading to the Condemnation of 1277 and to the subsequent search for new theoretical perspectives in the 14th century. Copernicus\u2019 cosmology overturned the geocentric system, while Galileo\u2019s empirical confirmation of heliocentrism and Newton\u2019s formulation of a general theory of nature established the new scientific conception of the world. In modern philosophy, the fundamental differences between rationalism and empiricism concern both the sources and methods of knowledge and their limits. Descartes grounded knowledge in reason and innate ideas, whereas Locke and Hume emphasized the role of experience and the uncertainty of human understanding. Finally, logical positivism sought to define science through empirical verification and linguistic precision. At the same time, Kuhn and Feyerabend redefined the relationship between science and its historical and social context, highlighting the significance of change, discontinuity, and methodological pluralism. Overall, the development of science from the medieval period to contemporary philosophy constitutes a history of interdependence and opposition among theology, philosophy, and empirical inquiry, in which each stage of evolution has contributed to reshaping humanity\u2019s understanding of nature, knowledge, and its place in the universe.",
+      "citationCount": 0,
+      "doi": "10.12681/gbruno.44320",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fe36e7910d59baf8d697f5ffcf702dfea1ef68c2",
+      "venue": "Giordano Bruno"
+    },
+    {
+      "paperId": "d5fba0e0ce8727887dda7000d924c1d3fb678be5",
+      "title": "Deleuze and Lyotard in Community: Two Readings of Kant's Concept of Common Sense",
+      "authors": [
+        {
+          "name": "Itay Snir",
+          "authorId": "117874091"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article examines two interpretations of Kant's concept of common sense\u2009\u2013\u2009those of Gilles Deleuze and Jean-Fran\u00e7ois Lyotard. Its aim is to articulate the political dimension of this concept and to explore how each of these philosophers proposes to overcome the dogmatism and repressiveness associated with it. Deleuze conceptualizes common sense as part of what he calls \u2018the dogmatic image of thought\u2019. His reading of Kant's doctrine of the faculties shows how the different types of common sense (logical, moral, and aesthetic) establish restrictive regimes both within and between subjects. The deregulation of the order among the faculties that occurs in the experience of the sublime offers a line of flight from the regime of common sense without instituting a new one in its place. Lyotard also considers Kantian common sense in relation to the structured formation of the subject and the political community. However, in his reading, aesthetic common sense ( sensus communis) exists outside the structure of subjectivity, making it possible and continuously reconstituting it. Common sense haunts the subject, destabilizes it, and serves as a constant reminder that its various components remain heterogeneous and can never be fully unified, complete, or identical to themselves over time. Similarly, the political community, for Lyotard, emerges as a polyphony freed from predetermined movement, capable of repeatedly reinventing itself thanks to a common sense that remains external to it, both enabling and disrupting it at once. Thus, while Deleuze ultimately interprets aesthetic common sense as belonging to a restrictive and dogmatic logic, Lyotard views it as a singular point existing outside of that logic, challenging it. Rather than adjudicate between the two readings\u2009\u2013\u2009each of which is grounded in Kant's text\u2009\u2013\u2009this article seeks to employ both in order to highlight the oppressive dimensions of seemingly self-evident structures of subjectivity and political life, and to articulate possible ways to disrupt them.",
+      "citationCount": 0,
+      "doi": "10.3366/jspp.2026.0134",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d5fba0e0ce8727887dda7000d924c1d3fb678be5",
+      "venue": "Journal of Social and Political Philosophy"
+    },
+    {
+      "paperId": "ef17d078d2fdafaf7106c1e4bbd53a4032fb4c2a",
+      "title": "On \u201cSeeing Every Problem\u201d\u2014And Art\u2014From Wittgenstein\u2019s \u201cReligious Point of View\u201d",
+      "authors": [
+        {
+          "name": "G. Hagberg",
+          "authorId": "72258107"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This article will bring together and explore the relations between four aspects of Wittgenstein\u2019s remarks on, and his relation to, religious language. The first is his sense of the special role that religious language can play in the lives of people. The focus is not on traditional issues in the philosophy of religion\u2014not the Ontological Proof of the existence of God; not any of Aquinas\u2019 Five Ways; not the argument from Design or the Cosmological Argument; and not any other philosophico-religious matter concerning arguments for the existence or non-existence of any deity. His interests lie elsewhere. Second, we see that what Wittgenstein is centrally concerned with is the life-structuring power that religious language can possess and exert; it concerns both the sense-making power of pattern-lives in religious narratives and the metaphorical content of religious ways of thinking and perceiving. The third aspect is the distinctive, and in its way transcendental, way of seeing the world and existence sub specie aeternitatis, that is, under the aspect of eternity. Or, I will suggest, under the aspect of timelessness, or of having the sense of being above and outside of time. Wittgenstein said that he was not a religious person, but that he could not help but to see every problem from a religious point of view. In this third theme of the article, I will attempt to explicate what that remark can mean\u2014how it reveals what Wittgenstein elsewhere in his work calls \u201ca way of seeing.\u201d And then fourth, this article will connect these three aspects to the special, non-pragmatic (and often in the above sense, transcendental) way that we view works of art. In his Notebooks of 1914-16, Wittgenstein wrote, \u201cThe work of art is the object seen sub specie aeternitatis; and the good life is the world seen sub specie aeternitatis. This is the connection between art and ethics.\u201d At the close, I suggest that the way we learn to see the world through and within religious language (again, apart from any theological claim concerning divine existence or not) is parallel to one important way of seeing art\u2014where the parallel is one that casts light from each side to the other. Along with some other works, my most central example in art will be the paintings of Morandi: in conveying an unmistakable sense of timelessness, they both convey, and in viewing them invite us to enact, the special way of seeing objects sub specie aeternitatis.",
+      "citationCount": 0,
+      "doi": "10.3390/rel17010105",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ef17d078d2fdafaf7106c1e4bbd53a4032fb4c2a",
+      "venue": "Religions"
+    },
+    {
+      "paperId": "2f36c9729776c21d169c216ac4dfe8e62c8d5c6a",
+      "title": "A CRITIQUE OF BROOK ZIPORYN\u2019S INTERPRETATION OF EARLY CHINESE THOUGHT: FROM THE CONSTRUCTIVE-ENGAGEMENT VANTAGE POINT",
+      "authors": [
+        {
+          "name": "Xiaoqiao Liu",
+          "authorId": "2265457247"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2f36c9729776c21d169c216ac4dfe8e62c8d5c6a",
+      "venue": ""
+    },
+    {
+      "paperId": "986460d4ed7d44c52964ef7d554426bbac566e71",
+      "title": "Origins of Sex in Plato\u2019s Timaeus and Critias: Between Nature and Artifice",
+      "authors": [
+        {
+          "name": "Karel Thein",
+          "authorId": "2396196436"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract This article offers a fresh inquiry into Plato\u2019s views on procreation and into the lack of a clearly defined relation in the dialogues between the biology of procreation and the negative remarks on female virtue, or, rather, vice. The focus is on the Timaeus and the often neglected Critias, with some introductory comments on an important passage from the Laws. The leading question is whether Plato\u2019s account of the origins of sex and procreation implies some sort of female inferiority, which would then translate into the political views on marriage and reproduction. The article concludes that Plato\u2019s biology offers no direct justification for treating the difference between men and women as a general moral difference. At the same time, the article suggests that what connects both conceptual realms is Plato\u2019s important recourse to the artisanal model, which bypasses the inherent opacity of nature. It is no coincidence that this device is especially prominent in the treatment of sex and gender in the Timaeus\u2013Critias.",
+      "citationCount": 0,
+      "doi": "10.1515/apeiron-2025-0026",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/986460d4ed7d44c52964ef7d554426bbac566e71",
+      "venue": "APEIRON: a journal for ancient philosophy and science"
+    },
+    {
+      "paperId": "ad388b0359139e0cb0935b7b47c5db8fc7feec76",
+      "title": "God and Truth",
+      "authors": [
+        {
+          "name": "L. Goodman",
+          "authorId": "66899938"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Is God a necessary being? Infinite yet simple? Creator of a world that seems equally able to explain itself? In this volume, prize-winning philosopher Lenn Goodman probes key religious questions against the backdrop of sacred texts and philosophical classics. In dialogue with a range of philosophers from Plato and Aristotle to Philo,\u00a0Maimonides, Spinoza, Hume, and Kant, he examines the relationship between truth and the idea of God. Exploring the nexus between theism and logic, he probes ontological and design arguments, the anthropic principle, the problem of evil, the nature of justice and fairness, and the purpose and meaning of art. Goodman provocatively asks what science would look like if scientists allowed themselves to voice religious responses to their discoveries, as Einstein did. Finally, he\u00a0probes the insights and examples of the morally virtuous, such as Moses, Albert Schweitzer, and Mahatma Gandhi.",
+      "citationCount": 0,
+      "doi": "10.1017/9781108601207",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ad388b0359139e0cb0935b7b47c5db8fc7feec76",
+      "venue": ""
+    },
+    {
+      "paperId": "65e355800151564d302bca6c11162e6937398b47",
+      "title": "The Vicarage Iconoclast: Whitehead, Leibniz, Relativity, and the Quantum",
+      "authors": [
+        {
+          "name": "R. Arthur",
+          "authorId": "2396050022"
+        }
+      ],
+      "year": 2026,
+      "abstract": "This manuscript critically examines Alfred North Whitehead\u2019s metaphysical system as it relates to quantum mechanics, relativity, and Leibnizian philosophy, presented through an extended philosophical dialogue. It challenges Whitehead\u2019s core assumptions, particularly his interpretations of quantum discontinuity, internal relations, and the structure of spacetime. The author argues that Whitehead\u2019s metaphysics, rooted in subjective experience, prehension, and the primacy of simultaneity, is undermined by its misreading of both modern physics and Leibniz\u2019s metaphysics of substance and relation. Whitehead\u2019s rejection of continuous becoming and motion, his treatment of actual occasions as discrete experiential events, and his notion of \u201ceternal objects\u201d are scrutinised in the context of process philosophy and critiques from contemporary physics. The dialogue also engages with recent reinterpretations, notably those of Carey Carlson, Florian Vermeiren, and Michael Epperson, addressing causal set theory, quantum potentia, and decoherence in light of Whiteheadian metaphysics. The manuscript ultimately questions the coherence of Whitehead\u2019s system under relativistic constraints and critiques the theological and holistic presuppositions underlying his cosmology, and, by implication, any cosmologies assuming a wave function for the whole universe.",
+      "citationCount": 0,
+      "doi": "10.32388/932rtk.4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/65e355800151564d302bca6c11162e6937398b47",
+      "venue": "Qeios"
+    },
+    {
+      "paperId": "bed16a07bc150ce9ed0769ae55c85beacf60514d",
+      "title": "O IMPACTO DAS IDEIAS FILOS\u00d3FICAS NA MODERNIDADE",
+      "authors": [
+        {
+          "name": "Daniela Neis Forneck",
+          "authorId": "2340454827"
+        },
+        {
+          "name": "Eliezer Vaz Nogueira",
+          "authorId": "2419161050"
+        },
+        {
+          "name": "Leandro Rodrigo Marianof",
+          "authorId": "2345834579"
+        },
+        {
+          "name": "Marcelo Osmari Cordero",
+          "authorId": "2331828774"
+        },
+        {
+          "name": "Natiele Pozzebon do Amaral",
+          "authorId": "147647453"
+        },
+        {
+          "name": "Priscila de Lima Teixeira",
+          "authorId": "2341034007"
+        },
+        {
+          "name": "Rodrigo Franklin Costa",
+          "authorId": "2419293414"
+        },
+        {
+          "name": "Rodrigo Vasconcelos Diel",
+          "authorId": "2419161282"
+        },
+        {
+          "name": "Rog\u00e9rio Olinto Pillat",
+          "authorId": "118728001"
+        },
+        {
+          "name": "Rosane de Lourdes Prates da Silva",
+          "authorId": "2354152926"
+        },
+        {
+          "name": "Saulo Felipe Basso dos Santos",
+          "authorId": "2356396955"
+        },
+        {
+          "name": "Tatiana Zambiasi Beneduzi",
+          "authorId": "2419160234"
+        }
+      ],
+      "year": 2026,
+      "abstract": "The impact of philosophical ideas on modernity is vast, profoundly influencing areas such as science, politics, ethics and culture. Modern philosophy has brought new ways of questioning reality, redefining the relationship between man, knowledge and the world around him. Movements such as the Enlightenment and Rationalism shaped contemporary thought, emphasizing the importance of reason and criticism. Philosophical ideas from thinkers such as Descartes, Kant and Nietzsche challenged traditions and opened space for new ways of thinking about freedom, morality and progress. In politics, philosophical concepts about equality and human rights were fundamental to the development of modern democracies. In science, philosophy helped to question and define methods of investigation and the search for knowledge. Furthermore, modernity has brought a deeper reflection on the human condition, the meaning of life and the role of the individual in society. The impact of these ideas continues to be felt today, with philosophy playing a crucial role in critically analyzing contemporary challenges, such as ethical questions raised by new technologies and political and environmental crises. Thus, modern philosophy has not only shaped Western thought, but continues to profoundly influence the way we interpret the world and make decisions.",
+      "citationCount": 0,
+      "doi": "10.69849/revistaft/ar10202602231011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bed16a07bc150ce9ed0769ae55c85beacf60514d",
+      "venue": "Revista ft"
+    },
+    {
+      "paperId": "507f901352287476105865e3c66219822951acd4",
+      "title": "Philosophy's Independence in Modernity: The Temporality of Myth and \"Equality of Intelligences\" as Conditions for Cultivating the Philosophical Environment",
+      "authors": [
+        {
+          "name": "Nikita Konstantinovich Nekliudov",
+          "authorId": "2410198896"
+        },
+        {
+          "name": "Siyana Vitalievna Shchepanovskaya",
+          "authorId": "2410198845"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Contemporary mass interest in self-improvement and mindfulness requires philosophy to solve the problems of a modern soul no worse than other initiatives in the field of mind ecology. However, professional philosophers lose the philosophy and reduce it, for example, to teaching critical thinking. It often turns\u00a0into a market product and falls victim to oversimplification.\u00a0This stems from the fact that contemporary philosophical practice often actualizes only the \"logical\"\u00a0tendencies of philosophy, thereby merely sustaining the broader cultural orientation toward rationality, the other side of which, as we know, is the crisis of the symbolic. However, the philosophers tend to avoid including a mythopoetic philosophical tradition in their practice, as myth and symbol remain fundamentally unmanageable within modern culture, evoking deep-seated disquiet.\u00a0Evidently, it is the rare unity of these two vectors that creates the mystery and hypnotism of philosophy and its great names. Thus, the main idea of the article is that the modern way of philosophy can be shaped by myth-symbolic temporality, which is excluded from contemporary philosophy at the institutional and communicative dimensions. This time-as-intensity (especially\u00a0in its renewal qualities) has\u00a0to be integrated into the philosophical event (which finds its sharpness in the linear time of history) in a non-reductive manner. This is no longer a purely theoretical perspective in which mythopoiesis is internalized or monologized, but the prospect of a new type of philosophical practice and communities, which we propose to understand as an environment of already-non-reflective openness to myth and symbol.",
+      "citationCount": 0,
+      "doi": "10.55121/prr.v3i1.959",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/507f901352287476105865e3c66219822951acd4",
+      "venue": "Philosophy and Realistic Reflection"
+    },
+    {
+      "paperId": "fe22f4d757c4362b1200ea53c5b49f50689703ad",
+      "title": "Hegel's Inversion of Philosophy",
+      "authors": [
+        {
+          "name": "W. Wolf",
+          "authorId": "2332805582"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Hegel's philosophy is often presented as a reconciliation between thought and the world, and thus logic and metaphysics. But what is the basis of this reconciliation? In this book, Clark Wolf argues that the key to Hegel's transformation of philosophy lies in his recognition of the special logical basis of the humanly made world. Human artifacts and institutions are not merely represented by concepts; concepts are necessary for their very existence. For this reason, Hegel sees the human world, the world of spirit or Geist, as more central in philosophy than the mind-independent world of nature. Hegel's philosophy is thus a humanism. Wolf argues that this humanistic conception of philosophy is justified in Hegel's Science of Logic, since its logical basis is his theory of concepts. Through a detailed interpretation of the Doctrine of the Concept, this book sheds new light on Hegelian idealism.",
+      "citationCount": 0,
+      "doi": "10.1017/9781009621427",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fe22f4d757c4362b1200ea53c5b49f50689703ad",
+      "venue": ""
+    },
+    {
+      "paperId": "b0847deb8ea66919084e9249227eba6d7000900f",
+      "title": "Being and utmost generality: introducing the arch-paradox of Being",
+      "authors": [
+        {
+          "name": "Maciej Czerkawski",
+          "authorId": "2344291666"
+        }
+      ],
+      "year": 2026,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s44204-025-00366-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b0847deb8ea66919084e9249227eba6d7000900f",
+      "venue": "Asian Journal of Philosophy"
+    },
+    {
+      "paperId": "a62263ca584c2ced989df2f252816eb0dba078c1",
+      "title": "Kant's Solution to the Trilemma of Concept Formation",
+      "authors": [
+        {
+          "name": "Daniel Erlewein",
+          "authorId": "2406536181"
+        }
+      ],
+      "year": 2026,
+      "abstract": "\n According to a widespread assumption, Kant's logical account of concept formation starts with comparison, where the latter involves concepts. On this assumption, the formation of a concept presupposes other concepts, so that the argument is threatened either by circularity, regress, or break\u2010off. In this paper, I argue that Kant did not hold the comparison\u2010first account that scholars typically attribute to him. Rather, he advocated an abstraction\u2010first account in which comparison is preceded by abstraction. Since the latter serves the generalization of marks and thus provides the general representations required for comparison, the abstraction\u2010first account does not run into the described trilemma.",
+      "citationCount": 0,
+      "doi": "10.1111/ejop.70060",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a62263ca584c2ced989df2f252816eb0dba078c1",
+      "venue": "European Journal of Philosophy"
+    },
+    {
+      "paperId": "241cffd15c05441fb6898906785e8a124e4fcaa1",
+      "title": "Existentialism as Humanism: An Interpretation of Sartre\u2019s Philosophy of Freedom and Responsibility",
+      "authors": [
+        {
+          "name": "D. Reddy",
+          "authorId": "2240951119"
+        },
+        {
+          "name": "P. Lokeshwari",
+          "authorId": "2375616627"
+        }
+      ],
+      "year": 2026,
+      "abstract": "Abstract: In Existentialism Is a Humanism, Jean\u2011Paul Sartre outlines the fundamental principles, the alpha and omega, of existentialist philosophy. He begins his iconic lecture with the central claim that existence precedes essence, asserting that human beings first exist and only later define their essence through their choices, attitudes, and actions. According to Sartre, individuals must therefore assume full responsibility for the decisions they make, leaving no room for predetermined values or moral codes imposed by society or religion. In this sense, existentialism emphasizes subjective freedom and moral autonomy. Sartre further argues that existentialism does not lead to despair or nihilism. On the contrary, it empowers individuals by making them the creators of their own destiny. By declaring that life has no inherent or pre-given meaning, Sartre does not suggest that life is futile; rather, he insists that each person must create meaning through authentic commitment and action. Freedom thus becomes the central principle of existentialism, yet this freedom is inseparable from immense responsibility. Every individual, through their choices, implicitly affirms values not only for themselves but for humanity as a whole. Responding to critics who accuse existentialism of promoting moral chaos, Sartre defends the deeply humanistic character of his philosophy. He emphasizes existentialism\u2019s concern with human reality, personal freedom, and ethical responsibility. Rather than endorsing moral nihilism, Sartre argues that existentialism calls for a profound ethical awareness grounded in individual responsibility rather than externally imposed moral systems. Consequently, it encourages individuals to develop an authentic moral code through conscious choice and responsible action.\n\nKey words: Existentialism,\u00a0 Humanism, Existence precedes essence, Freedom, Responsibility, Anguish, Abandonment, Despair, Subjectivity, Authenticity, Self-creation, Individuality, Moral responsibility, Consciousness, Nothingness",
+      "citationCount": 0,
+      "doi": "10.55041/ijsrem57331",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/241cffd15c05441fb6898906785e8a124e4fcaa1",
+      "venue": "International Journal of Scientific Research in Engineering and Management"
+    }
+  ],
+  "count": 100,
+  "errors": []
+}

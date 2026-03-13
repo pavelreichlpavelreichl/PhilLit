@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel philosophy history...' author=Pinkard year=2012
+[verify_paper.py] Paper found: The Social Conditions of Philosophy in the Ninetee... (score: 31.6)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel philosophy history",
+    "author": "Pinkard",
+    "year": 2012
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cho9780511975257.005",
+      "title": "The Social Conditions of Philosophy in the Nineteenth Century",
+      "authors": [
+        {
+          "family": "Pinkard",
+          "given": "Terry"
+        }
+      ],
+      "editors": [],
+      "year": 2012,
+      "container_title": "The Cambridge History of Philosophy in the Nineteenth Century (1790\u20131870)",
+      "volume": "",
+      "issue": "",
+      "page": "46-60",
+      "publisher": "Cambridge University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cho9780511975257.005",
+      "score": 31.646578
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

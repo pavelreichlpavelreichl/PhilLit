@@ -1,0 +1,483 @@
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:Kantian cosmopolitanism global justice",
+  "results": [
+    {
+      "arxiv_id": "2603.12257",
+      "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
+      "authors": [
+        "Yujie Wei",
+        "Xinyu Liu",
+        "Shiwei Zhang",
+        "Hangjie Yuan",
+        "Jinbo Xing",
+        "Zhekai Chen",
+        "Xiang Wang",
+        "Haonan Qiu",
+        "Rui Zhao",
+        "Yutong Feng",
+        "Ruihang Chu",
+        "Yingya Zhang",
+        "Yike Guo",
+        "Xihui Liu",
+        "Hongming Shan"
+      ],
+      "abstract": "While large-scale diffusion models have revolutionized video synthesis, achieving precise control over both multi-subject identity and multi-granularity motion remains a significant challenge. Recent attempts to bridge this gap often suffer from limited motion granularity, control ambiguity, and identity degradation, leading to suboptimal performance on identity preservation and motion control. In this work, we present DreamVideo-Omni, a unified framework enabling harmonious multi-subject customization with omni-motion control via a progressive two-stage training paradigm. In the first stage, we integrate comprehensive control signals for joint training, encompassing subject appearances, global motion, local dynamics, and camera movements. To ensure robust and precise controllability, we introduce a condition-aware 3D rotary positional embedding to coordinate heterogeneous inputs and a hierarchical motion injection strategy to enhance global motion guidance. Furthermore, to resolve multi-subject ambiguity, we introduce group and role embeddings to explicitly anchor motion signals to specific identities, effectively disentangling complex scenes into independent controllable instances. In the second stage, to mitigate identity degradation, we design a latent identity reward feedback learning paradigm by training a latent identity reward model upon a pretrained video diffusion backbone. This provides motion-aware identity rewards in the latent space, prioritizing identity preservation aligned with human preferences. Supported by our curated large-scale dataset and the comprehensive DreamOmni Bench for multi-subject and omni-motion control evaluation, DreamVideo-Omni demonstrates superior performance in generating high-quality videos with precise controllability.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12257v1",
+      "url": "https://arxiv.org/abs/2603.12257"
+    },
+    {
+      "arxiv_id": "2603.12255",
+      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+      "authors": [
+        "Fangfu Liu",
+        "Diankun Wu",
+        "Jiawei Chi",
+        "Yimo Cai",
+        "Yi-Hsin Hung",
+        "Xumin Yu",
+        "Hao Li",
+        "Han Hu",
+        "Yongming Rao",
+        "Yueqi Duan"
+      ],
+      "abstract": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video streams is essential for spatial intelligence. The core challenge is not simply longer context windows but how spatial information is selected, organized, and retained over time. In this paper, we propose Spatial-TTT towards streaming visual-based spatial intelligence with test-time training (TTT), which adapts a subset of parameters (fast weights) to capture and organize spatial evidence over long-horizon scene videos. Specifically, we design a hybrid architecture and adopt large-chunk updates parallel with sliding-window attention for efficient spatial video processing. To further promote spatial awareness, we introduce a spatial-predictive mechanism applied to TTT layers with 3D spatiotemporal convolution, which encourages the model to capture geometric correspondence and temporal continuity across frames. Beyond architecture design, we construct a dataset with dense 3D spatial descriptions, which guides the model to update its fast weights to memorize and organize global 3D spatial signals in a structured manner. Extensive experiments demonstrate that Spatial-TTT improves long-horizon spatial understanding and achieves state-of-the-art performance on video spatial benchmarks. Project page: https://liuff19.github.io/Spatial-TTT.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12255v1",
+      "url": "https://arxiv.org/abs/2603.12255"
+    },
+    {
+      "arxiv_id": "2603.12250",
+      "title": "DVD: Deterministic Video Depth Estimation with Generative Priors",
+      "authors": [
+        "Hongfei Zhang",
+        "Harold Haodong Chen",
+        "Chenfei Liao",
+        "Jing He",
+        "Zixin Zhang",
+        "Haodong Li",
+        "Yihao Liang",
+        "Kanghao Chen",
+        "Bin Ren",
+        "Xu Zheng",
+        "Shuai Yang",
+        "Kun Zhou",
+        "Yinchuan Li",
+        "Nicu Sebe",
+        "Ying-Cong Chen"
+      ],
+      "abstract": "Existing video depth estimation faces a fundamental trade-off: generative models suffer from stochastic geometric hallucinations and scale drift, while discriminative models demand massive labeled datasets to resolve semantic ambiguities. To break this impasse, we present DVD, the first framework to deterministically adapt pre-trained video diffusion models into single-pass depth regressors. Specifically, DVD features three core designs: (i) repurposing the diffusion timestep as a structural anchor to balance global stability with high-frequency details; (ii) latent manifold rectification (LMR) to mitigate regression-induced over-smoothing, enforcing differential constraints to restore sharp boundaries and coherent motion; and (iii) global affine coherence, an inherent property bounding inter-window divergence, which enables seamless long-video inference without requiring complex temporal alignment. Extensive experiments demonstrate that DVD achieves state-of-the-art zero-shot performance across benchmarks. Furthermore, DVD successfully unlocks the profound geometric priors implicit in video foundation models using 163x less task-specific data than leading baselines. Notably, we fully release our pipeline, providing the whole training suite for SOTA video depth estimation to benefit the open-source community.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12250v1",
+      "url": "https://arxiv.org/abs/2603.12250"
+    },
+    {
+      "arxiv_id": "2603.12245",
+      "title": "One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers",
+      "authors": [
+        "Moayed Haji-Ali",
+        "Willi Menapace",
+        "Ivan Skorokhodov",
+        "Dogyun Park",
+        "Anil Kag",
+        "Michael Vasilkovsky",
+        "Sergey Tulyakov",
+        "Vicente Ordonez",
+        "Aliaksandr Siarohin"
+      ],
+      "abstract": "Diffusion transformers (DiTs) achieve high generative quality but lock FLOPs to image resolution, limiting principled latency-quality trade-offs, and allocate computation uniformly across input spatial tokens, wasting resource allocation to unimportant regions. We introduce Elastic Latent Interface Transformer (ELIT), a drop-in, DiT-compatible mechanism that decouples input image size from compute. Our approach inserts a latent interface, a learnable variable-length token sequence on which standard transformer blocks can operate. Lightweight Read and Write cross-attention layers move information between spatial tokens and latents and prioritize important input regions. By training with random dropping of tail latents, ELIT learns to produce importance-ordered representations with earlier latents capturing global structure while later ones contain information to refine details. At inference, the number of latents can be dynamically adjusted to match compute constraints. ELIT is deliberately minimal, adding two cross-attention layers while leaving the rectified flow objective and the DiT stack unchanged. Across datasets and architectures (DiT, U-ViT, HDiT, MM-DiT), ELIT delivers consistent gains. On ImageNet-1K 512px, ELIT delivers an average gain of $35.3\\%$ and $39.6\\%$ in FID and FDD scores. Project page: https://snap-research.github.io/elit/",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12245v1",
+      "url": "https://arxiv.org/abs/2603.12245"
+    },
+    {
+      "arxiv_id": "2603.12240",
+      "title": "BiGain: Unified Token Compression for Joint Generation and Classification",
+      "authors": [
+        "Jiacheng Liu",
+        "Shengkun Tang",
+        "Jiacheng Cui",
+        "Dongkuan Xu",
+        "Zhiqiang Shen"
+      ],
+      "abstract": "Acceleration methods for diffusion models (e.g., token merging or downsampling) typically optimize synthesis quality under reduced compute, yet often ignore discriminative capacity. We revisit token compression with a joint objective and present BiGain, a training-free, plug-and-play framework that preserves generation quality while improving classification in accelerated diffusion models. Our key insight is frequency separation: mapping feature-space signals into a frequency-aware representation disentangles fine detail from global semantics, enabling compression that respects both generative fidelity and discriminative utility. BiGain reflects this principle with two frequency-aware operators: (1) Laplacian-gated token merging, which encourages merges among spectrally smooth tokens while discouraging merges of high-contrast tokens, thereby retaining edges and textures; and (2) Interpolate-Extrapolate KV Downsampling, which downsamples keys/values via a controllable interextrapolation between nearest and average pooling while keeping queries intact, thereby conserving attention precision. Across DiT- and U-Net-based backbones and ImageNet-1K, ImageNet-100, Oxford-IIIT Pets, and COCO-2017, our operators consistently improve the speed-accuracy trade-off for diffusion-based classification, while maintaining or enhancing generation quality under comparable acceleration. For instance, on ImageNet-1K, with 70% token merging on Stable Diffusion 2.0, BiGain increases classification accuracy by 7.15% while improving FID by 0.34 (1.85%). Our analyses indicate that balanced spectral retention, preserving high-frequency detail and low/mid-frequency semantics, is a reliable design rule for token compression in diffusion models. To our knowledge, BiGain is the first framework to jointly study and advance both generation and classification under accelerated diffusion, supporting lower-cost deployment.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12240v1",
+      "url": "https://arxiv.org/abs/2603.12240"
+    },
+    {
+      "arxiv_id": "2603.12234",
+      "title": "Thermalisation as Diffusion in Hilbert Space",
+      "authors": [
+        "Aleksey Lunkin"
+      ],
+      "abstract": "We develop a microscopic theory of thermalisation for a thermometer coupled to a many-body bath beyond standard Markovian and Fermi-golden-rule assumptions. By modeling interaction matrix elements in the non-interacting basis as independent random variables, we derive a diffusion-propagator expression for the reduced dynamics and show that relaxation is controlled by the distribution of interaction-induced level broadenings. The theory predicts a thermalisation timescale set by the inverse typical broadening and yields a non-Markovian generalization of global balance. Exact-diagonalization tests for heavy-tailed L{\u00e9}vy couplings, an all-to-all transverse-field Ising model, and the one-dimensional Imbrie model show good agreement with these predictions.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cond-mat.dis-nn",
+      "categories": [
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12234v1",
+      "url": "https://arxiv.org/abs/2603.12234"
+    },
+    {
+      "arxiv_id": "2603.12215",
+      "title": "RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images",
+      "authors": [
+        "Bin Wan",
+        "Runmin Cong",
+        "Xiaofei Zhou",
+        "Hao Fang",
+        "Yaoqi Sun",
+        "Sam Kwong"
+      ],
+      "abstract": "Salient object detection (SOD) in remote sensing images faces significant challenges due to large variations in object sizes, the computational cost of self-attention mechanisms, and the limitations of CNN-based extractors in capturing global context and long-range dependencies. Existing methods that rely on fixed convolution kernels often struggle to adapt to diverse object scales, leading to detail loss or irrelevant feature aggregation. To address these issues, this work aims to enhance robustness to scale variations and achieve precise object localization. We propose the Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network (RDNet), which replaces the CNN backbone with the SwinTransformer for global context modeling and introduces three key modules: (1) the Dynamic Adaptive Detail-aware (DAD) module, which applies varied convolution kernels guided by object region proportions; (2) the Frequency-matching Context Enhancement (FCE) module, which enriches contextual information through wavelet interactions and attention; and (3) the Region Proportion-aware Localization (RPL) module, which employs cross-attention to highlight semantic details and integrates a Proportion Guidance (PG) block to assist the DAD module. By combining these modules, RDNet achieves robustness against scale variations and accurate localization, delivering superior detection performance compared with state-of-the-art methods.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12215v1",
+      "url": "https://arxiv.org/abs/2603.12215"
+    },
+    {
+      "arxiv_id": "2603.12189",
+      "title": "Shifted-geodesic approximation for spinning-body gravitational wave fluxes",
+      "authors": [
+        "Lisa V. Drummond",
+        "Scott A. Hughes",
+        "Viktor Skoup\u00fd",
+        "Philip Lynch",
+        "Gabriel Andres Piovano"
+      ],
+      "abstract": "We present a shifted-geodesic framework for computing gravitational-wave fluxes from spinning test bodies moving on bound orbits of Kerr black holes. The method provides a simple and efficient means of evaluating energy and angular momentum fluxes incorporating the leading effect of the smaller body's spin. Because post-adiabatic corrections, including secondary spin contributions, are subdominant to the leading adiabatic terms, this approximation is well justified. In particular, we find that oscillatory spin terms typically contribute very little to fluxes, but their contribution to the description of orbits is computationally expensive, making such terms a natural target for approximation. In our framework, orbital frequencies and integrals of the motion are perturbed to include spin effects, while the trajectory retains the global structure of geodesic motion. This simplifies the computation of gravitational radiation. The shifted-geodesic approximation is most reliable for orbits with lower eccentricity, lower inclination, and larger semi-latus recta. The approximation becomes less reliable as we approach the separatrix between stable and unstable orbits; fortunately, many inspirals spend less time in this region of parameter space. A diagnostic inspiral evolution shows very small dephasing due to use of the shifted-geodesic approximation ($\\approx10^{-2}$ radians over 1 year), confirming that spin-induced flux corrections can be accurately included using this simple modification to a geodesic trajectory. This approximation provides a rapid and convenient way to compute spinning-body orbits, but is not intended to replace more accurate treatments. We propose it as a pragmatic alternative when speed and simplicity are prioritized, enabling efficient EMRI/IMRI flux calculations and supporting parameter-space studies for LISA. (Abridged)",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "gr-qc",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12189v1",
+      "url": "https://arxiv.org/abs/2603.12189"
+    },
+    {
+      "arxiv_id": "2603.12179",
+      "title": "Quantitative homogenization of forced geometric motions through random fields of obstacles",
+      "authors": [
+        "Julian Fischer",
+        "Jonas Ingmanns"
+      ],
+      "abstract": "We establish a quantitative homogenization result for an interface moving through a field of sufficiently sparse but possibly impenetrable random obstacles. From a physical viewpoint, such problems arise e.g. in the context of the motion of dislocations or magnetic domain walls in a material with impurities.   More precisely, given an interface moving by forced mean curvature flow -- with a positive global driving force plus a spatially fluctuating (negative) driving force modeling the obstacles -- , we prove that the effective large-scale behavior of the forward front is governed by a constant-speed effective motion. For typical values of the global forcing, on large scales of the order $\\varepsilon^{-1}$ we obtain a (relative) error estimate for arrival times of the front of the order $\\varepsilon^{1/9-}$.   Previous stochastic homogenization results for forced mean curvature motion in the literature have required a positive pointwise lower bound on the combined forcing, which implies the absence of any actual obstacles capable of locally blocking the interface motion. In contrast, our results are valid even in the presence of islands with locally negative forcing, potentially allowing for locally pinned interfaces and eventually enclosures left behind the main front. Thus, our homogenization result applies to settings closer to (but still strictly away from) the pinning-depinning transition.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "math.AP",
+      "categories": [
+        "math.AP",
+        "math.PR"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12179v1",
+      "url": "https://arxiv.org/abs/2603.12179"
+    },
+    {
+      "arxiv_id": "2603.12147",
+      "title": "EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next",
+      "authors": [
+        "Ye Pan",
+        "Chi Kit Wong",
+        "Yuanhuiyi Lyu",
+        "Hanqian Li",
+        "Jiahao Huo",
+        "Jiacheng Chen",
+        "Lutao Jiang",
+        "Xu Zheng",
+        "Xuming Hu"
+      ],
+      "abstract": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable video reasoning capabilities across diverse tasks. However, their ability to understand human intent at a fine-grained level in egocentric videos remains largely unexplored. Existing benchmarks focus primarily on episode-level intent reasoning, overlooking the finer granularity of step-level intent understanding. Yet applications such as intelligent assistants, robotic imitation learning, and augmented reality guidance require understanding not only what a person is doing at each step, but also why and what comes next, in order to provide timely and context-aware support. To this end, we introduce EgoIntent, a step-level intent understanding benchmark for egocentric videos. It comprises 3,014 steps spanning 15 diverse indoor and outdoor daily-life scenarios, and evaluates models on three complementary dimensions: local intent (What), global intent (Why), and next-step plan (Next). Crucially, each clip is truncated immediately before the key outcome of the queried step (e.g., contact or grasp) occurs and contains no frames from subsequent steps, preventing future-frame leakage and enabling a clean evaluation of anticipatory step understanding and next-step planning. We evaluate 15 MLLMs, including both state-of-the-art closed-source and open-source models. Even the best-performing model achieves an average score of only 33.31 across the three intent dimensions, underscoring that step-level intent understanding in egocentric videos remains a highly challenging problem that calls for further investigation.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12147v1",
+      "url": "https://arxiv.org/abs/2603.12147"
+    },
+    {
+      "arxiv_id": "2603.12135",
+      "title": "Single-nanoparticle detection using quasi-bound states in the continuum supported by silicon metasurfaces",
+      "authors": [
+        "Keisuke Watanabe",
+        "Samuel Crowther",
+        "Masanobu Iwanaga",
+        "Frank Vollmer",
+        "Tadaaki Nagao"
+      ],
+      "abstract": "The detection of single particles or molecules represents a critical milestone in the development of biosensing technologies. Recently developed optical sensors based on quasi-bound states in the continuum (qBICs) have primarily focused on detecting global refractive index changes, aiming to simultaneously enhance both refractive index sensitivity and quality ($Q$) factors. However, sensors capable of resolving local refractive index perturbations, such as the binding of a nanometer-sized molecule on a surface, remain elusive and have not yet been demonstrated in BIC geometries due to the limited $Q$ factors and relatively large mode volumes. Here, we demonstrate low-contrast BIC metasurfaces that can perform sensing with a virus-sized single-nanoparticle resolution. The qBIC resonance operating at the critical coupling condition exhibits an experimental $Q$ factor of 4.5 x 10$^4$ in heavy water. The strong interaction between the localized electric field and polystyrene nanoparticles with a diameter of 100 nm enable the experimental observation of step-like resonance wavelength shifts, serving as signatures of individual particle binding events. Furthermore, binding-induced modifications to the qBIC resonance alter the optical confinement and asymmetry factor, inducing changes not only in the resonance wavelength but also in the linewidth and amplitude with single-particle sensitivity. Combined with position-insensitive response and free-space accessible features, low-contrast BIC metasurfaces provide a user-friendly platform for next-generation single-molecule sensing integrated with microfluidic systems.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "physics.optics",
+      "categories": [
+        "physics.optics",
+        "physics.app-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12135v1",
+      "url": "https://arxiv.org/abs/2603.12135"
+    },
+    {
+      "arxiv_id": "2603.12134",
+      "title": "Global and local helicity-preservation in the finite element discretisation of magnetic relaxation",
+      "authors": [
+        "Patrick E. Farrell",
+        "Mingdong He",
+        "Kaibo Hu",
+        "Ganghui Zhang"
+      ],
+      "abstract": "Magnetic relaxation drives plasma toward lower-energy equilibria under helicity constraints. In ideal magnetohydrodynamics (MHD), helicity is locally conserved, while resistive theories such as Taylor relaxation preserve only global helicity. This distinction has important implications for structure-preserving numerical methods. We compare three finite element formulations: an unconstrained scheme that does not conserve helicity, a mixed method based on finite element exterior calculus that preserves all local helicities, and a Lagrange multiplier approach that enforces only global helicity conservation. Numerical experiments on braided and knotted magnetic fields show that local helicity preservation prevents spurious reconnection and maintains nontrivial topology in ideal MHD or magneto-friction, whereas enforcing only global helicity allows further relaxation through local reconnection. Numerical results on magnetic knots and braids are provided. These results clarify how different levels of discrete helicity constraints influence magnetic relaxation and equilibrium structure in numerical computation.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "math.NA",
+      "categories": [
+        "math.NA"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12134v1",
+      "url": "https://arxiv.org/abs/2603.12134"
+    },
+    {
+      "arxiv_id": "2603.12133",
+      "title": "TopoBench: Benchmarking LLMs on Hard Topological Reasoning",
+      "authors": [
+        "Mayug Maniparambil",
+        "Nils Hoehing",
+        "Janak Kapuriya",
+        "Arjun Karuvally",
+        "Ellen Rushe",
+        "Anthony Ventresque",
+        "Noel O'Connor",
+        "Fergal Reid"
+      ],
+      "abstract": "Solving topological grid puzzles requires reasoning over global spatial invariants such as connectivity, loop closure, and region symmetry and remains challenging for even the most powerful large language models (LLMs). To study these abilities under controlled settings, we introduce TopoBench, a benchmark of six puzzle families across three difficulty levels. We evaluate strong reasoning LLMs on TopoBench and find that even frontier models solve fewer than one quarter of hard instances, with two families nearly unsolved. To investigate whether these failures stem from reasoning limitations or from difficulty extracting and maintaining spatial constraints, we annotate 750 chain of thought traces with an error taxonomy that surfaces four candidate causal failure modes, then test them with targeted interventions simulating each error type. These interventions show that certain error patterns like premature commitment and constraint forgetting have a direct impact on the ability to solve the puzzle, while repeated reasoning is a benign effect of search. Finally we study mitigation strategies including prompt guidance, cell-aligned grid representations and tool-based constraint checking, finding that the bottleneck lies in extracting constraints from spatial representations and not in reasoning over them. Code and data are available at github.com/mayug/topobench-benchmark.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12133v1",
+      "url": "https://arxiv.org/abs/2603.12133"
+    },
+    {
+      "arxiv_id": "2603.12130",
+      "title": "Entanglement cost of bipartite quantum channel discrimination under positive partial transpose operations",
+      "authors": [
+        "Chengkai Zhu",
+        "Shuyu He",
+        "Gereon Ko\u00dfmann",
+        "Xin Wang"
+      ],
+      "abstract": "Quantum channel discrimination is a fundamental task in quantum information processing. In the one-shot regime, discrimination between two candidate channels is characterized by the diamond norm. Beyond this basic setting, however, many scenarios in distributed quantum information processing remain unresolved, motivating notions of distinguishability that capture the power of the available resources. In this work, we formulate a theory of testers for bipartite channel discrimination, leading to the concept of the entanglement cost of bipartite channel discrimination: the minimum Schmidt rank $k$ of a shared maximally entangled state required for local protocols to achieve the globally optimal success probability. We introduce $k$-injectable testers as a tester-based description of entanglement-assisted local discrimination and, in particular, study the class of $k$-injectable positive-partial-transpose (PPT) testers, which constitutes a numerically tractable relaxation of the practically relevant class of LOCC testers.   For every $k$, we derive a semidefinite program (SDP) for the optimal success probability, which in turn yields an efficiently computable one-shot PPT entanglement cost. To render these optimization problems numerically feasible, we prove a symmetry-reduction principle for covariant channel pairs, thereby reducing the effective dimension of the associated SDPs. Finally, by dualizing the SDP, we derive bounds on the composite channel-discrimination problem and illustrate our framework with proof-of-principle examples based on the depolarizing channel, the depolarized SWAP channel, and the Werner--Holevo channels.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "quant-ph",
+      "categories": [
+        "quant-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12130v1",
+      "url": "https://arxiv.org/abs/2603.12130"
+    },
+    {
+      "arxiv_id": "2603.12128",
+      "title": "How Vulnerable is India's Economy to Foreign Sanctions?",
+      "authors": [
+        "Vipin P. Veetil"
+      ],
+      "abstract": "This paper develops a simple model of the world supply chain to estimate the effects of sanctions that restrict the flow of inputs from one country to another. Such restrictions operate through changes in the weights of the global production network: the sanctioning country ceases supplying certain inputs to the target country and reallocates its production to other destinations. Using the OECD Inter-Country Input--Output tables, we calibrate the model to assess the vulnerability of the Indian economy. We consider two classes of counterfactuals: restrictions on a single sector of a foreign country supplying India, and restrictions on all sectors of a foreign country supplying India. We then rank foreign countries and foreign country-sectors by the risk that their supply restrictions pose to economic activity in India. Our results show that India's greatest country-level vulnerability is to Saudi Arabia, followed by the United Arab Emirates, China, Singapore, the United States, and Russia.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "econ.GN",
+      "categories": [
+        "econ.GN",
+        "cs.SI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12128v1",
+      "url": "https://arxiv.org/abs/2603.12128"
+    },
+    {
+      "arxiv_id": "2603.12127",
+      "title": "The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis",
+      "authors": [
+        "Bartosz Chmura"
+      ],
+      "abstract": "The Bernstein-Vazirani (BV) algorithm is frequently taught as a canonical example of quantum parallelism, yet the standard interference-based explanation often obscures its underlying simplicity. We present a geometric reframing in which the Hadamard gate \"wrapping\" acts as a global basis rotation rather than a generator of computational complexity. This perspective reveals that the algorithm is effectively a classical linear computation over GF(2) performed in the conjugate Fourier basis, with the apparent parallelism arising from coordinate transformation. Building on Mermin's earlier pedagogical shortcut, which presented a 'classical' circuit equivalent but stopped short of explicitly labeling it as such, we elevate this to a formal geometric framework. In the extension, we distinguish between globally rotated circuits--which we reveal as classical linear computations--and topologically twisted circuits that generate quantum entanglement. We introduce a pedagogical taxonomy distinguishing (1) pure computational-basis circuits, (2) globally rotated circuits (exemplified by Bernstein-Vazirani), and (3) topologically twisted circuits involving non-aligned subsystem bases. This framework allows viewing the Gottesman-Knill theorem from a new angle, extends students' understanding of phase kickback and the 'Ricochet Property'. Furthermore, it provides a more intuitive starting point for explaining Bell-pair extensions through concrete circuit derivations and Qiskit simulations suitable for undergraduate quantum information courses. The outlook explores how this geometric view paves the way for understanding entanglement as topological twists.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "quant-ph",
+      "categories": [
+        "quant-ph",
+        "physics.ed-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12127v1",
+      "url": "https://arxiv.org/abs/2603.12127"
+    },
+    {
+      "arxiv_id": "2603.12119",
+      "title": "From Lagrangian to Higgs physics constraints for SUSY and non-SUSY models: interfacing FlexibleSUSY with HiggsTools and Lilith",
+      "authors": [
+        "Wojciech Kotlarski",
+        "Alexander Voigt"
+      ],
+      "abstract": "FlexibleSUSY is a framework for an automated calculation of observables in user-defined models of a Beyond the Standard Model (BSM) physics, starting from the model's field content and its Lagrangian. Among a plethora of observables it is capable of calculating are the high precision predictions for Higgs bosons decay widths. Building on these previous developments we present here an interface between FlexibleSUSY and HiggsTools/Lilith. Combined with other FlexibleSUSY capabilities this extension provides a fully automatized tool chain leading directly from a user-defined BSM model to the state-of-the-art validation of the global agreement of a BSM Higgs sector with experimental measurements. We demonstrate this extension on a handful of phenomenologically relevant examples: a CP-conserving version of the Type-II Two Higgs Doublet Model, the CP-violating Next-to-Minimal Supersymmetric Standard Model and the Minimal R-symmetric Supersymmetric Standard Model. These examples show the power of FlexibleSUSY when applied to supersymmetric and non-supersymmetric models, both with and without CP-violation, and illustrate the handling of invisible and undetected decay widths.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "hep-ph",
+      "categories": [
+        "hep-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12119v1",
+      "url": "https://arxiv.org/abs/2603.12119"
+    },
+    {
+      "arxiv_id": "2603.12111",
+      "title": "Breaching the Barrier: Transition Pathways of Coral Larval Connectivity Across the Eastern Pacific",
+      "authors": [
+        "Maria Olascoaga",
+        "Francisco Beron-Vera",
+        "Gage Bonner",
+        "Cora McKean",
+        "Ramona Joss"
+      ],
+      "abstract": "Genetic analyses indicate minimal gene flow across the so-called Eastern Pacific Barrier (EPB) in larvae of the reef-building coral \\emph{Porites lobata}. Notably, Clipperton Atoll, situated on the eastern side of the EPB, is the only site that exhibits detectable genetic connectivity with the Line Islands, which lie to the west of the EPB. To elucidate the relationship between this genetic signal and large-scale Pacific Ocean circulation, we analyze historical trajectories of surface-drifting buoys from the Global Drifter Program (GDP). We first discretize the GDP drifter trajectories into a Markov chain representation and subsequently apply transition path theory (TPT) in combination with Bayesian inference. The TPT analysis identifies reactive trajectories -- pathways that connect the Line Islands to Clipperton Atoll with minimal detours -- whose travel times do not exceed 5 months, which is taken as an upper bound for the larval survival time of \\emph{P. lobata}. Consistently, the posterior distribution of transport from Pacific islands west of the EPB to Clipperton Atoll attains a local maximum in the Line Islands at a travel time of approximately 2.5 months. Our probabilistic characterization of the Lagrangian dynamics therefore supports a scenario of weak, but non-negligible, permeability of the EPB, in agreement with the genetic evidence, and it motivates a refined dynamical definition of the EPB based on the remaining duration of reactive trajectories. Furthermore, our results indicate that the connectivity between the Line Islands and Clipperton Atoll is governed primarily by the seasonal modulation of the North Equatorial Countercurrent, rather than by the phase of the El Ni\u00f1o--Southern Oscillation (ENSO). Finally, Clipperton Atoll's role as a terminal sink for trajectories is relevant to the planned mining operations.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "physics.ao-ph",
+      "categories": [
+        "physics.ao-ph",
+        "math.PR",
+        "nlin.CD"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12111v1",
+      "url": "https://arxiv.org/abs/2603.12111"
+    },
+    {
+      "arxiv_id": "2603.12100",
+      "title": "Topological field theory plus local Lorentz symmetry is gravity",
+      "authors": [
+        "Ma\u00eft\u00e9 Dupuis",
+        "Florian Girelli",
+        "Oleksandra Hrytseniak",
+        "Wolfgang Wieland"
+      ],
+      "abstract": "Four-dimensional gravity admits many equivalent formulations - metric, Einstein-Cartan, teleparallel, McDowell-Mansouri, among others - each offering distinct advantages, particularly, in view of quantization. We propose a new formulation based on Weyl spinor-valued 1-forms, ultimately encoding the frame-field data. Starting from a topological field theory with a global $\\mathrm{SL}(2,\\mathbb{C})$ symmetry, we show that promoting this symmetry to a local gauge symmetry leads to the emergence of gravity. We analyze the covariant phase space of this theory, its symmetries and charge structure and explore the role of admissible corner terms together with their impact on boundary charges and their algebra. We study several extensions of this framework, including the incorporation of a cosmological constant and a novel $ G \\rightarrow 0 $ scaling limit obtained from this model. The presence of the frame field already at the topological level allows point particles to be coupled uniformly in both the topological and gravitational theories. We perform a detailed Hamiltonian analysis of the theory and clarify the implementation of the reality conditions. We argue that this formulation provides structural features that make it particularly well suited for both discretization and quantization.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "gr-qc",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12100v1",
+      "url": "https://arxiv.org/abs/2603.12100"
+    },
+    {
+      "arxiv_id": "2603.12096",
+      "title": "A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control",
+      "authors": [
+        "Sheng-You Huang",
+        "Hsiao-Chuan Chang",
+        "Yen-Chi Chen",
+        "Ting-Han Wei",
+        "I-Hau Yeh",
+        "Sheng-Yao Kuan",
+        "Chien-Yao Wang",
+        "Hsuan-Han Lee",
+        "I-Chen Wu"
+      ],
+      "abstract": "Reinforcement Learning (RL) in Traffic Signal Control (TSC) faces significant hurdles in real-world deployment due to limited generalization to dynamic traffic flow variations. Existing approaches often overfit static patterns and use action spaces incompatible with driver expectations. This paper proposes a robust Multi-Agent Reinforcement Learning (MARL) framework validated in the Vissim traffic simulator. The framework integrates three mechanisms: (1) Turning Ratio Randomization, a training strategy that exposes agents to dynamic turning probabilities to enhance robustness against unseen scenarios; (2) a stability-oriented Exponential Phase Duration Adjustment action space, which balances responsiveness and precision through cyclical, exponential phase adjustments; and (3) a Neighbor-Based Observation scheme utilizing the MAPPO algorithm with Centralized Training with Decentralized Execution (CTDE). By leveraging centralized updates, this approach approximates the efficacy of global observations while maintaining scalable local communication. Experimental results demonstrate that our framework outperforms standard RL baselines, reducing average waiting time by over 10%. The proposed model exhibits superior generalization in unseen traffic scenarios and maintains high control stability, offering a practical solution for adaptive signal control.",
+      "published": "2026-03-12",
+      "updated": "2026-03-12",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2603.12096v1",
+      "url": "https://arxiv.org/abs/2603.12096"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

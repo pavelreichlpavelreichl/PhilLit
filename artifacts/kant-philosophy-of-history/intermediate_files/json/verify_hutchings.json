@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S0263523200002688
+[verify_paper.py] DOI verified: Perpetual War/Perpetual Peace: Kant, Hegel and the...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S0263523200002688"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s0263523200002688",
+      "title": "Perpetual War/Perpetual Peace: Kant, Hegel and the End of History",
+      "authors": [
+        {
+          "family": "Hutchings",
+          "given": "Kimberly"
+        }
+      ],
+      "editors": [],
+      "year": 1991,
+      "container_title": "Bulletin of the Hegel Society of Great Britain",
+      "volume": "12",
+      "issue": "1-2",
+      "page": "39-50",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s0263523200002688"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

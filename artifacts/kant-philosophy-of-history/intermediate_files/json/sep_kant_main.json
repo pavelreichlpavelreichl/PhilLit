@@ -1,0 +1,1065 @@
+{
+  "status": "success",
+  "source": "sep",
+  "query": "kant",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/kant/",
+      "entry_name": "kant",
+      "title": "Immanuel Kant",
+      "preamble": "Immanuel Kant (1724\u20131804) is the central figure in modern\nphilosophy. He synthesized early modern rationalism and empiricism,\nset the terms for much of nineteenth and twentieth century philosophy,\nand continues to exercise a significant influence today in\nmetaphysics, epistemology, ethics, political philosophy, aesthetics,\nand other fields. The fundamental idea of Kant\u2019s \u201ccritical\nphilosophy\u201d \u2013 especially in his three Critiques: the Critique of Pure Reason (1781, 1787), the Critique of\nPractical Reason (1788), and the Critique of the Power of\nJudgment (1790) \u2013 is human autonomy. He argues that the\nhuman understanding is the source of the general laws of nature that\nstructure all our experience; and that human reason gives itself the\nmoral law, which is our basis for belief in God, freedom, and\nimmortality. Therefore, scientific knowledge, morality, and religious\nbelief are mutually consistent and secure because they all rest on the\nsame foundation of human autonomy, which is also the final end of\nnature according to the teleological worldview of reflecting judgment\nthat Kant introduces to unify the theoretical and practical parts of\nhis philosophical system.",
+      "bibliography": [
+        {
+          "raw": "The standard German edition of Kant\u2019s works is:\nK\u00f6niglichen Preu\u00dfischen (later Deutschen) Akademie der\nWissenschaften (ed.), 1900\u2013, Kants gesammelte Schriften, Berlin:\nGeorg Reimer (later Walter De Gruyter).",
+          "parsed": {
+            "authors": [
+              "The standard German edition of Kant\u2019s works is:\nK\u00f6niglichen Preu\u00dfischen (later Deutschen) Akademie der\nWissenschaften (ed.)"
+            ],
+            "year": "1900",
+            "title": "The standard German edition of Kant\u2019s works is:\nK\u00f6niglichen Preu\u00dfischen (later Deutschen) Akademie der\nWissenschaften (ed.), 1900\u2013, Kants gesammelte Schriften, Berlin:\nGeorg Reimer (later Walter De Gruyter)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "The best English edition of Kant\u2019s works is: P. Guyer and A.\nWood (eds.), 1992\u2013, The Cambridge Edition of the Works of\nImmanuel Kant , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "The best English edition of Kant\u2019s works is: P. Guyer and A.\nWood (eds.)"
+            ],
+            "year": "1992",
+            "title": "The best English edition of Kant\u2019s works is: P. Guyer and A.\nWood (eds.), 1992\u2013, The Cambridge Edition of the Works of\nImmanuel Kant , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Thoughts on the True Estimation of Living Forces (1747);\nin Watkins, E. (ed.), 2012, Natural Science , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Universal Natural History and Theory of the Heavens (1755); in Watkins, E. (ed.), 2012, Natural Science ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Universal Natural History",
+              "Theory of the Heavens (1755); in Watkins, E. (ed.)"
+            ],
+            "year": "2012",
+            "title": "Natural Science ",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Succinct Exposition of Some Meditations on Fire (1755);\nin Watkins, E. (ed.), 2012, Natural Science , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "A New Elucidation of the First Principles of Metaphysical\nCognition (1755); in Walford, D., and Meerbote, R. (eds.), 1992, Theoretical Philosophy , 1755\u20131770, Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Employment in Natural Philosophy of Metaphysics Combined\nWith Geometry, of which Sample I Contains the Physical Monadology (1756); in Walford, D., and Meerbote, R. (eds.), 1992, Theoretical\nPhilosophy , 1755\u20131770, Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The False Subtlety of the Four Syllogistic Figures (1762); in Walford, D., and Meerbote, R. (eds.), 1992, Theoretical\nPhilosophy , 1755\u20131770, Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Only Possible Argument in Support of a Demonstration of\nthe Existence of God (1763); in Walford, D., and Meerbote, R.\n(eds.), 1992, Theoretical Philosophy , 1755\u20131770,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "The Only Possible Argument in Support of a Demonstration of\nthe Existence of God (1763); in Walford, D.,",
+              "Meerbote, R.\n(eds.)"
+            ],
+            "year": "1992",
+            "title": "Theoretical Philosophy , 1755\u20131770",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Attempt to Introduce the Concept of Negative Magnitudes into\nPhilosophy (1763); in Walford, D., and Meerbote, R. (eds.), 1992, Theoretical Philosophy , 1755\u20131770, Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Inquiry Concerning the Distinctness of the Principles of\nNatural Theology and Morality (1764); in Walford, D., and\nMeerbote, R. (eds.), 1992, Theoretical Philosophy ,\n1755\u20131770, Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Inquiry Concerning the Distinctness of the Principles of\nNatural Theology",
+              "Morality (1764); in Walford, D.,",
+              "Meerbote, R. (eds.)"
+            ],
+            "year": "1992",
+            "title": "Theoretical Philosophy ",
+            "publisher": "1755\u20131770, Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Observations on the Feeling of the Beautiful and the\nSublime (1764); in Z\u00f6ller, G., and Louden, R. (eds.), 2007, Anthropology, History, and Education , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Essay on Maladies of the Head (1764); in Z\u00f6ller, G.,\nand Louden, R. (eds.), 2007, Anthropology, History, and\nEducation , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Dreams of a Spirit-Seer Elucidated by Dreams of\nMetaphysics (1766); in Walford, D., and Meerbote, R. (eds.),\n1992, Theoretical Philosophy , 1755\u20131770, Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Concerning the Ultimate Ground of the Differentiation of\nDirections in Space (1768); in Walford, D., and Meerbote, R.\n(eds.), 1992, Theoretical Philosophy , 1755\u20131770,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Concerning the Ultimate Ground of the Differentiation of\nDirections in Space (1768); in Walford, D.,",
+              "Meerbote, R.\n(eds.)"
+            ],
+            "year": "1992",
+            "title": "Theoretical Philosophy , 1755\u20131770",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Concerning the Form and Principles of the Sensible and\nIntelligible World [Inaugural Dissertation] (1770); in Walford,\nD., and Meerbote, R. (eds.), 1992, Theoretical Philosophy ,\n1755\u20131770, Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Concerning the Form",
+              "Principles of the Sensible",
+              "Intelligible World [Inaugural Dissertation] (1770); in Walford,\nD.,",
+              "Meerbote, R. (eds.)"
+            ],
+            "year": "1992",
+            "title": "Theoretical Philosophy ",
+            "publisher": "1755\u20131770, Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Critique of Pure Reason (1781, revised second edition\n1787); in Guyer, P., and Wood, A. (eds.), 1998, Critique of Pure\nReason , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Prolegomena to Any Future Metaphysics That Will Be Able to\nCome Forward as Science (1783); in Allison, H., and Heath, P.\n(eds.), 2002, Theoretical Philosophy after 1781 , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Idea for a Universal History with a Cosmopolitan Aim (1784); in Z\u00f6ller, G., and Louden, R. (eds.), 2007, Anthropology, History, and Education , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "An Answer to the Question: What is Enlightenment? (1784);\nin Gregor, M. (ed.), 1996, Practical Philosophy , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Groundwork of the Metaphysics of Morals (1785); in\nGregor, M. (ed.), 1996, Practical Philosophy , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Conjectural Beginning of Human History (1786); in\nZ\u00f6ller, G., and Louden, R. (eds.), 2007, Anthropology,\nHistory, and Education , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Metaphysical Foundations of Natural Science (1786); in\nAllison, H., and Heath, P. (eds.), 2002, Theoretical Philosophy after\n1781, Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "What Does it Mean to Orient Oneself in Thinking? (1786);\nin Wood, A., and di Giovanni, G. (eds.), 1996, Religion and\nRational Theology , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Critique of Practical Reason (1788); in Gregor, M. (ed.),\n1996, Practical Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Critique of the Power of Judgment (1790); in Guyer, P.\n(ed.), 2000, Critique of the Power of Judgment , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Religion Within the Boundaries of Mere Reason (1793); in\nWood, A., and di Giovanni, G. (eds.), 1996, Religion and Rational\nTheology , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "On the Common Saying: That May Be Correct in Theory, But it is\nof No Use in Practice (1793); in Gregor, M. (ed.), 1996, Practical Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Toward Perpetual Peace (1795); in Gregor, M. (ed.), 1996, Practical Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Metaphysics of Morals (1797); in Gregor, M. (ed.),\n1996, Practical Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Conflict of the Faculties (1798); in Wood, A., and di\nGiovanni, G. (eds.), 1996, Religion and Rational Theology ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "The Conflict of the Faculties (1798); in Wood, A.,",
+              "di\nGiovanni, G. (eds.)"
+            ],
+            "year": "1996",
+            "title": "Religion and Rational Theology ",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Anthropology from a Pragmatic Point of View (1798); in\nZ\u00f6ller, G., and Louden, R. (eds.), 2007, Anthropology,\nHistory, and Education , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "A selection of Kant\u2019s correspondence may be found in Zweig,\nA. (ed.), 1999, Correspondence , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kant\u2019s unpublished Opus Postumum may be found in\nF\u00f6rster, E. (ed.), 1993, Opus Postumum , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jacobi, F., 1787, David Hume on Faith or Idealism and Realism: A\nDialogue, in G. di Giovanni (ed.), The Main Philosophical Writings\nand the Novel Allwill , Montreal: McGill-Queen\u2019s University\nPress, 1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fichte, J., 1792, Attempt at a Critique of All Revelation, in G.\nGreen (ed.), Attempt at a Critique of All Revelation ,\nCambridge: Cambridge University Press, 1978.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Locke, J. 1689, An Essay Concerning Human Understanding ,\nin P. Nidditch (ed.), An Essay Concerning Human Understanding, Oxford:\nClarendon Press, 1975.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Reinhold, K., 1786\u20131790, Letters on the Kantian Philosophy,\nin K. Ameriks (ed.), Letters on the Kantian Philosophy ,\nCambridge: Cambridge University Press, 2005.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sassen, B., 2000, Kant\u2019s Early Critics: The Empiricist\nCritique of the Theoretical Philosophy , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tetens, J., 1777, Philosophische Versuche \u00fcber die\nMenschliche Natur und ihre Entwicklung , Hildesheim: Olms,\n1979.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Allais, L., 2015, Manifest Reality: Kant\u2019s Idealism and\nhis Realism , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Allison, H., 1990, Kant\u2019s Theory of Freedom ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Allison, H."
+            ],
+            "year": "1990",
+            "title": "Kant\u2019s Theory of Freedom ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1996, Idealism and Freedom ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1996",
+            "title": "Idealism and Freedom ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2001, Kant\u2019s Theory of Taste: A\nReading of the Critique of Aesthetic Judgment , Cambridge:\nCambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2001",
+            "title": "\u2013\u2013\u2013, 2001, Kant\u2019s Theory of Taste: A\nReading of the Critique of Aesthetic Judgment , Cambridge:\nCambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2004, Kant\u2019s Transcendental\nIdealism: An Interpretation and Defense , New Haven and London:\nYale University Press, Revised and Enlarged Edition.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2004",
+            "title": "\u2013\u2013\u2013, 2004, Kant\u2019s Transcendental\nIdealism: An Interpretation and Defense , New Haven and London:\nYale University Press, Revised and Enlarged Edition."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2015, Kant\u2019s Transcendental\nDeduction: An Analytical-Historical Commentary , Oxford: Oxford\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2015",
+            "title": "\u2013\u2013\u2013, 2015, Kant\u2019s Transcendental\nDeduction: An Analytical-Historical Commentary , Oxford: Oxford\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, Kant\u2019s Conception of\nFreedom: A Developmental and Critical Analysis , Cambridge:\nCambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, Kant\u2019s Conception of\nFreedom: A Developmental and Critical Analysis , Cambridge:\nCambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Altman, M. (ed.), 2017, The Palgrave Kant Handbook ,\nLondon: Palgrave Macmillan.",
+          "parsed": {
+            "authors": [
+              "Altman, M. (ed.)"
+            ],
+            "year": "2017",
+            "title": "The Palgrave Kant Handbook ",
+            "publisher": "London: Palgrave Macmillan",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Ameriks, K., 1978, \u201cKant\u2019s Transcendental Deduction as\na Regressive Argument,\u201d Kant-Studien , 69: 273\u201387;\nreprinted in Kitcher (ed.) 1998, pp. 85\u2013102; and in Ameriks\n2003, pp. 51\u201366.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1982, \u201cRecent Work on Kant\u2019s\nTheoretical Philosophy,\u201d American Philosophical\nQuarterly , 19: 1\u201324; reprinted in Ameriks 2003, pp.\n67\u201397.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1982",
+            "title": "\u2013\u2013\u2013, 1982, \u201cRecent Work on Kant\u2019s\nTheoretical Philosophy,\u201d American Philosophical\nQuarterly , 19: 1\u201324; reprinted in Ameriks 2003, pp.\n67\u201397."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u201cKantian Idealism Today,\u201d History of Philosophy Quarterly , 9: 329\u2013342; reprinted\nin Ameriks 2003, 98\u2013111.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u201cKantian Idealism Today,\u201d History of Philosophy Quarterly , 9: 329\u2013342; reprinted\nin Ameriks 2003, 98\u2013111."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2003, Interpreting Kant\u2019s\nCritiques , Oxford: Clarendon Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2003",
+            "title": "\u2013\u2013\u2013, 2003, Interpreting Kant\u2019s\nCritiques , Oxford: Clarendon Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Aquila, R., 1983, Representational Mind: A Study of\nKant\u2019s Theory of Knowledge , Bloomington: Indiana University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Beck, L., 1960, A Commentary on Kant\u2019s Critique of\nPractical Reason , Chicago and London: University of Chicago\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1965, \u201cThe fact of reason: an essay\non justification in ethics,\u201d in Beck (ed.), Studies in the\nPhilosophy of Kant , Indianapolis: Bobbs-Merrill, pp.\n200\u2013214; reprinted in Beck 2002, pp. 45\u201356.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1965",
+            "title": "\u2013\u2013\u2013, 1965, \u201cThe fact of reason: an essay\non justification in ethics,\u201d in Beck (ed.), Studies in the\nPhilosophy of Kant , Indianapolis: Bobbs-Merrill, pp.\n200\u2013214; reprinted in Beck 2002, pp. 45\u201356."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1978, \u201cDid the Sage of\nK\u00f6nigsberg Have No Dreams?\u201d in Beck, Essays on Kant and\nHume , New Haven:Yale University Press; reprinted in Beck 2002,\npp. 85\u2013101; and in Kitcher (ed.) 1998, pp. 103\u2013116.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1978",
+            "title": "\u2013\u2013\u2013, 1978, \u201cDid the Sage of\nK\u00f6nigsberg Have No Dreams?\u201d in Beck, Essays on Kant and\nHume , New Haven:Yale University Press; reprinted in Beck 2002,\npp. 85\u2013101; and in Kitcher (ed.) 1998, pp. 103\u2013116."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, Selected Essays on Kant (Series: North American Kant Society Studies in Philosophy), H.\nRobinson (ed.), Rochester: University of Rochester Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, Selected Essays on Kant (Series: North American Kant Society Studies in Philosophy), H.\nRobinson (ed.), Rochester: University of Rochester Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Beiser, F., 1987, The Fate of Reason: German Philosophy from\nKant to Fichte , Cambridge and London: Harvard University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u201cKant\u2019s Intellectual\nDevelopment 1746\u20131781,\u201d in Guyer (ed.) 1992, pp.\n26\u201361.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u201cKant\u2019s Intellectual\nDevelopment 1746\u20131781,\u201d in Guyer (ed.) 1992, pp.\n26\u201361."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, \u201cThe Enlightenment and\nIdealism,\u201d in The Cambridge Companion to German\nIdealism , K. Ameriks (ed.), Cambridge: Cambridge University\nPress, pp. 18\u201336.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "\u2013\u2013\u2013, 2000, \u201cThe Enlightenment and\nIdealism,\u201d in The Cambridge Companion to German\nIdealism , K. Ameriks (ed.), Cambridge: Cambridge University\nPress, pp. 18\u201336."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, German Idealism: The Struggle\nAgainst Subjectivism, 1781\u20131801 , Cambridge and London:\nHarvard University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, German Idealism: The Struggle\nAgainst Subjectivism, 1781\u20131801 , Cambridge and London:\nHarvard University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Bennett, J., 1966, Kant\u2019s Analytic , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1974, Kant\u2019s Dialectic ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1974",
+            "title": "Kant\u2019s Dialectic ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Bird, G., 1962, Kant\u2019s Theory of Knowledge: An Outline\nof One Central Argument in the Critique of Pure Reason , London:\nRoutledge & Kegan Paul.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, The Revolutionary Kant: A\nCommentary on the Critique of Pure Reason , Chicago and La Salle:\nOpen Court.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, The Revolutionary Kant: A\nCommentary on the Critique of Pure Reason , Chicago and La Salle:\nOpen Court."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Engstrom, S. 1992, \u201cThe Concept of the Highest Good in\nKant\u2019s Moral Theory,\u201d Philosophy and Phenomenological\nResearch , 52(4): 747\u2013780.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "F\u00f6rster, E. (ed.), 1989, Kant\u2019s Transcendental\nDeductions , Stanford: Stanford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Friedman, M., 2013, Kant\u2019s Construction of Nature ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Friedman, M."
+            ],
+            "year": "2013",
+            "title": "Kant\u2019s Construction of Nature ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Gardner, S., 1999, Kant and the Critique of Pure Reason ,\nLondon and New York: Routledge.",
+          "parsed": {
+            "authors": [
+              "Gardner, S."
+            ],
+            "year": "1999",
+            "title": "Kant and the Critique of Pure Reason ",
+            "publisher": "London and New York: Routledge"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Grier, M. 2001, Kant\u2019s Doctrine of Transcendental\nIllusion , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ginsborg, H., 1990, The Role of Taste in Kant\u2019s Theory\nof Cognition , New York: Garland.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, \u201cKant on Aesthetic and\nBiological Purposiveness,\u201d in B. Herman, C. Korsgaard, and T.\nHill (eds.), Reclaiming the History of Ethics: Essays in Honor of\nJohn Rawls , Cambridge: Harvard University Press, pp.\n329\u2013360.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997, \u201cKant on Aesthetic and\nBiological Purposiveness,\u201d in B. Herman, C. Korsgaard, and T.\nHill (eds.), Reclaiming the History of Ethics: Essays in Honor of\nJohn Rawls , Cambridge: Harvard University Press, pp.\n329\u2013360."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2001, \u201cKant on Understanding\nOrganisms as Natural Purposes,\u201d in E. Watkins (ed.), Kant\nand the Sciences , Oxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2001",
+            "title": "\u2013\u2013\u2013, 2001, \u201cKant on Understanding\nOrganisms as Natural Purposes,\u201d in E. Watkins (ed.), Kant\nand the Sciences , Oxford: Oxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, \u201cThinking the Particular as\nContained in the Universal,\u201d in Kukla (ed.) 2006, pp.\n35\u201360.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, \u201cThinking the Particular as\nContained in the Universal,\u201d in Kukla (ed.) 2006, pp.\n35\u201360."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Guyer, P., 1987, Kant and the Claims of Knowledge ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Guyer, P."
+            ],
+            "year": "1987",
+            "title": "Kant and the Claims of Knowledge ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u201cThe transcendental deduction\nof the categories,\u201d in Guyer (ed.) 1992, pp. 123\u2013160.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u201cThe transcendental deduction\nof the categories,\u201d in Guyer (ed.) 1992, pp. 123\u2013160."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1993, Kant and the Experience of\nFreedom , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1993",
+            "title": "\u2013\u2013\u2013, 1993, Kant and the Experience of\nFreedom , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, Kant and the Claims of\nTaste , Cambridge: Cambridge University Press, 2nd edition.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997, Kant and the Claims of\nTaste , Cambridge: Cambridge University Press, 2nd edition."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, Kant on Freedom, Law, and\nHappiness , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "\u2013\u2013\u2013, 2000, Kant on Freedom, Law, and\nHappiness , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, Kant\u2019s System of Nature and\nFreedom , Oxford: Clarendon Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, Kant\u2019s System of Nature and\nFreedom , Oxford: Clarendon Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, Kant , London and New York:\nRoutledge.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, Kant , London and New York:\nRoutledge."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1992, The Cambridge Companion to\nKant , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013 (ed.), 1992, The Cambridge Companion to\nKant , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 2006, The Cambridge Companion to\nKant and Modern Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013 (ed.), 2006, The Cambridge Companion to\nKant and Modern Philosophy , Cambridge: Cambridge University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 2010, The Cambridge Companion to\nKant\u2019s Critique of Pure Reason , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013 (ed.), 2010, The Cambridge Companion to\nKant\u2019s Critique of Pure Reason , Cambridge: Cambridge\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Henrich, D., 1969, \u201cThe Proof-Structure of Kant\u2019s\nTranscendental Deduction,\u201d Review of Metaphysics , 22:\n640\u201359.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1976, Identit\u00e4t und\nObjektivit\u00e4t: Eine Untersuchung \u00fcber Kants transzendentale\nDeduktion , Heidelberg: Carl Winter Universit\u00e4tsverlag.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1976",
+            "title": "\u2013\u2013\u2013, 1976, Identit\u00e4t und\nObjektivit\u00e4t: Eine Untersuchung \u00fcber Kants transzendentale\nDeduktion , Heidelberg: Carl Winter Universit\u00e4tsverlag."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, Aesthetic Judgment and the Moral\nImage of the World: Studies in Kant , Stanford: Stanford\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, Aesthetic Judgment and the Moral\nImage of the World: Studies in Kant , Stanford: Stanford\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1994, The Unity of Reason: Essays on\nKant\u2019s Philosophy , R. Velkley (ed.), Cambridge and London:\nHarvard University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013, 1994, The Unity of Reason: Essays on\nKant\u2019s Philosophy , R. Velkley (ed.), Cambridge and London:\nHarvard University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hill, T., 1992, Dignity and Practical Reason in Kant\u2019s\nMoral Theory , Ithaca: Cornell University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "H\u00f6ffe, O., 1994, Immanuel Kant , Albany: State\nUniversity of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jankowiak, T., 2017, \u201cKantian Phenomenalism Without\nBerkeleyan Idealism,\u201d Kantian Review , 22(2):\n205\u2013231.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kanterian, E., 2018, Kant, God, and Metaphysics , London\nand New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kemp Smith, N., 1923, Commentary to Kant\u2019s Critique\nof Pure Reason, New York: Humanities Press, 2nd edition (1992\nreprint).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kitcher, P. (ed.), 1998, Kant\u2019s Critique of Pure Reason:\nCritical Essays , Lanham, Maryland: Rowman & Littlefield.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, Kant\u2019s Thinker ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "Kant\u2019s Thinker ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Kleingeld, P., 1995, \u201cWhat do the Virtuous Hope for?\nRe-reading Kant\u2019s Doctrine of the Highest Good,\u201d in H.\nRobinson (ed.), Proceedings of the Eight International Kant\nCongress , Milwaukee: Marquette University Press,\n1:91\u2013112.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Korsgaard, C., 1996, Creating The Kingdom of Ends ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Korsgaard, C."
+            ],
+            "year": "1996",
+            "title": "Creating The Kingdom of Ends ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Kuehn, M., 2001, Kant: A Biography , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kukla, R. (ed.), 2006, Aesthetics and Cognition in\nKant\u2019s Critical Philosophy , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Langton, R., 1998, Kantian Humility: Our Ignorance of Things\nin Themselves , Oxford: Clarendon Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Laywine, A., 1993, Kant\u2019s Early Metaphysics and the\nOrigins of the Critical Philosophy (NAKS Studies in Philosophy:\n3), Atascadero, CA: Ridgeview.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Longuenesse, B., 1998. Kant and the Capacity to Judge:\nSensibility and Discursivity in the Transcendental Analytic of the\nCritique of Pure Reason , Princeton: Princeton University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, Kant on the Human\nStandpoint , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, Kant on the Human\nStandpoint , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, \u201cKant on a priori concepts: The\nmetaphysical deduction of the categories,\u201d in Guyer (ed.) 2006,\npp. 129\u2013168; also in Longuenesse 2005, pp. 81\u2013116.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, \u201cKant on a priori concepts: The\nmetaphysical deduction of the categories,\u201d in Guyer (ed.) 2006,\npp. 129\u2013168; also in Longuenesse 2005, pp. 81\u2013116."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "McFarland, J., 1970, Kant\u2019s Concept of Teleology ,\nEdinburgh: University of Edinburgh Press.",
+          "parsed": {
+            "authors": [
+              "McFarland, J."
+            ],
+            "year": "1970",
+            "title": "Kant\u2019s Concept of Teleology ",
+            "publisher": "Edinburgh: University of Edinburgh Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Neiman, S., 1994, The Unity of Reason: Rereading Kant ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "Neiman, S."
+            ],
+            "year": "1994",
+            "title": "The Unity of Reason: Rereading Kant ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "O\u2019Neill, O., 1989, Constructions of Reason ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "O\u2019Neill, O."
+            ],
+            "year": "1989",
+            "title": "Constructions of Reason ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Ostaric, L., 2023, The Critique of Judgment and the\nUnity of Kant\u2019s Critical System , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Paton, H., 1936, Kant\u2019s Metaphysic of Experience ,\nLondon: Allen & Unwin.",
+          "parsed": {
+            "authors": [
+              "Paton, H."
+            ],
+            "year": "1936",
+            "title": "Kant\u2019s Metaphysic of Experience ",
+            "publisher": "London: Allen & Unwin"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1947, The Categorical Imperative ,\nPhiladelphia: University of Pennsylvania Press (1971 reprint).",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1947",
+            "title": "The Categorical Imperative ",
+            "publisher": "Philadelphia: University of Pennsylvania Press (1971 reprint)"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Prauss, G., 1974, Kant und das Problem der Dinge an sich ,\nBonn: Bouvier.",
+          "parsed": {
+            "authors": [
+              "Prauss, G."
+            ],
+            "year": "1974",
+            "title": "Kant und das Problem der Dinge an sich ",
+            "publisher": "Bonn: Bouvier"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Rawls, J., 2000, Lectures on the History of Moral\nPhilosophy , B. Herman (ed.), Cambridge and New York: Harvard\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Reath, A., 1988, \u201cTwo Conceptions of the Highest Good in\nKant,\u201d Journal of the History of Philosophy , 26:\n593\u2013619.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Robinson, H., 1994, \u201cTwo Perspectives on Kant\u2019s\nAppearances and Things in Themselves,\u201d Journal of the\nHistory of Philosophy , 32: 411\u2013441.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rohlf, M., 2008, \u201cThe Transition From Nature to Freedom in\nKant\u2019s Third Critique,\u201d Kant-Studien , 99(3):\n339\u2013360.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, \u201cThe Ideas of Pure\nReason,\u201d in Guyer (ed.) 2010, pp. 190\u2013209.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, \u201cThe Ideas of Pure\nReason,\u201d in Guyer (ed.) 2010, pp. 190\u2013209."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Sch\u00f6nfeld, M., 2000, The Philosophy of the Young Kant:\nThe Precritical Project , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Silber, J., 1959, \u201cKant\u2019s Conception of the Highest\nGood as Immanent and Transcendent,\u201d The Philosophical\nReview , 68: 469\u2013492.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Strawson, P., 1966, The Bounds of Sense: An Essay on\nKant\u2019s Critique of Pure Reason , London and New York:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sullivan, R., 1989, Immanuel Kant\u2019s Moral Theory ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Sullivan, R."
+            ],
+            "year": "1989",
+            "title": "Immanuel Kant\u2019s Moral Theory ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1994, An Introduction to Kant\u2019s\nEthics , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013, 1994, An Introduction to Kant\u2019s\nEthics , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Sweet, K., Kant on Freedom, Nature, and Judgment: The\nTerritory of the Third Critique, Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Van Cleve, J., 1999, Problems From Kant , New York and\nOxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Walford, D. and Meerbote, R., 1992, \u201cGeneral\nIntroduction\u201d and \u201cIntroductions to the\ntranslations,\u201d in Immanuel Kant: Theoretical Philosophy,\n1755\u20131770 , Cambridge: Cambridge University Press, pp.\nxxxv\u2013lxxiv.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Willaschek, M., 2018, Kant on the Sources of Metaphysics: The\nDialectic of Pure Reason , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wood, A., 1970, Kant\u2019s Moral Religion , Ithaca:\nCornell University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1984, \u201cKant\u2019s\nCompatibilism,\u201d in Wood (ed.), Self and Nature in\nKant\u2019s Philosophy , Ithaca and London: Cornell University\nPress, pp. 73\u2013101; reprinted in Kitcher (ed.) 1998, pp.\n239\u2013263.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1984",
+            "title": "\u2013\u2013\u2013, 1984, \u201cKant\u2019s\nCompatibilism,\u201d in Wood (ed.), Self and Nature in\nKant\u2019s Philosophy , Ithaca and London: Cornell University\nPress, pp. 73\u2013101; reprinted in Kitcher (ed.) 1998, pp.\n239\u2013263."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1999, Kant\u2019s Ethical\nThought , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1999",
+            "title": "\u2013\u2013\u2013, 1999, Kant\u2019s Ethical\nThought , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, Kant , Oxford:\nBlackwell.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, Kant , Oxford:\nBlackwell."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Zuckert, R., 2007, Kant on Beauty and Biology: An\nInterpretation of the Critique of Judgment , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

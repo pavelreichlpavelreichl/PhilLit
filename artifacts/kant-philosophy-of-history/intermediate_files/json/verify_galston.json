@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Kant and the Problem of History",
+    "author": "Galston",
+    "year": 1975
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/1864785",
+      "title": "Kant and the Problem of History",
+      "authors": [
+        {
+          "family": "Anchor",
+          "given": "Robert"
+        },
+        {
+          "family": "Galston",
+          "given": "William A."
+        }
+      ],
+      "editors": [],
+      "year": 1976,
+      "container_title": "The American Historical Review",
+      "volume": "81",
+      "issue": "4",
+      "page": "813",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/1864785",
+      "score": 35.668003
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

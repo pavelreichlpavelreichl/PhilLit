@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='German Idealism struggle against subjectivism...' author=Beiser year=2002
+[verify_paper.py] Paper found: German Idealism... (score: 70.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "German Idealism struggle against subjectivism",
+    "author": "Beiser",
+    "year": 2002
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4159/9780674020702",
+      "title": "German Idealism",
+      "authors": [
+        {
+          "family": "BEISER",
+          "given": "Frederick C."
+        }
+      ],
+      "editors": [],
+      "year": 2002,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Harvard University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4159/9780674020702",
+      "score": 70.315674
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

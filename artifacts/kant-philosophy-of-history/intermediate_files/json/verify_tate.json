@@ -1,0 +1,17 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Kant, providence, and the guarantee of progress",
+    "author": "Tate"
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (20.9) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2215610"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2215610",
+      "title": "Teleology and Scientific Method in Kant's Critique of Judgment",
+      "authors": [
+        {
+          "family": "Butts",
+          "given": "Robert E."
+        }
+      ],
+      "editors": [],
+      "year": 1990,
+      "container_title": "No\u00fbs",
+      "volume": "24",
+      "issue": "1",
+      "page": "1",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2215610"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

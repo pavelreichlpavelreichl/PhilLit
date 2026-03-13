@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel on history and freedom...' author=Avineri year=1972
+[verify_paper.py] Paper found: Comment on Doull’s ‘Hegel and Contemporary Liberal... (score: 33.1)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel on history and freedom",
+    "author": "Avineri",
+    "year": 1972
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/978-94-010-2434-1_20",
+      "title": "Comment on Doull\u2019s \u2018Hegel and Contemporary Liberalism, Anarchism, Socialism\u2019",
+      "authors": [
+        {
+          "family": "Avineri",
+          "given": "Shlomo"
+        }
+      ],
+      "editors": [],
+      "year": 1973,
+      "container_title": "The Legacy of Hegel",
+      "volume": "",
+      "issue": "",
+      "page": "249-252",
+      "publisher": "Springer Netherlands",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/978-94-010-2434-1_20",
+      "score": 33.09001
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

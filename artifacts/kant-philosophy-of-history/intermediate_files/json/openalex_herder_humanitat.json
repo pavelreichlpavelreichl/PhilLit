@@ -1,0 +1,380 @@
+[search_openalex.py] Searching OpenAlex: 'Herder Humanitat culture history humanity' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 9 papers...
+[search_openalex.py] Search complete: 9 papers found
+[search_openalex.py] Cached results (cache key: openalex_f4a08fc6c7f18610)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Herder Humanitat culture history humanity",
+  "results": [
+    {
+      "openalex_id": "W596007861",
+      "doi": "10.5840/humanitas2013261/26",
+      "title": "Building Bridges: The Importance of Johann Gottfried Herder's Humanism for the Humanities",
+      "authors": [
+        {
+          "name": "Alexander Math\u00e4s",
+          "openalex_id": "A5001689293",
+          "institutions": [
+            "University of Oregon"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Splintering of humanities has brought marginalization.Both the humanities and one of their primary foci.Humanism, have lost significance during the last three decades.In response to a number of pressures, the humanities have splintered into ever more specialized subdisciplines.Inside the academy the welcome study of issues, such as race, gender, ethnicity, religion, nationalism, and colonialism, has emphasized the particular and the local.Yet the splintering of the humanities into sub-disciplines has also resulted in their marginalization.^This marginalization has provoked a call for certain universal values, a common ground, to counteract the disorienting effect of diversification and the dwindling relevance of the humanities.^",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Humanitas",
+        "type": "journal",
+        "issn": [
+          "1066-7210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.pdcnet.org/collection/fshow?id=humanitas_2013_0026_0001_0094_0128&pdfname=humanitas_2013_0026_0001_0094_0128.pdf&file_type=pdf"
+      },
+      "topics": [
+        "Reformation and Early Modern Christianity",
+        "Religious, Philosophical, and Educational Studies",
+        "Historical Legal Studies and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W596007861"
+    },
+    {
+      "openalex_id": "W2099592787",
+      "doi": "10.7202/1012037ar",
+      "title": "\"This, I believe, is the only means of defying death\": Johann Gottfried Herder's Concept of Intellectual Biography",
+      "authors": [
+        {
+          "name": "Tobias Heinrich",
+          "openalex_id": "A5000358429",
+          "orcid": "https://orcid.org/0000-0001-6666-2275",
+          "institutions": [
+            "Ludwig Boltzmann Institute for Digital Health and Prevention",
+            "Ludwig Boltzmann Institute for Age Research"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "\"This, I believe, is the only means of defying death\": Johann Gottfried Herder's Concept of Intellectual Biography. Un article de la revue Lumen (Volume 28, 2009, p. 1-150) diffus\u00e9e par la plateforme \u00c9rudit.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Lumen Selected Proceedings from the Canadian Society for Eighteenth-Century Studies",
+        "type": "journal",
+        "issn": [
+          "1209-3696",
+          "1927-8284"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/lumen/2009-v28-lumen0253/1012037ar.pdf"
+      },
+      "topics": [
+        "German Literature and Culture Studies",
+        "Kantian Philosophy and Modern Interpretations",
+        "Alexander von Humboldt Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2099592787"
+    },
+    {
+      "openalex_id": "W4319037045",
+      "doi": "10.17161/ygas.v36i.19081",
+      "title": "Benjamin Franklin Seen with German Eyes: Selective Co-optations by German Authors",
+      "authors": [
+        {
+          "name": "Ernest A. Menze",
+          "openalex_id": "A5028430912",
+          "institutions": [
+            "Iona College"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-12-01",
+      "abstract": "This essay examines German perceptions of Benjamin Franklin's life and work.The approach is that of an overview, letting a few representative writers come to word.Any retrospective of American influences on Germany over time will always be subject to a measure of bias, caused by the consequences of the Second World War.Notwithstanding the \"many faces'' of Franklin that will be alluded to in the following, he is seen here in the main as anticipating an American pragmatism that differs markedly from the idealist preoccupations of German thought.The thesis of Franklin, endorsed here, as a teacher of democracy not heeded at a critical point in German history is informed by a decided partisanship on the author's part for the American way as pioneered and lived by the Philadelphian sage.The flaws in Franklin's character and conduct, so very much present in the critical eyes o f his countrymen, tend to be overlooked by his European admirers in the light o f his virtues and accomplishments.The impressive range of American Franklin scholarship, was expanded recently with the publication of Larry' E. Tisch's volume, presenting the papers given at a symposium on \"Franklin and Women\" and H. W. Brands's biography of \"The First American.\"*The views of American critics, conveniently assembled by Brian M. Barbour, of Franklin's many-sided face-or \"multiple selves\"-help the newcomer to the field find his bearing.^The flaws found by modern critics in Franklin's character and conduct make the reader of the idealized early German views pause.More telling yet is the criticism of Thoreau, Emerson, Hawthorne, Cooper, Poe, and Melville, summarized by Barbour: \"so fiindamental is the criticism of Franklinian assumptions carved out by the greatest American writers of the nineteenth century that in the twentieth novelists like Fitzgerald [Ga/s^] and Faulkner found it obviously fiere to exploit.\"^Though Barbour may be correct in finding the famous D. H. Lawrence essay \"neither gratutious nor unprecedented\" and in seeing it as a response within an established tradition,^ Lawrence's contemptuous depiction of \"Old Daddy Franklin\" as a \"cunning little Benjamin\" who \"drew up for himself a creed that should 'satisfy the professors of every religion, but shock none,\"' continues to shock modern sensibilities.*Franklin's German admirers certainly would have been offended had such slanderous accusations reached their ears.How many'-^and which-of Franklin's many selves, self-made or induced by the circumstances of his life, did German eyes",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Yearbook of German-American Studies",
+        "type": "journal",
+        "issn": [
+          "0741-2827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.ku.edu/ygas/article/download/19081/17068"
+      },
+      "topics": [
+        "Literature, Film, and Journalism Analysis",
+        "German Literature and Culture Studies",
+        "Freedom of Expression and Defamation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4319037045"
+    },
+    {
+      "openalex_id": "W1849126611",
+      "doi": "10.5209/rev_reaa.2002.v32.24786",
+      "title": "Jos\u00e9 Alcina Franch: curriculum vitae (1922-2001)",
+      "authors": [
+        {
+          "name": "Sin Autor",
+          "openalex_id": "A5110621278"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": null,
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Complutensian Scientific Journals (Complutense University of Madrid)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://revistas.ucm.es/index.php/REAA/article/view/REAA0202110013A"
+      },
+      "topics": [
+        "Historical Education and Society",
+        "History of Education in Spain",
+        "Educational Practices and Policies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1849126611"
+    },
+    {
+      "openalex_id": "W2591158839",
+      "doi": "10.12731/2077-1770-2016-4-2-106-114",
+      "title": "EDUCATION, CULTURE AND HUMANITY IN THE PHILOSOPHY OF J.G. HERDER",
+      "authors": [
+        {
+          "name": "Oleg V. Samylov",
+          "openalex_id": "A5003213792",
+          "orcid": "https://orcid.org/0000-0002-1527-8684"
+        },
+        {
+          "name": "Tatyana Simonenko",
+          "openalex_id": "A5011831418"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-23",
+      "abstract": "\u0426\u0435\u043b\u044c. \u0426\u0435\u043b\u044c\u044e \u0440\u0430\u0431\u043e\u0442\u044b \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0435 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0441\u043a\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u0433\u0435\u0440\u0434\u0435\u0440\u043e\u0432\u0441\u043a\u043e\u0439 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f \u0432 \u0435\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u043a \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0435 \u0438 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0443 \u0433\u0443\u043c\u0430\u043d\u043d\u043e\u0441\u0442\u0438. \u041c\u0435\u0442\u043e\u0434 \u0438\u043b\u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u044b. \u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u0441\u0440\u0430\u0432\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e-\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u043e\u0434\u044b. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b. \u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0442\u0435\u0441\u043d\u0430\u044f \u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c \u043d\u0430\u0442\u0443\u0440\u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u0418.\u0413. \u0413\u0435\u0440\u0434\u0435\u0440\u0430 \u0438 \u0435\u0433\u043e \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u0441\u043c\u044b\u0441\u043b \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0440\u0435\u0430\u043b\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u0433\u0443\u043c\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430. \u0420\u0430\u0437\u0432\u0435\u0440\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430 \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u043c \u043f\u0440\u043e\u0441\u0432\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u0430\u043a \u00ab\u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044f \u0433\u0443\u043c\u0430\u043d\u043d\u043e\u0441\u0442\u0438\u00bb, \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0430\u044f\u0441\u044f: \u0430) \u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438 \u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044e, \u043f\u043e\u0438\u0441\u043a\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438; \u0431) \u0432 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e\u043c, \u043d\u043e \u043d\u0435\u0443\u043a\u043b\u043e\u043d\u043d\u043e\u043c \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u0433\u0443\u043c\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438, \u0438\u043b\u0438 \u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u0434\u0443\u0445\u043e\u0432\u00ad\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u044b \u0435\u0433\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0439 \u0436\u0438\u0437\u043d\u0438; \u0432) \u0432 \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u0438 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u0439, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0435\u043c \u043d\u0430 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u0434\u0432\u043e\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0433\u0443\u043c\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438; \u0433) \u0432\u043e\u0437\u00ad\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043a\u0443\u043b\u044c\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438 \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u043e\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b. \u041e\u0431\u043b\u0430\u0441\u0442\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438, \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u043a\u0438, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043e\u043b\u043e\u0433\u0438\u044f.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Sovremennye issledovaniya sotsialnykh problem",
+        "type": "journal",
+        "issn": [
+          "2077-1770",
+          "2218-7405"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://journal-s.org/index.php/mrsp/article/download/9748/pdf"
+      },
+      "topics": [
+        "Education and Professional Development",
+        "Educational Methods and Teacher Development",
+        "Cultural, Linguistic, Economic Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2591158839"
+    },
+    {
+      "openalex_id": "W2995394058",
+      "doi": "10.7202/1064841ar",
+      "title": "Hendrik Birus's \"The Archeology of 'Humanism'\"",
+      "authors": [
+        {
+          "name": "Hazard Adams",
+          "openalex_id": "A5011199678"
+        },
+        {
+          "name": "Ernst Behler",
+          "openalex_id": "A5037460519"
+        },
+        {
+          "name": "Hendrik Birus",
+          "openalex_id": "A5017852207"
+        },
+        {
+          "name": "Jacques Derrida",
+          "openalex_id": "A5109864576"
+        },
+        {
+          "name": "Wolfgang Iser",
+          "openalex_id": "A5059837724"
+        },
+        {
+          "name": "Murray Krieger",
+          "openalex_id": "A5109068502"
+        },
+        {
+          "name": "Hillis Miller",
+          "openalex_id": "A5001890454"
+        },
+        {
+          "name": "Ludwig Pfeiffer",
+          "openalex_id": "A5057709291"
+        },
+        {
+          "name": "Bill Readings",
+          "openalex_id": "A5037071472"
+        },
+        {
+          "name": "Ching-hsien Wang",
+          "openalex_id": "A5060460632"
+        },
+        {
+          "name": "Pauline Yu",
+          "openalex_id": "A5086621687"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-07",
+      "abstract": "This roundtable discussion of \"The Archeology of 'Humanism'\", Hendrik Birus's contribution to the first International Conference for Humanistic Discourses, was held in April, 1994. The papers of this first meeting of the ICHD have been published in volume 4 of Surfaces (1994).",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Surfaces",
+        "type": "journal",
+        "issn": [
+          "1188-2492",
+          "1200-5320"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.erudit.org/fr/revues/surfaces/1996-v6-surfaces04892/1064841ar.pdf"
+      },
+      "topics": [
+        "Renaissance and Early Modern Studies",
+        "Art, Politics, and Modernism",
+        "Renaissance Literature and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2995394058"
+    },
+    {
+      "openalex_id": "W2025528920",
+      "doi": null,
+      "title": "Noucentisme i anglof\u00edlia: Matthew Arnold en l\u2019obra pedag\u00f2gica de Joan Palau Vera (1905-1919)",
+      "authors": [
+        {
+          "name": "S\u00edlvia Coll-Vinent",
+          "openalex_id": "A5078692730",
+          "orcid": "https://orcid.org/0000-0001-7562-0667"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "L\u2019estudi confirma la influ\u00e8ncia del sistema educatiu derivat de les doctrines de Matthew Arnold (i Thomas Arnold) a Catalunya, importades pel pedagog noucentista Joan Palau Vera (1866-1919) i experimentades al col\u00b7legi Mont d\u2019Or (1905-1912). S\u2019argumenta l\u2019afinitat del model arnoldi\u00e0 amb la concepci\u00f3 noucentista d\u2019educaci\u00f3, s\u00f2lidament vinculada a la cultura i a la instrucci\u00f3 c\u00edvica i moral. Complementen l\u2019estudi dos annexos: el primer inclou les tres gloses que Eugeni d\u2019Ors (X\u00e8nius) va dedicar a Palau amb motiu de la seva mort; el segon \u00e9s un text d\u2019Eladi Homs que mostra la perviv\u00e8ncia del model d\u2019educaci\u00f3 noucentista de base arnoldiana, encara en els anys 30 del segle passat.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Cient\u00edficas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11162/109900"
+      },
+      "topics": [
+        "History of Education in Spain",
+        "Educational Practices and Policies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2025528920"
+    },
+    {
+      "openalex_id": "W2811079031",
+      "doi": null,
+      "title": "Contemporary Republicanism in Spain: Dialogues with Liberalism and the Left",
+      "authors": [
+        {
+          "name": "Paul Cella",
+          "openalex_id": "A5055273320",
+          "orcid": "https://orcid.org/0000-0001-6761-6764"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This dissertation examines the work of three Spanish essayists, Salvador Giner, Helena B\u00c3\u00af\u00c2\u00bf\u00c2\u00bdjar, and Antoni Dom\u00c3\u00af\u00c2\u00bf\u00c2\u00bdnech, who defend republicanism, as opposed to liberalism or diverse left-wing alternatives, as the best current theory for articulating a progressive political vision. It argues that these essayists fruitfully complicate the \u00e2\u0080\u009crevival\u00e2\u0080\u009d of republican thought that began in Anglo-American academia in the late-twentieth century (and that is represented by J. G. A. Pocock, Quentin Skinner, and Philip Pettit) by turning the opposition between republicanism and (a relatively centrist) liberalism that is typical of the revival\u00e2\u0080\u0099s mainstream into a more dynamic discussion between republicanism, liberalism, and broadly left-wing positions, including various forms of Marxism, left-libertarianism and anti-statism, and post-modernism. Work that is being done in Spain yields a more nuanced definition of republicanism by giving reasons to prefer republicanism to political philosophies that raise different questions than liberalism does, and that challenge republicanism in ways that liberalism does not. Marxism is most appropriately met not through a discussion of liberty (liberal or republican?), but of how to explain social inequality and change (in conversation with Marxism, Giner and B\u00c3\u00af\u00c2\u00bf\u00c2\u00bdjar doubt that there is still a privileged revolutionary agent, like Marx\u00e2\u0080\u0099s proletariat); postmodern skepticism centers debates on the reliability of human reason, a subject about which liberals and republicans broadly agree and so rarely discuss (Dom\u00c3\u00af\u00c2\u00bf\u00c2\u00bdnech argues that it is important, pace postmodern relativists, that we be able confidently to denounce sources of social ills, and to do so on epistemologically secure ground); and anti-state theories invite principled defenses of the state form, which\u00e2\u0080\u0094perhaps because states are not in principle questioned by liberalism\u00e2\u0080\u0094are virtually absent from current republicanism (Giner defends the state because it can create conditions in which the typically diverse populations of modern Western countries can exchange conflicting ideas as civic and political equals). Spanish contributions to republicanism have been largely and unjustifiably overlooked. This dissertation partially remedies this oversight and calls for the work of Giner, B\u00c3\u00af\u00c2\u00bf\u00c2\u00bdjar, and Dom\u00c3\u00af\u00c2\u00bf\u00c2\u00bdnech to figure more prominently in political theoretical debates.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/29g0d8gf"
+      },
+      "topics": [
+        "Political Theory and Democracy",
+        "Social Sciences and Policies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2811079031"
+    },
+    {
+      "openalex_id": "W2991586942",
+      "doi": "10.17615/cdng-kj92",
+      "title": "Writing Methods: Models of Literary Creation and Reception in the Work of Caterina Albert i Parad\u00eds/V\u00edctor Catal\u00e0",
+      "authors": [
+        {
+          "name": "Kate Good",
+          "openalex_id": "A5064393112",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-13",
+      "abstract": "This dissertation studies one of Catalonia\u2019s most influential writers, Caterina Albert i Parad\u00eds (pseudonym V\u00edctor Catal\u00e0) (1869-1966), within the context of early-twentieth century Hispano-Catalan literary society. It demonstrates how, in a predominantly male profession, Albert/Catal\u00e0 and contemporary female writers in Spain and Latin America become the subjects of critical gossip and face gender-based critical restriction of their creative work. In the literary reception of these writers, allusions to their deviant bodies, gender identities, and sexualities distract and detract from more rigorous formal assessments of their works. I argue that Albert/Catal\u00e0 puts forth models of literary creation and methods of reception in her novels, short stories, and correspondence that function to defend her artistic liberty and to counter a culture of gendered critique. In this way, this dissertation shows how Albert\u2019s narrative methods of writing (and reading) worked to create a space for the creative expression of women writers in a rapidly modernizing nation. This research works to bridge the gap between Catalan and Spanish-language literature by calling attention to the contributions of a canonical author who remains\u2014despite her many achievements\u2014overlooked by critics in the Spanish and Anglo-American academies.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cdr.lib.unc.edu/record/uuid:b609eade-c101-48a6-a43c-79c42bcf83f5"
+      },
+      "topics": [
+        "Comparative Literary Analysis and Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2991586942"
+    }
+  ],
+  "count": 9,
+  "errors": []
+}

@@ -1,0 +1,959 @@
+[search_openalex.py] Searching OpenAlex: 'Kant Hegel philosophy of history' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_b356e9cf84d29c12)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Kant Hegel philosophy of history",
+  "results": [
+    {
+      "openalex_id": "W2287651368",
+      "doi": "10.1017/ccol0521651786",
+      "title": "The Cambridge Companion to German Idealism",
+      "authors": [
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        },
+        {
+          "name": "Frederick Beiser",
+          "openalex_id": ""
+        },
+        {
+          "name": "Paul Guyer",
+          "openalex_id": ""
+        },
+        {
+          "name": "Allen W. Wood",
+          "openalex_id": ""
+        },
+        {
+          "name": "Daniel O. Dahlstrom",
+          "openalex_id": ""
+        },
+        {
+          "name": "Paul Franks",
+          "openalex_id": ""
+        },
+        {
+          "name": "Rolf-peter Horstmann",
+          "openalex_id": ""
+        },
+        {
+          "name": "Charles Larmore",
+          "openalex_id": ""
+        },
+        {
+          "name": "Terry Pinkard",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robert Pippin",
+          "openalex_id": ""
+        },
+        {
+          "name": "G\u00fcnter Z\u00f6ller",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dieter Sturma",
+          "openalex_id": ""
+        },
+        {
+          "name": "Andrew Bowie",
+          "openalex_id": ""
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-10-30",
+      "abstract": "The Cambridge Companion to German Idealism, first published in 2000, offers a comprehensive, penetrating and informative guide to what is regarded as the classical period of German philosophy. Kant, Fichte, Hegel and Schelling are all discussed in detail, together with a number of their contemporaries, such as H\u00f6lderlin and Schleiermacher, whose influence was considerable but whose work is less well known in the English-speaking world. The essays in the volume trace and explore the unifying themes of German Idealism, and discuss their relationship to Romanticism, the Enlightenment, and the culture of seventeenth- and eighteenth-century Europe. The result is an illuminating overview of a rich and complex philosophical movement, and will appeal to a wide range of readers in philosophy, German studies, theology, literature, and the history of ideas.",
+      "cited_by_count": 211,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "German Literature and Culture Studies",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2287651368"
+    },
+    {
+      "openalex_id": "W4239927322",
+      "doi": "10.7312/chea13018",
+      "title": "Spectral Nationality",
+      "authors": [
+        {
+          "name": "Pheng Cheah",
+          "openalex_id": "A5070890928"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-12-31",
+      "abstract": "This far-ranging and ambitious attempt to rethink postcolonial theory's discussion of the nation and nationalism brings the problems of the postcolonial condition to bear on the philosophy of freedom. Closely identified with totalitarianism and fundamentalism, the nation-state has a tainted history of coercion, ethnic violence, and even, as in ultranationalist Nazi Germany, genocide. Most contemporary theorists are therefore skeptical, if not altogether dismissive, of the idea of the nation and the related metaphor of the political body as an organism. Going against orthodoxy, Pheng Cheah retraces the universal-rationalist foundations and progressive origins of political organicism in the work of Kant and its development in philosophers in the German tradition such as Fichte, Hegel, and Marx. Cheah argues that the widespread association of freedom with the self-generating dynamism of life and culture's power of transcendence is the most important legacy of this tradition. Addressing this legacy's manifestations in Fanon and Cabral's theories of anticolonial struggle and contemporary anticolonial literature, including the Buru Quartet by Indonesian writer Pramoedya Ananta Toer, and the Kenyan writer Ngugi Wa Thiong'o's nationalist novels, Cheah suggests that the profound difficulties of achieving freedom in the postcolonial world indicate the need to reconceptualize freedom in terms of the figure of the specter rather than the living organism.",
+      "cited_by_count": 313,
+      "type": "book",
+      "source": {
+        "name": "Columbia University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Global Maritime and Colonial Histories"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4239927322"
+    },
+    {
+      "openalex_id": "W1579652762",
+      "doi": "10.5860/choice.49-5602",
+      "title": "The evolution of modern metaphysics: making sense of things",
+      "authors": [],
+      "publication_year": 2012,
+      "publication_date": "2012-06-01",
+      "abstract": "Preface Introduction Part I. The Early Modern Period: 1. Descartes: metaphysics in the service of science 2. Spinoza: metaphysics in the service of ethics 3. Leibniz: metaphysics in the service of theodicy 4. Hume: metaphysics committed to the flames? 5. Kant: the possibility, scope, and limits of metaphysics 6. Fichte: transcendentalism versus naturalism 7. Hegel: transcendentalism-cum-naturalism or, absolute idealism Part II. The Late Modern Period I: The Analytic Tradition: 8. Frege: sense under scrutiny 9. The early Wittgenstein: the possibility, scope, and limits of sense or, sense, senselessness, and nonsense 10. The later Wittgenstein: bringing words back from their metaphysical to their everyday use 11. Carnap: the elimination of metaphysics? 12. Quine: the ne plus ultra of naturalism 13. Lewis: metaphysics in the service of philosophy 14. Dummett: the logical basis of metaphysics Part III. The Late Modern Period II: Non-Analytic Traditions: 15. Nietzsche: sense under scrutiny again 16. Bergson: metaphysics as pure creativity 17. Husserl: making sense of making sense 18. Heidegger: letting being be 19. Collingwood: metaphysics as history 20. Derrida: metaphysics deconstructed? 21. Deleuze: something completely different Conclusion.",
+      "cited_by_count": 318,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Wittgensteinian philosophy and applications"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1579652762"
+    },
+    {
+      "openalex_id": "W3125243075",
+      "doi": "10.4324/9780203076316",
+      "title": "Mind, Reason, and Being-in-the-World",
+      "authors": [],
+      "publication_year": 2013,
+      "publication_date": "2013-03-05",
+      "abstract": "John McDowell and Hubert L. Dreyfus are philosophers of world renown, whose work has decisively shaped the fields of analytic philosophy and phenomenology respectively. Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate opens with their debate over one of the most important and controversial subjects of philosophy: is human experience pervaded by conceptual rationality, or does experience mark the limits of reason? Is all intelligibility rational, or is there a form of intelligibility at work in our skilful bodily rapport with the world that eludes our intellectual capacities? McDowell and Dreyfus provide a fascinating insight into some fundamental differences between analytic philosophy and phenomenology, as well as areas where they may have something in common. Fifteen specially commissioned chapters by distinguished international contributors enrich the debate inaugurated by McDowell and Dreyfus, taking it in a number of different and important directions. Fundamental philosophical problems discussed include: the embodied mind, subjectivity and self-consciousness, intentionality, rationality, practical skills, human agency, and the history of philosophy from Kant to Hegel to Heidegger to Merleau-Ponty. With the addition of these outstanding contributions, Mind, Reason, and Being-in-the-World is essential reading for students and scholars of analytic philosophy and phenomenology. \u00a9 2013 Joseph K. Schear.",
+      "cited_by_count": 212,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3125243075"
+    },
+    {
+      "openalex_id": "W658043318",
+      "doi": null,
+      "title": "On Paul Ricoeur: Narrative and Interpretation",
+      "authors": [
+        {
+          "name": "David Wood",
+          "openalex_id": "A5109568305",
+          "orcid": "https://orcid.org/0009-0005-8537-0397"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-11-01",
+      "abstract": "This book examines the later work of Paul Ricoeur, particularly his major work, Time and Narrative. The essays, including three pieces by Ricoeur himself, consider this important study, extending and developing the debate it has inspired. Paul Ricoeur's study of the intertwining of time and narrative proposes and examines the possibility that narrative could remedy a fatal deficiency in any purely phenomenological approach. He analyzed both literary and historical writing, from Proust to Braudel, as well as key figures in the history of philosophy: Aristotle, Augustine, Kant, Hegel, Husserl and Heidegger. His own recognition of his limited success in expunging aporia opens onto the positive discovery of the importance of narrative identity, on which Ricoeur writes here.",
+      "cited_by_count": 171,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Hermeneutics and Narrative Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W658043318"
+    },
+    {
+      "openalex_id": "W572622474",
+      "doi": "10.5860/choice.47-2177",
+      "title": "Universal emancipation: the Haitian Revolution and the Radical Enlightenment",
+      "authors": [],
+      "publication_year": 2009,
+      "publication_date": "2009-12-01",
+      "abstract": "Unlike the American and French Revolutions, the Haitian Revolution was the first in a modern state to implement human rights universally and unconditionally. Going well beyond the selective emancipation of white adult male property owners, the Haitian Revolution is of vital importance, Nick Nesbitt argues, in thinking today about the urgent problems of social justice, human rights, imperialism, torture, and, above all, human freedom.Combining archival research, political philosophy, and intellectual history, Nesbitt explores this fundamental event of modern history - the invention of universal emancipation - both in the context of the Age of Enlightenment (Spinoza, Rousseau, Kant, Hegel) and in relation to certain key figures (Ranciere, Laclau, Habermas) and trends (such as the turn to ethics, human rights, and universalism) in contemporary political philosophy. In doing so, he elucidates the theoretical implications of Haiti's revolution both for the eighteenth century and for the twenty-first century. Universal Emancipation will be of interest not only to scholars and students of the Haitian Revolution and postcolonial francophone studies but also to readers interested in critical theory and its relation to history and political science.",
+      "cited_by_count": 165,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W572622474"
+    },
+    {
+      "openalex_id": "W581733685",
+      "doi": "10.5860/choice.47-0197",
+      "title": "The time of our lives: a critical history of temporality",
+      "authors": [],
+      "publication_year": 2009,
+      "publication_date": "2009-09-01",
+      "abstract": "The project of all philosophy may be to gain reconciliation with time, even if not every philosopher has dealt with expressly. A confrontation with the passing of and with human finitude runs through the history of philosophy as an ultimate concern. In this genealogy of the concept of temporality, David Hoy examines the emergence in a post-Kantian continental philosophy of a focus on the lived experience of the time of our lives rather than on the of the universe. The purpose is to see how phenomenological and poststructuralist philosophers have tried to locate the source of temporality, how they have analyzed time's passing, and how they have depicted our relation to once it has been -- in a Proustian sense -- regained. Hoy engages with competing theoretical tactics for reconciling us to our fleeting temporality, drawing on work by Kant, Heidegger, Hegel, Husserl, Merleau-Ponty, Nietzsche, Gadamer, Sartre, Bourdieu, Foucault, Bergson, Deleuze, Zizek, and Derrida. Hoy considers four existential strategies for coping with the apparent flow of temporality, including Proust's passive and Walter Benjamin's active reconciliation through memory, Zizek's critique of poststructuralist politics, Foucault's confrontation with the temporality of power, and Deleuze's account of Aion and Chronos. He concludes by exploring whether a dual temporalization could be what constitutes the singular time of our lives.",
+      "cited_by_count": 195,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Contemporary Literature and Criticism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W581733685"
+    },
+    {
+      "openalex_id": "W4229986618",
+      "doi": "10.1093/acprof:oso/9780199685530.001.0001",
+      "title": "The Free Development of Each",
+      "authors": [
+        {
+          "name": "Allen W. Wood",
+          "openalex_id": "A5104029547"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-16",
+      "abstract": "Abstract This book contains chapters on right and ethics in classical German philosophy of the late eighteenth and nineteenth centuries. Figures discussed are Kant, Herder, Fichte, Hegel, and Marx. Topics include freedom, rationality, moral duty, moral responsibility, right, recognition, society, history, social justice, politics, equality, and coercion. The approach is to emphasize continuities between the five thinkers more than their disagreements, and to suggest ways in which classical German thought on these topics is still relevant today. The book argues that individual freedom and community are not incompatible ends, but even require each other; and that freedom and coercion are not polar opposites, but that both moral freedom and social freedom consist partly in certain kinds of self-coercion and social or state coercion.",
+      "cited_by_count": 130,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Philosophical Ethics and Theory",
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4229986618"
+    },
+    {
+      "openalex_id": "W2505375527",
+      "doi": "10.1093/acprof:oso/9780199205349.001.0001",
+      "title": "Kant and the Historical Turn",
+      "authors": [
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "A5027136255",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-09-14",
+      "abstract": "Abstract Immanuel Kant's work changed the course of modern philosophy; this book examines how. The book compares the philosophical system set out in Kant's Critiques with the work of the major philosophers before and after him (Descartes, Berkeley, Hume, Reid, Jacobi, Reinhold, the early German Romantics, Hegel, Feuerbach, and Marx). A systematic introduction argues that complexities in the interpretation of Kant's system led to a new emphasis on history, subjectivity, and aesthetics. This emphasis defined a distinctive interpretive style of philosophizing that has become especially influential and fruitful once again in our own time. The individual chapters provide case studies in support of the thesis that late 18th-century reactions to Kant initiated an \u2018historical turn\u2019, after which historical and systematic considerations became joined in a way that fundamentally distinguishes philosophy from science and art, without falling back into mere historicism. In this way it is shown that philosophy's \u2018historical turn\u2019 is both similar to and unlike the turn to history undertaken by most other disciplines in this era. Part One argues that close attention to the historical context of Kant's philosophy is crucial to avoiding frequent misunderstandings that have arisen in comparing Kant with other major modern philosophers. Part Two contends that it was mainly the writing of Kant's first major interpreter that led to special philosophical emphasis on history in other major post-Kantian thinkers. Part Three argues that Hegel's system and its influence on post-Hegelians were determined largely by variations on Reinhold's historical turn. Part Four engages with major contemporary philosophers who have combined a study of particular themes in Kant and German Idealism with an appreciation for phenomena closely associated with the general notion of an historical turn in philosophy.",
+      "cited_by_count": 105,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2505375527"
+    },
+    {
+      "openalex_id": "W1484794259",
+      "doi": "10.1093/oxfordhb/9780199696543.001.0001",
+      "title": "The Oxford Handbook of German Philosophy in the Nineteenth Century",
+      "authors": [
+        {
+          "name": "Michael \u039d. Forster",
+          "openalex_id": "A5014194089",
+          "orcid": "https://orcid.org/0000-0002-9445-1333"
+        },
+        {
+          "name": "Kristin Gjesdal",
+          "openalex_id": "A5031169165"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-01",
+      "abstract": "No period of history has been richer in philosophical discoveries than Germany during the eighteenth and nineteenth centuries. And while it was the eighteenth century that saw Germany attain maturity in the discipline (above all in the works of Immanuel Kant), it was arguably the nineteenth century that bore the greatest philosophical fruits. This Handbook provides a comprehensive introduction to the philosophy of nineteenth-century Germany that will be helpful to readers of very different sorts, all the way from laymen to undergraduates to experts. The volume is divided into four parts. The first Part explores individual philosophers, including Fichte, Hegel, Kierkegaard, and Nietzsche, amongst other great thinkers of the period. The second addresses key philosophical movements: Idealism, Romanticism, Neo-Kantianism, and Existentialism. The essays in the third Part engage with different areas of philosophy that received particular attention at this time, including philosophy of nature and of science, philosophy of mind and language, the philosophy of education, and the relationship between philosophy and science, or Wissenschaft (a German term that is famously less narrowly restricted to natural science and disciplines modeled on it than its English counterpart). Finally, the contributors turn to discuss central philosophical topics, from skepticism to materialism, from dialectics to ideas of historical and cultural Otherness, and from the reception of antiquity to atheism",
+      "cited_by_count": 123,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1484794259"
+    },
+    {
+      "openalex_id": "W1599444280",
+      "doi": "10.5860/choice.51-6680",
+      "title": "The Romantic absolute: being and knowing in early German Romantic philosophy, 1795-1804",
+      "authors": [],
+      "publication_year": 2014,
+      "publication_date": "2014-07-16",
+      "abstract": "The absolute was one of the most significant philosophical concepts in the early nineteenth century, particularly for the German romantics. Its exact meaning and its role within philosophical romanticism remain, however, a highly contested topic among contemporary scholars. In The Romantic Absolute, Dalia Nassar offers an illuminating new assessment of the romantics and their understanding of the absolute. In doing so, she fills an important gap in the history of philosophy, especially with respect to the crucial period between Kant and Hegel. Scholars today interpret philosophical romanticism along two competing lines: one emphasizes the romantics' concern with epistemology, the other their concern with metaphysics. Through careful textual analysis and systematic reconstruction of the work of three major romantics - Novalis, Friedrich Schlegel, and Friedrich Schelling - Nassar shows that neither interpretation is fully satisfying. Rather, she argues, one needs to approach the absolute from both perspectives. Rescuing these philosophers from frequent misunderstanding, and even dismissal, she articulates not only a new angle on the philosophical foundations of romanticism but on the meaning and significance of the notion of the absolute itself.",
+      "cited_by_count": 144,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophy and Historical Thought",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1599444280"
+    },
+    {
+      "openalex_id": "W155265375",
+      "doi": "10.1017/cbo9781139135139",
+      "title": "Spinoza and German Idealism",
+      "authors": [
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "A5086985374",
+          "orcid": "https://orcid.org/0000-0002-2478-5610",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Yitzhak Y. Melamed",
+          "openalex_id": "A5062922985",
+          "orcid": "https://orcid.org/0000-0002-6090-5763",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Della Rocca",
+          "openalex_id": ""
+        },
+        {
+          "name": "Omri Boehm",
+          "openalex_id": ""
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael N. Forster",
+          "openalex_id": ""
+        },
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Johannes Haag",
+          "openalex_id": ""
+        },
+        {
+          "name": "Allen Wood",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dalia Nassar",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Vater",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yitzhak Y. Melamed",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dean Moyar",
+          "openalex_id": ""
+        },
+        {
+          "name": "Gunnar Hindrichs",
+          "openalex_id": ""
+        },
+        {
+          "name": "Frederick Beiser",
+          "openalex_id": ""
+        },
+        {
+          "name": "Don Garrett",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-09-13",
+      "abstract": "There can be little doubt that without Spinoza, German Idealism would have been just as impossible as it would have been without Kant. Yet the precise nature of Spinoza's influence on the German Idealists has hardly been studied in detail. This volume of essays by leading scholars sheds light on how the appropriation of Spinoza by Fichte, Schelling and Hegel grew out of the reception of his philosophy by, among others, Lessing, Mendelssohn, Jacobi, Herder, Goethe, Schleiermacher, Maimon and, of course, Kant. The volume thus not only illuminates the history of Spinoza's thought, but also initiates a genuine philosophical dialogue between the ideas of Spinoza and those of the German Idealists. The issues at stake - the value of humanity; the possibility and importance of self-negation; the nature and value of reason and imagination; human freedom; teleology; intuitive knowledge; the nature of God - remain of the highest philosophical importance today.",
+      "cited_by_count": 89,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W155265375"
+    },
+    {
+      "openalex_id": "W410064923",
+      "doi": "10.1017/cbo9780511498046",
+      "title": "The Innovations of Idealism",
+      "authors": [
+        {
+          "name": "R\u00fcdiger Bubner",
+          "openalex_id": "A5031163259",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-08-28",
+      "abstract": "This collection of essays, first published in German in 1995, has been written by the foremost representative of the hermeneutical approach in German philosophy. It offers a quite original interpretation of the tradition of German Idealist thought - Kant, Fichte, Schelling, Hegel. R\u00fcdiger Bubner seeks to cast fresh light on the genuine philosophical innovations in the complex of issues and aspirations which dominated German intellectual life from 1780 to 1830. His major question is: in what way did the Idealists change philosophy, reformulate traditional issues, and especially, reinterpret traditional figures? His answer to this question involves focusing on the literary and cultural spirit of the time, thus broadening the question of philosophical innovation and locating it within the wider framework of innovations and continuities within the Western intellectual tradition itself. This collection will be of special interest to students of German philosophy, literary theory and the history of ideas",
+      "cited_by_count": 86,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W410064923"
+    },
+    {
+      "openalex_id": "W588947672",
+      "doi": "10.5860/choice.51-6669",
+      "title": "Late German idealism: Trendelenburg and Lotze",
+      "authors": [],
+      "publication_year": 2014,
+      "publication_date": "2014-07-16",
+      "abstract": "GENERAL INTRODUCTION: IDEALISM AFTER HEGEL PART I: TRENDELENBURG 1. Place in History 2. Early Years 3. Logic and Metaphysics 4. Ethical and Political Theory 5. Aesthetics, Religion, and Pedagogics 6. Controversy over Kant Epilogue PART II: LOTZE 1. Relevance of Lotze 2. Youth and Education (Zittau and Leipzig, 1817-1839) 3. Early Metaphysics and Logic (Leipzig, 1839-1844) 4. Aesthetics, Physiology, and Psychology (Gottingen, 1844-54) 5. Mikrokosmus (Gottingen, 1854-1864) 6. Practical Philosophy (Gottingen-Berlin, 1857-1881) Epilogue Bibliography",
+      "cited_by_count": 84,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Philosophy, Science, and History",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W588947672"
+    },
+    {
+      "openalex_id": "W4253732624",
+      "doi": "10.1017/cbo9780511736131",
+      "title": "Fichte's Social and Political Philosophy",
+      "authors": [
+        {
+          "name": "David James",
+          "openalex_id": "A5090685005",
+          "institutions": [
+            "University of the Witwatersrand"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-20",
+      "abstract": "In this study of Fichte's social and political philosophy, David James offers an interpretation of Fichte's most famous writings in this area, including his Foundations of Natural Right and Addresses to the German Nation, centred on two main themes: property and virtue. These themes provide the basis for a discussion of such issues as what it means to guarantee the freedom of all the citizens of a state, the problem of unequal relations of economic dependence between states, and the differences and connections between the legal and political sphere of right and morality. James also relates Fichte's central social and political ideas to those of other important figures in the history of philosophy, including Locke, Kant and Hegel, as well as to the radical phase of the French Revolution. His account will be of importance to all who are interested in Fichte's philosophy and its intellectual and political context.",
+      "cited_by_count": 75,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4253732624"
+    },
+    {
+      "openalex_id": "W2792738325",
+      "doi": "10.1017/9781139050494",
+      "title": "Georg Wilhelm Friedrich Hegel: &lt;I&gt;The Phenomenology of Spirit&lt;/I&gt;",
+      "authors": [
+        {
+          "name": "G. W. F. Hegel",
+          "openalex_id": "A5020420483"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-02-12",
+      "abstract": "Hegel's The Phenomenology of Spirit (1807) is one of the most influential texts in the history of modern philosophy. In it, Hegel proposed an arresting and novel picture of the relation of mind to world and of people to each other. Like Kant before him, Hegel offered up a systematic account of the nature of knowledge, the influence of society and history on claims to knowledge, and the social character of human agency itself. A bold new understanding of what, after Hegel, came to be called 'subjectivity' arose from this work, and it was instrumental in the formation of later philosophies, such as existentialism, Marxism, and American pragmatism, each of which reacted to Hegel's radical claims in different ways. This edition offers a new translation, an introduction, and glossaries to assist readers' understanding of this central text, and will be essential for scholars and students of Hegel.",
+      "cited_by_count": 46,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Phenomenology and Existential Philosophy",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2792738325"
+    },
+    {
+      "openalex_id": "W4238752367",
+      "doi": "10.4324/9780203816943",
+      "title": "On Habit",
+      "authors": [
+        {
+          "name": "Clare Carlisle",
+          "openalex_id": "A5045896700"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-14",
+      "abstract": "For Aristotle, excellence is not an act but a habit, and Hume regards habit as \u2018the great guide of life\u2019. However, for Proust habit is problematic: \u2018if habit is a second nature, it prevents us from knowing our first.\u2019 What is habit? Do habits turn us into machines or free us to do more creative things? Should religious faith be habitual? Does habit help or hinder the practice of philosophy? Why do Luther, Spinoza, Kant, Kierkegaard and Bergson all criticise habit? If habit is both a blessing and a curse, how can we live well in our habits? In this thought-provoking book Clare Carlisle examines habit from a philosophical standpoint. Beginning with a lucid appraisal of habit\u2019s philosophical history she suggests that both receptivity and resistance to change are basic principles of habit-formation. Carlisle shows how the philosophy of habit not only anticipates the discoveries of recent neuroscience but illuminates their ethical significance. She asks whether habit is a reliable form of knowledge by examining the contrasting interpretations of habitual thinking offered by Spinoza and Hume. She then turns to the role of habit in the good life, tracing Aristotle\u2019s legacy through the ideas of Joseph Butler, Hegel, and F\u00e9lix Ravaisson, and assessing the ambivalent attitudes to habit expressed by Nietzsche and Proust. She argues that a distinction between habit and practice helps to clarify this ambivalence, particularly in the context of habit and religion, where she examines both the theology of habit and the repetitions of religious life. She concludes by considering how philosophy itself is a practice of learning to live well with habit.",
+      "cited_by_count": 110,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "French Literature and Criticism",
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4238752367"
+    },
+    {
+      "openalex_id": "W2028704093",
+      "doi": "10.1353/hph.0.0012",
+      "title": "Between Kant and Hegel. Lectures on German Idealism (review)",
+      "authors": [
+        {
+          "name": "Daniel Breazeale",
+          "openalex_id": "A5026211511"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-04-01",
+      "abstract": "Reviewed by: Between Kant and Hegel. Lectures on German Idealism Daniel Breazeale Dieter Henrich. Between Kant and Hegel. Lectures on German Idealism. David S. Pacini, editor. Cambridge, MA: Harvard University Press, 2003. Pp. xliii + 341. Cloth, $62.00. As the author explains, the title of this work is intended to distinguish it from ordinary, Whiggish accounts of the development of German philosophy \u201cfrom Kant to Hegel.\u201d Instead, Heinrich treats the positions of Kant, Fichte, and Hegel as potentially viable alternatives, none of which must be viewed as aufgehoben by those that followed, and all of which deserve reconsideration by contemporary philosophers. Dieter Henrich is known for two things: first, for championing a minutely-detailed, revisionist approach to the history of post-Kantian philosophy; and second, for his insistence that the central problem of German idealism is that of self-consciousness. Both elements are well represented in this book, which is a revised version of a series of lectures delivered (in English) at Harvard in 1973. The text thus antedates many of the more recent discoveries and claims of Henrich and his student collaborators in the \u201cJena project,\u201d though some of the results are alluded to in the useful footnotes and apparatus provided by David S. Pacini, who attended the original lectures and has expert knowledge of Henrich\u2019s more recent work. Part 1 commences with a masterful overview of some of the distinctive features of German philosophy in the decades following the publication of Kant\u2019s Critiques, with one lecture devoted primarily to Fichte, another to Kant\u2019s concept of self-consciousness, and a third to the systematic role of freedom in Kant\u2019s system. Part 2 focuses on the earliest reception of Kant\u2019s philosophy and its social, religious, and philosophical context. A lecture on how Kant was criticized by and responded to defenders of direct intuition is followed by two lectures on Jacobi\u2019s criticisms of Kantianism, which contain a wealth of information concerning the influence upon the idealists of Platonism, Stoicism, Neo-Platonism, Spinozism, Lessing, and the contemporary \u201ctheology of the spirit.\u201d These lectures clearly show why the next generation of idealists saw themselves challenged to construct a \u201cSpinozism of freedom.\u201d Part 2 concludes with two perfunctory lectures on Reinhold\u2019s \u201cElementary Philosophy,\u201d followed by another on the skepticism of G. E. Schulze (\u201cAnesidemus\u201d), whose critique of Kant and Reinhold was instrumental in making questions of method of central philosophical concern. Part 3 is devoted to Fichte, whose importance for the development of philosophy after Kant can hardly, in Henrich\u2019s view, be overemphasized and whose influence \u201cderived from his uncanny ability to penetrate the intellectual life of an entire epoch, an accomplishment [End Page 330] that even Hegel did not rival\u201d (184). The first of the eight lectures on Fichte provides a detailed analysis of Fichte\u2019s Anesidemus review (1794), in which Henrich discerns evidence of the fateful transformation of transcendental philosophy into an explicit theory of mental activity based upon a method of internal self-awareness and description (\u201cintellectual intuition\u201d). The next two lectures are devoted to a close reading of Fichte\u2019s unpublished manuscript from the same period, \u201cPersonal Mediations on Elementary Philosophy,\u201d which, according to Henrich, is where the \u201cdialectical method\u201d first appears in post-Kantian philosophy. Henrich has little to say about the actual content and systematic structure of Fichte\u2019s only full-scale published presentation of his system, in the Foundation of the Entire Wissenschaftslehre, offering instead a rather free \u201creconstruction\u201d of some of its more important doctrines, on time consciousness and the hovering of the imagination. But he does provide an insightful analysis of Fichte\u2019s theory of consciousness as a self-referring and self-explaining activity and a spirited defense of Fichte\u2019s employment of the term \u2018setzen\u2019 (\u201cpositing\u201d) to describe this activity. The final lecture on Fichte discusses some of the difficulties implicit in Fichte\u2019s \u201cdynamic monism\u201d and how he tried\u2014unsuccessfully, in Henrich\u2019s view\u2014to resolve them in subsequent, unpublished versions of his system, where he moved from his early, more \u201cdescriptive\u201d theory of the mind toward a more \u201cexplanatory\u201d account, according to which the ground of self-consciousness lies outside the mind itself (in...",
+      "cited_by_count": 59,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophical Ethics and Theory",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2028704093"
+    },
+    {
+      "openalex_id": "W578201897",
+      "doi": "10.1515/9781400827169",
+      "title": "Selected Writings on Aesthetics",
+      "authors": [
+        {
+          "name": "Johann GottfriedHG Herder",
+          "openalex_id": "A5079310546"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-12-31",
+      "abstract": "A seminal figure in the philosophy of history, culture, and language, Johann Gottfried Herder (1744-1803) also produced some of the most important and original works in the history of aesthetic theory. A student of Kant, he spent much of his life striving to reconcile the opposing poles of Enlightenment thought represented by his early mentors. His ideas influenced Hegel, Schleiermacher, Nietzsche, Dilthey, J. S. Mill, and Goethe. This book presents most of Herder's important writings on aesthetics, including the main sections of one of his major untranslated works, Kritische W\u00e4lder (Critical Forests). These notes, essays, and treatises, the majority of which appear here in English for the first time, show this idiosyncratic thinker both deeply rooted in the controversies of his day and pointing the way to future developments in aesthetics. Chosen to reflect the extent and diversity of Herder's concerns, the texts cover such topics as the psychology and physiology of aesthetic perception, the classification of the arts, taste, Shakespeare, the classical tradition, and the relationship between art and morality. Few thinkers have reflected so sensitively and productively on the cultural, historical, anthropological, ethical, and theological dimensions of art and the creative process. With this book, the importance of aesthetics to the evolution and texture of Herder's own thought, as well as his profound contribution to that discipline, comes fully into view.",
+      "cited_by_count": 107,
+      "type": "book",
+      "source": {
+        "name": "Princeton University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Visual Culture and Art Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W578201897"
+    },
+    {
+      "openalex_id": "W570148402",
+      "doi": "10.1093/acprof:oso/9780199685530.001.0001",
+      "title": "The Free Development of Each: Studies on Freedom, Right, and Ethics in Classical German Philosophy",
+      "authors": [
+        {
+          "name": "Allen W. Wood",
+          "openalex_id": "A5104029547"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-15",
+      "abstract": "'The Free Development of Each' collects 12 essays on the history of German philosophy by Allen W. Wood, one of the leading scholars in the field. They explore moral philosophy, politics, society, and history in the works of Kant, Herder, Fichte, Hegel, and Marx, and share the basic theme of freedom, as it appears in morality and in politics.",
+      "cited_by_count": 37,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ci.nii.ac.jp/ncid/BB15245454"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W570148402"
+    },
+    {
+      "openalex_id": "W320824093",
+      "doi": null,
+      "title": "Critical Jurisprudence: The Political Philosophy of Justice",
+      "authors": [
+        {
+          "name": "Costas Douzinas",
+          "openalex_id": "A5074718806"
+        },
+        {
+          "name": "Adam Gearey",
+          "openalex_id": "A5072348899",
+          "orcid": "https://orcid.org/0000-0003-0323-3902"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "Book synopsis: Jurisprudence is the prudence of jus, law's consciousness and conscience. Throughout history, when thinkers wanted to contemplate the organisation of society or the relationship between authority and the subject, they turned to law. All great philosophers, from Plato to Hobbes, Kant, Hegel, Marx and Weber had either studied the law or had a deep understanding of legal operations. But jurisprudence is also the conscience of law, the exploration of law's justice and of an ideal law or equity at the bar of which state law is always judged. Jurisprudence brings together 'is' and 'ought', the positive and the normative, law and justice. &#13;\\n&#13;\\nBut after a long process of decay, legal theory is today characterised by cognitive and moral poverty. Jurisprudence has become restricted and academically peripheral, a guidebook to technocratic legalism and a legitimation of the existent. Critical jurisprudence returns to the classical tradition of a general philosophy of law and adopts a much wider concept of legality. It is concerned both with posited law and with the law of the law. All legal aspects of the economic, political, emotional and physical modes of production and reproduction of society are part of critical jurisprudence. This widening of scope allows a radical rethinking of the nature of rights, justice, sovereignty and judgement. A political philosophy of justice today must examine the political economy of law; transitions from Empire to nation; ideological and imaginary constructions through which we understand ourselves and relate to others; ways in which gender, race or sexuality create forms of identity that both discipline bodies and offer sites of resistance. Law's complicity with political oppression, violence and racism has to be faced before it is possible to speak of a new beginning for legal thought, which in turn is the necessary precondition for a theory of justice. Critical Jurisprudence offers an ethics of law against the nihilism of power and an aesthetics of existence for the melancholic lawyer.",
+      "cited_by_count": 136,
+      "type": "book",
+      "source": {
+        "name": "BIROn (Birkbeck, University of London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Law in Society and Culture",
+        "Legal Education and Practice Innovations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W320824093"
+    },
+    {
+      "openalex_id": "W4243961705",
+      "doi": "10.7551/mitpress/9780262013048.001.0001",
+      "title": "The Time of Our Lives",
+      "authors": [
+        {
+          "name": "David Couzens Hoy",
+          "openalex_id": "A5007679984"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-20",
+      "abstract": "A study of the emergence in post-Kantian continental philosophy of a focus on the lived experience of temporality. The project of all philosophy may be to gain reconciliation with time, even if not every philosopher has dealt with time expressly. A confrontation with the passing of time and with human finitude runs through the history of philosophy as an ultimate concern. In this genealogy of the concept of temporality, David Hoy examines the emergence in a post-Kantian continental philosophy of a focus on the lived experience of the \u201ctime of our lives\u201d rather than on the time of the universe. The purpose is to see how phenomenological and poststructuralist philosophers have tried to locate the source of temporality, how they have analyzed time's passing, and how they have depicted our relation to time once it has been\u2014in a Proustian sense\u2014regained. Hoy engages with competing theoretical tactics for reconciling us to our fleeting temporality, drawing on work by Kant, Heidegger, Hegel, Husserl, Merleau-Ponty, Nietzsche, Gadamer, Sartre, Bourdieu, Foucault, Bergson, Deleuze, \u017di\u017eek, and Derrida. Hoy considers four existential strategies for coping with the apparent flow of temporality, including Proust's passive and Walter Benjamin's active reconciliation through memory, \u017di\u017eek's critique of poststructuralist politics, Foucault's confrontation with the temporality of power, and Deleuze's account of Aion and Chronos. He concludes by exploring whether a dual temporalization could be what constitutes the singular \u201ctime of our lives.\u201d",
+      "cited_by_count": 86,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy",
+        "Philosophy, Ethics, and Existentialism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4243961705"
+    },
+    {
+      "openalex_id": "W4206391045",
+      "doi": "10.1093/oso/9780198841852.001.0001",
+      "title": "Kantian Subjects",
+      "authors": [
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": "A5027136255",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-11-07",
+      "abstract": "Abstract The first half of this book concerns issues directly related to a few key Kant texts and recent discussions of them. The Critical philosophy\u2019s conception of subjectivity is the main focus, with special attention given to the features of freedom, autonomy, law, necessity, final ends, an overall human vocation, intentionality, and idealism. The second half contains essays on post-Kantian figures, with an emphasis on Hegel, Schelling, and H\u00f6lderlin and their role in introducing a fruitful \u2018historical turn\u2019 in philosophical methodology as well as a new conception of being a subject understanding itself as living a period of \u2018late modernity.\u2019 This period is still devoted to enlightenment ideals while recognizing limitations in the eighteenth century scientific and political developments that preoccupied Kant. Two major strands of post-Kantian philosophy along this line are distinguished: the more systematic approach of the classical works of German Idealism, and the mixed methodology of the Early Romantics, who also composed their main works in the context of Jena and the highly popular interpretation of Kant that was offered there by Reinhold. Highlights of the first part of the book include new close readings of Kant\u2019s Groundwork and its relation to later thinkers such as Sartre, Murdoch, O\u2019Neill, Prauss, and Brandom. The second part develops a post-Kantian philosophy of history, as outlined by Novalis and Schlegel, and connects this with a close reading of a number of texts by H\u00f6lderlin, who is argued to be the most Kantian and philosophically the most satisfying of the post-Kantians.",
+      "cited_by_count": 65,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 154,
+      "url": "https://openalex.org/W4206391045"
+    },
+    {
+      "openalex_id": "W4388339506",
+      "doi": "10.1093/oso/9780199278992.003.0006",
+      "title": "The History of Philosophy as Philosophy",
+      "authors": [
+        {
+          "name": "Gary Hatfield",
+          "openalex_id": "A5041018940",
+          "orcid": "https://orcid.org/0000-0003-0876-7073"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-03-24",
+      "abstract": "Abstract Philosophers have been talking about their predecessors since before Plato and Aristotle. The history of philosophy as a sub- discipline of philosophy has been recognized since the eighteenth century, when subdivisions beyond the traditional logic, meta physics, natural philosophy, and moral philosophy became generally established. Philosophers have addressed the shape of philosophy \u2018s history as a philosophical topic since Kant and Hegel.",
+      "cited_by_count": 33,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4388339506"
+    },
+    {
+      "openalex_id": "W631805120",
+      "doi": "10.5860/choice.187367",
+      "title": "Experience and history: phenomenological perspectives on the historical world",
+      "authors": [],
+      "publication_year": 2015,
+      "publication_date": "2015-02-24",
+      "abstract": "Introduction: On the Phenomenology of History 1. The Phenomenological Question 2. Representation, Memory, Experience 3. Phenomenological Perspectives: an Outline Chapter I: The Varieties of Experience 1. On the Concept of Experience and its Curious Fate 2. Experience and Innocence: The Empiricists 3. Experience in Kant and Hegel 4. So Far: Three Concepts of Experience 5. Dilthey, Husserl and a New Word: Erlebnis 6. From Mysticism to Pragmatism: Buber, James, Dewey 7. Taking Stock Again: How Many Concepts of Experience? 8. Experience and Foundationalism 9. Summing Up: Four Concepts of Experience Chapter II: Experience and History 1. The Two Relevant Senses of Experience 2. Husserl on Temporality 3. Time and Experience 4. Intentionality 5. Objects, Events, World 6. Others and The Human World 7. Experience and Historicity 8. Being with Others 9.  and Community 10. Community and Historicity 11. History and Retrospection 12. The Experience of Historical Events 13. Levels of Temporality 14. The Significance of These Examples Chapter III: Experience and The Philosophy of History 1. Taking Stock 2. Experience, Representation, Memory 3. Narrative Representation 4. Experience and Memory 5. What Kind of Philosophy of History Is This? 6. The Epistemology of History 7. The Metaphysics of History Chapter IV: The Metaphysics of History and Its Critics 1. The Project of Re-reading the Philosophy of History 2. The Rise and Fall of the Classical Philosophy of History: The Standard View 3. Hegel and his Alleged Predecessors 4. Hegel's Lectures and Their Reception 5. Twentieth Century Reactions Chapter V: A Phenomenological Re-reading of the Classical Philosophy of History 1. Danto and  2. Narrative and Everyday Life 3. Practical Narrative 4. Narrative and The Classical Philosophy of History 5. Narrative and The Social 6. The Project of Re-reading 7. Marx and Marxists 8. Hegel's Lectures Again 9. History and the Phenomenology of Spirit 10. Hegel as Reformer 11. Hegel and Beyond 12. Conclusion Chapter VI: Phenomenologists on History 1. The Emergence of Nineteenth Century Historicism 2. Historicism and Marxism 3. Husserl and Dilthey 4. Husserl's Response to Historicism 5. Husserl's Crisis and a Different View of History 6. Philosophy of History in the Crisis 7. Phenomenology and The Epistemology of History 8. Phenomenology and Historicity in the Crisis 9. Coda: French Phenomenology of History 10. Conclusion Chapter VII: Space, Time and History 1. Time Zones: Phenomenological Reflections on Cultural Time a. Space and Place, Home and Beyond b. Lived Space, Lived Time c. The Universal Now d. Time and The Other e. Local Time, East and West f. Conclusion: Cultural Time and the Contemporary World 2. Place and Time: On the Interplay of Historical Points of View a. Place b. The Reality of Others c. Time d.  e. Narrative f. Conclusion Chapter VIII: Experience, Narrative and Historical Knowledge 1. History, Fiction and Human Time a. Questioning the Distinction Between History and Fiction b. A Response c. Fiction and Falsehood d. Knowledge and Imagination e. Narrative and Reality f. An Example g. Conclusion 2. Narrative Explanation 3. Epistemology and Ontology of Narrative BIBLIOGRAPHY INDEX",
+      "cited_by_count": 54,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W631805120"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

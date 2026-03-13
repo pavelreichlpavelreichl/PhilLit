@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Another Cosmopolitanism",
+    "author": "Benhabib",
+    "year": 2006
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780195183221.001.0001",
+      "title": "Another Cosmopolitanism",
+      "authors": [
+        {
+          "family": "Benhabib",
+          "given": "Seyla"
+        }
+      ],
+      "editors": [
+        {
+          "family": "Post",
+          "given": "Robert"
+        }
+      ],
+      "year": 2006,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Oxford University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1093/acprof:oso/9780195183221.001.0001",
+      "score": 42.650078
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel's Idealism Satisfaction of Self-Consciousnes...' author=Pippin year=1989
+[verify_paper.py] Paper found: Hegel's Idealism... (score: 45.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel's Idealism Satisfaction of Self-Consciousness",
+    "author": "Pippin",
+    "year": 1989
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cbo9780511621109",
+      "title": "Hegel's Idealism",
+      "authors": [
+        {
+          "family": "Pippin",
+          "given": "Robert B."
+        }
+      ],
+      "editors": [],
+      "year": 1989,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cbo9780511621109",
+      "score": 45.20851
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

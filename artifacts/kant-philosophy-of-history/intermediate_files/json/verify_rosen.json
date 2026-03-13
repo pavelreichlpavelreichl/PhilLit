@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Shadow of God Kant Hegel...' author=Rosen year=2022
+[verify_paper.py] Paper found: The Shadow of God... (score: 52.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Shadow of God Kant Hegel",
+    "author": "Rosen",
+    "year": 2022
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4159/9780674276055",
+      "title": "The Shadow of God",
+      "authors": [
+        {
+          "family": "Rosen",
+          "given": "Michael"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Harvard University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4159/9780674276055",
+      "score": 52.328197
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

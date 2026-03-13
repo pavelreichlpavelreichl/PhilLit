@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hegel's Theory Modern State...' author=Avineri year=1972
+[verify_paper.py] Paper found: Hegel's Theory of the Modern State... (score: 37.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hegel's Theory Modern State",
+    "author": "Avineri",
+    "year": 1972
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cbo9781139171441",
+      "title": "Hegel's Theory of the Modern State",
+      "authors": [
+        {
+          "family": "Avineri",
+          "given": "Shlomo"
+        }
+      ],
+      "editors": [],
+      "year": 1972,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cbo9781139171441",
+      "score": 37.82953
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

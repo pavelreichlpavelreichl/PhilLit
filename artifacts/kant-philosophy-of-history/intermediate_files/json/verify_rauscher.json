@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/IDSTUDIES20023229
+[verify_paper.py] DOI verified: The Regulative and the Constitutive In Kant’s and ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/IDSTUDIES20023229"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/idstudies20023229",
+      "title": "The Regulative and the Constitutive In Kant\u2019s and Hegel\u2019s Theories of History",
+      "authors": [
+        {
+          "family": "Rauscher",
+          "given": "Frederick"
+        },
+        {
+          "family": "Philosophy Documentation Center",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2002,
+      "container_title": "Idealistic Studies",
+      "volume": "32",
+      "issue": "2",
+      "page": "121-142",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/idstudies20023229"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

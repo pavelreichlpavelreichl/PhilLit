@@ -1,0 +1,1062 @@
+[search_openalex.py] Searching OpenAlex: 'speculative philosophy history regulative constitutive' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_433d676f57ee620a)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "speculative philosophy history regulative constitutive",
+  "results": [
+    {
+      "openalex_id": "W4241533837",
+      "doi": "10.1017/s1745855206040014",
+      "title": "Biopower Today",
+      "authors": [
+        {
+          "name": "Paul Rabinow",
+          "openalex_id": "A5007815171",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Nikolas Rose",
+          "openalex_id": "A5068377598",
+          "orcid": "https://orcid.org/0000-0003-4007-5077",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-06-01",
+      "abstract": null,
+      "cited_by_count": 991,
+      "type": "article",
+      "source": {
+        "name": "BioSocieties",
+        "type": "journal",
+        "issn": [
+          "1745-8552",
+          "1745-8560"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1017/S1745855206040014.pdf"
+      },
+      "topics": [
+        "Foucault, Power, and Ethics",
+        "Political Theology and Sovereignty",
+        "Global Security and Public Health"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W4241533837"
+    },
+    {
+      "openalex_id": "W2121710886",
+      "doi": "10.1111/0020-8833.00156",
+      "title": "After Postpositivism? The Promises of Critical Realism",
+      "authors": [
+        {
+          "name": "Heikki Patom\u00e4ki",
+          "openalex_id": "A5076369446",
+          "orcid": "https://orcid.org/0000-0001-9255-6783",
+          "institutions": [
+            "Nottingham Trent University"
+          ]
+        },
+        {
+          "name": "Colin Wight",
+          "openalex_id": "A5087725677",
+          "orcid": "https://orcid.org/0000-0001-5913-5397",
+          "institutions": [
+            "University of Wales",
+            "Aberystwyth University"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-06-01",
+      "abstract": "This article argues that the current self-understanding of IR theory is misconceived and that it is time to move beyond the stagnant positivism0 postpositivism debate. We argue that the attempt to occupy a middle ground compromise position between positivism and postpositivism is untenable because these two positions share much in common. In this sense a middle ground position between two problematic positions does not produce a less problematic position. What is needed is a metatheoretical analysis of the two extreme positions. We attempt to show how both positivism and postpositivism are embedded in a discourse of philosophical anti-realism. This anti-realism occurs as a result of what we call the post-Kantian-Humean \"problem-field\" of international relations from which most contemporary positivist, constructivist, and poststructuralist IR approaches stem. We then try to overcome this \"problemfield\" by means of radically reclaiming reality through a critical realist philosophy. Once outlined we try to show how this critical realist philosophy can help transcend some of the antinomies currently faced by IR scholars.",
+      "cited_by_count": 400,
+      "type": "article",
+      "source": {
+        "name": "International Studies Quarterly",
+        "type": "journal",
+        "issn": [
+          "0020-8833",
+          "1468-2478"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/isq/article-pdf/44/2/213/5159280/44-2-213.pdf"
+      },
+      "topics": [
+        "Critical Realism in Sociology",
+        "Political Philosophy and Ethics",
+        "International Relations and Foreign Policy"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2121710886"
+    },
+    {
+      "openalex_id": "W2151870264",
+      "doi": "10.3998/ohp.9750134.0001.001",
+      "title": "Democracy of Objects",
+      "authors": [
+        {
+          "name": "Levi R. Bryant",
+          "openalex_id": "A5054906171"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "In The Democracy of Objects Bryant proposes that we break with the epistemological tradition and once again initiate the project of ontology as first philosophy. Bryant develops a realist ontology, called -onticology-, which argues that being is composed entirely of objects, properties, and relations. Bryant proposes that objects are dynamic systems that relate to the world under conditions of operational closure.",
+      "cited_by_count": 620,
+      "type": "book",
+      "source": {
+        "name": "Open Humanities Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.3998/ohp.9750134.0001.001"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Cybernetics and Technology in Society",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W2151870264"
+    },
+    {
+      "openalex_id": "W2053394440",
+      "doi": "10.1080/03085147.2015.1013356",
+      "title": "Neoliberalism as concept",
+      "authors": [
+        {
+          "name": "Rajesh Venugopal",
+          "openalex_id": "A5046585114",
+          "orcid": "https://orcid.org/0000-0002-7498-7712",
+          "institutions": [
+            "Schlumberger (Ireland)",
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-03",
+      "abstract": "This paper is a critical exploration of the of the term neoliberalism. Drawing on a wide range of literature across the critical social sciences and with particular emphasis on the political economy of development, it evaluates the consequences of the term's proliferation and expanded usage since the 1980s. It advances a case that neoliberalism has become a deeply problematic and incoherent term that has multiple and contradictory meanings, and thus has diminished analytical value. In addition, the paper also explores the one-sided, morally laden usage of the term by non-economists to describe economic phenomena, and the way that this serves to signify and reproduce the divide between economics and the rest of the social sciences.",
+      "cited_by_count": 523,
+      "type": "article",
+      "source": {
+        "name": "Economy and Society",
+        "type": "journal",
+        "issn": [
+          "0308-5147",
+          "1469-5766"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.lse.ac.uk/id/eprint/60471/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Venugopal%2C%20R_Neoliberalism%20as%20concept_Venugopal_Neoliberalism%20as%20concept_2015.pdf"
+      },
+      "topics": [
+        "Housing, Finance, and Neoliberalism",
+        "Political Economy and Marxism",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W2053394440"
+    },
+    {
+      "openalex_id": "W2270645540",
+      "doi": "10.1215/10642684-2843215",
+      "title": "Has the Queer Ever Been Human?",
+      "authors": [
+        {
+          "name": "Dana Luciano",
+          "openalex_id": "A5088798182",
+          "institutions": [
+            "Georgetown University"
+          ]
+        },
+        {
+          "name": "Mel Y. Chen",
+          "openalex_id": "A5005965355",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-08",
+      "abstract": null,
+      "cited_by_count": 226,
+      "type": "article",
+      "source": {
+        "name": "GLQ A Journal of Lesbian and Gay Studies",
+        "type": "journal",
+        "issn": [
+          "1064-2684",
+          "1527-9375"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/glq/article-pdf/21/2-3/183/415020/GLQ212-3_01Intro_FF.pdf"
+      },
+      "topics": [
+        "European history and politics",
+        "German Social Sciences and History"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2270645540"
+    },
+    {
+      "openalex_id": "W2131635822",
+      "doi": "10.1371/journal.pone.0021236",
+      "title": "Cross-Species Affective Neuroscience Decoding of the Primal Affective Experiences of Humans and Related Animals",
+      "authors": [
+        {
+          "name": "Jaak Panksepp",
+          "openalex_id": "A5082888564",
+          "institutions": [
+            "Washington State University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-09-07",
+      "abstract": "The relevant lines of evidence are as follows: 1) It is easy to elicit powerful unconditioned emotional responses using localized electrical stimulation of the brain (ESB); these effects are concentrated in ancient subcortical brain regions. Seven types of emotional arousals have been described; using a special capitalized nomenclature for such primary process emotional systems, they are SEEKING, RAGE, FEAR, LUST, CARE, PANIC/GRIEF and PLAY. 2) These brain circuits are situated in homologous subcortical brain regions in all vertebrates tested. Thus, if one activates FEAR arousal circuits in rats, cats or primates, all exhibit similar fear responses. 3) All primary-process emotional-instinctual urges, even ones as complex as social PLAY, remain intact after radical neo-decortication early in life; thus, the neocortex is not essential for the generation of primary-process emotionality. 4) Using diverse measures, one can demonstrate that animals like and dislike ESB of brain regions that evoke unconditioned instinctual emotional behaviors: Such ESBs can serve as 'rewards' and 'punishments' in diverse approach and escape/avoidance learning tasks. 5) Comparable ESB of human brains yield comparable affective experiences. Thus, robust evidence indicates that raw primary-process (i.e., instinctual, unconditioned) emotional behaviors and feelings emanate from homologous brain functions in all mammals (see Appendix S1), which are regulated by higher brain regions. Such findings suggest nested-hierarchies of BrainMind affective processing, with primal emotional functions being foundational for secondary-process learning and memory mechanisms, which interface with tertiary-process cognitive-thoughtful functions of the BrainMind.",
+      "cited_by_count": 323,
+      "type": "review",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0021236&type=printable"
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Neural dynamics and brain function",
+        "Neuroendocrine regulation and behavior"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2131635822"
+    },
+    {
+      "openalex_id": "W159465013",
+      "doi": "10.26530/oapen_595042",
+      "title": "The Conflict of the Faculties. Perspectives on Artistic Research and Academia",
+      "authors": [
+        {
+          "name": "Henk Borgdorff",
+          "openalex_id": "A5042547837",
+          "orcid": "https://orcid.org/0000-0002-6885-9247"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "exchange of knowledge and experiences relating to practice",
+      "cited_by_count": 341,
+      "type": "book",
+      "source": {
+        "name": "Leiden University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/32887/1/595042.pdf"
+      },
+      "topics": [
+        "Artistic and Creative Research"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W159465013"
+    },
+    {
+      "openalex_id": "W99099081",
+      "doi": "10.7264/n3kh0k81",
+      "title": "SF: Science Fiction, Speculative Fabulation, String Figures, So Far",
+      "authors": [
+        {
+          "name": "Donna Haraway",
+          "openalex_id": "A5054380367",
+          "orcid": "https://orcid.org/0000-0001-8205-9396",
+          "institutions": [
+            "University of California, Santa Cruz"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": null,
+      "cited_by_count": 196,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/26308"
+      },
+      "topics": [
+        "Utopian, Dystopian, and Speculative Fiction",
+        "Gothic Literature and Media Analysis",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W99099081"
+    },
+    {
+      "openalex_id": "W2564601941",
+      "doi": "10.1007/s11229-016-1288-5",
+      "title": "From cognitivism to autopoiesis: towards a computational framework for the embodied mind",
+      "authors": [
+        {
+          "name": "Micah Allen",
+          "openalex_id": "A5058730535",
+          "orcid": "https://orcid.org/0000-0001-9399-4179",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "National Hospital for Neurology and Neurosurgery",
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-22",
+      "abstract": null,
+      "cited_by_count": 377,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-016-1288-5.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W2564601941"
+    },
+    {
+      "openalex_id": "W1979297327",
+      "doi": "10.1257/jep.25.4.3",
+      "title": "Neuroeconomic Foundations of Economic Choice\u2014Recent Advances",
+      "authors": [
+        {
+          "name": "Ernst Fehr",
+          "openalex_id": "A5023874785",
+          "orcid": "https://orcid.org/0000-0001-6325-7821",
+          "institutions": [
+            "Zurich University of Applied Sciences in Business Administration",
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Antonio Rangel",
+          "openalex_id": "A5103949769",
+          "orcid": "https://orcid.org/0009-0009-1399-7886",
+          "institutions": [
+            "California Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-11-01",
+      "abstract": "Neuroeconomics combines methods and theories from neuroscience psychology, economics, and computer science in an effort to produce detailed computational and neurobiological accounts of the decision-making process that can serve as a common foundation for understanding human behavior across the natural and social sciences. Because neuroeconomics is a young discipline, a sufficiently sound structural model of how the brain makes choices is not yet available. However, the contours of such a computational model are beginning to arise; and, given the rapid progress, there is reason to be hopeful that the field will eventually put together a satisfactory structural model. This paper has two goals: First, we provide an overview of what has been learned about how the brain makes choices in two types of situations: simple choices among small numbers of familiar stimuli (like choosing between an apple or an orange), and more complex choices involving tradeoffs between immediate and future consequences (like eating a healthy apple or a less-healthy chocolate cake). Second, we show that, even at this early stage, insights with important implications for economics have already been gained.",
+      "cited_by_count": 279,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Economic Perspectives",
+        "type": "journal",
+        "issn": [
+          "0895-3309",
+          "1944-7965"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.25.4.3"
+      },
+      "topics": [
+        "Decision-Making and Behavioral Economics",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 123,
+      "url": "https://openalex.org/W1979297327"
+    },
+    {
+      "openalex_id": "W3014457597",
+      "doi": "10.1017/cbo9781139022026",
+      "title": "Colonization and the Origins of Humanitarian Governance",
+      "authors": [
+        {
+          "name": "Alan Lester",
+          "openalex_id": "A5031242779",
+          "orcid": "https://orcid.org/0000-0002-2703-6383",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Fae Dussart",
+          "openalex_id": "A5071072536",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-17",
+      "abstract": "How did those responsible for creating Britain's nineteenth-century settler empire render colonization compatible with humanitarianism? Avoiding a cynical or celebratory response, this book takes seriously the humane disposition of colonial officials, examining the relationship between humanitarian governance and empire. The story of 'humane' colonial governance connects projects of emancipation, amelioration, conciliation, protection and development in sites ranging from British Honduras through Van Diemen's Land and New South Wales, New Zealand and Canada to India. It is seen in the lives of governors like George Arthur and George Grey, whose careers saw the violent and destructive colonization of indigenous peoples at the hands of British emigrants. The story challenges the exclusion of officials' humanitarian sensibilities from colonial history and places the settler colonies within the larger historical context of Western humanitarianism.",
+      "cited_by_count": 227,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F1E604FEE3AF6223F2A405E223819FFF/9781139022026c1_p1-36_CBO.pdf/colonization_and_humanitarianism_histories_geographies_and_biographies.pdf"
+      },
+      "topics": [
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3014457597"
+    },
+    {
+      "openalex_id": "W2561596189",
+      "doi": "10.1080/15387216.2016.1266273",
+      "title": "Zombie socialism and the rise of neoliberalism in post-socialist Central and Eastern Europe",
+      "authors": [
+        {
+          "name": "Liviu Chelcea",
+          "openalex_id": "A5077597576",
+          "orcid": "https://orcid.org/0000-0002-7629-3933",
+          "institutions": [
+            "University of Bucharest"
+          ]
+        },
+        {
+          "name": "Oana Dru\u0163\u01ce",
+          "openalex_id": "A5057593971",
+          "orcid": "https://orcid.org/0000-0002-4939-2231",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-09-02",
+      "abstract": "Many scholars have asked themselves if and for how long they should use the concept of \u201cpost-socialism.\u201d We review some ways in which post-socialism is no longer used productively and suggest that one way to analyze the enduring effects of socialism (a useful role for the concept of post-socialism) is by paying attention to how economic and political elites in Central and Eastern Europe continue to use the ghost of state-socialism as the ultimate boogeyman, disciplinary device, and \u201cideological antioxidant.\u201d We call this blend of post-1989 anti-communism and neoliberal hegemony \u201czombie socialism,\u201d and we argue that it is a key component of contemporary capitalism in Central and Eastern Europe. We illustrate briefly some cases of zombie socialism, using data such as EU 28 statistics on labor, wages, work\u2013life (im)balance, income tax, housing, and housing policies to show the effects of this hegemonic discourse. The presence of zombie socialism for almost three decades in Central and Eastern Europe made some of these countries \u201cmore\u201d capitalist than countries with longer capitalist traditions in Europe. We join others who have suggested that there is nothing to transition any longer, as the \u201ctransition\u201d is long over.",
+      "cited_by_count": 292,
+      "type": "article",
+      "source": {
+        "name": "Eurasian Geography and Economics",
+        "type": "journal",
+        "issn": [
+          "1538-7216",
+          "1938-2863"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/15387216.2016.1266273?needAccess=true"
+      },
+      "topics": [
+        "Gender, Feminism, and Media",
+        "Memory, Trauma, and Commemoration",
+        "Nostalgia and Consumer Behavior"
+      ],
+      "referenced_works_count": 75,
+      "url": "https://openalex.org/W2561596189"
+    },
+    {
+      "openalex_id": "W2943568727",
+      "doi": "10.1146/annurev-lawsocsci-101518-042717",
+      "title": "Legal Consciousness Reconsidered",
+      "authors": [
+        {
+          "name": "Lynette J. Chua",
+          "openalex_id": "A5006002860",
+          "orcid": "https://orcid.org/0000-0002-6198-5574",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "David M. Engel",
+          "openalex_id": "A5110550677",
+          "institutions": [
+            "University at Buffalo, State University of New York"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-30",
+      "abstract": "Legal consciousness is a vibrant research field attracting growing numbers of scholars worldwide. Yet differing assumptions about aims and methods have generated vigorous debate, typically resulting from a failure to recognize that three different clusters of scholars\u2014identified here as the Identity, Hegemony, and Mobilization schools\u2014are pursuing different goals and deploying the concept of legal consciousness in different ways. Scholarship associated with these three schools demonstrates that legal consciousness is actually a flexible paradigm with multiple applications rather than a monolithic approach. Furthermore, a new generation of scholars has energized the field in recent years, focusing on marginalized peoples and non-Western settings. Through their findings, and as a result of broader trends across the social sciences, relational legal consciousness has taken on greater importance. Legal consciousness research should be imagined on a continuum ranging from individualistic conceptualizations of thought and action to interactive, co-constitutive approaches.",
+      "cited_by_count": 227,
+      "type": "article",
+      "source": {
+        "name": "Annual Review of Law and Social Science",
+        "type": "journal",
+        "issn": [
+          "1550-3585",
+          "1550-3631"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-lawsocsci-101518-042717"
+      },
+      "topics": [
+        "Judicial and Constitutional Studies",
+        "Law in Society and Culture",
+        "Legal Education and Practice Innovations"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2943568727"
+    },
+    {
+      "openalex_id": "W2167571713",
+      "doi": "10.1111/j.1467-8365.2010.00769.x",
+      "title": "Comment: World without Art",
+      "authors": [
+        {
+          "name": "Whitney Davis",
+          "openalex_id": "A5010698632",
+          "orcid": "https://orcid.org/0000-0001-7937-3966"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-13",
+      "abstract": "World Art Studies: Exploring Concepts and Approaches edited by Kitty Zijlmans and Wilfried Van Damme , Amsterdam : Valiz , 2008 , 461 pp. , 42 b. & w. illus., \u00a328.50 Originating in workshops organized by the editors at Leiden University, World Art Studies joins the small bookshelf of essential readings in the multidiscipline of \u2018world art studies\u2019, along with David Summers\u2019 magisterial Real Spaces: World Art History and the Rise of Western Modernism (2003), John Onians\u2019 compilation of crucial conference talks in Compression vs. Expression: Containing and Explaining the World\u2019s Art (2006), and James Elkins\u2019 editing of vigorous roundtable discussions in Is Art History Global? (2007), to name other key texts in English. World Art Studies largely reflects the views of professional art historians. But it includes other voices, notably anthropologists (though only one philosopher and no scholars of mass visual communication or of new media). The judicious guidance of the editors has resulted in a balanced anthology that steers between focused analysis (heavy on useful bibliography) and sweeping synthesis. I agree with many of the authors in their opinion, explicit or not, that world art studies is the only plausible general frame for art history on the global stage in the next fifteen years or so. Art history is not the only discipline, of course, that constitutes world art studies, and perhaps the editors took care to keep \u2018art history\u2019 out of the title of their collection. But presumably art history is the immediate concern of most readers of this review. And without world art studies, the discipline of art history has little prospect of maintaining a coherent project as a global enterprise \u2013 as practised and taught around the world \u2013 in relation to worldwide phenomena of art and visual culture, past and present. The question of World Art Studies is what this frame could contain, and more narrowly how art history contributes to it. It might be that art history will contribute little with regard to many matters world art studies must address. Indeed, some chapters make little reference \u2013 need make no reference \u2013 to art history. For its part, in professional art history the specifically bioevolutionary and neuropsychological concerns of world art studies (two of its inevitable moments as a multidisciplinary project) have met stiff resistance, at least outside such specialized areas as prehistoric art studies or the historiography of physiological aesthetics and perceptual psychology in art theory. But if World Art Studies is any evidence, the presumption among many contributors seems to be that art history might partly fulfil itself \u2013 at long last \u2013 in world art studies. To be sure, art historians must now engage with collaborators who have not previously been part of the ordinary universe of academic art history \u2013 participants drawn from artworlds and traditions of thinking about visual culture outside the genealogies of Western aesthetics as well as interlocutors coming from newly voluble sciences of the aesthetic emergences and affordances in human forms of life. But all this seems to be giving art history a new lease on life, and evidently a welcome one. Just when we had been firmly told that the category of Art is pretty much dead for worldwide art history, that is, that an aesthetics of art should be relegated to the parochial province of \u2018a European development that has not been duplicated anywhere else\u2019 (to quote from the recent Encyclopedia of Aesthetics),11 Michael Kelly, \u2018Editorial Preface\u2019 in Michael Kelly, ed., The Encyclopedia of Aesthetics, Oxford, 1999, vol. 1, xi. According to Kelly, philosophical aesthetics might be relevant to art historians only when \u2018their research involves art created in periods when aesthetics was still considered relevant\u2019, that is, when paintings, sculptures, and so on, were made according to the philosophy of Art or an \u2018ideology of the Aesthetic\u2019 developed in European or European-derived contexts of visual-cultural production (as well as other contexts of judgment about objects in nature) since the mid-eighteenth century. If this is so, aesthetics could be redefined productively (both more broadly and more simply) as \u2018critical reflection on art, culture, and nature\u2019. And World Art Studies might be described as accepting and pursuing this very mandate. Still, artworks are probably best described as \u2018culturally emergent particulars\u2019, as Joseph Margolis has put it (\u2018The historical ontology of art\u2019 in Michael Kelly, ed., The Encyclopedia of Aesthetics, vol. 3, 390\u20134; and see his Interpretation Radical but Not Unruly: The New Puzzle of the Arts and History, Berkeley and Los Angeles, CA, 1995). I take this to mean not only that art is not to be found in every domain, phase, or level of human life \u2013 that it is a \u2018particular\u2019 and not a \u2018universal\u2019 feature of human forms of life. It might also mean that even in the domain, phase, or level of human culture it is an \u2018emergent\u2019 particular \u2013 not an immanent or an essential one, perhaps not even ubiquitous. How this subtle ontology might square with the more or less unqualified universalism of World Art Studies about art remains an open question. it turns out to be very much alive \u2013 alive everywhere, and at all times. For the founding claim of World Art Studies, virtually uncontested throughout its eighteen chapters, is that art is a \u2018panhuman phenomenon\u2019 (to quote the editors\u2019 Preface, 7) or a \u2018global occurrence\u2019 (to quote van Damme\u2019s perspicuous introductory essay, 54). Art historians who have been running for cover in the withering fire of postcolonial multiculturalist critiques of art-historical aestheticism (critiques endorsed within such erstwhile heartlands of philosophical aesthetics as The Encyclopedia of Aesthetics) can now emerge into safety: world art studies would help us to see \u2013 force us to see \u2013 more fully than ever before that art-historical aestheticism and its ideology of Art, as a \u2018European development\u2019, is only one avenue of the study of art worldwide. For some purposes it may be one of the least apposite. Perhaps this is self-evident \u2013 a mere banality today in part because of the very success of world art studies. But global or world art histories of the recent past occluded this recognition because they had not found ways to make good fully on the earlier recognition (in both the historicism of Johann Joachim Winckelmann and the aesthetics of Immanuel Kant) that aesthetic judgment and consequently the forms of artistic expression (Kant\u2019s \u2018perfected ideals of beauty in the fine arts\u2019) vary by environment and the social relations of the people who inhabit it. In this view, in turn, the real burden of world art studies is not really to get art history to \u2018go global\u2019. As several contributors to World Art Studies point out, art history has been substantially global in theory (if not in all chronogeographical and cultural particulars) from the beginning, even as a \u2018European development that has not been duplicated anywhere else\u201922 Kelly, The Encyclopedia of Aesthetics. \u2013 perhaps especially as a European development insofar as it has typically been European-derived art history that has told most stories of art specifically as global. Rather, the real burden of world art studies is to get a well-entrenched global art history to put art into new worlds of study. Here it must be able to draw as much on non-aestheticist or non-historicist traditions in European thought about vision, making, or representation (these might be biophysiological or neurocomputational) as on non-European traditions of thought about art, beauty, or \u2018making [things] special\u2019 (to use Ellen Dissanayake\u2019s speculative identification of the adaptive or functional status of art in the evolution of our species, 252). Admittedly there is some degree of uncertainty about this in World Art Studies. Many of the essays oscillate slightly between (a) going-global in art history (a process that was well under way by the end of the nineteenth century even if it was politically reoriented and renewed in the multiculturalist postcolonialism of the 1980s) and (b) worlding art in art history, a project that might be described less as empirical (what art where and when) than as methodological (how to make sense of the what, where, and when of art worldwide). World Art Studies is precisely not an updated survey of arts around the world, though it cites such global projects of the past and the present (from Franz Kugler\u2019s Handbuch der Kunstgeschichte of 1842 to Karl Woermann\u2019s Geschichte der Kunst aller Zeiten und V\u00f6lker in the early 1900s to art-history textbooks of the 2000s) and at least some of the authors can be read to criticize such conventional globalism because it lacks true methodological diversity. Rather, as its subtitle suggests, World Art Studies sets out to identify several \u2018concepts and approaches\u2019 through which such a world survey (as well as any delimited treatment of a particular region, period, or culture of art) might organize its presentation. Only one of these concepts and approaches is European aesthetic historicism and the kind of narrative of Art\u2019s history specifically associated with its epistemology of Bildung, Kultur, and Geist. Thus World Art Studies contributes to the worlding of art rather than to globalizing art history. Or more exactly, it tries to ensure that the globalization of art history (long one of the very criteria of art history) effects a worlding of art. Such worlding cannot and should not be taken for granted in any mere globalization \u2013 today more than ever. This is a fundamental theoretical advance. Still, let me sound a note of caution and mild criticism. World Art Studies does not actually contain an essay by an art historian attempting to use European aestheticist historicism (that is, the ideology of the Aesthetic and the philosophy of Art\u2019s history formulated in European thought since the mid-eighteenth century) to address the global history of art, though this would seem perfectly possible, or to address a tradition of art-making somewhere in the world outside the modern West, though this is extremely common. Indeed, and to the contrary, World Art Studies seems to presume that such an approach or concept would be wrong in just these two contexts (however \u2018right\u2019 if the topic were European-derived art since about 1750), or at least that it has had its day or that it could not really be relevant to world art studies today, let alone maximally relevant. An opportunity has been missed here, I suspect. There are several reasons. Above all, the ideology of Art as aesthetic has often functioned in European historicism as an essential critical vehicle for bemoaning the loss or impossibility of art \u2013 of identifying its crisis in social contexts of overwhelming utilitarianism and economism, of nationalism and imperialism, of capitalism and commodification, and of culture industry and mass marketing. This loss or impossibility \u2013 this context of art in the world \u2013 is surely one of the principal horizons for the very rise of world art studies as a response to the crisis of cultural possibility in human worlds as a consequence of their globalization. Simply put, then, world art studies cannot afford to bypass critical aestheticist historicism, especially as it reached a discursive climax in such twentieth-century European self-disgust as Theodor Adorno\u2019s. (Adorno is nowhere cited in World Art Studies, despite his engagements with ethological theory, prehistoric art studies, or physiological aesthetics. But certainly none of the contributors wants to be taken, for example, to be advocating the global consolidation of \u2018world art\u2019 along the lines of the \u2018world music\u2019 that Adorno would have scorned, even if many arts globally are moving \u2013 clearly want to move \u2013 in exactly that direction.) Without the critical theory devised in Europe as the most self-critical and self-castigating analysis of modern Europe\u2019s relative lack of true art in global terms, world art studies needlessly hobbles itself. Indeed, its very critique of \u2018Eurocentrism\u2019 involves a merely partial ventriloquism of the critical theory of modern European mass art, that is, of art paraded as Culture: world art studies has tended to absorb the critical-theoretical deconstruction of Art, on the one side, without at the same time assimilating, on the other side, the critique of culture as false Art-making \u2013 as socially policing and distorting the subjective universality of free aesthetic judgment. This historiographical and theoretical amnesia threatens to leave us, I think, with the worst of two worlds: both with a culturalism of art without a critique of art as cultured and with a theory of culture as the ground of art without a critique of culture as the acculturation of art. Here world art studies would abdicate the global critical role it could play. In saying all this, I might have to disagree with one part of the two-pronged position stated by James Elkins in his trenchant chapter \u2018Can We Invent a World Art Studies?\u2019 (as well as in other recent statements). He proposes that \u2018visual studies should experiment with avoiding Benjamin, Lacan, Foucault, Derrida, and the rest\u2019 (113, my emphasis), that is, and in sum, that it experiment with avoiding the critical theory of art (the question of the undoing of art in culture) and the theory of art as critical (the question of art as the undoing of culture). I am not sure that Elkins could plausibly hold his ground if the term \u2018art studies\u2019 (let alone art history or aesthetics) replaced his \u2018visual studies\u2019. But I have no beef with the method that he would experimentally substitute, namely, that we employ \u2018indigenous [aesthetic] texts as interpretive languages\u2019 (113). I would only be curious to know which of these languages would help anyone (indigenous to an artistic tradition in cultural crisis or not) to resist worldwide anti-art or anti-aesthetic tendencies in anything like the global terms that seem to be needed. Stated another way, indigenous aesthetic traditions can be identified by art history and they should be employed as art history. Conventional iconology usually does just this. And many of the essays in World Art Studies are remorselessly \u2018emic\u2019 in just this way, even though none has been written by an archaeologist of art (let alone a practising prehistorian) who must deal with visual-cultural traditions in which there happen to be no surviving \u2018indigenous [aesthetic] texts\u2019 or in which the indigenous texts simply are the artworks themselves.33 For the sake of argument, we can set aside the question whether the use of any kind of \u2018indigenous texts\u2019 about art, European or not, should have any kind of primacy in historical or any other kind of interpretation, globalist or not, as Elkins\u2019 programme would seem to assume. Just because people have talked and written about art and visual culture, whether their own or the production of others, does not entail that this discourse comprised their only or their preferred or their most revealing \u2018interpretive and use of the its own or \u2013 more revealing than their about it. Indeed, in my the or about art simply is its and But it remains to be which of these indigenous traditions of the of art or a critical on world art, on art as or on the crisis of the globalization of art. Elkins indigenous traditions of discourse on art, that is, indigenous of aesthetic judgment that must to or made in the cultural of art have been this relation for several \u2013 and in with indigenous and cultural this research has often to about the of aesthetic and other of social life as culture, as if indigenous traditions of art-making had no horizons of and as if no of art Adorno could anything but see it as But this is from an identification of globally indigenous discursive traditions that and the global of art, let alone their terms (if for the of many arts worldwide in globalization. And of course, really that indigenous traditions of discourse on art should be to traditions to which they are not indigenous \u2013 as European aesthetics has been for example, to the art of the of the or of the of the of despite the and frame of the European and who have these aesthetics. Elkins\u2019 a thought But many indigenous aesthetic traditions the social and critical of any art outside the even when they have to such to the then, should we theoretical in which the aesthetics of art as a human in with the global historical burden of its cultural has been a If we set aside the critical theory of art from European aestheticist historicism, the contributors to World Art Studies have identified \u2018concepts and approaches\u2019 relevant to a world art studies of the To use the in World Art Studies as by the these are with the history and status of \u2018global approaches in the study of on the study of art\u2019 and the of art-making and and in the of the \u2018global approaches\u2019 to the study of world art not only the of of art historians in at the of the the of chapters by and in relation to in general of art history worldwide. might be in projects like Summers\u2019 of the and of to the emergent of and his on the of of of or of by to European art between and approaches\u2019 must also address the of globalizing on all the of art history, global or the globalization of the well described in essay, and the of and aesthetic traditions in professional art-historical in the and in the chapters by Elkins and these traditions are in \u2018indigenous texts as interpretive languages\u2019 that could be relevant to the and history of art. But in my the globalizing of art history in many As us, many scholars of art have been to the most of European aesthetic historicism and critical art theory, perhaps because these traditions (as I have might to no can be from World Art Studies, the of many contributors would be to resist all of by and as well as by and in one of World Art in of the or global that art history must fully address For several one only in world art history by worlding art and its study as not that is, as not on global of art history or of or This is only a World Art Studies does not contain on the worldwide cultural and historical or of or as It is not a world study of visual culture, that is, of the cultural of human and of its \u2013 that art is a \u2018panhuman might be by historicism, namely, that or with of expression and of or other For if the of is the relevant \u2018panhuman we would need a worldwide into global phenomena of and the and of and that would only be with the \u2018panhuman phenomenon\u2019 of art as In this it is not whether world art studies as in World Art Studies has as a to studies, as a or as a enterprise \u2013 or a little of all But within other approaches and concepts in world art studies, general theory is perfectly the theory of considered by or the theory of the of and visual in art by essays the of World Art Studies, and what I would like to the in the study of art \u2013 where environment and must be not only as history on the real the but also in human and chapter by Art with of his thinking about of could be under this of these projects seem to me to be more of worlding art \u2013 of it into the world \u2013 than merely globalizing art history as the narrative of cultural in and more in the end to a of global scholars to the study of art worldwide. can be from art history, for all as to the founding concerns of art history as Still, and neuropsychological aesthetics seem to to many art historians. to the of general theory in most academic art history worldwide. And here, the of culture as historical with the two of world art with both the project of globalizing art must be at the level of their and it is to without art) and of worlding it culture is only one level of world, the human worlds in or as To be then, art-historical must the question of its own claim \u2013 its of culture as the relevant human despite its identification with and such as The of early such as and and other European and into human around the world no For the of culture theory in the of by and others, see and The in the In this World Art Studies its The relation between both globalizing and worlding art history on the one and in the and of art studies on the other is not really in any way, though it virtually all of the the that some authors see world art studies as the very of or more cultural seem to see world art studies as a way out of as the most vehicle of our professional and diversity. are one to the they are less And within may not be a question of It may be a question of from culture to address The status of cultural within a general approach that the universality of culture in relation to a that is also to have historical or for \u2013 remains to be But on the editors have been to let this very question emerge in many of art history in Europe and one can even it. course, world art studies as the anthology it does new approaches to in art history, or at least updated concepts of it. of World Art Studies are to approaches\u2019 (that is, and and to or as a historical process in art worldwide. in another two fine and essays by and on the of art to be a project within cultural also have of these chapters to at least to both the multiculturalist critique of art-historical aesthetics and the critique of I these critiques more than any of the chapters because it seems to me that they in The us and the art and art history. And I not they can be fully as van Damme\u2019s without a both of if they not a relation to the of the historical of art that are partly in the other of World Art Studies. is without a general frame of analysis as Summers\u2019 of of that or cultural And could not be without and social that or the emergent they from the and of and to the of focused on the level of culture, then, both multiculturalist and may well in the that I have World Art Studies \u2013 in the end it is \u2013 Studies of Art in the In this theoretical and its methodological not engage the founding of World Art that art is a \u2018panhuman a \u2018global It must be true that one of the historical of art in the world, like the of a or a is to to be in it is the possibility that has been by European art-historical aesthetics) or to have it in the (the possibility by The Encyclopedia of when it the universality of to art-historical and to philosophical and World Art Studies is an even art is a global human it art history must be world art studies. But is this simply a to It remains to be whether art \u2013 as human \u2013 remains in the world in a global world, that is, in a human world today as global. Indeed, this seems to be the uncertainty \u2013 the \u2013 of World Art Studies, its to as well as its of For this very the of theoretical in world art studies it to human worlds without art, as long in globally the empirical of aesthetic historicism, and even though in World Art Studies this would seem to be politically world it is that on the other of the world of of art (a world that world art studies to keep at is an question. World Art Studies no It to the prehistoric of it is as if there has been human life before art. But this narrative is still out of insofar as the of and evolution long before the of the or identified in made by the of art plausibly cited in World Art Studies. most recent identification of this of is by van Damme and in on with of the European period, his reference to a Summers\u2019 and I see deconstruction of in in Art History, It is to see how this art art) to be only one kind of culture \u2013 that is, the culture specifically by some of the I would not put the crucial on I would a in the of art-making as a course, because we are about a prehistoric of culture, the theoretical \u2013 Is art really only mean \u2013 to be what about a world It is the of a perhaps more exactly without all the arts of all in a fully world that and are some of the all in with and in part as its But little has been to the role of world art studies itself in about the end of art as a emergent If there are human worlds without art, past or even world art studies as a concept would be to \u2013 a no than what is granted to any of one culture of art, for art, as had might be (in a world history) to be only one world culture of even if it to be our own as we have it. In other whether in moving from the of the art history of Europe or in moving the world history of human the has only to be for a critical world art studies.",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Art History",
+        "type": "journal",
+        "issn": [
+          "0141-6790",
+          "1467-8365"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-8365.2010.00769.x"
+      },
+      "topics": [
+        "Cultural Industries and Urban Development",
+        "Art History and Market Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2167571713"
+    },
+    {
+      "openalex_id": "W4299918812",
+      "doi": "10.22459/pip.06.2016",
+      "title": "A Philosophy of Intellectual Property",
+      "authors": [
+        {
+          "name": "Peter Drahos",
+          "openalex_id": "A5102894505",
+          "orcid": "https://orcid.org/0000-0003-3243-6928"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-22",
+      "abstract": "Are intellectual property rights like other property rights? More and more of the world\u2019s knowledge and information is under the control of intellectual property owners. What are the justifications for this? What are the implications for power and for justice of allowing this property form to range across social life? Can we look to traditional property theory to supply the",
+      "cited_by_count": 203,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Intellectual Property and Patents"
+      ],
+      "referenced_works_count": 234,
+      "url": "https://openalex.org/W4299918812"
+    },
+    {
+      "openalex_id": "W4382866065",
+      "doi": "10.1515/9789048522989",
+      "title": "Plessner's Philosophical Anthropology",
+      "authors": [
+        {
+          "name": "Inge Van Der Bijl",
+          "openalex_id": "A5111002222"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-12-31",
+      "abstract": null,
+      "cited_by_count": 225,
+      "type": "book",
+      "source": {
+        "name": "Amsterdam University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9789048522989/pdf"
+      },
+      "topics": [
+        "German Social Sciences and History"
+      ],
+      "referenced_works_count": 358,
+      "url": "https://openalex.org/W4382866065"
+    },
+    {
+      "openalex_id": "W1946022955",
+      "doi": null,
+      "title": "No issue, no public: democratic deficits after the displacement of politics",
+      "authors": [
+        {
+          "name": "Noortje Marres",
+          "openalex_id": "A5000997821",
+          "orcid": "https://orcid.org/0000-0002-8237-6946"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "When we take to the Web to study public debates on controversial science and technology, we find issue networks instead.This goes some way toward explaining how I arrived at the question that this dissertation addresses: the role that issues play in involving publics in politics.But it started with the Web, and controversies enacted there, and exploring these was a great pleasure thanks to a series of collaborations with Richard Rogers in particular.The phrase \"I am responsible for mistakes made in this book\" always seemed a clich to me, until writing a thesis taught me how necessary this addition is to express gratitude for the help of friends and colleagues.So with this proviso, I want to thank Gerard de Vries, for encouraging me to follow arguments wherever they may lead, for his astute criticisms, and for providing me with the space to learn how to work independently.Bruno Latour made me see that \"the literature\" is never just literature, but an exploration of real problems, and he taught me the importance of being consistent with your own arguments.The generosity of his support made this thesis a wonderful adventure.To Emilie Gomart, I am grateful for the many conversations we had, her always daring questions and the trust she",
+      "cited_by_count": 163,
+      "type": "dissertation",
+      "source": {
+        "name": "Goldsmiths (University of London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://dare.uva.nl/document/2/38026"
+      },
+      "topics": [
+        "Hong Kong and Taiwan Politics",
+        "Political and Economic history of UK and US",
+        "Political Conflict and Governance"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1946022955"
+    },
+    {
+      "openalex_id": "W2109366668",
+      "doi": "10.1111/j.1548-1425.2008.00034.x",
+      "title": "Audit cultures: Neoliberal governmentality, socialist legacy, or technologies of governing?",
+      "authors": [
+        {
+          "name": "Andrew B. Kipnis",
+          "openalex_id": "A5075965274",
+          "orcid": "https://orcid.org/0000-0003-4509-4103",
+          "institutions": [
+            "Australian National University"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-05-01",
+      "abstract": "ABSTRACT In this article, I analyze the social processes of performance audits in a variety of cases in China, other postsocialist nations, and a U.S. workplace with Chinese immigrant employees. Although the processes share many commonalities, the ideological evaluations of them by the people involved are often diametrically opposed to those by anthropological analysts. For example, the Chinese workers often describe the performance audits as \u201csocialist,\u201d whereas the anthropological analysts tend to see them as a form of \u201cneoliberal\u201d governmentality. I use these contradictory evaluations to develop a critique of Nikolas Rose's conceptualization of \u201cneoliberal governmentality,\u201d especially when it is used as an explanation for contemporary processes of governing. Building on the comparative analysis of the performance audit cases, I conclude with a call for a classic anthropological approach to the study of audit cultures. [ governmentality, audit cultures, China, socialism, neoliberalism ]",
+      "cited_by_count": 336,
+      "type": "article",
+      "source": {
+        "name": "American Ethnologist",
+        "type": "journal",
+        "issn": [
+          "0094-0496",
+          "1548-1425"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1548-1425.2008.00034.x"
+      },
+      "topics": [
+        "China's Socioeconomic Reforms and Governance"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W2109366668"
+    },
+    {
+      "openalex_id": "W1900016809",
+      "doi": "10.1525/california/9780982329412.001.0001",
+      "title": "Is Critique Secular? Blasphemy, Injury, and Free Speech",
+      "authors": [
+        {
+          "name": "Talal Asad",
+          "openalex_id": "A5067643527"
+        },
+        {
+          "name": "Wendy Brown",
+          "openalex_id": "A5101985514",
+          "orcid": "https://orcid.org/0000-0002-5309-3381",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Judith Butler",
+          "openalex_id": "A5074092725",
+          "orcid": "https://orcid.org/0000-0002-0147-5193"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-11-01",
+      "abstract": "In this volume, four leading thinkers of our times confront the paradoxes and dilemmas attending the supposed stand-off between Islam and liberal democratic values. Taking the controversial Danish cartoons of Mohammad as a point of departure, Talal Asad, Wendy Brown, Judith Butler, and Saba Mahmood inquire into the evaluative frameworks at stake in understanding the conflicts between blasphemy and free speech, between religious taboos and freedoms of thought and expression, and between secular and religious world views. Is the language of the law an adequate mechanism for the adjudication of such conflicts? What other modes of discourse are available for the navigation of such differences in multicultural and multi-religious societies? What is the role of critique in such an enterprise? These are among the pressing questions this volume addresses.",
+      "cited_by_count": 213,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt84q9c6ft/qt84q9c6ft.pdf"
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1900016809"
+    },
+    {
+      "openalex_id": "W2747784886",
+      "doi": "10.1146/annurev-anthro-102116-041539",
+      "title": "Fluid Drugs: Revisiting the Anthropology of Pharmaceuticals",
+      "authors": [
+        {
+          "name": "Anita Hardon",
+          "openalex_id": "A5086338286",
+          "orcid": "https://orcid.org/0000-0002-2761-5502",
+          "institutions": [
+            "University of Amsterdam",
+            "International Institute of Social History"
+          ]
+        },
+        {
+          "name": "Emilia Sanabria",
+          "openalex_id": "A5037507939",
+          "orcid": "https://orcid.org/0000-0002-5595-7905",
+          "institutions": [
+            "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+            "Laboratoire d'anthropologie des enjeux contemporains"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-21",
+      "abstract": "This review discusses a growing body of scholarship at the intersection of anthropology and science and technology studies (STS) that examines how drugs are rendered efficacious in laboratories, therapeutic settings, and everyday lives. This literature foregrounds insights into how commercial interests and societal concerns shape the kinds of pharmaceutical effects that are actualized and how some efficacies are blocked in response to moral concerns. The work brought together here reveals how regulatory institutions and health policy makers seek to stabilize pharmaceutical actions while, on the front lines of care, pharmacists, health workers, and users tinker with dosages and indications to tailor pharmaceutical actions to specific circumstances. We show that there is no pure (pharmaceutical) object that precedes its socialization. Pharmaceuticals are not \u201cdiscovered\u201d; they are made and remade in relation to shifting contexts. This review outlines five key areas of ethnographic and STS research that examines such fluid drugs.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Annual Review of Anthropology",
+        "type": "journal",
+        "issn": [
+          "0084-6570",
+          "1545-4290"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-anthro-102116-041539"
+      },
+      "topics": [
+        "Race, Genetics, and Society",
+        "History of Science and Medicine",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 138,
+      "url": "https://openalex.org/W2747784886"
+    },
+    {
+      "openalex_id": "W2743062033",
+      "doi": "10.26530/oapen_630732",
+      "title": "The Principle of Unrest : Activist Philosophy in the Expanded Field",
+      "authors": [
+        {
+          "name": "Brian Massumi",
+          "openalex_id": "A5010878774",
+          "orcid": "https://orcid.org/0000-0001-9559-7767",
+          "institutions": [
+            "Arts and Humanities Research Council"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "There is no such thing as rest. The world is always on the move. It is made of movement. We find ourselves always in the midst of it, in transformations under way. The basic category for understanding is activity \u2013 and only derivatively subject, object, rule, order. What is called for is an \u2018activist\u2019 philosophy based on these premises. The Principle of Unrest explores the contemporary implications of an activist philosophy, pivoting on the issue of movement. Movement is understood not simply in spatial terms but as qualitative transformation: becoming, emergence, event. Neoliberal capitalism\u2019s special relation to movement is of central concern. Its powers of mobilization now descend to the emergent level of just-forming potential. This carries them beyond power-over to powers-to-bring-to-be, or what the book terms \u2018ontopower\u2019. It is necessary to track capitalist power throughout its expanding field of emergence in order to understand how counter-powers can resist its capture and rival it on its own immanent ground. At the emergent level, at the eventful first flush of their arising, counter-powers are always collective. This even applies to movements of thought. Thought in the making is collective expression. How can we think this transindividuality of thought? What practices can address it? How, politically, can we understand the concept of the event to emergently include events of thought? Only by attuning to the creative unrest always agitating at the infra-individual level, in direct connection with the transindividual level, bypassing the mid-level of what was traditionally taken for a sovereign subject: by embracing our \u2018dividuality\u2019.",
+      "cited_by_count": 130,
+      "type": "book",
+      "source": {
+        "name": "Open Humanities Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://oapen.org/download?type=document&docid=630732"
+      },
+      "topics": [
+        "Ethics in medical practice",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W2743062033"
+    },
+    {
+      "openalex_id": "W3007972327",
+      "doi": "10.4324/9781315722245",
+      "title": "Reconceptualising Agency and Childhood",
+      "authors": [
+        {
+          "name": "E\u00dfer, Florian 1980-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Baader, Meike Sophia 1959-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Betz, Tanja 1976-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Hungerland, Beatrice 1962-",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-22",
+      "abstract": "By regarding children as actors and conducting empirical research on children's agency, Childhood Studies have gained significant influence on a wide range of different academic disciplines. This has made agency one of the key concepts of Childhood Studies,",
+      "cited_by_count": 327,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://s3-us-west-2.amazonaws.com/tandfbis/rt-files/docs/Open+Access+Chapters/9781138854192_oachapter6.pdf"
+      },
+      "topics": [
+        "Religious Education and Schools"
+      ],
+      "referenced_works_count": 501,
+      "url": "https://openalex.org/W3007972327"
+    },
+    {
+      "openalex_id": "W2097997611",
+      "doi": "10.1080/00343404.2012.658036",
+      "title": "Governing Suburbia: Modalities and Mechanisms of Suburban Governance",
+      "authors": [
+        {
+          "name": "Michael Ekers",
+          "openalex_id": "A5072574408",
+          "orcid": "https://orcid.org/0000-0003-2859-873X",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Pierre Hamel",
+          "openalex_id": "A5102988457",
+          "orcid": "https://orcid.org/0000-0001-8014-1310",
+          "institutions": [
+            "Universit\u00e9 de Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Roger Keil",
+          "openalex_id": "A5015087713",
+          "orcid": "https://orcid.org/0000-0002-1904-4623",
+          "institutions": [
+            "Keele University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-03-01",
+      "abstract": "Ekers M., Hamel P. and Keil R. Governing suburbia: modalities and mechanisms of suburban governance, Regional Studies . This paper traces the major modalities of suburban governance through a review of the extant literature on the matter. Based on the existing debate on suburban governance it appears that three modalities can be differentiated: the state, capital accumulation and private authoritarianism. A case is made for each and how they function and interrelate is developed. What are the universal and particular forces shaping suburbanization processes in different urban-regions? It is also argued that governance itself needs to be used in critical sense by extending its meaning towards issues of suburbanism, not just the process merely of suburbanization. Ekers M., Hamel P. and Keil R. \u7ba1\u6cbb\u90ca\u533a\uff1a\u90ca\u533a\u7ba1\u6cbb\u7684\u6a21\u5f0f\u4e0e\u673a\u5236. \u533a\u57df\u7814\u7a76. \u672c\u6587\u901a\u8fc7\u5927\u91cf\u6587\u732e\u56de\u987e\u6765\u8ffd\u6eaf\u90ca\u533a\u7ba1\u6cbb\u7684\u4e3b\u8981\u6a21\u5f0f\u3002\u57fa\u4e8e\u73b0\u6709\u90ca\u533a\u7ba1\u6cbb\u7684\u4e89\u8bba\uff0c\u53ef\u4ee5 \u8bc6\u522b\u51fa\u4e09\u79cd\u6a21\u5f0f\uff1a\u653f\u5e9c\u3001\u8d44\u672c\u79ef\u7d2f\u548c\u79c1\u4eba\u72ec\u88c1\u4e3b\u4e49\u3002\u6587\u4e2d\u4e3a\u6bcf\u79cd\u6a21\u5f0f\u7ed9\u51fa\u4e86\u4e00\u4e2a\u6848\u4f8b \uff0c\u800c\u4e14\u63a2\u8ba8\u4e86\u8fd9\u4e9b\u6a21\u5f0f\u662f\u5982\u4f55\u53d1\u6325\u4f5c\u7528\u548c\u76f8\u4e92\u8054\u7cfb\u7684\u3002\u5728\u4e0d\u540c\u7684\u57ce\u5e02\u533a\u57df\uff0c\u5851\u9020\u90ca\u533a \u5316\u8fc7\u7a0b\u7684\u666e\u904d\u548c\u72ec\u7279\u9a71\u52a8\u529b\u662f\u4ec0\u4e48\uff1f\u672c\u6587\u8fd8\u8ba4\u4e3a\u9700\u8981\u6279\u5224\u6027\u5730\u4f7f\u7528\u7ba1\u6cbb\u8fd9\u4e2a\u6982\u5ff5\uff0c\u5c06 \u5176\u542b\u4e49\u6269\u5c55\u5230\u90ca\u533a\u4e3b\u4e49\u7684\u5404\u79cd\u95ee\u9898\uff0c\u800c\u4e0d\u4ec5\u4ec5\u662f\u90ca\u533a\u5316\u7684\u8fc7\u7a0b\u3002 \u90ca\u533a\u5316 \u90ca\u533a\u4e3b\u4e49 \u7ba1\u6cbb \u5168\u7403\u6027\u90ca\u533a Ekers M., Hamel P. et Keil R. G\ufffdrer la banlieue: modalit\ufffds et m\ufffdcanismes de la gouvernance suburbaine, Regional Studies. Cet article passe en revue les principales modalit\ufffds de la gouvernance suburbaine \u00e0 partir d'une recension des \ufffdcrits sur la question. \u00c0 la lumi\u00e8re du d\ufffdbat en cours relatif \u00e0 la gouvernance suburbaine, trois m\ufffdcanismes de gestion peuvent \u00eatre distingu\ufffds, \u00e0 savoir: l'\u00c9tat, l'accumulation de capital et l?autoritarisme priv\ufffd. Chacun est pr\ufffdsent\ufffd sous l'angle de son mode de fonctionnement et des relations qu'il entretient aux autres. Quelles sont les forces universelles et particuli\u00e8res qui structurent les processus de d\ufffdveloppement suburbain dans diverses r\ufffdgions urbaines? Les auteurs soutiennent aussi que la gouvernance elle-m\u00eame doit \u00eatre consid\ufffdr\ufffde sous un angle critique en \ufffdlargissant sa signification par rapport aux enjeux de la r\ufffdalit\ufffd suburbaine et non simplement en r\ufffdf\ufffdrence au processus d'un d\ufffdveloppement suburbain. D\ufffdveloppement de la banlieue Vie p\ufffdriurbaine Gouvernance La banlieue \u00e0 l'\ufffdchelle mondiale Ekers M., Hamel P. und Keil R. Regierungsf\u00fchrung in der Vorstadt: Modalit\u00e4ten und Mechanismen der suburbanen Regierungsf\u00fchrung, Regional Studies . In diesem Beitrag werden die wichtigsten Modalit\u00e4ten der suburbanen Regierungsf\u00fchrung anhand eines \u00dcberblicks \u00fcber die vorhandene Literatur zu diesem Thema untersucht. Ausgehend von der bisherigen Debatte \u00fcber suburbane Regierungsf\u00fchrung l\u00e4sst sich offenbar zwischen drei Modalit\u00e4ten unterscheiden: Staat, Kapitalansammlung und privater Autoritarismus. Wir nennen Argumente f\u00fcr jede Modalit\u00e4t und f\u00fchren aus, wie sie funktionieren und miteinander zusammenh\u00e4ngen. Welche universellen und partikul\u00e4ren Kr\u00e4fte gestalten die Prozesse der Suburbanisierung in verschiedenen urbanen Regionen? Ebenso wird argumentiert, dass die Regierungsf\u00fchrung selbst in einem kritischen Sinn eingesetzt werden muss, indem ihre Bedeutung nicht auf den Prozess der Suburbanisierung beschr\u00e4nkt, sondern auf Themen des Suburbanismus ausgeweitet wird. Suburbanisierung Suburbanismus Regierungsf\u00fchrung Globale Vorst\u00e4dte Ekers M., Hamel P. y Keil R. Gobernar los suburbios: modalidades y mecanismos de la gobernanza suburbana, Regional Studies . En este ensayo exploramos las principales modalidades de la gobernanza suburbana a partir de la bibliograf\ufffda existente sobre este tema. Bas\u00e1ndonos en el debate existente sobre la gobernanza suburbana, podemos diferenciar entre tres modalidades: el estado, la acumulaci\u00f3n de capital y el autoritarismo privado. Introducimos argumentos para cada uno y estudiamos c\u00f3mo funcionan y se relacionan entre ellos. \u00bfQu\ufffd fuerzas universales y particulares forman los procesos de suburbanizaci\u00f3n en las diferentes regiones urbanas? Tambi\ufffdn sostenemos que la misma gobernanza debe utilizarse en sentido cr\ufffdtico ampliando su significado hacia cuestiones de suburbanismo sin limitarse al simple proceso de la suburbanizaci\u00f3n. Suburbanizaci\u00f3n Suburbanismo Gobernanza Suburbio s globales",
+      "cited_by_count": 153,
+      "type": "article",
+      "source": {
+        "name": "Regional Studies",
+        "type": "journal",
+        "issn": [
+          "0034-3404",
+          "1360-0591"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/e1bc53fa-d28a-44f1-a49d-a0b01378c804/download"
+      },
+      "topics": [
+        "Urbanization and City Planning",
+        "Urban Planning and Governance",
+        "Housing, Finance, and Neoliberalism"
+      ],
+      "referenced_works_count": 168,
+      "url": "https://openalex.org/W2097997611"
+    },
+    {
+      "openalex_id": "W2769184920",
+      "doi": "10.1016/j.erss.2017.11.002",
+      "title": "Spatial adventures in energy studies: An introduction to the special issue",
+      "authors": [
+        {
+          "name": "Vanesa Cast\u00e1n Broto",
+          "openalex_id": "A5024790784",
+          "orcid": "https://orcid.org/0000-0002-3175-9859",
+          "institutions": [
+            "University of Sheffield",
+            "Urban Institute (Germany)"
+          ]
+        },
+        {
+          "name": "Lucy Baker",
+          "openalex_id": "A5076230881",
+          "orcid": "https://orcid.org/0000-0001-6008-1656",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-24",
+      "abstract": null,
+      "cited_by_count": 121,
+      "type": "article",
+      "source": {
+        "name": "Energy Research & Social Science",
+        "type": "journal",
+        "issn": [
+          "2214-6296",
+          "2214-6326"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://sro.sussex.ac.uk/id/eprint/71978/1/__smbhome.uscs.susx.ac.uk_qlfd7_Desktop_1-s2.0-S2214629617303894-main.pdf"
+      },
+      "topics": [
+        "Social Acceptance of Renewable Energy",
+        "Geographic Information Systems Studies",
+        "Sustainability and Climate Change Governance"
+      ],
+      "referenced_works_count": 88,
+      "url": "https://openalex.org/W2769184920"
+    },
+    {
+      "openalex_id": "W2168986606",
+      "doi": "10.1124/pr.110.003350",
+      "title": "The Significance of G Protein-Coupled Receptor Crystallography for Drug Discovery",
+      "authors": [
+        {
+          "name": "John Salon",
+          "openalex_id": "A5011530986",
+          "institutions": [
+            "Amgen (United States)",
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "David T. Lodowski",
+          "openalex_id": "A5022911822",
+          "orcid": "https://orcid.org/0000-0002-8783-4328",
+          "institutions": [
+            "Case Western Reserve University",
+            "Amgen (United States)"
+          ]
+        },
+        {
+          "name": "Krzysztof Palczewski",
+          "openalex_id": "A5045657649",
+          "orcid": "https://orcid.org/0000-0002-0788-545X",
+          "institutions": [
+            "Case Western Reserve University",
+            "Amgen (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-10-03",
+      "abstract": null,
+      "cited_by_count": 223,
+      "type": "review",
+      "source": {
+        "name": "Pharmacological Reviews",
+        "type": "journal",
+        "issn": [
+          "0031-6997",
+          "1521-0081"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pharmrev.aspetjournals.org/content/pharmrev/63/4/901.full.pdf"
+      },
+      "topics": [
+        "Receptor Mechanisms and Signaling",
+        "Neuropeptides and Animal Physiology",
+        "Mass Spectrometry Techniques and Applications"
+      ],
+      "referenced_works_count": 334,
+      "url": "https://openalex.org/W2168986606"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,1328 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: hegel
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Georg Wilhelm Friedrich Hegel
+{
+  "status": "success",
+  "source": "sep",
+  "query": "hegel",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/hegel/",
+      "entry_name": "hegel",
+      "title": "Georg Wilhelm Friedrich Hegel",
+      "preamble": "Along with J.G. Fichte and, at least in his early work, F.W.J. von\nSchelling, Georg Wilhelm Friedrich Hegel (1770\u20131831) belongs to\nthe period of German idealism in the decades following Kant. The most\nsystematic of the idealists, Hegel attempted, throughout his published\nwritings as well as in his lectures, to elaborate a comprehensive and\nsystematic philosophy from a purportedly logical starting point. He is\nperhaps most well-known for his teleological account of history, an\naccount that was later taken over by Karl Marx and\n\u201cinverted\u201d into a materialist theory of an historical\ndevelopment culminating in communism. While there were idealist\nphilosophies in Germany after Hegel, the movement commonly known as\nGerman idealism effectively ended with Hegel\u2019s death. Certainly\nafter the revolutions in logical thought from the turn of the\ntwentieth century, the logical side of Hegel\u2019s thought was\nlargely forgotten, although his political and social philosophy and\ntheological views continued to find interest and support. Since the\n1970s, however, more general philosophical interest in Hegel\u2019s\nsystematic thought and its logical basis has been revived.",
+      "bibliography": [
+        {
+          "raw": "Gesammelte Werke , edited by the\nRheinisch-Westf\u00e4lischen Akademie der Wissenschaften, Hamburg:\nFelix Meiner Verlag, 1968\u2013.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Vorlesungen: Ausgew\u00e4hlte Nachschriften und\nManuskripte , edited by Pierre Garniron and Walter Jaeschke,\nHamburg: Felix Meiner Verlag, 1983\u2013.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Werke in zwanzig B\u00e4nden , edited by Eva Moldenhauer\nand Karl Markus Michel, Frankfurt am Main: Suhrkamp Verlag, 1971.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Early Theological Writings , translated by T.M. Knox,\nChicago: Chicago University Press, 1948.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cPhilosophical Dissertation on the Orbits of the Planets and\nthe Habilitation Theses\u201d, in Miscellaneous Writings of\nG.W.F. Hegel , edited by Jon Stewart, Evanston: Northwest\nUniversity Press, 2002.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Difference Between Fichte\u2019s and Schelling\u2019s\nSystem of Philosophy , translated by H.S. Harris and W. Cerf,\nAlbany: State University of New York Press, 1977.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Phen] Phenomenology of Spirit , translated by Terry\nPinkard, Cambridge: Cambridge University Press, 2017.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hegel\u2019s Phenomenology of Spirit , translated by A.\nV. Miller, with analysis of the text and foreword by J. N. Findlay,\nOxford: Clarendon Press, 1979.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[SL] The Science of Logic , translated by George di\nGiovanni, New York: Cambridge University Press, 2010.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Encyclopaedia of the Philosophical Sciences in Basic Outline,\nPart 1: Logic , translated and edited by Klaus Brinkmann and\nDaniel O. Dahlstrom, Cambridge: Cambridge University Press, 2010.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PN] Hegel\u2019s Philosophy of Nature , 3 volumes,\ntranslated and with an introduction by Michael John Petry, London:\nGeorge Allen and Unwin, 1970.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PM] Hegel\u2019s Philosophy of Mind , translated from\nthe 1830 edition, together with the Zus\u00e4tze, by William Wallace\nand A.V. Miller, with revisions and commentary by M.J. Inwood, Oxford:\nClarendon Press, 2007.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lectures on the Philosophy of Spirit, 1827\u20138 ,\ntranslated with an introduction by Robert R. Williams, Oxford: Oxford\nUniversity Press, 2007. (Translation of G.W.F. Hegel: Vorlesungen:\nAusgew\u00e4hlte Nachschriften und Manuskripte, vol. 13.)",
+          "parsed": {
+            "authors": [
+              "Lectures on the Philosophy of Spirit"
+            ],
+            "year": "1827",
+            "title": "Lectures on the Philosophy of Spirit, 1827\u20138 ,\ntranslated with an introduction by Robert R. Williams, Oxford: Oxford\nUniversity Press, 2007. (Translation of G.W.F. Hegel: Vorlesungen:\nAusgew\u00e4hlte Nachschriften und Manuskripte, vol. 13.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "[PR] Elements of the Philosophy of Right , edited by Allen\nW. Wood, translated by H.B. Nisbet, Cambridge: Cambridge University\nPress, 1991.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lectures on Natural Right and Political Science: The First\nPhilosophy of Right , translated by J. Michael Stewart and Peter\nC. Hodgson, edited by the staff of the Hegel Archives with an\nintroduction by Otto P\u00f6ggeler, Berkeley: University of California\nPress, 1995.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PWH] The Philosophy of World History , edited and\ntranslated by John Sibree, New York: Dover, 1956. (First published\n1857.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lectures on the Philosophy of World History, Volume 1:\nManuscripts of the Introduction and the Lectures of 1822\u20133 ,\nedited and translated by Robert F. Brown and Peter C. Hodgson with the\nassistance of William G. Geuss, Oxford: Oxford University Press, 2011.\n(Translation of G.W.F. Hegel: Vorlesungen: Ausgew\u00e4hlte\nNachschriften und Manuskripte , vol. 12.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Aes] Aesthetics: Lectures on Fine Art , 2 volumes,\ntranslated by T.M. Knox, Oxford: Oxford University Press, 1998. (First\npublished 1975.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lectures on the Philosophy of Religion , 3 volumes, edited\nby Peter C. Hodgson, translated by R.F. Brown, P.C. Hodgson, and J. M\nStewart with the assistance of H.S. Harris, Oxford: Oxford University\nPress, 2007\u20138. (Translation of G.W.F. Hegel: Vorlesungen:\nAusgew\u00e4hlte Nachschriften und Manuskripte , vols.\n3\u20135.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[LHP] Lectures on the History of Philosophy , 3 volumes,\ntranslated by E.S. Haldane and F.H. Simson, with introduction by F.C.\nBeiser, Lincoln: University of Nebraska Press, 1995. (This\ntranslation, first published 1892\u20136, is of the second edition of\nHegel\u2019s Vorlesungen \u00fcber die Geschichte der\nPhilosophie , in 3 volumes, edited by Karl Ludwig Michelet.\nBerlin: Duncker und Humblot, 1840\u20134.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[LHP 1825\u20136] Lectures on the History of Philosophy,\n1825\u20136 , 3 volumes, edited by Robert F. Brown, translated by\nR.F. Brown and J.M. Stewart with the assistance of H.S. Harris,\nOxford: Oxford University Press, 2006\u20139. (Translation of G.W.F.\nHegel: Vorlesungen: Ausgew\u00e4hlte Nachschriften und\nManuskripte , vols. 6\u20139.)",
+          "parsed": {
+            "authors": [
+              "[LHP 1825\u20136] Lectures on the History of Philosophy"
+            ],
+            "year": "1825",
+            "title": "[LHP 1825\u20136] Lectures on the History of Philosophy,\n1825\u20136 , 3 volumes, edited by Robert F. Brown, translated by\nR.F. Brown and J.M. Stewart with the assistance of H.S. Harris,\nOxford: Oxford University Press, 2006\u20139. (Translation of G.W.F.\nHegel: Vorlesungen: Ausgew\u00e4hlte Nachschriften und\nManuskripte , vols. 6\u20139.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Political Writings , ed. Laurence Dickey and H.B. Nisbet,\ntrans. H. B Nisbet, Cambridge: Cambridge University Press, 1999.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Abazari, Arash, 2023, \u201cReading the Philosophy of Right in\nLight of the Logic: Hegel on the Possibility of Multiple\nModernities\u201d, in Dean Moyar, Kate Padgett Walsh and Sebastian\nRand (eds.), Hegel\u2019s Philosophy of Right: Critical\nPerspectives on Freedom and History , New York: Routledge,\n84\u2013102.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Althaus, Horst, 2000, Hegel: An Intellectual Biography ,\ntranslated by Michael Tarsh, Cambridge: Polity Press.",
+          "parsed": {
+            "authors": [
+              "Althaus, Horst"
+            ],
+            "year": "2000",
+            "title": "Hegel: An Intellectual Biography ",
+            "publisher": "translated by Michael Tarsh, Cambridge: Polity Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Avineri, Shlomo, 1972, Hegel\u2019s Theory of the Modern\nState , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Baur, Michael (ed.), 2014, G.W.F. Hegel: Key Concepts ,\nAbingdon: Routledge.",
+          "parsed": {
+            "authors": [
+              "Baur, Michael (ed.)"
+            ],
+            "year": "2014",
+            "title": "G.W.F. Hegel: Key Concepts ",
+            "publisher": "Abingdon: Routledge",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Beiser, Frederick C., 2002, German Idealism: The Struggle\nAgainst Subjectivism , Cambridge, Mass.: Harvard University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2003, \u201cHegel and\nNaturphilosophie\u201d, Studies in the History and Philosophy of\nScience , Part A, 34 (1): 135\u2013147.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2003",
+            "title": "\u2013\u2013\u2013, 2003, \u201cHegel and\nNaturphilosophie\u201d, Studies in the History and Philosophy of\nScience , Part A, 34 (1): 135\u2013147."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, Hegel , New York and London:\nRoutledge.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, Hegel , New York and London:\nRoutledge."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 2008, The Cambridge Companion to\nHegel & Nineteenth Century Philosophy , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013 (ed.), 2008, The Cambridge Companion to\nHegel & Nineteenth Century Philosophy , Cambridge: Cambridge\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Boldyrev, Ivan, and Sebastian Stein (eds.) 2022, Interpreting\nHegel\u2019s Phenomenology of Spirit: Expositions and Critique of\nContemporary Readings , New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bourke, Richard, 2023, Hegel\u2019s World Revolutions ,\nPrinceton: Princeton University Press.",
+          "parsed": {
+            "authors": [
+              "Bourke, Richard"
+            ],
+            "year": "2023",
+            "title": "Hegel\u2019s World Revolutions ",
+            "publisher": "Princeton: Princeton University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Bowman, Brady, 2013, Hegel and the Metaphysics of Absolute\nNegativity , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brandom, Robert B., 2009, Reason in Philosophy: Animating\nIdeas , Cambridge, Mass.: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2019, A Spirit of Trust: A Reading of\nHegel\u2019s Phenomenology , Cambridge, Mass: Harvard University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2019",
+            "title": "\u2013\u2013\u2013, 2019, A Spirit of Trust: A Reading of\nHegel\u2019s Phenomenology , Cambridge, Mass: Harvard University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Breckman, Warren, 1998, Marx, the Young Hegelians, and the\nOrigins of Radical Social Theory , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brinkmann, Klaus, 2011, Idealism without Limits: Hegel and the\nProblem of Objectivity , Dordrecht: Springer.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brooks, Thom, and Sebastian Stein (eds.), 2017, Hegel\u2019s\nPolitical Philosophy: On the Normative Significance of Method and\nSystem , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brownlee, Timothy L., 2024, Recognition and the Self in\nHegel\u2019s Phenomenology of Spirit , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bubbio, Paolo Diego, 2017, God and the Self in Hegel: Beyond\nSubjectivism , Albany: State University of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Burbidge, John. W., 1992, Hegel on Logic and Religion: The\nReasonableness of Christianity , Albany: State University of New\nYork Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, Historical Dictionary of Hegelian\nPhilosophy , second edition, Lanham, Maryland: Scarecrow\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, Historical Dictionary of Hegelian\nPhilosophy , second edition, Lanham, Maryland: Scarecrow\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Bykova, Marina F. (ed.), 2024, Hegel\u2019s Philosophy of\nNature: A Critical Guide , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, and Kenneth R. Westphal (eds.), 2020, The Palgrave Hegel Handbook , London: Palgrave.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013,",
+              "Kenneth R. Westphal (eds.)"
+            ],
+            "year": "2020",
+            "title": "The Palgrave Hegel Handbook ",
+            "publisher": "London: Palgrave",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Comay, Rebecca, 2010, Mourning Sickness: Hegel and the French\nRevolution , Stanford: Stanford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Corti, Luca, and Johannes-Georg Sch\u00fclein, 2023, Life,\nOrganisms, and Human Nature: New Perspectives on Classical German\nPhilosophy , Cham: Springer Nature.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Crites, Stephen, 1998, Dialectic and Gospel in the Development\nof Hegel\u2019s Thinking , University Park: Pennsylvania State\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "De Boer, Karin, 2017, \u201cHegel\u2019s Lectures on the History\nof Modern Philosophy\u201d, in Dean Moyar (ed.), The Oxford\nHandbook of Hegel , Oxford: Oxford University Press,\n623\u2013644.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "DeLaurentiis, Allegra, and Jeffrey Edwards (eds.), 2013, The\nBloomsbury Companion to Hegel , London: Continuum Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Deligiorgi, Katerina (ed.), 2006, Hegel: New Directions ,\nBucks, UK: Acumen.",
+          "parsed": {
+            "authors": [
+              "Deligiorgi, Katerina (ed.)"
+            ],
+            "year": "2006",
+            "title": "Hegel: New Directions ",
+            "publisher": "Bucks, UK: Acumen",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "DeVries, Willem, 1988, Hegel\u2019s Theory of Mental\nActivity: An Introduction to Theoretical Spirit , Ithaca: Cornell\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Di Giovanni, George, 2010, \u201cIntroduction\u201d to G.W.F.\nHegel, The Science of Logic , translated by George di\nGiovanni, New York: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Dorian, Gary, 2012, Kantian Reason and Hegelian Spirit: The\nIdealistic Logic of Modern Theology , Chichester: Wiley\nBlackwell.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Farneth, Molly. 2017, Hegel\u2019s Social Ethics: Religion,\nConflict, and Rituals of Reconciliation , Princeton: Princeton\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ferrarin, Alfredo, 2001, Hegel and Aristotle , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ferrini, Cinzia, 2012, \u201cHegel on Nature and Spirit: Some\nSystematic Remarks\u201d, Hegel-Studien , 46,\n117\u2013150.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Findlay, John N., 1958, Hegel: A Re-examination , London:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1963, \u201cThe Contemporary Relevance of\nHegel\u201d, in Language, Mind and Value: Philosophical\nEssays , London: George Allen and Unwin, 217\u2013231.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1963",
+            "title": "\u2013\u2013\u2013, 1963, \u201cThe Contemporary Relevance of\nHegel\u201d, in Language, Mind and Value: Philosophical\nEssays , London: George Allen and Unwin, 217\u2013231."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Forster, Michael N., 1989, Hegel and Skepticism ,\nCambridge, Mass.: Harvard University Press.",
+          "parsed": {
+            "authors": [
+              "Forster, Michael N."
+            ],
+            "year": "1989",
+            "title": "Hegel and Skepticism ",
+            "publisher": "Cambridge, Mass.: Harvard University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1998, Hegel\u2019s Idea of a\nPhenomenology of Spirit , Chicago: University of Chicago\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1998",
+            "title": "\u2013\u2013\u2013, 1998, Hegel\u2019s Idea of a\nPhenomenology of Spirit , Chicago: University of Chicago\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Gadamer, Hans-Georg, 1976a, Hegel\u2019s Dialectic: Five\nHermeneutical Studies , translated by P. Christopher Smith, New\nHaven: Yale University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1976b, \u201cHegel and the Dialectic of\nthe Ancient Philosophers\u201d, in Hegel\u2019s Dialectic: Five\nHermeneutical Studies , translated by P. Christopher Smith, New\nHaven: Yale University Press, 5\u201334.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1976",
+            "title": "\u2013\u2013\u2013, 1976b, \u201cHegel and the Dialectic of\nthe Ancient Philosophers\u201d, in Hegel\u2019s Dialectic: Five\nHermeneutical Studies , translated by P. Christopher Smith, New\nHaven: Yale University Press, 5\u201334."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Giladi, Paul (ed.), 2021, Hegel and the Frankfurt School ,\nAbingdon: Routledge.",
+          "parsed": {
+            "authors": [
+              "Giladi, Paul (ed.)"
+            ],
+            "year": "2021",
+            "title": "Hegel and the Frankfurt School ",
+            "publisher": "Abingdon: Routledge",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Gledhill, James, and Sebastian Stein (eds.), 2020, Hegel and\nContemporary Political Philosophy: Beyond Kantian Constructivism ,\nNew York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Guyer, Paul, and Rolf-Peter Horstmann, 2023, Idealism in\nModern Philosophy , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Halper, Edward C., 2003, \u201cPositive and Negative Dialectics:\nHegel\u2019s Wissenschaft der Logik and Plato\u2019s\nParmenides\u201d, in Burkhard Mojsisch and Orrin F. Summerell (eds.), Platonismus im Idealismus: Die platonische Tradition in der\nklassischen deutschen Philosophie , Munich: K.G. Saur Verlag,\n211\u2013245.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Harris, H.S., 1972, Hegel\u2019s Development: Toward the\nSunlight 1770\u20131801 , Oxford: Clarendon Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1983, Hegel\u2019s Development II:\nNight Thoughts (Jena 1801\u20136) , Oxford: Oxford University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1983",
+            "title": "\u2013\u2013\u2013, 1983, Hegel\u2019s Development II:\nNight Thoughts (Jena 1801\u20136) , Oxford: Oxford University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, Hegel\u2019s Ladder , 2\nvolumes, Indianapolis: Hackett.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997, Hegel\u2019s Ladder , 2\nvolumes, Indianapolis: Hackett."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hartmann, Klaus, 1972, \u201cHegel: A Non-Metaphysical\nView\u201d, in A. MacIntyre (ed.) Hegel: A Collection of Critical\nEssays , New York: Anchor Books, 101\u2013124.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hermann-Sinai, Susanne, and Lucia Ziglioli (eds.), 2019, Hegel\u2019s Philosophical Psychology , London:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hodgson, Peter C., 2005, Hegel and Christian Theology: A\nReading of the Lectures on the Philosophy of Religion , New York:\nOxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Honneth, Axel, 1995, The Struggle for Recognition: The Moral\nGrammar of Social Conflicts , Cambridge Mass.: MIT Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, The Pathologies of Individual\nFreedom: Hegel\u2019s Social Theory , translated by. L. Lob,\nPrinceton: Princeton University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, The Pathologies of Individual\nFreedom: Hegel\u2019s Social Theory , translated by. L. Lob,\nPrinceton: Princeton University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Horstmann, Rolf-Peter, 1984, Ontologie und Relationen ,\nK\u00f6nigstein/Tannus: Athen\u00e4um-Hain.",
+          "parsed": {
+            "authors": [
+              "Horstmann, Rolf-Peter"
+            ],
+            "year": "1984",
+            "title": "Ontologie und Relationen ",
+            "publisher": "K\u00f6nigstein/Tannus: Athen\u00e4um-Hain"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, \u201cSubstance, Subject and\nInfinity: A Case Study of the Role of Logic in Hegel\u2019s\nSystem\u201d, in Katerina Deligiorgi (ed.), Hegel: New\nDirections , Chesham: Acumen, 69\u201384.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, \u201cSubstance, Subject and\nInfinity: A Case Study of the Role of Logic in Hegel\u2019s\nSystem\u201d, in Katerina Deligiorgi (ed.), Hegel: New\nDirections , Chesham: Acumen, 69\u201384."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "H\u00f6sle, Vittorio, 1987, Hegels System: Der Idealismus der\nSubjectivit\u00e4t und das Problem der Intersubjectivit\u00e4t , 2\nvolumes, Hamburg: Meiner Verlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Houlgate, Stephen, 1991, An Introduction to Hegel: Freedom,\nTruth and History , London: Routledge (2nd edition, Oxford:\nBlackwell, 2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, (ed.), 1998, Hegel and the Philosophy\nof Nature , Albany: State University of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, The Opening of Hegel\u2019s\nLogic: From Being to Infinity , Purdue University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, The Opening of Hegel\u2019s\nLogic: From Being to Infinity , Purdue University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2022, Hegel on Being , in two\nvolumes: Volume 1, Quality and the Birth of Quantity in\nHegel\u2019s Science of Logic ; Volume 2: Quantity and\nMeasure in Hegel\u2019s Science of Logic , London: Bloomsbury\nAcademic.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2022",
+            "title": "\u2013\u2013\u2013, 2022, Hegel on Being , in two\nvolumes: Volume 1, Quality and the Birth of Quantity in\nHegel\u2019s Science of Logic ; Volume 2: Quantity and\nMeasure in Hegel\u2019s Science of Logic , London: Bloomsbury\nAcademic."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, and Michael Baur (eds.), 2011, A\nCompanion to Hegel , Oxford: Blackwell.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ik\u00e4heimo, Heikki, 2017, \u201cHegel\u2019s\nPsychology\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 424\u2013449.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, and Arto Laitinen (eds.) 2011, Recognition and Social Ontology , Leiden and Boston:\nBrill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Illetterati, Luca, and Giovanna Miolli (eds.), 2022, The\nRelevance of Hegel\u2019s Concept of Philosophy: From Classical\nGerman Philosophy to Contemporary Metaphilosophy , London:\nBloomsbury Academic.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Inwood, Michael, 1992, A Hegel Dictionary , Oxford:\nBlackwell.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jaeschke, Walter, 1990, Reason in Religion: The Foundations of\nHegel\u2019s Philosophy of Religion , translated by J.M. Stewart\nand Peter Hodgson, Berkeley: University of California Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, Hegel Handbuch:\nLeben-Werk-Schule , second edition, Stuttgart: Verlag J.B.\nMetzler.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, Hegel Handbuch:\nLeben-Werk-Schule , second edition, Stuttgart: Verlag J.B.\nMetzler."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "James, David, 2009, Art, Myth and Society in Hegel\u2019s\nAesthetics , London: Continuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kaufmann, Ralph M., Ansgar Lyssy, and Christopher Yeomans, 2021,\n\u201cHegel\u2019s Philosophy of Nature: The Expansion of\nParticularity as the Filing of Space and Time\u201d, in Sebastian\nStein and Joshua I. Wretzel (eds.), Hegel\u2019s Encyclopedia of\nthe Philosophical Sciences: A Critical Guide , Cambridge:\nCambridge University Press, 109\u2013126.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kerv\u00e9gan, Jean- Fran\u00e7ois, 2018, The Actual and\nthe Rational: Hegel and Objective Spirit , translated by Daniela\nGinsburg & Martin Shuster, Chicago: University of Chicago\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Koj\u00e8ve, Alexandre, 1969, Introduction to the Reading of\nHegel , edited by Allan Bloom and translated by J.H. Nichols, Jr.,\nNew York: Basic Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kolb, David (ed.), 1992, New Perspectives on Hegel\u2019s\nPhilosophy of Religion , Albany: State University of New York\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kreines, James, 2006, \u201cHegel\u2019s Metaphysics: Changing\nthe Debate\u201d, Philosophy Compass , 1(5):\n466\u2013480.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008, \u201cThe Logic of Life:\nHegel\u2019s Philosophical Defense of Teleological Explanation of\nLiving Beings\u201d, in Frederick C. Beiser (ed.), Hegel and\nNineteenth Century Philosophy , New York: Cambridge University\nPress, 344\u2013377.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008, \u201cThe Logic of Life:\nHegel\u2019s Philosophical Defense of Teleological Explanation of\nLiving Beings\u201d, in Frederick C. Beiser (ed.), Hegel and\nNineteenth Century Philosophy , New York: Cambridge University\nPress, 344\u2013377."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2015, Reason in the World:\nHegel\u2019s Metaphysics and its Philosophical Appeal , Oxford:\nOxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2015",
+            "title": "\u2013\u2013\u2013, 2015, Reason in the World:\nHegel\u2019s Metaphysics and its Philosophical Appeal , Oxford:\nOxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Lewis, Thomas A., 2011, Religion, Modernity and Politics in\nHegel , New York: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Longuenesse, B\u00e9atrice, 2007, Hegel\u2019s Critique of\nMetaphysics , translated by Nicole J. Simek, New York: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Luk\u00e1cs, Georg, 1975, The Young Hegel , translated\nby R. Livingston, London: Merlin Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Martin, Christian, 2021, \u201cFrom Logic to Nature\u201d, in\nSebastian Stein and Joshua I. Wretzel (eds.), Hegel\u2019s\nEncyclopedia of the Philosophical Sciences: A Critical Guide ,\nCambridge: Cambridge University Press, 88\u2013108.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McCumber, John, 2014, Hegel\u2019s Mature Critique of\nKant , Stanford: Stanford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McDowell, John. H., 2006, \u201cThe Apperceptive I and the\nEmpirical Self: Towards a Heterodox Reading of \u2018Lordship and\nBondage\u2019 in Hegel\u2019s Phenomenology\u201d, in Katerina\nDeligiorgi (ed.), Hegel: New Directions , Chesham: Acumen,\n33\u201348.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2018, \u201cWhat is the Phenomenology\nAbout?\u201d, in Federico Sanguinetti and Andr\u00e9 J. Abarth\n(eds.), McDowell and Hegel: Perceptual Experience, Thought and\nAction , Cham: Springer, 29\u201340.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2018",
+            "title": "\u2013\u2013\u2013, 2018, \u201cWhat is the Phenomenology\nAbout?\u201d, in Federico Sanguinetti and Andr\u00e9 J. Abarth\n(eds.), McDowell and Hegel: Perceptual Experience, Thought and\nAction , Cham: Springer, 29\u201340."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "McNulty, Jacob, 2023, Hegel\u2019s Logic and Metaphysics ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "McNulty, Jacob"
+            ],
+            "year": "2023",
+            "title": "Hegel\u2019s Logic and Metaphysics ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Melamed, Yitzhak Y., 2010, \u201cAcosmism or Weak Individuals?\nHegel, Spinoza, and the Reality of the Finite\u201d, J ournal of\nthe History of Philosophy , 48(1): 77\u201392.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Moggach, Douglas (ed.), 2006, The New Hegelians: Politics and\nPhilosophy in the Hegelian School , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, (ed.), 2011, Politics, Religion, and\nArt: Hegelian Debates , Evanston IL.: Northwestern University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Moland, Lydia L., 2017, \u201cHegel\u2019s Philosophy of\nArt\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 559\u2013580.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2019, Hegel\u2019s Aesthetics: The Art\nof Idealism , Oxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2019",
+            "title": "\u2013\u2013\u2013, 2019, Hegel\u2019s Aesthetics: The Art\nof Idealism , Oxford: Oxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Moss, Gregory S., 2020, Hegel\u2019s Foundation Free\nMetaphysics: The Logic of Singularity , New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Moyar, Dean, 2012, \u201cThought and Metaphysics: Hegel\u2019s\nCritical Reception of Spinoza\u201d, in Eckart F\u00f6rster and\nYitzhak Y. Melamed (eds.), Spinoza and German Idealism ,\nCambridge UK: Cambridge University Press, 197\u2013213.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, (ed.), 2017, The Oxford Handbook of\nHegel , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, Kate Padgett Walsh and Sebastian Rand\n(eds.), 2023, Hegel\u2019s Philosophy of Right: Critical\nPerspectives on Freedom and History , New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, and Michael Quante (eds), 2008, Hegel\u2019s Phenomenology of Spirit: A Critical Guide ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013,",
+              "Michael Quante (eds)"
+            ],
+            "year": "2008",
+            "title": "Hegel\u2019s Phenomenology of Spirit: A Critical Guide ",
+            "publisher": "Cambridge: Cambridge University Press",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Neuhouser, Frederick, 2000, Foundations of Hegel\u2019s\nSocial Theory: Actualizing Freedom , Cambridge, Mass.: Harvard\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ng, Karen, 2020, Hegel\u2019s Concept of Life:\nSelf-Consciousness, Freedom, Logic , Oxford: Oxford University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Novakovik, Andreja, 2017, \u201cHegel\u2019s\nAnthropology\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 407\u2013424.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nuzzo, Angelica, 2013a, \u201cAnthropology, Geist, and the\nSoul-Body Relation: The Systematic Beginning of Hegel\u2019s\nPhilosophy of Spirit\u201d, in David Stern (ed.), Essays on\nHegel\u2019s Philosophy of Subjective Spirit: Imaginative\nTransformation and Ethical Action in Literature , Albany: State\nUniversity of New York Press, 1\u201318.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, (ed.), 2013b, Hegel on Religion and\nPolitics , Albany: State University of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2024, \u201cThe Logic of Nature: Nature as\nthe Idea in the Form of Otherness\u201d, in Marina Bykova (ed.), Hegel\u2019s Philosophy of Nature: A Critical Guide ,\nCambridge: Cambridge University Press, 97\u2013116.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2024",
+            "title": "\u2013\u2013\u2013, 2024, \u201cThe Logic of Nature: Nature as\nthe Idea in the Form of Otherness\u201d, in Marina Bykova (ed.), Hegel\u2019s Philosophy of Nature: A Critical Guide ,\nCambridge: Cambridge University Press, 97\u2013116."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Pelczynski, Z.A. (ed.), 1984, The State and Civil Society:\nStudies in Hegel\u2019s Political Philosophy , Cambridge:\nCambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Peters, Julia, 2014, Hegel on Beauty , London:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Petry, Michael John (ed.), 1993, Hegel and Newtonianism ,\nDordrecht: Kluwer.",
+          "parsed": {
+            "authors": [
+              "Petry, Michael John (ed.)"
+            ],
+            "year": "1993",
+            "title": "Hegel and Newtonianism ",
+            "publisher": "Dordrecht: Kluwer",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Pinkard, Terry, 1994, Hegel\u2019s Phenomenology: The\nSociality of Reason , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, Hegel: A Biography ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "Hegel: A Biography ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, German Philosophy\n1760\u20131860: The Legacy of Idealism , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, German Philosophy\n1760\u20131860: The Legacy of Idealism , Cambridge: Cambridge\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2012, Hegel\u2019s Naturalism: Mind,\nNature and the Final Ends of Life , Oxford: Oxford University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2012",
+            "title": "\u2013\u2013\u2013, 2012, Hegel\u2019s Naturalism: Mind,\nNature and the Final Ends of Life , Oxford: Oxford University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017a, Does History Make Sense? Hegel\non the Historical Shapes of Justice , Cambridge, Mass.: Harvard\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017a, Does History Make Sense? Hegel\non the Historical Shapes of Justice , Cambridge, Mass.: Harvard\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017b, \u201cHegel\u2019s Philosophy of\nHistory as the Metaphysics of Agency\u201d, in Dean Moyar (ed.), The Oxford Handbook of Hegel , Oxford: Oxford University\nPress, 535\u2013555.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017b, \u201cHegel\u2019s Philosophy of\nHistory as the Metaphysics of Agency\u201d, in Dean Moyar (ed.), The Oxford Handbook of Hegel , Oxford: Oxford University\nPress, 535\u2013555."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Pippin, Robert B., 1989, Hegel\u2019s Idealism: The\nSatisfactions of Self-Consciousness , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008, Hegel\u2019s Practical\nPhilosophy: Rational Agency as Ethical Life , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008, Hegel\u2019s Practical\nPhilosophy: Rational Agency as Ethical Life , Cambridge: Cambridge\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, Hegel on Self-Consciousness:\nDesire and Death in the Phenomenology of Spirit , Princeton:\nPrinceton University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, Hegel on Self-Consciousness:\nDesire and Death in the Phenomenology of Spirit , Princeton:\nPrinceton University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, After the Beautiful: Hegel and\nthe Philosophy of Pictorial Modernism , Chicago: University of\nChicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, After the Beautiful: Hegel and\nthe Philosophy of Pictorial Modernism , Chicago: University of\nChicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017, \u201cHegel on Logic as\nMetaphysics\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 199\u2013218.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017, \u201cHegel on Logic as\nMetaphysics\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 199\u2013218."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2019, Hegel\u2019s Realm of Shadows:\nLogic as Metaphysics in the Science of Logic , Chicago: University\nof Chicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2019",
+            "title": "\u2013\u2013\u2013, 2019, Hegel\u2019s Realm of Shadows:\nLogic as Metaphysics in the Science of Logic , Chicago: University\nof Chicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "P\u00f6ggeler, Otto, 1973, Hegels Idee einer\nPh\u00e4nomenologies des Geistes , Freiburg: Karl Alber.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Popper, Karl, 1945, The Open Society and Its Enemies ,\nVol. 2: Hegel, Marx, and the Aftermath , London:\nRoutledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Posch, Thomas, 2011, \u201cHegel and the Sciences\u201d, in\nStephen Houlgate and Michael Baur (eds.), A Companion to\nHegel , Chichester: Wiley-Blackwell, 177\u2013202.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Priest, Graham, 1989/90, \u201cDialectic and Dialetheic\u201d, Science & Society , 53(4): 388\u2013415.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Quante, Michael, 2004, Hegel\u2019s Concept of Action ,\ntranslated by Dean Moyar, New York: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Quante, Michael"
+            ],
+            "year": "2004",
+            "title": "Hegel\u2019s Concept of Action ",
+            "publisher": "translated by Dean Moyar, New York: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Rand, Sebastian, 2017, \u201cHegel\u2019s Philosophy of\nNature\u201d, in Dean Moyar (ed.), The Oxford Handbook of\nHegel , Oxford: Oxford University Press, 384\u2013406.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Raysmith, Thomas, 2025, Hegel and the Problem of the History\nof Philosophy , London: Bloomsbury Academic.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Redding, Paul, 2009, Continental Idealism: Leibniz to\nNietzsche , Abingdon: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017a, \u201cFindlay\u2019s Hegel:\nIdealism as Modal Actualism\u201d, in Critical Horizons ,\n18(2): 359\u2013377.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017a, \u201cFindlay\u2019s Hegel:\nIdealism as Modal Actualism\u201d, in Critical Horizons ,\n18(2): 359\u2013377."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017b, \u201cHegel\u2019s Lectures on the\nHistory of Ancient and Medieval Philosophy\u201d, in Dean Moyar\n(ed.), The Oxford Handbook of Hegel , Oxford: Oxford\nUniversity Press, 603\u2013622.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017b, \u201cHegel\u2019s Lectures on the\nHistory of Ancient and Medieval Philosophy\u201d, in Dean Moyar\n(ed.), The Oxford Handbook of Hegel , Oxford: Oxford\nUniversity Press, 603\u2013622."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2023a, Conceptual Harmonies: The\nOrigins and Relevance of Hegel\u2019s Logic , Chicago: University\nof Chicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2023",
+            "title": "\u2013\u2013\u2013, 2023a, Conceptual Harmonies: The\nOrigins and Relevance of Hegel\u2019s Logic , Chicago: University\nof Chicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2023b, \u201cIntuitionist and Classical\nDimensions of Hegel\u2019s Hybrid Logic\u201d, History and\nPhilosophy of Logic , 44(2): 209\u2013224.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2023",
+            "title": "\u2013\u2013\u2013, 2023b, \u201cIntuitionist and Classical\nDimensions of Hegel\u2019s Hybrid Logic\u201d, History and\nPhilosophy of Logic , 44(2): 209\u2013224."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Reid, Jeffrey, 2014, The Anti Romantic: Hegel Against Ironic\nRomanticism , London: Bloomsbury.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ricci, Valentina, and Federico Sanguinetti (eds.), 2013, Hegel\non Recollection: Essays on the Concept of Erinnerung in Hegel\u2019s\nSystem , Newcastle upon Tyne: Cambridge Scholars Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rorty, Richard. 1982. \u201cNineteenth-Century Idealism and\nTwentieth-Century Textualism\u201d, in Consequences of\nPragmatism: Essays: 1972 \u2013 1980 , Brighton: Harvester Press,\n139\u2013159.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rosen, Michael, 1984, Hegel\u2019s Dialectic and Its\nCriticism , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rosen, Stanley, 2013, The Idea of Hegel\u2019s \u201cScience\nof Logic\u201d , Chicago: University of Chicago Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rutter, Benjamin, 2010, Hegel on the Modern Arts ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Rutter, Benjamin"
+            ],
+            "year": "2010",
+            "title": "Hegel on the Modern Arts ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Schrader, Fred E., 2013, \u201cMarx\u2019s Hegelian Project and\nWorld History\u201d, in Allegra de Laurentiis and Jeffrey Edwards\n(eds.), The Bloomsbury Companion to Hegel , London: Bloomsbury\nAcademic.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sedgwick, Sally, 2012, Hegel\u2019s Critique of Kant: From\nDichotomy to Identity , Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2023, Time and History in Hegelian\nThought and Spirit , Oxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2023",
+            "title": "\u2013\u2013\u2013, 2023, Time and History in Hegelian\nThought and Spirit , Oxford: Oxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Sellars, Wilfrid, 1997, Empiricism and the Philosophy of\nMind , with an introduction by Richard Rorty and a study guide by\nRobert Brandom, Cambridge Mass.: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2007, In the Space of Reasons: Selected\nEssays , edited by Kevin Scharp and Robert B. Brandom, Cambridge\nMass.: Harvard University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2007",
+            "title": "\u2013\u2013\u2013, 2007, In the Space of Reasons: Selected\nEssays , edited by Kevin Scharp and Robert B. Brandom, Cambridge\nMass.: Harvard University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Siep, Ludwig, 1979, Anerkennung als Prinzip der praktischen\nPhilosophie: Untersuchungen zu Hegels Jenaer Philosophie des\nGeistes , Freiburg: Karl Alber Verlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2014, Hegel\u2019s Phenomenology of\nSpirit , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2014",
+            "title": "\u2013\u2013\u2013, 2014, Hegel\u2019s Phenomenology of\nSpirit , Cambridge: Cambridge University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Stein, Sebastian, 2024, \u201cNature and Its Limits:\nHegel\u2019s Idealist Critiques of Physicalism, Naturalism, and\nEssentialism\u201d, in Marina Bykova (ed.), Hegel\u2019s\nPhilosophy of Nature: A Critical Guide , Cambridge: Cambridge\nUniversity Press, 36\u201357.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Stern, David (ed.), 2013, Essays on Hegel\u2019s Philosophy\nof Subjective Spirit: Imaginative Transformation and Ethical Action in\nLiterature , Albany: State University of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Stern, Robert, 1990, Hegel, Kant and the Structure of the\nObject , London: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, (ed.), 1993, G.W.F. Hegel: Critical\nAssessments , 4 volumes, London: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, Routledge Philosophy Guidebook to\nHegel and the Phenomenology of Spirit , London: Routledge.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, Routledge Philosophy Guidebook to\nHegel and the Phenomenology of Spirit , London: Routledge."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2009, Hegelian Metaphysics ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2009",
+            "title": "Hegelian Metaphysics ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, and Leonard Weiss, 2024, \u201cThe\nFeebleness of the Concept of Nature: A Challenge to Conceptual\nRealism?\u201d, in Marina F. Bykova (ed.), Hegel\u2019s\nPhilosophy of Nature: A Critical Guide , Cambridge: Cambridge\nUniversity Press, 15\u201335.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Taylor, Charles, 1975, Hegel , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Stone, Alison, 2005, Petrified Intelligence: Nature in\nHegel\u2019s Philosophy , Albany: State University of New York\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Toews, John, 1985, Hegelianism: The Path toward Dialectical\nHumanism, 1805\u20131841 , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tunick, Mark, 1992, Hegel\u2019s Political Philosophy: Interpreting\nthe Practice of Legal Punishment , Princeton: Princeton University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Vieweg, Klaus, 2023, Hegel: The Philosopher of Freedom ,\ntranslated by Sophia Kottman, Stanford: Stanford University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wallace, Robert M., 2005, Hegel\u2019s Philosophy of Reality,\nFreedom, and God , Cambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Wallace, Robert M."
+            ],
+            "year": "2005",
+            "title": "Hegel\u2019s Philosophy of Reality",
+            "publisher": "Freedom, and God , Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Westphal, Kenneth R., 2003, Hegel\u2019s Epistemology: A\nPhilosophical Introduction to the Phenomenology of Spirit ,\nIndianapolis: Hackett.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013. 2008, \u201cPhilosophizing about Nature:\nHegel\u2019s Philosophical Project\u201d, in Frederick C. Beiser\n(ed.), The Cambridge Companion to Hegel & Nineteenth Century\nPhilosophy , Cambridge: Cambridge University Press,\n281\u2013310.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013. (ed.), 2009, The Blackwell Guide to\nHegel\u2019s Phenomenology of Spirit , Oxford: Blackwell.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013. (ed.)"
+            ],
+            "year": "2009",
+            "title": "\u2013\u2013\u2013. (ed.), 2009, The Blackwell Guide to\nHegel\u2019s Phenomenology of Spirit , Oxford: Blackwell."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Williams, Robert R., 1992, Recognition: Fichte and Hegel on\nthe Other , Albany: State University of New York Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, Hegel\u2019s Ethics of\nRecognition , Berkeley: University of California Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997, Hegel\u2019s Ethics of\nRecognition , Berkeley: University of California Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2007, \u201cIntroduction\u201d to G. W.\nF. Hegel, Lectures on the Philosophy of Spirit , 1827\u20138,\ntranslated with an introduction by Robert R. Williams, Oxford: Oxford\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2007",
+            "title": "\u2013\u2013\u2013, 2007, \u201cIntroduction\u201d to G. W.\nF. Hegel, Lectures on the Philosophy of Spirit , 1827\u20138,\ntranslated with an introduction by Robert R. Williams, Oxford: Oxford\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2012, Tragedy, Recognition, and the\nDeath of God: Studies in Hegel & Nietzsche , New York: Oxford\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2012",
+            "title": "\u2013\u2013\u2013, 2012, Tragedy, Recognition, and the\nDeath of God: Studies in Hegel & Nietzsche , New York: Oxford\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Wood, Allen W., 1990, Hegel\u2019s Ethical Thought ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "Wood, Allen W."
+            ],
+            "year": "1990",
+            "title": "Hegel\u2019s Ethical Thought ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Yeomans, Christopher, 2012, Freedom and Reflection: Hegel and\nthe Logic of Agency , New York: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ],
+      "sections": {
+        "1": {
+          "id": "1",
+          "title": "Life, Work, and Influence",
+          "content": "Born in 1770 in Stuttgart, Hegel spent the years 1788\u20131793 as a\nstudent in nearby T\u00fcbingen, studying first philosophy and then\ntheology, and forming friendships with fellow students, the future\ngreat romantic poet Friedrich H\u00f6lderlin (1770\u20131843) and\nFriedrich von Schelling (1775\u20131854), who, like Hegel, would\nbecome one of the major figures of the German philosophical scene in\nthe first half of the nineteenth century. These friendships clearly\nhad a major influence on Hegel\u2019s philosophical development, and\nfor a while the intellectual lives of the three were closely\nintertwined. After graduation Hegel worked as a tutor for families in Bern and then\nFrankfurt, where he was reunited with H\u00f6lderlin. Until around\n1800, Hegel devoted himself to developing his ideas on religious and\nsocial themes, and seemed to have envisaged a future for himself as a\ntype of modernising and reforming educator, in the image of figures of\nthe German Enlightenment such as Lessing and Schiller. Around the turn\nof the century, however, under the influence of H\u00f6lderlin and\nSchelling, his interests turned more to issues arising from the critical philosophy initiated by Immanuel Kant\n(1724\u20131804) and developed by J.G. Fichte (1762\u20131814). In\nthe 1790s the University of Jena had become a center for the\ndevelopment of Kantian critical philosophy due to the presence of K.L.\nReinhold (1757\u20131823) and then Fichte, who taught there from 1794\nuntil his dismissal on the grounds of atheism at the end of the\ndecade. By that time Schelling, who had first been attracted to Jena\nby the presence of Fichte, had become an established figure at the\nuniversity. In 1801 Hegel moved to Jena to join Schelling, and in same\nyear published his first philosophical work, The Difference\nbetween Fichte\u2019s and Schelling\u2019s System of\nPhilosophy , in which he argued that Schelling had succeeded where\nFichte had failed in the project of systematizing and thereby\ncompleting Kant\u2019s transcendental idealism. In 1802 and 1803\nHegel and Schelling worked closely together, editing and contributing\nto the Critical Journal of Philosophy , and on the basis of\nthis association Hegel came to be dogged for many years by the\nreputation of being a \u201cmere\u201d follower of Schelling (who\nwas five years his junior). By late 1806 Hegel had completed his first major work, the Phenomenology of Spirit (published 1807), which showed a\ndivergence from his earlier, seemingly more Schellingian, approach.\nSchelling, who had left Jena in 1803, interpreted a barbed criticism\nin the Phenomenology \u2019s preface as aimed at him, and\ntheir friendship abruptly ended. The occupation of Jena by\nNapoleon\u2019s troops as Hegel was completing the manuscript\nrestricted the activities of the university and Hegel departed. Now\nwithout a university appointment, he worked for a short time,\napparently very successfully, as an editor of a newspaper in Bamberg,\nand then from 1808 to 1815 as the headmaster and philosophy teacher at\na gymnasium (high school) in Nuremberg. During his time at Nuremberg\nhe married and started a family, and wrote and published his Science of Logic . In 1816 he managed to return to his\nuniversity career by being appointed to a chair in philosophy at the\nUniversity of Heidelberg, but shortly after, in 1818, he was offered\nand took up the chair of philosophy at the University of Berlin, the\nmost prestigious position in the German philosophical world. In 1817,\nwhile in Heidelberg, he published the Encyclopaedia of the\nPhilosophical Sciences , a systematic work in which an abbreviated\nversion of the earlier Science of Logic (the Encyclopaedia Logic or Lesser Logic ) was followed by\nthe application of its principles to the philosophy of nature and the\nphilosophy of spirit. In 1821 in Berlin Hegel published his major work\nin political philosophy, Elements of the Philosophy of Right ,\nbased on lectures given at Heidelberg but ultimately grounded in the\nsection of the Philosophy of Spirit part of the Encyclopaedia dealing with objective spirit. During the\nfollowing ten years up to his death in 1831 Hegel enjoyed celebrity at\nBerlin, and published subsequent versions of the Encyclopaedia . After his death versions of his lectures on\nphilosophy of history, philosophy of religion, aesthetics, and the\nhistory of philosophy were published. After Hegel\u2019s death, Schelling, whose reputation had long since\nbeen eclipsed by that of Hegel, was invited to take up the chair at\nBerlin, reputedly because the government of the day had wanted to\ncounter the influence that Hegelian philosophy had exerted on a\ngeneration of students. Since the early period of his collaboration\nwith Hegel, Schelling had become more religious in his philosophising\nand criticised the rationalism of Hegel\u2019s philosophy. During\nthis time of Schelling\u2019s tenure at Berlin, important forms of\nlater critical reaction to Hegelian philosophy developed. Hegel\nhimself had been a supporter of progressive but non-revolutionary\npolitics, but his followers divided into factions broadly groupable as\nthose of the left, right and centre (Toews 1985); from the left, Karl\nMarx was to develop his own purported scientific approach to society\nand history which appropriated many Hegelian ideas into a\nmaterialistic outlook (Breckman 1998). (Later, especially in reaction\nto orthodox Soviet versions of Marxism, many so-called Western\nMarxists re-incorporated further Hegelian elements back into their\nforms of Marxist philosophy.) Many of Schelling\u2019s own criticisms\nof Hegel\u2019s rationalism found their way into subsequent\nexistentialist thought, especially via the writings of Kierkegaard,\nwho had attended Schelling\u2019s lectures. Furthermore, the\ninterpretation Schelling offered of Hegel during these years itself\nhelped to shape subsequent generations\u2019 understanding of Hegel,\ncontributing to the orthodox or traditional understanding of Hegel as\na metaphysical thinker in the pre-Kantian dogmatic sense. In academic philosophy, Hegelian idealism had seemed to collapse\ndramatically after 1848 and the failure of the revolutionary movements\nof that year, but underwent a revival in both Great Britain and the\nUnited States in the last decades of the nineteenth century. In\nBritain, where philosophers such as T.H. Green and F.H. Bradley had\ndeveloped metaphysical ideas which they related back to Hegel\u2019s\nthought, Hegel came to be one of the main targets of attack by the\nfounders of the emerging \u201canalytic\u201d movement, Bertrand\nRussell and G.E. Moore. For Russell, the revolutionary innovations in\nlogic starting in the last decades of the nineteenth century with the\nwork of Frege and Peano had destroyed Hegel\u2019s metaphysics by\noverturning the Aristotelian logic on which, so Russell claimed, it\nwas based, and in line with this dismissal, Hegel came to be seen\nwithin the analytic movement as an historical figure of little genuine\nphilosophical interest. To some degree, analogous things could be said\nof Hegel\u2019s reception from within the twentieth-century\nphenomenological tradition that developed in continental Europe, but\nalthough marginalized within such core areas of mainstream academic\nphilosophy, Hegel nevertheless continued to be a figure of interest\nwithin other philosophical movements such as existentialism and\nMarxism. In France, a version of Hegelianism came to influence a\ngeneration of thinkers, including Jean Hyppolite, Jean-Paul Sartre and\nthe psychoanalyst Jacques Lacan, largely through the lectures of\nAlexandre Koj\u00e8ve. However, a later generation of French\nphilosophers coming to prominence in the 1960s tended to react against\nHegel in ways analogous to those in which early analytic philosophers\nhad reacted against the Hegel who had influenced their predecessors.\nIn Germany, having lapsed in the second half of the nineteenth\ncentury, interest in Hegel was revived at the turn of the twentieth\nwith the historical work of Wilhelm Dilthey, and important Hegelian\nelements were incorporated within the approaches of thinkers of the\nFrankfurt School, such as Theodor Adorno, and later J\u00fcrgen\nHabermas (Giladi 2021), as well as within the Heidegger-influenced\nhermeneutic approach of H.-G. Gadamer (1976a). In Hungary, similar\nHegelian themes were developed by Georg Luk\u00e1cs (1975) and later\nthinkers of the Budapest School. In the 1960s the German philosopher\nKlaus Hartmann (1972) developed what was termed a non-metaphysical interpretation of Hegel which, together with\nthe work of Dieter Henrich, Rolf-Peter Horstmann and others, played an\nimportant role in the revival of interest in Hegel in academic\nphilosophy in the second half of the century. Within English-speaking\nphilosophy, the final quarter of the twentieth century saw something\nof a revival of serious interest in Hegel\u2019s philosophy with\nimportant works appearing such as those by H.S. Harris (1972, 1983,\n1997), Charles Taylor (1975), Robert Pippin (1989) and Terry Pinkard\n(1994) in North America, and Stephen Houlgate (1991) and Robert Stern\n(1990) in Great Britain. By the close of the twentieth century, even\nwithin core logico-metaphysical areas of analytic philosophy, a number\nof individuals such as Robert Brandom (2009) and John McDowell (2006)\nhad started to take Hegel seriously as a significant modern\nphilosopher, although generally within analytic circles a favorable\nreassessment of Hegel has still a long way to go."
+        },
+        "2": {
+          "id": "2",
+          "title": "4 The revised metaphysical reaction to the post-Kantian view of Hegel",
+          "content": "Not surprisingly, the strong post-Kantian interpretation of Hegel was\nsoon subjected to criticism by defenders of the more traditional\napproach, who argued against the plausibility of attempting to\nrehabilitate Hegel\u2019s philosophy by divesting it of its central\nand purportedly unacceptable metaphysical claims (see, for example,\nBeiser 2005 and Horstmann 2006). Proponents of the post-Kantian view,\nit was commonly said, were portrayed as projecting onto Hegel views a\ncontemporary philosopher would like to find there rather than what is\nactually to be found. However, the post-Kantian interpretation also\ncame to be criticized by a variety of interpreters who, while\nrecognizing the influence of Kant\u2019s critical philosophy on\nHegel, emphasized Hegel\u2019s critique of Kant and affirmed the\nirreducible role played by metaphysics in Hegel\u2019s\nphilosophy. Nevertheless, many of these interpreters shared the\npost-Kantians\u2019 attempts to separate Hegel\u2019s views from the\nextravagant views traditionally ascribed to him, and generally argued\nfor the broad acceptability of Hegel\u2019s views from the\nperspective of contemporary approaches to philosophy. Among these\ncritics one can find interpreters attributing to Hegel some type of conceptual realism , sometimes appealing to contemporary\nanalytic metaphysics for the legitimacy of metaphysics conceived as\ninquiry into the fundamental features or structures of the world\nitself. Interpreters advancing some version of the revised\nmetaphysical view include Stephen Houlgate (2005, 2022), Robert Stern\n(2002, 2009), Kenneth Westphal (2003), James Kreines (2006, 2008,\n2015), Karen Ng (2020), and Jacob McNulty (2023). This unfolding dialectic between post-Kantian interpreters and their\nnon-traditional metaphysical critics has provided a fertile space\nwithin which the contemporary relevance of Hegel\u2019s philosophy\nhas been explored and opposed interpretations sharpened. For example,\nRobert Pippin has replied to early critics by elaborating on the\nsenses in which the philosophical content of the post-Kantian Hegel\nmight or might not be described as metaphysical, distancing his\nearlier interpretation from the label \u201cnon-metaphysical\u201d\n(Pippin 1989, 2019). From the other side, Stephen Houlgate for example\nhas argued for a view of Hegel as taking on board Kant\u2019s\ncritique of earlier rationalist metaphysical positions\nwithout abandoning metaphysics per se . (For convenience I\nwill take Pippin and Houlgate here as examples of such opposing points\nof view although they far from exhaust the field of such views.) In his 2019 monograph devoted to Hegel\u2019s Science of\nLogic , Pippin stresses that while Hegel has a metaphysics, it is\na metaphysics in a new sense (Pippin 2019, 5). While\nHegel\u2019s logic is a science of pure thinking , there is,\nnevertheless, an identity (a \u2018speculative identity\u2019 to\nbe sure) between the forms of pure thinking and the forms of being (2019, 6), that is, between logic and ontology. Hegel\u2019s\nfundamental link to Kant had been his (Sellarsian) idea that thinking is discursive; to think what is the case is to assert that\nit is (the basic unit of intelligibility in Hegel\u2019s account is\nthe judgment; assertion its linguistic manifestation) (2019, 14).\nHowever, Hegel was critical of those residual empiricist elements within Kant in which sensory intuition played the role of\nproviding a definitive and unrevisable content for logically\nstructured judgment forms\u2014elements criticised by Sellars with\nthe notion of the myth of the given (Sellars 1997). Hegel was a\nfallibilist for whom accepted assertions would be always open to\nchallenge and interrogation (Pippin 2019, 14). With this\nineliminable role given to fallible judgment, metaphysics , in\nthe new Hegelian sense, thus had become redefined: Thus, Hegel\u2019s logic traces the endeavour of thought to know\nitself by reflecting on itself rather than anything external\nto it, but in knowing itself, what pure thought knows is the\npossibility of intelligibility, the knowability of anything that\nis . And yet, For his part, Houlgate is critical of Pippin\u2019s portrayal of\nthought\u2019s systematic production of its own categorical structure\nin the Science of Logic as well as his conception of the\nrelation of logic to ontology, being . Like Pippin, Houlgate\ntreats Hegel\u2019s unfolding of the categories of pure thought as a\ndevelopment of Kant\u2019s table of categories in the Critique of Pure Reason , but while Kant drew upon existing\nconcepts of the logical structure of judgment, Hegel demanded a\nrigorous deduction of the categories from a presuppositionless\nstarting point. With this Houlgate rejects Pippin\u2019s insistence\non the discursive nature of thought and the associated rendering of\nthe relation of thought and being. Hegel, he asserts, does not start\nhis logic with the idea of thought\u2019s directedness to something\nelse, being; he rather starts with the idea of thought itself as\npure being (Houlgate 2022, vol. 1, 130). Pippin misses the idea\nof logic as the ontological study of being in a direct sense,\nrather than simply a higher-level account of objects of our\njudgments. I suggest that in such debates we are witnessing something of a shift\nin philosophical terrain to the level of metaphilosophy or the philosophy of philosophy , as argued in a recent collection of\nessays (Illetterati and Miolli 2022). That is, the debate no longer\nremains simply at any first-order level of opposed\ncontents\u2014materialism, immaterialism, spiritualism, etc.. Rather,\nit has shifted to the level of a debate about the nature of philosophy\nas a theoretical or scientific (in Hegel\u2019s sense) pursuit\nand its place within the broader field of human inquiry. Such a\nreconfiguration of the terrain of debate has, I suggest, broadened the\ncontext within which Hegel\u2019s philosophy has come to be\nconsidered and assessed from a contemporary perspective, drawing it\ninto areas pursued in both recent analytic philosophy or post-analytic philosophy and phenomenological and\npost-phenomenological forms of continental philosophy. Such repositioning of Hegel interpretations within the framework of\ncontemporary philosophy has, for example, further allowed\nre-engagement with Hegel\u2019s logic from the perspective of\npost-Russellian, or post-classical conceptions of logic as\ndeveloped over the last hundred years. A consideration of\nHegel\u2019s dialectical logic in the light of the emergence\nof post-Russellian logical movements had been raised by John Findlay\nin the 1960s (Findlay 1963), and more recently Graham Priest has\npursued an interpretation of Hegel\u2019s logic as a variety of paraconsistent logic\u2014a dialetheic logic which permits the\nexistence of true contradictions (e.g., Priest 1989/90). In turn,\nPriest\u2019s dialetheism has been used to shed light on\nHegel\u2019s peculiar metaphysics by Gregory Moss (Moss 2020). From a\nposition closer to Findlay\u2019s, Redding has raised parallels\nbetween Hegel\u2019s formal logic from Book III of The Science of\nLogic and modern intuitionistic logic that emerged as the logic\nof L.E.J. Brouwer\u2019s non-Russellian approach to mathematics,\nnotable for its suspension of the Law of Excluded Middle (Redding\n2023b). Such a conception of logic, it is argued, is reflected in\nHegel\u2019s embrace of an actualist form of modal metaphysics\n(Redding 2017a). All in all, it could be said that the somewhat\nsurprising revival of philosophical interest in the linked logical and\nmetaphysical doctrines of Hegel as yet shows no signs of abating."
+        }
+      }
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

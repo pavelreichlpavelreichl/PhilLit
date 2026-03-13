@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1515/9780691213002
+[verify_paper.py] DOI verified: Karl Marx's Theory of History...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/9780691213002"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/9780691213002",
+      "title": "Karl Marx's Theory of History",
+      "authors": [
+        {
+          "family": "Cohen",
+          "given": "G. A."
+        }
+      ],
+      "editors": [],
+      "year": 1979,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Princeton University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/9780691213002"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

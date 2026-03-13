@@ -1,0 +1,16 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2107813"
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "DOI 10.2307/2107813 not found in CrossRef",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Marxism History Critical Introduction...' author=Rigby year=1987
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Marxism History Critical Introduction",
+    "author": "Rigby",
+    "year": 1987
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (20.7) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}
