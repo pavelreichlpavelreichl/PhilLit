@@ -1,257 +1,33 @@
 {
   "status": "success",
   "source": "openalex",
-  "query": "synchronic diachronic reconstruction history philosophy",
+  "query": "philosophy and its past historiography aims",
   "results": [
     {
-      "openalex_id": "W2029447880",
-      "doi": "10.1371/journal.pone.0008559",
-      "title": "Language Structure Is Partly Determined by Social Structure",
+      "openalex_id": "W1580224844",
+      "doi": "10.1111/hith.10755",
+      "title": "6. WHY WE NEED TO MOVE FROM TRUTH\u2010FUNCTIONALITY TO PERFORMATIVITY IN HISTORIOGRAPHY",
       "authors": [
         {
-          "name": "Gary Lupyan",
-          "openalex_id": "A5086908273",
-          "orcid": "https://orcid.org/0000-0001-8441-7433",
+          "name": "Jouni\u2010Matti Kuukkanen",
+          "openalex_id": "A5020615717",
+          "orcid": "https://orcid.org/0000-0003-3320-5662",
           "institutions": [
-            "Cognitive Research (United States)",
-            "University of Pennsylvania"
-          ]
-        },
-        {
-          "name": "Rick Dale",
-          "openalex_id": "A5084091340",
-          "orcid": "https://orcid.org/0000-0001-7865-474X",
-          "institutions": [
-            "University of Memphis"
+            "University of Oulu"
           ]
         }
       ],
-      "publication_year": 2010,
-      "publication_date": "2010-01-19",
-      "abstract": "BACKGROUND: Languages differ greatly both in their syntactic and morphological systems and in the social environments in which they exist. We challenge the view that language grammars are unrelated to social environments in which they are learned and used. METHODOLOGY/PRINCIPAL FINDINGS: We conducted a statistical analysis of >2,000 languages using a combination of demographic sources and the World Atlas of Language Structures--a database of structural language properties. We found strong relationships between linguistic factors related to morphological complexity, and demographic/socio-historical factors such as the number of language users, geographic spread, and degree of language contact. The analyses suggest that languages spoken by large groups have simpler inflectional morphology than languages spoken by smaller groups as measured on a variety of factors such as case systems and complexity of conjugations. Additionally, languages spoken by large groups are much more likely to use lexical strategies in place of inflectional morphology to encode evidentiality, negation, aspect, and possession. Our findings indicate that just as biological organisms are shaped by ecological niches, language structures appear to adapt to the environment (niche) in which they are being learned and used. As adults learn a language, features that are difficult for them to acquire, are less likely to be passed on to subsequent learners. Languages used for communication in large groups that include adult learners appear to have been subjected to such selection. Conversely, the morphological complexity common to languages used in small groups increases redundancy which may facilitate language learning by infants. CONCLUSIONS/SIGNIFICANCE: We hypothesize that language structures are subjected to different evolutionary pressures in different social environments. Just as biological organisms are shaped by ecological niches, language structures appear to adapt to the environment (niche) in which they are being learned and used. The proposed Linguistic Niche Hypothesis has implications for answering the broad question of why languages differ in the way they do and makes empirical predictions regarding language acquisition capacities of children versus adults.",
-      "cited_by_count": 794,
+      "publication_year": 2015,
+      "publication_date": "2015-05-01",
+      "abstract": "ABSTRACT The central challenge of the philosophy of history and historiography is to find a principled way to rank different interpretations of the past without assuming their truth in terms of correspondence. The narrativist insight of the narrative philosophy of historiography was to correctly question historical realism. It analyzed texts and showed that they cannot reflect the past as it is. However, the rejection of the truth\u2010functional evaluation threatens to lead to an \u201canything goes\u201d approach in terms of cognitive evaluation of historiography. In any case, no adequate theory of evaluation has so far been developed, although clearly not all historiographical interpretations are acceptable. Postnarrativist philosophy of historiography suggests that any history book includes a content\u2010synthesizing unit, but that it is problematic to think that it is \u201cnarrative\u201d that structures texts. It is better to think of historiography texts as presenting reasoning for views and theses about the past. Arguments for these theses should be considered not as being true but as more or less appropriate, fitting, or warranted. The historian aims to produce as highly rationally warranted and compelling a thesis of the past as possible; its rational appropriateness depends on three dimensions of cognitive evaluation: the epistemic, the rhetorical, and the discursive.",
+      "cited_by_count": 20,
       "type": "article",
       "source": {
-        "name": "PLoS ONE",
+        "name": "History and Theory",
         "type": "journal",
         "issn": [
-          "1932-6203"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0008559&type=printable"
-      },
-      "topics": [
-        "Language and cultural evolution",
-        "Language Development and Disorders",
-        "Syntax, Semantics, Linguistic Variation"
-      ],
-      "referenced_works_count": 69,
-      "url": "https://openalex.org/W2029447880"
-    },
-    {
-      "openalex_id": "W2167578762",
-      "doi": "10.1111/j.1540-4781.2014.12057.x",
-      "title": "Teaching Foreign Languages in an Era of Globalization: Introduction",
-      "authors": [
-        {
-          "name": "Claire Kramsch",
-          "openalex_id": "A5061269451",
-          "orcid": "https://orcid.org/0000-0003-3456-099X",
-          "institutions": [
-            "University of California, Berkeley"
-          ]
-        }
-      ],
-      "publication_year": 2014,
-      "publication_date": "2014-02-14",
-      "abstract": "Through its mobility of people and capital, its global technologies, and its global information networks, globalization has changed the conditions under which foreign languages (FLs) are taught, learned, and used. It has destabilized the codes, norms, and conventions that FL educators relied upon to help learners be successful users of the language once they had left their classrooms. These changes call for a more reflective, interpretive, historically grounded, and politically engaged pedagogy than was called for by the communicative language teaching of the eighties. This special issue will explore how we are to conceive of such a pedagogy.",
-      "cited_by_count": 653,
-      "type": "article",
-      "source": {
-        "name": "Modern Language Journal",
-        "type": "journal",
-        "issn": [
-          "0026-7902",
-          "1540-4781"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1540-4781.2014.12057.x"
-      },
-      "topics": [
-        "EFL/ESL Teaching and Learning",
-        "Second Language Learning and Teaching",
-        "Multilingual Education and Policy"
-      ],
-      "referenced_works_count": 56,
-      "url": "https://openalex.org/W2167578762"
-    },
-    {
-      "openalex_id": "W1999782360",
-      "doi": "10.1515/zfsw.2002.21.2.151",
-      "title": "Grammaticalization vs. Reanalysis: a Semantic- Pragmatic Account of Functional Change in Grammar",
-      "authors": [
-        {
-          "name": "Ulrich Detges",
-          "openalex_id": "A5041590692"
-        },
-        {
-          "name": "Richard Waltereit",
-          "openalex_id": "A5018754826",
-          "orcid": "https://orcid.org/0000-0001-8095-8654"
-        }
-      ],
-      "publication_year": 2002,
-      "publication_date": "2002-01-01",
-      "abstract": "Article Grammaticalization vs. Reanalysis: a Semantic- Pragmatic Account of Functional Change in Grammar was published on January 1, 2002 in the journal Zeitschrift f\u00fcr Sprachwissenschaft (volume 21, issue 2).",
-      "cited_by_count": 380,
-      "type": "article",
-      "source": {
-        "name": "Zeitschrift f\u00fcr Sprachwissenschaft",
-        "type": "journal",
-        "issn": [
-          "0721-9067",
-          "1613-3706"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://www.degruyter.com/document/doi/10.1515/zfsw.2002.21.2.151/pdf"
-      },
-      "topics": [
-        "Syntax, Semantics, Linguistic Variation",
-        "Language, Discourse, Communication Strategies",
-        "Linguistic research and analysis"
-      ],
-      "referenced_works_count": 5,
-      "url": "https://openalex.org/W1999782360"
-    },
-    {
-      "openalex_id": "W1684888166",
-      "doi": "10.26530/oapen_377572",
-      "title": "Bakhtin\u2019s Theory of the Literary Chronotope: Reflections, Applications, Perspectives",
-      "authors": [
-        {
-          "name": "Nele Bemong",
-          "openalex_id": "A5089554416"
-        },
-        {
-          "name": "Pieter Borghart",
-          "openalex_id": "A5027362175"
-        },
-        {
-          "name": "Michel De Dobbeleer",
-          "openalex_id": "A5072676693",
-          "orcid": "https://orcid.org/0000-0001-8846-9978"
-        },
-        {
-          "name": "Kristoffel Demoen",
-          "openalex_id": "A5075337392",
-          "orcid": "https://orcid.org/0000-0003-3831-6329"
-        },
-        {
-          "name": "Koen De Temmerman",
-          "openalex_id": "A5053621288",
-          "orcid": "https://orcid.org/0000-0001-7943-8299"
-        },
-        {
-          "name": "Bart Keunen",
-          "openalex_id": "A5111366801"
-        }
-      ],
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "abstract": "This edited volume is the first scholarly tome exclusively dedicated to Mikhail Bakhtin\u2019s theory of the literary chronotope. This concept, initially developed in the 1930s and used as a frame of reference throughout Bakhtin\u2019s own writings, has been highly influential in literary studies. After an extensive introduction that serves as a \u2018state of the art\u2019, the volume is divided into four main parts: Philosophical Reflections, Relevance of the Chronotope for Literary History, Chronotopical Readings and Some Perspectives for Literary Theory. These thematic categories contain contributions by well-established Bakhtin specialists such as Gary Saul Morson and Michael Holquist, as well as a number of essays by scholars who have published on this subject before. Together the papers in this volume explore the implications of Bakhtin\u2019s concept of the chronotope for a variety of theoretical topics such as literary imagination, polysystem theory and literary adaptation; for modern views on literary history ranging from the hellenistic romance to nineteenth-century realism; and for analyses of well-known novelists and poets as diverse as Milton, Fielding, Dickinson, Dostoevsky, Papadiamandis and DeLillo.",
-      "cited_by_count": 234,
-      "type": "book",
-      "source": {
-        "name": "Academia Press eBooks",
-        "type": "ebook platform",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/34655/1/377572.pdf"
-      },
-      "topics": [
-        "Russian Literature and Bakhtin Studies",
-        "Borges, Kipling, and Jewish Identity",
-        "Linguistics and Education Research"
-      ],
-      "referenced_works_count": 178,
-      "url": "https://openalex.org/W1684888166"
-    },
-    {
-      "openalex_id": "W4382866065",
-      "doi": "10.1515/9789048522989",
-      "title": "Plessner's Philosophical Anthropology",
-      "authors": [
-        {
-          "name": "Mul, Jos de 1956-",
-          "openalex_id": ""
-        }
-      ],
-      "publication_year": 2014,
-      "publication_date": "2014-12-31",
-      "abstract": null,
-      "cited_by_count": 225,
-      "type": "book",
-      "source": {
-        "name": "Amsterdam University Press eBooks",
-        "type": "ebook platform",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9789048522989/pdf"
-      },
-      "topics": [
-        "German Social Sciences and History"
-      ],
-      "referenced_works_count": 358,
-      "url": "https://openalex.org/W4382866065"
-    },
-    {
-      "openalex_id": "W4322772204",
-      "doi": "10.1017/hgl.2023.7",
-      "title": "Taking the Teleology of History Seriously: Lessons from Hegel's Logic",
-      "authors": [
-        {
-          "name": "Chen Yang",
-          "openalex_id": "A5100617430",
-          "orcid": "https://orcid.org/0000-0002-4074-8561",
-          "institutions": [
-            "Purdue University West Lafayette"
-          ]
-        },
-        {
-          "name": "Christopher Yeomans",
-          "openalex_id": "A5050082510",
-          "orcid": "https://orcid.org/0000-0003-3805-3063",
-          "institutions": [
-            "Purdue University West Lafayette"
-          ]
-        }
-      ],
-      "publication_year": 2023,
-      "publication_date": "2023-03-02",
-      "abstract": "Abstract To oversimplify quite a bit, scholars\u2019 presentation of Hegel's teleology constitutes a continuum according to how more-or-less secured the progress towards the goal is supposed to be, which tracks roughly the nature of the end and its necessity. In this article, rather than focus on the end and progress towards it, we will focus on the means and structure of teleological relationships on Hegel's account. This focus follows from an essential feature of Hegel's discussion of teleology in the Logic , in which teleology is introduced to solve a problem in the individuation of entities. It will turn out that the fullest actualization of the end is in the durable means, which is also thereby individuated. And it will turn out that the paradigmatic historical means\u2014the state\u2014is tensed, as it were, between the end and its realization that makes it synchronically historical. This synchronic historicity is missing in the usual progressive and thus diachronic accounts of the teleological process of history. But first we step back even farther (at least historically). We begin by taking up the two most important philosophical accounts of teleology for Hegel, namely those of Aristotle and Kant. Then we go to Hegel's Logic for his reconstruction of teleological processes against the background of the explanatory need for individuation. We focus on four aspects of Hegel's account: that teleology is a structure of reciprocal interaction, that the purpose is an immanent governing principle, that change is the price of immanence, and that the durable means is the teleological object par excellence. Finally, we trace these features through Hegel's account of world history and conclude with some brief remarks on the historicity of the state described in the Philosophy of Right .",
-      "cited_by_count": 1,
-      "type": "article",
-      "source": {
-        "name": "Hegel Bulletin",
-        "type": "journal",
-        "issn": [
-          "2051-5367",
-          "2051-5375"
+          "0018-2656",
+          "1468-2303"
         ]
       },
       "open_access": {
@@ -260,801 +36,287 @@
         "oa_url": null
       },
       "topics": [
-        "Critical Theory and Philosophy",
-        "Seventeenth-Century Political and Philosophical Thought",
-        "Philosophical Ethics and Theory"
+        "Philosophy, History, and Historiography",
+        "Educator Training and Historical Pedagogy"
       ],
-      "referenced_works_count": 15,
-      "url": "https://openalex.org/W4322772204"
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1580224844"
     },
     {
-      "openalex_id": "W4213287863",
-      "doi": "10.1093/oso/9780198868705.001.0001",
-      "title": "The Practical Origins of Ideas",
+      "openalex_id": "W4221129715",
+      "doi": "10.1111/meta.12548",
+      "title": "In defense of ordinary language philosophy",
       "authors": [
         {
-          "name": "Matthieu Queloz",
-          "openalex_id": "A5075238146",
-          "orcid": "https://orcid.org/0000-0001-6644-9992",
+          "name": "Herman Cappelen",
+          "openalex_id": "A5032334279",
           "institutions": [
-            "University of Oxford",
-            "METabolic Explorer (France)",
-            "Science Oxford"
+            "University of Hong Kong"
+          ]
+        },
+        {
+          "name": "Matthew McKeever",
+          "openalex_id": "A5032236994",
+          "orcid": "https://orcid.org/0000-0001-9641-7297",
+          "institutions": [
+            "Humanity & Health",
+            "University of Hong Kong"
           ]
         }
       ],
-      "publication_year": 2021,
-      "publication_date": "2021-03-04",
-      "abstract": "Abstract Why did such highly abstract ideas as truth, knowledge, or justice become so important to us? What was the point of coming to think in these terms? In The Practical Origins of Ideas, Matthieu Queloz presents a philosophical method designed to answer such questions: the method of pragmatic genealogy. Pragmatic genealogies are partly fictional, partly historical narratives exploring what might have driven us to develop certain ideas in order to discover what these do for us. The book uncovers an under-appreciated tradition of pragmatic genealogy which cuts across the analytic\u2013continental divide, running from the state-of-nature stories of David Hume and the early genealogies of Friedrich Nietzsche to recent work in analytic philosophy by Edward Craig, Bernard Williams, and Miranda Fricker. However, these genealogies combine fictionalizing and historicizing in ways that even philosophers sympathetic to the use of state-of-nature fictions or real history have found puzzling. To make sense of why both fictionalizing and historicizing are called for, the book offers a systematic account of pragmatic genealogies as dynamic models serving to reverse-engineer the points of ideas in relation not only to near-universal human needs, but also to socio-historically situated needs. This allows the method to offer us explanation without reduction and to help us understand what led our ideas to shed the traces of their practical origins. Far from being normatively inert, moreover, pragmatic genealogy can affect the space of reasons, guiding attempts to improve our conceptual repertoire by helping us determine whether and when our ideas are worth having.",
-      "cited_by_count": 192,
-      "type": "book",
-      "source": null,
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1093/oso/9780198868705.001.0001"
-      },
-      "topics": [
-        "Philosophical Ethics and Theory",
-        "Epistemology, Ethics, and Metaphysics",
-        "Pragmatism in Philosophy and Education"
-      ],
-      "referenced_works_count": 405,
-      "url": "https://openalex.org/W4213287863"
-    },
-    {
-      "openalex_id": "W2801643419",
-      "doi": "10.22459/fek.04.2018.07",
-      "title": "Enhancing the Kinship Anthropology of Scheffler with Diachronic Linguistics and Centricity",
-      "authors": [
-        {
-          "name": "Patrick McConvell",
-          "openalex_id": "A5020269740",
-          "institutions": [
-            "Australian National University"
-          ]
-        }
-      ],
-      "publication_year": 2018,
-      "publication_date": "2018-04-17",
-      "abstract": null,
-      "cited_by_count": 90,
-      "type": "book-chapter",
+      "publication_year": 2022,
+      "publication_date": "2022-03-27",
+      "abstract": "What role does ordinary language play in philosophical theorizing today? One might think: little. After all, analytic philosophy has moved past its \u201cordinary language\u201d phase; in metaphysics, for example, few would think that attending to \u201ctime\u201d and related words has anything to teach us about the nature of, and how we persist through, time. The aim of this paper, however, is to argue that contemporary analytic philosophy pays more attention to ordinary language use than the implicit historiography mentioned above suggests. Moreover, and moving from description to evaluation, the paper argues that this is philosophically defensible. In many areas of philosophy, to learn about a phenomenon we ought to pay at least some attention to how ordinary language users speak about it.",
+      "cited_by_count": 19,
+      "type": "article",
       "source": {
-        "name": "ANU Press eBooks",
-        "type": "ebook platform",
-        "issn": null
+        "name": "Metaphilosophy",
+        "type": "journal",
+        "issn": [
+          "0026-1068",
+          "1467-9973"
+        ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://doi.org/10.22459/fek.04.2018.07"
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/CAPIDO-3.pdf"
       },
       "topics": [
-        "Multilingual Education and Policy",
-        "Language, Linguistics, Cultural Analysis"
+        "Philosophy and Theoretical Science",
+        "Epistemology, Ethics, and Metaphysics",
+        "Wittgensteinian philosophy and applications"
       ],
       "referenced_works_count": 38,
-      "url": "https://openalex.org/W2801643419"
+      "url": "https://openalex.org/W4221129715"
     },
     {
-      "openalex_id": "W2164250871",
-      "doi": "10.1080/09608788.2014.974020",
-      "title": "The Benefit to Philosophy of the Study of Its History",
+      "openalex_id": "W260446293",
+      "doi": "10.4000/transatlantica.6920",
+      "title": "The Exile Experience Reconsidered: a Comparative Perspective in European Cultural Migration during the Interwar Period",
       "authors": [
         {
-          "name": "Maria Rosa Antognazza",
-          "openalex_id": "A5065062584",
-          "orcid": "https://orcid.org/0000-0002-5214-479X",
-          "institutions": [
-            "King's College London"
-          ]
-        }
-      ],
-      "publication_year": 2014,
-      "publication_date": "2014-11-05",
-      "abstract": "This paper advances the view that the history of philosophy is both a kind of history and a kind of philosophy. Through a discussion of some examples from epistemology, metaphysics, and the historiography of philosophy, it explores the benefit to philosophy of a deep and broad engagement with its history. It comes to the conclusion that doing history of philosophy is a way to think outside the box of the current philosophical orthodoxies. Somewhat paradoxically, far from imprisoning its students in outdated and crystallized views, the history of philosophy trains the mind to think differently and alternatively about the fundamental problems of philosophy. It keeps us alert to the fact that latest is not always best, and that a genuinely new perspective often means embracing and developing an old insight. The upshot is that the study of the history of philosophy has an innovative and subversive potential, and that philosophy has a great deal to gain from a long, broad, and deep conversation with its history.",
-      "cited_by_count": 176,
-      "type": "article",
-      "source": {
-        "name": "British Journal for the History of Philosophy",
-        "type": "journal",
-        "issn": [
-          "0960-8788",
-          "1469-3526"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://kclpure.kcl.ac.uk/ws/files/119519046/The_Benefit_to_Philosophy_Acc4Oct2014Epub5Nov2014_GREEN_AAM.pdf"
-      },
-      "topics": [
-        "Epistemology, Ethics, and Metaphysics",
-        "Philosophy, History, and Historiography",
-        "Philosophy and Theoretical Science"
-      ],
-      "referenced_works_count": 67,
-      "url": "https://openalex.org/W2164250871"
-    },
-    {
-      "openalex_id": "W1994178598",
-      "doi": "10.1007/s11097-010-9182-y",
-      "title": "The psychology of memory, extended cognition, and socially distributed remembering",
-      "authors": [
-        {
-          "name": "John Sutton",
-          "openalex_id": "A5069103684",
-          "orcid": "https://orcid.org/0000-0003-3046-9785",
-          "institutions": [
-            "Macquarie University"
-          ]
-        },
-        {
-          "name": "Celia B. Harris",
-          "openalex_id": "A5089960054",
-          "orcid": "https://orcid.org/0000-0001-5261-4205",
-          "institutions": [
-            "Macquarie University"
-          ]
-        },
-        {
-          "name": "Paul G. Keil",
-          "openalex_id": "A5027759432",
-          "orcid": "https://orcid.org/0000-0001-6577-3045",
-          "institutions": [
-            "Macquarie University"
-          ]
-        },
-        {
-          "name": "Amanda J. Barnier",
-          "openalex_id": "A5003473190",
-          "orcid": "https://orcid.org/0000-0003-1126-555X",
-          "institutions": [
-            "Macquarie University"
-          ]
-        }
-      ],
-      "publication_year": 2010,
-      "publication_date": "2010-11-02",
-      "abstract": null,
-      "cited_by_count": 375,
-      "type": "article",
-      "source": {
-        "name": "Phenomenology and the Cognitive Sciences",
-        "type": "journal",
-        "issn": [
-          "1568-7759",
-          "1572-8676"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://philpapers.org/archive/BARTPO-25.pdf"
-      },
-      "topics": [
-        "Embodied and Extended Cognition",
-        "Memory and Neural Mechanisms",
-        "Action Observation and Synchronization"
-      ],
-      "referenced_works_count": 239,
-      "url": "https://openalex.org/W1994178598"
-    },
-    {
-      "openalex_id": "W2946423488",
-      "doi": null,
-      "title": "Beyond the West: Towards a New Comparativism in the Study of Esotericism",
-      "authors": [
-        {
-          "name": "Egil Asprem",
-          "openalex_id": "A5059095827",
-          "orcid": "https://orcid.org/0000-0001-9944-1241"
+          "name": "Renato Camurri",
+          "openalex_id": "A5060656475"
         }
       ],
       "publication_year": 2014,
       "publication_date": "2014-01-01",
-      "abstract": "This article has two main objectives: 1) to account for the relation between definitions, boundaries and comparison in the study of \u201cesotericism\u201d in a systematic manner; 2) to argue for an expansion of comparative research methods in this field. The argument proceeds in three steps. First it is argued that a process of academic boundary-work has been instrumental in delimiting esotericism as a historical category. Second, a Lakatosian \u201crational reconstruction\u201d of competing \u201cresearch programmes\u201d is provided to clarify the relationship between views on definition, boundaries and comparison. Third, a typology of different comparative methods is constructed along two axes: a homological-analogical axis distinguishes between comparison based on shared genealogy (homology) versus purely structural or functional comparisons (analogy), while a synchronic-diachronic axis picks out a temporal dimension. Historical research programmes have typically endorsed homological comparison, while analogical comparison has remained suspect. This limitation is shown to be entirely arbitrary from a methodological point of view. It is argued that a reconsideration of analogical comparison has the promise of shedding new light on fundamental problems and must be a part of the ongoing theoretical reorientations in the field.",
-      "cited_by_count": 57,
+      "abstract": "This paper deals with exile in the 20th century and makes some suggestions for a reconsideration of this experience. The reasons for its peculiarity lie in a series of political, religious, racial and moral elements but when we speak of exile we are implicitly referring to substantially different experiences and phenomena: social exile, political exile and intellectual exile.The historiography of cultural migration has been through new and important developments over the past twenty years, developments that have enlarged the field across the borders of where sector-based studies grew. The first phase of studies into intellectual exile was strongly conditioned by two classic interpretative paradigms: the acculturation paradigm and the paradigm of the impact refugee scholars had on American culture. However, the field of so called \u201cExile Studies\u201d has widened remarkably in recent years extending to philosophy, literature, sociology and anthropology. This has provoked a series of negative effects, such as an excessive generalization of the concept of exile and the loss of the historical specificity of this phenomenon.The author analyzes some features of the experience of Italian exiles in the United States starting from a comparative approach. His aim is to highlight major differences between various national cases (German, French and Italian). He concludes that the meaning of exile in the 20th century essentially indicates an experience of fracture, of displacement from the motherland, of alienation lived as a loss, of injury.",
+      "cited_by_count": 24,
       "type": "article",
       "source": {
-        "name": "Duo Research Archive (University of Oslo)",
-        "type": "repository",
-        "issn": null
+        "name": "Transatlantica",
+        "type": "journal",
+        "issn": [
+          "1765-2766"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://journals.openedition.org/transatlantica/pdf/6920"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society",
+        "French Historical and Cultural Studies",
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W260446293"
+    },
+    {
+      "openalex_id": "W4243971884",
+      "doi": "10.1023/a:1007068714468",
+      "title": "Beyond \u201cidentity\u201d",
+      "authors": [
+        {
+          "name": "Rogers Brubaker",
+          "openalex_id": "A5070575348",
+          "orcid": "https://orcid.org/0000-0003-2804-493X",
+          "institutions": [
+            "University of California, Los Angeles",
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        },
+        {
+          "name": "Frederick Cooper",
+          "openalex_id": "A5110784615",
+          "institutions": [
+            "University of California, Los Angeles",
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-02-01",
+      "abstract": null,
+      "cited_by_count": 2763,
+      "type": "article",
+      "source": {
+        "name": "Theory and Society",
+        "type": "journal",
+        "issn": [
+          "0304-2421",
+          "1573-7853"
+        ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "http://hdl.handle.net/11250/2627175"
+        "oa_url": "https://hdl.handle.net/2027.42/43651"
       },
       "topics": [
-        "Religious Studies and Spiritual Practices",
-        "Mormonism, Religion, and History"
+        "Cultural, Psychoanalytic, and Sociopolitical Reflections",
+        "Philippine History and Culture",
+        "Decolonial Thought and Epistemologies"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W4243971884"
+    },
+    {
+      "openalex_id": "W4250700179",
+      "doi": "10.4324/9781315645940",
+      "title": "Freud's 'Outstanding' Colleague/Jung's 'Twin Brother'",
+      "authors": [
+        {
+          "name": "Gottfried M. Heuer",
+          "openalex_id": "A5025272530",
+          "orcid": "https://orcid.org/0000-0001-6042-0195"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-08-17",
+      "abstract": "Otto Gross was the first analyst to link his work with radical politics, connecting inner, personal transformation with outer, collective change. Since his death in 1920 his work has been suppressed, despite his seminal influence on the developing analytic discipline and on the fields of sociology, philosophy and literature. Here Gottfried M. Heuer introduces Gross\u2019 life and ideas, using an innovative, historiographic methodology he terms trans-historical: a psychoanalytic, intersubjective, and trans-temporal approach to the past, aimed at \u2018healing wounded history\u2019 in the present. Heuer considers several previously unpublished sources to explore Gross\u2019s ideas and legacy as well as his unusually bohemian life. His use of the anarchist concept of mutuality to develop a relational and intersubjective approach in his own analytic theory and clinical practice was unique, and his work had a lasting, yet unacknowledged, influence on Freud, Jung (with whom he had the first recorded mutual analysis) and many other analysts. His ideas were appropriated by Max Weber, the founder of sociology, and by the philosopher Martin Buber, playing a pivotal role in what we now call \u2018modernity\u2019. Heuer also explores Gross\u2019s paradigmatic father/son battle with his father Hans, who established the science of criminology, and touches upon Gross\u2019s links to the literary field of the early 20th century via Kafka, Werfel, et al., German expressionism and the Dada-movement, as well as the Anglo-American world through the work of D. H. Lawrence. This innovative, multi-faceted approach to Gross\u2019s work and its influence marks a turning point, putting him firmly on the map of the historiography of analysis as well as linking this field with the neighbouring disciplines of the history of law and criminology, literature, sociology and philosophy. In addition, Gross continuing relevance for leading edge clinical and political ideas is addressed. This book will be essential reading for Jungian and Freudian analysts, psychotherapists and counsellors, academics and students of analysis, politics, history, criminology and sociology.",
+      "cited_by_count": 26,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Family Dynamics and Relationships"
       ],
       "referenced_works_count": 0,
-      "url": "https://openalex.org/W2946423488"
+      "url": "https://openalex.org/W4250700179"
     },
     {
-      "openalex_id": "W2113585888",
-      "doi": "10.1353/hph.0.0118",
-      "title": "A Brief History of Time-Consciousness: Historical Precursors to James and Husserl",
+      "openalex_id": "W2801023641",
+      "doi": "10.26458/jedep.v7i1.571",
+      "title": "QUALITATIVE RESEARCH METHODOLOGY IN SOCIAL SCIENCES AND RELATED SUBJECTS",
       "authors": [
         {
-          "name": "Holly Andersen",
-          "openalex_id": "A5085115705",
-          "orcid": "https://orcid.org/0000-0002-7950-8186",
+          "name": "Haradhan Kumar Mohajan",
+          "openalex_id": "A5112378925",
           "institutions": [
-            "University of Pittsburgh",
-            "University of California San Diego"
+            "Premier University"
           ]
-        },
-        {
-          "name": "Rick Grush",
-          "openalex_id": "A5081363373",
-          "orcid": "https://orcid.org/0000-0002-9180-1596",
-          "institutions": [
-            "University of Pittsburgh",
-            "University of California San Diego"
-          ]
-        }
-      ],
-      "publication_year": 2009,
-      "publication_date": "2009-04-01",
-      "abstract": "William James' Principles of Psychology , in which he made famous the \"specious present\" doctrine of temporal experience, and Edmund Husserl's Zur Ph\u00e4nomenologie des inneren Zeitbewusstseins were giant strides in the philosophical investigation of the temporality of experience. However, an important set of precursors to these works has not been adequately investigated. In this article, we undertake this investigation. Beginning with Reid's essay \"Memory\" in Essays on the Intellectual Powers of Man , we trace out a line of development of ideas about the temporality of experience that runs through Dugald Stewart, Thomas Brown, William Hamilton, and finally the work of Shadworth Hodgson and Robert Kelly, both of whom were immediate influences on James (though James pseudonymously cites the latter as 'E.R. Clay'). Furthermore, we argue that Hodgson, especially his Metaphysic of Experience (1898), was a significant influence on Husserl.",
-      "cited_by_count": 137,
-      "type": "article",
-      "source": {
-        "name": "Journal of the history of philosophy",
-        "type": "journal",
-        "issn": [
-          "0022-5053",
-          "1538-4586"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://muse.jhu.edu/pub/1/article/262931"
-      },
-      "topics": [
-        "Phenomenology and Existential Philosophy",
-        "Philosophy, Science, and History",
-        "Pragmatism in Philosophy and Education"
-      ],
-      "referenced_works_count": 28,
-      "url": "https://openalex.org/W2113585888"
-    },
-    {
-      "openalex_id": "W2578189354",
-      "doi": "10.1007/978-3-319-44588-5_2",
-      "title": "Action, Knowledge, and Social Relations of Space",
-      "authors": [
-        {
-          "name": "Benno Werlen",
-          "openalex_id": "A5013822220",
-          "orcid": "https://orcid.org/0000-0002-8151-7313",
-          "institutions": [
-            "Friedrich Schiller University Jena"
-          ]
-        }
-      ],
-      "publication_year": 2017,
-      "publication_date": "2017-01-01",
-      "abstract": "Geographical inquiries are normally concerned with the study of spatial patterns, regions, or spaces. By contrast, the turn toward sociotheoretical approaches in recent decades has creatively shifted the focus from spatial representation to the actions and practices of geography-making. This endeavor implies an action- or practice-centered perspective. But what does this perspective imply about the status of space? However, this question was foremost underestimated. Mostly, a kind of Newtonian concept of space remained the underlying, unquestioned concept encompassing everything humans do. From the perspective of social action and practices, space itself must be understood as a conceptual element of knowledge rather than as a material vessel containing knowledge. As a conceptual element of knowledge, space is an important tool of the production of geographical realities as historically dynamic realities, each with distinct modes of production, also\u2014even primarily\u2014for the interrelation of knowledge and space.",
-      "cited_by_count": 130,
-      "type": "book-chapter",
-      "source": {
-        "name": "Knowledge and space",
-        "type": "book series",
-        "issn": [
-          "1877-9220",
-          "2543-0580"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-44588-5_2.pdf"
-      },
-      "topics": [
-        "Historical Geography and Geographical Thought",
-        "Geographies of human-animal interactions",
-        "French Urban and Social Studies"
-      ],
-      "referenced_works_count": 61,
-      "url": "https://openalex.org/W2578189354"
-    },
-    {
-      "openalex_id": "W2885303703",
-      "doi": "10.22459/skc.04.2018",
-      "title": "Skin, Kin and Clan: The dynamics of social categories in Indigenous Australia",
-      "authors": [
-        {
-          "name": "S\u00e9bastien Lacrampe",
-          "openalex_id": "A5068300738"
-        },
-        {
-          "name": "Patrick McConvell",
-          "openalex_id": "A5020269740"
-        },
-        {
-          "name": "Piers Kelly",
-          "openalex_id": "A5013410514",
-          "orcid": "https://orcid.org/0000-0002-6467-2338"
         }
       ],
       "publication_year": 2018,
-      "publication_date": "2018-04-04",
-      "abstract": "Australia is unique in the world for its diverse and interlocking systems of Indigenous social organisation. On no other continent do we see such an array of complex and contrasting social arrangements, coordinated through a principle of \u2018universal kinship\u2019 whereby two strangers meeting for the first time can recognise one another as kin. For some time, Australian kinship",
-      "cited_by_count": 107,
-      "type": "book",
-      "source": {
-        "name": "ANU Press eBooks",
-        "type": "ebook platform",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://press-files.anu.edu.au/downloads/press/n4082/pdf/book.pdf"
-      },
-      "topics": [
-        "Indigenous Studies and Ecology",
-        "Indigenous Health, Education, and Rights",
-        "Anthropology: Ethics, History, Culture"
-      ],
-      "referenced_works_count": 189,
-      "url": "https://openalex.org/W2885303703"
-    },
-    {
-      "openalex_id": "W2191342313",
-      "doi": "10.1016/j.quascirev.2015.10.038",
-      "title": "Realising consilience: How better communication between archaeologists, historians and natural scientists can transform the study of past climate change in the Mediterranean",
-      "authors": [
-        {
-          "name": "Adam Izdebski",
-          "openalex_id": "A5046617720",
-          "orcid": "https://orcid.org/0000-0002-3456-5478",
-          "institutions": [
-            "Jagiellonian University"
-          ]
-        },
-        {
-          "name": "Karin Holmgren",
-          "openalex_id": "A5014454210",
-          "institutions": [
-            "Stockholm University",
-            "National Observatory of Athens"
-          ]
-        },
-        {
-          "name": "Erika Weiberg",
-          "openalex_id": "A5047003826",
-          "orcid": "https://orcid.org/0000-0001-6583-387X",
-          "institutions": [
-            "Uppsala University",
-            "National Historical Museums"
-          ]
-        },
-        {
-          "name": "Sharon R. Stocker",
-          "openalex_id": "A5025827661",
-          "institutions": [
-            "University of Cincinnati"
-          ]
-        },
-        {
-          "name": "Ulf B\u00fcntgen",
-          "openalex_id": "A5110507970",
-          "institutions": [
-            "Oeschger Centre for Climate Change Research",
-            "Swiss Federal Institute for Forest, Snow and Landscape Research",
-            "Czech Academy of Sciences, Global Change Research Institute"
-          ]
-        },
-        {
-          "name": "Assunta Florenzano",
-          "openalex_id": "A5019758441",
-          "orcid": "https://orcid.org/0000-0003-4759-6406",
-          "institutions": [
-            "University of Modena and Reggio Emilia"
-          ]
-        },
-        {
-          "name": "Alexandra Gogou",
-          "openalex_id": "A5041707410",
-          "orcid": "https://orcid.org/0000-0001-7327-9223",
-          "institutions": [
-            "Hellenic Centre for Marine Research"
-          ]
-        },
-        {
-          "name": "Suzanne A. G. Leroy",
-          "openalex_id": "A5108536923",
-          "institutions": [
-            "Brunel University of London"
-          ]
-        },
-        {
-          "name": "J\u00fcrg Luterbacher",
-          "openalex_id": "A5017698600",
-          "orcid": "https://orcid.org/0000-0002-8569-0973",
-          "institutions": [
-            "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
-          ]
-        },
-        {
-          "name": "Bel\u00e9n Martrat",
-          "openalex_id": "A5065074754",
-          "orcid": "https://orcid.org/0000-0001-9904-9178",
-          "institutions": [
-            "Institute of Environmental Assessment and Water Research"
-          ]
-        },
-        {
-          "name": "Alessia Masi",
-          "openalex_id": "A5064767842",
-          "orcid": "https://orcid.org/0000-0001-9822-9767",
-          "institutions": [
-            "Sapienza University of Rome"
-          ]
-        },
-        {
-          "name": "Anna Maria Mercuri",
-          "openalex_id": "A5073883733",
-          "orcid": "https://orcid.org/0000-0001-6138-4165",
-          "institutions": [
-            "University of Modena and Reggio Emilia"
-          ]
-        },
-        {
-          "name": "Paolo Montagna",
-          "openalex_id": "A5080989824",
-          "orcid": "https://orcid.org/0000-0001-5598-2214",
-          "institutions": [
-            "Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche"
-          ]
-        },
-        {
-          "name": "Laura Sadori",
-          "openalex_id": "A5073399386",
-          "orcid": "https://orcid.org/0000-0002-2774-6705",
-          "institutions": [
-            "Sapienza University of Rome"
-          ]
-        },
-        {
-          "name": "Adam W. Schneider",
-          "openalex_id": "A5029644146",
-          "orcid": "https://orcid.org/0000-0001-5106-1207",
-          "institutions": [
-            "University of California San Diego"
-          ]
-        },
-        {
-          "name": "Marie\u2010Alexandrine Sicre",
-          "openalex_id": "A5087092313",
-          "orcid": "https://orcid.org/0000-0002-5015-1400",
-          "institutions": [
-            "Sorbonne Universit\u00e9",
-            "Laboratoire d'Oc\u00e9anographie et du Climat : Exp\u00e9rimentations et Approches Num\u00e9riques"
-          ]
-        },
-        {
-          "name": "Maria Triantaphyllou",
-          "openalex_id": "A5003299894",
-          "orcid": "https://orcid.org/0000-0001-7508-7508",
-          "institutions": [
-            "National and Kapodistrian University of Athens"
-          ]
-        },
-        {
-          "name": "Elena Xoplaki",
-          "openalex_id": "A5072183881",
-          "orcid": "https://orcid.org/0000-0002-2745-2467",
-          "institutions": [
-            "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
-          ]
-        }
-      ],
-      "publication_year": 2015,
-      "publication_date": "2015-12-17",
-      "abstract": "This paper reviews the methodological and practical issues relevant to the ways in which natural scientists, historians and archaeologists may collaborate in the study of past climatic changes in the Mediterranean basin. We begin by discussing the methodologies of these three disciplines in the context of the consilience debate, that is, attempts to unify different research methodologies that address similar problems. We demonstrate that there are a number of similarities in the fundamental methodology between history, archaeology, and the natural sciences that deal with the past (\u201cpalaeoenvironmental sciences\u201d), due to their common interest in studying societal and environmental phenomena that no longer exist. The three research traditions, for instance, employ specific narrative structures as a means of communicating research results. We thus present and compare the narratives characteristic of each discipline; in order to engage in fruitful interdisciplinary exchange, we must first understand how each deals with the societal impacts of climatic change. In the second part of the paper, we focus our discussion on the four major practical issues that hinder communication between the three disciplines. These include terminological misunderstandings, problems relevant to project design, divergences in publication cultures, and differing views on the impact of research. Among other recommendations, we suggest that scholars from the three disciplines should aim to create a joint publication culture, which should also appeal to a wider public, both inside and outside of academia.",
-      "cited_by_count": 153,
+      "publication_date": "2018-03-30",
+      "abstract": "This literature review paper discusses the proper use of qualitative research methodology to discuss several aspects of the research for the improvement of the skill of the readers. During the last few decades, the use of qualitative research has been increased in many institutions. It can be used to explore several areas of human behavior for the development of organizations. The purpose of this study is to provide inspirations to the new researchers for the development of their qualitative articles. The paper analyzes the design of qualitative research giving some methodological suggestions to make it explicable to the reader. In this paper an attempt has been taken to study the background of the qualitative research methodologyin social sciences and some other related subjects, along with the importance, and main features of the study.",
+      "cited_by_count": 1427,
       "type": "article",
       "source": {
-        "name": "Quaternary Science Reviews",
+        "name": "Journal of Economic Development Environment and People",
         "type": "journal",
         "issn": [
-          "0277-3791",
-          "1873-457X"
+          "2285-3642"
         ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0277379115301591-fx1.jpg"
+        "oa_status": "gold",
+        "oa_url": "http://ojs.spiruharet.ro/index.php/jedep/article/download/jedep.v7i1.571/pdf"
       },
       "topics": [
-        "Tree-ring climate responses",
-        "Archaeology and ancient environmental studies",
-        "Geology and Paleoclimatology Research"
+        "Organizational Leadership and Management Strategies"
       ],
-      "referenced_works_count": 205,
-      "url": "https://openalex.org/W2191342313"
+      "referenced_works_count": 122,
+      "url": "https://openalex.org/W2801023641"
     },
     {
-      "openalex_id": "W2034474891",
-      "doi": "10.3389/fpsyt.2013.00120",
-      "title": "The Shame of Addiction",
+      "openalex_id": "W2150201320",
+      "doi": "10.5465/amr.2012.0203",
+      "title": "Research Strategies for Organizational History: A Dialogue Between Historical Theory and Organization Theory",
       "authors": [
         {
-          "name": "Owen Flanagan",
-          "openalex_id": "A5064449904",
-          "orcid": "https://orcid.org/0000-0001-5658-8083",
+          "name": "Michael Rowlinson",
+          "openalex_id": "A5114256512",
           "institutions": [
-            "Duke University"
+            "University College London",
+            "Queen Mary University of London",
+            "University of Manchester"
+          ]
+        },
+        {
+          "name": "John Hassard",
+          "openalex_id": "A5028704113",
+          "orcid": "https://orcid.org/0000-0003-0468-4609",
+          "institutions": [
+            "Queen Mary University of London",
+            "University College London",
+            "University of Manchester"
+          ]
+        },
+        {
+          "name": "Stephanie Decker",
+          "openalex_id": "A5064172786",
+          "orcid": "https://orcid.org/0000-0003-0547-9594",
+          "institutions": [
+            "University of Manchester",
+            "Aston University",
+            "University College London",
+            "Queen Mary University of London"
           ]
         }
       ],
       "publication_year": 2013,
-      "publication_date": "2013-01-01",
-      "abstract": "Addiction is a person-level phenomenon that involves twin normative failures. A failure of normal rational effective agency or self-control with respect to the substance; and shame at both this failure, and the failure to live up to the standards for a good life that the addict himself acknowledges and aspires to. Feeling shame for addiction is not a mistake. It is part of the shape of addiction, part of the normal phenomenology of addiction, and often a source of motivation for the addict to heal. Like other recent attempts in the addiction literature to return normative concepts such as \"choice\" and \"responsibility\" to their rightful place in understanding and treating addiction, the twin normative failure model is fully compatible with investigation of genetic and neuroscientific causes of addiction. Furthermore, the model does not re-moralize addiction. There can be shame without blame.",
-      "cited_by_count": 85,
-      "type": "review",
-      "source": {
-        "name": "Frontiers in Psychiatry",
-        "type": "journal",
-        "issn": [
-          "1664-0640"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2013.00120/pdf"
-      },
-      "topics": [
-        "Mental Health and Psychiatry",
-        "Neuroethics, Human Enhancement, Biomedical Innovations",
-        "Psychology of Moral and Emotional Judgment"
-      ],
-      "referenced_works_count": 50,
-      "url": "https://openalex.org/W2034474891"
-    },
-    {
-      "openalex_id": "W2155846940",
-      "doi": "10.1177/0048393108319024",
-      "title": "Habermas' Method: Rational Reconstruction",
-      "authors": [
-        {
-          "name": "J\u00f8rgen Pedersen",
-          "openalex_id": "A5065004095",
-          "orcid": "https://orcid.org/0000-0003-0903-5966",
-          "institutions": [
-            "University of Bergen"
-          ]
-        }
-      ],
-      "publication_year": 2008,
-      "publication_date": "2008-09-15",
-      "abstract": "Given the prominent position Habermas' philosophy has gained, it is surprising that his method, rational reconstruction, has not caused more debate. This article clarifies what this method consists of, and shows how it is used in two of Habermas' research programs. The method is an interesting, but problematic way of confronting some of the basic epistemological questions in the social sciences. It represents an alternative to both the empirical-analytical and the hermeneutic tradition. On the basis of this methodology, Habermas' work is situated between the transcendental and the empirical approach. A fundamental problem is that it remains unclear how to test the hypothesis put forward through rational reconstruction.",
-      "cited_by_count": 65,
+      "publication_date": "2013-12-14",
+      "abstract": "If history matters for organization theory, then we need greater reflexivity regarding the epistemological problem of representing the past; otherwise, history might be seen as merely a repository of ready-made data. To facilitate this reflexivity, we set out three epistemological dualisms derived from historical theory to explain the relationship between history and organization theory: (1) in the dualism of explanation, historians are preoccupied with narrative construction, whereas organization theorists subordinate narrative to analysis; (2) in the dualism of evidence, historians use verifiable documentary sources, whereas organization theorists prefer constructed data; and (3) in the dualism of temporality, historians construct their own periodization, whereas organization theorists treat time as constant for chronology. These three dualisms underpin our explication of four alternative research strategies for organizational history: corporate history, consisting of a holistic, objectivist narrative of a corporate entity; analytically structured history, narrating theoretically conceptualized structures and events; serial history, using replicable techniques to analyze repeatable facts; and ethnographic history, reading documentary sources \u201cagainst the grain.\u201d Ultimately, we argue that our epistemological dualisms will enable organization theorists to justify their theoretical stance in relation to a range of strategies in organizational history, including narratives constructed from documentary sources found in organizational archives.",
+      "cited_by_count": 604,
       "type": "article",
       "source": {
-        "name": "Philosophy of the Social Sciences",
+        "name": "Academy of Management Review",
         "type": "journal",
         "issn": [
-          "0048-3931",
-          "1552-7441"
+          "0363-7425",
+          "1930-3807"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://bora.uib.no/bora-xmlui/bitstream/1956/5041/1/41196_Pedersen_mainthesis.pdf"
+        "oa_url": "https://research.manchester.ac.uk/en/publications/276daaa0-d1f8-4110-9e38-9d249cdf675b"
       },
       "topics": [
-        "Critical Theory and Philosophy",
-        "Social and Cultural Dynamics"
+        "Management and Organizational Studies",
+        "Management Theory and Practice",
+        "Accounting and Organizational Management"
       ],
-      "referenced_works_count": 36,
-      "url": "https://openalex.org/W2155846940"
+      "referenced_works_count": 218,
+      "url": "https://openalex.org/W2150201320"
     },
     {
-      "openalex_id": "W2991244309",
-      "doi": "10.1515/fns-2019-0012",
-      "title": "Transmedia characters: Theory and analysis",
+      "openalex_id": "W1994855667",
+      "doi": "10.1080/13642529.2013.825088",
+      "title": "Above, about and beyond the writing of history: a retrospective view of Hayden White's<i>Metahistory</i>on the 40th anniversary of its publication",
       "authors": [
         {
-          "name": "Jan-No\u00ebl Thon",
-          "openalex_id": "A5001858522",
-          "orcid": "https://orcid.org/0000-0002-0358-6209",
+          "name": "Gabrielle M. Spiegel",
+          "openalex_id": "A5073828591",
           "institutions": [
-            "Norwegian University of Science and Technology"
+            "Johns Hopkins University"
           ]
         }
       ],
-      "publication_year": 2019,
-      "publication_date": "2019-11-28",
-      "abstract": "Abstract This article sketches a theoretical framework and method for the analysis of transmedia characters that focuses on specific instantiations of these characters in individual media texts, before asking how these local work-specific characters relate to other local work-specific characters or coalesce into glocal transmedia characters as part of global transmedia character networks , thus evading what one could consider an undue emphasis on the \u201cmodel of the single character\u201d when analyzing the various characters that are, for example called Sherlock Holmes, Batman, or Lara Croft. The connections between these work-specific characters within transmedia character network could then be described as either relations of redundancy , relations of expansion , or relations of modification \u2013 with only redundancy and expansion allowing for medial representations of work-specific characters to contribute to the representation of a single transmedia character. In intersubjectively constructing characters across media, however, recipients will not only take into account powerful normative discourses that police the representation of characters across media but also draw on their accumulated knowledge about previously represented work-specific or transmedia characters as well as about transmedia character templates and even more general transmedia character types .",
-      "cited_by_count": 100,
-      "type": "article",
-      "source": {
-        "name": "Frontiers of Narrative Studies",
-        "type": "journal",
-        "issn": [
-          "2509-4882",
-          "2509-4890"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://www.degruyter.com/document/doi/10.1515/fns-2019-0012/pdf"
-      },
-      "topics": [
-        "Narrative Theory and Analysis",
-        "Digital Games and Media",
-        "Shakespeare, Adaptation, and Literary Criticism"
-      ],
-      "referenced_works_count": 98,
-      "url": "https://openalex.org/W2991244309"
-    },
-    {
-      "openalex_id": "W571301061",
-      "doi": "10.17169/refubium-32012",
-      "title": "Phonology in the Twentieth Century",
-      "authors": [
-        {
-          "name": "Stephen R. Anderson",
-          "openalex_id": "A5103221757",
-          "orcid": "https://orcid.org/0000-0003-4477-1635"
-        }
-      ],
-      "publication_year": 2021,
-      "publication_date": "2021-01-01",
-      "abstract": "Synopsis: The original (1985) edition of this work attempted to cover the main lines of development of phonological theory from the end of the 19th century through the early 1980s. Much work of importance, both theoretical and historiographic, has appeared in subsequent years, and the present edition tries to bring the story up to the end of the 20th century, as the title promised. This has involved an overall editing of the text, in the process correcting some errors of fact and interpretation, as well as the addition of new material and many new references.",
-      "cited_by_count": 86,
-      "type": "book",
-      "source": {
-        "name": "OAPEN (The OAPEN Foundation)",
-        "type": "repository",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/52596/1/external_content.pdf"
-      },
-      "topics": [
-        "Linguistic Studies and Language Acquisition"
-      ],
-      "referenced_works_count": 0,
-      "url": "https://openalex.org/W571301061"
-    },
-    {
-      "openalex_id": "W2905334783",
-      "doi": "10.3389/fpsyg.2018.02571",
-      "title": "The Projective Consciousness Model and Phenomenal Selfhood",
-      "authors": [
-        {
-          "name": "Kenneth Williford",
-          "openalex_id": "A5085940255",
-          "orcid": "https://orcid.org/0000-0003-0410-3448",
-          "institutions": [
-            "The University of Texas at Arlington"
-          ]
-        },
-        {
-          "name": "Daniel Bennequin",
-          "openalex_id": "A5003787991",
-          "institutions": [
-            "Universit\u00e9 Paris Cit\u00e9",
-            "Institut de Math\u00e9matiques de Jussieu-Paris Rive Gauche"
-          ]
-        },
-        {
-          "name": "Karl Friston",
-          "openalex_id": "A5086852785",
-          "orcid": "https://orcid.org/0000-0001-7984-8909",
-          "institutions": [
-            "University College London",
-            "Wellcome Centre for Human Neuroimaging"
-          ]
-        },
-        {
-          "name": "David Rudrauf",
-          "openalex_id": "A5071051159",
-          "orcid": "https://orcid.org/0000-0002-9621-1800",
-          "institutions": [
-            "University of Geneva"
-          ]
-        }
-      ],
-      "publication_year": 2018,
-      "publication_date": "2018-12-17",
-      "abstract": "We summarize our recently introduced Projective Consciousness Model (PCM) (Rudrauf et al., 2017) and relate it to outstanding conceptual issues in the theory of consciousness. The PCM combines a projective geometrical model of the perspectival phenomenological structure of the field of consciousness with a variational Free Energy minimization model of active inference, yielding an account of the cybernetic function of consciousness, viz., the modulation of the field's cognitive and affective dynamics for the effective control of embodied agents. The geometrical and active inference components are linked via the concept of projective transformation, which is crucial to understanding how conscious organisms integrate perception, emotion, memory, reasoning, and perspectival imagination in order to control behavior, enhance resilience, and optimize preference satisfaction. The PCM makes substantive empirical predictions and fits well into a (neuro)computationalist framework. It also helps us to account for aspects of subjective character that are sometimes ignored or conflated: pre-reflective self-consciousness, the first-person point of view, the sense of minenness or ownership, and social self-consciousness. We argue that the PCM, though still in development, offers us the most complete theory to date of what Thomas Metzinger has called \"phenomenal selfhood.\"",
-      "cited_by_count": 85,
-      "type": "article",
-      "source": {
-        "name": "Frontiers in Psychology",
-        "type": "journal",
-        "issn": [
-          "1664-1078"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02571/pdf"
-      },
-      "topics": [
-        "Embodied and Extended Cognition",
-        "Action Observation and Synchronization",
-        "Psychology of Moral and Emotional Judgment"
-      ],
-      "referenced_works_count": 151,
-      "url": "https://openalex.org/W2905334783"
-    },
-    {
-      "openalex_id": "W3020386461",
-      "doi": "10.1007/s13164-020-00471-z",
-      "title": "Predicting the Past from Minimal Traces: Episodic Memory and its Distinction from Imagination and Preservation",
-      "authors": [
-        {
-          "name": "Markus Werning",
-          "openalex_id": "A5082708972",
-          "orcid": "https://orcid.org/0000-0001-7303-4154",
-          "institutions": [
-            "Ruhr University Bochum"
-          ]
-        }
-      ],
-      "publication_year": 2020,
-      "publication_date": "2020-04-23",
-      "abstract": "Abstract The paper develops an account of minimal traces devoid of representational content and exploits an analogy to a predictive processing framework of perception. As perception can be regarded as a prediction of the present on the basis of sparse sensory inputs without any representational content, episodic memory can be conceived of as a \u201cprediction of the past\u201d on the basis of a minimal trace, i.e., an informationally sparse, merely causal link to a previous experience. The resulting notion of episodic memory will be validated as a natural kind distinct from imagination. This trace minimalist view contrasts with two theory camps dominating the philosophical debate on memory. On one side, we face versions of the Causal Theory that hold on to the idea that episodic remembering requires a memory trace that causally links the event of remembering to the event of experience and carries over representational content from the content of experience to the content of remembering. The Causal Theory, however, fails to account for the epistemic generativity of episodic memory and is psychologically and information-theoretically implausible. On the other side, a new camp of simulationists is currently forming up. Motivated by empirical and conceptual deficits of the Causal Theory, they reject not only the necessity of preserving representational content, but also the necessity of a causal link between experience and memory. They argue that remembering is nothing but a peculiar form of imagination, peculiar only in that it has been reliably produced and is directed towards an episode of one\u2019s personal past. Albeit sharing their criticism of the Causal Theory and, in particular, rejecting its demand for an intermediary carrier of representational content, the paper argues that a causal connection to experience is still necessary to fulfill even the minimal requirements of past-directedness and reliability.",
-      "cited_by_count": 135,
-      "type": "article",
-      "source": {
-        "name": "Review of Philosophy and Psychology",
-        "type": "journal",
-        "issn": [
-          "1878-5158",
-          "1878-5166"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-020-00471-z.pdf"
-      },
-      "topics": [
-        "Memory and Neural Mechanisms",
-        "Neural dynamics and brain function",
-        "Embodied and Extended Cognition"
-      ],
-      "referenced_works_count": 114,
-      "url": "https://openalex.org/W3020386461"
-    },
-    {
-      "openalex_id": "W2945041360",
-      "doi": "10.1080/13642529.2019.1607475",
-      "title": "Precision ableism: a<i>studies in ableism</i>approach to developing histories of disability and abledment",
-      "authors": [
-        {
-          "name": "Fiona Kumari Campbell",
-          "openalex_id": "A5033052966",
-          "orcid": "https://orcid.org/0000-0001-9262-2963",
-          "institutions": [
-            "University of Dundee"
-          ]
-        }
-      ],
-      "publication_year": 2019,
-      "publication_date": "2019-04-03",
-      "abstract": "This paper discusses the historical project and idea of comparison, then moves on to a discussion of the role of thinking theoretically in terms of process and not object relations, a shift from a focus on binaries to aporias. The paper outlines the development of Studies in Ableism as well as presuppositional foundations of systems of ableism, and the delimitation of abledment and disablement. Finally, the paper contributes to thinking about the meaning of ableism in a more precise way.",
-      "cited_by_count": 99,
+      "publication_year": 2013,
+      "publication_date": "2013-08-19",
+      "abstract": "AbstractSince its publication 40 years ago, Hayden White's Metahistory has been recognized as a foundational work for the literary analysis of historical writing. Long thought to be primarily concerned with questions of narrative, new interpretations have recently revised our understanding of White's principal aims as a theorist and philosopher of history. What has emerged from these works is a novel view of the status and meaning of tropes in Metahistory, the underlying existentialist engagements that guided White's thinking about them, and the ways in which both served his encompassing goal not only to critique the reigning Rankean paradigm of \u2018history\u2019 but to free contemporary historians and historiography altogether from the \u2018burden of history\u2019 for the sake of a morally responsible future. The article analyses the ways in which these new interpretations of White alter our understanding of the corpus of his work, from his early article on the \u2018burden of history\u2019 to his most recent writings on \u2018the practical past\u2019, with a principal focus on the re-readings of Metahistory itself.Keywords:: WhiteexistentialismMetahistorytropesIronypractical past Notes 1. See, for example, the group of articles published around Arthur Marwick's consideration of White: Marwick (1995, 5\u201335). For White's response to Marwick see White (1995, 233\u2013246). Further discussion can be found in Kansteiner (Citation1996, 215\u20139); Lloyd (Citation1996, 191\u2013207); Roberts (Citation1996, 221\u20138); and Southgate (Citation1996, 209\u201314). 2. One's view on whether or not White belongs among those espousing the \u2018linguistic turn\u2019 depends in part on how one defines that term and conceives of the theories of language \u2013 semiotic, structuralist, poststructuralist \u2013 that it is construed to cover, with all the differential implications each had on major issues such as referentiality, relativism, linguistic mediation and the like that were being considered anew with the rise of critical theory but, in 1973 at least, had not yet congealed. Although White at points seemed to adopt a semiotic understanding of language, Metahistory owed more to the formal literary and rhetorical theories of Northrop Frye, Kenneth Burke and, above all, Vico. As I have argued elsewhere, for a \u2018theoretician of historical narration as a fundamentally linguistic and literary art, White was and long remained disconcertingly vague about his precise understanding of how language, as such, functioned and what he believed to be its intrinsic nature \u2013 which is only a way of saying that he was fairly disinterested in linguistics\u2019 as such (Spiegel Citation2013). 3. For example in the interview with White published by Ewa Domanska, where White proclaims himself a structuralist (Domanska Citation1998, 27). But, as Robert Doran has pointed out, \u2018Though White sometimes calls himself a \u201cstructuralist,\u201d this nomenclature is somewhat misleading when applied to White's work. White's point of departure is not Saussurean semiology but Vichian rhetoric\u2019 (Doran Citation2010, xvii). Nonetheless, several interpreters of White have insisted that, at least until recently, \u2018White's has remained a structuralist project\u2019, as averred, for example by Kansteiner (Citation1993, 274). On White's \u2018structuralist adventure\u2019, see Paul (Citation2011, 10). 4. On White as a postmodernist see Ankersmit (Citation1989, 137\u201353). 5. For a discussion of the ambiguities that abound in White's use of the term \u2018constitute\u2019, see Spiegel (Citation2013) as well as Vann (Citation1998, 143\u201361). Whereas in Metahistory, White seemed to hold out the possibility that such a thing as \u2018data from the unprocessed historical record\u2019 existed independently of the tropological selection and processing of such \u2018data\u2019, the \u2018constitutive\u2019 role of language now seemed to extend to the very construction of the past itself, at the very least in terms, as he stated in \u2018The Fictions of Factual Representation\u2019, of serving as \u2018an instrument of mediation between human consciousness and the world that consciousness inhabits\u2019 if not in the actual linguistic construction of reality as such, a position embraced by some forms of structuralism and poststructuralism at the time (White Citation1978c, 126). For the ways in which such ambiguities in his work led to charges of relativism at the 1990 conference organized by Saul Friedlander at the University of California, Los Angeles, on \u2018Probing the Limits of Representation\u2019 see Spiegel (Citation2013). 6. White had already acknowledged the degree to which the philosophy of history represented a threat to historiography as normally practiced, \u2018because philosophy of history is characteristically a product of a desire to change the professionally sanctioned strategies by which meaning is conferred on history\u2019 (White Citation1973, 276). 7. See also the reviews of Paul by Cohen (Citation2012, 443\u201358) and Timmins (Citation2011: http://www.history.ac.uk/reviews/review/1149). 8. That White intended tropes to indicate forms of historical consciousness as well as modes of historical realism is evident from his statement in the conclusion to Metahistory, that \u2018I have discussed modes of consciousness in which historians can implicitly or explicitly justify commitment to different explanatory strategies on the levels of argument, emplotment and ideological implication\u2019 (White Citation1973, 426). 9. For White's persisting belief that the realisms ensconced in conventional historiography were anti-utopian and his equally persisting conviction of the importance of utopian dreams, see his recent \u2018The Future of Utopia in History\u2019 (White Citation2007, 11\u201319).10. One could easily multiply examples on both sides of this view of the relation of tropes to reality and linguistic determinism, but anyone who has ever read more than a few books or articles by White surely knows that consistency on theoretical issues has never been his strongpoint. Once again, Hans Kellner anticipated this understanding of White in stating that \u2018Metahistory is a moral text which can authorize itself only by declaring the freedom of moral choice in the face of the great determinisms of our time. It reaffirms human freedom by pointing to the creative force of language. Ironic, because the rules of discourse in this century place any such affirmation under erasure [\u2026] It is this willed Nietzschean forgetting that gives Metahistory its power\u2019 (Kellner Citation1980, 29).11. To be sure, if one followed Vico, Irony would ultimately be displaced by the cyclical return to myth, but it is unlikely that White was advocating history as myth at this point.12. In this, I agree with A. Dirk Moses's statement that \u2018the experience of autonomy in surveying the wreck of history and opting for a better life is the ethical for White\u2019 (2005b, 347).13. Moses makes a similar point in critiquing White when his says that White's \u2018Nietzschean-inspired vision of history is inadequate because it cannot gainsay that a genocidal vision of history is immoral\u2019 (Moses Citation2005b, 339). Kalle CitationPihlainen has recently argued that \u2018White's thinking does not lead to a moral relativism even if similar positions are held to do so [\u2026] Placing responsibility for choices at the door of each individual can be an effective way of achieving social responsibility, even if it involves risk\u2019 (2008, 34). But is this a risk we are or should be willing to take?14. Gavriel CitationRosenfeld apparently believes such a move is afoot (2009, 150).Additional informationNotes on contributorsGabrielle M. SpiegelGabrielle M. Spiegel is Krieger-Eisenhower Professor of history at Johns Hopkins University and a past president of the American Historical Association. She has written extensively on historical writing in the Middle Ages in Latin and Old French and on the implications of contemporary critical theory for the practice of historiography.",
+      "cited_by_count": 26,
       "type": "article",
       "source": {
         "name": "Rethinking History",
@@ -1065,169 +327,706 @@
         ]
       },
       "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Educator Training and Historical Pedagogy",
+        "Rhetoric and Communication Studies"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W1994855667"
+    },
+    {
+      "openalex_id": "W2335433141",
+      "doi": "10.18647/2557/jjs-2004",
+      "title": "The Oxford Handbook of Jewish Studies",
+      "authors": [
+        {
+          "name": "Jonathan G. Campbell",
+          "openalex_id": "A5087861016",
+          "institutions": [
+            "University of Bristol"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-10-01",
+      "abstract": "This impressive volume, though not a handbook in the ordinary sense in view of its length, is a must for scholars' bookshelves and academic libraries covering Jewish Studies.Its twofold aim is to describe the current state of the discipline as broadly defined and to enable individuals working in diverse parts of the field to place what they are doing within that wider context.To that end, the book comprises thirty-nine chapters from forty-five editors and contributors.After a useful introductory chapter by the main editor (M.Goodman, 'The Nature of Jewish Studies'), chapters 2-19 are predominantly historical in orientation (e.g. C. Hezser, 'Classical Rabbinic Literature'; S. A. Stein, 'Sephardi and Middle Eastern Jewries since 1492'; D. Rechter, 'Western and Central European Jewry in the Modern Period: 1750-1933'; and M. Stanislawski, 'Eastern European Jewry in the Modern Period: 1750-1939').The remaining twenty chapters are arranged thematically (e.g.P.-I.Halevi, 'The Hebrew Language'; L. I. Levine, 'Art, Architecture, and Archaeology'; G. Hasan-Rokem, 'Jewish Folklore and Ethnography'; and H. E. Goldberg, 'Modern Jewish Society and Sociology').This schema works fairly well, although some related topics (e.g. S. Friedl\u00e4nder, 'The Holocaust', and W. Benz, 'Anti-Semitism Research') do not appear together as a result.Most contributions provide the reader with a resum\u00e9 of the history of scholarship in the subject area concerned, as well as a description of the current state of research and a more-or-less extensive bibliography.Thus, the book succeeds overall in 'providing a service to the neophyte and a stimulus to the initiate', as M. Fishbane has put it in relation to 'Bible Interpretation' (p.682), in a way that makes it a unique teaching and research tool.As such, it will be of help to a wide range of advanced undergraduates, postgraduate students and scholars.Nonetheless, while every chapter has something positive to offer, intermittently there are some disappointing features.On occasions, for instance, the discussion is so compressed that it is little more than a technical list of past and present scholarly views that non-initiates will find off-putting.More seriously, although mentioned at various points, more should have been made of Judaeo-Greek history, religion and literature in several chapters (e.g. S. Schwartz, 'Historiography on the Jews in the \"Talmudic\" Period: 70-640 CE', and I. Ta-Shma, 'Rabbinic Literature in the Middle Ages: 1000-1492').At the other end of the chronological spectrum, fuller discussion of the specifically religious aspects of modern Judaism in its various denominational manifestations would have been welcome, either in a chapter on its own or else perhaps in P. Mendes-Flohr ('Jewish Philosophy and Theology'), or S. DellaPergola ('Demography').Furthermore, here and there objections may be raised on historical or ideological grounds to the manner in which a given subject is described or discussed.For example, Second Temple literature is presented under the labels of 'Apocrypha and Pseudepigrapha', 'Dead Sea Scrolls' and 'Diaspora Judaism', even though these arguably do not represent the best categories for grasping the historical significance of the full range of material available on its own terms (J.J. Collins, 'The Literature of the Second Temple Period').Similarly, the odd description of Shi'ism as 'heterodox Islam' (in M. Polliack, 'Medieval Karaism') is likely to raise ideological eyebrows in academic Islamic Studies circles.No doubt other scholars will find similar gripes in relation to their own areas of expertise covered in this volume.",
+      "cited_by_count": 31,
+      "type": "article",
+      "source": {
+        "name": "Journal of Jewish Studies",
+        "type": "journal",
+        "issn": [
+          "0022-2097",
+          "2056-6689"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jjs-online.net/archives/fulltext/2557"
+      },
+      "topics": [
+        "Jewish Identity and Society",
+        "Biblical Studies and Interpretation",
+        "Jewish and Middle Eastern Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2335433141"
+    },
+    {
+      "openalex_id": "W1488973119",
+      "doi": "10.5070/t411000004",
+      "title": "Decolonizing Post-Colonial Studies and Paradigms of Political-Economy: Transmodernity, Decolonial Thinking, and Global Coloniality",
+      "authors": [
+        {
+          "name": "Ram\u00f3n Grosfoguel",
+          "openalex_id": "A5024208517",
+          "orcid": "https://orcid.org/0000-0001-9051-1573",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-05-13",
+      "abstract": "Can we produce a radical anti-systemic politics beyond identity politics? 1 Is it possible to articulate a critical cosmopolitanism beyond nationalism and colonialism?",
+      "cited_by_count": 1065,
+      "type": "article",
+      "source": {
+        "name": "TRANSMODERNITY Journal of Peripheral Cultural Production of the Luso-Hispanic World",
+        "type": "journal",
+        "issn": [
+          "2154-1353",
+          "2154-1361"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://escholarship.org/content/qt21k6t3fq/qt21k6t3fq.pdf?t=ll4zsw"
+      },
+      "topics": [
+        "Latin American and Latino Studies",
+        "Political Economy and Marxism",
+        "Cuban History and Society"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W1488973119"
+    },
+    {
+      "openalex_id": "W1991768606",
+      "doi": "10.1111/j.1468-2303.2006.00347.x",
+      "title": "BEYOND COMPARISON: <i>HISTOIRE CROIS\u00c9E</i> AND THE CHALLENGE OF REFLEXIVITY<sup>1</sup>",
+      "authors": [
+        {
+          "name": "Michael Werner",
+          "openalex_id": "A5101509365",
+          "orcid": "https://orcid.org/0000-0002-3036-1478",
+          "institutions": [
+            "\u00c9cole des Hautes \u00c9tudes en Sant\u00e9 Publique",
+            "\u00c9cole Normale Sup\u00e9rieure - PSL"
+          ]
+        },
+        {
+          "name": "B\u00e9n\u00e9dicte Zimmermann",
+          "openalex_id": "A5016933057",
+          "orcid": "https://orcid.org/0000-0002-8750-2681",
+          "institutions": [
+            "\u00c9cole des Hautes \u00c9tudes en Sant\u00e9 Publique",
+            "\u00c9cole Normale Sup\u00e9rieure - PSL"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-02-01",
+      "abstract": "ABSTRACT This article presents, in a programmatic way, the histoire crois\u00e9e approach, its methodological implications and its empirical developments. Histoire crois\u00e9e draws on the debates about comparative history, transfer studies, and connected or shared history that have been carried out in the social sciences in recent years. It invites us to reconsider the interactions between different societies or cultures, erudite disciplines or traditions (more generally, between social and cultural productions). Histoire crois\u00e9e focuses on empirical intercrossings consubstantial with the object of study, as well as on the operations by which researchers themselves cross scales, categories, and viewpoints. The article first shows how this approach differs from purely comparative or transfer studies. It then develops the principles of pragmatic and reflexive induction as a major methodological principle of histoire crois\u00e9e. While underlining the need and the methods of a historicization of both the objects and categories of analysis, it calls for a reconsideration of the way history can combine empirical and reflexive concerns into a dynamic and flexible approach.",
+      "cited_by_count": 621,
+      "type": "article",
+      "source": {
+        "name": "History and Theory",
+        "type": "journal",
+        "issn": [
+          "0018-2656",
+          "1468-2303"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-2303.2006.00347.x"
+      },
+      "topics": [
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W1991768606"
+    },
+    {
+      "openalex_id": "W2916136405",
+      "doi": "10.1007/s11133-019-9413-7",
+      "title": "What is Qualitative in Qualitative Research",
+      "authors": [
+        {
+          "name": "Patrik Aspers",
+          "openalex_id": "A5085363578",
+          "orcid": "https://orcid.org/0000-0001-9840-8669",
+          "institutions": [
+            "Uppsala University"
+          ]
+        },
+        {
+          "name": "Ugo Corte",
+          "openalex_id": "A5047468729",
+          "orcid": "https://orcid.org/0000-0002-7994-3399",
+          "institutions": [
+            "University of Stavanger"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-27",
+      "abstract": "What is qualitative research? If we look for a precise definition of qualitative research, and specifically for one that addresses its distinctive feature of being \"qualitative,\" the literature is meager. In this article we systematically search, identify and analyze a sample of 89 sources using or attempting to define the term \"qualitative.\" Then, drawing on ideas we find scattered across existing work, and based on Becker's classic study of marijuana consumption, we formulate and illustrate a definition that tries to capture its core elements. We define qualitative research as an iterative process in which improved understanding to the scientific community is achieved by making new significant distinctions resulting from getting closer to the phenomenon studied. This formulation is developed as a tool to help improve research designs while stressing that a qualitative dimension is present in quantitative work as well. Additionally, it can facilitate teaching, communication between researchers, diminish the gap between qualitative and quantitative researchers, help to address critiques of qualitative methods, and be used as a standard of evaluation of qualitative research.",
+      "cited_by_count": 1206,
+      "type": "article",
+      "source": {
+        "name": "Qualitative Sociology",
+        "type": "journal",
+        "issn": [
+          "0162-0436",
+          "1573-7837"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11133-019-9413-7.pdf"
+      },
+      "topics": [
+        "Qualitative Research Methods and Applications",
+        "Qualitative Research Methods and Ethics",
+        "Qualitative Comparative Analysis Research"
+      ],
+      "referenced_works_count": 116,
+      "url": "https://openalex.org/W2916136405"
+    },
+    {
+      "openalex_id": "W4229837520",
+      "doi": "10.1093/acrefore/9780190264093.013.111",
+      "title": "Progressivism",
+      "authors": [
+        {
+          "name": "Daniel Tr\u00f6hler",
+          "openalex_id": "A5012968155",
+          "orcid": "https://orcid.org/0000-0001-5616-2840"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-22",
+      "abstract": "\u201cProgressivism\u201d is a collective term used in historiography to characterize historical phases in which particular ways to think about progress are detectable. Hence, \u201cprogressivism\u201d is more a historiographical label used by historians than a term used by those thinkers identified as being part of a progressive phase in history. Even though important scholars have argued that the idea of progress can be traced back to antiquity, others have argued that ideas of progress\u2014as a more or less linear alternative to a cyclical way of thinking\u2014are found for the first time in the transition from the early modern period to modernity (ca. 1700). These ideas of progress can be linked to the advancement of knowledge, to the perfecting of the soul or then of the social order, and they link the notion of \u201cprogress\u201d with notions like \u201cperfection\u201d and \u201cdevelopment.\u201d As a rule, \u201cprogress\u201d did not include notions of future chaos or imponderability but rather was understood as an ordered proceeding to the future that was interpreted either as the redemption or materializing of a more or less predetermined road (individually and/or socially), as a contribution to adjustment of social development understood as dangerous or wrong, or as resulting from a forecast and planned future. All of these attempts over the last three and a half centuries to conceptualize progress in one way or another were connected to research, and they affected ideas on education; most of them were even closely related to educational aspirations, methods, programs, and/or policy. The two great and independent motives of \u201cprogress\u201d can be identified first around 1700 in France and England with regard to advancement in knowledge and the sciences (1), and in Germany with regard to the perfection of the soul. The idea of human perfection and the advancement of the knowledge based on modern sciences were merged in the Enlightenment prior to the French Revolution and its philosophical legitimation (2), leading in the German realm to a philosophy of history that subordinated all of human and natural history to a great narrative from the past to the future (3). The emergence of sociology gave the narrative a national frame that was supported by the erection of modern schooling, but by the end of the 19th century, the modern conditions of social and political life as actual expressions of progress were perceived as not redeeming the promises of the Enlightenment and the philosophy of history, which led to a schism in the interpretation of \u201ctrue\u201d progress. These critical perceptions triggered a reaction labeled the Progressive Era, which aimed to readjust the modern conditions of life to particular, often religious ideals of social order in which progress was more tightly connected to (idealized) visions of the past (4). The educational ideas and ideals of this Progressive Era proved to be sustainable, but they were attacked during the Cold War period, which saw an emphasis on technocratic aspects of governance and specific ideas of economic and social development. The ramifications of this focus, which called for planning the future and adjusting education to these plans, can be seen in the case of the OECD (5).",
+      "cited_by_count": 12,
+      "type": "reference-entry",
+      "source": {
+        "name": "Oxford Research Encyclopedia of Education",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Religious Education and Schools",
+        "Reformation and Early Modern Christianity",
+        "Historical Architecture and Urbanism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4229837520"
+    },
+    {
+      "openalex_id": "W2130442067",
+      "doi": "10.1080/14781700.2012.663599",
+      "title": "The mediated nature of knowledge and the pushing-hands approach to research on translation history",
+      "authors": [
+        {
+          "name": "Martha P. Y. Cheung",
+          "openalex_id": "A5108280730",
+          "institutions": [
+            "Hong Kong Baptist University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-03-30",
+      "abstract": "Abstract This article focuses on the mediated nature of knowledge as the key theoretical issue pertaining to research on translation history. It is widely admitted that knowledge in the humanities is not impersonal but situated. Especially heavily mediated is knowledge in the domain of translation history, the difference in time, space and language being particularly difficult challenges for researchers in their attempts to interpret and represent the past. The article offers a critical overview of various established ways of dealing with historical knowledge, and presents what I regard as a most fruitful mode of researching translation history. Borrowing a term from Chinese martial art, I call it the \"pushing-hands\" (tuishou ) approach to translation history, which seeks to bring the past and the present into dialogic engagement and offer an alternative to the dichotomous thinking characterizing much humanities research today. Keywords: translation historypushing-handsinterventionist historiographyself-reflective historiographytranslation in China taiji Acknowledgements Research for this paper was supported by a Faculty Research Grant (FRG2/11\u201312/017) from the Hong Kong Baptist University. Notes 1. Intralingual translation, interlingual translation and intersemiotic translation are the conceptual and analytical tools introduced by Roman Jakobson (Citation1959). 2. See White (Citation1980) and, especially, White (Citation1973) for a critique of the traditional view of history as an objective recounting of historical facts and a judicious analysis of primary materials for the \"true\" meaning of history. 3. Quoted by Eva Hung (Citation2001, Citation2005), who adopts the same view of history as Carr. 4. The scope of this article does not permit detailed coverage of the methods used by translation scholars engaged in historical research. Suffice it to mention that Emerging Views on Translation History in Brazil (Milton Citation2001) can be read as a microscopic representation of the macro picture: that is, of the emerging views on translation history and historiography that have entered the discipline of translation studies in the last few decades. 5. See also Georges L. Bastin (Citation2006) for a discussion, in the context of research on translation history in Latin America, of how, with rigour, a researcher can attain unexpected discoveries that allow him/her to challenge received truths, and of the severe errors that result from the lack of such rigour. Bastin argues that \"objective history is impossible\" and \"there is such a thing as necessary subjectivity\" (ibid., 123), but he, too, believes that rigour is \"the paramount virtue of research\" (ibid., 121). 6. See, for example, Wolfgang Behr, who cites \"recent genetic studies of mitochondrial DNA lineages, haplogroup and surname distributions, as well as cranio- and odontometrical data\" in his discussion of the ancestry of the Chinese language (Citation2004, 175). Of more direct interest to translation historians is Behr's argument in the same article that, according to his study of bronze inscriptions, even though Chinese historical documents have recorded a number of terms for translation in ancient China, the Chinese character yi was the one term used in ancient China to designate the concept of what in English is called \"translation\", and yi means \"exchange\" (ibid., 186\u201398). For an alternative reading of terms discussed by Behr, see Cheung (Citation2005). 7. In the context of Chinese translation history, Eva Hung's (Citation2001) work is the most illustrative example. 8. Similar efforts have also been made by sinologists in the West (Hansen Citation1992, 2\u20135; Hall and Ames Citation1995) to question the appropriateness of studying Chinese philosophy or particular strands of the philosophical traditions in China using conceptual and analytical tools devised for the study of European philosophy, and to reflect on the Eurocentric bias embedded in such an approach. I am grateful to an anonymous reviewer of this article for suggesting this point. 9. In Cohen's own words, this approach aims \"to get inside China, to reconstruct Chinese history as far as possible as the Chinese themselves experienced it rather than in terms of what people in the West thought was important, natural, or normal\" (Cohen Citation2003, 1). 10. YouTube (Citation2008b) offers a short video demonstration of pushing-hands, with explanation in English. Being a martial art, pushing-hands can be used for defence and attack, even though this is not its primary purpose. YouTube (Citation2007a) gives a video demonstration, with explanations in English subtitles, of the specific hand and foot techniques for offensive and defensive purposes; at YouTube (Citation2007b) pushing-hands is practised first as training and then as competitive sport. 11. See Paul Crompton (Citation1989) for an excellent introduction to the philosophy of yin and yang and to the actual practice of pushing-hands. 12. Cheung's Anthology (Citation2006) carries entries on these concepts, as well as titles of the Chinese source texts in which they are explicated. They are listed under \"b\u011bn source\" in the general index. 13. Chu Chi Yu and Zhu Xiaolong's edited volume (Citation2006) collects many such documents. 14. See Yan Cong's \"Bian zheng lun ()\", recorded in Xing Ju (Citation2006), and Zan Ning's \"Tang jingshi Man Yue zhuan ()\" (Zan Ning Citation2006).",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "Translation Studies",
+        "type": "journal",
+        "issn": [
+          "1478-1700",
+          "1751-2921"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Translation Studies and Practices",
+        "Philippine History and Culture",
+        "Legal and cultural studies analysis"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2130442067"
+    },
+    {
+      "openalex_id": "W2147538757",
+      "doi": "10.1215/08992363-16-3-347",
+      "title": "Writing the World from an African Metropolis",
+      "authors": [
+        {
+          "name": "Achille Mbemb\u00e9",
+          "openalex_id": "A5026024717",
+          "orcid": "https://orcid.org/0000-0003-0006-3194",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Sarah Nuttall",
+          "openalex_id": "A5110206825",
+          "institutions": [
+            "Yale University"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-09-01",
+      "abstract": "There is a manner about Johannesburg, it makes the impression of a metropolis.",
+      "cited_by_count": 807,
+      "type": "article",
+      "source": {
+        "name": "Public Culture",
+        "type": "journal",
+        "issn": [
+          "0899-2363",
+          "1527-8018"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/public-culture/article-pdf/16/3/347/453503/PCult016-03_01MbembeNuttall.pdf"
+      },
+      "topics": [
+        "Postcolonial and Cultural Literary Studies",
+        "Global Maritime and Colonial Histories",
+        "African history and culture studies"
+      ],
+      "referenced_works_count": 90,
+      "url": "https://openalex.org/W2147538757"
+    },
+    {
+      "openalex_id": "W2402817515",
+      "doi": null,
+      "title": "The new cannibal club: Deconstructing history in Aotearoa New Zealand",
+      "authors": [
+        {
+          "name": "John Bevan-Smith",
+          "openalex_id": "A5012234648"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "The central argument of this thesis is that history is a self-referential discourse, the principal referent of which, the past, exists as an organising device within the discourse itself and not as a material exoteric that can be visited and studied. As a consequence, 'historical discourse is a fake performative discourse' that relies on 'the reality effect' to make the past seem present and accessible in order to achieve its teleological aims. History, therefore, is not axiomatic and has a limited social utility. The principal purpose of this thesis is to dehegemonize settler historiography in Aotearoa New Zealand in the hope of finding a way to overcome the diffe\u0301rend that separates Maori (tangata whenua or people of the land) and Pakeha (tangata tiriti or tauiwi, respectively, people of the Treaty or foreigners) and thereby help to bring about a deep and lasting healing in this place. It thus contends that an alternative to the historic-legal language on which the contemporary dialogue is based must be found. To these ends, it relies on ideas from linguistic philosophy, particularly those of Roland Barthes, Jacques Derrida, and Jean-Francois Lyotard, to deconstruct the 'groundless grounds' on which contemporary history writing rests, and deploys these ideas to demonstrate that settler historiography, as a textual site, is central to a discursive system that performs a double function: it affirms the settler's right to belong while displacing the narrative of the indigenous population whose geography the settler has seized by force and other dubious means. It argues that we should break with the positivist model that informs the modern historiographical project and approach the diffe\u0301rend on a philosophic-ethical basis, while learning to live with the aporias and contradictions that inhere within the human condition. Finally, this thesis advocates for an unceasing deconstruction of the hegemonic while seeking the unexpected in Derrida's 'democracy to come'.",
+      "cited_by_count": 5,
+      "type": "dissertation",
+      "source": {
+        "name": "ResearchSpace (University of Auckland)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2402817515"
+    },
+    {
+      "openalex_id": "W1987536439",
+      "doi": "10.1080/01439685.2013.852761",
+      "title": "The War That Won\u2019t Die: the Spanish Civil War in cinema",
+      "authors": [
+        {
+          "name": "Robert A. Rosenstone",
+          "openalex_id": "A5016919228",
+          "institutions": [
+            "California Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-12-09",
+      "abstract": "The War That Won't Die is in some ways a frustrating book, at once full of smart&#13;\\ninsights and yet in some senses na\u00efve, deeply researched and yet full of lacunae.&#13;\\nThe aim of its author, David Archibald, is to explore 'the diverse ways in which&#13;\\ncinema can represent one event, the elasticity of the event, and the efficacy of&#13;\\nthe representational techniques of varying film forms.' Focusing on the Spanish&#13;\\nCivil War, 1936-1939, he proposes to situate his analyses of individual films&#13;\\nwithin 'contemporary debates on . . . historiography . . . also the philosophy of&#13;\\nhistory and the relationship between the past and its cinematic representation'&#13;\\n(p. 18).",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Historical Journal Of Film Radio and Television",
+        "type": "journal",
+        "issn": [
+          "0143-9685",
+          "1465-3451"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Spanish Culture and Identity",
+        "Spanish History and Politics",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1987536439"
+    },
+    {
+      "openalex_id": "W3086654328",
+      "doi": "10.5281/zenodo.3567217",
+      "title": "Historical Methodology and Critical Thinking as Synergised Concepts [Metodolog\u00eda hist\u00f3rica y pensamiento cr\u00edtico como conceptos sin\u00e9rgicos]",
+      "authors": [
+        {
+          "name": "David \u010cern\u00edn",
+          "openalex_id": "A5071744079",
+          "orcid": "https://orcid.org/0000-0001-8711-3929",
+          "institutions": [
+            "University of Ostrava"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-11-24",
+      "abstract": "The post-truth era is plagued by numerous pseudoscientific theories and narratives that took root in various disciplines. History and historical knowledge belong to the enterprises abused today. The output of historical inquiry in a narrative form is often considered as a correct description of the real past from which we may draw normative conclusions about society. However, the endemic plurality of historical narratives and theories presents an opportunity for intentional misinterpretation. This paper aims to sketch a solution to this threatening situation with the help of contemporary philosophy of historiography. It is argued that it is necessary to move from historical narratives to the process of historical inquiry itself. The historiography developed over its existence many useful tools on how to guard itself against various logical fallacies, cognitive biases, and pseudoscientific methodology. The situation of a historian encountering contradictory sources about the same subject is strikingly similar to the situation of an inquisitive person confronted by pseudoscientific articles and fake news. The paper highlights a strong synergy between fully developed methods of scientific historiography and critical thinking that is considered as a possible cure to our current predicament. We should teach history as critical thinking, not as stories.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://discovery.dundee.ac.uk/files/32330617/Author_Accepted_Manuscript.pdf"
+        "oa_url": "https://doi.org/10.5281/zenodo.3567217"
       },
       "topics": [
-        "Disability Rights and Representation",
-        "Foucault, Power, and Ethics",
-        "Historical Studies on Reproduction, Gender, Health, and Societal Changes"
+        "Education and Critical Thinking Development",
+        "Educator Training and Historical Pedagogy",
+        "Empathy and Medical Education"
       ],
-      "referenced_works_count": 26,
-      "url": "https://openalex.org/W2945041360"
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W3086654328"
     },
     {
-      "openalex_id": "W3120980371",
-      "doi": "10.1007/s13194-020-00345-2",
-      "title": "Data models, representation and adequacy-for-purpose",
+      "openalex_id": "W2304852406",
+      "doi": "10.1086/685056",
+      "title": "A New Field:<i>History of Humanities</i>",
       "authors": [
         {
-          "name": "Alisa Bokulich",
-          "openalex_id": "A5087275893",
-          "orcid": "https://orcid.org/0000-0002-9406-3904",
-          "institutions": [
-            "Boston University"
-          ]
+          "name": "Rens Bod",
+          "openalex_id": "A5021400032"
         },
         {
-          "name": "Wendy S. Parker",
-          "openalex_id": "A5041921838",
-          "orcid": "https://orcid.org/0000-0001-7796-3401",
+          "name": "Julia Kursell",
+          "openalex_id": "A5024200103"
+        },
+        {
+          "name": "Jaap Maat",
+          "openalex_id": "A5108417734"
+        },
+        {
+          "name": "Thijs Weststeijn",
+          "openalex_id": "A5040818477"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-01",
+      "abstract": "Previous articleNext article FreeEditorialA New Field: History of HumanitiesRens Bod, Julia Kursell, Jaap Maat, and Thijs WeststeijnRens Bod, Julia Kursell, Jaap Maat, and Thijs WeststeijnPDFPDF PLUSFull Text Add to favoritesDownload CitationTrack CitationsPermissionsReprints Share onFacebookTwitterLinked InRedditEmailQR Code SectionsMoreThese are exciting times for the humanities. The impressive corpus of knowledge that the humanities have discovered, created, and cultivated over many centuries is available for the benefit of more people than ever and evolving rapidly. Fresh perspectives open up as digital tools enable researchers to explore questions that not long ago were beyond their reach and even their imagination. Novel fields of research deal with phenomena emerging in a globalizing culture, enabling us to make sense of the way in which new media affect our lives. Cross-fertilization between disciplines leads to newly developed methods and results, such as the complex chemical analysis of the materials of ancient artworks, yielding data that were unavailable to both artists and their publics at the time of production, or neuroscientific experiments shedding new light on our capacity for producing and appreciating music.At the same time, there is a sense of gloom, perhaps even crisis, among those who are convinced that the humanities are valuable, precious, indispensable. The number of students taking humanities courses declines, and humanities departments at universities worldwide are subject to severe budget cuts or abolition altogether. In a period in which the academic world is plagued by governments insisting on measurable results for the sake of short-term financial profit, the humanities seem most vulnerable.We present the first issue of History of Humanities with feelings of anticipation. Our journal is meant to stand for the fact that scholarly practices of a type today labeled \"humanities\" have been an essential part of the process of knowledge making ever since human inquisitiveness sought to enhance our understanding of the world and ourselves. This long history has been studied in fruitful and illuminating ways, but the focus has been on either the natural sciences or on single disciplines within the humanities, such as history writing and linguistics. The fundamental contribution of the humanities to the intricate web of knowledge that scholars, thinkers, and researchers have spun in the course of several millennia has thus been poorly recognized and is consequently undervalued. We intend to redress the imbalance in the historiography of the search for knowledge that mankind has been engaged in for so long. A more balanced picture, we believe, will show that the ways we arrive at knowledge are complex, varied, and unpredictable and often involve the transmission of methods and insights from one field of investigation to another.The humanities have always been strong in reflecting on their own history and have sometimes even defined themselves as primarily concerned with the history and historicity of human endeavors. However, our motive for starting a journal devoted to the history of the humanities is not nostalgia. Instead we see a potential for a large community of scholars and researchers to make their cause more tangible through reflecting on their own history in a new constellation. We invite contributions on as many aspects of the history of the humanities as possible. Authors can discuss the histories of the study of the visual and literary arts, of language and music, of thinking, and of the past, to name but several central subjects. These studies stretch from ancient times up to the present, and they can be found in different regions across the globe.A platform of this sort is called for in view of both the positive and negative trends in today's humanities, and we hope that it will strengthen the voice of the humanities in the academic discourse at large. First attempts to bring together historians of the humanities took shape as a series of four conferences, \"The Making of the Humanities,\" in Amsterdam (2008, 2010) and Rome (2012, 2014). This is now followed by a series of annual meetings that will take place in Baltimore (2016), Oxford (2017), and Beijing (2018). Having published The Making of the Humanities, a trilogy of selected papers from the first conferences, we decided as a next step to found History of Humanities.1 We have witnessed how scholars worldwide are forming a vibrant community of historians of humanities, a process that recently resulted in the founding of the Society for the History of the Humanities.2What Do We Mean by \"Humanities\"? Toward a DefinitionIt is probably impossible to give a definition of the term humanities that would cover a category of practices, or objects of study, that remains fixed throughout all periods of intellectual activity across the world. In the European tradition alone, classifications of fields and disciplines have been many and diverse. Activities that may in hindsight be seen as belonging to a single discipline have migrated between categories. Aristotle's distinction between his Organon (works on logic), on the one hand, and the theoretical, practical, and productive sciences, on the other, existed alongside categorizations motivated by pedagogy, such as the Hellenistic enkyklios paideia and the late Roman artes liberales. A key moment as far as terminology is concerned was Coluccio Salutati's (1331\u20131406) defense of the studia humanitatis as a coherent and independent field: the secular study of grammar, rhetoric, poetics, history, and moral philosophy, complementary to the studia divinitatis, or Biblical scholarship. When fifteenth-century Italian universities adopted the curriculum of the studia humanitatis, its supporters were called umanisti, giving rise to the terms humanist and, later, humanism.3It is an open question whether or not the humanities as a whole can be distinguished from other groups of disciplines, such as the natural or the social sciences, on the basis of a specific method or object of study. A strong conceptual division between a science of the human and a science of nature dates back at least to Giambattista Vico's (1668\u20131744) Scienza Nuova of 1725. In the late nineteenth century, Wilhelm Dilthey (1833\u20131911) authoritatively distinguished the humanities (Geisteswissenschaften) from the sciences (Naturwissenschaften) with regard both to the methods and to the objects studied. Rather than explaining (erkl\u00e4ren) the world in terms of countable and measurable regularities, the humanities attempt to understand (verstehen) the intentions of historical actors; the specific objects investigated by the humanities are \"the expressions of the human mind.\"4 Over the twentieth century, other categories were introduced in addition to the humanities and the sciences, in particular the social sciences (or human sciences), which study human behavior in its social context. While these divisions are not stable, Dilthey's definition covers by and large the disciplines that are today referred to by the term humanities at continental European universities, including in languages other than German or English\u2014for example, scienze umanistiche in Italian, humanit\u00e9s in French, humaniora in the Dutch and Scandinavian languages, and gumanitarnyje nauki in Russian.If we move outside Europe, the picture obviously becomes more complicated. It has been argued that Islamic scholarship formed the basis for the studia humanitatis: the studia adabiya included grammar and lexicography, poetry, rhetoric, history, and moral philosophy.5 But China, for one, presents a different picture: the \"six arts\" that Confucius identified with genteel education were rites and rituals, music, archery, charioteering, calligraphy and writing, and mathematics (or prediction). Another ancient Chinese practice, to treat literature, philosophy, and history (the triad wen-shi-zhe) as one body of knowledge, was revived in the nineteenth century under the header of guoxue (national studies). Guoxue was intended as a counterweight to the term renwen, a calque of the Japanese denomination for the Western category \"humanities\" (as different from the social and natural sciences). In fact, however, renwen\u2014the term still used today\u2014was a retranslation, since the Japanese compound was originally derived from the Chinese Book of Changes.6Looking at the term humanities from a systematic perspective, we encounter yet another challenge. Although (and because) the journal aims at the broadest possible audience in its endeavor to contribute to a new field, it appears in a single language. Choosing English as the lingua franca entails many risks, some of which have become apparent in this first issue. In modern English, for one, the division between the humanities and the sciences is emphasized by the terminology itself. Yet in many other languages there is a single term, such as Wissenschaft in German, scienza in Italian, or nauka in Russian, that denotes the study of both the natural and the human world. In German and Italian, Literaturwissenschaft and scienza della letteratura are common terms. The emphasis in English on the difference between humanities and sciences suggests that methods do not easily migrate between these spheres of knowledge. This may be partly responsible for the tendency of English-speaking scholarship to associate the humanities with historical approaches, rather than analytical ones that study their objects independently of the historical and cultural background. By contrast, the humanities outside the United States and Britain have frequently depended on analytical, nonhistorical methods: famous examples include the Vienna School of art history, Russian formalism, and French structuralism.Our terminological challenges do not end with this alleged contrast between sciences and humanities. Another hurdle consists in an ambiguity of the latter term itself. In English, humanities can refer both to the study of the products of the human mind and to these products themselves. We do not intend to include historical studies of literature, music, theater, or the visual arts; rather, we aim at the history of the studies carried out on literature, music, theater, and the visual arts. This does not mean that we ignore that the arts themselves have often played a role in research and in the acquisition of knowledge.Scope of the JournalNo earlier journal has assembled scholarly studies on the history of the humanities disciplines across time and place. We thus believe it is not up to us to formulate rules for good practice in the history of humanities. Some of our contributors will find it legitimate to compare methods or principles stemming from different regions or periods; in the humanities, just as in the sciences, historical actors have applied practices, methods, and principles invented for specific disciplines to problems in other disciplines (sometimes by wilfully ignoring the original historical or religious contexts of these inventions). But other authors in History of Humanities may instead wish to highlight cultural incommensurabilities (and identify, for instance, the problems incurred when Western methods have been applied to the study of African literature or Chinese art).7We are aware that referring to the study of music and the study of art in Greek or Chinese antiquity with terms such as musicology and art history may entail a lapse into Eurocentric presentism in which the past and the foreign are interpreted in terms of current concepts and perspectives. One option is therefore the use of actors' categories, meaning period and local terms, such as poetics for the study of poetry and theater in ancient Greece, grammar for the Italian humanists' study of language, and jinshixue (the study of metal and stone) for tenth-century Chinese antiquarianism.History of Humanities welcomes contributions that critically engage with the validity of the term humanities and its related Eurocentric ideologies as predicated on ancient philology, Renaissance humanism, and the modern humanities faculties at German, French, and English-speaking universities. Yet as universities worldwide have adopted, at least in general terms, the Western model, our focus on the humanities reflects a global state of affairs.8 What is more, we feel that the ambition to write comparative historiographies of the humanities is a powerful heuristic that fills a conspicuous lacuna in the history of knowledge.We welcome articles on topics from all regions and all periods, both before and after the formation of university disciplines and including recently established fields, such as media studies and digital humanities, as well as discontinued fields, such as antiquarianism. Contributions may highlight the singularity of historical and geographical practices or emphasize parallels and connections between disciplines, periods, and cultures. We also invite historians of the humanities to engage with the history of science, and vice versa. Eventually a case could be made for uniting the history of the humanities and the history of science under the header of \"history of knowledge.\"9 Equally, however, contributors to History of Humanities may choose to highlight the specificity of the humanities in regard to the sciences.History of Humanities also encourages contributions on the political and societal value of the humanities. While actual practices in the humanities and sciences have been quite different from Dilthey's dichotomy between understanding and explaining, his distinction molded the minds of many, and his interpretative approach may have contributed to the current image problem of the humanities: they are seen as a luxury pastime with little relevance for society and even less for the economy. Our journal welcomes arguments in favor of (or, obviously, against) the value of the humanities, perhaps emphasizing their importance for critical thinking, social responsibility, or democratic citizenship.10 In this context, our comparative ambitions entail more than simply redressing an imbalance in our knowledge of the \"global humanities.\" The understanding of how one's own traditions have been different from, and determined by, outside influences contributes to cultural consciousness. This insight is to be taken to heart by historians of the humanities; as Edward Said (1935\u20132003) argued, it is their disciplines\u2014the study of languages and civilizations\u2014that have molded the Eurocentric worldview.11In sum, History of Humanities offers a stage to different practices and ideals in the humanities, from antiquity to the present and from all regions and cultures. Contributions may individuate singular historical actors or draw overarching parallels and connections; seek out commonalities with the sciences or emphasize the humanities' special status; and argue for or against their societal value. The journal publishes individual research articles, book reviews, and conference reports, with a special Forum section presenting a set of articles devoted to a specific theme.In the present volume, the first such Forum section explores the contemporary relevance of the dichotomy \"monument and document\" as formulated by Erwin Panofsky (by John Guillory, with commentaries by John Joseph and Geoffrey Harpham). This is followed by five articles that range from historical overviews to specific case studies. The first analyzes the status of the Chinese tradition of historical writing in the light of recent Western influences, concluding with a programmatic plea for the survival of Chinese scholarly virtues (by Liu Dong, with an introduction by Haun Saussy). The role of mythology in the Northern European humanities of the eighteenth and nineteenth centuries is analyzed from historical and methodological perspectives (by Joep Leerssen). Ferdinand Gregorovius provides a case in point of the importance of legends in historical scholarship (by Maya Maskarinec). The next contribution is a \"bio-bibliographical\" sketch of the Russian scholar Semen Vengerov, who spent his life compiling such sketches (by Mark Gamsa). Finally, one of the main challenges described above\u2014the relationship between the humanities, human sciences, and natural sciences\u2014is addressed (by Hans-J\u00f6rg Rheinberger).Notes1. The Making of the Humanities, vol. 1, Early Modern Europe (Amsterdam: Amsterdam University Press, 2010); vol. 2, From Early Modern to Modern Disciplines (Amsterdam: Amsterdam University Press, 2012); and vol. 3, The Modern Humanities (Amsterdam: Amsterdam University Press, 2014).2. See http://historyofhumanities.org/.3. For the history of the word humanist, see Paul Oskar Kristeller, \"Humanism and Scholasticism in the Italian Renaissance,\" Byzantion 17 (1944\u201345): 346\u201374.4. Wilhelm Dilthey, Einleitung in die Geisteswissenschaften: Versuch einer Grundlegung f\u00fcr das Studium der Gesellschaft und der Geschichte (Leipzig: Duncker & Humblot, 1883), 29.5. George Makdisi, The Rise of Humanism in Classical Islam and the Christian West: With Special Reference to Scholasticism (Edinburgh: Edinburgh University Press, 1990).6. Hsiung Ping-chen, \"The Evolution of Chinese Humanities,\" American Historical Review 120, no. 4 (2015): 1267\u201382; Perry Johansson, \"Cross-Cultural Epistemology: How European Sinology Became the Bridge to China's Modern Humanities,\" in The Making of the Humanities, 3:449\u201364; and Arif Dirlik, ed., \"The National Learning Revival,\" special issue of China Perspectives 1 (2011).7. James Elkins, \"Art History as a Global Discipline,\" in Is Art History Global?, ed. James Elkins (London: Routledge, 2007), 3\u201323.8. See, e.g., the articles on the modern humanities in South Africa (Keith Breckenridge, 1253\u201366), Mexico (Erica Pani, 1327\u201342), India (Sanjay Seth, 1354\u201367), and Russia (Oleg Kharkhordin, 1283\u201398) in American Historical Review 120, no. 4 (2015).9. See, e.g., Rens Bod, A New History of the Humanities (Oxford: Oxford University Press, 2013); John Pickstone, \"Toward a History of Western Knowledges: Sketching Together the Histories of the Humanities and the Natural Sciences,\" in Bod, Maat, and Weststeijn, Making of the Humanities, 3:667\u201385; Rens Bod and Julia Kursell, \"Focus: The History of Humanities and the History of Science,\" Isis 106, no. 2 (2015).10. See J\u00f6rg-Dieter Gauger and G\u00fcnther R\u00fcther, eds., Warum die Geisteswissenschaften Zukunft haben! (Freiburg im Breisgau: Herder, 2007); Jonathan Bate, ed., The Public Value of the Humanities (London: Bloomsbury Academic, 2010); Martha Nussbaum, Not for Profit: Why Democracy Needs the Humanities (Princeton, NJ: Princeton University Press, 2010); Helen Small, The Value of the Humanities (Oxford: Oxford University Press, 2013).11. Edward Said, Humanism and Democratic Criticism (Basingstoke: Palgrave, 2004).Works CitedBate, Jonathan, ed. 2010. The Public Value of the Humanities. London: Bloomsbury Academic.First citation in articleGoogle ScholarBod, Rens. 2013. A New History of the Humanities. Oxford: Oxford University Press.First citation in articleGoogle ScholarBod, Rens, and Julia Kursell. 2015. \"Focus: The History of Humanities and the History of Science.\" Isis 106, no. 2.First citation in articleGoogle ScholarBod, Rens, Jaap Maat, and Thijs Weststeijn, eds. 2010\u201314. The Making of the Humanities. 3 vols. Amsterdam: Amsterdam University Press.First citation in articleGoogle ScholarDilthey, Wilhelm. 1883. Einleitung in die Geisteswissenschaften: Versuch einer Grundlegung f\u00fcr das Studium der Gesellschaft und der Geschichte. Leipzig: Duncker & Humblot.First citation in articleGoogle ScholarDirlik, Arif, ed. 2011. \"The National Learning Revival.\" Special issue of China Perspectives 1.First citation in articleGoogle ScholarElkins, James. 2007. \"Art History as a Global Discipline.\" In Is Art History Global?, edited by James Elkins, 3\u201323. London: Routledge.First citation in articleGoogle ScholarGauger, J\u00f6rg-Dieter, and G\u00fcnther R\u00fcther, eds. 2007. Warum die Geisteswissenschaften Zukunft haben! Freiburg im Breisgau: Herder.First citation in articleGoogle ScholarHsiung, Ping-chen. 2015. \"The Evolution of Chinese Humanities.\" American Historical Review 120 (4): 1267\u201382.First citation in articleCrossrefGoogle ScholarJohansson, Perry. 2014. \"Cross-Cultural Epistemology: How European Sinology Became the Bridge to China's Modern Humanities.\" In The Modern Humanities, vol. 3 of The Making of the Humanities, edited by Rens Bod, Jaap Maat, and Thijs Weststeijn, 449\u201364. Amsterdam: Amsterdam University Press.First citation in articleGoogle ScholarKristeller, Paul Oskar. 1944\u201345. \"Humanism and Scholasticism in the Italian Renaissance.\" Byzantion 17:346\u201374.First citation in articleGoogle ScholarMakdisi, George. 1990. The Rise of Humanism in Classical Islam and the Christian West: With Special Reference to Scholasticism. Edinburgh: Edinburgh University Press.First citation in articleGoogle ScholarNussbaum, Martha. 2010. Not for Profit: Why Democracy Needs the Humanities. Princeton, NJ: Princeton University Press.First citation in articleGoogle ScholarPickstone, John. 2014. \"Toward a History of Western Knowledges: Sketching Together the Histories of the Humanities and the Natural Sciences.\" In The Modern Humanities, vol. 3 of The Making of the Humanities, edited by Rens Bod, Jaap Maat, and Thijs Weststeijn, Amsterdam: Amsterdam University Press.First citation in articleGoogle Humanism and Democratic citation in articleGoogle 2013. The Value of the Humanities. Oxford: Oxford University Press.First citation in articleGoogle Previous articleNext article by History of Humanities 1, by the Society for the History of the Humanities by The Society for the History of the Humanities. the articles this to the a or virtues and and The history of knowledge and the history of History of Review the ancient of in History of Review Bod History of the Humanities, Histories 2, of in the and within The Humanities in and the of Europe, History of Humanities and History of Humanities From with in the Early History of Humanities History in the and the of History of Humanities of The of in History of Humanities Criticism as a of in the The of on Humanities Classical Natural Classical and the Value of in for the History of 2, Humanities der a history of the global in the humanities and the social sciences, of Global History and Rens Bod The of the Humanities, History of Humanities James and Humanities for Review of A History of the History of Humanities The of the on the in the Early History of Humanities 3, and the Humanities, Humanities The and in Global History of Humanities 1,",
+      "cited_by_count": 45,
+      "type": "article",
+      "source": {
+        "name": "History of Humanities",
+        "type": "journal",
+        "issn": [
+          "2379-3163",
+          "2379-3171"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/a-new-field-history-of-humanities(db1a021e-8fcf-4645-9744-3c0f49373928).html"
+      },
+      "topics": [
+        "Digital Humanities and Scholarship"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2304852406"
+    },
+    {
+      "openalex_id": "W4321369190",
+      "doi": "10.18523/2617-1678.2022.9-10.137-146",
+      "title": "Appropriateness of Combining Feminist and Anticolonial Approaches to Historiography of Philosophy",
+      "authors": [
+        {
+          "name": "Veronika Puhach",
+          "openalex_id": "A5070886561",
+          "orcid": "https://orcid.org/0000-0001-6639-8777",
           "institutions": [
-            "Virginia Tech"
+            "National University of Kyiv-Mohyla Academy"
           ]
         }
       ],
-      "publication_year": 2021,
-      "publication_date": "2021-01-29",
-      "abstract": "Abstract We critically engage two traditional views of scientific data and outline a novel philosophical view that we call the pragmatic-representational (PR) view of data . On the PR view, data are representations that are the product of a process of inquiry, and they should be evaluated in terms of their adequacy or fitness for particular purposes. Some important implications of the PR view for data assessment, related to misrepresentation, context-sensitivity, and complementary use, are highlighted. The PR view provides insight into the common but little-discussed practices of iteratively reusing and repurposing data, which result in many datasets\u2019 having a phylogeny\u2014an origin and complex evolutionary history\u2014that is relevant to their evaluation and future use. We relate these insights to the open-data and data-rescue movements, and highlight several future avenues of research that build on the PR view of data.",
-      "cited_by_count": 108,
+      "publication_year": 2023,
+      "publication_date": "2023-01-20",
+      "abstract": "Feminist research on historiography of philosophy has been actively conducted in the anglophone academic space and primarily regarding Western philosophy for several decades. These inquiries led to fundamental rethinking of the canon of history of philosophy, the development of feminist methodological reflections by historians of philosophy, and discoveries (recoveries) of names of women philosophers of the past. Meanwhile, anticolonial research (including, but not limited to decolonial and postcolonial theory), aimed at combatting the problematic assumption that philosophy is a Western phenomenon, is being conducted. Meanwhile in Ukraine, the canon of history of philosophy remains almost exclusively male, and the anticolonial perspective is not applied to history of philosophy, even though for a major part of its history Ukraine was not independent and was under control of empires. To overcome the androcentric bias in historiography of Ukrainian philosophy, I believe we need to combine the feminist perspective with the anticolonial perspective since we are talking about women who are also representatives of a colonial nation, and this double status of being women and being colonial affected their experience. However, feminist and anticolonial approaches remain largely methodologically isolated, which is what prompts this article and the need to research the levels of their developments and the prospects of combining them for historiography of philosophy. This article fulfils this goal by reviewing both feminist and anticolonial approaches to historiography of philosophy separately, and then looking at cases of their successful combinations outside historiography of philosophy, reviewing challenges and similarities, and outlining methodological reasons for combining them when it comes to historiography of philosophy.",
+      "cited_by_count": 1,
       "type": "article",
       "source": {
-        "name": "European Journal for Philosophy of Science",
+        "name": "NaUKMA Research Papers Philosophy and Religious Studies",
         "type": "journal",
         "issn": [
-          "1879-4912",
-          "1879-4920"
+          "2617-1678",
+          "2617-5703"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://nzpr.ukma.edu.ua/article/download/273619/268986"
+      },
+      "topics": [
+        "Historical Gender and Feminism Studies",
+        "Rousseau and Enlightenment Thought",
+        "Philosophical and Historical Studies"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4321369190"
+    },
+    {
+      "openalex_id": "W4229916106",
+      "doi": "10.5325/jnietstud.45.3.0364",
+      "title": "Nietzsche's Philosophy of History",
+      "authors": [
+        {
+          "name": "Christian J. Emden",
+          "openalex_id": "A5053820439",
+          "orcid": "https://orcid.org/0000-0001-5457-5334",
+          "institutions": [
+            "Rice University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-11-01",
+      "abstract": "This tightly argued and elegantly written book is the first comprehensive study of Nietzsche's philosophy of history. This might be surprising, since much has been written about Nietzsche's historical perspective, his own historical studies in the field of classical scholarship, and the historical orientation of his philosophical project. Genealogy certainly contributes to the wider historicization of reason and culture that can be observed throughout the nineteenth century, but Nietzsche's project also differed markedly from the mainstream historicism as it was practiced at German universities in ways that typically combined the ideas of Wilhelm von Humboldt's Bildung and Hegel's \u201ccunning of reason\u201d with Theodor Mommsen's notion of Gro\u00dfwissenschaft. But as a form of \u201chistorical philosophizing,\u201d genealogy also draws much inspiration from its immediate intellectual context, a context characterized by the dominance of historical studies.Nietzsche is both untimely and a child of the nineteenth century, and it is precisely in this respect that Anthony K. Jensen's study allows us to clearly recognize Nietzsche as perhaps the first properly post-Hegelian philosopher of history\u2014a philosopher of history who is surprisingly neo-Kantian. Moreover, focusing on both Nietzsche's critique of traditional historical theory and his alternative project, but also on the way in which he anticipates theoretical developments that take place in the twentieth century, Jensen's study admirably bridges the unfruitful gap between \u201canalytical\u201d and \u201ccontinental\u201d approaches to the philosophy of history. While the themes he discusses, together with his keen attention for source material, might easily be seen as belonging to the continental tradition\u2014whatever that might be in the imagination of American analytical philosophers\u2014the theoretical framework within which much of his argument about Nietzsche as an untimely philosopher of history gains momentum is shaped by a profound interest in causation, causal explanation, inference, and so on. This is, indeed, one of the strengths of Jensen's study.Exhibiting an enviable command of both primary and secondary sources, Jensen develops his argument by focusing on the question of objectivity and the value of historical description and explanation. Starting out with Nietzsche's earliest historical studies as a schoolboy about the Ostrogoth King Ermanarich and then his later editorial criticism as a student at Bonn and Leipzig of Theognis of Megara and Diogenes Laertius, Jensen convincingly argues in the first chapter that Nietzsche's early work is marked by a \u201cskeptical realism\u201d (3). The latter does not fit the common distinction between Wortphilologie and Sachphilologie as it was established, in the nineteenth century, by the schools of Gottfried Hermann, on the one hand, and August Boeckh, on the other. Although Nietzsche would often criticize his own philological teachers, such as Otto Jahn in Bonn, Jensen highlights in the second chapter that these attacks had little to do with their historical method. After all, it was precisely Jahn and Friedrich Ritschl who provided him with the necessary tools to overcome the distinction between Wortphilologie and Sachphilologie. In his attempt to reach beyond the positivist representational realism of historical studies, however, Nietzsche, under the influence of Schopenhauer, also went one step too far, as he himself later realized. It is a great merit of Jensen's study that he shows, in the third chapter, how The Birth of Tragedy might constitute a radical break with prevalent paradigms of historical and philosophical scholarship, but its reliance on aesthetic intuition was bound to overshadow the otherwise crucial insights Nietzsche was able to deliver into the cultural function of Greek tragedy.It is this overreach that Nietzsche increasingly seeks to correct in subsequent years when he develops, in the Untimely Meditations as much as in Human, All Too Human, more sophisticated forms of historical criticism that take into account both the psychology and the cultural standpoint of the historical observer. Jensen, in this respect, is quite right to suggest in the fourth and fifth chapters of his study that Nietzsche's much proclaimed aestheticism does not run quite as deeply as often assumed; Nietzsche is more interested in the epistemological problems of historical representation than in turning the past into poetry, or life into literature. The critical historian of the second Untimely Meditation, for instance, emerges as a check against both aestheticist overreach and representationalist overconfidence; as such, the critical historian is a step on the road to genealogy (84). The model of Nietzsche's critical historian also implies a psychological attitude toward the past that resembles the atarax\u00eda of the Greek statesman and Renaissance ruler but that also foreshadows the stance Nietzsche's genealogy has to take vis-\u00e0-vis the metaphysical tradition. Although Jensen, somewhat surprisingly perhaps, does not follow up on the ethical and political implications this might have for the overall outlook of Nietzsche's project, he clearly shows that, even though Nietzsche does not explicitly return to the models of the second Untimely Meditation, his subsequent work continues to follow its broader conclusion: a subjectless and value-neutral understanding of history is simply an impossible undertaking.Jensen might only all too quickly glance at how such insights play out in Nietzsche's own historical scholarship, such as his Basel lectures on the history of Greek literature or his Encyclopedia of Classical Philology (92\u201394), but he is able to show with great clarity that Nietzsche's post-Hegelian stance partakes in the wider neo-Kantian reorientation of German philosophical thought in the second half of the nineteenth century. This, indeed, is a crucial insight of Jensen's study: the epistemological backbone of Nietzsche's philosophical project is much closer to the first generation of neo-Kantians than most current commentators allow. Nietzsche's claim that historical knowledge cannot be value-neutral not only mirrors Heinrich Rickert's position a few decades later, but Nietzsche's underlying critique of representationalism directly draws on those \u201cpost-Kantian naturalists\u201d who, like Helmholtz and Friedrich Albert Lange, really make up the first generation of neo-Kantians (130).Although it seems somewhat implausible that the University of Basel's history department really rivaled that of Berlin (i), it is the intellectual context in Basel that allows Nietzsche to formulate an epistemologically interesting alternative to the dominant historical and philosophical paradigms in imperial Germany. Jensen convincingly shows how Nietzsche pits the theoretical underpinnings of Basel cultural history, exemplified by Johann Jacob Bachofen, Jacob Burckhardt, and Franz Overbeck, against Hegel's populist heirs, in particular David Friedrich Strauss and Eduard von Hartmann (97\u2013118)\u2014heirs whose positivist and optimistic accounts of a grand historical teleology had not quite learned the lessons Hegel had offered in the introduction to his lectures on the philosophy of history. In contrast, Nietzsche's emphasis on the question of value for historical knowledge, as much as his recognition of the importance of psychology, leads him to conceive of the task of historiography along the lines of a history of mentalities that, not unlike Burckhardt's approach, would focus on \u201ctypological traits\u201d (114). Whatever historical facts there might be, they are relevant only because they are always already of a normative kind.Nietzsche's awareness of the complexity of historical knowledge and representation distances his account clearly from a merely antimodern cultural criticism, but it also undercuts the liberal hopes that were part of some aspects of Berlin Geschichtswissenschaft. His demand for a \u201chistorical philosophizing\u201d\u2014which was central to Human, All Too Human and that still shaped his later works like Beyond Good and Evil\u2014not only emphasized the inherently perspectival character of historical knowledge, but also showed that the value and meaning of historical knowledge could not be found in a simplistic realism that aimed to show how the past really was. While he accepts causal models of historical explanation, his interest in the psychology of historical agents and observers prevents him from adopting a positivist understanding of the motivation of historical agents. Causality, thus, implies both complexity and chancy causation, and it is Nietzsche's much underappreciated reading of Martin Drossbach that allows him to move beyond a discussion of causality that had largely been shaped by Kant and Hume (162). At the same time, however, this brings Nietzsche's philosophy of history into a difficult position: historical representation is both meaningful and (or rather: because) it fails to represent the past as it really was. Nietzsche, as Jensen summarizes this position, \u201cis an ontological realist but an anti-realist about historical representation\u201d (142), and this brings him into close proximity with more recent theoretical positions, such as that of Frank Ankersmit (145).The combination of a representational anti-realism with a perspectival theory of explanation, Jensen plausibly argues, is the crucial point of Nietzsche's philosophy of history. This combination allowed Nietzsche\u2014for instance, in The Genealogy of Morality and Ecce Homo, which are the subject of the final two chapters\u2014to overcome both the simplified Hegelianism of the Berlin historians and his own earlier misstep that replaced historical knowledge with aesthetic intuition. Genealogy, then, allows for a \u201chistorically contingent anti-realist representation\u201d (157) that examines under which conditions and circumstances the emergence of values, and thus of meaning, is possible; genealogy describes a historical space of possibilities. Even though genealogy can be counterfactual, it is itself meaningful and has value since its task is to persuade others of the truth claims inherent in the space of possibilities it outlines. As such, it avoids postmodern value relativism without, however, giving in to the false promises of a positivist understanding of historical knowledge.Jensen's book is an important contribution that both clarifies and complicates our understanding of Nietzsche's philosophy of history. Any account of Nietzsche's \u201chistorical philosophizing,\u201d and of his genealogical project, will have to take Jensen's insights on board.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Nietzsche Studies",
+        "type": "journal",
+        "issn": [
+          "0968-8005",
+          "1538-4594"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4229916106"
+    },
+    {
+      "openalex_id": "W3001574114",
+      "doi": "10.36253/978-88-6655-447-9",
+      "title": "Filosofia e storiografia nel dibattito anglo-americano sulla svolta linguistica",
+      "authors": [
+        {
+          "name": "Davide Bond\u00ec",
+          "openalex_id": "A5104013950",
+          "orcid": "https://orcid.org/0000-0003-4857-7717"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "This book proposes a critical examination of the main approaches of contemporary historiography, with the aim of bringing out their latent conceptual structures. Reinhart Koselleck wrote that \u00abHistorical knowledge always focuses on something more than what is found in the sources\u00bb: it is all about making its theories and values explicit, as they are also particular and historical facts themselves, which have clumsily been raised to universal principles. The author brings to light the pre-eminent forms of our relationship with the past through an analysis going from historiography to philosophy - from Pierre Nora, Carlo Ginzburg, Lynn Hunt to Hayden White, Jacques Derrida, Frank Ankersmit; from the New Cultural History and the histoire de la m\u00e9moire to the narrativism and to the philosophies of the historical sublime. Going beyond speculation, it is perhaps possible to aspire to a new alliance between historical and philosophical thought, to delimit a \u201cmiddle space\u201d between the unstructured praxism of a historiography without philosophy to the excessive idealism of a philosophy without history.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Premio Tesi dottorato/Premio Tesi di dottorato",
+        "type": "ebook platform",
+        "issn": [
+          "2612-8020",
+          "2612-8039"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13194-020-00345-2.pdf"
+        "oa_url": "https://media.fupress.com/files/pdf/24/2652/2652_6290"
       },
       "topics": [
-        "Philosophy and History of Science",
-        "Scientific Computing and Data Management",
-        "Biomedical Text Mining and Ontologies"
+        "Italian Literature and Culture"
       ],
-      "referenced_works_count": 76,
-      "url": "https://openalex.org/W3120980371"
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W3001574114"
     },
     {
-      "openalex_id": "W3047053712",
-      "doi": "10.1080/13645579.2020.1799636",
-      "title": "Social and causal complexity in Qualitative Comparative Analysis (QCA): strategies to account for emergence",
+      "openalex_id": "W2001592032",
+      "doi": "10.1080/13642529.2013.825085",
+      "title": "Rereading narrative constructivism",
       "authors": [
         {
-          "name": "Lasse Gerrits",
-          "openalex_id": "A5014463806",
-          "orcid": "https://orcid.org/0000-0002-7649-6001",
+          "name": "Kalle Pihlainen",
+          "openalex_id": "A5086334659",
+          "orcid": "https://orcid.org/0000-0002-3361-5840",
           "institutions": [
-            "Erasmus University Rotterdam"
-          ]
-        },
-        {
-          "name": "Sofia Pagliarin",
-          "openalex_id": "A5081889006",
-          "orcid": "https://orcid.org/0000-0003-4846-6072",
-          "institutions": [
-            "University of Bamberg"
+            "Research Council of Finland",
+            "\u00c5bo Akademi University"
           ]
         }
       ],
-      "publication_year": 2020,
-      "publication_date": "2020-08-04",
-      "abstract": "Qualitative Comparative Analysis (QCA) is said to be a method that can be used to uncover social complexity. However, this complexity is often \u2018missing in action\u2019 in actual empirical applications of the method. We aim to rearticulate the properties of social and causal complexity in their relationship to QCA. We first discuss the reasons why this relationship is not fully articulated in the current research. Rooted in a realist understanding of social emergence, we identify four possible strategies to bring social complexity back on focus when performing QCA: the use of thick case descriptions; the opening of the black box of conditions, by stacking and/or by developing them in a grounded manner; the integration of time in the method itself; and the combination of QCA with other, more time-sensitive methods.",
-      "cited_by_count": 67,
+      "publication_year": 2013,
+      "publication_date": "2013-09-12",
+      "abstract": "AbstractSince the 1960s, and especially after the appearance of Metahistory in 1973, the relationship between narrative and reality has been one of the most important questions in historical theory. Despite this, historians have generally taken the kind of narrative constructivism associated with Hayden White to hold no significance for them. Their justifications often miss the core point, however: What is in question is not how history could derive meaning from the facts of the past (which is an unsolvable problematic), but the responsibility historians have for the consequences of their work because of its unavoidably subjective or constructivist nature. Since Whitean constructivism emphasizes the independence of the meanings of historical stories from past reality, it necessarily also foregrounds the legitimation of interpretations. Hence the question becomes: Why 'do' history at all? By examining what narrative constructivism has had to say about the assumptions and rules that define history as a genre \u2013 as well as through an evaluation of what might so far have been missed but still needs to be considered \u2013 my goal here is to refocus the discussion so that this much more radical and far-reaching dimension might be better understood.Keywords:: Hayden Whitenarrative constructivismhistorical narrativesaesthetic impactpresentismsocial responsibility Notes 1. I follow Alun Munslow (Citation2007, 17) in employing the term 'narrative constructivism', which to me best helps distinguish White's particular brand of constructivism from those of R.G. Collingwood and Michael Oakeshott, for example. 2. For an example of White's detailed 'tropology', see Metahistory (Citation1973); White (Citation1978b); on Frank Ankersmit's idea of 'narrative substances', see his Narrative Logic (Ankersmit Citation1983, Citation1990, 279\u201380). 3. In his controversial essay 'The Historical Text as Literary Artefact' (Citation1978), White presented the idea of historical writing as a translation of '\"fact\" into \"fiction\"'; here 'fiction' was placed in scare quotes and in another version of the same essay in the same year it was presented as 'fictions' (see White Citation1978a, 53; Citation1978b, 92). Despite this care with formulations, many historians appear to think that White takes historical texts to be fictions that are 'not subject to truth controls' (Iggers Citation2000, 383); in this instance White has once again systematically answered and refuted such accusations (White Citation2000, 398). 4. It should be noted that recent constructivist theory hardly ever problematizes the research carried out by historians. See e.g. White (Citation1999, 7\u20138) and Jenkins (Citation1999, 94), both of whom distinguish and set aside from discussion the 'research phase' in order to better focus on the process of narrativization. 5. White often emphasizes that history (in order for it to be history) cannot be written freely; instead, historians need to consider the demands and limits set by the materials as well as by the institution (see e.g. White Citation1978b, 97). Compare this with Jenkins, who suggests that we simply decide to live 'amidst the ample and agreeable imaginaries provided by postmodern-type theorists, [\u2026] theorists who can generate enough by way of emancipatory rhetorics such that we no longer need any kind of foundational \u2013 or non-foundational \u2013 past' (Jenkins Citation1999, 10). It must be noted that the difference between White's and Jenkins' positions is not in the theoretical stand they adopt per se, but is rather based on their having quite different aims: White attempts to save history as a form of discourse whereas Jenkins hopes that it might be forgotten altogether. 6. Hence it makes good sense to say, with White, that the best way to refute an unwelcome interpretation is to offer a better one: 'The best counter to a narrative that is supposed to have misused historical memory is a better narrative, by which I mean a narrative, not with more historical facts, but a narrative with greater artistic integrity and poetic force of meaning' (White Citation2005b, 336). 7. On presence, see Gumbrecht (Citation1997, esp. 417\u20139), and a theme issue of History and Theory from October Citation2006, particularly the article by Eelco Runia. 8. And this is where experimental history comes in, of course (see e.g. Munslow and Rosenstone Citation2004; Munslow Citation2007, Citation2010). 9. For more, see May (Citation1995). Where poststructuralism frees people of traditional ideologies, it also binds them to personal responsibility regarding the consequences of their choices.10. A typical example of this kind of (careless) interpretation of postmodernism can be found in, e.g. Zagorin (Citation1999, esp. 7). For a thorough response and clarification of the misunderstandings involved, see Jenkins (Citation2000).11. As White argues: 'Nothing is better suited to lead to a repetition of the past than a study of it that is either reverential or convincingly objective in the way that conventional historical studies tend to be' (White Citation1987, 82).12. Compare this discussion about presence with the debate concerning memory in the 1980s and 1990s (see Klein Citation2000).13. Ankersmit spoke of this already in 1997. As he then said: 'I've lately become interested in the notion of experience but that's a different problem from the problem of historical writing. It has to do with the problem of whether a direct access to the past is possible. And I have committed the folly \u2013 and I persist in committing this folly \u2013 of saying that such a direct access to the past is under certain circumstances indeed possible. But everybody says that I'm completely mad to argue for this [\u2026]. My interest began with Huizinga who has the notion of \"historische sensatie\" \u2013 historical sensation \u2013 which he describes as a direct and immediate contact with the historical past' (in Pihlainen Citation1997, 368). In his Sublime Historical Experience (Citation2005), Ankersmit engages with this controversial idea in much greater detail.14. The usefulness of speaking about phenomenology in historical research might be questioned, however. As noted above, the past is not and cannot be present in any real way. Hence our relationship to it cannot be based on its being a perceivable phenomenon, and 'historical phenomenology' needs to be something quite different. An 'encounter' with the past through its traces does not strictly speaking constitute contact with the past, then, but only with the present. Any historical phenomenology thus always only means an imagining of the past, not a picture formed on the basis of any real interaction. The nature of imagining in this case is thus quite different from our encounters with the present, where meanings are constructed in relation to pragmatic needs and with recourse to interaction and experimentation. Speaking of phenomenology in history is thus only an extension of our everyday approach: that specific 'phenomenology' has taught us something fundamental about the way the world is, and we use this understanding in describing events in the past. So how does this really differ from constructivism as presented by White, for instance?15. At the start of Figural Realism, White rehearses these arguments one-by-one, including historians' most common criticisms, as well as his own reasons for why these miss their target (White Citation1999, 1\u201326).16. On the other hand, White seems to often be too attached to the example of modernist literature to appreciate the inherent strengths that history possesses with regard to representational form precisely as a result of its referential commitment (for more on this, see e.g. Pihlainen Citation2002, Citation2009).17. This can be seen as reflecting Roland Barthes' idea of 'readerly' and 'writerly' texts, of course. See e.g. Barthes (1973). My argument is not the same as his, however, in that both of the (admittedly caricatured) textual dynamics I describe here would belong to the Barthean category of 'writerly'. The difference between the kinds of texts I describe (both of them fundamentally 'writerly' or \u2013 a tad more familiarly to historical theory, perhaps \u2013 'worklike') is more interestingly viewed as one between a modernist and a postmodern aesthetics.18. On the refusal of representation in Foucault and Lyotard, see May (Citation1995); on Derrida and the aporetic moment of 'undecidability' required for a choice to be properly ethical, see e.g. Jenkins (Citation1999).19. On White's existentialism, see Paul (Citation2006, Citation2011). White seldom classifies his theory in any way; he has, however, explained his motives regarding postmodernism thus: 'the anti-postmodernist handwringers are wrong when they say that the postmodernists are \"against\" history, objectivity, rules, methods, and so on. What we postmodernists are against is a professional historiography, in service to state apparatuses that have turned against their own citizens, with its epistemically pinched, ideologically sterile, and superannuated notions of objectivity' (White Citation2005a, 152). As I see it, White's position seems to encompass the political aims of both existentialism and poststructuralism quite well.Additional informationNotes on contributorsKalle PihlainenKalle Pihlainen is an Academy of Finland Research Fellow based at the Department of Philosophy, \u00c5bo Akademi University, and Adjunct Professor in Philosophy of History at the Department of Contemporary History, University of Turku, Finland. He has published articles on narrative theory and the philosophy of history in various anthologies and in journals, including Rethinking History, New Literary History, Historein, Storia della Storiografia and Clio. His research interests are in cultural history, narrative theory, historical theory, embodiment and existential phenomenology.",
+      "cited_by_count": 12,
       "type": "article",
       "source": {
-        "name": "International Journal of Social Research Methodology",
+        "name": "Rethinking History",
         "type": "journal",
         "issn": [
-          "1364-5579",
-          "1464-5300"
+          "1364-2529",
+          "1470-1154"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Educator Training and Historical Pedagogy",
+        "Philosophy, History, and Historiography",
+        "Narrative Theory and Analysis"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W2001592032"
+    },
+    {
+      "openalex_id": "W2591654989",
+      "doi": "10.1257/jel.53.4.898",
+      "title": "Culture and Institutions",
+      "authors": [
+        {
+          "name": "Alberto Alesina",
+          "openalex_id": "A5083494527",
+          "institutions": [
+            "Harvard University",
+            "Bocconi University"
+          ]
+        },
+        {
+          "name": "Paola Giuliano",
+          "openalex_id": "A5044204764",
+          "orcid": "https://orcid.org/0000-0002-3809-4108",
+          "institutions": [
+            "UCLA Health",
+            "Anderson University - South Carolina"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-01",
+      "abstract": "A growing body of empirical work measuring different types of cultural traits has shown that culture matters for a variety of economic outcomes. This paper focuses on one specific aspect of the relevance of culture: its relationship to institutions. We review work with a theoretical, empirical, and historical bent to assess the presence of a two-way causal effect between culture and institutions. ( JEL D02, D72, I32, J12, Z13)",
+      "cited_by_count": 1440,
+      "type": "article",
+      "source": {
+        "name": "Journal of Economic Literature",
+        "type": "journal",
+        "issn": [
+          "0022-0515",
+          "1547-1101",
+          "2328-8175"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "hybrid",
-        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/13645579.2020.1799636?needAccess=true"
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jel.53.4.898"
       },
       "topics": [
-        "Qualitative Comparative Analysis Research",
-        "Management and Organizational Studies",
-        "Evaluation and Performance Assessment"
+        "Culture, Economy, and Development Studies",
+        "Economic Policies and Impacts",
+        "Experimental Behavioral Economics Studies"
       ],
-      "referenced_works_count": 104,
-      "url": "https://openalex.org/W3047053712"
+      "referenced_works_count": 219,
+      "url": "https://openalex.org/W2591654989"
     },
     {
-      "openalex_id": "W2606499136",
-      "doi": "10.1098/rsfs.2016.0121",
-      "title": "Is behavioural flexibility evidence of cognitive complexity? How evolution can inform comparative cognition",
+      "openalex_id": "W341488565",
+      "doi": "10.5070/t412011807",
+      "title": "Epistemic Disobedience and the Decolonial Option: A Manifesto",
       "authors": [
         {
-          "name": "Irina Mikhalevich",
-          "openalex_id": "A5065374720",
-          "orcid": "https://orcid.org/0000-0001-8134-1533",
-          "institutions": [
-            "Humboldt-Universit\u00e4t zu Berlin"
-          ]
-        },
-        {
-          "name": "Russell Powell",
-          "openalex_id": "A5080645062",
-          "orcid": "https://orcid.org/0000-0002-9893-1721",
-          "institutions": [
-            "Boston University"
-          ]
-        },
-        {
-          "name": "Corina Logan",
-          "openalex_id": "A5089962725",
-          "orcid": "https://orcid.org/0000-0002-5944-906X",
-          "institutions": [
-            "University of Cambridge"
-          ]
+          "name": "Walter D. Mignolo",
+          "openalex_id": "A5051525798",
+          "orcid": "https://orcid.org/0000-0002-2948-0656"
         }
       ],
-      "publication_year": 2017,
-      "publication_date": "2017-04-21",
-      "abstract": "Behavioural flexibility is often treated as the gold standard of evidence for more sophisticated or complex forms of animal cognition, such as planning, metacognition and mindreading. However, the evidential link between behavioural flexibility and complex cognition has not been explicitly or systematically defended. Such a defence is particularly pressing because observed flexible behaviours can frequently be explained by putatively simpler cognitive mechanisms. This leaves complex cognition hypotheses open to 'deflationary' challenges that are accorded greater evidential weight precisely because they offer putatively simpler explanations of equal explanatory power. This paper challenges the blanket preference for simpler explanations, and shows that once this preference is dispensed with, and the full spectrum of evidence-including evolutionary, ecological and phylogenetic data-is accorded its proper weight, an argument in support of the prevailing assumption that behavioural flexibility can serve as evidence for complex cognitive mechanisms may begin to take shape. An adaptive model of cognitive-behavioural evolution is proposed, according to which the existence of convergent trait-environment clusters in phylogenetically disparate lineages may serve as evidence for the same trait-environment clusters in other lineages. This, in turn, could permit inferences of cognitive complexity in cases of experimental underdetermination, thereby placing the common view that behavioural flexibility can serve as evidence for complex cognition on firmer grounds.",
-      "cited_by_count": 81,
+      "publication_year": 2012,
+      "publication_date": "2012-01-20",
+      "abstract": "Epistemic Disobedience and the Decolonial Option: A Manifesto",
+      "cited_by_count": 567,
       "type": "article",
       "source": {
-        "name": "Interface Focus",
+        "name": "TRANSMODERNITY Journal of Peripheral Cultural Production of the Luso-Hispanic World",
         "type": "journal",
         "issn": [
-          "2042-8898",
-          "2042-8901"
+          "2154-1353",
+          "2154-1361"
         ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsfs.2016.0121"
+        "oa_status": "diamond",
+        "oa_url": "https://escholarship.org/content/qt62j3w283/qt62j3w283.pdf?t=m284lt"
       },
       "topics": [
-        "Evolution and Paleontology Studies",
-        "Primate Behavior and Ecology",
-        "Amphibian and Reptile Biology"
+        "African cultural and philosophical studies",
+        "Anthropological Studies and Insights",
+        "Postcolonial and Cultural Literary Studies"
       ],
-      "referenced_works_count": 130,
-      "url": "https://openalex.org/W2606499136"
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W341488565"
     }
   ],
   "count": 25,

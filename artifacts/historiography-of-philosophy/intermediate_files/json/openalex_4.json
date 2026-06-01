@@ -1,0 +1,1249 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Corkum cognitive values history philosophy",
+  "results": [
+    {
+      "openalex_id": "W3030044838",
+      "doi": "10.1007/s11229-020-02798-7",
+      "title": "A computational model of the cultural co-evolution of language and mindreading",
+      "authors": [
+        {
+          "name": "Marieke Woensdregt",
+          "openalex_id": "A5091796371",
+          "orcid": "https://orcid.org/0000-0001-5454-4722",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "Chris Cummins",
+          "openalex_id": "A5034975204",
+          "orcid": "https://orcid.org/0000-0001-8708-4515",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Kenny Smith",
+          "openalex_id": "A5020926211",
+          "orcid": "https://orcid.org/0000-0002-4530-6914",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-02",
+      "abstract": "Abstract Several evolutionary accounts of human social cognition posit that language has co-evolved with the sophisticated mindreading abilities of modern humans. It has also been argued that these mindreading abilities are the product of cultural, rather than biological, evolution. Taken together, these claims suggest that the evolution of language has played an important role in the cultural evolution of human social cognition. Here we present a new computational model which formalises the assumptions that underlie this hypothesis, in order to explore how language and mindreading interact through cultural evolution. This model treats communicative behaviour as an interplay between the context in which communication occurs, an agent\u2019s individual perspective on the world, and the agent\u2019s lexicon. However, each agent\u2019s perspective and lexicon are private mental representations, not directly observable to other agents. Learners are therefore confronted with the task of jointly inferring the lexicon and perspective of their cultural parent, based on their utterances in context. Simulation results show that given these assumptions, an informative lexicon evolves not just under a pressure to be successful at communicating, but also under a pressure for accurate perspective-inference. When such a lexicon evolves, agents become better at inferring others\u2019 perspectives; not because their innate ability to learn about perspectives changes, but because sharing a language (of the right type) with others helps them to do so.",
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-020-02798-7.pdf"
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Child and Animal Learning Development",
+        "Evolutionary Game Theory and Cooperation"
+      ],
+      "referenced_works_count": 145,
+      "url": "https://openalex.org/W3030044838"
+    },
+    {
+      "openalex_id": "W3099412660",
+      "doi": "10.1163/15685284-bja10024",
+      "title": "Aristotle on the Unity of the Nutritive and Reproductive Functions",
+      "authors": [
+        {
+          "name": "Cameron F. Coates",
+          "openalex_id": "A5070032456",
+          "orcid": "https://orcid.org/0000-0002-5891-9103",
+          "institutions": [
+            "DePaul University"
+          ]
+        },
+        {
+          "name": "James G. Lennox",
+          "openalex_id": "A5036763892",
+          "orcid": "https://orcid.org/0000-0003-4613-2925",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-07",
+      "abstract": "Abstract In De Anima 2.4, Aristotle claims that nutritive soul encompasses two distinct biological functions: nutrition and reproduction. We challenge a pervasive interpretation which posits \u2018nutrients\u2019 as the correlative object ( antikeimenon ) of the nutritive capacity. Instead, the shared object of nutrition and reproduction is that which is nourished and reproduced: the ensouled body, qua ensouled. Both functions aim at preserving this object, and thus at preserving the form, life, and being of the individual organism. In each case, we show how Aristotle\u2019s detailed biological analysis supports this ontological argument.",
+      "cited_by_count": 31,
+      "type": "article",
+      "source": {
+        "name": "Phronesis",
+        "type": "journal",
+        "issn": [
+          "0031-8868",
+          "1568-5284"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/COAAOT.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Historical, Religious, and Philosophical Studies",
+        "Medieval and Classical Philosophy"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W3099412660"
+    },
+    {
+      "openalex_id": "W4387531446",
+      "doi": "10.1007/s11245-023-09961-y",
+      "title": "What We Do and Don\u2019t Know About Joint Attention",
+      "authors": [
+        {
+          "name": "Henrike Moll",
+          "openalex_id": "A5016062101",
+          "orcid": "https://orcid.org/0000-0002-9356-3077",
+          "institutions": [
+            "University of Southern California"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-11",
+      "abstract": "Abstract Joint attention is an early-emerging and uniquely human capacity that lies at the foundation of many other capacities of humans, such as language and the understanding of other minds. In this article, I summarize what developmentalists and philosophers have come to find out about joint attention, and I end by stating that two problems or questions of joint attention require additional research: 1) the relation between joint attention and the skills for dyadic sharing or affect exchange in young infants, and 2) the evolution of joint attention.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11245-023-09961-y.pdf"
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Autism Spectrum Disorder Research",
+        "Language Development and Disorders"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4387531446"
+    },
+    {
+      "openalex_id": "W4378473337",
+      "doi": "10.1111/phpr.12990",
+      "title": "Philosophy's past: Cognitive values and the history of philosophy",
+      "authors": [
+        {
+          "name": "Phil Corkum",
+          "openalex_id": "A5026171315",
+          "orcid": "https://orcid.org/0000-0002-8509-9331",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-05-25",
+      "abstract": "Abstract Recent authors hold that the role of historical scholarship within contemporary philosophical practice is to question current assumptions, to expose vestiges or to calibrate intuitions. On these views, historical scholarship is dispensable , since these roles can be achieved by nonhistorical methods. And the value of historical scholarship is contingent , since the need for the role depends on the presence of questionable assumptions, vestiges or comparable intuitions. In this paper I draw an analogy between scientific and philosophical practice, in order to float one role for historical scholarship that is nonreplicable and noncontingent. It has long been acknowledged that cognitive values \u2013 features of theories that facilitate understanding, such as ontological parsimony, ideological simplicity, computational ease and fecundity \u2013 play a key role within science. The role of some of these values within philosophy also has received attention but left understudied are the values of novelty and conservativeness. These values influence theory choice, the selection of methodology, the setting of research agenda, and the presentation of results; and are best assessed with a historically informed evaluation. This role for historical scholarship is not replicable by nonhistorical methods, and is not contingent on the presence of questionable assumptions, vestiges or comparable intuitions.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Philosophy and Phenomenological Research",
+        "type": "journal",
+        "issn": [
+          "0031-8205",
+          "1933-1592"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phpr.12990"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Epistemology, Ethics, and Metaphysics",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W4378473337"
+    },
+    {
+      "openalex_id": "W4323911378",
+      "doi": "10.26599/air.2022.9150010",
+      "title": "Artificial Social Intelligence: A Comparative and Holistic View",
+      "authors": [
+        {
+          "name": "Lifeng Fan",
+          "openalex_id": "A5102917064",
+          "orcid": "https://orcid.org/0000-0002-1943-287X",
+          "institutions": [
+            "Beijing Academy of Artificial Intelligence",
+            "Beijing Institute for General Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Manjie Xu",
+          "openalex_id": "A5025065674",
+          "institutions": [
+            "Beijing Institute for General Artificial Intelligence",
+            "Beijing Institute of Technology",
+            "Beijing Academy of Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Zhi\u2010Hao Cao",
+          "openalex_id": "A5111643790",
+          "institutions": [
+            "Beijing Academy of Artificial Intelligence",
+            "Tsinghua University",
+            "Beijing Institute for General Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Yixin Zhu",
+          "openalex_id": "A5051255725",
+          "orcid": "https://orcid.org/0000-0001-7024-1545",
+          "institutions": [
+            "Beijing Academy of Artificial Intelligence",
+            "Peking University"
+          ]
+        },
+        {
+          "name": "Song\u2010Chun Zhu",
+          "openalex_id": "A5034228010",
+          "orcid": "https://orcid.org/0009-0008-0876-8117",
+          "institutions": [
+            "Beijing Academy of Artificial Intelligence",
+            "Tsinghua University",
+            "Beijing Institute for General Artificial Intelligence",
+            "Peking University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-01",
+      "abstract": "In addition to a physical comprehension of the world, humans possess a high social intelligence\u2014the intelligence that senses social events, infers the goals and intents of others, and facilitates social interaction. Notably, humans are distinguished from their closest primate cousins by their social cognitive skills as opposed to their physical counterparts. We believe that artificial social intelligence (ASI) will play a crucial role in shaping the future of artificial intelligence (AI). This article begins with a review of ASI from a cognitive science standpoint, including social perception, theory of mind (ToM), and social interaction. Next, we examine the recently-emerged computational counterpart in the AI community. Finally, we provide an in-depth discussion on topics related to ASI.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "CAAI Artificial Intelligence Research",
+        "type": "journal",
+        "issn": [
+          "2097-194X",
+          "2097-3691"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sciopen.com/article_pdf/1625777930782842882.pdf"
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 103,
+      "url": "https://openalex.org/W4323911378"
+    },
+    {
+      "openalex_id": "W4387326976",
+      "doi": "10.1002/hbm.26501",
+      "title": "Examining the effects of prenatal alcohol exposure on performance of the sustained attention to response task in children with an <scp>FASD</scp>",
+      "authors": [
+        {
+          "name": "John F. L. Pinner",
+          "openalex_id": "A5023306180",
+          "institutions": [
+            "University of New Mexico"
+          ]
+        },
+        {
+          "name": "William Collishaw",
+          "openalex_id": "A5038551756",
+          "institutions": [
+            "Mind Research Network"
+          ]
+        },
+        {
+          "name": "Megan E. Schendel",
+          "openalex_id": "A5021727649",
+          "orcid": "https://orcid.org/0000-0002-2782-0792",
+          "institutions": [
+            "Mind Research Network"
+          ]
+        },
+        {
+          "name": "Laurie M. Flynn",
+          "openalex_id": "A5053516162",
+          "institutions": [
+            "Mind Research Network"
+          ]
+        },
+        {
+          "name": "Felicha T. Candelaria\u2010Cook",
+          "openalex_id": "A5046745909",
+          "orcid": "https://orcid.org/0000-0002-1416-9099",
+          "institutions": [
+            "Mind Research Network"
+          ]
+        },
+        {
+          "name": "Cassandra Cerros",
+          "openalex_id": "A5051536491",
+          "institutions": [
+            "University of New Mexico"
+          ]
+        },
+        {
+          "name": "Michael T. Williams",
+          "openalex_id": "A5001922046",
+          "orcid": "https://orcid.org/0000-0001-9841-9683",
+          "institutions": [
+            "University of New Mexico"
+          ]
+        },
+        {
+          "name": "David E. Hill",
+          "openalex_id": "A5101906936",
+          "orcid": "https://orcid.org/0000-0002-7326-2509",
+          "institutions": [
+            "University of New Mexico"
+          ]
+        },
+        {
+          "name": "Julia M. Stephen",
+          "openalex_id": "A5027325948",
+          "orcid": "https://orcid.org/0000-0003-2486-747X",
+          "institutions": [
+            "Mind Research Network"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-04",
+      "abstract": "Prenatal alcohol exposure (PAE), the leading known cause of childhood developmental disability, has long-lasting effects extending throughout the lifespan. It is well documented that children prenatally exposed to alcohol have difficulties inhibiting behavior and sustaining attention. Thus, the Sustained Attention to Response Task (SART), a Go/No-go paradigm, is especially well suited to assess the behavioral and neural functioning characteristics of children with PAE. In this study, we utilized neuropsychological assessment, parent/guardian questionnaires, and magnetoencephalography during SART random and fixed orders to assess characteristics of children 8-12 years old prenatally exposed to alcohol compared to typically developing children. Compared to neurotypical control children, children with a Fetal Alcohol Spectrum Disorder (FASD) diagnosis had significantly decreased performance on neuropsychological measures, had deficiencies in task-based performance, were rated as having increased Attention-Deficit/Hyperactivity Disorder (ADHD) behaviors and as having lower cognitive functioning by their caretakers, and had decreased peak amplitudes in Broadmann's Area 44 (BA44) during SART. Further, MEG peak amplitude in BA44 was found to be significantly associated with neuropsychological test results, parent/guardian questionnaires, and task-based performance such that decreased amplitude was associated with poorer performance. In exploratory analyses, we also found significant correlations between total cortical volume and MEG peak amplitude indicating that the reduced amplitude is likely related in part to reduced overall brain volume often reported in children with PAE. These findings show that children 8-12 years old with an FASD diagnosis have decreased amplitudes in BA44 during SART random order, and that these deficits are associated with multiple behavioral measures.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Human Brain Mapping",
+        "type": "journal",
+        "issn": [
+          "1065-9471",
+          "1097-0193"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26501"
+      },
+      "topics": [
+        "Prenatal Substance Exposure Effects",
+        "Neonatal and fetal brain pathology",
+        "Birth, Development, and Health"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W4387326976"
+    },
+    {
+      "openalex_id": "W2970373725",
+      "doi": "10.5040/9781474290838",
+      "title": "",
+      "authors": [],
+      "publication_year": 2021,
+      "publication_date": "2021-02-11",
+      "abstract": "Addresses the research and practice related to understanding and supporting digitally-mediated, personalized learning and wellbeing in early childhood.",
+      "cited_by_count": 25,
+      "type": "book",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Scientific Research and Philosophical Inquiry",
+        "Child Development and Digital Technology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2970373725"
+    },
+    {
+      "openalex_id": "W3202340000",
+      "doi": "10.3389/frsus.2021.694317",
+      "title": "The Role of Poetry in Promoting a Sustainability Mindset: Walter Benjamin as a Guide Toward a Slow Journey",
+      "authors": [
+        {
+          "name": "Ingrid Molderez",
+          "openalex_id": "A5052775604",
+          "orcid": "https://orcid.org/0000-0002-7056-1896"
+        },
+        {
+          "name": "Diana Baraniuk",
+          "openalex_id": "A5043616500"
+        },
+        {
+          "name": "Wim Lambrechts",
+          "openalex_id": "A5061363312",
+          "orcid": "https://orcid.org/0000-0001-8968-1364",
+          "institutions": [
+            "Open University of the Netherlands"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-27",
+      "abstract": "The emergence of highly complex sustainability challenges in modern society has led to the necessity of searching for more effective approaches to education for sustainable development. Research has shown that reflection leads toward more profound levels of engagement with respect to sustainable actions. Therefore, higher education has a role to play in stimulating reflection in light of sustainability. Art-based techniques, which have not been included alongside traditional teaching methods, have begun to gain the attention of researchers and teachers in higher education as they produce a deeper impact and involvement and can have a positive influence on the minds and hearts of the students. The aim of this paper is to demonstrate that poetry can contribute to integrating the arts and humanities in management education. The potential effect of poetry on business management majors is being explored as a part of their Corporate Social Responsibility course. Poetry has considerable potential as an innovative approach to teach sustainability, but it is rather unusual in business education. Poetry was chosen as an enabler for reflection and emotions. This original teaching project was followed by a research project relying on reflective assignments. A rereading of Walter Benjamin's Illuminations from the perspective of sustainability studies was a source of inspiration, in particular \u201cTheses on the Philosophy of History,\u201d \u201cThe Storyteller\u201d and \u201cUnpacking My Library.\u201d The paper assumes that Benjamin's ideas relate to a slow journey involving \u201cawakening,\u201d \u201cwisdom\u201d and \u201cin a process,\u201d three elements that are at the core of promoting a sustainability mindset. The research project consisted of four reflection assignments students had to comply with: reading and interpreting poetry; searching for a poem which would be most appropriate for the discussed sustainability topic; creating their own poem and reflecting on the whole task. The research took place in the second semester of 2020 and first semester of 2021, all in COVID-19 pandemic context. Students' participation was not mandatory, but the majority joined. Their perceptions and impressions reinforce the existing knowledge about the emotional power of poetry to encourage reflection. The results show that poetry plays a relevant role in encouraging future managers to develop a frame of mind that incorporates sustainability and responsibility. Business students are open to this approach because it adds a new and unexpected dimension to their studies. Despite the urge to integrate reflections, this is still an exception for the majority of management courses. The results suggest that poetry is a relevant instrument to promote a more sustainable mindset among future managers. Paradoxically, by emphasizing a slow journey, i.e., allowing time for integrating reflective practices, a transition toward sustainability in daily managerial processes can be accelerated.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Sustainability",
+        "type": "journal",
+        "issn": [
+          "2673-4524"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/frsus.2021.694317/pdf"
+      },
+      "topics": [
+        "Sustainability in Higher Education",
+        "Creativity in Education and Neuroscience",
+        "Interdisciplinary Studies and Sociocultural Dynamics"
+      ],
+      "referenced_works_count": 165,
+      "url": "https://openalex.org/W3202340000"
+    },
+    {
+      "openalex_id": "W4200143147",
+      "doi": "10.12681/cjp.25682",
+      "title": "Aristotle and Aristoxenus on Effort",
+      "authors": [
+        {
+          "name": "John Robert Bagby",
+          "openalex_id": "A5016188178",
+          "orcid": "https://orcid.org/0000-0001-5790-2062",
+          "institutions": [
+            "Boston College"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-28",
+      "abstract": "The discussions of conatus \u2013 force, tendency, effort, and striving \u2013 in early modern metaphysics have roots in Aristotle\u2019s understanding of life as an internal experience of living force. This paper examines the ways that Spinoza\u2019s conatus is consonant with Aristotle on effort. By tracking effort from his psychology and ethics to aesthetics, I show there is a conatus at the heart of the activity of the \u03c8\u03c5\u03c7\u03ae that involves an intensification of power in a way which anticipates many of the central insights of early modern and 20th century European philosophy. The first section outlines how Aristotle\u2019s developmental conception of the soul as geometrically ordered lays the foundation for his understanding of effort. The developmental series of powers of the soul are analogous to the series of shapes in mathematics. The second section links the striving of the soul to the gradual acquisition of virtues as a directed activity unifying multiplicity. The third examines the paradigm of self-awareness that Aristotelian effort involves. In the final section I show how ancient Greek theories of music were founded on the experience of striving. The \u201cnature\u201d of music is defined by Aristoxenus, and Theophrastus, in relation to the passion and intentionality of the soul. The geometrical order, as a synthesis of elements in geometry, music, or ethics, is a generative process in which past elements are retained and reintegrated in later stages of development. It requires effort to think geometrically, and the progress of knowledge itself is an integral aspect of all effort. Effort is the lived and self-aware cause which, moving step by step in an orderly and deliberate way, grows and advances upon itself. For both Spinoza and Aristotle, effort is the immanent intelligence which accomplishes what is in the purview of its understanding. Thus, will, in this conception of effort, is not something we already possess innately, but emerges gradually by an effort aimed at improvement.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Conatus",
+        "type": "journal",
+        "issn": [
+          "2459-3842",
+          "2653-9373"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ejournals.epublishing.ekt.gr/index.php/Conatus/article/download/25682/22688"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Medieval and Classical Philosophy",
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4200143147"
+    },
+    {
+      "openalex_id": "W4410007662",
+      "doi": "10.35423/2078-8142.2025.1.1.2",
+      "title": "\u0411\u0430\u0437\u043e\u0432\u0456 \u0442\u0430 \u0434\u0443\u0445\u043e\u0432\u043d\u0456 \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0456 \u0432 \u0434\u043e\u0431\u0443 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u043e-\u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u0445 \u043a\u0440\u0438\u0437",
+      "authors": [
+        {
+          "name": "Yaroslav Lyubiviy",
+          "openalex_id": "A5002624127",
+          "orcid": "https://orcid.org/0000-0001-9929-7323"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-30",
+      "abstract": "\u0412 \u0443\u043c\u043e\u0432\u0430\u0445 \u0437\u043c\u0456\u043d\u0438 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443, \u0449\u043e \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0436\u0443\u0454\u0442\u044c\u0441\u044f \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u0447\u043d\u0438\u043c\u0438 \u0442\u0430 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u043e-\u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u043c\u0438 \u043f\u0440\u043e\u0442\u0438\u0441\u0442\u043e\u044f\u043d\u043d\u044f\u043c\u0438, \u043f\u0435\u0440\u0435\u0434 \u043b\u044e\u0434\u0441\u0442\u0432\u043e\u043c \u043f\u043e\u0441\u0442\u0430\u043b\u043e \u043f\u0438\u0442\u0430\u043d\u043d\u044f \u043f\u0435\u0440\u0435\u043e\u0446\u0456\u043d\u043a\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0447\u043d\u0438\u0445 \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u0440\u043e\u0437\u0432\u0438\u0442\u043a\u0443. \u041b\u044e\u0434\u0438\u043d\u0456 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0440\u043e\u0437\u0443\u043c\u0456\u0442\u0438, \u044f\u043a\u0438\u043c \u0447\u0438\u043d\u043e\u043c \u0430\u043a\u0442\u0443\u0430\u043b\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0456 \u0432\u043b\u0430\u0441\u043d\u043e\u0433\u043e \u0434\u0443\u0445\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0456\u0430\u043b\u0443, \u0449\u043e\u0431 \u0432\u0438\u0436\u0438\u0432\u0430\u0442\u0438 \u0443 \u0441\u043a\u043b\u0430\u0434\u043d\u0438\u0445 \u0436\u0438\u0442\u0442\u0454\u0432\u0438\u0445 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f\u0445. \u0426\u0456\u043d\u043d\u043e\u0441\u0442\u0456 \u043d\u0435 \u0454 \u043b\u0438\u0448\u0435 \u0441\u0443\u0431\u2019\u0454\u043a\u0442\u0438\u0432\u043d\u0438\u043c \u0436\u0438\u0442\u0442\u0454\u0432\u0438\u043c \u043e\u0440\u0456\u0454\u043d\u0442\u0438\u0440\u043e\u043c, \u0432\u043e\u043d\u0438 \u0437\u0430\u043a\u043b\u0430\u0434\u0435\u043d\u0456 \u0443 \u0431\u0456\u043e\u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0456\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u0456 \u043b\u044e\u0434\u0438\u043d\u0438, \u0443 \u0431\u0430\u0437\u043e\u0432\u0438\u0445 \u0437\u0430\u043a\u043e\u043d\u043e\u043c\u0456\u0440\u043d\u043e\u0441\u0442\u044f\u0445 \u0431\u0443\u0442\u0442\u044f. \u0426\u0456\u043d\u043d\u043e\u0441\u0442\u0456 \u0454 \u0432\u0430\u0436\u043b\u0438\u0432\u0438\u043c \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0443 \u0435\u0432\u043e\u043b\u044e\u0446\u0456\u0439\u043d\u043e\u0457 \u0441\u0430\u043c\u043e\u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u0457 \u0412\u0441\u0435\u0441\u0432\u0456\u0442\u0443 \u044f\u043a \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u0443\u0441\u043a\u043b\u0430\u0434\u043d\u0435\u043d\u043d\u044f \u0441\u0438\u0441\u0442\u0435\u043c \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0456 \u0441\u0430\u043c\u043e\u0440\u0435\u0444\u0435\u0440\u0435\u043d\u0442\u043d\u043e\u0433\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u043e\u0433\u043e \u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0433\u043e \u0437\u0432\u2019\u044f\u0437\u043a\u0443, \u0449\u043e \u0432\u0435\u0434\u0435 \u0434\u043e \u0437\u0440\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u043c\u0456\u0440\u0438 \u043f\u043e\u0440\u044f\u0434\u043a\u0443, \u0432\u0430\u0436\u043b\u0438\u0432\u043e\u044e \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u044e \u044f\u043a\u043e\u0433\u043e \u0454 \u0432\u0438\u0440\u043e\u0431\u043b\u0435\u043d\u043d\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0440\u043e\u0437\u0432\u0438\u0442\u043a\u0443 \u0441\u043a\u043b\u0430\u0434\u043d\u0438\u0445 \u0456 \u043d\u0430\u0434\u0441\u043a\u043b\u0430\u0434\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c (\u041c. \u041b\u0443\u043f\u0456\u0441\u0435\u043b\u0430). \u041c\u043e\u0434\u0435\u043b\u043b\u044e \u0442\u0430\u043a\u043e\u0433\u043e \u0432\u0438\u0440\u043e\u0431\u043b\u0435\u043d\u043d\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0440\u043e\u0437\u0432\u0438\u0442\u043a\u0443 \u0441\u0438\u0441\u0442\u0435\u043c \u0454 \u0432\u0438\u0440\u043e\u0431\u043b\u0435\u043d\u043d\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0439 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 (\u0413. \u041a\u0456\u0441\u0441\u0456\u043d\u0434\u0436\u0435\u0440, \u0415. \u0428\u043c\u0456\u0434\u0442, \u0414. \u0413\u0430\u0442\u0442\u0435\u043d\u043b\u043e\u0433\u0435\u0440). \u041c\u0435\u0445\u0430\u043d\u0456\u0437\u043c\u043e\u043c \u0431\u0435\u0437\u043f\u043e\u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u0457 \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u0454 \u043e\u0446\u0456\u043d\u044e\u0432\u0430\u043d\u043d\u044f, \u043a\u043e\u0442\u0440\u0435 \u0454 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u043d\u044f\u043c \u0441\u0430\u043c\u043e\u0440\u0435\u0433\u0443\u043b\u044f\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c\u0443 \u0440\u0435\u043a\u0443\u0440\u0441\u0438\u0432\u043d\u043e\u0433\u043e \u0442\u0430 \u0441\u0430\u043c\u043e\u0440\u0435\u0444\u0435\u0440\u0435\u043d\u0442\u043d\u043e\u0433\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u043e\u0433\u043e \u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0433\u043e \u0437\u0432\u2019\u044f\u0437\u043a\u0443, \u0449\u043e \u043f\u0440\u043e\u0441\u044f\u043a\u0430\u0454 \u044f\u043a \u0431\u0456\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0456, \u0442\u0430\u043a \u0456 \u043d\u0435 \u0431\u0456\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0456 \u2013 \u0456\u0454\u0440\u0430\u0440\u0445\u0456\u0447\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u0456\u0448\u0456 \u0444\u0456\u0437\u0438\u0447\u043d\u0456 \u0441\u0438\u0441\u0442\u0435\u043c\u0438, \u044f\u043a\u0438\u043c \u043f\u0440\u0438\u0442\u0430\u043c\u0430\u043d\u043d\u0430 \u0441\u0430\u043c\u043e\u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f. \u0423 \u0441\u0443\u0447\u0430\u0441\u043d\u043e\u043c\u0443 \u0441\u043e\u0446\u0456\u0443\u043c\u0456 \u0436\u0438\u0442\u0442\u044f \u043b\u044e\u0434\u0438\u043d\u0438 \u0441\u0442\u0430\u0454 \u0431\u0456\u043b\u044c\u0448 \u0441\u043a\u043b\u0430\u0434\u043d\u0438\u043c, \u0441\u0442\u0430\u044e\u0442\u044c \u0431\u0456\u043b\u044c\u0448 \u0432\u0438\u0442\u043e\u043d\u0447\u0435\u043d\u0438\u043c\u0438 \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c\u0438 \u0440\u0435\u0433\u0443\u043b\u044e\u0432\u0430\u043d\u043d\u044f \u0441\u0443\u0441\u043f\u0456\u043b\u044c\u0441\u0442\u0432\u0430, \u0432\u043d\u0430\u0441\u043b\u0456\u0434\u043e\u043a \u0446\u044c\u043e\u0433\u043e \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043b\u044e\u0440\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u0432\u043e\u043d\u0438 \u043f\u043e\u0448\u0438\u0440\u044e\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u0432\u0441\u0456 \u0441\u0444\u0435\u0440\u0438 \u0436\u0438\u0442\u0442\u0454\u0434\u0456\u044f\u043b\u044c\u043d\u043e\u0441\u0442\u0456. \u0423 \u0434\u043e\u0431\u0443 \u043a\u0430\u0440\u0434\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0446\u0438\u0432\u0456\u043b\u0456\u0437\u0430\u0446\u0456\u0439\u043d\u043e\u0457 \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u043e-\u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u0445 \u043a\u0440\u0438\u0437 \u043d\u0430 \u043f\u0435\u0440\u0448\u0435 \u043c\u0456\u0441\u0446\u0435 \u0432\u0438\u0445\u043e\u0434\u0438\u0442\u044c \u0440\u043e\u0437\u0443\u043c\u0456\u043d\u043d\u044f \u0442\u043e\u0433\u043e, \u0449\u043e \u0432\u0438\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u044f\u043a \u0441\u043e\u0446\u0456\u0443\u043c\u0443, \u0442\u0430\u043a \u0456 \u043a\u043e\u0436\u043d\u043e\u0457 \u043e\u043a\u0440\u0435\u043c\u043e\u0457 \u043b\u044e\u0434\u0438\u043d\u0438, \u043d\u0435\u043c\u043e\u0436\u043b\u0438\u0432\u043e \u0431\u0435\u0437 \u0456\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0433\u043e \u0440\u043e\u0437\u0432\u0438\u0442\u043a\u0443 \u0457\u0457 \u043c\u043e\u0440\u0430\u043b\u044c\u043d\u0438\u0445 \u044f\u043a\u043e\u0441\u0442\u0435\u0439, \u0437\u0434\u0430\u0442\u043d\u043e\u0441\u0442\u0456 \u0434\u043e \u043a\u043e\u043d\u0441\u043e\u043b\u0456\u0434\u043e\u0432\u0430\u043d\u0438\u0445 \u0434\u0456\u0439 \u0456\u0437 \u0441\u043f\u0456\u0432\u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0430\u043c\u0438 \u0437\u0430\u0440\u0430\u0434\u0438 \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0441\u043f\u0456\u043b\u044c\u043d\u0438\u0445 \u0446\u0456\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u0449\u043e \u0443\u043a\u043e\u0440\u0456\u043d\u0435\u043d\u0456 \u0443 \u0441\u0430\u043c\u043e\u043c\u0443 \u0431\u0443\u0442\u0442\u0456 \u043b\u044e\u0434\u0438\u043d\u0438.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Multiversum Philosophical almanac",
+        "type": "journal",
+        "issn": [
+          "2078-8142"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://multiversum.com.ua/index.php/journal/article/download/578/543"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W4410007662"
+    },
+    {
+      "openalex_id": "W4213138322",
+      "doi": "10.3389/fpsyg.2022.830929",
+      "title": "The Effect of Safety Signs on the Monitoring of Conflict and Erroneous Response",
+      "authors": [
+        {
+          "name": "Linfeng Hu",
+          "openalex_id": "A5101865501",
+          "orcid": "https://orcid.org/0000-0002-7205-023X",
+          "institutions": [
+            "Zhejiang University of Technology"
+          ]
+        },
+        {
+          "name": "Dingzhong Feng",
+          "openalex_id": "A5102443945",
+          "institutions": [
+            "Zhejiang University of Technology"
+          ]
+        },
+        {
+          "name": "Yelang Li",
+          "openalex_id": "A5021699432"
+        },
+        {
+          "name": "Jinwu Xu",
+          "openalex_id": "A5103433349"
+        },
+        {
+          "name": "Jiehui Zheng",
+          "openalex_id": "A5031967158",
+          "orcid": "https://orcid.org/0000-0003-1687-2877",
+          "institutions": [
+            "Hangzhou Normal University",
+            "Zhejiang University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-17",
+      "abstract": "The safety sign is important in our daily life and workplace to prevent potential safety issues. However, it remains undetermined whether the safety signs would influence the cognitive control ability of the people, which serves to guide the behaviors in a goal-directed manner. Therefore, this study aimed to examine the effect of safety signs on cognitive control by uncovering the behavioral performance and neural manifestations underlying the monitoring of conflict and error. The participants performed a flanker task after watching low- and high-hazard safety signs with the electroencephalogram (EEG) data recorded continually. The behavioral results indicated a classic congruency effect with higher accuracy rate and faster response time under a congruent condition compared to an incongruent condition. However, no hazard effect on behavioral performances was observed. The results of event-related potentials (ERPs) demonstrated a more negative N2 elicited by the incongruent trials and an increased (error-related negativity) ERN difference between the error and correct responses in the high-hazard condition compared to those in the low-hazard condition, implying that the monitoring of the conflict and error were both enhanced after watching the high-hazard safety signs. This study contributes to the understanding of the relationship between safety signs and cognitive control, and further expand the measurements that can be applied to assess the effectiveness of safety signs design.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.830929/pdf"
+      },
+      "topics": [
+        "Safety Warnings and Signage",
+        "Human-Automation Interaction and Safety",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 84,
+      "url": "https://openalex.org/W4213138322"
+    },
+    {
+      "openalex_id": "W3022329625",
+      "doi": "10.14574/ojrnhc.v20i1.605",
+      "title": "Learning What I Need to Know: Experiences of Rural Cardiac Surgery Patients",
+      "authors": [
+        {
+          "name": "Martha Scheckel",
+          "openalex_id": "A5061537554",
+          "orcid": "https://orcid.org/0000-0002-9358-6711",
+          "institutions": [
+            "Viterbo University"
+          ]
+        },
+        {
+          "name": "Jennifer Hedrick-Erickson",
+          "openalex_id": "A5037931990",
+          "institutions": [
+            "Viterbo University"
+          ]
+        },
+        {
+          "name": "Debra E. Stieve",
+          "openalex_id": "A5008013406"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-05-01",
+      "abstract": "Purpose: This hermeneutic study expands understandings of rural cardiac surgery patients\u2019 experiences of their learning needs following cardiac surgery to inform the provision of patient education for this population. Sample: Eighteen rural residents provided accounts about their experiences. Findings: An interpretation as analysis approach revealed three themes: a) Learning: Family History Informing Preventive Care; b) Learning: The Notebook, Blue\u2019s Clues, and Explanations; and c) Learning: Lifestyle Changes and Confronting Mortality. Conclusions: The first theme demonstrates needs to ensure patients from rural settings understand that preventing cardiovascular disease is not limited to family members\u2019 experiences with secondary and tertiary prevention. The second theme underscores the importance of providing patient education materials that are readable and useable, and considers existential learning needs. The last theme highlights the importance of patients understanding how lifestyle changes involve embracing new ways of living that are enhanced through cardiac rehabilitation, and yet, can be experienced as life limiting. &nbsp;DOI:&nbsp;&nbsp;http://dx.doi.org/10.14574/ojrnhc.v20i1.605",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Online Journal of Rural Nursing and Health Care",
+        "type": "journal",
+        "issn": [
+          "1539-3399"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://rnojournal.binghamton.edu/index.php/RNO/article/download/605/464"
+      },
+      "topics": [
+        "Cardiac Health and Mental Health",
+        "Family and Patient Care in Intensive Care Units",
+        "Mechanical Circulatory Support Devices"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W3022329625"
+    },
+    {
+      "openalex_id": "W4409287687",
+      "doi": "10.20944/preprints202504.0698.v1",
+      "title": "Cultural Approaches to Addressing Sleep Deprivation and Improving Sleep Health in Japan: Sleep Issues Among Children and Adolescents Rooted in Self-Sacrifice and Asceticism",
+      "authors": [
+        {
+          "name": "Jun Kohyama",
+          "openalex_id": "A5077348042",
+          "orcid": "https://orcid.org/0000-0001-9793-7788",
+          "institutions": [
+            "Juntendo University Urayasu Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-08",
+      "abstract": "This review explores the issue of sleep deprivation among children and adolescents in Japan, examining its cultural background and evaluating the current status of sleep education and interventions. It highlights the profound influence of bushido spirit, emphasizing self-sacrifice and asceticism, as a fundamental cause of sleep undervaluation in Japanese society. While educational efforts and interventions emphasizing the importance of sleep exist, there are limitations in improving sleep habits. Particularly among children and adolescents, despite significant impacts on mental health and academic performance, sleep issues remain unresolved. Therefore, this study examines the effectiveness of personalized approaches using optimal sleep duration calculations and proposes practical steps towards improving sleep duration. Furthermore, it discusses the cultural framework rooted in bushido spirit to address serious health risks associated with sleep deprivation, advocating for a consciousness shift beyond self-sacrifice and asceticism. Ultimately, it emphasizes the need for specific approaches to enhance sleep among children and adolescents, highlighting the necessity for cultural transformation and suggesting directions for future research and practice.",
+      "cited_by_count": 3,
+      "type": "preprint",
+      "source": {
+        "name": "Preprints.org",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.preprints.org/frontend/manuscript/2e73d8d59f74ac45f3dd5f7dfa1575e4/download_pub"
+      },
+      "topics": [
+        "Sleep and related disorders"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W4409287687"
+    },
+    {
+      "openalex_id": "W4229450617",
+      "doi": "10.1007/s10670-022-00561-7",
+      "title": "Grounding and the Epistemic Regress Problem",
+      "authors": [
+        {
+          "name": "Robert Weston Siscoe",
+          "openalex_id": "A5063887988",
+          "orcid": "https://orcid.org/0000-0002-7804-9651",
+          "institutions": [
+            "University of Cologne"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-10",
+      "abstract": "Abstract Modal metaphysics consumed much of the philosophical discussion at the turn of the century, yielding a number of epistemological insights. Modal analyses were applied within epistemology, yielding sensitivity and safety theories of knowledge as well as counterfactual accounts of the basing relation. The contemporary conversation has now turned to a new metaphysical notion \u2013 grounding \u2013 opening the way to a fresh wave of insights by bringing grounding into epistemology. In this paper, I attempt one such application, making sense of the epistemic regress problem in terms of grounding. I argue that the relation that generates the epistemic regress is a grounding relation, showing that grounding can make sense of proposals by epistemic foundationalists and charting the course for similar applications to epistemic coherentism and epistemic infinitism. If it is right that grounding is involved in the epistemic regress, this points the way forward both for epistemologists and metaphysicians, revealing the prospects of solutions to the epistemic regress problem while providing grounding advocates with yet another example of grounding with which to theorize.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Erkenntnis",
+        "type": "journal",
+        "issn": [
+          "0165-0106",
+          "1572-8420"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10670-022-00561-7.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 88,
+      "url": "https://openalex.org/W4229450617"
+    },
+    {
+      "openalex_id": "W4402608832",
+      "doi": "10.3389/frsle.2024.1455483",
+      "title": "Understanding levels of engagement and readiness for change in an eHealth sleep program for children with neurodevelopmental disorders",
+      "authors": [
+        {
+          "name": "Emily M. Wildeboer",
+          "openalex_id": "A5050456724",
+          "orcid": "https://orcid.org/0009-0008-4822-2610",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        },
+        {
+          "name": "Brooklyn Andrea",
+          "openalex_id": "A5107434268",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        },
+        {
+          "name": "Shelly K. Weiss",
+          "openalex_id": "A5036262197",
+          "orcid": "https://orcid.org/0000-0002-1104-0871",
+          "institutions": [
+            "University of Toronto",
+            "Hospital for Sick Children",
+            "SickKids Foundation"
+          ]
+        },
+        {
+          "name": "Penny Corkum",
+          "openalex_id": "A5012169628",
+          "orcid": "https://orcid.org/0000-0002-2552-4973",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-18",
+      "abstract": "Background Children with neurodevelopmental disorders (NDD) experience high rates of sleep problems. The Better Nights, Better Days for Children with Neurodevelopmental Disorders TM (BNBD-NDD TM ) program is an online intervention for parents of children with NDD who have insomnia/insomnia symptoms. The program has recently undergone a national implementation study (recruitment completed; data collection and analysis ongoing), where parental adherence and engagement are being evaluated. Preliminary results have shown that despite high levels of recruitment, there is less utilization of the program than the research team expected. Parental engagement may have been impacted by participants' motivation and readiness for change, as well as indirectly by the COVID-19 pandemic. The objective of the current study is to better understand engagement with the BNBD-NDD TM program concerning parental motivation and readiness for change, while considering the possible impacts of COVID-19. Methods Parents of children with NDD ( n = 18) who were enrolled in the BNBD-NDD TM program for a minimum of 4 months completed exit interviews using a researcher-generated, semi-structured interview guide. During the interview, participants were asked about their engagement in the program, perspectives on their own readiness for changing their children's sleep, and the impact of COVID-19 on their engagement. Data were analyzed following an inductive content analysis approach. Results Several categories of data were generated that explain levels of engagement, including: (1) severity of sleep problems; (2) motivation for change; (3) previous strategies for sleep; (4) confidence in the program; (5) sacrifices made to change sleep; (6) maintenance of change; (7) experience with levels of support provided; and (8) impact of the COVID-19 pandemic. Conclusion Parents identified several factors related to their readiness for change as contributors to their engagement level in the BNBD-NDD TM program. The COVID-19 pandemic had varied impacts on engagement for participants in this sample. Understanding parents' engagement levels within the BNBD-NDD TM eHealth program related to their motivation and readiness for change is crucial to optimize uptake and adherence to the program, improve the program's implementation and sustainability, and continue to help children with NDD to sleep better.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Sleep",
+        "type": "journal",
+        "issn": [
+          "2813-2890"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://public-pages-files-2025.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1455483/pdf"
+      },
+      "topics": [
+        "Family and Disability Support Research",
+        "Infant Development and Preterm Care",
+        "Sleep and related disorders"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W4402608832"
+    },
+    {
+      "openalex_id": "W4382520006",
+      "doi": "10.3126/mefc.v7i7.54786",
+      "title": "Does National Curriculum Fit for Working Class Children? A Gap in Math and Science Teaching",
+      "authors": [
+        {
+          "name": "Shurendra Ghimire",
+          "openalex_id": "A5004384727",
+          "orcid": "https://orcid.org/0000-0003-1786-8642",
+          "institutions": [
+            "Tribhuvan University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-31",
+      "abstract": "This paper highlights the issue of imposing middle-class norms of schooling on working-class children and its consequence on low learning achievement and perpetuating socioeconomic differences in learning. A study was carried out to explore the teachers' role in contextualizing teaching in schools where students are from the working class. Math and science subjects teaching of a dozen of teachers were observed, and complemented with interview. Thus generated information was analysed in the background of the school setting, and the teachers' role as mediators between students' concrete experiences and disciplinary formal concepts of textbooks. The study suggested that teachers stressed the transmission of knowledge than mediating students' experience to formal learning; teachers' language use in the classroom is insufficient triggering students thinking and conceptualisation, meanwhile teacher preparation and development are not oriented to the contextualised and integrated teachings. Their teaching was not only problematic to achieving the national objective of education encouraging critical thinking, and developing problem-solving skills but also demanding middle-class habitus, aspirations, resourcefulness, performance, etc. in the working-class children.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Mathematics Education Forum Chitwan",
+        "type": "journal",
+        "issn": [
+          "2645-8500"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.nepjol.info/index.php/mefc/article/download/54786/40969"
+      },
+      "topics": [
+        "Education Systems and Policy"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W4382520006"
+    },
+    {
+      "openalex_id": "W4367625898",
+      "doi": "10.3390/rel14050589",
+      "title": "COVID-19 and the View from Africa",
+      "authors": [
+        {
+          "name": "T. J. G. Davies",
+          "openalex_id": "A5084534759",
+          "institutions": [
+            "Cardiff University"
+          ]
+        },
+        {
+          "name": "Kenneth Kamwi Matengu",
+          "openalex_id": "A5108692265",
+          "institutions": [
+            "University of Namibia"
+          ]
+        },
+        {
+          "name": "Judith E. Hall",
+          "openalex_id": "A5057706895",
+          "orcid": "https://orcid.org/0000-0002-6770-7372",
+          "institutions": [
+            "University of Namibia"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-04-29",
+      "abstract": "In Africa, refusal of COVID-19 and other vaccines is widespread for different reasons, including disbelief in the existence of the virus itself and faith in traditional remedies. In sub-Saharan countries, refusal is often made worse by opposition to vaccines by the religious establishments. This is a pressing problem, as Africa has the highest vaccine-avoidable mortality rate for children under the age of five in the world. Dialogue between those wishing to promote vaccines and those who resist them is essential if the situation is to be improved. This article argues that Western and other aid agencies seeking to promote vaccination programs need to develop a dialogue with resisters, and in this process to embrace and commend the ancient African philosophical tradition of Ubuntu, incorporating it into these programs as a way to overcome such entrenched resistance. The paper concludes with concrete recommendations for how to accomplish this goal.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/14/5/589/pdf?version=1683620023"
+      },
+      "topics": [
+        "Vaccine Coverage and Hesitancy",
+        "African cultural and philosophical studies"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4367625898"
+    },
+    {
+      "openalex_id": "W4415421912",
+      "doi": "10.3390/children12111424",
+      "title": "Burns in Early Childhood: Age-Specific Causes, Risks, Management, and Implications\u2014A Narrative Review",
+      "authors": [
+        {
+          "name": "Gl\u00f3ria Pelizzo",
+          "openalex_id": "A5015616915",
+          "orcid": "https://orcid.org/0000-0002-5253-8828",
+          "institutions": [
+            "University of Milan",
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Valeria Calcaterra",
+          "openalex_id": "A5069541028",
+          "orcid": "https://orcid.org/0000-0002-2137-5974",
+          "institutions": [
+            "University of Pavia",
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Carlotta Paola Maria Canonica",
+          "openalex_id": "A5085142441",
+          "orcid": "https://orcid.org/0009-0003-9119-3492",
+          "institutions": [
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Vittoria Carlotta Magenes",
+          "openalex_id": "A5063075012",
+          "orcid": "https://orcid.org/0000-0002-4580-1077",
+          "institutions": [
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Michela Marinaro",
+          "openalex_id": "A5111334798",
+          "institutions": [
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Eleonora Durante",
+          "openalex_id": "A5025052859",
+          "institutions": [
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Erika Cordaro",
+          "openalex_id": "A5006425075",
+          "orcid": "https://orcid.org/0000-0001-6634-9254",
+          "institutions": [
+            "University of Pavia",
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        },
+        {
+          "name": "Gianvincenzo Zuccotti",
+          "openalex_id": "A5068743420",
+          "orcid": "https://orcid.org/0000-0002-2795-9874",
+          "institutions": [
+            "University of Milan",
+            "Ospedale dei Bambini Vittore Buzzi"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-10-22",
+      "abstract": "Burn injuries represent a significant global burden, with children under the age of five among the most vulnerable groups. This narrative review will explore the main causes of burns in early childhood (under 6 years of age), the associated risks, current treatment approaches, and the long-term implications of these injuries. It will also highlight areas where further research is needed to improve prevention and management strategies for burns in this vulnerable population. Results showed that burns in children under six years old represent a significant clinical and preventive challenge, with physical, psychological, and social implications. Research has identified common causes, particularly scalds from hot liquids, while advancing innovative treatments such as bioengineered skin substitutes, virtual reality, and telemedicine. Preventive interventions at the household and community levels have also proven effective. However, major limitations remain: studies often lack age-specific focus, rely on retrospective data, underrepresent low-resource settings, and lack standardized protocols. To improve outcomes, future research must adopt a more targeted, multidisciplinary approach and address long-term physical and psychological effects to ensure comprehensive, age-appropriate care.",
+      "cited_by_count": 2,
+      "type": "review",
+      "source": {
+        "name": "Children",
+        "type": "journal",
+        "issn": [
+          "2227-9067"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9067/12/11/1424/pdf"
+      },
+      "topics": [
+        "Burn Injury Management and Outcomes",
+        "Injury Epidemiology and Prevention",
+        "Wound Healing and Treatments"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W4415421912"
+    },
+    {
+      "openalex_id": "W4410007984",
+      "doi": "10.3390/children12050566",
+      "title": "Cultural Approaches to Addressing Sleep Deprivation and Improving Sleep Health in Japan: Sleep Issues Among Children and Adolescents Rooted in Self-Sacrifice and Asceticism",
+      "authors": [
+        {
+          "name": "Jun Kohyama",
+          "openalex_id": "A5077348042",
+          "orcid": "https://orcid.org/0000-0001-9793-7788"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-27",
+      "abstract": "This narrative review examines the issue of sleep deprivation among children and adolescents in Japan, exploring its cultural origins and evaluating the current state of sleep education and interventions. It emphasizes the profound influence of the Bushid\u014d spirit, with its focus on self-sacrifice and asceticism, as a core factor in the undervaluation of sleep in Japanese society. While educational initiatives and interventions highlighting the importance of sleep exist, significant limitations remain in improving sleep habits. Sleep deprivation continues to affect children and adolescents, despite its considerable impact on mental health and academic performance. This review presents a method for personalized sleep duration estimation and assesses its potential impact on improving sleep health by using optimal sleep duration calculations. The review also proposes practical steps to improve sleep duration through individualized strategies, integrating cultural context to mitigate the serious health risks associated with insufficient sleep. Ultimately, it underscores the need for targeted strategies to improve sleep among children and adolescents-particularly through personalized optimal sleep duration estimation-while advocating for a shift in cultural perspective beyond self-sacrifice and asceticism. The review highlights the importance of cultural transformation and suggests future research directions and practical applications.",
+      "cited_by_count": 1,
+      "type": "review",
+      "source": {
+        "name": "Children",
+        "type": "journal",
+        "issn": [
+          "2227-9067"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9067/12/5/566/pdf?version=1745755004"
+      },
+      "topics": [
+        "Sleep and related disorders",
+        "Sleep and Wakefulness Research",
+        "Circadian rhythm and melatonin"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W4410007984"
+    },
+    {
+      "openalex_id": "W3125975613",
+      "doi": "10.3389/feduc.2020.618404",
+      "title": "Planned Change: Drivers of High Implementation for a Pedagogical Self-Regulated Learning Intervention",
+      "authors": [
+        {
+          "name": "Laurie Faith",
+          "openalex_id": "A5009063532",
+          "orcid": "https://orcid.org/0000-0002-9481-9206",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Angela Pyle",
+          "openalex_id": "A5065012981",
+          "orcid": "https://orcid.org/0000-0002-9112-4687",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-18",
+      "abstract": "Resourcefulness and adaptability are essential to success in the modern economy; the motivation, metacognition, and cognitive skills required for self-regulated learning (SRL) have never been more important. Unfortunately, teacher-led SRL interventions rarely survive implementation, and teachers' general practices rarely reflect their intention to promote SRL. After discussing the shortcomings of virtual or modularized SRL education, this study explores the drivers of a human-led, communal, pedagogical approach. Data was collected over 3 months and three timepoints from 81 kindergarten to Grade 8 teachers who were genuinely dissatisfied by their status quo practices, ready for change, and largely eager to implement the novel teaching approach presented to them. Building on established theories of planned change implementation, this research shows a minimal effect of teachers' approval of the intervention on implementation. Rather, specific drivers to the implementation of complex, communal pedagogical interventions included the support of high-status supervisors and peers, while identified constraints to implementation included fears regarding management of student behavior.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Education",
+        "type": "journal",
+        "issn": [
+          "2504-284X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/feduc.2020.618404/pdf"
+      },
+      "topics": [
+        "Innovative Teaching and Learning Methods",
+        "Educational and Psychological Assessments",
+        "Teacher Education and Leadership Studies"
+      ],
+      "referenced_works_count": 154,
+      "url": "https://openalex.org/W3125975613"
+    },
+    {
+      "openalex_id": "W4400281106",
+      "doi": "10.20360/langandlit29743",
+      "title": "It takes a village",
+      "authors": [
+        {
+          "name": "Sylvia Chanda Kalindi",
+          "openalex_id": "A5012107277",
+          "institutions": [
+            "Mount Saint Vincent University"
+          ]
+        },
+        {
+          "name": "Susan Brigham",
+          "openalex_id": "A5099982118",
+          "institutions": [
+            "Mount Saint Vincent University"
+          ]
+        },
+        {
+          "name": "George Frempong",
+          "openalex_id": "A5049312219"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-02",
+      "abstract": "Several stakeholders, such as community groups, government officials, parents, guardians, and educators have shown concern about the achievement gap between Nova Scotia learners of African descent and their predominantly White peers. Using the African proverb \u2018It takes a village\u2019 as a framework, this study involved parents, extended family members and caregivers of children aged 4 to 6 years to explore the scaffolding strategies employed as well as the experiences of participants when supporting children\u2019s emergent writing skills during COVID-19 pandemic. Survey and focus group sessions demonstrated how participants frequently scaffolded emergent writing using highly effective strategies including Africentric approaches. The importance of \u2018It takes a village\u2019 proverb in enhancing literacy developmenthas also been established.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Language and Literacy",
+        "type": "journal",
+        "issn": [
+          "1496-0974"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.library.ualberta.ca/langandlit/index.php/langandlit/article/download/29743/21583"
+      },
+      "topics": [
+        "Reading and Literacy Development",
+        "Child Development and Digital Technology",
+        "Education and Technology Integration"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W4400281106"
+    },
+    {
+      "openalex_id": "W4405419806",
+      "doi": "10.1111/meta.12712",
+      "title": "Permissivism and the history of philosophy",
+      "authors": [
+        {
+          "name": "Daryl Ooi",
+          "openalex_id": "A5074548110",
+          "orcid": "https://orcid.org/0000-0002-0532-9185",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-16",
+      "abstract": "Abstract Permissivism is the view that for some body of evidence E there may be more than one rational doxastic attitude that inquirers may take towards some proposition. This paper examines the aims and processes involved in doing the history of philosophy. It argues that the complexities involved in the process of doing the history of philosophy motivates hermeneutical permissivism. Section 2 of the paper discusses and motivates complexity. Section 3 focuses on a particular kind of complexity that historians face, namely, the problem of theory choice. Section 4 argues that complexity motivates permissivism. Section 5 argues for the value of thinking about the task of the historian of philosophy as contributing to the landscape of plausible interpretations. The paper demonstrates how this way of thinking about our discipline may be productive and useful for historians of philosophy with differing aims.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Metaphilosophy",
+        "type": "journal",
+        "issn": [
+          "0026-1068",
+          "1467-9973"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/OOIPAT.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W4405419806"
+    },
+    {
+      "openalex_id": "W7115978509",
+      "doi": null,
+      "title": "Neo-Aristotelian Metaphysics (Cambridge Elements in Metaphysics)",
+      "authors": [
+        {
+          "name": "Corkum, Phil",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "Neo-Aristotelian metaphysics comprises the topics in contemporary metaphysics which bear similarity to the interests, commitments, positions and general approaches found in Aristotle. Despite the current interest in these topics, there is no monograph length general introduction to the methodology and themes of neo-Aristotelian metaphysics. One underdiscussed question concerns demarcation: what unifies the topics that fall under the heading of neo-Aristotelianism? Contemporary metaphysicians who might be classified as \u2018neo-Aristotelians\u2019 tend towards positions reminiscent of Aristotle\u2019s metaphysics\u2014such as sympathy with grounding, substance ontology, non-modal construals of essence, hylomorphism, causal powers, presentism, endurantism and agent causation. However, prima facie it seems that one might hold any one of these positions while rejecting the others. What perhaps unifies a neo-Aristotelian approach in metaphysics, then, is not a shared collection of positions so much as a willingness to engage with Aristotle and to view this historical figure as providing a fruitful way of initially framing certain philosophical issues. However, also missing in the literature is a sustained methodological discussion on the contribution historical scholarship on Aristotle might make to contemporary metaphysics, and the contribution contemporary metaphysics might make to historical scholarship. Little hinges on whether what gets labelled neo-Aristotelian metaphysics is or isn\u2019t Aristotle\u2019s metaphysics. But historical scholarship is useful within contemporary metaphysics not merely to to apply historically accurate labels to positions. There are topics where the historical and contemporary issues dovetail in mutually rewarding ways: serious engagement with the history of philosophy can yield living philosophical rewards for today\u2019s metaphysician; and serious engagement with contemporary philosophy can yield exegetical rewards for the historian. The monograph will introduce these methodological issues, and then turn to case studies on ontological dependence, substance ontology, category theory and hylomorphism. These are all topics where there is robust debate within both Aristotle studies and contemporary metaphysics, and topics where historians and metaphysicians are working somewhat in isolation from each other. The aim of the monograph is to make the relevant exegetical questions accessible to contemporary metaphysicians, and the corresponding contemporary topics accessible to historians. The target audience includes researchers, graduate students and advanced undergraduates, in both metaphysics and Aristotle studies.",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/CORNMC.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Historical Philosophy and Science",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7115978509"
+    },
+    {
+      "openalex_id": "W7111988122",
+      "doi": null,
+      "title": "Evolving paradigms in aesthetic preference: from classical philosophy to experimental aesthetics",
+      "authors": [
+        {
+          "name": "Yahaya, Mohd Faiz",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yanfeng, H. U.",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ramli, Saiful Hasley",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yulin, H. S. U.",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-02",
+      "abstract": "This research focuses on the relationship between aesthetic theory and aesthetic preference, exploring the history of aesthetic theory and perspectives on aesthetic preference in product design, such as views of beauty in classical Greek philosophy, shifts in aesthetic thinking in contemporary cognitive psychology, aesthetic criteria for product design in psychophysics and experimental aesthetics, as well as aesthetic models for testing aesthetic preference. This study aims to understand the concepts of beauty and art under the influence of different historical contexts and finally, to find some suitable models for testing aesthetic preferences in product design. In the process of literature collection, a systematic review and evaluation of the development of aesthetic theory. This study provides a theoretical basis for testing aesthetic preferences in product design and makes readers more clearly recognize the factors that affect aesthetic evaluation.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://psasir.upm.edu.my/id/eprint/118018/1/118018.pdf"
+      },
+      "topics": [
+        "Aesthetic Perception and Analysis",
+        "Color perception and design",
+        "Design Education and Practice"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7111988122"
+    },
+    {
+      "openalex_id": "W4387141473",
+      "doi": "10.1093/arisoc/aoad018",
+      "title": "Geometrical Changes: Change and Motion in Aristotle\u2019s Philosophy of Geometry",
+      "authors": [
+        {
+          "name": "Chiara Martini",
+          "openalex_id": "A5101405803",
+          "orcid": "https://orcid.org/0000-0002-8785-4521",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-28",
+      "abstract": "Abstract It is often said that Aristotle takes geometrical objects to be absolutely unmovable and unchangeable. However, Greek geometrical practice does appeal to motion and change, and geometers seem to consider their objects apt to be manipulated. In this paper, I examine if and how Aristotle\u2019s philosophy of geometry can account for the geometers\u2019 practices and way of talking. First, I illustrate three different ways in which Greek geometry appeals to change. Second, I examine Aristotle\u2019s ontology of geometrical objects and argue that although the truth-makers of geometrical statements are in fact unmovable because they are properties of sensible objects, geometers \u2018separate them in thought\u2019 and treat them as substances apt to be modified. Finally, I examine whether allowing for the possibility of manipulating these semi-fictional geometrical individuals creates problems for the applicability of geometry. I find that it does not, insofar as one accepts that geometry is not meant to track physical change but merely to study the instantaneous geometrical configuration of sensible bodies, and is thus only applicable at the instant.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the Aristotelian Society",
+        "type": "journal",
+        "issn": [
+          "0066-7374",
+          "1467-9264"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/aristotelian/advance-article-pdf/doi/10.1093/arisoc/aoad018/51789055/aoad018.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Historical Philosophy and Science",
+        "History and Theory of Mathematics"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W4387141473"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

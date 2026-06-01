@@ -1,0 +1,16 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: history-of-philosophy
+{
+  "status": "error",
+  "source": "sep",
+  "query": "history-of-philosophy",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "SEP entry not found: history-of-philosophy",
+      "recoverable": false
+    }
+  ]
+}
