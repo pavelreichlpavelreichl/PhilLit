@@ -1,0 +1,15 @@
+[s2_search.py] Searching Semantic Scholar: 'historiography philosophy methodology' (year=2000-2025) (field=Philosophy), limit=20
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "historiography philosophy methodology",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "api_error",
+      "message": "S2 API error: 403",
+      "recoverable": false
+    }
+  ]
+}

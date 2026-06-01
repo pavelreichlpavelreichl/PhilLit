@@ -1,33 +1,33 @@
 {
   "status": "success",
   "source": "openalex",
-  "query": "Skinner meaning understanding history ideas",
+  "query": "Quentin Skinner intellectual history methodology",
   "results": [
     {
-      "openalex_id": "W2045683414",
-      "doi": "10.1177/106591290505800301",
-      "title": "The Cambridge School and Leo Strauss: Texts and Context of American Political Science",
+      "openalex_id": "W593929422",
+      "doi": null,
+      "title": "Seeing Things Their Way: Intellectual History and the Return of Religion",
       "authors": [
         {
-          "name": "Rafael Major",
-          "openalex_id": "A5070082134",
-          "orcid": "https://orcid.org/0000-0003-0932-2893"
+          "name": "Alister Chapman",
+          "openalex_id": "A5024205552"
+        },
+        {
+          "name": "John Coffey",
+          "openalex_id": "A5048767587"
+        },
+        {
+          "name": "Brad S. Gregory",
+          "openalex_id": "A5067794481",
+          "orcid": "https://orcid.org/0000-0003-4462-0060"
         }
       ],
-      "publication_year": 2005,
-      "publication_date": "2005-09-01",
-      "abstract": "Over the past quarter century, the Cambridge School of Intellectual History has had a profound influence on the study of political theory in the U.S. The scholarship of historians such as John Dunn, Quentin Skinner, and John Pocock has almost single-handedly defined the terms with which political scientists understand early modern thought, and consequently liberalism and its alternatives. In this essay I analyze Quentin Skinner's \u201cMeaning and Understanding in the History of Ideas\u201d as the seminal argument for the Cambridge School's interpretive strategy. In particular, I note the degree to which Skinner attacked the scholarship of Leo Strauss in order to establish the Cambridge approach. Contrary to Skinner, I argue Strauss too has a concern for genuine historical understanding. I conclude with a re-reading of Strauss' Persecution and the Art of Writing in order to show that Strauss' interpretive strategy ultimately comes much closer to the \u201chistoricity\u201d claimed by Skinner and others.",
-      "cited_by_count": 83,
-      "type": "article",
-      "source": {
-        "name": "Political Research Quarterly",
-        "type": "journal",
-        "issn": [
-          "1065-9129",
-          "1938-274X",
-          "1938-2758"
-        ]
-      },
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Introduction / John Coffey and Alister Chapman -- Can we \"see things their way\"? : should we try? / Brad S. Gregory -- Quentin Skinner and the religious dimension of early modern political thought / John Coffey -- \"Sie stinken beide\", or how to use medieval Christian-Jewish disputational material / Anna Sapir Abulafia -- Anti-semitism, philo-semitism, apocalypticism, and millenarianism in early modern Europe : a case study and some methodological reflection / Howard Hotson -- Reflections on persistent Whiggism and its antidotes in the study of sixteenth- and seventeenth-century intellectual history / Richard A. Muller -- Scholasticism revisited : methodological reflections on the study of seventeenth-century reformed thought / Willem J. van Asselt -- The changing shape of religious ideas in enlightened England / James E. Bradley -- British methodological pointers for writing a history of theology in America / Mark A. Noll -- Intellectual history and religion in modern Britain / Alister Chapman -- Response: The history of ideas and the study of religion / David Bebbington",
+      "cited_by_count": 127,
+      "type": "book",
+      "source": null,
       "open_access": {
         "is_oa": false,
         "oa_status": "closed",
@@ -35,140 +35,90 @@
       },
       "topics": [
         "American Constitutional Law and Politics",
-        "Political Theory and Influence",
-        "Seventeenth-Century Political and Philosophical Thought"
+        "Religion and Society Interactions"
       ],
-      "referenced_works_count": 113,
-      "url": "https://openalex.org/W2045683414"
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W593929422"
     },
     {
-      "openalex_id": "W3116899544",
-      "doi": "10.1002/ajpa.24200",
-      "title": "Skin color and race",
+      "openalex_id": "W3143472875",
+      "doi": "10.1515/9780857452962",
+      "title": "History in the Plural: An Introduction to the Work of Reinhart Koselleck",
       "authors": [
         {
-          "name": "Nina G. Jablonski",
-          "openalex_id": "A5009978269",
-          "orcid": "https://orcid.org/0000-0001-7644-874X",
+          "name": "Niklas Olsen",
+          "openalex_id": "",
           "institutions": [
-            "Pennsylvania State University"
+            "Sax Institute"
           ]
         }
       ],
-      "publication_year": 2020,
-      "publication_date": "2020-12-29",
-      "abstract": "Skin color is the primary physical criterion by which people have been classified into groups in the Western scientific tradition. From the earliest classifications of Linnaeus, skin color labels were not neutral descriptors, but connoted meanings that influenced the perceptions of described groups. In this article, the history of the use of skin color is reviewed to show how the imprint of history in connection with a single trait influenced subsequent thinking about human diversity. Skin color was the keystone trait to which other physical, behavioral, and culture characteristics were linked. To most naturalists and philosophers of the European Enlightenment, skin color was influenced by the external environment and expressed an inner state of being. It was both the effect and the cause. Early investigations of skin color and human diversity focused on understanding the central polarity between \"white\" Europeans and nonwhite others, with most attention devoted to explaining the origin and meaning of the blackness of Africans. Consistently negative associations with black and darkness influenced philosophers David Hume and Immanuel Kant to consider Africans as less than fully human and lacking in personal agency. Hume and Kant's views on skin color, the integrity of separate races, and the lower status of Africans provided support to diverse political, economic, and religious constituencies in Europe and the Americas interested in maintaining the transatlantic slave trade and upholding chattel slavery. The mental constructs and stereotypes of color-based races remained, more strongly in some places than others, after the abolition of the slave trade and of slavery. The concept of color-based hierarchies of people arranged from the superior light-colored people to inferior dark-colored ones hardened during the late seventeenth century and have been reinforced by diverse forces ever since. These ideas manifest themselves as racism, colorism, and in the development of implicit bias. Current knowledge of the evolution of skin color and of the historical development of color-based race concepts should inform all levels of formal and informal education. Awareness of the influence of color memes and race ideation in general on human behavior and the conduct of science is important.",
-      "cited_by_count": 127,
-      "type": "article",
-      "source": {
-        "name": "American Journal of Physical Anthropology",
-        "type": "journal",
-        "issn": [
-          "0002-9483",
-          "1096-8644"
-        ]
-      },
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Reinhart Koselleck (1923-2006) was one of most imposing and influential European intellectual historians in the twentieth century. Constantly probing and transgressing the boundaries of mainstream historical writing, he created numerous highly innovative approaches, absorbing influences from other academic disciplines as represented in the work of philosophers and political thinkers like Hans Georg Gadamer and Carl Schmitt and that of internationally renowned scholars such as Hayden White, Michel Foucault, and Quentin Skinner. An advocate of \"grand theory,\" Koselleck was an inspiration to many scholars and helped move the discipline into new directions (such as conceptual history, theories of historical times and memory) and across disciplinary and national boundaries. He thus achieved a degree of international fame that was unusual for a German historian after 1945. This book not only presents the life and work of a \"great thinker\" and European intellectual, it also contributes to our understanding of complex theoretical and methodological issues in the cultural sciences and to our knowledge of the history of political, historical, and cultural thought in Germany from the 1950s to the present",
+      "cited_by_count": 109,
+      "type": "book",
+      "source": null,
       "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1002/ajpa.24200"
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
       },
       "topics": [
-        "Race, Genetics, and Society"
+        "German History and Society",
+        "European history and politics",
+        "Communism, Protests, Social Movements"
       ],
-      "referenced_works_count": 85,
-      "url": "https://openalex.org/W3116899544"
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3143472875"
     },
     {
-      "openalex_id": "W2087377417",
-      "doi": "10.1353/jhi.2012.0010",
-      "title": "On the Liberty of the Ancients and the Moderns: A Reply to My Critics",
+      "openalex_id": "W4243137202",
+      "doi": "10.1017/cbo9780511790812",
+      "title": "Visions of politics, Volume 1, Regarding method",
       "authors": [
         {
           "name": "Quentin Skinner",
-          "openalex_id": "A5109255683"
+          "openalex_id": "A5109255683",
+          "institutions": [
+            "University of Cambridge"
+          ]
         }
       ],
-      "publication_year": 2012,
-      "publication_date": "2012-01-01",
-      "abstract": "A symposium, held at the Graduate Center of the City University of New York in October 2009, marked the fortieth anniversary of the publication of Quentin Skinner's essay \"Meaning and Understanding in the History of Ideas.\" Four scholars, Melissa Lane, Bryan Garsten, Nadia Urbinati, and Philip Pettit, presented appraisals of Skinner's work. In his \"Reply to My Critics\" Skinner addresses the papers of each of the four scholars.",
-      "cited_by_count": 39,
-      "type": "article",
-      "source": {
-        "name": "Journal of the History of Ideas",
-        "type": "journal",
-        "issn": [
-          "0022-5037",
-          "1086-3222"
-        ]
-      },
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "The first of three volumes of essays by Quentin Skinner, one of the world's leading intellectual historians. This collection includes some of his most important philosophical and methodological statements written over the past four decades, each carefully revised for publication in this form. In a series of seminal essays Professor Skinner sets forth the intellectual principles that inform his work. Writing as a practising historian, he considers the theoretical difficulties inherent in the pursuit of knowledge and interpretation, and elucidates the methodology which finds its expression in his two successive volumes. All of Professor Skinner's work is characterised by philosophical power, limpid clarity, and elegance of exposition; these essays, many of which are now recognised classics, provide a fascinating and convenient digest of the development of his thought. Professor Skinner has been awarded the Balzan Prize Life Time Achievement Award for Political Thought, History and Theory. Full details of this award can be found at http://www.balzan.it/News_eng.aspx?ID=2474",
+      "cited_by_count": 84,
+      "type": "book",
+      "source": null,
       "open_access": {
         "is_oa": false,
         "oa_status": "closed",
         "oa_url": null
       },
       "topics": [
-        "Philosophy, History, and Historiography",
-        "Political Theory and Influence",
-        "American Constitutional Law and Politics"
-      ],
-      "referenced_works_count": 18,
-      "url": "https://openalex.org/W2087377417"
-    },
-    {
-      "openalex_id": "W2060176216",
-      "doi": "10.1353/jhi.2012.0002",
-      "title": "Doing Our Own Thinking for Ourselves: On Quentin Skinner's Genealogical Turn",
-      "authors": [
-        {
-          "name": "Melissa Lane",
-          "openalex_id": "A5111401179"
-        }
-      ],
-      "publication_year": 2012,
-      "publication_date": "2012-01-01",
-      "abstract": "In the original publication of \"Meaning and Understanding in the History of Ideas,\" Quentin Skinner enjoined that when it comes to seeking \"answers\" to questions, \"we must learn to do our own thinking for ourselves.\" In this article, I focus on one of the most recent turns in Skinner's work, to a practice of genealogy. By disentangling various claims too often bundled together under the heading of \"contingency,\" and by distinguishing Skinner's practice of genealogy from Nietzsche's, I argue that that Skinner's genealogical turn is at once less novel, more modest, and more productive than his own characterization of it makes it appear.",
-      "cited_by_count": 48,
-      "type": "article",
-      "source": {
-        "name": "Journal of the History of Ideas",
-        "type": "journal",
-        "issn": [
-          "0022-5037",
-          "1086-3222"
-        ]
-      },
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null
-      },
-      "topics": [
-        "Philosophy, History, and Historiography",
-        "Seventeenth-Century Political and Philosophical Thought",
         "Political Theory and Influence"
       ],
-      "referenced_works_count": 17,
-      "url": "https://openalex.org/W2060176216"
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4243137202"
     },
     {
-      "openalex_id": "W2792418757",
-      "doi": "10.5149/northcarolina/9781469632834.001.0001",
-      "title": "Black for a Day",
+      "openalex_id": "W2491939926",
+      "doi": "10.1093/acprof:oso/9780199769230.003.0001",
+      "title": "The Return of the History of Ideas?",
       "authors": [
         {
-          "name": "Alisha Gaines",
-          "openalex_id": "A5058262007",
-          "orcid": "https://orcid.org/0000-0003-4576-7777"
+          "name": "Darrin M. McMahon",
+          "openalex_id": "A5082096896"
         }
       ],
-      "publication_year": 2017,
-      "publication_date": "2017-05-08",
-      "abstract": "In 1948, journalist Ray Sprigle traded his whiteness to live as a black man for four weeks. A little over a decade later, John Howard Griffin famously \u201cbecame\u201d black as well, traveling the American South in search of a certain kind of racial understanding. Contemporary history is littered with the surprisingly complex stories of white people passing as black, and here Alisha Gaines constructs a unique genealogy of \u201cempathetic racial impersonation\u201d--white liberals walking in the fantasy of black skin under the alibi of cross-racial empathy. At the end of their experiments in \u201cblackness,\u201d Gaines argues, these debatably well-meaning white impersonators arrived at little more than false consciousness. Complicating the histories of black-to-white passing and blackface minstrelsy, Gaines uses an interdisciplinary approach rooted in literary studies, race theory, and cultural studies to reveal these sometimes maddening, and often absurd, experiments of racial impersonation. By examining this history of modern racial impersonation, Gaines shows that there was, and still is, a faulty cultural logic that places enormous faith in the idea that empathy is all that white Americans need to make a significant difference in how to racially navigate our society.",
-      "cited_by_count": 55,
-      "type": "book",
+      "publication_year": 2014,
+      "publication_date": "2014-01-14",
+      "abstract": "This article examines the demise and discredit of the \u201chistory of ideas,\u201d as advocated originally by Arthur Lovejoy, seeking to explain how it fell out of favor as a disciplinary and methodological practice. Focusing on two of the most forceful critiques of the history of ideas\u2014that of Quentin Skinner and the Cambridge School and of Robert Darnton and the social history of ideas\u2014the article argues that while this criticism was originally timely and productive, it did not do full justice either to Lovejoy or to the potential of his methods. The time is right, the article suggests, to revisit the history of ideas, and it offers some reflections on what intellectual historians working today may be able to take from it.",
+      "cited_by_count": 73,
+      "type": "book-chapter",
       "source": {
-        "name": "University of North Carolina Press eBooks",
+        "name": "Oxford University Press eBooks",
         "type": "ebook platform",
         "issn": null
       },
@@ -178,33 +128,218 @@
         "oa_url": null
       },
       "topics": [
-        "Critical Race Theory in Education",
-        "Race, History, and American Society"
+        "Australian History and Society",
+        "Historical Economic and Social Studies",
+        "Philosophy, History, and Historiography"
       ],
       "referenced_works_count": 0,
-      "url": "https://openalex.org/W2792418757"
+      "url": "https://openalex.org/W2491939926"
     },
     {
-      "openalex_id": "W2263955009",
-      "doi": null,
-      "title": "The history of Ideas as philosophy and history",
+      "openalex_id": "W4399410987",
+      "doi": "10.3167/9780857452955",
+      "title": "HISTORY IN THE PLURAL",
       "authors": [
         {
-          "name": "Michael Rosen",
-          "openalex_id": "A5070895955",
-          "orcid": "https://orcid.org/0000-0002-6625-2230"
+          "name": "Niklas Olsen",
+          "openalex_id": ""
         }
       ],
-      "publication_year": 2011,
-      "publication_date": "2011-01-01",
-      "abstract": "This article argues for a conception of the history of ideas that treats philosophy historically while avoiding sociological reductionism. On the view presented here, philosophical problems characteristically arise from a conflict of commitments, at least some of which have roots in wider forms of life and ways of seeing the world. In bringing such 'doxa' to our attention, the history of ideas, it is argued, plays a role that is both genuinely historical and, at the same time, contributes to philosophical argument in making these commitments available to scrutiny. The article defends the permissibility of the apparent 'anachronism' involved in such interpretations. Although they may violate the 'principle of attribution' advocated by Quentin Skinner in his seminal 'Meaning and Understanding in the History of Ideas', that principle should not be accepted. The ascription of authorial intentions does indeed form an important part of interpretation, but intentions should not be understood either in a 'Cartesian' fashion (as recapturing what was 'in the author's mind') or in the modified version of Austinian speech-act theory advocated by Skinner.",
-      "cited_by_count": 23,
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Reinhart Koselleck (1923\u20132006) was one of most imposing and influential European intellectual historians in the twentieth century. Constantly probing and transgressing the boundaries of mainstream historical writing, he created numerous highly innovative approaches, absorbing influences from other academic disciplines as represented in the work of philosophers and political thinkers like Hans Georg Gadamer and Carl Schmitt and that of internationally renowned scholars such as Hayden White, Michel Foucault, and Quentin Skinner. An advocate of \u201cgrand theory,\u201d Koselleck was an inspiration to many scholars and helped move the discipline into new directions (such as conceptual history, theories of historical times and memory) and across disciplinary and national boundaries. He thus achieved a degree of international fame that was unusual for a German historian after 1945. This book not only presents the life and work of a \u201cgreat thinker\u201d and European intellectual, it also contributes to our understanding of complex theoretical and methodological issues in the cultural sciences and to our knowledge of the history of political, historical, and cultural thought in Germany from the 1950s to the present.",
+      "cited_by_count": 84,
+      "type": "book",
+      "source": {
+        "name": "Berghahn Books",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4399410987"
+    },
+    {
+      "openalex_id": "W2799826997",
+      "doi": "10.1017/cbo9780511613784",
+      "title": "Visions of politics, Volume 3, Hobbes and civil science",
+      "authors": [
+        {
+          "name": "Quentin Skinner",
+          "openalex_id": "A5109255683",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "The third of three volumes of essays by Quentin Skinner, one of the world's leading intellectual historians. This collection includes some of his most important essays on Thomas Hobbes, each of which has been carefully revised for publication in this form. In a series of writings spanning the past four decades Professor Skinner examines, with his customary perspicuity, the evolution and character of Hobbes's political thought. An indispensable work in its own right, this volume also serves as a demonstration of those methodological theories propounded in Volume I, and as an appositional commentary on the Renaissance values of civic virtue treated in Volume II. All of Professor Skinner's work is characterised by philosophical power, limpid clarity, and elegance of exposition; these essays, many of which are now recognised classics, provide a fascinating and convenient digest of the development of his thought. Professer Skinner has been awarded the Balzan Prize Life Time Achievement Award for Political Thought, History and Theory. Full details of this award can be found at http://www.balzan.it/News_eng.aspx?ID=2474",
+      "cited_by_count": 75,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "American Constitutional Law and Politics",
+        "Reformation and Early Modern Christianity"
+      ],
+      "referenced_works_count": 160,
+      "url": "https://openalex.org/W2799826997"
+    },
+    {
+      "openalex_id": "W2121357839",
+      "doi": "10.1163/187226312x650746",
+      "title": "Unit-Ideas Unleashed: A Reinterpretation and Reassessment of Lovejovian Methodology in the History of Ideas",
+      "authors": [
+        {
+          "name": "Carl Knight",
+          "openalex_id": "A5054023765",
+          "orcid": "https://orcid.org/0000-0002-6093-2868",
+          "institutions": [
+            "University of Johannesburg",
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Abstract This article argues for an unconventional interpretation of Arthur O. Lovejoy\u2019s distinctive approach to method in the history of ideas. It is maintained that the value of the central concept of the \u2018unit-idea\u2019 has been misunderstood by friends and foes alike. The commonality of unit-ideas at different times and places is often defined in terms of familial resemblance. But such an approach must necessarily define unit-ideas as being something other than the smallest conceptual unit. It is therefore in tension with Lovejoy\u2019s methodological prescription and, more importantly, disregards a potentially important aspect of intellectual history \u2013 the smaller conceptual units themselves. In response to this, an alternative interpretation of unit-ideas as \u2018elemental\u2019 \u2013 as the smallest identifiable conceptual components \u2013 is put forward. Unlike the familial resemblance approach, the elemental approach can provide a plausible explanation for changes in ideas. These are construed as being either the creation of new unit-ideas, the disappearance of existing ones, or alterations in the groups of unit-ideas that compose idea-complexes. The focus on the movement of unit-ideas and idea-complexes through history can also be sensitive to contextual issues, carefully distinguishing the different meanings that single words may have, in much the way that both Lovejoy and his influential critic Quentin Skinner suggest.",
+      "cited_by_count": 48,
       "type": "article",
       "source": {
-        "name": "History of Political Thought",
+        "name": "Journal of the Philosophy of History",
         "type": "journal",
         "issn": [
-          "0143-781X"
+          "1872-261X",
+          "1872-2636"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/KNIUUA.pdf"
+      },
+      "topics": [
+        "Historical and Literary Studies",
+        "Philosophy, History, and Historiography",
+        "Pragmatism in Philosophy and Education"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W2121357839"
+    },
+    {
+      "openalex_id": "W1999775934",
+      "doi": "10.1007/s10781-008-9039-7",
+      "title": "Contextualism in the Study of Indian Intellectual Cultures",
+      "authors": [
+        {
+          "name": "Jonardon Ganeri",
+          "openalex_id": "A5103235135",
+          "orcid": "https://orcid.org/0000-0002-4938-678X",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-06-19",
+      "abstract": null,
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "Journal of Indian Philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-1791",
+          "1573-0395"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://figshare.com/articles/journal_contribution/Contextualism_in_the_study_of_Indian_intellectual_cultures/23345891"
+      },
+      "topics": [
+        "Historical Linguistics and Language Studies",
+        "Study and Philosophy of Religion",
+        "Indian History and Philosophy"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W1999775934"
+    },
+    {
+      "openalex_id": "W4238560341",
+      "doi": "10.1016/b978-0-08-097086-8.62118-9",
+      "title": "Intellectual History",
+      "authors": [
+        {
+          "name": "Cesare Cuttica",
+          "openalex_id": "A5001146514",
+          "institutions": [
+            "Universit\u00e9 Paris 8"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "book-chapter",
+      "source": {
+        "name": "Elsevier eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Theory and Influence",
+        "European Political History Analysis",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W4238560341"
+    },
+    {
+      "openalex_id": "W2149836432",
+      "doi": "10.1017/s1479244309002121",
+      "title": "QUENTIN SKINNER'S HOBBES AND THE NEO-REPUBLICAN PROJECT",
+      "authors": [
+        {
+          "name": "Jeffrey Collins",
+          "openalex_id": "A5051624671",
+          "orcid": "https://orcid.org/0000-0002-9065-5566",
+          "institutions": [
+            "Queen's University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-26",
+      "abstract": "For nearly half a century, Quentin Skinner has been the world's foremost interpreter of Thomas Hobbes. When the contextualist mode of intellectual history now known as the \u201cCambridge School\u201d was first asserting itself in the 1960s, the life and writings of John Locke were the primary topic for pioneers such as Peter Laslett and John Dunn. At that time, Hobbes was still the plaything of philosophers and political scientists, virtually all of whom wrote in an ahistorical, textual-analytic manner. Hobbes had not been the subject of serious contextual research for decades, since the foundational writings of Ferdinand T\u00f6nnies. For Skinner, he was thus an ideal subject, providing a space for original research on a major figure, and an occasion for some polemically charged methodological manifestos. Both of these purposes animated his 1965 article \u201cHistory and Ideology in the English Revolution,\u201d and his 1966 article \u201cThe Ideological Context of Hobbes's Political Thought\u201d. The latter of these remains to this day one of the most widely cited scholarly articles in the fifty-year run of Cambridge's Historical Journal . Among other results of these early efforts was the scholarly controversy during which Howard Warrender chided Skinner for having reduced the \u201cclassic texts in political philosophy\u201d to mere \u201ctracts for the times\u201d.",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Modern Intellectual History",
+        "type": "journal",
+        "issn": [
+          "1479-2443",
+          "1479-2451"
         ]
       },
       "open_access": {
@@ -214,150 +349,70 @@
       },
       "topics": [
         "Seventeenth-Century Political and Philosophical Thought",
-        "Historical Philosophy and Science",
-        "Political Theory and Influence"
+        "Political Theology and Sovereignty",
+        "American Constitutional Law and Politics"
       ],
-      "referenced_works_count": 0,
-      "url": "https://openalex.org/W2263955009"
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W2149836432"
     },
     {
-      "openalex_id": "W3140854437",
-      "doi": "10.1186/s40537-021-00444-8",
-      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "openalex_id": "W2891906550",
+      "doi": "10.1017/s0034670518000967",
+      "title": "The Ethics of Interpretation in Political Theory and Intellectual History",
       "authors": [
         {
-          "name": "Laith Alzubaidi",
-          "openalex_id": "A5102889969",
-          "orcid": "https://orcid.org/0000-0002-7296-5413",
-          "institutions": [
-            "Queensland University of Technology",
-            "University of Information Technology and Communications"
-          ]
-        },
-        {
-          "name": "Jinglan Zhang",
-          "openalex_id": "A5101979224",
-          "orcid": "https://orcid.org/0000-0001-6459-2963",
-          "institutions": [
-            "Queensland University of Technology"
-          ]
-        },
-        {
-          "name": "Amjad J. Humaidi",
-          "openalex_id": "A5016153721",
-          "orcid": "https://orcid.org/0000-0002-9071-1329",
-          "institutions": [
-            "University of Technology - Iraq"
-          ]
-        },
-        {
-          "name": "Ayad Q. Al-Dujaili",
-          "openalex_id": "A5052471696",
-          "orcid": "https://orcid.org/0000-0002-1126-3290",
-          "institutions": [
-            "Middle Technical University"
-          ]
-        },
-        {
-          "name": "Ye Duan",
-          "openalex_id": "A5101430356",
-          "orcid": "https://orcid.org/0000-0002-1166-7703",
-          "institutions": [
-            "University of Missouri"
-          ]
-        },
-        {
-          "name": "Omran Al-Shamma",
-          "openalex_id": "A5008534489",
-          "orcid": "https://orcid.org/0000-0001-5930-6176",
-          "institutions": [
-            "University of Information Technology and Communications"
-          ]
-        },
-        {
-          "name": "Jos\u00e9 Santamar\u00eda",
-          "openalex_id": "A5010765865",
-          "orcid": "https://orcid.org/0000-0002-2022-6838",
-          "institutions": [
-            "Universidad de Ja\u00e9n"
-          ]
-        },
-        {
-          "name": "Mohammed A. Fadhel",
-          "openalex_id": "A5090966997",
-          "orcid": "https://orcid.org/0000-0001-9877-049X",
-          "institutions": [
-            "Thi Qar University"
-          ]
-        },
-        {
-          "name": "Muthana Al\u2010Amidie",
-          "openalex_id": "A5036536042",
-          "orcid": "https://orcid.org/0000-0002-8116-1871",
-          "institutions": [
-            "University of Missouri"
-          ]
-        },
-        {
-          "name": "Laith Farhan",
-          "openalex_id": "A5059266881",
-          "orcid": "https://orcid.org/0000-0001-8256-7323",
-          "institutions": [
-            "Manchester Metropolitan University"
-          ]
+          "name": "Michael L. Frazer",
+          "openalex_id": "A5080524810",
+          "orcid": "https://orcid.org/0000-0002-9797-3647"
         }
       ],
-      "publication_year": 2021,
-      "publication_date": "2021-03-31",
-      "abstract": "In the last few years, the deep learning (DL) computing paradigm has been deemed the Gold Standard in the machine learning (ML) community. Moreover, it has gradually become the most widely used computational approach in the field of ML, thus achieving outstanding results on several complex cognitive tasks, matching or even beating those provided by human performance. One of the benefits of DL is the ability to learn massive amounts of data. The DL field has grown fast in the last few years and it has been extensively used to successfully address a wide range of traditional applications. More importantly, DL has outperformed well-known ML techniques in many domains, e.g., cybersecurity, natural language processing, bioinformatics, robotics and control, and medical information processing, among many others. Despite it has been contributed several works reviewing the State-of-the-Art on DL, all of them only tackled one aspect of the DL, which leads to an overall lack of knowledge about it. Therefore, in this contribution, we propose using a more holistic approach in order to provide a more suitable starting point from which to develop a full understanding of DL. Specifically, this review attempts to provide a more comprehensive survey of the most important aspects of DL and including those enhancements recently added to the field. In particular, this paper outlines the importance of DL, presents the types of DL techniques and networks. It then presents convolutional neural networks (CNNs) which the most utilized DL network type and describes the development of CNNs architectures together with their main features, e.g., starting with the AlexNet network and closing with the High-Resolution network (HR.Net). Finally, we further present the challenges and suggested solutions to help researchers understand the existing research gaps. It is followed by a list of the major DL applications. Computational tools including FPGA, GPU, and CPU are summarized along with a description of their influence on DL. The paper ends with the evolution matrix, benchmark datasets, and summary and conclusion.",
-      "cited_by_count": 7463,
+      "publication_year": 2018,
+      "publication_date": "2018-12-17",
+      "abstract": "Abstract Scholars studying classic political texts face an important decision: Should these texts be read as artifacts of history or as sources for still-valid insights about politics today? Competing historical and \u201cpresentist\u201d approaches to political thought do not have a methodological dispute\u2014that is, a disagreement about the most effective scholarly means to an agreed-upon end. They instead have an ethical dispute about the respective value of competing activities that aim at different purposes. This article examines six ethical arguments, drawn primarily from the work of Quentin Skinner, in favor of the historical approach. It concludes that while both intellectual history and presentist theory are ethically justifiable, the best justification of the former enterprise is that it can help us achieve the purposes of the latter.",
+      "cited_by_count": 11,
       "type": "article",
       "source": {
-        "name": "Journal Of Big Data",
+        "name": "The Review of Politics",
         "type": "journal",
         "issn": [
-          "2196-1115"
+          "0034-6705",
+          "1748-6858"
         ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-021-00444-8"
+        "oa_status": "green",
+        "oa_url": "https://eprints.gla.ac.uk/306550/"
       },
       "topics": [
-        "Advanced Neural Network Applications",
-        "COVID-19 diagnosis using AI",
-        "Anomaly Detection Techniques and Applications"
+        "Political Philosophy and Ethics",
+        "Hannah Arendt's Political Philosophy",
+        "Political Theology and Sovereignty"
       ],
-      "referenced_works_count": 362,
-      "url": "https://openalex.org/W3140854437"
+      "referenced_works_count": 80,
+      "url": "https://openalex.org/W2891906550"
     },
     {
-      "openalex_id": "W2132585345",
-      "doi": "10.2307/2657316",
-      "title": "Rethinking Racism: Toward a Structural Interpretation",
+      "openalex_id": "W2139290123",
+      "doi": "10.1353/jhi.2014.0038",
+      "title": "Enlightenment as Concept and Context",
       "authors": [
         {
-          "name": "Eduardo Bonilla\u2010Silva",
-          "openalex_id": "A5020571359",
-          "orcid": "https://orcid.org/0000-0002-4575-0134",
-          "institutions": [
-            "University of Michigan\u2013Ann Arbor",
-            "Michigan Department of Education"
-          ]
+          "name": "James Schmidt",
+          "openalex_id": "A5079416459"
         }
       ],
-      "publication_year": 1997,
-      "publication_date": "1997-06-01",
-      "abstract": "you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use. Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at",
-      "cited_by_count": 2712,
+      "publication_year": 2014,
+      "publication_date": "2014-10-01",
+      "abstract": "Enlightenment as Concept and Context James Schmidt Enlightenment, Quentin Skinner, J. G. A. Pocock, Ian Hunter, John Robertson, conceptual history, history of ideas, historiography of the Enlightenment The Ideas in Context series has served the Enlightenment well. Roughly a quarter of the first hundred books in the series deal (at least in part) with the period, including studies of Locke (Tully, Carey, Dawson), Rousseau (Rosenblatt), Smith (Forman-Barzilai), Mandeville (Goldsmith and Hundert), Thomasius (Hunter), the reception of Hobbes (Parkin), and a now-classic account of the ideological origins of the French Revolution (Baker).1 Of no less significance are broader-gauged examinations of the \u201ccommon good\u201d (Miller), \u201cluxury\u201d (Berry), and \u201cempire\u201d (Brown, Armitage), as well [End Page 677] as explorations of the Enlightenment\u2019s relationship to Rational Dissenters (Haakonssen) and Judaism (Sutcliffe) and its debts to theories of natural law (Hochstrasser and Hunter).2 The nexus of commerce, politics, and history has also been a major concern of the series (Pocock, Tribe, Winch, Force, Robertson).3 But a tally of this sort only begins to register the significance of Ideas in Context for studies of the Enlightenment. As might be expected from a series ably shepherded by Quentin Skinner, significant methodological questions have also come to the fore. According to the statement that stands at the front of each volume, the goal of the series is to trace \u201cthe emergence of intellectual traditions and of related new disciplines\u201d by setting the \u201cprocedures, aims, and vocabularies\u201d generated by these traditions and disciplines in the context of the \u201cideas and institutions\u201d in which they developed. If the way in which this setting of ideas in contexts was to be effected might not have been entirely clear from the programmatic essay in the inaugural volume (though jointly signed by Skinner, Jerome Schneewind, and Richard Rorty, it was, as Richard Fisher has recently explained, \u201clargely written\u201d by Rorty and \u201ctonally rather different to much of what has followed\u201d),4 such matters would be [End Page 678] clarified considerably by the second volume in the series, J. G. A. Pocock\u2019s Virtue, Commerce, and History. Reviewing recent developments in the history of political thought, Pocock observed that the \u201chistory of thought (and even more sharply \u2018of ideas\u2019)\u201d was being supplanted by a \u201chistory of speech\u201d or a \u201chistory of discourse.\u201d5 An overview of what such a history might look like quickly followed: The Languages of Political Theory in Early-Modern Europe, a volume tracing the various discourses in which political thought had been conducted from the Renaissance to the dawn of the nineteenth century.6 In his contribution to the volume, Pocock observed that the ability to say anything presupposed \u201ca language to say it in,\u201d which suggested that the relationship of ideas to contexts might be conceived along the lines of that between parole and langue.7 While the volumes that followed were not limited to products of what came to be called the \u201cCambridge School\u201d (and while not all of those associated with the \u201cCambridge School\u201d embraced the analogy Pocock was proposing), a concern with the discursive context in which arguments were conducted has implications for accounts of the Enlightenment. \u201cEnlightenment\u201d can be used both to designate a particular historical period (i.e., \u201cthe Enlightenment\u201d) and to refer to a process (i.e., \u201cenlightenment\u201d) that, though associated with certain historical periods, is captive to none of them. Drawing out the implications of the \u201chistory of discourse\u201d that Pocock, Skinner, and their colleagues were developing, \u201cthe Enlightenment\u201d\u2014as a discursive context in which things could be said (and, hence, done)\u2014might be seen as a sort of langue, while \u201cenlightenment\u201d might be understood as encompassing a variety of activities, the bulk of them presumably occurring within the discursive context known as \u201cthe Enlightenment.\u201d Thinking about the Enlightenment in this way stands in sharp contrast both to Ernst Cassirer\u2019s attempt to grasp \u201cits conceptual origins\u201d and \u201cunderlying principle\u201d and to Peter Gay\u2019s identification of it with the \u201clittle flock of philosophes\u201d who, though adhering to no single party line, nevertheless constituted the \u201cparty of humanity.\u201d8 Against Cassirer (and, momentarily, in company with Gay), an attention to texts and discursive [End Page...",
+      "cited_by_count": 18,
       "type": "article",
       "source": {
-        "name": "American Sociological Review",
+        "name": "Journal of the History of Ideas",
         "type": "journal",
         "issn": [
-          "0003-1224",
-          "1939-8271"
+          "0022-5037",
+          "1086-3222"
         ]
       },
       "open_access": {
@@ -366,1524 +421,487 @@
         "oa_url": null
       },
       "topics": [
-        "Social and Cultural Dynamics",
-        "Cultural Differences and Values",
-        "Social and Intergroup Psychology"
+        "Political Theory and Influence",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "American Constitutional Law and Politics"
       ],
-      "referenced_works_count": 153,
-      "url": "https://openalex.org/W2132585345"
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W2139290123"
     },
     {
-      "openalex_id": "W2108344016",
-      "doi": "10.1016/s0140-6736(12)61729-2",
-      "title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990\u20132010: a systematic analysis for the Global Burden of Disease Study 2010",
+      "openalex_id": "W2503385226",
+      "doi": "10.1007/978-1-349-24779-0_3",
+      "title": "Grotius, Law, and Moral Scepticism: Theory and Practice in the Thought of Hedley Bull",
       "authors": [
         {
-          "name": "Theo Vos",
-          "openalex_id": "A5007119101",
-          "orcid": "https://orcid.org/0000-0002-5690-5365"
-        },
-        {
-          "name": "Abraham D Flaxman",
-          "openalex_id": "A5108084990",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Mohsen Naghavi",
-          "openalex_id": "A5011259455",
-          "orcid": "https://orcid.org/0000-0002-6209-1513",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Rafael Lozano",
-          "openalex_id": "A5033705370",
-          "orcid": "https://orcid.org/0000-0002-7356-8823",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Catherine Michaud",
-          "openalex_id": "A5106037346",
-          "institutions": [
-            "China Medical Board"
-          ]
-        },
-        {
-          "name": "Majid Ezzati",
-          "openalex_id": "A5055670978",
-          "orcid": "https://orcid.org/0000-0002-2109-8081"
-        },
-        {
-          "name": "Kenji Shibuya",
-          "openalex_id": "A5082274727",
-          "orcid": "https://orcid.org/0000-0003-2528-7530"
-        },
-        {
-          "name": "Joshua A. Salomon",
-          "openalex_id": "A5059135593",
-          "orcid": "https://orcid.org/0000-0003-3929-5515",
-          "institutions": [
-            "Harvard University"
-          ]
-        },
-        {
-          "name": "Safa Abdalla",
-          "openalex_id": "A5062010740",
-          "orcid": "https://orcid.org/0000-0001-8476-4080"
-        },
-        {
-          "name": "Victor Aboyans",
-          "openalex_id": "A5061188268",
-          "orcid": "https://orcid.org/0000-0002-0322-9818"
-        },
-        {
-          "name": "Jerry Abraham",
-          "openalex_id": "A5044888998",
-          "orcid": "https://orcid.org/0009-0006-0798-7786",
-          "institutions": [
-            "The University of Texas at San Antonio"
-          ]
-        },
-        {
-          "name": "Ilana N. Ackerman",
-          "openalex_id": "A5053699466",
-          "orcid": "https://orcid.org/0000-0002-6028-1612",
-          "institutions": [
-            "The University of Melbourne"
-          ]
-        },
-        {
-          "name": "Rakesh Aggarwal",
-          "openalex_id": "A5001428430",
-          "orcid": "https://orcid.org/0000-0001-9689-494X",
-          "institutions": [
-            "Sanjay Gandhi Post Graduate Institute of Medical Sciences"
-          ]
-        },
-        {
-          "name": "Stephanie Y Ahn",
-          "openalex_id": "A5029131023",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Mohammed K. Ali",
-          "openalex_id": "A5100680450",
-          "orcid": "https://orcid.org/0000-0001-7266-2503",
-          "institutions": [
-            "Emory University"
-          ]
-        },
-        {
-          "name": "Mohammad A. AlMazroa",
-          "openalex_id": "A5106923337",
-          "institutions": [
-            "Ministry of Health"
-          ]
-        },
-        {
-          "name": "Miriam Alvarado",
-          "openalex_id": "A5062029752",
-          "orcid": "https://orcid.org/0000-0003-2864-9410",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "H Ross Anderson",
-          "openalex_id": "A5110075787",
-          "institutions": [
-            "St George's, University of London"
-          ]
-        },
-        {
-          "name": "Laurie Anderson",
-          "openalex_id": "A5033783133",
-          "institutions": [
-            "Public Health \u2013 Seattle & King County"
-          ]
-        },
-        {
-          "name": "Kathryn Andrews",
-          "openalex_id": "A5046889147",
-          "orcid": "https://orcid.org/0000-0002-7782-1152",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Charles Atkinson",
-          "openalex_id": "A5112384805",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Larry M. Baddour",
-          "openalex_id": "A5055691879",
-          "orcid": "https://orcid.org/0000-0002-4473-7077",
-          "institutions": [
-            "Mayo Clinic in Arizona"
-          ]
-        },
-        {
-          "name": "Adil N Bahalim",
-          "openalex_id": "A5028556470"
-        },
-        {
-          "name": "Suzanne Barker\u2010Collo",
-          "openalex_id": "A5014574924",
-          "orcid": "https://orcid.org/0000-0002-8659-0202",
-          "institutions": [
-            "University of Auckland"
-          ]
-        },
-        {
-          "name": "Lope H. Barrero",
-          "openalex_id": "A5046463442",
-          "orcid": "https://orcid.org/0000-0003-1503-0264",
-          "institutions": [
-            "Pontificia Universidad Javeriana"
-          ]
-        },
-        {
-          "name": "David Bartels",
-          "openalex_id": "A5083535575",
-          "institutions": [
-            "Harvard University"
-          ]
-        },
-        {
-          "name": "Mar\u0131\u0301a-Gloria Bas\u00e1\u00f1ez",
-          "openalex_id": "A5063396041",
-          "orcid": "https://orcid.org/0000-0001-5031-3361",
-          "institutions": [
-            "Imperial College London"
-          ]
-        },
-        {
-          "name": "Amanda Baxter",
-          "openalex_id": "A5045639587",
-          "orcid": "https://orcid.org/0000-0001-8198-9022",
-          "institutions": [
-            "Queensland Centre for Mental Health Research"
-          ]
-        },
-        {
-          "name": "Michelle L. Bell",
-          "openalex_id": "A5010365641",
-          "orcid": "https://orcid.org/0000-0002-3965-1359",
-          "institutions": [
-            "Yale University"
-          ]
-        },
-        {
-          "name": "Emelia J. Benjamin",
-          "openalex_id": "A5064309113",
-          "orcid": "https://orcid.org/0000-0003-4076-2336"
-        },
-        {
-          "name": "Derrick Bennett",
-          "openalex_id": "A5063906396",
-          "orcid": "https://orcid.org/0000-0002-9170-8447",
-          "institutions": [
-            "MRC Clinical Trials Unit at UCL"
-          ]
-        },
-        {
-          "name": "Eduardo Bernab\u00e9",
-          "openalex_id": "A5003653484",
-          "orcid": "https://orcid.org/0000-0002-1858-3713",
-          "institutions": [
-            "Eastman Dental Hospital"
-          ]
-        },
-        {
-          "name": "Kavi Bhalla",
-          "openalex_id": "A5105887088",
-          "institutions": [
-            "Harvard University"
-          ]
-        },
-        {
-          "name": "Bishal Bhandari",
-          "openalex_id": "A5005097260",
-          "orcid": "https://orcid.org/0000-0002-6142-7740",
-          "institutions": [
-            "Queen Mary University of London"
-          ]
-        },
-        {
-          "name": "Boris Bikbov",
-          "openalex_id": "A5045046521",
-          "orcid": "https://orcid.org/0000-0002-1925-7506",
-          "institutions": [
-            "Moscow State University of Medicine and Dentistry",
-            "V.I.Shumakov Federal Research Center of Transplantology and Artificial Organs"
-          ]
-        },
-        {
-          "name": "Aref Bin Abdulhak",
-          "openalex_id": "A5110171556",
-          "institutions": [
-            "King Fahd Medical City"
-          ]
-        },
-        {
-          "name": "Gretchen L. Birbeck",
-          "openalex_id": "A5013380406",
-          "orcid": "https://orcid.org/0000-0002-0735-3461",
-          "institutions": [
-            "Michigan State University"
-          ]
-        },
-        {
-          "name": "James A Black",
-          "openalex_id": "A5081393660",
-          "orcid": "https://orcid.org/0000-0002-2200-3179",
-          "institutions": [
-            "MRC Epidemiology Unit"
-          ]
-        },
-        {
-          "name": "Hannah Blencowe",
-          "openalex_id": "A5046711282",
-          "orcid": "https://orcid.org/0000-0003-1556-3159",
-          "institutions": [
-            "London School of Hygiene & Tropical Medicine"
-          ]
-        },
-        {
-          "name": "Jed D Blore",
-          "openalex_id": "A5038109773",
-          "orcid": "https://orcid.org/0000-0002-3649-8686"
-        },
-        {
-          "name": "Fiona Blyth",
-          "openalex_id": "A5069906869",
-          "orcid": "https://orcid.org/0000-0003-1128-6756",
-          "institutions": [
-            "The University of Sydney"
-          ]
-        },
-        {
-          "name": "Ian Bolliger",
-          "openalex_id": "A5010426013",
-          "orcid": "https://orcid.org/0000-0001-8055-297X",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Audrey Bonaventure",
-          "openalex_id": "A5002540582",
-          "orcid": "https://orcid.org/0000-0001-6665-8145",
-          "institutions": [
-            "Inserm"
-          ]
-        },
-        {
-          "name": "Soufiane Boufous",
-          "openalex_id": "A5089238207",
-          "orcid": "https://orcid.org/0000-0002-5686-1729"
-        },
-        {
-          "name": "Rupert Bourne",
-          "openalex_id": "A5045824020",
-          "orcid": "https://orcid.org/0000-0002-8169-1645",
-          "institutions": [
-            "Anglia Ruskin University"
-          ]
-        },
-        {
-          "name": "Michel Boussinesq",
-          "openalex_id": "A5089460160",
-          "orcid": "https://orcid.org/0000-0001-6312-0681",
-          "institutions": [
-            "Institut de Recherche pour le D\u00e9veloppement"
-          ]
-        },
-        {
-          "name": "Tasanee Braithwaite",
-          "openalex_id": "A5082582215",
-          "orcid": "https://orcid.org/0000-0002-3025-4066",
-          "institutions": [
-            "Moorfields Eye Hospital",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Carol Brayne",
-          "openalex_id": "A5085651175",
-          "orcid": "https://orcid.org/0000-0001-5307-663X",
-          "institutions": [
-            "University of Cambridge"
-          ]
-        },
-        {
-          "name": "Lisa Bridgett",
-          "openalex_id": "A5068207054",
-          "institutions": [
-            "The University of Sydney"
-          ]
-        },
-        {
-          "name": "Simon Brooker",
-          "openalex_id": "A5106792057",
-          "institutions": [
-            "London School of Hygiene & Tropical Medicine"
-          ]
-        },
-        {
-          "name": "Peter Brooks",
-          "openalex_id": "A5030544708",
-          "orcid": "https://orcid.org/0000-0001-7733-7750",
-          "institutions": [
-            "The University of Melbourne"
-          ]
-        },
-        {
-          "name": "Traolach Brugha",
-          "openalex_id": "A5041013576",
-          "orcid": "https://orcid.org/0000-0002-9786-9591",
-          "institutions": [
-            "University of Leicester"
-          ]
-        },
-        {
-          "name": "Claire Bryan-Hancock",
-          "openalex_id": "A5037027128",
-          "institutions": [
-            "Flinders University"
-          ]
-        },
-        {
-          "name": "Chiara Bucello",
-          "openalex_id": "A5105936063",
-          "institutions": [
-            "UNSW Sydney"
-          ]
-        },
-        {
-          "name": "Rachelle Buchbinder",
-          "openalex_id": "A5036470851",
-          "orcid": "https://orcid.org/0000-0002-0597-0933",
-          "institutions": [
-            "Cabrini Hospital",
-            "Monash University"
-          ]
-        },
-        {
-          "name": "Geoffrey Buckle",
-          "openalex_id": "A5087858032",
-          "orcid": "https://orcid.org/0000-0001-7721-0397",
-          "institutions": [
-            "Johns Hopkins University"
-          ]
-        },
-        {
-          "name": "Christine M. Budke",
-          "openalex_id": "A5062609193",
-          "orcid": "https://orcid.org/0000-0002-4750-0905",
-          "institutions": [
-            "Texas A&M University"
-          ]
-        },
-        {
-          "name": "Michael Burch",
-          "openalex_id": "A5107839771",
-          "institutions": [
-            "Great Ormond Street Hospital",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Peter Burney",
-          "openalex_id": "A5044492838",
-          "orcid": "https://orcid.org/0000-0001-8635-5678",
-          "institutions": [
-            "Imperial College London"
-          ]
-        },
-        {
-          "name": "Roy Burstein",
-          "openalex_id": "A5035079579",
-          "orcid": "https://orcid.org/0000-0001-8991-4762",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Bianca Calabria",
-          "openalex_id": "A5053895312",
-          "orcid": "https://orcid.org/0000-0001-6444-4696"
-        },
-        {
-          "name": "Benjamin Campbell",
-          "openalex_id": "A5080092707",
-          "orcid": "https://orcid.org/0000-0003-3497-3735",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Charles E. Canter",
-          "openalex_id": "A5003497085",
-          "orcid": "https://orcid.org/0000-0002-0007-7337",
-          "institutions": [
-            "Washington University in St. Louis"
-          ]
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Carabin",
-          "openalex_id": "A5108401525",
-          "institutions": [
-            "University of Oklahoma Health Sciences Center"
-          ]
-        },
-        {
-          "name": "Jonathan R. Carapetis",
-          "openalex_id": "A5023976277",
-          "orcid": "https://orcid.org/0000-0002-1182-9792",
-          "institutions": [
-            "The Kids Research Institute Australia"
-          ]
-        },
-        {
-          "name": "Loreto Carmona",
-          "openalex_id": "A5001730778",
-          "orcid": "https://orcid.org/0000-0002-4401-2551",
-          "institutions": [
-            "Camilo Jos\u00e9 Cela University"
-          ]
-        },
-        {
-          "name": "Claudia Cella",
-          "openalex_id": "A5086109350",
-          "orcid": "https://orcid.org/0000-0002-9210-0775",
-          "institutions": [
-            "Mario Negri Institute for Pharmacological Research"
-          ]
-        },
-        {
-          "name": "Fiona Charlson",
-          "openalex_id": "A5050370220",
-          "orcid": "https://orcid.org/0000-0003-2876-5040"
-        },
-        {
-          "name": "Honglei Chen",
-          "openalex_id": "A5010092165",
-          "orcid": "https://orcid.org/0000-0003-3446-7779",
-          "institutions": [
-            "Triangle",
-            "National Institute of Environmental Health Sciences"
-          ]
-        },
-        {
-          "name": "Andrew Tai-Ann Cheng",
-          "openalex_id": "A5110203348",
-          "institutions": [
-            "Institute of Biomedical Sciences, Academia Sinica"
-          ]
-        },
-        {
-          "name": "David Chou",
-          "openalex_id": "A5065150204",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Sumeet S. Chugh",
-          "openalex_id": "A5002927065",
-          "orcid": "https://orcid.org/0000-0002-4417-5326",
-          "institutions": [
-            "Cedars-Sinai Medical Center"
-          ]
-        },
-        {
-          "name": "Luc E. Coffeng",
-          "openalex_id": "A5080298922",
-          "orcid": "https://orcid.org/0000-0002-4425-2264",
-          "institutions": [
-            "Erasmus MC"
-          ]
-        },
-        {
-          "name": "Steven D Colan",
-          "openalex_id": "A5108093769",
-          "institutions": [
-            "Boston Children's Hospital",
-            "Harvard University"
-          ]
-        },
-        {
-          "name": "Samantha Colquhoun",
-          "openalex_id": "A5061396447",
-          "orcid": "https://orcid.org/0000-0002-6750-1147",
-          "institutions": [
-            "Menzies School of Health Research"
-          ]
-        },
-        {
-          "name": "K. Ellicott Colson",
-          "openalex_id": "A5106039053",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "John R. Condon",
-          "openalex_id": "A5065347744",
-          "orcid": "https://orcid.org/0000-0003-4952-0990",
-          "institutions": [
-            "Menzies School of Health Research"
-          ]
-        },
-        {
-          "name": "Myles Connor",
-          "openalex_id": "A5111368322",
-          "institutions": [
-            "National Health Service Scotland",
-            "University of the Witwatersrand",
-            "University of Edinburgh"
-          ]
-        },
-        {
-          "name": "Leslie T. Cooper",
-          "openalex_id": "A5050860766",
-          "orcid": "https://orcid.org/0000-0003-1002-3313"
-        },
-        {
-          "name": "Matthew Corriere",
-          "openalex_id": "A5105935876",
-          "institutions": [
-            "Wake Forest University"
-          ]
-        },
-        {
-          "name": "Monica Cortinovis",
-          "openalex_id": "A5111878875",
-          "institutions": [
-            "Mario Negri Institute for Pharmacological Research"
-          ]
-        },
-        {
-          "name": "Karen Courville de Vaccaro",
-          "openalex_id": "",
-          "institutions": [
-            "Hospital del Ni\u00f1o"
-          ]
-        },
-        {
-          "name": "William Couser",
-          "openalex_id": "A5105973771",
-          "institutions": [
-            "University of Washington"
-          ]
-        },
-        {
-          "name": "Benjamin C Cowie",
-          "openalex_id": "",
-          "institutions": [
-            "Victorian Infectious Diseases Reference Laboratory"
-          ]
-        },
-        {
-          "name": "Michael H Criqui",
-          "openalex_id": "A5108806687",
-          "institutions": [
-            "University of California San Diego"
-          ]
-        },
-        {
-          "name": "Marita Cross",
-          "openalex_id": "A5013084446",
-          "orcid": "https://orcid.org/0000-0003-2717-8960",
-          "institutions": [
-            "The University of Sydney"
-          ]
-        },
-        {
-          "name": "Kaustubh Dabhadkar",
-          "openalex_id": "A5019689738",
-          "institutions": [
-            "Emory University"
-          ]
-        },
-        {
-          "name": "Manu Dahiya",
-          "openalex_id": "A5113662909"
-        },
-        {
-          "name": "Nabila Dahodwala",
-          "openalex_id": "A5083598511",
-          "orcid": "https://orcid.org/0000-0003-3659-0244",
-          "institutions": [
-            "University of Pennsylvania"
-          ]
-        },
-        {
-          "name": "James Damsere-Derry",
-          "openalex_id": "A5076889243"
-        },
-        {
-          "name": "Goodarz Danaei",
-          "openalex_id": "A5040825196",
-          "orcid": "https://orcid.org/0000-0003-2456-5463",
-          "institutions": [
-            "Harvard University"
-          ]
-        },
-        {
-          "name": "Adrian Davis",
-          "openalex_id": "A5046431320",
-          "orcid": "https://orcid.org/0000-0001-7134-7528"
-        },
-        {
-          "name": "Diego De Leo",
-          "openalex_id": "A5112366971",
-          "institutions": [
-            "Griffith University"
-          ]
-        },
-        {
-          "name": "Louisa Degenhardt",
-          "openalex_id": "A5007290128",
-          "orcid": "https://orcid.org/0000-0002-8513-2218"
-        },
-        {
-          "name": "Robert P. Dellavalle",
-          "openalex_id": "A5090712336",
-          "orcid": "https://orcid.org/0000-0001-8132-088X",
-          "institutions": [
-            "Denver VA Medical Center"
-          ]
-        },
-        {
-          "name": "Allyne Delossantos",
-          "openalex_id": "A5105987477",
-          "institutions": [
-            "Institute for Health Metrics and Evaluation"
-          ]
-        },
-        {
-          "name": "Julie O. Denenberg",
-          "openalex_id": "A5005318188",
-          "institutions": [
-            "University of California San Diego"
-          ]
-        },
-        {
-          "name": "Sarah Derrett",
-          "openalex_id": "A5021576811",
-          "orcid": "https://orcid.org/0000-0003-2867-0498",
-          "institutions": [
-            "University of Otago"
-          ]
-        },
-        {
-          "name": "Don C. Des Jarlais",
-          "openalex_id": "A5080704496",
-          "orcid": "https://orcid.org/0000-0002-0157-8168",
-          "institutions": [
-            "Mount Sinai Beth Israel"
-          ]
-        },
-        {
-          "name": "Samath Dhamminda Dharmaratne",
-          "openalex_id": "A5032344410",
-          "orcid": "https://orcid.org/0000-0003-4144-2107",
-          "institutions": [
-            "University of Peradeniya",
-            "Institute for Health Metrics and Evaluation"
-          ]
+          "name": "Benedict Kingsbury",
+          "openalex_id": "A5072699335"
         }
       ],
-      "publication_year": 2012,
-      "publication_date": "2012-12-01",
-      "abstract": null,
-      "cited_by_count": 8373,
-      "type": "article",
-      "source": {
-        "name": "The Lancet",
-        "type": "journal",
-        "issn": [
-          "0140-6736",
-          "1474-547X"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://openrepository.aut.ac.nz/bitstreams/2dc3b648-470c-4fcc-a8a2-9f7c3313607b/download"
-      },
-      "topics": [
-        "Frailty in Older Adults",
-        "Chronic Disease Management Strategies",
-        "Health Systems, Economic Evaluations, Quality of Life"
-      ],
-      "referenced_works_count": 108,
-      "url": "https://openalex.org/W2108344016"
-    },
-    {
-      "openalex_id": "W2323204703",
-      "doi": "10.1017/s0003055400187027",
-      "title": "Interpretation and the History of Political Theory: Apology and Epistemology",
-      "authors": [
-        {
-          "name": "John G. Gunnell",
-          "openalex_id": "A5016391316",
-          "institutions": [
-            "University at Albany, State University of New York"
-          ]
-        }
-      ],
-      "publication_year": 1982,
-      "publication_date": "1982-06-01",
-      "abstract": "Recent challenges to traditional approaches and purposes for studying the history of political theory have raised questions about its constitution as both a subject matter and subfield of political science. Methodological arguments advocating what is characterized as a more truly historical mode of inquiry for understanding political ideas and recovering textual meaning have become increasingly popular. The relationship of these hermeneutical claims about historicity, such as that advanced by Quentin Skinner, to the actual practice of interpretation is problematical. Such claims are more a defense of a certain norm of historical investigation than a method of interpretation, and the implications of this norm for the reconstitution of the history of political theory require careful consideration.",
+      "publication_year": 1996,
+      "publication_date": "1996-01-01",
+      "abstract": "Hugo Grotius (1583\u20131645) was accorded a prominent position in the canon of that approach to \u2018classical theories of international relations\u2019 developed by Martin Wight, Hedley Bull, and others in the British Committee on the Theory of International Politics\u2014an approach that was both the inheritance and the legacy of the much-missed R. J. Vincent. Wight posited a \u2018Grotian tradition\u2019 of thought, which he used in counterpoint with other traditions (Machiavellian/Hobbesian, Kantian) to elucidate important problems in international relations. Bull adopted from Wight much of the language of the three traditions, while pointing explicitly to their limitations, but Bull\u2019s systematic rigour caused him to distinguish sharply between the writings of Grotius and the tenets of a \u2018Grotian tradition\u2019, and he was decidedly cautious as to the senses in which any such tradition could usefully be said to exist. Bull more than Wight produced analyses of particular works of Grotius intended to demonstrate, quite apart from any connections with \u2018neo-Grotians\u2019 or a \u2018Grotian tradition\u2019, their intrinsic interest for modern students of international relations. In these various enterprises Wight and Bull were influenced by the varying but increasing interest in Grotius among international lawyers from about the middle of the nineteenth century, and especially by the efforts of Van Vollenhoven and Lauterpacht in the wake of the two world wars to expound a \u2018Grotian tradition\u2019 of international law for the twentieth century. This chapter deals with aspects of Bull\u2019s use of Grotius, focusing in particular on Bull\u2019s reluctance to follow Grotius\u2019s views on the nature of law and on the possibilities of moral commitment in the face of the challenge of moral scepticism. Writing about Grotius in international law and relations has treated Grotius primarily (although not exclusively) through analysis, against the background of his biography and the history of his period, of a small though important subset of his extensive oeuvre. Vastly the most important of these has been De Jure Belli ac Pacis (On the Law of War and Peace, JBP), completed in 1624 and first published in 1625. That JBP received significant attention is evident from the numerous subsequent editions (Grotius himself worked on editions published in 1631, 1632, 1642, and 1646) and translations, although a comprehensive study of its intellectual impact has not yet appeared. Grotius also had an impact on contemporaries and subsequent generations through Mare Liberum (Freedom of the Seas), which was published (anonymously at first) in 1609, apparently with a view to providing juridical support for positions taken by Grotius\u2019s patron Oldenbarnevelt in the domestic and international political manoeuvring leading to the 1609 truce between the United Provinces and Spain. The main lines of JBP, and the entirety of Mare Liberum, were anticipated in De Jure Praedae (The Law of Prize) (JP), written in the period 1604\u20136 as a work of legal advocacy connected with the seizure by a vessel of the Dutch East India Company (the VOC) of the Portuguese carrack the Catharine. Because JP was substantially unknown until the rediscovery of the manuscript in 1864 and its publication four years later, JP had little direct impact on the development of ideas, although it has attracted considerable scholarly attention as evidence of Grotius\u2019s thought in the milieu of the period, and it is of great value in understanding the structure and arguments of JBP. The work of Quentin Skinner, J. G. A. Pocock, Richard Tuck, and others of the historiens historisants represents a methodological reproach both to the decontextualized analysis of historic texts of Western political theory, and to loose assertions about the existence of 400-year traditions of thought. These writers have sought to locate each author in close intellectual context, recovering the normative vocabulary available to the author from earlier writings then accessible, tracing the author\u2019s intellectual formation and inheritance, and connecting the author\u2019s texts with the political, theological, social, and intellectual debates or circumstances that seem to have affected them. For the historiens historisants, as Pocock once put it, \u2018history of theory cannot be written as that of a dialogue between figures in a canonical tradition\u2019\u2014the organisation of history into a canonical dialogue is to reduce history to historical drama, in which the canonical actors are isolated in each other\u2019s company and can be interacting with each other only in accordance with the ideal of the author. The canonical dialogue may be theory, but it is not history of theory. \u2018The text as the theorist reads it is not the same things as the text as event, or part of an event, reconstituted by historians. If the historian must abstain from deconstructing the theorist\u2019s encounter, the theorist must abstain from trying to reconstruct history. . . . If the two are combined, the result must be pseudohistory, myth-as-history, or Popperian historicism.\u2019 For a historian of the Pocock/Skinner school, Grotius \u2018demands assignation to contexts: to his own, which we must recover if we are to understand him, and to our own, in which we must read him if we are to interpret him.\u2019",
       "cited_by_count": 21,
-      "type": "article",
+      "type": "book-chapter",
       "source": {
-        "name": "American Political Science Review",
-        "type": "journal",
-        "issn": [
-          "0003-0554",
-          "1537-5943"
-        ]
-      },
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null
-      },
-      "topics": [
-        "Political Theory and Influence",
-        "American Constitutional Law and Politics"
-      ],
-      "referenced_works_count": 30,
-      "url": "https://openalex.org/W2323204703"
-    },
-    {
-      "openalex_id": "W2121005211",
-      "doi": "10.1162/003355300554881",
-      "title": "Economics and Identity*",
-      "authors": [
-        {
-          "name": "George A. Akerlof",
-          "openalex_id": "A5081873388",
-          "orcid": "https://orcid.org/0000-0003-3049-6038",
-          "institutions": [
-            "Brookings Institution"
-          ]
-        },
-        {
-          "name": "Rachel Kranton",
-          "openalex_id": "A5013106901",
-          "institutions": [
-            "University of Maryland, College Park"
-          ]
-        }
-      ],
-      "publication_year": 2000,
-      "publication_date": "2000-08-01",
-      "abstract": "This paper considers how identity, a person's sense of self, affects economic outcomes. We incorporate the psychology and sociology of identity into an economic model of behavior. In the utility function we propose, identity is associated with different social categories and how people in these categories should behave. We then construct a simple game-theoretic model showing how identity can affect individual interactions. The paper adapts these models to gender discrimination in the workplace, the economics of poverty and social exclusion, and the household division of labor. In each case, the inclusion of identity substantively changes conclusions of previous economic analysis.",
-      "cited_by_count": 5580,
-      "type": "article",
-      "source": {
-        "name": "The Quarterly Journal of Economics",
-        "type": "journal",
-        "issn": [
-          "0033-5533",
-          "1531-4650"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://hdl.handle.net/10161/1993"
-      },
-      "topics": [
-        "Gender, Labor, and Family Dynamics",
-        "Economic Policies and Impacts",
-        "Labor market dynamics and wage inequality"
-      ],
-      "referenced_works_count": 81,
-      "url": "https://openalex.org/W2121005211"
-    },
-    {
-      "openalex_id": "W2769724041",
-      "doi": "10.1177/0333102413485658",
-      "title": "The International Classification of Headache Disorders, 3rd edition (beta version)",
-      "authors": [
-        {
-          "name": "Ettlin, Dominik A",
-          "openalex_id": "",
-          "orcid": "https://orcid.org/0000-0001-7353-073X"
-        }
-      ],
-      "publication_year": 2013,
-      "publication_date": "2013-06-14",
-      "abstract": "eISSN 1468-2982.",
-      "cited_by_count": 8208,
-      "type": "article",
-      "source": {
-        "name": "Cephalalgia",
-        "type": "journal",
-        "issn": [
-          "0333-1024",
-          "1468-2982"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/0333102413485658"
-      },
-      "topics": [
-        "Migraine and Headache Studies",
-        "Cardiovascular Syncope and Autonomic Disorders",
-        "Sympathectomy and Hyperhidrosis Treatments"
-      ],
-      "referenced_works_count": 4,
-      "url": "https://openalex.org/W2769724041"
-    },
-    {
-      "openalex_id": "W4211130665",
-      "doi": "10.1111/j.1745-6924.2008.00088.x",
-      "title": "Rethinking Rumination",
-      "authors": [
-        {
-          "name": "Susan Nolen\u2013Hoeksema",
-          "openalex_id": "A5003884226",
-          "institutions": [
-            "Yale University"
-          ]
-        },
-        {
-          "name": "Blair E. Wisco",
-          "openalex_id": "A5066942592",
-          "orcid": "https://orcid.org/0000-0003-2412-9012",
-          "institutions": [
-            "Yale University"
-          ]
-        },
-        {
-          "name": "Sonja Lyubomirsky",
-          "openalex_id": "A5056418657",
-          "orcid": "https://orcid.org/0000-0003-0727-5595",
-          "institutions": [
-            "University of California, Riverside"
-          ]
-        }
-      ],
-      "publication_year": 2008,
-      "publication_date": "2008-09-01",
-      "abstract": "The response styles theory (Nolen-Hoeksema, 1991) was proposed to explain the insidious relationship between rumination and depression. We review the aspects of the response styles theory that have been well-supported, including evidence that rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support. Next, we address contradictory and new findings. Specifically, rumination appears to more consistently predict the onset of depression rather than the duration, but rumination interacts with negative cognitive styles to predict the duration of depressive symptoms. Contrary to original predictions, the use of positive distractions has not consistently been correlated with lower levels of depressive symptoms in correlational studies, although dozens of experimental studies show positive distractions relieve depressed mood. Further, evidence now suggests that rumination is associated with psychopathologies in addition to depression, including anxiety, binge eating, binge drinking, and self-harm. We discuss the relationships between rumination and worry and between rumination and other coping or emotion-regulation strategies. Finally, we highlight recent research on the distinction between rumination and more adaptive forms of self-reflection, on basic cognitive deficits or biases in rumination, on its neural and genetic correlates, and on possible interventions to combat rumination.",
-      "cited_by_count": 4984,
-      "type": "article",
-      "source": {
-        "name": "Perspectives on Psychological Science",
-        "type": "journal",
-        "issn": [
-          "1745-6916",
-          "1745-6924"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://escholarship.org/uc/item/8544f7w2"
-      },
-      "topics": [
-        "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
-        "Child and Adolescent Psychosocial and Emotional Development",
-        "Youth Substance Use and School Attendance"
-      ],
-      "referenced_works_count": 209,
-      "url": "https://openalex.org/W4211130665"
-    },
-    {
-      "openalex_id": "W2109151141",
-      "doi": "10.1177/1461445605054407",
-      "title": "Identity and interaction: a sociocultural linguistic approach",
-      "authors": [
-        {
-          "name": "Mary Bucholtz",
-          "openalex_id": "A5042810966",
-          "orcid": "https://orcid.org/0000-0001-7343-3374",
-          "institutions": [
-            "University of California, Santa Barbara"
-          ]
-        },
-        {
-          "name": "Kira Hall",
-          "openalex_id": "A5002447647",
-          "orcid": "https://orcid.org/0000-0002-0456-4730",
-          "institutions": [
-            "University of Colorado System"
-          ]
-        }
-      ],
-      "publication_year": 2005,
-      "publication_date": "2005-10-01",
-      "abstract": "The article proposes a framework for the analysis of identity as produced in linguistic interaction, based on the following principles: (1) identity is the product rather than the source of linguistic and other semiotic practices and therefore is a social and cultural rather than primarily internal psychological phenomenon; (2) identities encompass macro-level demographic categories, temporary and interactionally specific stances and participant roles, and local, ethnographically emergent cultural positions; (3) identities may be linguistically indexed through labels, implicatures, stances, styles, or linguistic structures and systems; (4) identities are relationally constructed through several, often overlapping, aspects of the relationship between self and other, including similarity/difference, genuineness/artifice and authority/ delegitimacy; and (5) identity may be in part intentional, in part habitual and less than fully conscious, in part an outcome of interactional negotiation, in part a construct of others\u2019 perceptions and representations, and in part an outcome of larger ideological processes and structures. The principles are illustrated through examination of a variety of linguistic interactions.",
-      "cited_by_count": 3658,
-      "type": "article",
-      "source": {
-        "name": "Discourse Studies",
-        "type": "journal",
-        "issn": [
-          "1461-4456",
-          "1461-7080"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://escholarship.org/content/qt5tk670n8/qt5tk670n8.pdf"
-      },
-      "topics": [
-        "Language, Discourse, Communication Strategies",
-        "Multilingual Education and Policy",
-        "Linguistic Variation and Morphology"
-      ],
-      "referenced_works_count": 133,
-      "url": "https://openalex.org/W2109151141"
-    },
-    {
-      "openalex_id": "W2112957339",
-      "doi": null,
-      "title": "Confronting the Challenges of Participatory Culture: Media Education for the 21st Century",
-      "authors": [
-        {
-          "name": "Henry Jenkins",
-          "openalex_id": "A5009274666",
-          "orcid": "https://orcid.org/0000-0003-2221-9583"
-        }
-      ],
-      "publication_year": 2006,
-      "publication_date": "2006-01-01",
-      "abstract": "Henry Jenkins, Director of the Comparative Media Studies Program at the Massachusetts Institute of Technology authored this white paper, exploring new frameworks and models for media literacy.",
-      "cited_by_count": 3191,
-      "type": "book",
-      "source": {
-        "name": "BiblioBoard Library Catalog (Open Research Library)",
-        "type": "repository",
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
         "issn": null
       },
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://openresearchlibrary.org/ext/api/media/035b2379-8107-48cf-a023-14a25c7f4243/assets/external_content.pdf"
-      },
-      "topics": [
-        "Literacy, Media, and Education",
-        "Digital Games and Media",
-        "Social Media and Politics"
-      ],
-      "referenced_works_count": 11,
-      "url": "https://openalex.org/W2112957339"
-    },
-    {
-      "openalex_id": "W2128879035",
-      "doi": "10.1002/tea.20237",
-      "title": "Understanding the science experiences of successful women of color: Science identity as an analytic lens",
-      "authors": [
-        {
-          "name": "Heidi B. Carlone",
-          "openalex_id": "A5085688450",
-          "orcid": "https://orcid.org/0000-0002-6801-0876",
-          "institutions": [
-            "University of North Carolina at Greensboro"
-          ]
-        },
-        {
-          "name": "Angela Johnson",
-          "openalex_id": "A5067962653",
-          "orcid": "https://orcid.org/0000-0002-2323-6230",
-          "institutions": [
-            "St. Mary's College of Maryland"
-          ]
-        }
-      ],
-      "publication_year": 2007,
-      "publication_date": "2007-09-11",
-      "abstract": "Abstract In this study, we develop a model of science identity to make sense of the science experiences of 15 successful women of color over the course of their undergraduate and graduate studies in science and into science\u2010related careers. In our view, science identity accounts both for how women make meaning of science experiences and how society structures possible meanings. Primary data included ethnographic interviews during students' undergraduate careers, follow\u2010up interviews 6 years later, and ongoing member\u2010checking. Our results highlight the importance of recognition by others for women in the three science identity trajectories: research scientist; altruistic scientist; and disrupted scientist. The women with research scientist identities were passionate about science and recognized themselves and were recognized by science faculty as science people. The women with altruistic scientist identities regarded science as a vehicle for altruism and created innovative meanings of \u201cscience,\u201d \u201crecognition by others,\u201d and \u201cwoman of color in science.\u201d The women with disrupted scientist identities sought, but did not often receive, recognition by meaningful scientific others. Although they were ultimately successful, their trajectories were more difficult because, in part, their bids for recognition were disrupted by the interaction with gendered, ethnic, and racial factors. This study clarifies theoretical conceptions of science identity, promotes a rethinking of recruitment and retention efforts, and illuminates various ways women of color experience, make meaning of, and negotiate the culture of science. \u00a9 2007 Wiley Periodicals, Inc. J Res Sci Teach 44: 1187\u20131218, 2007",
-      "cited_by_count": 2299,
-      "type": "article",
-      "source": {
-        "name": "Journal of Research in Science Teaching",
-        "type": "journal",
-        "issn": [
-          "0022-4308",
-          "1098-2736"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://libres.uncg.edu/ir/uncg/f/H_Carlone_Understanding_2007.pdf"
-      },
-      "topics": [
-        "Career Development and Diversity",
-        "Science Education and Perceptions",
-        "Doctoral Education Challenges and Solutions"
-      ],
-      "referenced_works_count": 90,
-      "url": "https://openalex.org/W2128879035"
-    },
-    {
-      "openalex_id": "W1995453178",
-      "doi": "10.1007/bf00992905",
-      "title": "The narrative constitution of identity: A relational and network approach",
-      "authors": [
-        {
-          "name": "Margaret R. Somers",
-          "openalex_id": "A5075342025",
-          "orcid": "https://orcid.org/0000-0003-4751-6808",
-          "institutions": [
-            "University of Michigan\u2013Ann Arbor"
-          ]
-        }
-      ],
-      "publication_year": 1994,
-      "publication_date": "1994-10-01",
-      "abstract": null,
-      "cited_by_count": 2878,
-      "type": "article",
-      "source": {
-        "name": "Theory and Society",
-        "type": "journal",
-        "issn": [
-          "0304-2421",
-          "1573-7853"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/BF00992905.pdf"
-      },
-      "topics": [
-        "Foucault, Power, and Ethics",
-        "Religion and Society Interactions",
-        "Community Health and Development"
-      ],
-      "referenced_works_count": 111,
-      "url": "https://openalex.org/W1995453178"
-    },
-    {
-      "openalex_id": "W583209683",
-      "doi": null,
-      "title": "Empiricism and the philosophy of mind",
-      "authors": [
-        {
-          "name": "Wilfrid Sellars",
-          "openalex_id": "A5022825057"
-        }
-      ],
-      "publication_year": 1997,
-      "publication_date": "1997-01-01",
-      "abstract": "being absorbed into the physical system.But apparently they want their laws to",
-      "cited_by_count": 2746,
-      "type": "book",
-      "source": {
-        "name": "University of Minnesota Digital Conservancy (University of Minnesota)",
-        "type": "repository",
-        "issn": null
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://hdl.handle.net/11299/184083"
-      },
-      "topics": [
-        "Philosophy and History of Science"
-      ],
-      "referenced_works_count": 6,
-      "url": "https://openalex.org/W583209683"
-    },
-    {
-      "openalex_id": "W4239211578",
-      "doi": "10.2307/1961112",
-      "title": "Interpretation and the History of Political Theory: Apology and Epistemology",
-      "authors": [
-        {
-          "name": "John G. Gunnell",
-          "openalex_id": "A5016391316",
-          "institutions": [
-            "University at Albany, State University of New York"
-          ]
-        }
-      ],
-      "publication_year": 1982,
-      "publication_date": "1982-06-01",
-      "abstract": "Recent challenges to traditional approaches and purposes for studying the history of political theory have raised questions about its constitution as both a subject matter and subfield of political science. Methodological arguments advocating what is characterized as a more truly historical mode of inquiry for understanding political ideas and recovering textual meaning have become increasingly popular. The relationship of these hermeneutical claims about historicity, such as that advanced by Quentin Skinner, to the actual practice of interpretation is problematical. Such claims are more a defense of a certain norm of historical investigation than a method of interpretation, and the implications of this norm for the reconstitution of the history of political theory require careful consideration.",
-      "cited_by_count": 10,
-      "type": "article",
-      "source": {
-        "name": "American Political Science Review",
-        "type": "journal",
-        "issn": [
-          "0003-0554",
-          "1537-5943"
-        ]
-      },
-      "open_access": {
         "is_oa": false,
         "oa_status": "closed",
         "oa_url": null
       },
       "topics": [
-        "Political Theory and Influence",
-        "American Constitutional Law and Politics"
+        "Global Peace and Security Dynamics",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Historical and Contemporary Political Dynamics"
       ],
-      "referenced_works_count": 21,
-      "url": "https://openalex.org/W4239211578"
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2503385226"
     },
     {
-      "openalex_id": "W2159966428",
-      "doi": "10.1017/s0010417500019587",
-      "title": "Resistance and the Problem of Ethnographic Refusal",
+      "openalex_id": "W4379537847",
+      "doi": "10.46938/tv.2023.572",
+      "title": "Quentin Skinner\u2019s Attempt to Clarify Collingwood",
       "authors": [
         {
-          "name": "Sherry B. Ortner",
-          "openalex_id": "A5077006435",
-          "orcid": "https://orcid.org/0000-0003-3391-9403",
+          "name": "David \u010cern\u00edn",
+          "openalex_id": "A5071744079",
+          "orcid": "https://orcid.org/0000-0001-8711-3929",
           "institutions": [
-            "University of California, Berkeley"
+            "University of Ostrava"
           ]
         }
       ],
-      "publication_year": 1995,
-      "publication_date": "1995-01-01",
-      "abstract": "This essay traces the effects of what I call ethnographic refusal on a series of studies surrounding the subject of resistance. 1 I argue that many of the most influential studies of resistance are severely limited by the lack of an ethnographic perspective. Resistance studies in turn are meant to stand in for a great deal of interdisciplinary work being done these days within and across the social sciences, history, literature, cultural studies, and so forth.",
-      "cited_by_count": 1781,
+      "publication_year": 2023,
+      "publication_date": "2023-06-06",
+      "abstract": "This paper examines the methodological propositions of Quentin Skinner, whose influence on intellectual history, including the history and philosophy of science (HPS), cannot be disregarded. It is well known that Skinner\u2019s method is based on John L. Austin\u2019s theory of speech acts. Nonetheless, the very idea of applying ordinary language philosophy to the subject matter of history rests on other assumptions that form Skinner\u2019s philosophy of historiography. The paper focuses on reconstructing this philosophy of historiography and especially on R. G. Collingwood as a primary source of inspiration. This famous British philosopher, historian, and archaeologist authored many inspirational texts concerning the historical craft. The complex and sometimes contradictory structure of his posthumously published texts requires careful interpretation, and many philosophers see Collingwood as an obscure thinker. The paper argues that even though Skinner openly denounces Collingwood\u2019s central concept of re-enactment, his philosophy of historiography is deeply influenced by a specific understanding of Collingwood\u2019s legacy.",
+      "cited_by_count": 2,
       "type": "article",
       "source": {
-        "name": "Comparative Studies in Society and History",
+        "name": "Teorie v\u011bdy / Theory of Science",
         "type": "journal",
         "issn": [
-          "0010-4175",
-          "1475-2999"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FA6036F289A7197C32DF8F3FEFFD7102/S0010417500019587a.pdf/div-class-title-resistance-and-the-problem-of-ethnographic-refusal-div.pdf"
-      },
-      "topics": [
-        "Anthropological Studies and Insights",
-        "Southeast Asian Sociopolitical Studies",
-        "Vietnamese History and Culture Studies"
-      ],
-      "referenced_works_count": 103,
-      "url": "https://openalex.org/W2159966428"
-    },
-    {
-      "openalex_id": "W2169024360",
-      "doi": "10.4324/9780203938690",
-      "title": "Handbook of Research on Teacher Education",
-      "authors": [
-        {
-          "name": "Marilyn Cochran-Smith",
-          "openalex_id": ""
-        },
-        {
-          "name": "Sharon Feiman-Nemser",
-          "openalex_id": ""
-        },
-        {
-          "name": "John McIntyre",
-          "openalex_id": ""
-        },
-        {
-          "name": "Kelly E. Demers",
-          "openalex_id": ""
-        }
-      ],
-      "publication_year": 2008,
-      "publication_date": "2008-02-19",
-      "abstract": "In this chapter we discuss social justice and teacher capacity, an amalgam of teachers\u2019 knowledge, skills and dispositions, by posing and answering three questions. How should education professionals define the concept of social justice? What is the relationship between teacher capacity and social justice? What are teacher educators doing in scholarship and practice to bring about social justice? Our purpose is to provide teacher educators with an overview of the concepts of social justice and teacher capacity, so they may understand the relationship between the two and consider how well they are contributing to Horace Mann\u2019s vision of education as the \u201cgreat equalizer.\u201d",
-      "cited_by_count": 1555,
-      "type": "book",
-      "source": null,
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1004&context=els_facpub"
-      },
-      "topics": [
-        "Educational Practices and Policies",
-        "Higher Education Teaching and Evaluation",
-        "Educational theories and practices"
-      ],
-      "referenced_works_count": 84,
-      "url": "https://openalex.org/W2169024360"
-    },
-    {
-      "openalex_id": "W2083927153",
-      "doi": "10.1007/s10278-013-9622-7",
-      "title": "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository",
-      "authors": [
-        {
-          "name": "Kenneth Clark",
-          "openalex_id": "A5069259179",
-          "orcid": "https://orcid.org/0000-0001-7658-168X",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Bruce A. Vendt",
-          "openalex_id": "A5061545190",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Kirk Smith",
-          "openalex_id": "A5027374679",
-          "orcid": "https://orcid.org/0000-0002-8735-7576",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "John Freymann",
-          "openalex_id": "A5019607232",
-          "orcid": "https://orcid.org/0000-0002-7211-0095",
-          "institutions": [
-            "Frederick National Laboratory for Cancer Research",
-            "Science Applications International Corporation (United States)"
-          ]
-        },
-        {
-          "name": "Justin Kirby",
-          "openalex_id": "A5009714920",
-          "orcid": "https://orcid.org/0000-0003-3487-8922",
-          "institutions": [
-            "Frederick National Laboratory for Cancer Research",
-            "Science Applications International Corporation (United States)"
-          ]
-        },
-        {
-          "name": "Paul Koppel",
-          "openalex_id": "A5041696427",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Stephen Moore",
-          "openalex_id": "A5110855570",
-          "orcid": "https://orcid.org/0009-0003-3635-795X",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Stanley Phillips",
-          "openalex_id": "A5068644755",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "David R. Maffitt",
-          "openalex_id": "A5111876014",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Michael Pringle",
-          "openalex_id": "A5087903605",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Lawrence Tarbox",
-          "openalex_id": "A5061078388",
-          "orcid": "https://orcid.org/0000-0002-2883-5558",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        },
-        {
-          "name": "Fred Prior",
-          "openalex_id": "A5063662396",
-          "orcid": "https://orcid.org/0000-0002-6314-5683",
-          "institutions": [
-            "Mallinckrodt (United States)"
-          ]
-        }
-      ],
-      "publication_year": 2013,
-      "publication_date": "2013-07-24",
-      "abstract": "The National Institutes of Health have placed significant emphasis on sharing of research data to support secondary research. Investigators have been encouraged to publish their clinical and imaging data as part of fulfilling their grant obligations. Realizing it was not sufficient to merely ask investigators to publish their collection of imaging and clinical data, the National Cancer Institute (NCI) created the open source National Biomedical Image Archive software package as a mechanism for centralized hosting of cancer related imaging. NCI has contracted with Washington University in Saint Louis to create The Cancer Imaging Archive (TCIA)-an open-source, open-access information resource to support research, development, and educational initiatives utilizing advanced medical imaging of cancer. In its first year of operation, TCIA accumulated 23 collections (3.3 million images). Operating and maintaining a high-availability image archive is a complex challenge involving varied archive-specific resources and driven by the needs of both image submitters and image consumers. Quality archives of any type (traditional library, PubMed, refereed journals) require management and customer service. This paper describes the management tasks and user support model for TCIA.",
-      "cited_by_count": 4571,
-      "type": "article",
-      "source": {
-        "name": "Journal of Digital Imaging",
-        "type": "journal",
-        "issn": [
-          "0897-1889",
-          "1618-727X"
-        ]
-      },
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10278-013-9622-7.pdf"
-      },
-      "topics": [
-        "Digital Radiography and Breast Imaging",
-        "Scientific Computing and Data Management",
-        "Medical Imaging Techniques and Applications"
-      ],
-      "referenced_works_count": 15,
-      "url": "https://openalex.org/W2083927153"
-    },
-    {
-      "openalex_id": "W2559778038",
-      "doi": "10.1080/00086495.2016.1260297",
-      "title": "Colour for Colour, Skin for Skin: Marching with the Ancestral Spirits Into War Oh at Morant Bay",
-      "authors": [
-        {
-          "name": "F.S.J. Ledgister",
-          "openalex_id": "A5017108704",
-          "orcid": "https://orcid.org/0000-0002-5935-1070"
-        }
-      ],
-      "publication_year": 2016,
-      "publication_date": "2016-10-01",
-      "abstract": "Clinton A. Hutton, Colour for Colour, Skin for Skin: Marching with the Ancestral Spirits Into War Oh at Morant Bay. Kingston, Ian Randle, 2015. 259 pp.REVIEWED BY F.S.J. LEDGISTERIn the analysis of political thought, one area that is substantially missing is examination of the political thought, or ethos, of ordinary people in history. Clinton Hutton's study of the ideas that led to the Morant Bay Uprising in southeastern Jamaica in 1865 is a major corrective to this. Hutton reexamines the history to show us ordinary black Jamaicans, as well as mixed-race Jamaicans and white Jamaicans and British colonial officials, each driven by normative assumptions about what the proper political order ought to be that led not only to the hinge point in history that the rising and its suppression constituted, but to their understandings of the meaning of that history and their places in it.Hutton's core argument is that the underlying political values of the leaders of the uprising, and their ally George William Gordon, were Afrocentric and clearly derived from ancestral values and practices that had survived the trauma of slavery. The conception of freedom that Paul Bogle and other leaders of the uprising had developed and enunciated was plainly based on black racial solidarity and rejected the value system of white supremacy dominant on the island. However, the evidence that Hutton adduces (as, for example, on page 72) can be read just as easily as demonstrating a Creole identity and adaptation of European models to local use.What is clearly demonstrated is that the ethos of the European ruling class and ruling race in post-Emancipation Jamaica both assumed the innate inferiority of the subordinate race/class and blamed black Jamaicans both for the economic straits in which the colony was bound and for the poverty and misery black people faced, while ignoring a reality in which white, and to a lesser degree, mixed-race Jamaicans continued to exploit the black majority in good times and bad and used the resources of the state to keep the majority in the condition of subordination. We are given a grand tour of the fundamental ideological underpinnings of early and mid-Victorian white supremacy, in the writings of Carlyle and Trollope, and in Colonial Office memoranda, Jamaican newspaper columns, as well as the actual practice of the Jamaican state.The white supremacism of the Victorian colonial state is contrasted with the emergent black nationalism of Bogle and his fellow black nationalists, and the progressive ideology that Bogle shared with mixed-race and white allies such as George William Gordon. Hutton, arguing from analogy with Haiti, emphasises the African roots of these ideas, and sees them as being continued in the late nineteenth and early twentieth centuries by the Revivalist preacher Alexander Bedward. \u2026",
-      "cited_by_count": 19,
-      "type": "article",
-      "source": {
-        "name": "Caribbean Quarterly",
-        "type": "journal",
-        "issn": [
-          "0008-6495",
-          "2470-6302"
-        ]
-      },
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null
-      },
-      "topics": [
-        "Caribbean history, culture, and politics"
-      ],
-      "referenced_works_count": 0,
-      "url": "https://openalex.org/W2559778038"
-    },
-    {
-      "openalex_id": "W1820505434",
-      "doi": "10.17348/era.5.0.147-158",
-      "title": "Purposive Sampling as a Tool for Informant Selection",
-      "authors": [
-        {
-          "name": "Ma. Dolores C. Tongco",
-          "openalex_id": "A5083489279",
-          "institutions": [
-            "University of Hawaii System",
-            "University of the Philippines Diliman",
-            "University of Hawai\u02bbi at M\u0101noa"
-          ]
-        }
-      ],
-      "publication_year": 2007,
-      "publication_date": "2007-12-31",
-      "abstract": "Informant selection is highly relevant for ethnobotanical research, as people are constantly looked upon for knowledgeand information. The purposive sampling technique is a type of non-probability sampling that is most effective when one needs to study a certain cultural domain with knowledgeable experts within. Purposive sampling may also be used with both qualitative and quantitative researchtechniques. The inherent bias of the method contributesto its efficiency, and the method stays robust even when tested against random probability sampling. Choosingthe purposive sample is fundamental to the quality of data gathered; thus, reliability and competence of the informantmust be ensured.",
-      "cited_by_count": 2524,
-      "type": "article",
-      "source": {
-        "name": "Ethnobotany Research and Applications",
-        "type": "journal",
-        "issn": [
-          "1547-3465"
+          "1210-0250",
+          "1804-6347"
         ]
       },
       "open_access": {
         "is_oa": true,
         "oa_status": "diamond",
-        "oa_url": "https://ethnobotanyjournal.org/index.php/era/article/download/126/111"
+        "oa_url": "https://teorievedy.flu.cas.cz/index.php/tv/article/download/572/614"
       },
       "topics": [
-        "Rangeland Management and Livestock Ecology"
+        "Philosophy, History, and Historiography"
       ],
-      "referenced_works_count": 71,
-      "url": "https://openalex.org/W1820505434"
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W4379537847"
     },
     {
-      "openalex_id": "W2039355845",
-      "doi": "10.1016/s0092-8674(00)81873-5",
-      "title": "Programmed Cell Death in Animal Development",
+      "openalex_id": "W2093535848",
+      "doi": "10.1057/palgrave.cpt.9300149",
+      "title": "Quentin Skinner: History, Politics, Rhetoric",
       "authors": [
         {
-          "name": "Michael D. Jacobson",
-          "openalex_id": "A5044121419",
-          "orcid": "https://orcid.org/0000-0002-2330-7529",
+          "name": "Brian Young",
+          "openalex_id": "A5013554361",
+          "orcid": "https://orcid.org/0000-0001-7292-7938",
           "institutions": [
-            "MRC Laboratory for Molecular Cell Biology",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Miguel Weil",
-          "openalex_id": "A5043533177",
-          "orcid": "https://orcid.org/0000-0001-5721-653X",
-          "institutions": [
-            "MRC Laboratory for Molecular Cell Biology",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Martin Raff",
-          "openalex_id": "A5017938528",
-          "institutions": [
-            "MRC Laboratory for Molecular Cell Biology",
-            "University College London"
+            "University of Oxford"
           ]
         }
       ],
-      "publication_year": 1997,
-      "publication_date": "1997-02-01",
+      "publication_year": 2004,
+      "publication_date": "2004-12-01",
       "abstract": null,
-      "cited_by_count": 2705,
-      "type": "review",
+      "cited_by_count": 7,
+      "type": "article",
       "source": {
-        "name": "Cell",
+        "name": "Contemporary Political Theory",
         "type": "journal",
         "issn": [
-          "0092-8674",
-          "1097-4172"
+          "1470-8914",
+          "1476-9336"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Rhetoric and Communication Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2093535848"
+    },
+    {
+      "openalex_id": "W2347072581",
+      "doi": "10.1111/hith.10798",
+      "title": "ON THE ELUSIVENESS OF CONTEXT",
+      "authors": [
+        {
+          "name": "Takashi Shogimen",
+          "openalex_id": "A5028890635",
+          "orcid": "https://orcid.org/0000-0001-7354-6299",
+          "institutions": [
+            "University of Otago"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-05-01",
+      "abstract": "ABSTRACT How can we decide the pertinent context in which a given object of historical study should be examined? This question has long puzzled historians. In the field of intellectual history, the Cambridge contextual school represented by Quentin Skinner triggered a series of methodological debates, in part relating to its opaque notion of context; critics have argued that a satisfactory answer to the question\u2014how to recover a relevant context\u2014has yet to be given. This article tackles why the question has continued to elude us. The article demonstrates that it is simply impossible to propose a practical set of guidelines on how to reconstruct a correct context because the identification of the relevant context is presupposed in the logical structure of inference in historical inquiries; identifying a relevant context is logically antecedent to the inquiry. In order to show this, the article deploys Charles Sanders Peirce's theory of inference. Thus the article submits that Skinner conceptualized his method as what Peirce called \u201cabduction,\u201d which specifically seeks authorial intention as an explanatory hypothesis. This observation entails two ramifications in relation to the notion of context. One is that context in Skinner's methodology operates on two levels: heuristic and verificatory. Confusing the two functions of context has resulted in a futile debate over the difficulty of reconstructing context. The other ramification is that abduction always requires some sort of context in order to commence an inquiry, and that context is already known to the inquirer. Any attempt to reconstruct a context also requires yet another context to invoke, thus regressing into the search for relevant contexts ad infinitum . The elusiveness of context is thus inherent in the structure of our logical inference, which, according to Peirce, always begins with abduction.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "History and Theory",
+        "type": "journal",
+        "issn": [
+          "0018-2656",
+          "1468-2303"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Pragmatism in Philosophy and Education"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2347072581"
+    },
+    {
+      "openalex_id": "W2594904372",
+      "doi": null,
+      "title": "\u201cIntellectual history and critical theory,\u201d Panel on \u201cMethodologies\u201d (with Quentin Skinner, Barbara Taylor, Lea Ypi)",
+      "authors": [
+        {
+          "name": "Julia Ng",
+          "openalex_id": "A5054337949",
+          "orcid": "https://orcid.org/0000-0003-2676-0959"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-09-07",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2594904372"
+    },
+    {
+      "openalex_id": "W2122627941",
+      "doi": "10.1007/s12116-009-9040-5",
+      "title": "Neoliberalism: From New Liberal Philosophy to Anti-Liberal Slogan",
+      "authors": [
+        {
+          "name": "Taylor C. Boas",
+          "openalex_id": "A5018761862",
+          "orcid": "https://orcid.org/0000-0003-3262-1437",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Jordan Gans\u2010Morse",
+          "openalex_id": "A5076129103",
+          "orcid": "https://orcid.org/0000-0003-4909-8822",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-20",
+      "abstract": "In recent years, neoliberalism has become an academic catchphrase. Yet, in contrast to other prominent social science concepts such as democracy, the meaning and proper usage of neoliberalism curiously have elicited little scholarly debate. Based on a content analysis of 148 journal articles published from 1990 to 2004, we document three potentially problematic aspects of neoliberalism\u2019s use: the term is often undefined; it is employed unevenly across ideological divides; and it is used to characterize an excessively broad variety of phenomena. To explain these characteristics, we trace the genesis and evolution of the term neoliberalism throughout several decades of political economy debates. We show that neoliberalism has undergone a striking transformation, from a positive label coined by the German Freiberg School to denote a moderate renovation of classical liberalism, to a normatively negative term associated with radical economic reforms in Pinochet\u2019s Chile. We then present an extension of W. B. Gallie\u2019s framework for analyzing essentially contested concepts to explain why the meaning of neoliberalism is so rarely debated, in contrast to other normatively and politically charged social science terms. We conclude by proposing several ways that the term can regain substantive meaning as a \u201cnew liberalism\u201d and be transformed into a more useful analytic tool.",
+      "cited_by_count": 608,
+      "type": "article",
+      "source": {
+        "name": "Studies in Comparative International Development",
+        "type": "journal",
+        "issn": [
+          "0039-3606",
+          "1936-6167"
         ]
       },
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "http://www.cell.com/article/S0092867400818735/pdf"
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12116-009-9040-5.pdf"
       },
       "topics": [
-        "Cell death mechanisms and regulation",
-        "Environmental Toxicology and Ecotoxicology",
-        "Insect Resistance and Genetics"
+        "Social Policy and Reform Studies",
+        "Housing, Finance, and Neoliberalism",
+        "Political Economy and Marxism"
       ],
-      "referenced_works_count": 78,
-      "url": "https://openalex.org/W2039355845"
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W2122627941"
+    },
+    {
+      "openalex_id": "W2945969060",
+      "doi": "10.7146/sl.v0i57.104659",
+      "title": "Tekstfortolkeren \u2013 Interview med Quentin Skinner",
+      "authors": [
+        {
+          "name": "Mikkel Thorup",
+          "openalex_id": "A5039232562",
+          "orcid": "https://orcid.org/0000-0001-5237-1709"
+        },
+        {
+          "name": "Frank Beck Lassen",
+          "openalex_id": "A5054095783"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-03-09",
+      "abstract": "This interview explores the biographical and methodical background of the Cambridge approach to the history of ideas, an approach also known as intellectualhistory that has Quentin Skinner as one of its founding and most prolific representatives. The article takes us back to his early years at school and university, his encounters with Collingwood and Wittgenstein and his way into and understanding of intellectual history. The interview then moves onto methodological issues on intentionality and contextualism and what it means to work as an intellectual historian today.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Slagmark - Tidsskrift for id\u00e9historie",
+        "type": "journal",
+        "issn": [
+          "0108-8084",
+          "1904-8602"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://tidsskrift.dk/slagmark/article/download/104659/153526"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2945969060"
+    },
+    {
+      "openalex_id": "W1594988940",
+      "doi": "10.1017/cbo9780511618376.007",
+      "title": "\u2018The Best State of the Commonwealth\u2019: Thomas More and Quentin Skinner",
+      "authors": [
+        {
+          "name": "Cathy Curtis",
+          "openalex_id": "A5069358888"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-07",
+      "abstract": "As many commentators and critics have acknowledged and vigorously applauded, Quentin Skinner has continuously rethought and revised his methodology, and the fundamental categories and descriptions in his scholarship. His very recent and magisterial three-volume collection of new and revised essays, entitled Visions of Politics, brings into focus this development over the twenty-five years since the publication of The Foundations of Modern Political Thought. Exemplifying the contextualist approach which is now associated with the Cambridge school of history, Foundations concerned itself with the process by which the modern conception of the state \u2013 'its nature, powers, and right to command obedience' \u2013came to be formed from the late thirteenth century to the end of the sixteenth century. The political theory of the northern Renaissance was shown to be 'an extension and consolidation' of a range of arguments which arose in quattrocento Italy, although subject to a critical re-evaluation. Early-modern England received particular attention in this respect. The impact of Foundations has been profound; through the close and meticulous textual analysis of a myriad of well-known and lesser-known writers in their intellectual context, Skinner drew a typology which has guided countless scholars and students of the period.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Reformation and Early Modern Christianity",
+        "Scottish History and National Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1594988940"
+    },
+    {
+      "openalex_id": "W4304202940",
+      "doi": "10.1515/9780857452962",
+      "title": "History in the Plural",
+      "authors": [
+        {
+          "name": "Niklas Olsen",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-30",
+      "abstract": "Reinhart Koselleck (1923\u20132006) was one of most imposing and influential European intellectual historians in the twentieth century. Constantly probing and transgressing the boundaries of mainstream historical writing, he created numerous highly innovative approaches, absorbing influences from other academic disciplines as represented in the work of philosophers and political thinkers like Hans Georg Gadamer and Carl Schmitt and that of internationally renowned scholars such as Hayden White, Michel Foucault, and Quentin Skinner. An advocate of \u201cgrand theory,\u201d Koselleck was an inspiration to many scholars and helped move the discipline into new directions (such as conceptual history, theories of historical times and memory) and across disciplinary and national boundaries. He thus achieved a degree of international fame that was unusual for a German historian after 1945. This book not only presents the life and work of a \u201cgreat thinker\u201d and European intellectual, it also contributes to our understanding of complex theoretical and methodological issues in the cultural sciences and to our knowledge of the history of political, historical, and cultural thought in Germany from the 1950s to the present.",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": {
+        "name": "Berghahn Books",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "European Political History Analysis",
+        "European history and politics",
+        "History, Culture, and Diplomacy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4304202940"
+    },
+    {
+      "openalex_id": "W3169391353",
+      "doi": "10.1017/s1468109921000104",
+      "title": "Without Laslett to the lost worlds: Quentin Skinner's early methodology",
+      "authors": [
+        {
+          "name": "Takuya Furuta",
+          "openalex_id": "A5022686187",
+          "orcid": "https://orcid.org/0000-0003-4177-6190",
+          "institutions": [
+            "Hiroshima University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-07",
+      "abstract": "Abstract The aim of this paper is to suggest that the emergence of the so-called Cambridge School of history of political thought can best be understood in terms of two competing visions of the relationship between history and social science, focusing on Peter Laslett and Quentin Skinner. Although Laslett is often distinguished as a founder of the Cambridge School, this paper suggests an alternative view by emphasizing the theoretical discontinuity between Laslett and Skinner rather than their continuity. Laslett, a practitioner of Karl Manheim's ideas, promoted the idea of a comprehensive scientific social history, within which intellectual history was located. This paper argues that Skinner broke with Laslett's idea. For Skinner, (1) Laslett was a positivist who applied the natural scientific model to intellectual history; (2) Laslett's positivism was actually \u2018contextualism\u2019; and (3) the alternative to Laslett's contextualism was the history of ideology. Skinner's early methodology was, in part, a rhetorical redescription of \u2018ideology\u2019, which opposed both Mannheim and Laslett. As such, this paper focuses on the discursive disconnection between Laslett and Skinner, thus providing a clue to construct a platform for facilitating a further discussion of the history of ideas and the social sciences.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Japanese Journal of Political Science",
+        "type": "journal",
+        "issn": [
+          "1468-1099",
+          "1474-0060"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Science Research and Education",
+        "Philosophy, History, and Historiography",
+        "Contemporary Sociological Theory and Practice"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3169391353"
+    },
+    {
+      "openalex_id": "W1583577397",
+      "doi": null,
+      "title": "Moments of self-determination: the concept of 'self-determination' and the idea of freedom in 20th- and 21st century international discourse",
+      "authors": [
+        {
+          "name": "Rita Augestad Knudsen",
+          "openalex_id": "A5079161624",
+          "orcid": "https://orcid.org/0000-0002-3019-7276"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-10-01",
+      "abstract": "This thesis examines how the concept of 'self-determination' has featured in high-level international discourse at key moments in the 20th and 21st centuries. The exact language of 'self-determination' was internationalised in 1918 by Woodrow Wilson in the political context of the First World War, and in reaction to Lenin\u2019s earlier references to the concept, which he had developed between 1903 and 1917. Subsequently, 'self-determination' has been cited in important international legal settings, as in the League of Nations\u2019 Aaland \r\nIslands case (1920\u20131921), in the UN Charter (1945), during the UN discussions on General Assembly Resolution 1514 (1960) and the International Covenants on Human Rights (1966), and at the International Court of Justice proceedings on Kosovo (2008\u20132010). Together, these uses of 'self-determination' constitute the 'self-determination moments' of my thesis.\r\nTaking a hitherto unexplored approach to 'self-determination', this thesis builds on previous scholarship on the concept \u2013 produced primarily within the fields of international law and international \r\nrelations \u2013 and examines it from the perspective of intellectual and international history. Applying the methodology of Quentin Skinner, the thesis shows that the significant international mentions of 'self-determination' have sought legitimation. Specifically, the thesis argues that the central international references to 'self-determination' over the past hundred years have sought legitimation by invoking two different ideas of freedom: a 'radical' idea of freedom, and a 'liberal conservative' one. Based on a wide-ranging analysis of archival materials, published primary sources, original interviews, and relevant \r\nsecondary works, the thesis finds that the liberal-conservative idea of freedom has dominated the international appearances of 'self-determination' at the selected 'self-determination moments'. However, it is the radical idea of freedom that has repeatedly triggered \r\nthe re-emergence of \u2018self- determination\u2019 as a meaningful concept in international discourse, and kept its potency alive.",
+      "cited_by_count": 5,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Contemporary and Historical Greek Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1583577397"
+    },
+    {
+      "openalex_id": "W2972330747",
+      "doi": "10.1111/hith.12120",
+      "title": "TRUTH AND MEANING IN HISTORICAL INTERPRETATION: A DAVIDSONIAN APPROACH",
+      "authors": [
+        {
+          "name": "Knox Peden",
+          "openalex_id": "A5061750223",
+          "orcid": "https://orcid.org/0000-0002-9821-1310",
+          "institutions": [
+            "Australian Research Council",
+            "The University of Melbourne"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-01",
+      "abstract": "ABSTRACT This essay argues that Donald Davidson's work in philosophy sheds light on debates about truth, meaning, and context in historical interpretation. Drawing on distinctions between Davidson's project and that of his mentor, W. V. O. Quine, I aim to show that certain ambiguities that have arisen in the methodological reflections of Quentin Skinner and Frank Ankersmit, to take representatives of contrastive approaches to intellectual history, are clarified once we reckon with Davidson's ideas. This discussion leads to a case for the broader pertinence of Davidson's work to historical writing, which insists that his focus on the centrality of truth to disagreement bears salutary consequences for thinking about what constitutes compelling historical scholarship.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "History and Theory",
+        "type": "journal",
+        "issn": [
+          "0018-2656",
+          "1468-2303"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Philosophy, History, and Historiography",
+        "American History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2972330747"
+    },
+    {
+      "openalex_id": "W7355450",
+      "doi": "10.1016/b978-0-08-097086-8.61171-6",
+      "title": "Cambridge School of Intellectual History",
+      "authors": [
+        {
+          "name": "Richard Whatmore",
+          "openalex_id": "A5068822396",
+          "orcid": "https://orcid.org/0000-0003-1295-7558",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "Elsevier eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Political Theory and Influence",
+        "European Political History Analysis"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W7355450"
     }
   ],
   "count": 25,
