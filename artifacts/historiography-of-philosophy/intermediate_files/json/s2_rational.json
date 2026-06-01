@@ -1,0 +1,15 @@
+[s2_search.py] Searching Semantic Scholar: 'rational reconstruction history of philosophy' (year=1969-2025), limit=20
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "rational reconstruction history of philosophy",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "api_error",
+      "message": "S2 API error: 403",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,2384 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Skinner meaning understanding history ideas contextualism",
+  "results": [
+    {
+      "openalex_id": "W3140854437",
+      "doi": "10.1186/s40537-021-00444-8",
+      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "authors": [
+        {
+          "name": "Laith Alzubaidi",
+          "openalex_id": "A5102889969",
+          "orcid": "https://orcid.org/0000-0002-7296-5413",
+          "institutions": [
+            "Queensland University of Technology",
+            "University of Information Technology and Communications"
+          ]
+        },
+        {
+          "name": "Jinglan Zhang",
+          "openalex_id": "A5101979224",
+          "orcid": "https://orcid.org/0000-0001-6459-2963",
+          "institutions": [
+            "Queensland University of Technology"
+          ]
+        },
+        {
+          "name": "Amjad J. Humaidi",
+          "openalex_id": "A5016153721",
+          "orcid": "https://orcid.org/0000-0002-9071-1329",
+          "institutions": [
+            "University of Technology - Iraq"
+          ]
+        },
+        {
+          "name": "Ayad Q. Al-Dujaili",
+          "openalex_id": "A5052471696",
+          "orcid": "https://orcid.org/0000-0002-1126-3290",
+          "institutions": [
+            "Middle Technical University"
+          ]
+        },
+        {
+          "name": "Ye Duan",
+          "openalex_id": "A5101430356",
+          "orcid": "https://orcid.org/0000-0002-1166-7703",
+          "institutions": [
+            "University of Missouri"
+          ]
+        },
+        {
+          "name": "Omran Al-Shamma",
+          "openalex_id": "A5008534489",
+          "orcid": "https://orcid.org/0000-0001-5930-6176",
+          "institutions": [
+            "University of Information Technology and Communications"
+          ]
+        },
+        {
+          "name": "Jos\u00e9 Santamar\u00eda",
+          "openalex_id": "A5010765865",
+          "orcid": "https://orcid.org/0000-0002-2022-6838",
+          "institutions": [
+            "Universidad de Ja\u00e9n"
+          ]
+        },
+        {
+          "name": "Mohammed A. Fadhel",
+          "openalex_id": "A5090966997",
+          "orcid": "https://orcid.org/0000-0001-9877-049X",
+          "institutions": [
+            "Thi Qar University"
+          ]
+        },
+        {
+          "name": "Muthana Al\u2010Amidie",
+          "openalex_id": "A5036536042",
+          "orcid": "https://orcid.org/0000-0002-8116-1871",
+          "institutions": [
+            "University of Missouri"
+          ]
+        },
+        {
+          "name": "Laith Farhan",
+          "openalex_id": "A5059266881",
+          "orcid": "https://orcid.org/0000-0001-8256-7323",
+          "institutions": [
+            "Manchester Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-31",
+      "abstract": "In the last few years, the deep learning (DL) computing paradigm has been deemed the Gold Standard in the machine learning (ML) community. Moreover, it has gradually become the most widely used computational approach in the field of ML, thus achieving outstanding results on several complex cognitive tasks, matching or even beating those provided by human performance. One of the benefits of DL is the ability to learn massive amounts of data. The DL field has grown fast in the last few years and it has been extensively used to successfully address a wide range of traditional applications. More importantly, DL has outperformed well-known ML techniques in many domains, e.g., cybersecurity, natural language processing, bioinformatics, robotics and control, and medical information processing, among many others. Despite it has been contributed several works reviewing the State-of-the-Art on DL, all of them only tackled one aspect of the DL, which leads to an overall lack of knowledge about it. Therefore, in this contribution, we propose using a more holistic approach in order to provide a more suitable starting point from which to develop a full understanding of DL. Specifically, this review attempts to provide a more comprehensive survey of the most important aspects of DL and including those enhancements recently added to the field. In particular, this paper outlines the importance of DL, presents the types of DL techniques and networks. It then presents convolutional neural networks (CNNs) which the most utilized DL network type and describes the development of CNNs architectures together with their main features, e.g., starting with the AlexNet network and closing with the High-Resolution network (HR.Net). Finally, we further present the challenges and suggested solutions to help researchers understand the existing research gaps. It is followed by a list of the major DL applications. Computational tools including FPGA, GPU, and CPU are summarized along with a description of their influence on DL. The paper ends with the evolution matrix, benchmark datasets, and summary and conclusion.",
+      "cited_by_count": 7463,
+      "type": "article",
+      "source": {
+        "name": "Journal Of Big Data",
+        "type": "journal",
+        "issn": [
+          "2196-1115"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-021-00444-8"
+      },
+      "topics": [
+        "Advanced Neural Network Applications",
+        "COVID-19 diagnosis using AI",
+        "Anomaly Detection Techniques and Applications"
+      ],
+      "referenced_works_count": 362,
+      "url": "https://openalex.org/W3140854437"
+    },
+    {
+      "openalex_id": "W2109151141",
+      "doi": "10.1177/1461445605054407",
+      "title": "Identity and interaction: a sociocultural linguistic approach",
+      "authors": [
+        {
+          "name": "Mary Bucholtz",
+          "openalex_id": "A5042810966",
+          "orcid": "https://orcid.org/0000-0001-7343-3374",
+          "institutions": [
+            "University of California, Santa Barbara"
+          ]
+        },
+        {
+          "name": "Kira Hall",
+          "openalex_id": "A5002447647",
+          "orcid": "https://orcid.org/0000-0002-0456-4730",
+          "institutions": [
+            "University of Colorado System"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-10-01",
+      "abstract": "The article proposes a framework for the analysis of identity as produced in linguistic interaction, based on the following principles: (1) identity is the product rather than the source of linguistic and other semiotic practices and therefore is a social and cultural rather than primarily internal psychological phenomenon; (2) identities encompass macro-level demographic categories, temporary and interactionally specific stances and participant roles, and local, ethnographically emergent cultural positions; (3) identities may be linguistically indexed through labels, implicatures, stances, styles, or linguistic structures and systems; (4) identities are relationally constructed through several, often overlapping, aspects of the relationship between self and other, including similarity/difference, genuineness/artifice and authority/ delegitimacy; and (5) identity may be in part intentional, in part habitual and less than fully conscious, in part an outcome of interactional negotiation, in part a construct of others\u2019 perceptions and representations, and in part an outcome of larger ideological processes and structures. The principles are illustrated through examination of a variety of linguistic interactions.",
+      "cited_by_count": 3658,
+      "type": "article",
+      "source": {
+        "name": "Discourse Studies",
+        "type": "journal",
+        "issn": [
+          "1461-4456",
+          "1461-7080"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt5tk670n8/qt5tk670n8.pdf"
+      },
+      "topics": [
+        "Language, Discourse, Communication Strategies",
+        "Multilingual Education and Policy",
+        "Linguistic Variation and Morphology"
+      ],
+      "referenced_works_count": 133,
+      "url": "https://openalex.org/W2109151141"
+    },
+    {
+      "openalex_id": "W4211130665",
+      "doi": "10.1111/j.1745-6924.2008.00088.x",
+      "title": "Rethinking Rumination",
+      "authors": [
+        {
+          "name": "Susan Nolen\u2013Hoeksema",
+          "openalex_id": "A5003884226",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Blair E. Wisco",
+          "openalex_id": "A5066942592",
+          "orcid": "https://orcid.org/0000-0003-2412-9012",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Sonja Lyubomirsky",
+          "openalex_id": "A5056418657",
+          "orcid": "https://orcid.org/0000-0003-0727-5595",
+          "institutions": [
+            "University of California, Riverside"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-09-01",
+      "abstract": "The response styles theory (Nolen-Hoeksema, 1991) was proposed to explain the insidious relationship between rumination and depression. We review the aspects of the response styles theory that have been well-supported, including evidence that rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support. Next, we address contradictory and new findings. Specifically, rumination appears to more consistently predict the onset of depression rather than the duration, but rumination interacts with negative cognitive styles to predict the duration of depressive symptoms. Contrary to original predictions, the use of positive distractions has not consistently been correlated with lower levels of depressive symptoms in correlational studies, although dozens of experimental studies show positive distractions relieve depressed mood. Further, evidence now suggests that rumination is associated with psychopathologies in addition to depression, including anxiety, binge eating, binge drinking, and self-harm. We discuss the relationships between rumination and worry and between rumination and other coping or emotion-regulation strategies. Finally, we highlight recent research on the distinction between rumination and more adaptive forms of self-reflection, on basic cognitive deficits or biases in rumination, on its neural and genetic correlates, and on possible interventions to combat rumination.",
+      "cited_by_count": 4984,
+      "type": "article",
+      "source": {
+        "name": "Perspectives on Psychological Science",
+        "type": "journal",
+        "issn": [
+          "1745-6916",
+          "1745-6924"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://escholarship.org/uc/item/8544f7w2"
+      },
+      "topics": [
+        "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+        "Child and Adolescent Psychosocial and Emotional Development",
+        "Youth Substance Use and School Attendance"
+      ],
+      "referenced_works_count": 209,
+      "url": "https://openalex.org/W4211130665"
+    },
+    {
+      "openalex_id": "W2159966428",
+      "doi": "10.1017/s0010417500019587",
+      "title": "Resistance and the Problem of Ethnographic Refusal",
+      "authors": [
+        {
+          "name": "Sherry B. Ortner",
+          "openalex_id": "A5077006435",
+          "orcid": "https://orcid.org/0000-0003-3391-9403",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "abstract": "This essay traces the effects of what I call ethnographic refusal on a series of studies surrounding the subject of resistance. 1 I argue that many of the most influential studies of resistance are severely limited by the lack of an ethnographic perspective. Resistance studies in turn are meant to stand in for a great deal of interdisciplinary work being done these days within and across the social sciences, history, literature, cultural studies, and so forth.",
+      "cited_by_count": 1781,
+      "type": "article",
+      "source": {
+        "name": "Comparative Studies in Society and History",
+        "type": "journal",
+        "issn": [
+          "0010-4175",
+          "1475-2999"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FA6036F289A7197C32DF8F3FEFFD7102/S0010417500019587a.pdf/div-class-title-resistance-and-the-problem-of-ethnographic-refusal-div.pdf"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Southeast Asian Sociopolitical Studies",
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 103,
+      "url": "https://openalex.org/W2159966428"
+    },
+    {
+      "openalex_id": "W2104357911",
+      "doi": "10.15215/aupress/9781897425084.01",
+      "title": "The Theory and Practice of Online Learning",
+      "authors": [
+        {
+          "name": "Terry Anderson",
+          "openalex_id": "A5106182363",
+          "institutions": [
+            "Athabasca University"
+          ]
+        },
+        {
+          "name": "Mohamed Ally",
+          "openalex_id": "",
+          "institutions": [
+            "Athabasca University"
+          ]
+        },
+        {
+          "name": "M Ally",
+          "openalex_id": "",
+          "institutions": [
+            "Athabasca University"
+          ]
+        },
+        {
+          "name": "M Ally",
+          "openalex_id": "",
+          "institutions": [
+            "Athabasca University"
+          ]
+        },
+        {
+          "name": "P Fahy",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Ausubel",
+          "openalex_id": ""
+        },
+        {
+          "name": "Z Berge",
+          "openalex_id": ""
+        },
+        {
+          "name": "Z Berge",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Beynon",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Bonk",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Reynolds",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Cassidy",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Chittaro",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Ranon",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Clark",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Clark",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Cooper",
+          "openalex_id": ""
+        },
+        {
+          "name": "F Craik",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Lockhart",
+          "openalex_id": ""
+        },
+        {
+          "name": "F Craik",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Tulving",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Duffy",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Cunningham",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Ertmer",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Newby",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Garrison",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Gilbert",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Moore",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Hirumi",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Holley",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Dansereau",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Mcdonald",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Garland",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Collins",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Hooper",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Hannafin",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Hung",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Looi",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Koh",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Janicki",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Liegle",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Johnson",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Johnson",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Keller",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Keller",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Suzuki",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Khan",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Kozma",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Malone",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Mayer",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Mayer",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Miller",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Moore",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Mukhopadhyay",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Parhar",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Murphy",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Cifuentes",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Phillips",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Ring",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Mathieux",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Ritchie",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Hoffman",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Rossett",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Rourke",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Anderson",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Garrison",
+          "openalex_id": ""
+        },
+        {
+          "name": "W Archer",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Rovai",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Schmidt",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Werner",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Simmons",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Sternberg",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Stoyanova",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Kommers",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Wiley",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Wilson",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Witkin",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Moore",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Goodenough",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Cox",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Yorke",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Knight",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Baxter",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Elder",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Glaser",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Benedikt",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Byrne",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Flood",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Willis",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Christenson",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Menzel",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Clements",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Nastassi",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Cutler",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Dixon",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Eggins",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Slade",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Esposito",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Farmer",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Feng",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-31",
+      "abstract": "The revised version of the Theory and Practice of Online Learning, edited by Terry Anderson, brings together recent developments in both the practice and our understanding of online learning.Five years have since passed between this new edition and the first version.Five years is certainly a long time in this business as this second edition illustrates.The improvement in versatility and sophistication of the technologies that have been coming into common use has been so significant that a revisit of our knowledge of learning technologies and their application was becoming increasingly necessary.Anderson and the other authors of this text have responded to the need and have done the higher education community a great service by bringing it out in the electronic open access format under a Creative Commons License.Those of us from the other world are beneficiaries of this generosity and intellectual benevolence.Online learning has begun to embed itself as a part of our educational environment, especially in the higher education and training Theory and Practice of Online Learning",
+      "cited_by_count": 1825,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf"
+      },
+      "topics": [
+        "Online and Blended Learning",
+        "Innovative Teaching and Learning Methods",
+        "Online Learning and Analytics"
+      ],
+      "referenced_works_count": 668,
+      "url": "https://openalex.org/W2104357911"
+    },
+    {
+      "openalex_id": "W1995453178",
+      "doi": "10.1007/bf00992905",
+      "title": "The narrative constitution of identity: A relational and network approach",
+      "authors": [
+        {
+          "name": "Margaret R. Somers",
+          "openalex_id": "A5075342025",
+          "orcid": "https://orcid.org/0000-0003-4751-6808",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-10-01",
+      "abstract": null,
+      "cited_by_count": 2878,
+      "type": "article",
+      "source": {
+        "name": "Theory and Society",
+        "type": "journal",
+        "issn": [
+          "0304-2421",
+          "1573-7853"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/BF00992905.pdf"
+      },
+      "topics": [
+        "Foucault, Power, and Ethics",
+        "Religion and Society Interactions",
+        "Community Health and Development"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W1995453178"
+    },
+    {
+      "openalex_id": "W2970686316",
+      "doi": "10.1152/physrev.00018.2018",
+      "title": "The Microbiota-Gut-Brain Axis",
+      "authors": [
+        {
+          "name": "John F. Cryan",
+          "openalex_id": "A5084928512",
+          "orcid": "https://orcid.org/0000-0001-5887-2723",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Kenneth J. O\u2019Riordan",
+          "openalex_id": "A5049784451",
+          "orcid": "https://orcid.org/0000-0003-0081-6010",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Caitlin S.M. Cowan",
+          "openalex_id": "A5060778458",
+          "orcid": "https://orcid.org/0000-0002-2959-1380",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Kiran V. Sandhu",
+          "openalex_id": "A5100929160",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Thomaz F. S. Bastiaanssen",
+          "openalex_id": "A5019678663",
+          "orcid": "https://orcid.org/0000-0001-6891-734X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Marcus Boehme",
+          "openalex_id": "A5016834849",
+          "orcid": "https://orcid.org/0000-0002-5678-8226",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Martin G. Codagnone",
+          "openalex_id": "A5012310070",
+          "orcid": "https://orcid.org/0000-0001-8266-940X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Sofia Cussotto",
+          "openalex_id": "A5009182799",
+          "orcid": "https://orcid.org/0000-0002-2479-6985",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Christine F\u00fclling",
+          "openalex_id": "A5013065848",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Anna V. Golubeva",
+          "openalex_id": "A5040187800",
+          "orcid": "https://orcid.org/0000-0001-8268-8811",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Katherine E. Guzzetta",
+          "openalex_id": "A5051902995",
+          "orcid": "https://orcid.org/0000-0002-2142-2902",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Minal Jaggar",
+          "openalex_id": "A5052983587",
+          "orcid": "https://orcid.org/0000-0003-1372-0691",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Caitr\u00edona M. Long-Smith",
+          "openalex_id": "A5057130560",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Joshua M. Lyte",
+          "openalex_id": "A5085980002",
+          "orcid": "https://orcid.org/0000-0002-1679-6854",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Jason Martin",
+          "openalex_id": "A5018138700",
+          "orcid": "https://orcid.org/0000-0001-8194-4297",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Alicia Molinero-Perez",
+          "openalex_id": "A5002718249",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Gerard M. Moloney",
+          "openalex_id": "A5045423655",
+          "orcid": "https://orcid.org/0000-0002-3672-1390",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Emanuela Morelli",
+          "openalex_id": "A5063945951",
+          "orcid": "https://orcid.org/0000-0001-8704-9330",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Enrique Morillas",
+          "openalex_id": "A5047236054",
+          "orcid": "https://orcid.org/0000-0003-2817-0346",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Rory O\u2019Connor",
+          "openalex_id": "A5061218277",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Joana S. Cruz-Pereira",
+          "openalex_id": "A5005320887",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Veronica L. Peterson",
+          "openalex_id": "A5031104957",
+          "orcid": "https://orcid.org/0000-0001-7011-1775",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Kieran Rea",
+          "openalex_id": "A5063626974",
+          "orcid": "https://orcid.org/0000-0001-7631-1305",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Nathaniel L. Ritz",
+          "openalex_id": "A5017753356",
+          "orcid": "https://orcid.org/0000-0002-7367-292X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Eoin Sherwin",
+          "openalex_id": "A5022288284",
+          "orcid": "https://orcid.org/0000-0002-5271-3841",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Simon Spichak",
+          "openalex_id": "A5086268141",
+          "orcid": "https://orcid.org/0000-0003-1226-5527",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Emily M. Teichman",
+          "openalex_id": "A5090183059",
+          "orcid": "https://orcid.org/0000-0003-1336-0999",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Marcel van de Wouw",
+          "openalex_id": "A5072318535",
+          "orcid": "https://orcid.org/0000-0002-2607-314X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Ana Paula Ventura\u2010Silva",
+          "openalex_id": "A5008646889",
+          "orcid": "https://orcid.org/0000-0002-3329-328X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Shauna E. Wallace-Fitzsimons",
+          "openalex_id": "A5084665235",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Niall P. Hyland",
+          "openalex_id": "A5080963402",
+          "orcid": "https://orcid.org/0000-0003-0060-7390",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Gerard Clarke",
+          "openalex_id": "A5003021083",
+          "orcid": "https://orcid.org/0000-0001-9771-3979",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Timothy G. Dinan",
+          "openalex_id": "A5087830456",
+          "orcid": "https://orcid.org/0000-0002-2316-7220",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-28",
+      "abstract": "The importance of the gut-brain axis in maintaining homeostasis has long been appreciated. However, the past 15 yr have seen the emergence of the microbiota (the trillions of microorganisms within and on our bodies) as one of the key regulators of gut-brain function and has led to the appreciation of the importance of a distinct microbiota-gut-brain axis. This axis is gaining ever more traction in fields investigating the biological and physiological basis of psychiatric, neurodevelopmental, age-related, and neurodegenerative disorders. The microbiota and the brain communicate with each other via various routes including the immune system, tryptophan metabolism, the vagus nerve and the enteric nervous system, involving microbial metabolites such as short-chain fatty acids, branched chain amino acids, and peptidoglycans. Many factors can influence microbiota composition in early life, including infection, mode of birth delivery, use of antibiotic medications, the nature of nutritional provision, environmental stressors, and host genetics. At the other extreme of life, microbial diversity diminishes with aging. Stress, in particular, can significantly impact the microbiota-gut-brain axis at all stages of life. Much recent work has implicated the gut microbiota in many conditions including autism, anxiety, obesity, schizophrenia, Parkinson's disease, and Alzheimer's disease. Animal models have been paramount in linking the regulation of fundamental neural processes, such as neurogenesis and myelination, to microbiome activation of microglia. Moreover, translational human studies are ongoing and will greatly enhance the field. Future studies will focus on understanding the mechanisms underlying the microbiota-gut-brain axis and attempt to elucidate microbial-based intervention and therapeutic strategies for neuropsychiatric disorders.",
+      "cited_by_count": 4696,
+      "type": "review",
+      "source": {
+        "name": "Physiological Reviews",
+        "type": "journal",
+        "issn": [
+          "0031-9333",
+          "1522-1210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.physiology.org/doi/pdf/10.1152/physrev.00018.2018"
+      },
+      "topics": [
+        "Gut microbiota and health",
+        "Tryptophan and brain disorders",
+        "Gastrointestinal motility and disorders"
+      ],
+      "referenced_works_count": 1676,
+      "url": "https://openalex.org/W2970686316"
+    },
+    {
+      "openalex_id": "W2120409145",
+      "doi": "10.1017/s0272263102002024",
+      "title": "FREQUENCY EFFECTS IN LANGUAGE PROCESSING",
+      "authors": [
+        {
+          "name": "Nick C. Ellis",
+          "openalex_id": "A5039969309",
+          "orcid": "https://orcid.org/0000-0002-4235-6481",
+          "institutions": [
+            "University College of the North",
+            "Bangor University"
+          ]
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-06-01",
+      "abstract": "This article shows how language processing is intimately tuned to input frequency. Examples are given of frequency effects in the processing of phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, language comprehension, grammaticality, sentence production, and syntax. The implications of these effects for the representations and developmental sequence of SLA are discussed. Usage-based theories hold that the acquisition of language is exemplar based. It is the piecemeal learning of many thousands of constructions and the frequency-biased abstraction of regularities within them. Determinants of pattern productivity include the power law of practice, cue competition and constraint satisfaction, connectionist learning, and effects of type and token frequency. The regularities of language emerge from experience as categories and prototypical patterns. The typical route of emergence of constructions is from formula, through low-scope pattern, to construction. Frequency plays a large part in explaining sociolinguistic variation and language change. Learners' sensitivity to frequency in all these domains has implications for theories of implicit and explicit learning and their interactions. The review concludes by considering the history of frequency as an explanatory concept in theoretical and applied linguistics, its 40 years of exile, and its necessary reinstatement as a bridging variable that binds the different schools of language acquisition research.",
+      "cited_by_count": 2181,
+      "type": "article",
+      "source": {
+        "name": "Studies in Second Language Acquisition",
+        "type": "journal",
+        "issn": [
+          "0272-2631",
+          "1470-1545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4A2C08A0900E306078B9819D7ABF428/S0272263102002024a.pdf/div-class-title-frequency-effects-in-language-processing-div.pdf"
+      },
+      "topics": [
+        "Reading and Literacy Development",
+        "EFL/ESL Teaching and Learning",
+        "Language Development and Disorders"
+      ],
+      "referenced_works_count": 330,
+      "url": "https://openalex.org/W2120409145"
+    },
+    {
+      "openalex_id": "W2134511983",
+      "doi": "10.1146/annurev-polisci-102512-194818",
+      "title": "Public Attitudes Toward Immigration",
+      "authors": [
+        {
+          "name": "Jens Hainmueller",
+          "openalex_id": "A5080191351",
+          "orcid": "https://orcid.org/0000-0001-8214-9041",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Daniel J. Hopkins",
+          "openalex_id": "A5022691777",
+          "orcid": "https://orcid.org/0000-0002-9085-6050",
+          "institutions": [
+            "Georgetown University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-02-20",
+      "abstract": "Immigrant populations in many developed democracies have grown rapidly, and so too has an extensive literature on natives' attitudes toward immigration. This research has developed from two theoretical foundations, one grounded in political economy, the other in political psychology. These two literatures have developed largely in isolation from one another, yet the conclusions that emerge from each are strikingly similar. Consistently, immigration attitudes show little evidence of being strongly correlated with personal economic circumstances. Instead, research finds that immigration attitudes are shaped by sociotropic concerns about its cultural impacts\u2014and to a lesser extent its economic impacts\u2014on the nation as a whole. This pattern of results has held up as scholars have increasingly turned to experimental tests, and it holds for the United States, Canada, and Western Europe. Still, more work is needed to strengthen the causal identification of sociotropic concerns and to isolate precisely how, when, and why they matter for attitude formation.",
+      "cited_by_count": 1629,
+      "type": "article",
+      "source": {
+        "name": "Annual Review of Political Science",
+        "type": "journal",
+        "issn": [
+          "1094-2939",
+          "1545-1577"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.cream-migration.org/publ_uploads/CDP_15_13.pdf"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration",
+        "Electoral Systems and Political Participation",
+        "Populism, Right-Wing Movements"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W2134511983"
+    },
+    {
+      "openalex_id": "W3001065916",
+      "doi": "10.1007/s11031-019-09818-1",
+      "title": "Basic psychological need theory: Advancements, critical themes, and future directions",
+      "authors": [
+        {
+          "name": "Maarten Vansteenkiste",
+          "openalex_id": "A5072031072",
+          "orcid": "https://orcid.org/0000-0001-6983-3607",
+          "institutions": [
+            "Ghent University"
+          ]
+        },
+        {
+          "name": "Richard M. Ryan",
+          "openalex_id": "A5001390698",
+          "orcid": "https://orcid.org/0000-0002-2355-6154",
+          "institutions": [
+            "Australian Catholic University"
+          ]
+        },
+        {
+          "name": "Bart Soenens",
+          "openalex_id": "A5080446268",
+          "orcid": "https://orcid.org/0000-0003-1581-3656",
+          "institutions": [
+            "Australian Catholic University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-21",
+      "abstract": null,
+      "cited_by_count": 1656,
+      "type": "article",
+      "source": {
+        "name": "Motivation and Emotion",
+        "type": "journal",
+        "issn": [
+          "0146-7239",
+          "1573-6644"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11031-019-09818-1.pdf"
+      },
+      "topics": [
+        "Youth Development and Social Support",
+        "Motivation and Self-Concept in Sports",
+        "Grit, Self-Efficacy, and Motivation"
+      ],
+      "referenced_works_count": 342,
+      "url": "https://openalex.org/W3001065916"
+    },
+    {
+      "openalex_id": "W3035686316",
+      "doi": "10.1016/j.ijinfomgt.2020.102168",
+      "title": "Setting the future of digital and social media marketing research: Perspectives and research propositions",
+      "authors": [
+        {
+          "name": "Yogesh K. Dwivedi",
+          "openalex_id": "A5048622877",
+          "orcid": "https://orcid.org/0000-0002-5547-9990",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Elvira Ismagilova",
+          "openalex_id": "A5033472055",
+          "orcid": "https://orcid.org/0000-0001-9634-194X",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "David L. Hughes",
+          "openalex_id": "A5022668877",
+          "orcid": "https://orcid.org/0000-0001-5880-8529",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Jamie Carlson",
+          "openalex_id": "A5035388558",
+          "orcid": "https://orcid.org/0000-0002-1622-5939",
+          "institutions": [
+            "University of Newcastle Australia"
+          ]
+        },
+        {
+          "name": "Raffaele Filieri",
+          "openalex_id": "A5022339119",
+          "orcid": "https://orcid.org/0000-0002-3534-8547",
+          "institutions": [
+            "Audencia Business School"
+          ]
+        },
+        {
+          "name": "Jenna Jacobson",
+          "openalex_id": "A5033583529",
+          "orcid": "https://orcid.org/0000-0002-1371-1077",
+          "institutions": [
+            "Toronto Metropolitan University"
+          ]
+        },
+        {
+          "name": "Varsha Jain",
+          "openalex_id": "A5024653552",
+          "orcid": "https://orcid.org/0000-0002-6740-4857",
+          "institutions": [
+            "Mudra Institute of Communications Ahmedabad"
+          ]
+        },
+        {
+          "name": "Heikki Karjaluoto",
+          "openalex_id": "A5034162449",
+          "orcid": "https://orcid.org/0000-0002-5696-7355",
+          "institutions": [
+            "University of Jyv\u00e4skyl\u00e4"
+          ]
+        },
+        {
+          "name": "Hajer K\u00e9fi",
+          "openalex_id": "A5024354224",
+          "orcid": "https://orcid.org/0000-0001-7080-079X",
+          "institutions": [
+            "Paris School of Business"
+          ]
+        },
+        {
+          "name": "Anjala S. Krishen",
+          "openalex_id": "A5087677475",
+          "orcid": "https://orcid.org/0000-0002-4749-5130",
+          "institutions": [
+            "University of Nevada, Las Vegas"
+          ]
+        },
+        {
+          "name": "Vikram Kumar",
+          "openalex_id": "A5102904102",
+          "orcid": "https://orcid.org/0009-0003-4193-6382",
+          "institutions": [
+            "Symbiosis International University"
+          ]
+        },
+        {
+          "name": "Mohammad M. Rahman",
+          "openalex_id": "A5019934911",
+          "orcid": "https://orcid.org/0000-0001-5177-9024",
+          "institutions": [
+            "Shippensburg University"
+          ]
+        },
+        {
+          "name": "Ramakrishnan Raman",
+          "openalex_id": "A5072261829",
+          "orcid": "https://orcid.org/0000-0003-3642-6989",
+          "institutions": [
+            "Symbiosis International University"
+          ]
+        },
+        {
+          "name": "Philipp A. Rauschnabel",
+          "openalex_id": "A5030459068",
+          "orcid": "https://orcid.org/0000-0003-2188-6747",
+          "institutions": [
+            "Universit\u00e4t der Bundeswehr M\u00fcnchen"
+          ]
+        },
+        {
+          "name": "Jennifer Rowley",
+          "openalex_id": "A5089666391",
+          "orcid": "https://orcid.org/0000-0003-3756-5438",
+          "institutions": [
+            "Manchester Metropolitan University"
+          ]
+        },
+        {
+          "name": "Jari Salo",
+          "openalex_id": "A5049194925",
+          "orcid": "https://orcid.org/0000-0002-4661-2307",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Gina A. Tran",
+          "openalex_id": "A5071278389",
+          "orcid": "https://orcid.org/0000-0002-4237-636X",
+          "institutions": [
+            "Florida Gulf Coast University"
+          ]
+        },
+        {
+          "name": "Yichuan Wang",
+          "openalex_id": "A5071592530",
+          "orcid": "https://orcid.org/0000-0003-1575-0245",
+          "institutions": [
+            "University of Sheffield"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-10",
+      "abstract": "The use of the internet and social media have changed consumer behavior and the ways in which companies conduct their business. Social and digital marketing offers significant opportunities to organizations through lower costs, improved brand awareness and increased sales. However, significant challenges exist from negative electronic word-of-mouth as well as intrusive and irritating online brand presence. This article brings together the collective insight from several leading experts on issues relating to digital and social media marketing. The experts\u2019 perspectives offer a detailed narrative on key aspects of this important topic as well as perspectives on more specific issues including artificial intelligence, augmented reality marketing, digital content management, mobile marketing and advertising, B2B marketing, electronic word of mouth and ethical issues therein. This research offers a significant and timely contribution to both researchers and practitioners in the form of challenges and opportunities where we highlight the limitations within the current research, outline the research gaps and develop the questions and propositions that can help advance knowledge within the domain of digital and social marketing.",
+      "cited_by_count": 2415,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Information Management",
+        "type": "journal",
+        "issn": [
+          "0268-4012",
+          "1873-4707"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.ijinfomgt.2020.102168"
+      },
+      "topics": [
+        "Digital Marketing and Social Media",
+        "Consumer Behavior in Brand Consumption and Identification",
+        "Technology Adoption and User Behaviour"
+      ],
+      "referenced_works_count": 329,
+      "url": "https://openalex.org/W3035686316"
+    },
+    {
+      "openalex_id": "W2235509840",
+      "doi": "10.5204/ijcis.v3i1.57",
+      "title": "Yarning About Yarning as a Legitimate Method in Indigenous Research",
+      "authors": [
+        {
+          "name": "Dawn Bessarab",
+          "openalex_id": "A5046658886",
+          "orcid": "https://orcid.org/0000-0002-9716-1593"
+        },
+        {
+          "name": "Bridget Ng\u2019andu",
+          "openalex_id": "A5062683738"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This article demonstrates the credibility and rigor of yarning, an Indigenous cultural form of conversation, through its use as a data gathering tool with two different Indigenous groups, one in Australia and the second in Botswana. Yarning was employed not only to collect information during the research interview but to establish a relationship with Indigenous participants prior to gathering their stories through storytelling, also known as narrative. In exploring the concept of yarning in research, this article discusses the different types of yarning that emerged during the research project, how these differences were identified and their applicability in the research process. The influence of gender during the interview is also included in the discussion.",
+      "cited_by_count": 1322,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Critical Indigenous Studies",
+        "type": "journal",
+        "issn": [
+          "1837-0144"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ijcis.qut.edu.au/article/download/57/57"
+      },
+      "topics": [
+        "Indigenous Health, Education, and Rights",
+        "Archaeology and Rock Art Studies",
+        "Indigenous Studies and Ecology"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2235509840"
+    },
+    {
+      "openalex_id": "W2099019320",
+      "doi": "10.1016/s0921-8890(02)00372-x",
+      "title": "A survey of socially interactive robots",
+      "authors": [
+        {
+          "name": "Terrence Fong",
+          "openalex_id": "A5028480779",
+          "institutions": [
+            "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Illah Nourbakhsh",
+          "openalex_id": "A5111962736",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Kerstin Dautenhahn",
+          "openalex_id": "A5059371010",
+          "orcid": "https://orcid.org/0000-0002-9263-3897",
+          "institutions": [
+            "University of Hertfordshire"
+          ]
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-02-28",
+      "abstract": null,
+      "cited_by_count": 3107,
+      "type": "article",
+      "source": {
+        "name": "Robotics and Autonomous Systems",
+        "type": "journal",
+        "issn": [
+          "0921-8890",
+          "1872-793X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S092188900200372X"
+      },
+      "topics": [
+        "Social Robot Interaction and HRI",
+        "Robotics and Automated Systems",
+        "AI in Service Interactions"
+      ],
+      "referenced_works_count": 204,
+      "url": "https://openalex.org/W2099019320"
+    },
+    {
+      "openalex_id": "W3082121050",
+      "doi": "10.34293/education.v8i4.3232",
+      "title": "Researcher Positionality - A Consideration of Its Influence and Place in Qualitative Research - A New Researcher Guide",
+      "authors": [
+        {
+          "name": "Andrew G D Holmes",
+          "openalex_id": "A5052620247",
+          "orcid": "https://orcid.org/0000-0002-5147-0761",
+          "institutions": [
+            "University of Hull"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-01",
+      "abstract": "Masters and PhD student researchers in the social sciences are often required to explore and explain their positionality, as, in the social world, it is recognized that their ontological and epistemological beliefs influence their research. Yet novice researchers often struggle with identifying their positionality. This paper explores researcher positionality and its influence on and place in the research process. Its purpose is to help new postgraduate researchers better understand positionality so that they may incorporate a reflexive approach to their research and start to clarify their positionality.",
+      "cited_by_count": 1222,
+      "type": "article",
+      "source": {
+        "name": "Shanlax International Journal of Education",
+        "type": "journal",
+        "issn": [
+          "2582-1334"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://shanlaxjournals.in/journals/index.php/education/article/download/3232/2845"
+      },
+      "topics": [
+        "Qualitative Research Methods and Applications",
+        "Social Development and Education Research",
+        "Evaluation and Performance Assessment"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3082121050"
+    },
+    {
+      "openalex_id": "W2153539202",
+      "doi": "10.1136/jech.55.10.693",
+      "title": "A glossary for social epidemiology",
+      "authors": [
+        {
+          "name": "Nancy Krieger",
+          "openalex_id": "A5078276438",
+          "orcid": "https://orcid.org/0000-0002-4815-5947",
+          "institutions": [
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-10-01",
+      "abstract": "Why \u201csocial epidemiology\u201d? Is not all epidemiology, after all, \u201csocial\u201d epidemiology? In so far as people are simultaneously social and biological organisms, is any biological process ever expressed devoid of social context?\u2014or any social process ever unmediated by the corporal reality of our profoundly generative and mortal bodies?1 2 Yet, despite the seeming truism that social as well as biological processes inherently shape population health\u2014a truism recognised even in the founding days of epidemiology as a scientific discipline in the early 19th century\u2014not all epidemiology is \u201csocial epidemiology\u201d.3 4 Instead, \u201csocial epidemiology\u201d (which first attained its name as such in English in 19503 5) is distinguished by its insistence on explicitly investigating social determinants of population distributions of health, disease, and wellbeing, rather than treating such determinants as mere background to biomedical phenomena. Tackling this task requires attention to theories, concepts, and methods conducive to illuminating intimate links between our bodies and the body politic; toward this end, the glossary below provides a selection of critical terms for the field.\n\nOne brief note of explanation. Some entries contain only one term; others include several related terms whose meanings are interdependent or refer to specific aspects of a broader construct. Additionally, each entry is cast in relation to its significance to social epidemiology; explication of salience to other disciplines is beyond the scope of this particular glossary.\n\nBiological expressions of social inequality refers to how people literally embody and biologically express experiences of economic and social inequality, from in utero to death, thereby producing social inequalities in health across a wide spectrum of outcomes.1 2 6 Core to social epidemiology, this construct of \u201cbiological expressions of social inequality\u201d has been evident in epidemiological thought\u2014albeit not always explicitly named as such\u2014since the discipline's emergence in the early 19th \u2026",
+      "cited_by_count": 826,
+      "type": "article",
+      "source": {
+        "name": "Journal of Epidemiology & Community Health",
+        "type": "journal",
+        "issn": [
+          "0143-005X",
+          "1470-2738"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://jech.bmj.com/content/jech/55/10/693.full.pdf"
+      },
+      "topics": [
+        "Obesity and Health Practices",
+        "Health disparities and outcomes",
+        "Historical and modern epidemiology studies"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W2153539202"
+    },
+    {
+      "openalex_id": "W2109572839",
+      "doi": "10.1037/a0035754",
+      "title": "The consequences of perceived discrimination for psychological well-being: A meta-analytic review.",
+      "authors": [
+        {
+          "name": "Michael T. Schmitt",
+          "openalex_id": "A5101799201",
+          "orcid": "https://orcid.org/0000-0002-7116-2280"
+        },
+        {
+          "name": "Nyla R. Branscombe",
+          "openalex_id": "A5087956356",
+          "orcid": "https://orcid.org/0000-0001-9364-9041",
+          "institutions": [
+            "University of Kansas"
+          ]
+        },
+        {
+          "name": "Tom Postmes",
+          "openalex_id": "A5027096857",
+          "orcid": "https://orcid.org/0000-0002-8029-7398",
+          "institutions": [
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Amber L. Garcia",
+          "openalex_id": "A5053266045",
+          "orcid": "https://orcid.org/0000-0001-5385-3005",
+          "institutions": [
+            "College of Wooster"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "In 2 meta-analyses, we examined the relationship between perceived discrimination and psychological well-being and tested a number of moderators of that relationship. In Meta-Analysis 1 (328 independent effect sizes, N = 144,246), we examined correlational data measuring both perceived discrimination and psychological well-being (e.g., self-esteem, depression, anxiety, psychological distress, life satisfaction). Using a random-effects model, the mean weighted effect size was significantly negative, indicating harm (r = -.23). Effect sizes were larger for disadvantaged groups (r = -.24) compared to advantaged groups (r = -.10), larger for children compared to adults, larger for perceptions of personal discrimination compared to group discrimination, and weaker for racism and sexism compared to other stigmas. The negative relationship was significant across different operationalizations of well-being but was somewhat weaker for positive outcomes (e.g., self-esteem, positive affect) than for negative outcomes (e.g., depression, anxiety, negative affect). Importantly, the effect size was significantly negative even in longitudinal studies that controlled for prior levels of well-being (r = -.15). In Meta-Analysis 2 (54 independent effect sizes, N = 2,640), we examined experimental data from studies manipulating perceptions of discrimination and measuring well-being. We found that the effect of discrimination on well-being was significantly negative for studies that manipulated general perceptions of discrimination (d = -.25), but effects did not differ from 0 when attributions to discrimination for a specific negative event were compared to personal attributions (d = .06). Overall, results support the idea that the pervasiveness of perceived discrimination is fundamental to its harmful effects on psychological well-being.",
+      "cited_by_count": 1755,
+      "type": "review",
+      "source": {
+        "name": "Psychological Bulletin",
+        "type": "journal",
+        "issn": [
+          "0033-2909",
+          "1939-1455"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.rug.nl/en/publications/66bd7796-398b-4b61-8ff1-f0c04ec8d662"
+      },
+      "topics": [
+        "Racial and Ethnic Identity Research",
+        "Health disparities and outcomes",
+        "Employment and Welfare Studies"
+      ],
+      "referenced_works_count": 323,
+      "url": "https://openalex.org/W2109572839"
+    },
+    {
+      "openalex_id": "W659306968",
+      "doi": "10.4324/9781315211985-5",
+      "title": "Learning, Remembering, and Understanding",
+      "authors": [
+        {
+          "name": "Ann L. Brown",
+          "openalex_id": "A5103485690"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-05-12",
+      "abstract": null,
+      "cited_by_count": 1441,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.ideals.illinois.edu/items/17596/bitstreams/63259/data.pdf"
+      },
+      "topics": [
+        "Educational and Psychological Assessments",
+        "Neuroscience, Education and Cognitive Function",
+        "Cognitive and developmental aspects of mathematical skills"
+      ],
+      "referenced_works_count": 364,
+      "url": "https://openalex.org/W659306968"
+    },
+    {
+      "openalex_id": "W2958089299",
+      "doi": "10.1109/tnnls.2020.3027314",
+      "title": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+      "authors": [
+        {
+          "name": "Erico Tjoa",
+          "openalex_id": "A5046941628",
+          "orcid": "https://orcid.org/0000-0002-1599-1594",
+          "institutions": [
+            "Nanyang Technological University",
+            "Alibaba Group (China)"
+          ]
+        },
+        {
+          "name": "Cuntai Guan",
+          "openalex_id": "A5031778999",
+          "orcid": "https://orcid.org/0000-0002-0872-3276",
+          "institutions": [
+            "Nanyang Technological University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-21",
+      "abstract": "Recently, artificial intelligence and machine learning in general have demonstrated remarkable performances in many tasks, from image processing to natural language processing, especially with the advent of deep learning (DL). Along with research progress, they have encroached upon many different fields and disciplines. Some of them require high level of accountability and thus transparency, for example, the medical sector. Explanations for machine decisions and predictions are thus needed to justify their reliability. This requires greater interpretability, which often means we need to understand the mechanism underlying the algorithms. Unfortunately, the blackbox nature of the DL is still unresolved, and many machine decisions are still poorly understood. We provide a review on interpretabilities suggested by different research works and categorize them. The different categories show different dimensions in interpretability research, from approaches that provide \"obviously\" interpretable information to the studies of complex patterns. By applying the same categorization to interpretability in medical research, it is hoped that: 1) clinicians and practitioners can subsequently approach these methods with caution; 2) insight into interpretability will be born with more considerations for medical practices; and 3) initiatives to push forward data-based, mathematically grounded, and technically grounded medical education are encouraged.",
+      "cited_by_count": 2137,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "type": "journal",
+        "issn": [
+          "2162-237X",
+          "2162-2388"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/5962385/9591206/09233366.pdf"
+      },
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Machine Learning in Healthcare",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "referenced_works_count": 247,
+      "url": "https://openalex.org/W2958089299"
+    },
+    {
+      "openalex_id": "W4206484811",
+      "doi": "10.1109/access.2021.3140175",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "authors": [
+        {
+          "name": "Sangmin Park",
+          "openalex_id": "A5100671422",
+          "orcid": "https://orcid.org/0000-0002-3484-9833",
+          "institutions": [
+            "Korea University"
+          ]
+        },
+        {
+          "name": "Young\u2010Gab Kim",
+          "openalex_id": "A5061277148",
+          "orcid": "https://orcid.org/0000-0001-9585-8808",
+          "institutions": [
+            "Sejong University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the previous Metaverse. This paper divides the concepts and essential techniques necessary for realizing the Metaverse into three components (i.e., hardware, software, and contents) and three approaches (i.e., user interaction, implementation, and application) rather than marketing or hardware approach to conduct a comprehensive analysis. Furthermore, we describe essential methods based on three components and techniques to Metaverse&#x2019;s representative Ready Player One, Roblox, and Facebook research in the domain of films, games, and studies. Finally, we summarize the limitations and directions for implementing the immersive Metaverse as social influences, constraints, and open challenges.",
+      "cited_by_count": 1744,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09667507.pdf"
+      },
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "referenced_works_count": 424,
+      "url": "https://openalex.org/W4206484811"
+    },
+    {
+      "openalex_id": "W2109592461",
+      "doi": "10.1086/431525",
+      "title": "Cultural Constraints on Grammar and Cognition in Pirah\u00e3",
+      "authors": [
+        {
+          "name": "Daniel L. Everett",
+          "openalex_id": "A5086783931",
+          "orcid": "https://orcid.org/0000-0002-3727-8765"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-08-01",
+      "abstract": "\\n Contains fulltext :\\n M_248492.pdf (Publisher\u2019s version ) (Open Access)\\n",
+      "cited_by_count": 1262,
+      "type": "article",
+      "source": {
+        "name": "Current Anthropology",
+        "type": "journal",
+        "issn": [
+          "0011-3204",
+          "1537-5382"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/431525"
+      },
+      "topics": [
+        "Categorization, perception, and language",
+        "Syntax, Semantics, Linguistic Variation",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W2109592461"
+    },
+    {
+      "openalex_id": "W2073308541",
+      "doi": "10.1023/a:1022852608280",
+      "title": "Knowledge Acquisition Via Incremental Conceptual Clustering",
+      "authors": [
+        {
+          "name": "Douglas Fisher",
+          "openalex_id": "A5079579577",
+          "orcid": "https://orcid.org/0000-0002-9908-0383",
+          "institutions": [
+            "University of California, Irvine"
+          ]
+        }
+      ],
+      "publication_year": 1987,
+      "publication_date": "1987-09-01",
+      "abstract": null,
+      "cited_by_count": 1761,
+      "type": "article",
+      "source": {
+        "name": "Machine Learning",
+        "type": "journal",
+        "issn": [
+          "0885-6125",
+          "1573-0565"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1023/A:1022852608280.pdf"
+      },
+      "topics": [
+        "Data Management and Algorithms",
+        "Semantic Web and Ontologies",
+        "Advanced Text Analysis Techniques"
+      ],
+      "referenced_works_count": 56,
+      "url": "https://openalex.org/W2073308541"
+    },
+    {
+      "openalex_id": "W1792840760",
+      "doi": null,
+      "title": "Youth, Identity, and Digital Media",
+      "authors": [
+        {
+          "name": "David Buckingham",
+          "openalex_id": "A5062242247",
+          "orcid": "https://orcid.org/0000-0002-5098-7056"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Contributors discuss how growing up in a world saturated with digital media affects the development of young people's individual and social identities.As young people today grow up in a world saturated with digital media, how does it affect their sense of self and others? As they define and redefine their identities through engagements with technology, what are the implications for their experiences as learners, citizens, consumers, and family and community members? This addresses the consequences of digital media use for young people's individual and social identities. The contributors explore how young people use digital media to share ideas and creativity and to participate in networks that are small and large, local and global, intimate and anonymous. They look at the emergence of new genres and forms, from SMS and instant messaging to home pages, blogs, and social networking sites. They discuss such topics as \u201cgirl power\u201d online, the generational digital divide, young people and mobile communication, and the appeal of the \u201cdigital publics\u201d of MySpace, considering whether these media offer young people genuinely new forms of engagement, interaction, and communication.ContributorsAngela Booker, danah boyd, Kirsten Drotner, Shelley Goldman, Susan C. Herring, Meghan McDermott, Claudia Mitchell, Gitte Stald, Susannah Stern, Sandra Weber, Rebekah Willett",
+      "cited_by_count": 1253,
+      "type": "book",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://library.oapen.org/bitstream/20.500.12657/26085/1/1004001.pdf"
+      },
+      "topics": [
+        "Child Development and Digital Technology",
+        "Social Media and Politics",
+        "Impact of Technology on Adolescents"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1792840760"
+    },
+    {
+      "openalex_id": "W4324309277",
+      "doi": "10.1002/alz.13016",
+      "title": "2023 Alzheimer's disease facts and figures",
+      "authors": [
+        {
+          "name": "V Villemagne",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Burnham",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Bourgeat",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Reiman",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y Quiroz",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Fleisher",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Jack",
+          "openalex_id": ""
+        },
+        {
+          "name": "V Lowe",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Weigand",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Bateman",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Xiong",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Benzinger",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Gordon",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Blazey",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y Su",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Braak",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Thal",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Ghebremedhin",
+          "openalex_id": ""
+        },
+        {
+          "name": "Del Tredici",
+          "openalex_id": ""
+        },
+        {
+          "name": "K",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y Quiroz",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Zetterberg",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Reiman",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Barthelemy",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Joseph-Mathurin",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Gordon",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Byard",
+          "openalex_id": ""
+        },
+        {
+          "name": "Nei Langlois",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Tom",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Hubbard",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Crane",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Ganguli",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Dodge",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Shen",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Pandav",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Dekosky",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Waring",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Doody",
+          "openalex_id": ""
+        },
+        {
+          "name": "V Pavlik",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Massman",
+          "openalex_id": ""
+        },
+        {
+          "name": "Chan",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Brookmeyer",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Corrada",
+          "openalex_id": ""
+        },
+        {
+          "name": "F Curriero",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Kawas",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Larson",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Shadlen",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Wang",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Helzner",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Scarmeas",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Cosentino",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Tang",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Schupf",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y Stern",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Xie",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Brayne",
+          "openalex_id": ""
+        },
+        {
+          "name": "F Matthews",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Brodaty",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Seeher",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Gibson",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Todd",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Barr",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Roberts",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Passmore",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Sato",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Barthelemy",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Mawuenyega",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Hanseeuw",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Betensky",
+          "openalex_id": ""
+        },
+        {
+          "name": "Hil Jacobs",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Kapasi",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Decarli",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Schneider",
+          "openalex_id": ""
+        },
+        {
+          "name": "W Brenowitz",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Hubbard",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Keene",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Hogan",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Jette",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Fiest",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Amador-Ortiz",
+          "openalex_id": ""
+        },
+        {
+          "name": "Z Ahmed",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Zehr",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Dickson",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jpm Kane",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Surendranathan",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Bentley",
+          "openalex_id": ""
+        },
+        {
+          "name": "J De Reuck",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Maurage",
+          "openalex_id": ""
+        },
+        {
+          "name": "V Deramecourt",
+          "openalex_id": ""
+        },
+        {
+          "name": "B James",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Bennett",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Boyle",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Leurgans",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Schneider",
+          "openalex_id": ""
+        },
+        {
+          "name": "I Stojkovska",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Krainc",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Mazzulli",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Aarsland",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Zaccai",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Brayne",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-14",
+      "abstract": "This article describes the public health impact of Alzheimer's disease, including prevalence and incidence, mortality and morbidity, use and costs of care, and the overall impact on family caregivers, the dementia workforce and society. The Special Report examines the patient journey from awareness of cognitive changes to potential treatment with drugs that change the underlying biology of Alzheimer's. An estimated 6.7 million Americans age 65 and older are living with Alzheimer's dementia today. This number could grow to 13.8 million by 2060 barring the development of medical breakthroughs to prevent, slow or cure AD. Official death certificates recorded 121,499 deaths from AD in 2019, and Alzheimer's disease was officially listed as the sixth-leading cause of death in the United States. In 2020 and 2021, when COVID-19 entered the ranks of the top ten causes of death, Alzheimer's was the seventh-leading cause of death. Alzheimer's remains the fifth-leading cause of death among Americans age 65 and older. Between 2000 and 2019, deaths from stroke, heart disease and HIV decreased, whereas reported deaths from AD increased more than 145%. This trajectory of deaths from AD was likely exacerbated by the COVID-19 pandemic in 2020 and 2021. More than 11 million family members and other unpaid caregivers provided an estimated 18 billion hours of care to people with Alzheimer's or other dementias in 2022. These figures reflect a decline in the number of caregivers compared with a decade earlier, as well as an increase in the amount of care provided by each remaining caregiver. Unpaid dementia caregiving was valued at $339.5 billion in 2022. Its costs, however, extend to family caregivers' increased risk for emotional distress and negative mental and physical health outcomes - costs that have been aggravated by COVID-19. Members of the paid health care workforce are involved in diagnosing, treating and caring for people with dementia. In recent years, however, a shortage of such workers has developed in the United States. This shortage - brought about, in part, by COVID-19 - has occurred at a time when more members of the dementia care workforce are needed. Therefore, programs will be needed to attract workers and better train health care teams. Average per-person Medicare payments for services to beneficiaries age 65 and older with AD or other dementias are almost three times as great as payments for beneficiaries without these conditions, and Medicaid payments are more than 22 times as great. Total payments in 2023 for health care, long-term care and hospice services for people age 65 and older with dementia are estimated to be $345 billion. The Special Report examines whether there will be sufficient numbers of physician specialists to provide Alzheimer's care and treatment now that two drugs are available that change the underlying biology of Alzheimer's disease.",
+      "cited_by_count": 3056,
+      "type": "article",
+      "source": {
+        "name": "Alzheimer s & Dementia",
+        "type": "journal",
+        "issn": [
+          "1552-5260",
+          "1552-5279"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.13016"
+      },
+      "topics": [
+        "Dementia and Cognitive Impairment Research",
+        "Geriatric Care and Nursing Homes",
+        "Health Systems, Economic Evaluations, Quality of Life"
+      ],
+      "referenced_works_count": 730,
+      "url": "https://openalex.org/W4324309277"
+    },
+    {
+      "openalex_id": "W3125572598",
+      "doi": "10.1207/s15516709cog2202_1",
+      "title": "Conceptual Integration Networks",
+      "authors": [
+        {
+          "name": "Gilles Fauconnier",
+          "openalex_id": "A5091634526",
+          "institutions": [
+            "University of California San Diego"
+          ]
+        },
+        {
+          "name": "Mark Turner",
+          "openalex_id": "A5089906664",
+          "orcid": "https://orcid.org/0000-0002-2089-5978",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-03-01",
+      "abstract": "Conceptual integration\u2014\u201cblending\u201d\u2014is a general cognitive operation on a par with analogy, recursion, mental modeling, conceptual categorization, and framing. It serves a variety of cognitive purposes. It is dynamic, supple, and active in the moment of thinking. It yields products that frequently become entrenched in conceptual structure and grammar, and it often performs new work on its previously entrenched products as inputs. Blending is easy to detect in spectacular cases but it is for the most part a routine, workaday process that escapes detection except on technical analysis. It is not reserved for special purposes, and is not costly. In blending, structure from input mental spaces is projected to a separate, \u201cblended\u201d mental space. The projection is selective. Through completion and elaboration, the blend develops structure not provided by the inputs. Inferences, arguments, and ideas developed in the blend can have effect in cognition, leading us to modify the initial inputs and to change our view of the corresponding situations. Blending operates according to a set of uniform structural and dynamic principles. It additionally observes a set of optimality principles.",
+      "cited_by_count": 1683,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "0364-0213",
+          "1551-6709"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1207/s15516709cog2202_1"
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition",
+        "Advanced Text Analysis Techniques",
+        "Categorization, perception, and language"
+      ],
+      "referenced_works_count": 73,
+      "url": "https://openalex.org/W3125572598"
+    },
+    {
+      "openalex_id": "W2065077342",
+      "doi": "10.1901/jeab.1996.65-185",
+      "title": "ON THE ORIGINS OF NAMING AND OTHER SYMBOLIC BEHAVIOR",
+      "authors": [
+        {
+          "name": "Pauline J. Horne",
+          "openalex_id": "A5111526338",
+          "institutions": [
+            "University of Wales"
+          ]
+        },
+        {
+          "name": "C. Fergus Lowe",
+          "openalex_id": "A5110072108",
+          "institutions": [
+            "University of Wales"
+          ]
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-01-01",
+      "abstract": "We identify naming as the basic unit of verbal behavior, describe the conditions under which it is learned, and outline its crucial role in the development of stimulus classes and, hence, of symbolic behavior. Drawing upon B. F. Skinner's functional analysis and the theoretical work of G. H. Mead and L. S. Vygotsky, we chart how a child, through learning listener behavior and then echoic responding, learns bidirectional relations between classes of objects or events and his or her own speaker-listener behavior, thus acquiring naming-a higher order behavioral relation. Once established, the bidirectionality incorporated in naming extends across behavior classes such as those identified by Skinner as the mand, tact, and intraverbal so that each becomes a variant of the name relation. We indicate how our account informs the specification of rule-governed behavior and provides the basis for an experimental analysis of symbolic behavior. Furthermore, because naming is both evoked by, and itself evokes, classes of events it brings about new or emergent behavior such as that reported in studies of stimulus equivalence. This account is supported by data from a wide range of match-to-sample studies that also provide evidence that stimulus equivalence in humans is not a unitary phenomenon but the outcome of a number of different types of naming behavior.",
+      "cited_by_count": 827,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Experimental Analysis of Behavior",
+        "type": "journal",
+        "issn": [
+          "0022-5002",
+          "1938-3711"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1350072"
+      },
+      "topics": [
+        "Behavioral and Psychological Studies",
+        "Language, Discourse, Communication Strategies",
+        "Hearing Impairment and Communication"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2065077342"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}
