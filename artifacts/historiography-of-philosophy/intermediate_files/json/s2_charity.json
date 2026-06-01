@@ -1,0 +1,15 @@
+[s2_search.py] Searching Semantic Scholar: 'principle of charity interpretation Davidson Grandy' (year=2000-2025), limit=20
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "principle of charity interpretation Davidson Grandy",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "api_error",
+      "message": "S2 API error: 403",
+      "recoverable": false
+    }
+  ]
+}
