@@ -1,0 +1,1352 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Antognazza benefit history philosophy",
+  "results": [
+    {
+      "openalex_id": "W2164250871",
+      "doi": "10.1080/09608788.2014.974020",
+      "title": "The Benefit to Philosophy of the Study of Its History",
+      "authors": [
+        {
+          "name": "Maria Rosa Antognazza",
+          "openalex_id": "A5065062584",
+          "orcid": "https://orcid.org/0000-0002-5214-479X",
+          "institutions": [
+            "King's College London"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-11-05",
+      "abstract": "This paper advances the view that the history of philosophy is both a kind of history and a kind of philosophy. Through a discussion of some examples from epistemology, metaphysics, and the historiography of philosophy, it explores the benefit to philosophy of a deep and broad engagement with its history. It comes to the conclusion that doing history of philosophy is a way to think outside the box of the current philosophical orthodoxies. Somewhat paradoxically, far from imprisoning its students in outdated and crystallized views, the history of philosophy trains the mind to think differently and alternatively about the fundamental problems of philosophy. It keeps us alert to the fact that latest is not always best, and that a genuinely new perspective often means embracing and developing an old insight. The upshot is that the study of the history of philosophy has an innovative and subversive potential, and that philosophy has a great deal to gain from a long, broad, and deep conversation with its history.",
+      "cited_by_count": 176,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kclpure.kcl.ac.uk/ws/files/119519046/The_Benefit_to_Philosophy_Acc4Oct2014Epub5Nov2014_GREEN_AAM.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy, History, and Historiography",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2164250871"
+    },
+    {
+      "openalex_id": "W2747625183",
+      "doi": "10.1007/s40961-017-0113-y",
+      "title": "The Gettier Intuition from South America to Asia",
+      "authors": [
+        {
+          "name": "\u00c9douard Machery",
+          "openalex_id": "A5067236822",
+          "orcid": "https://orcid.org/0000-0002-9944-6138",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Stephen Stich",
+          "openalex_id": "A5110697932",
+          "orcid": "https://orcid.org/0000-0002-6038-7476",
+          "institutions": [
+            "Rutgers, The State University of New Jersey"
+          ]
+        },
+        {
+          "name": "David Ros\u00e9",
+          "openalex_id": "A5104651293",
+          "orcid": "https://orcid.org/0000-0003-4035-4922",
+          "institutions": [
+            "Rutgers, The State University of New Jersey"
+          ]
+        },
+        {
+          "name": "Mario Alai",
+          "openalex_id": "A5006583128",
+          "orcid": "https://orcid.org/0000-0001-8211-2871",
+          "institutions": [
+            "University of Urbino"
+          ]
+        },
+        {
+          "name": "Adriano Angelucci",
+          "openalex_id": "A5035751656",
+          "institutions": [
+            "University of Urbino"
+          ]
+        },
+        {
+          "name": "Renatas Berni\u00fbnas",
+          "openalex_id": "A5036954396",
+          "orcid": "https://orcid.org/0000-0002-4720-8146",
+          "institutions": [
+            "Vilnius University"
+          ]
+        },
+        {
+          "name": "Emma E. Buchtel",
+          "openalex_id": "A5056297813",
+          "orcid": "https://orcid.org/0000-0002-9417-9106",
+          "institutions": [
+            "Education University of Hong Kong"
+          ]
+        },
+        {
+          "name": "Amita Chatterjee",
+          "openalex_id": "A5106183743",
+          "institutions": [
+            "Jadavpur University"
+          ]
+        },
+        {
+          "name": "Hyundeuk Cheon",
+          "openalex_id": "A5012199559",
+          "orcid": "https://orcid.org/0000-0002-7569-7776",
+          "institutions": [
+            "Ewha Womans University"
+          ]
+        },
+        {
+          "name": "In-Rae Cho",
+          "openalex_id": "A5108349476",
+          "institutions": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Daniel Cohnitz",
+          "openalex_id": "A5046122774",
+          "orcid": "https://orcid.org/0000-0001-5958-8572",
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Flori\u00e1n Cova",
+          "openalex_id": "A5079555559",
+          "orcid": "https://orcid.org/0000-0001-9360-8290",
+          "institutions": [
+            "University of Geneva"
+          ]
+        },
+        {
+          "name": "Vilius Dranseika",
+          "openalex_id": "A5037514928",
+          "orcid": "https://orcid.org/0000-0002-1144-1624",
+          "institutions": [
+            "Vilnius University"
+          ]
+        },
+        {
+          "name": "\u00c1ngeles Era\u00f1a Lagos",
+          "openalex_id": ""
+        },
+        {
+          "name": "Laleh Ghadakpour",
+          "openalex_id": "A5025263571"
+        },
+        {
+          "name": "Maurice Grinberg",
+          "openalex_id": "A5008567831",
+          "orcid": "https://orcid.org/0000-0002-9208-519X",
+          "institutions": [
+            "New Bulgarian University"
+          ]
+        },
+        {
+          "name": "Ivar R. Hannikainen",
+          "openalex_id": "A5041233682",
+          "orcid": "https://orcid.org/0000-0003-0623-357X",
+          "institutions": [
+            "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
+          ]
+        },
+        {
+          "name": "Takaaki Hashimoto",
+          "openalex_id": "A5086884524",
+          "orcid": "https://orcid.org/0000-0003-2070-9079",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Amir Horowitz",
+          "openalex_id": "A5032615410",
+          "orcid": "https://orcid.org/0000-0003-1913-0553",
+          "institutions": [
+            "Open University of Israel"
+          ]
+        },
+        {
+          "name": "Evgeniya Hristova",
+          "openalex_id": "A5015581258",
+          "orcid": "https://orcid.org/0000-0001-8127-8562",
+          "institutions": [
+            "New Bulgarian University"
+          ]
+        },
+        {
+          "name": "Yasmina Jraissati",
+          "openalex_id": "A5055827434",
+          "orcid": "https://orcid.org/0000-0002-0336-3523",
+          "institutions": [
+            "American University of Beirut"
+          ]
+        },
+        {
+          "name": "Veselina Kadreva",
+          "openalex_id": "A5004779824",
+          "institutions": [
+            "New Bulgarian University"
+          ]
+        },
+        {
+          "name": "Kaori Karasawa",
+          "openalex_id": "A5007000484",
+          "orcid": "https://orcid.org/0000-0003-0805-1673",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Hackjin Kim",
+          "openalex_id": "A5077271866",
+          "orcid": "https://orcid.org/0000-0002-8209-7621",
+          "institutions": [
+            "Korea University"
+          ]
+        },
+        {
+          "name": "Yeonjeong Kim",
+          "openalex_id": "A5009132021",
+          "orcid": "https://orcid.org/0000-0002-1319-0339",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Minwoo Lee",
+          "openalex_id": "A5100768026",
+          "orcid": "https://orcid.org/0000-0002-3369-2790",
+          "institutions": [
+            "Korea University"
+          ]
+        },
+        {
+          "name": "Carlos Mauro",
+          "openalex_id": "A5079672910",
+          "institutions": [
+            "Universidade Cat\u00f3lica Portuguesa"
+          ]
+        },
+        {
+          "name": "Masaharu Mizumoto",
+          "openalex_id": "A5061651734",
+          "orcid": "https://orcid.org/0000-0002-3138-9288",
+          "institutions": [
+            "Japan Advanced Institute of Science and Technology"
+          ]
+        },
+        {
+          "name": "Sebastiano Moruzzi",
+          "openalex_id": "A5026731876",
+          "orcid": "https://orcid.org/0000-0001-9189-2400",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Christopher Y. Olivola",
+          "openalex_id": "A5037456313",
+          "orcid": "https://orcid.org/0000-0002-3359-3055",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Jorge Ornelas",
+          "openalex_id": "A5109565580",
+          "institutions": [
+            "Autonomous University of San Luis Potos\u00ed"
+          ]
+        },
+        {
+          "name": "Barbara Osimani",
+          "openalex_id": "A5054441811",
+          "orcid": "https://orcid.org/0000-0001-5212-9525",
+          "institutions": [
+            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          ]
+        },
+        {
+          "name": "Carlos Romero",
+          "openalex_id": "A5035646329",
+          "orcid": "https://orcid.org/0000-0001-7279-977X"
+        },
+        {
+          "name": "Alejandro Rosas",
+          "openalex_id": "A5046324818",
+          "orcid": "https://orcid.org/0000-0003-2941-0559",
+          "institutions": [
+            "Universidad Nacional de Colombia"
+          ]
+        },
+        {
+          "name": "Massimo Sangoi",
+          "openalex_id": "A5012977384",
+          "institutions": [
+            "University of Urbino"
+          ]
+        },
+        {
+          "name": "Andrea Sereni",
+          "openalex_id": "A5047345460",
+          "orcid": "https://orcid.org/0000-0003-0946-6467",
+          "institutions": [
+            "Istituto Universitario di Studi Superiori di Pavia"
+          ]
+        },
+        {
+          "name": "Sarah Songhorian",
+          "openalex_id": "A5015787162",
+          "orcid": "https://orcid.org/0000-0002-0847-5276",
+          "institutions": [
+            "Vita-Salute San Raffaele University"
+          ]
+        },
+        {
+          "name": "Paulo Sousa",
+          "openalex_id": "A5036609288",
+          "orcid": "https://orcid.org/0000-0002-7681-855X"
+        },
+        {
+          "name": "Noel Struchiner",
+          "openalex_id": "A5083358182",
+          "orcid": "https://orcid.org/0000-0001-6237-9691",
+          "institutions": [
+            "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
+          ]
+        },
+        {
+          "name": "Vera Tripodi",
+          "openalex_id": "A5008398910",
+          "orcid": "https://orcid.org/0000-0002-5591-6839",
+          "institutions": [
+            "University of Turin"
+          ]
+        },
+        {
+          "name": "Naoki Usui",
+          "openalex_id": "A5087432288",
+          "institutions": [
+            "Mie University",
+            "Tsu City College"
+          ]
+        },
+        {
+          "name": "Alejandro V\u00e1zquez del Mercado",
+          "openalex_id": "A5080801985",
+          "orcid": "https://orcid.org/0000-0003-0686-3782"
+        },
+        {
+          "name": "Giorgio Volpe",
+          "openalex_id": "A5102822610",
+          "orcid": "https://orcid.org/0000-0002-5272-2035",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Hrag A. Vosgerichian",
+          "openalex_id": "A5060939861",
+          "institutions": [
+            "American University of Beirut"
+          ]
+        },
+        {
+          "name": "Xueyi Zhang",
+          "openalex_id": "A5019936018",
+          "orcid": "https://orcid.org/0000-0002-7819-930X",
+          "institutions": [
+            "Southeast University"
+          ]
+        },
+        {
+          "name": "Jing Zhu",
+          "openalex_id": "A5102751244",
+          "orcid": "https://orcid.org/0009-0000-2133-3013",
+          "institutions": [
+            "Sun Yat-sen University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-23",
+      "abstract": null,
+      "cited_by_count": 69,
+      "type": "article",
+      "source": {
+        "name": "Journal of Indian Council of Philosophical Research",
+        "type": "journal",
+        "issn": [
+          "2363-9962"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s40961-017-0113-y.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Psychology of Moral and Emotional Judgment",
+        "Decision-Making and Behavioral Economics"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W2747625183"
+    },
+    {
+      "openalex_id": "W2342947023",
+      "doi": "10.1111/phpe.12061",
+      "title": "THE LEGEND OF THE JUSTIFIED TRUE BELIEF ANALYSIS",
+      "authors": [
+        {
+          "name": "Julien Dutant",
+          "openalex_id": "A5014181140",
+          "orcid": "https://orcid.org/0000-0002-2939-5670"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-01",
+      "abstract": null,
+      "cited_by_count": 123,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Perspectives",
+        "type": "journal",
+        "issn": [
+          "1520-8583",
+          "1758-2245"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phpe.12061"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Psychology of Moral and Emotional Judgment",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 163,
+      "url": "https://openalex.org/W2342947023"
+    },
+    {
+      "openalex_id": "W3094037525",
+      "doi": "10.1093/arisoc/aoaa013",
+      "title": "XII\u2014The Distinction in Kind between Knowledge and Belief",
+      "authors": [
+        {
+          "name": "Maria Rosa Antognazza",
+          "openalex_id": "A5065062584",
+          "orcid": "https://orcid.org/0000-0002-5214-479X",
+          "institutions": [
+            "King's College London"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-01",
+      "abstract": "Abstract Drawing inspiration from a well-attested historical tradition, I propose an account of cognition according to which knowledge is not only prior to belief; it is also, and crucially, not a kind of belief. Believing, in turn, is not some sort of botched knowing, but a mental state fundamentally different from knowing, with its own distinctive and complementary role in our cognitive life. I conclude that the main battle-line in the history of epistemology is drawn between the affirmation of a natural mental state in which there is a contact between \u2018mind\u2019 and \u2018reality\u2019 (whatever the ontological nature of this \u2018reality\u2019) and the rejection of such a natural mental state. For the former position, there is a mental state which is different in kind from belief, and which is constituted by the presence of the object of cognition to the cognitive subject, with no gap between them. For the latter position, all our cognition is belief, and the question becomes how and when belief is permissible.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the Aristotelian Society",
+        "type": "journal",
+        "issn": [
+          "0066-7374",
+          "1467-9264"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kclpure.kcl.ac.uk/ws/files/139468430/The_Distinction_in_Kind_ANTOGNAZZA_Accepted12May2020Publishedonline21October2020_GOLD_PROOF_CC_BY_NC_.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Classical Philosophy and Thought",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W3094037525"
+    },
+    {
+      "openalex_id": "W127877370",
+      "doi": "10.1515/9783110260922.179",
+      "title": "Knowledge and Suffering in Early Modern Philosophy: G.W. Leibniz and Anne Conway",
+      "authors": [
+        {
+          "name": "Christia Mercer",
+          "openalex_id": "A5029199936"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-07-13",
+      "abstract": "The passions of Christ constitute a centerpiece of the Christian narrative, which itself forms the backdrop for much of early modern thought. This paper focuses on Christ's suffering as the point at which passions, reason, and cognition collide. It explores the components of that collision and examines how Gottfried Wilhelm Leibniz (1646-1716) and Anne Finch Conway (1631-79) respond to them. Late medieval and early modern art frames the discussion. Works of sculpture, like the Roettgen Piet, and paintings, like Matthias Grnewald's Isenheim Altarpiece, suggest that cognitive benefits result from recognizing suffering as part of the order of things. The paper summarizes the thought of Conway and Leibniz in this context. It describes their rationalism and their commitment to a radical ecumenicalism, according to which partial knowledge of the divine is available to everyone, regardless of religion. It then focuses on the moral and cognitive benefits of suffering. For Conway, such benefits come from suffering itself. For Leibniz, they follow from what is learned in the transition from a state of suffering to one of non-suffering. In the end, Leibnitz and Conway believe that suffering contributes to moral development and that it assists in the acquisition of knowledge of important truths.",
+      "cited_by_count": 27,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110260922.179/pdf"
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "Classical Philosophy and Thought",
+        "Medieval and Classical Philosophy"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W127877370"
+    },
+    {
+      "openalex_id": "W4293055627",
+      "doi": "10.1007/s11229-022-03748-1",
+      "title": "Cook Wilson on knowledge and forms of thinking",
+      "authors": [
+        {
+          "name": "Guy Longworth",
+          "openalex_id": "A5057653981",
+          "institutions": [
+            "University of Warwick"
+          ]
+        },
+        {
+          "name": "Simon Wimmer",
+          "openalex_id": "A5004098069",
+          "orcid": "https://orcid.org/0000-0001-5346-9986",
+          "institutions": [
+            "TU Dortmund University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-27",
+      "abstract": "Abstract John Cook Wilson is an important predecessor of contemporary knowledge first epistemologists: among other parallels, he claimed that knowledge is indefinable. We reconstruct four arguments for this claim discernible in his work, three of which find no clear analogues in contemporary discussions of knowledge first epistemology. We pay special attention to Cook Wilson\u2019s view of the relation between knowledge and forms of thinking (like belief). Claims of Cook Wilson\u2019s that support the indefinability of knowledge include: that knowledge, unlike belief, straddles an active/passive divide; that, rather than entailing belief, knowledge excludes belief; and that understanding forms of thinking other than knowledge (such as belief) depends on understanding knowledge. Reflecting on Cook Wilson\u2019s framework highlights underappreciated concerns relevant to any attempt to define knowledge.",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-022-03748-1.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science",
+        "Logic, Reasoning, and Knowledge"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W4293055627"
+    },
+    {
+      "openalex_id": "W3134206894",
+      "doi": "10.1515/agph-2019-0073",
+      "title": "Christian Wolff \u00fcber motivierende Gr\u00fcnde und handlungsrelevante Irrt\u00fcmer",
+      "authors": [
+        {
+          "name": "Sonja Schierbaum",
+          "openalex_id": "A5061356107",
+          "institutions": [
+            "University of W\u00fcrzburg"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-04",
+      "abstract": "Abstract In this paper, I discuss Christian Wolff\u2019s conception of motivating and normative reasons. My aim is to show that in the discussion of error cases, Wolff pursues a strategy that is strikingly similar to the strategy of contemporary defenders of nicht-psychologist accounts of motivating reasons. According to many nicht-psychologist views, motivating reasons are facts. My aim is to show that Wolff\u2019s motivation in pursuing this strategy is very different. The point is that due to his commitment to the Principle of Sufficient Reason, Wolff has to show that error cases are compatible with the PSR. The issue is worth discussing because it is not yet sufficiently explored what motivating reasons are, according to Wolff, and how they relate, in substance, to normative reasons. Methodologically, my approach can be characterized as one of \u201cmutual illumination\u201d: I think it is possible to highlight some crucial ambiguities of Wolff\u2019s conception against the backdrop of the contemporary conception of motivating reasons, but also to question the importance and role of the ontological question of what motivating reasons are in contemporary discussions against the backdrop of Wolff\u2019s position.",
+      "cited_by_count": 26,
+      "type": "article",
+      "source": {
+        "name": "Archiv f\u00fcr Geschichte der Philosophie",
+        "type": "journal",
+        "issn": [
+          "0003-9101",
+          "0943-3988",
+          "1613-0650"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/agph-2019-0073/pdf"
+      },
+      "topics": [
+        "Free Will and Agency",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W3134206894"
+    },
+    {
+      "openalex_id": "W1965715399",
+      "doi": "10.5194/gh-68-81-2013",
+      "title": "Leibniz and geography: geologist, paleontologist, biologist, historian, political theorist and geopolitician",
+      "authors": [
+        {
+          "name": "Stuart Elden",
+          "openalex_id": "A5089411607",
+          "orcid": "https://orcid.org/0000-0002-7885-2444",
+          "institutions": [
+            "Durham University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-07-10",
+      "abstract": "Abstract. This article discusses the way that the German philosopher and mathematician Gottfried Leibniz (1646\u20131716) made a number of significant contributions to geography. In outlining his contributions as a geologist, palaeontologist, biologist, historian, political theorist and geopolitician, it challenges the straightforward way he is read in geography. Particular focus is on his Protogaea, the Annales Imperii and the Consilium Aegyptiacum, respectively a pre-history of the earth, a chronology of German nobility in the Middle Ages, and a military-strategic proposal to King Louis XIV. Making use of contemporary debates about ways of reading Leibniz, and drawing on a wide range of his writings, the article indicates just how much remains to be discovered about his work.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Geographica Helvetica",
+        "type": "journal",
+        "issn": [
+          "0016-7312",
+          "2194-8798"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://gh.copernicus.org/articles/68/81/2013/gh-68-81-2013.pdf"
+      },
+      "topics": [
+        "History of Science and Natural History",
+        "Alexander von Humboldt Studies",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W1965715399"
+    },
+    {
+      "openalex_id": "W2973327113",
+      "doi": "10.4324/9781315103570",
+      "title": "Leibniz\u2019s Legacy and Impact",
+      "authors": [
+        {
+          "name": "Weckend, Julia",
+          "openalex_id": ""
+        },
+        {
+          "name": "Strickland, Lloyd 1973-",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-19",
+      "abstract": "\"This volume tells the story of the legacy and impact of the great German polymath Gottfried Wilhelm Leibniz (1646-1716). Leibniz made significant contributions to many areas, including philosophy, mathematics, political and social theory, theology, and various sciences. The essays in this volume explores the effects of Leibniz's profound insights on subsequent generations of thinkers by tracing the ways in which his ideas have been defended and developed in the three centuries since his death. Each of the 11 essays is concerned with Leibniz's legacy and impact in a particular area, and between them they show not just the depth of Leibniz's talents but also the extent to which he shaped the various domains to which he contributed, and in some cases continues to shape them today. With essays written by experts such as Nicholas Jolley, Pauline Phemister, and Philip Beeley, this volume is essential reading not just for students of Leibniz but also for those who wish to understand the game-changing impact made by one of history's true universal geniuses\"--",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.pure.ed.ac.uk/ws/files/95498472/Theoria_cum_praxi_FINAL_PURE_.pdf"
+      },
+      "topics": [
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2973327113"
+    },
+    {
+      "openalex_id": "W4377994343",
+      "doi": "10.1007/978-3-030-19071-2_90-1",
+      "title": "Leibniz on Number Systems",
+      "authors": [
+        {
+          "name": "Lloyd Strickland",
+          "openalex_id": "A5006138623",
+          "orcid": "https://orcid.org/0000-0003-2560-6909",
+          "institutions": [
+            "Manchester Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": null,
+      "cited_by_count": 14,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/STRLON.pdf"
+      },
+      "topics": [
+        "History and Theory of Mathematics",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W4377994343"
+    },
+    {
+      "openalex_id": "W4387709043",
+      "doi": "10.1093/monist/onad020",
+      "title": "How Infallibilists Can Have It All",
+      "authors": [
+        {
+          "name": "Nevin Climenhaga",
+          "openalex_id": "A5007845240",
+          "orcid": "https://orcid.org/0000-0002-7376-8788",
+          "institutions": [
+            "Czech Academy of Sciences, Institute of Philosophy",
+            "Australian Catholic University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-01",
+      "abstract": "Abstract I advance a novel argument for an infallibilist theory of knowledge, according to which we know all and only those propositions that are certain for us. I argue that this theory lets us reconcile major extant theories of knowledge, in the following sense: for any of these theories, if we require that its central condition (evidential support, reliability, safety, etc.) obtains to a maximal degree, we get a theory of knowledge extensionally equivalent to infallibilism. As such, the infallibilist can affirm that, when their conditions are suitably interpreted, most post-Gettier theories of knowledge offer necessary and sufficient conditions for knowledge. The infallibilist can thus reconcile major theories of knowledge, and is in a better position to explain the intuitive appeal of these theories than the fallibilist who only accepts one of them, and rejects the rest.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "The Monist",
+        "type": "journal",
+        "issn": [
+          "0026-9662",
+          "2153-3601"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/monist/article-pdf/106/4/363/52187156/onad020.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science",
+        "Logic, Reasoning, and Knowledge"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W4387709043"
+    },
+    {
+      "openalex_id": "W4406620296",
+      "doi": "10.1002/edn3.70056",
+      "title": "Targeting Terrestrial Vertebrates With <scp>eDNA</scp> : Trends, Perspectives, and Considerations for Sampling",
+      "authors": [
+        {
+          "name": "Joshua P. Newton",
+          "openalex_id": "A5069174927",
+          "orcid": "https://orcid.org/0000-0002-6269-1789",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Morten E. Allentoft",
+          "openalex_id": "A5041528578",
+          "orcid": "https://orcid.org/0000-0003-4424-3568",
+          "institutions": [
+            "University of Copenhagen",
+            "Curtin University",
+            "Lundbeck Foundation"
+          ]
+        },
+        {
+          "name": "Philip W. Bateman",
+          "openalex_id": "A5048053214",
+          "orcid": "https://orcid.org/0000-0002-3036-5479",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Mieke van der Heyde",
+          "openalex_id": "A5006308249",
+          "orcid": "https://orcid.org/0000-0002-1658-9927",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Paul Nevill",
+          "openalex_id": "A5016559855",
+          "orcid": "https://orcid.org/0000-0001-8238-0534",
+          "institutions": [
+            "Curtin University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "ABSTRACT Terrestrial vertebrates are experiencing worldwide population declines and species extinctions. To effectively conserve remaining populations and species, rapid, cost\u2010effective, and scalable methods are needed to complement longstanding monitoring methods. Increasingly, environmental DNA (eDNA)\u2010based approaches are being used for terrestrial vertebrate biomonitoring within a range of environments. However, as we move eDNA biomonitoring onto land, we are presented with a new set of challenges. This necessitates the development of \u201cbest\u2010practice\u201d eDNA sample collection guidelines for terrestrial systems with the purpose of detecting terrestrial vertebrates. To address these needs, we conducted a systematic literature review of 143 peer\u2010reviewed papers applying eDNA to terrestrial vertebrate monitoring (excluding Lissamphibia) that were published between 2012 and 2023. We summarize the use of eDNA for terrestrial vertebrate biomonitoring, focusing on study design and field techniques. Over the decade we observe a steady growth in the annual number of publications, with 3 in 2012 and 33 in 2023. The majority of the reviewed studies targeted terrestrial mammals within temperate forest regions. While an equal number of studies focused on a metabarcoding approach to assess community taxon composition and/or species\u2010specific eDNA detection methods, novel uses are increasingly published. These include studies of animal behavior and population genetics. We record three types of sampling strategies, eight different substrate types, and seven different preservation methods, suggesting that there is no \u201cone size fits all\u201d eDNA\u2010based sampling methodology when detecting terrestrial vertebrates. With a multitude of study aims, across different environments, and target organisms with different ecologies, the standardization of eDNA sampling approaches in terrestrial systems is extremely challenging. We summarize in a table known factors influencing eDNA detection within terrestrial environments. Furthermore, we identify five key considerations to be addressed when sampling for eDNA studies targeting terrestrial vertebrate species, with the aim of guiding decision making.",
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "Environmental DNA",
+        "type": "journal",
+        "issn": [
+          "2637-4943"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/edn3.70056"
+      },
+      "topics": [
+        "Environmental DNA in Biodiversity Studies",
+        "Identification and Quantification in Food",
+        "Genomics and Phylogenetic Studies"
+      ],
+      "referenced_works_count": 139,
+      "url": "https://openalex.org/W4406620296"
+    },
+    {
+      "openalex_id": "W2498171914",
+      "doi": "10.1007/978-3-319-38830-4_2",
+      "title": "Philosophy and Science in Leibniz",
+      "authors": [
+        {
+          "name": "Maria Rosa Antognazza",
+          "openalex_id": "A5065062584",
+          "orcid": "https://orcid.org/0000-0002-5214-479X",
+          "institutions": [
+            "King's College School",
+            "King's College London"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-15",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ANTPAS-2.pdf"
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "Classical Philosophy and Thought",
+        "Diverse Historical and Scientific Studies"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2498171914"
+    },
+    {
+      "openalex_id": "W3164932381",
+      "doi": "10.2147/prbm.s300748",
+      "title": "Exploring the Challenges of Social-Emotional Learning Integration in Secondary Schools: A Phenomenological Research in Vietnam",
+      "authors": [
+        {
+          "name": "Van-Son Huynh",
+          "openalex_id": "A5074560142",
+          "orcid": "https://orcid.org/0000-0003-3314-4329",
+          "institutions": [
+            "Ho Chi Minh City University of Education"
+          ]
+        },
+        {
+          "name": "Thien-Vu Giang",
+          "openalex_id": "A5047773109",
+          "orcid": "https://orcid.org/0000-0002-6536-0707",
+          "institutions": [
+            "Ho Chi Minh City University of Education"
+          ]
+        },
+        {
+          "name": "Thi-Tu Nguyen",
+          "openalex_id": "A5050191682",
+          "institutions": [
+            "Ho Chi Minh City University of Education"
+          ]
+        },
+        {
+          "name": "Duc-Hoi Dinh",
+          "openalex_id": "A5062243630",
+          "orcid": "https://orcid.org/0000-0002-0926-6142",
+          "institutions": [
+            "Thai Nguyen University",
+            "Thai Nguyen University Of Education"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-05-01",
+      "abstract": "INTRODUCTION: With the advantage of the restructured education in Vietnam, the social-emotional learning (SEL) framework has been gradually piloting applied into the educational curriculum. However, the SEL integration is only effective in primary school. METHODS: This study applied qualitative phenomenological research, which used in-depth interviews with students and core teachers who have experienced SEL from previous studies to explore and explain the SEL integration is not successful at the secondary level. FINDINGS: Four findings showed the current challenges of SEL's integration in Vietnamese educational curriculum: 1) the incompatibility between the current curriculum and the teachers' pedagogical capacity; 2) the perceived difficulties in integrating SEL into educational activities; 3) the limited focus on understanding the students' psychology; and 4) students cannot develop their social-emotional competence. DISCUSSION: When the challenges can be solved, corresponding to the solutions discussed, can the SEL framework be properly integrated into Vietnamese education, as well as designing an integrated continuous SEL-orientated curriculum across school levels, meeting the requirements of the new educational curriculum.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Psychology Research and Behavior Management",
+        "type": "journal",
+        "issn": [
+          "1179-1578"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.dovepress.com/getfile.php?fileID=69921"
+      },
+      "topics": [
+        "Early Childhood Education and Development",
+        "Emotional Intelligence and Performance",
+        "Educational Environments and Student Outcomes"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W3164932381"
+    },
+    {
+      "openalex_id": "W4213283029",
+      "doi": "10.1017/epi.2021.57",
+      "title": "The Explanationist and the Modalist",
+      "authors": [
+        {
+          "name": "Dario Mortini",
+          "openalex_id": "A5042407739",
+          "orcid": "https://orcid.org/0000-0001-9003-4789",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-18",
+      "abstract": "Abstract Recent epistemology has witnessed a substantial opposition between two competing approaches to capturing the notion of non-accidentality in the analysis of knowledge: the explanationist and the modalist. According to the latest advocates of the former (e.g., Bogardus and Perrin 2020), S knows that p if and only if S believes that p because p is true. According to champions of the latter (e.g., safety and sensitivity theorists), S knows that p if and only if S's belief that p is true in a relevant set of possible worlds. Because Bogardus and Perrin's explanationism promises to deliver a plausible analysis of knowledge without any need for modal notions, it is an elegant proposal with prima facie appeal. However, such version of explanationism ultimately does not live up to its promises: in this paper, I raise some objections to their explanationist analysis of knowledge while showing that modalism is in much better shape than they think. In particular, I argue that their explanationist condition generates the wrong results in Gettier cases and fake-barn cases. I also offer and defend a novel version of modalism: I introduce a refined safety condition which is shown to successfully handle the same Gettier cases that beset Bogardus and Perrin's version of explanationism. The paper concludes with a reassessment of the explanationist's initial ambition to provide an analysis of knowledge without modal notions. The upshot will be that even if the prospects for such analysis remain dim, our money should be on the modalist, not the explanationist.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Episteme",
+        "type": "journal",
+        "issn": [
+          "1742-3600",
+          "1750-0117"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FF1671C05E7FB70A265A7CDAC03A6A85/S1742360021000575a.pdf/div-class-title-the-explanationist-and-the-modalist-div.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Logic, Reasoning, and Knowledge",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W4213283029"
+    },
+    {
+      "openalex_id": "W4409773964",
+      "doi": "10.1353/hph.2025.a958790",
+      "title": "Justified True Belief: The Remarkable History of Mainstream Epistemology",
+      "authors": [
+        {
+          "name": "Sander Verhaegh",
+          "openalex_id": "A5011802868",
+          "orcid": "https://orcid.org/0000-0003-3208-3448",
+          "institutions": [
+            "Tilburg University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-01",
+      "abstract": "abstract: This paper reconstructs the origins of Gettier-style epistemology, highlighting the philosophical and methodological debates that led to its development in the 1960s. Though present-day epistemologists assume that the search for necessary and sufficient conditions for knowledge began with Gettier\u2019s 1963 argument against the JTB definition, I show that this research program can be traced back to British discussions about knowledge and analysis in the 1940s and 1950s. I discuss work of, among others, Bertrand Russell, G. E. Moore, A. J. Ayer, Norman Malcolm, and A. D. Woozley, showing how exchanges between different schools of analytic philosophy gave rise to new ideas about the nature of knowledge and analysis. Finally, I turn to Gettier\u2019s intellectual development and argue that his paper was influenced by some of these debates, suggesting that even his interpretation of Plato\u2019s definition of knowledge can be traced back to discussions in this period.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/1/article/958790/pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4409773964"
+    },
+    {
+      "openalex_id": "W2911454160",
+      "doi": "10.3389/fnsys.2018.00073",
+      "title": "Eye Movement Compensation and Spatial Updating in Visual Prosthetics: Mechanisms, Limitations and Future Directions",
+      "authors": [
+        {
+          "name": "Nadia Paraskevoudi",
+          "openalex_id": "A5040766458",
+          "orcid": "https://orcid.org/0000-0001-9946-7580",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "John S. Pezaris",
+          "openalex_id": "A5040069148",
+          "orcid": "https://orcid.org/0000-0002-5071-7478",
+          "institutions": [
+            "Massachusetts General Hospital",
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-01",
+      "abstract": "Despite appearing automatic and effortless, perceiving the visual world is a highly complex process that depends on intact visual and oculomotor function. Understanding the mechanisms underlying spatial updating (i.e., gaze contingency) represents an important, yet unresolved issue in the fields of visual perception and cognitive neuroscience. Many questions regarding the processes involved in updating visual information as a function of the movements of the eyes are still open for research. Beyond its importance for basic research, gaze contingency represents a challenge for visual prosthetics as well. While most artificial vision studies acknowledge its importance in providing accurate visual percepts to the blind implanted patients, the majority of the current devices do not compensate for gaze position. To-date, artificial percepts to the blind population have been provided either by intraocular light-sensing circuitry or by using external cameras. While the former commonly accounts for gaze shifts, the latter requires the use of eye-tracking or similar technology in order to deliver percepts based on gaze position. Inspired by the need to overcome the hurdle of gaze contingency in artificial vision, we aim to provide a thorough overview of the research addressing the neural underpinnings of eye compensation, as well as its relevance in visual prosthetics. The present review outlines what is currently known about the mechanisms underlying spatial updating and reviews the attempts of current visual prosthetic devices to overcome the hurdle of gaze contingency. We discuss the limitations of the current devices and highlight the need to use eye-tracking methodology in order to introduce gaze-contingent information to visual prosthetics.",
+      "cited_by_count": 41,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Systems Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5137"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnsys.2018.00073/pdf"
+      },
+      "topics": [
+        "Neuroscience and Neural Engineering",
+        "Advanced Memory and Neural Computing",
+        "Photoreceptor and optogenetics research"
+      ],
+      "referenced_works_count": 176,
+      "url": "https://openalex.org/W2911454160"
+    },
+    {
+      "openalex_id": "W4413129669",
+      "doi": "10.1080/09608788.2025.2530558",
+      "title": "On the presentational unity of knowing in Ny\u0101ya",
+      "authors": [
+        {
+          "name": "Kurt Sylvan",
+          "openalex_id": "A5070372387",
+          "orcid": "https://orcid.org/0000-0002-1000-5927",
+          "institutions": [
+            "University of Southampton"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-08-11",
+      "abstract": "Many Sanskrit epistemologists think there are several basic ways of knowing (pram\u0101\u1e47as). Yet there is also a long tradition of seeking a general definition of pram\u0101, the mental episode of knowing that is the result of a pram\u0101\u1e47a. One popular definition of pram\u0101 invokes the concept of anubhava. In ordinary usage, \u2018anubhava\u2019 means experience. But in the context of defining pram\u0101 it usually receives a more technical-sounding translation, like \u2018presentational awareness\u2019 or \u2018non-mnemic awareness episode\u2019. This paper considers how to interpret the anubhava condition in Ny\u0101ya epistemology. On a presentationalist interpretation, the condition requires pram\u0101 to present the cognizer with its object in a perception-like way. On a deflationary interpretation, the condition only functions to exclude memory from counting as a pram\u0101\u1e47a. This paper defends a modest presentationalist interpretation. \u00a72 and \u00a73 present two kinds of arguments for this interpretation. \u00a74 embeds the interpretation within a wider presentationalist framework, but stresses important disanalogies with the presentational conception of knowing Maria Rosa Antognazza claimed was \u201cgenuinely traditional\u201d in the history of epistemology.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09608788.2025.2530558?needAccess=true"
+      },
+      "topics": [
+        "Indian and Buddhist Studies",
+        "Classical Philosophy and Thought",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4413129669"
+    },
+    {
+      "openalex_id": "W4293224973",
+      "doi": "10.1007/s11098-022-01861-y",
+      "title": "Knowledge, individualised evidence and luck",
+      "authors": [
+        {
+          "name": "Dario Mortini",
+          "openalex_id": "A5042407739",
+          "orcid": "https://orcid.org/0000-0001-9003-4789",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-25",
+      "abstract": "Abstract The notion of individualised evidence holds the key to solve the puzzle of statistical evidence, but there\u2019s still no consensus on how exactly to define it. To make progress on the problem, epistemologists have proposed various accounts of individualised evidence in terms of causal or modal anti-luck conditions on knowledge like appropriate causation (Thomson 1986), sensitivity (Enoch et al. 2012) and safety (Pritchard 2018). In this paper, I show that each of these fails as satisfactory anti-luck condition, and that such failure lends abductive support to the following conclusion: once the familiar anti-luck intuition on knowledge is extended to individualised evidence, no single causal or modal anti-luck condition on knowledge can succeed as the right anti-luck condition on individualised evidence. This conclusion casts serious doubts on the fruitfulness of the move from anti-luck conditions on knowledge to anti-luck conditions on individualised evidence. I expand on these doubts and point out further aspects where epistemology and the law come apart: epistemic anti- luck conditions on knowledge do not adequately characterise the legal notion of individualised evidence.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-022-01861-y.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Jury Decision Making Processes",
+        "Law, Economics, and Judicial Systems"
+      ],
+      "referenced_works_count": 78,
+      "url": "https://openalex.org/W4293224973"
+    },
+    {
+      "openalex_id": "W4313199188",
+      "doi": "10.21267/aquilo.2022.81.81.017",
+      "title": "Historical Symbolism of Video Games as a Factor in Correcting the Social Memory of the General Public (on the Materials of the Assassin's Creed Franchise)",
+      "authors": [
+        {
+          "name": "\u0421.\u0418. \u0411\u0435\u043b\u043e\u0432",
+          "openalex_id": "A5068925678"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-24",
+      "abstract": "\u0426\u0435\u043b\u044c\u044e \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0446\u0435\u043d\u043a\u0430 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0430 \u0432\u043b\u0438\u044f\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u043c\u0432\u043e\u043b\u0438\u043a\u0438 \u0432\u0438\u0434\u0435\u043e\u0438\u0433\u0440 \u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0439 \u043e \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u043c \u043f\u0440\u043e\u0448\u043b\u043e\u043c \u0432 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u043c \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0438. \u041c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u044b\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u0434\u0435\u0441\u043a\u0440\u0438\u043f\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0441 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044b\u043c \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435\u043c. \u0412 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u044d\u043c\u043f\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u044b \u0440\u0430\u0431\u043e\u0442\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d \u043e\u043f\u044b\u0442 \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0441\u0435\u0440\u0438\u0438 \u0438\u0433\u0440 Assassin's Creed. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e, \u0447\u0442\u043e \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0432\u0438\u0434\u0435\u043e\u0438\u0433\u0440 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430 \u0441\u0447\u0435\u0442 \u0441\u0442\u0438\u0433\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438, \u0434\u0435\u0441\u0430\u043a\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u0441\u043c\u0435\u043d\u044b \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u00ab\u0444\u0438\u0433\u0443\u0440 \u043f\u0430\u043c\u044f\u0442\u0438\u00bb, \u043f\u043e\u0434\u043c\u0435\u043d\u044b \u0441\u043c\u044b\u0441\u043b\u043e\u0432 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u043c\u0432\u043e\u043b\u0438\u043a\u0435 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438 \u043a\u043e\u043d\u0441\u043f\u0438\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u0440\u0430\u0442\u0438\u0432\u0430. \u042d\u0442\u0438 \u043f\u0440\u0438\u0435\u043c\u044b \u0440\u0435\u043b\u0435\u0432\u0430\u043d\u0442\u043d\u044b \u043f\u0440\u0438\u0440\u043e\u0434\u0435 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u0438 \u0438 \u043f\u043e\u0442\u043e\u043c\u0443 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u043e\u043c \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f. The aim of this work is to assess the potential of the influence of the historical symbolism of video games on the system of ideas about the collective past in the mass consciousness. The research methodology is built on the basis of a combination of descriptive analysis with included observation. The experience of passing the Assassin's Creed series of games was used as an empirical basis for the work. It has been established that within the framework of video games, social memory is corrected through stigmatization, desacralization and change in the positioning of \u201cfigures of memory\u201d, substitution of meanings in historical symbolism and the promotion of a conspiracy narrative. These techniques are relevant to the nature of social memory and therefore have a high impact potential.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "\u0414\u0438\u0430\u043b\u043e\u0433 \u0441\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c",
+        "type": "journal",
+        "issn": [
+          "2073-7564"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.21267/aquilo.2022.81.81.017"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia"
+      ],
+      "referenced_works_count": 142,
+      "url": "https://openalex.org/W4313199188"
+    },
+    {
+      "openalex_id": "W4376645347",
+      "doi": "10.1080/09608788.2023.2186833",
+      "title": "Intuition in the history of philosophy (what\u2019s in it for philosophers today?)",
+      "authors": [
+        {
+          "name": "Maria Rosa Antognazza",
+          "openalex_id": "A5065062584",
+          "orcid": "https://orcid.org/0000-0002-5214-479X",
+          "institutions": [
+            "King's College London"
+          ]
+        },
+        {
+          "name": "Marco Segala",
+          "openalex_id": "A5028816083",
+          "orcid": "https://orcid.org/0000-0001-9827-0014",
+          "institutions": [
+            "University of L'Aquila"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-05-16",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09608788.2023.2186833?download=true"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4376645347"
+    },
+    {
+      "openalex_id": "W2549455750",
+      "doi": "10.1007/978-3-319-38830-4_11",
+      "title": "How Leibniz Would Have Responded to the Lisbon Earthquake",
+      "authors": [
+        {
+          "name": "Lloyd Strickland",
+          "openalex_id": "A5006138623",
+          "orcid": "https://orcid.org/0000-0003-2560-6909",
+          "institutions": [
+            "Manchester Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-15",
+      "abstract": "On 1 November 1755, the city of Lisbon in Portugal was virtually destroyed by the largest documented seismic event ever to hit Europe. At around 9.30 in the morning, the city was shaken by a violent earthquake that occurred in the Atlantic Ocean, around 100 miles south-west of Lisbon (current estimates put it at around 8.5 on the Richter scale). Around forty minutes later, the city was flooded by a tsunami, the first of three. In the areas that stayed dry there broke out numerous fires which raged for five days. The loss of life was huge\u2014some estimates put the death toll at 10,000, others at many times that. It was a catastrophe almost of biblical proportions. As such, it invited speculation as to its theological significance, speculation that was heightened by the fact that, as the event occurred on a religious holiday (All Saints\u2019 Day), many people had died in church, celebrating mass, while many others had died due to fires that had started on account of fallen altar candles.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://e-space.mmu.ac.uk/165/8/How%20Leibniz%20would%20have%20responded%20to%20the%20Lisbon%20earthquake%20-%20Palgrave.pdf"
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "Historical Astronomy and Related Studies",
+        "Marine and environmental studies"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W2549455750"
+    },
+    {
+      "openalex_id": "W2979766197",
+      "doi": "10.4324/9781315103570-12",
+      "title": "Theoria cum praxi",
+      "authors": [
+        {
+          "name": "Pauline Phemister",
+          "openalex_id": "A5023682088"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-19",
+      "abstract": "This chapter explores some of the ways in which Leibniz sought to combine his theoretical investigations with practical projects in pursuit of the common good and considers how this methodological model might be\u2014and in at least one instance is\u2014bearing fruit in animal studies and environmentalism. Scene setting remarks introduce Leibniz\u2019s proposed strategies for the restoration of harmony through the resolution of conflicts. There follows consideration of Leibniz \u2018s theoretical studies on language and conceptual analysis and their role within Leibniz\u2019s efforts to foster European-Chinese cultural exchange. Leibniz was convinced that the advancement of peace and harmony among humans was most effectively secured through encouraging mutual understanding and collaborative enquiry. Cultural exchange has a part to play, but so too do the research investigations and practical projects tasked to the Scientific Academies, as envisaged by Leibniz. His vision for the Academies is discussed briefly before turning to the question of the significance of Leibniz\u2019s theoretical-practical endeavors in the contemporary context. Here, we discover how Leibniz\u2019s approach resonates today, albeit implicitly, in the methods and aspirations of Denise Herzing\u2019s Wild Dolphin Project, where the Leibnizian goal of mutual understanding and respect among humans is being extended beyond the human, helping to foster harmonious relationships between humans and other creatures in nature and encouraging the development of sound environmental policies for their protection.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.pure.ed.ac.uk/ws/files/95498472/Theoria_cum_praxi_FINAL_PURE_.pdf"
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "Alexander von Humboldt Studies",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2979766197"
+    },
+    {
+      "openalex_id": "W4282913271",
+      "doi": "10.1086/721136",
+      "title": "Essence, Experiment, and Underdetermination in the Spinoza-Boyle Correspondence",
+      "authors": [
+        {
+          "name": "Stephen Harrop",
+          "openalex_id": "A5071188121"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-15",
+      "abstract": "I examine the (mediated) correspondence between Spinoza and Robert Boyle concerning the latter\u2019s account of fluidity and his experiments on reconstitution of niter in the light of the epistemology and doctrine of method contained in the Treatise on the Emendation of the Intellect. I argue that both the Treatise and the correspondence reveal that, for Spinoza, the proper method of science is not experimental and that he accepted a powerful underdetermination thesis. I argue that, in contrast to modern versions, Spinoza\u2019s form of naturalism was a highly rationalist and antiempirical one. I conclude with a brief account of the value of experience and experimentation for Spinoza\u2019s scientific method.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "HOPOS The Journal of the International Society for the History of Philosophy of Science",
+        "type": "journal",
+        "issn": [
+          "2152-5188",
+          "2156-6240"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/HAREEA-9.pdf"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Medieval and Classical Philosophy",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4282913271"
+    },
+    {
+      "openalex_id": "W4388164283",
+      "doi": "10.1007/s44204-023-00122-x",
+      "title": "Grace Andrus de Laguna\u2019s 1909 critique of pragmatism and absolute idealism: a contextualist response to Katzav",
+      "authors": [
+        {
+          "name": "Andreas Vrahimis",
+          "openalex_id": "A5024137699",
+          "orcid": "https://orcid.org/0000-0002-3409-6034",
+          "institutions": [
+            "University of Cyprus"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-02",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Asian Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "2731-4642"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s44204-023-00122-x.pdf"
+      },
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Classical Philosophy and Thought",
+        "Pragmatism in Philosophy and Education"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W4388164283"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

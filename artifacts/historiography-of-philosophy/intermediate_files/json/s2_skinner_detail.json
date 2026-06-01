@@ -1,0 +1,16 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "api_error",
+      "message": "S2 API error: 403",
+      "recoverable": false
+    }
+  ]
+}
