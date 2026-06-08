@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/13688790.2014.979749"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/13688790.2014.979749",
+      "title": "An academic object for decolonization",
+      "authors": [
+        {
+          "family": "Smolski",
+          "given": "Andrew"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "Postcolonial Studies",
+      "volume": "19",
+      "issue": "3",
+      "page": "365-367",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/13688790.2014.979749"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

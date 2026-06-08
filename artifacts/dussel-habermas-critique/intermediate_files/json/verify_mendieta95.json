@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Discourse ethics and liberation ethics...' author=Mendieta year=1995
+[verify_paper.py] Paper found: Discourse ethics and liberation ethics... (score: 48.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Discourse ethics and liberation ethics",
+    "author": "Mendieta",
+    "year": 1995
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1177/019145379502100406",
+      "title": "Discourse ethics and liberation ethics",
+      "authors": [
+        {
+          "family": "Mendieta",
+          "given": "Eduardo"
+        }
+      ],
+      "editors": [],
+      "year": 1995,
+      "container_title": "Philosophy &amp; Social Criticism",
+      "volume": "21",
+      "issue": "4",
+      "page": "111-126",
+      "publisher": "SAGE Publications",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1177/019145379502100406",
+      "score": 48.869694
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

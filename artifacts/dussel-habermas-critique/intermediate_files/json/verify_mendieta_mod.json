@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Modernity postmodernity discourse ethics planetary...' author=Mendieta
+[verify_paper.py] Paper found: Modernity and postmodernity as challenges to disco... (score: 50.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Modernity postmodernity discourse ethics planetary",
+    "author": "Mendieta"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9780429464683-10",
+      "title": "Modernity and postmodernity as challenges to discourse ethics: An ethics of global co-responsibility for an age of suspect foundationalism and rhetorical relativism",
+      "authors": [
+        {
+          "family": "Mendieta",
+          "given": "Eduardo"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "A Matter of Discourse",
+      "volume": "",
+      "issue": "",
+      "page": "219-242",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4324/9780429464683-10",
+      "score": 50.15166
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

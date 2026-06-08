@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Ethics of liberation discourse ethics challenges...' author=Schelkshorn
+[verify_paper.py] Paper found: Discourse and liberation: the claims and contexts ... (score: 54.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Ethics of liberation discourse ethics challenges",
+    "author": "Schelkshorn"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9780429464683-9",
+      "title": "Discourse and liberation: the claims and contexts of two types of universalistic ethics",
+      "authors": [
+        {
+          "family": "Schelkshorn",
+          "given": "Hans"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "A Matter of Discourse",
+      "volume": "",
+      "issue": "",
+      "page": "197-218",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4324/9780429464683-9",
+      "score": 54.45253
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

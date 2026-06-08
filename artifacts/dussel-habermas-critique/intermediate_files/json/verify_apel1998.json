@@ -1,0 +1,19 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Apel Dussel discourse ethics liberation transforma...' year=1998
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Apel Dussel discourse ethics liberation transformation",
+    "year": 1998
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (39.1) below threshold (50)",
+      "recoverable": false
+    }
+  ]
+}

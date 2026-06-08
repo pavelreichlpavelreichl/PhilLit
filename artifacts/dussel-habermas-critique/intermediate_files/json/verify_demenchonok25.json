@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Latin American Philosophy Liberation Intercultural...' author=Demenchonok year=2025
+[verify_paper.py] Paper found: Latin American Philosophy of Liberation and Interc... (score: 72.1)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Latin American Philosophy Liberation Intercultural Philosophy Dialogue",
+    "author": "Demenchonok",
+    "year": 2025
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.22363/2313-2302-2025-29-3-795-818",
+      "title": "Latin American Philosophy of Liberation and Intercultural Philosophy of Dialogue",
+      "authors": [
+        {
+          "family": "Demenchonok",
+          "given": "Edward V."
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "RUDN Journal of Philosophy",
+      "volume": "29",
+      "issue": "3",
+      "page": "795-818",
+      "publisher": "Peoples' Friendship University of Russia",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.22363/2313-2302-2025-29-3-795-818",
+      "score": 72.12642
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

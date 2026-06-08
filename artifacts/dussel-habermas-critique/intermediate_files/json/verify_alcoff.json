@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Thinking from the Underside of History Enrique Dussel Philosophy of Liberation",
+    "author": "Alcoff",
+    "year": 2000
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (27.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:Dussel decolonial modernity Habermas",
+  "results": [
+    {
+      "arxiv_id": "2606.07495",
+      "title": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
+      "authors": [
+        "Jin Guo",
+        "Roy Y. He",
+        "Jean-Michel Morel"
+      ],
+      "abstract": "Understanding how training data shape neural network predictions is a central problem in modern learning theory. In 2020, Pedro Domingos proposed an interpolation formula valid for every model learned by deterministic gradient descent. It expresses the model's prediction as an integral, along the optimization path, of a data-dependent kernel that aligns the model's gradients at the test and training data. Such a first-order characterization remains valid for models trained with batch-based stochastic optimization. In this paper, we develop second-order forms of these interpolation formulas. We show that the leading path-kernel interpolation is supplemented by a curvature-weighted interpolation term. For stochastic gradient descent, an additional sampling-induced component appears, coupling the curvature of the prediction with the covariance of mini-batch gradient noise. We also extend the representation to stochastic gradient descent with momentum, where the interpolation structure is preserved but with the weights modified by a memory-related factor. Moreover, we establish a concentration estimate for the terminal prediction, identifying the fluctuation scale around the expected second-order representation. Together, these results provide a refinement of the path-kernel interpretation of neural network prediction.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07495v1",
+      "url": "https://arxiv.org/abs/2606.07495"
+    },
+    {
+      "arxiv_id": "2606.07491",
+      "title": "Twelve quick tips for designing AI-driven HPC workflows",
+      "authors": [
+        "Jamie J. Alnasir"
+      ],
+      "abstract": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. However, the pervasive integration of artificial intelligence (AI) and foundation models into scientific research has introduced a fundamentally new computational paradigm. AI-driven workflows are characteristically iterative, data-driven, and probabilistic, introducing unique challenges regarding data gravity, heterogeneous resource management, and complex workflow orchestration.   This guide provides twelve practical tips designed to help researchers design efficient, scalable, and reproducible AI-driven HPC workflows. By addressing critical system-level bottlenecks - such as containerisation for environment portability, strategic deployment of job arrays, explicit feedback loop mechanics, and I/O optimisation for small files - this article offers a framework for transitioning from rigid execution pipelines to adaptive, intelligent computational environments. While these architectural principles are broadly applicable across distributed environments, they are particularly tailored to the resource-intensive throughput demands of modern computational biology.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.DC",
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "cs.LG",
+        "cs.SE"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07491v1",
+      "url": "https://arxiv.org/abs/2606.07491"
+    },
+    {
+      "arxiv_id": "2606.07487",
+      "title": "Modelling Opinion Dynamics at Scale with Deep MARL",
+      "authors": [
+        "Lukas Seier",
+        "Brandon Kaplowitz",
+        "Sebastian Towers",
+        "Richard Bailey",
+        "Jakob Foerster"
+      ],
+      "abstract": "Modelling opinion dynamics typically relies on hand-crafted local interaction rules to study emergent macroscopic phenomena such as consensus and polarisation. In contrast, multi-agent reinforcement learning (MARL) enables agents to learn such behaviours directly by optimising simple rewards. To explore the potential of MARL for opinion dynamics, we introduce a GPU-accelerated consensus and truth-finding game that scales to populations of up to 1000 agents, comparable to many real-world social sub-networks. To prevent unrealistic conventions, we extend other-play to general-sum social interactions. We next validate our model on a subset of the Bluesky network by recovering agent importance structures from graph topology alone via a learned attention layer, finding that highly conforming populations most closely match human data. In large social media networks such high levels of conformity significantly reduce collective accuracy and promote dishonest agents that lie to fit in. By contrast, small, dynamic hunter-gatherer networks are less affected; here, conformity can even improve collective agreement. This suggests a mismatch between evolved human conformity heuristics and modern social media environments as a potential contributor to misinformation.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.MA",
+      "categories": [
+        "cs.MA",
+        "cs.GT",
+        "cs.SI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07487v1",
+      "url": "https://arxiv.org/abs/2606.07487"
+    },
+    {
+      "arxiv_id": "2606.07463",
+      "title": "Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates",
+      "authors": [
+        "Julian With\u00f6ft",
+        "Werner John",
+        "Emre Ecik",
+        "Ralf Br\u00fcning",
+        "J\u00fcrgen G\u00f6tze"
+      ],
+      "abstract": "Pre-layout design space exploration (DSE) for high-speed signal integrity (SI) analysis is often limited by the computational cost of simulations and iterative optimization algorithms within modern electronic design automation (EDA) workflows. While machine learning surrogate models accelerate the simulation step, optimizing designs still requires utilizing iterative black-box search methods. This iterative nature scales poorly, making multi-corner sweeps computationally expensive. As a solution, this paper proposes amortized neural optimization (ANO) for pre-layout SI design. ANO entirely eliminates iterative black-box inference by utilizing fully differentiable neural network surrogate models. ANO extracts analytical gradients from the surrogate to train a global optimization policy. Instead of solving the optimization problem repeatedly at inference, the optimization process is learned offline and therefore amortized. Once the ANO policy is trained, it maps different channel contexts directly to near-optimal design parameters in a single deterministic forward pass. The efficiency and accuracy of the ANO framework are demonstrated based on three complex SI design scenarios, including DDR5 decision feedback equalization (DFE), 9-dimensional SerDes Tx/Rx co-equalization, and DDR3 DQS differential pair routing to optimize eye diagram metrics under intra-pair skew constraints. By trading roughly 10% in optimality compared to instance-specific black-box algorithms, it realizes speedups of three to four orders of magnitude. For a large-scale 320,000-instance multi-corner SerDes sweep optimization, ANO collapses what would have taken days of computation using iterative search algorithms into a single batched forward pass that completes in milliseconds. This transforms computationally expensive SI optimization into real-time and interactive pre-layout DSE.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "eess.SP",
+      "categories": [
+        "eess.SP",
+        "cs.CE",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07463v1",
+      "url": "https://arxiv.org/abs/2606.07463"
+    },
+    {
+      "arxiv_id": "2606.07434",
+      "title": "Evidence Markets",
+      "authors": [
+        "Safwan Hossain",
+        "Gabriel Andrade",
+        "Chengqi Zang",
+        "Yiling Chen"
+      ],
+      "abstract": "Modern prediction markets face two limitations that restrict their applicability in a range of settings:~(i)~they reveal what the crowd believes but not the evidence or reasoning behind those beliefs, and~(ii)~they require an event with an external ground truth that resolves at a known future date. We address these twin challenges by introducing evidence markets, a generalization of prediction markets that incentivizes the submission of evidence alongside beliefs and can be endogenously resolved using the crowd-sourced evidence if external resolution is not possible. At its core, the market uses a logarithmic market scoring rule whose liquidity parameter changes dynamically with the accumulated evidence quality. We prove that platform loss is bounded, evidence is rewarded proportional to the current market uncertainty, and can be equivalently implemented through an automated market maker. In the case where the marker resolves endogenously based on submitted evidence, we characterize how withholding evidence shifts a trader's belief about resolution and use it to prove truthful belief and evidence reporting is a always an $\\varepsilon$-dominant strategy incentive compatible (DSIC) strategy. To address operational considerations, we propose evidence verification via an LLM-as-a-Judge framework with staking and give an asynchronous execution algorithm that is not bottle-necked by verification. Throughout the work, we use LLM evaluations -- determining which model is best for a given task -- as a salient and representative running example for our proposed market.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.GT",
+      "categories": [
+        "cs.GT"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07434v1",
+      "url": "https://arxiv.org/abs/2606.07434"
+    },
+    {
+      "arxiv_id": "2606.07420",
+      "title": "Lost in Migration: Exposing Android Framework Vulnerabilities in Parallel Java-Kotlin Implementations",
+      "authors": [
+        "Rui Li",
+        "Wenrui Diao",
+        "Debin Gao"
+      ],
+      "abstract": "Android has adopted Kotlin alongside Java across apps and core system components. During this shift, we observe parallel implementations in the Android Open Source Project (AOSP) where the same component is implemented in both Java and Kotlin. In principle, their functional purposes are identical. In practice, subtle semantic divergences can appear. Such divergences are not vulnerabilities by themselves, but they provide useful clues that may reveal flaws in surrounding enforcement logic. To the best of our knowledge, this paper presents the first systematic study of Java-Kotlin parallel implementations in the Android framework and examines their security implications. We design and build ParaDroid, an analysis framework that identifies parallel methods at scale and compares their behaviors. ParaDroid normalizes code into a bytecode-level intermediate representation, reconstructs class-to-source mappings, and uses large language models to reason about method semantics and identify behavioral divergences. Evaluated on AOSP Android 14-16, ParaDroid identified 329 parallel method pairs and 37 vulnerable divergences. We responsibly disclosed the exploitable issues to the Android Security Team. Three vulnerabilities and two bugs have been confirmed, and two CVE IDs have been assigned. Our results demonstrate that parallel Java-Kotlin code paths provide a practical surface for discovering security flaws in modern Android.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.CR",
+      "categories": [
+        "cs.CR"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07420v1",
+      "url": "https://arxiv.org/abs/2606.07420"
+    },
+    {
+      "arxiv_id": "2606.07403",
+      "title": "The Proxy Benders Decomposition",
+      "authors": [
+        "Changkun Guan",
+        "El Mehdi Er Raqabi",
+        "Mathieu Tanneau",
+        "Pascal Van Hentenryck"
+      ],
+      "abstract": "Benders decomposition is a fundamental framework for solving large-scale mixed-integer optimization problems with complicating variables that, when fixed, yield significantly easier subproblems. However, classical Benders decomposition repeatedly solves highly similar subproblems and often exhibits zigzagging behavior across iterations, leading to slow convergence in large-scale settings. Motivated by the repetitive structure and parametric nature of Benders subproblems, this paper introduces the proxy Benders decomposition (Proxy-BD), a new decomposition framework in which subproblem optimization is replaced by certified optimization proxies rather than repeated exact solves.   The proposed proxy follows a self-supervised predict-project-and-complete mechanism that produces dual-feasible solutions for generating provably valid Benders cuts. The framework preserves the theoretical validity of the decomposition independently of prediction quality through a projection-and-completion certification layer. A formal characterization of proxy-induced cuts is established, and the framework naturally extends to modern decomposition schemes, including branch-and-Benders-cut algorithms.   Computational experiments on large-scale facility location and network design problems demonstrate that Proxy-BD substantially reduces the computational effort of subproblems while maintaining near-optimal solution quality. On large-scale uncapacitated facility location instances up to 2000x2000, Proxy-BD achieves median optimality gaps below 0.5%, yields up to 161x median speedups, and reduces the number of generated cuts by more than 240x on the largest instances. The computational gains consistently increase with recourse complexity, indicating that proxy-based inference scales substantially more favorably than repeated exact subproblem optimization in large-scale decomposition settings.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "math.OC",
+      "categories": [
+        "math.OC",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07403v1",
+      "url": "https://arxiv.org/abs/2606.07403"
+    },
+    {
+      "arxiv_id": "2606.07393",
+      "title": "Is US Defense Acquisition Ready to Acquire AI-Enabled Capabilities? Assessing the DoD Software Acquisition Pathway Through a Scenario-Based Policy Analysis",
+      "authors": [
+        "Daniel Lugo",
+        "James C. Davis"
+      ],
+      "abstract": "As AI systems transition from experimental prototypes to mission-critical tools, their dependence on dynamic data, evolving models, and governance raises questions about whether existing acquisition pathways can keep pace. The U.S. Department of Defense has modernized its acquisition processes through the Adaptive Acquisition Framework, with the Software Acquisition Pathway (SWP) serving as the primary mechanism for acquiring software-intensive capabilities. This paper evaluates whether SWP is sufficient to address the unique demands of AI acquisition.   In this work, we perform a scenario-based evaluation that traces a notional AI-enabled program through key SWP planning activities to assess how policy translates into program artifacts and decisions. We use Policy Scenario Analysis to examine whether the SWP-centered governance stack provides sufficient actionable support for AI acquisition. The governance stack provides a viable foundation for iterative delivery and AI testing. However, we identify a recurring actionability problem in the core guidance. AI-specific controls for data provenance, lifecycle management, and human oversight remain distributed across supplemental documents rather than embedded in the program-facing mechanisms through which SWP is executed. This disconnect leaves program offices reliant on inconsistent local interpretation. We conclude by recommending an AI-supporting sub-path and targeted artifact refinements to better bridge this policy-to-artifact gap.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.SE",
+      "categories": [
+        "cs.SE"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07393v1",
+      "url": "https://arxiv.org/abs/2606.07393"
+    },
+    {
+      "arxiv_id": "2606.07386",
+      "title": "Spline Policy: A Structured Representation for Robot Policies",
+      "authors": [
+        "Mengze Tian",
+        "Yiming Li",
+        "Sichao Liu",
+        "Auke Ijspeert",
+        "Sylvain Calinon"
+      ],
+      "abstract": "Modern imitation-learning policies for robot manipulation often represent actions as fixed-resolution action chunks, which are simple and effective but expose limited geometric and temporal structure before execution. This paper studies Spline Policy (SP), a structured representation that replaces action chunks with spline parameters while keeping the policy backbone unchanged. The predicted spline can be decoded as a compact continuous trajectory, queried at different temporal resolutions, constrained or edited in parameter space, and passed to downstream controllers. For quadratic spline outputs, the same representation can also be converted into a state-dependent vector field through an analytical distance-field construction. Under the regularity and projection assumptions of this construction, the induced dynamics do not increase the distance to the generated spline, yielding a principled local corrective mechanism around the predicted motion. The spline output further supports uncertainty propagation from observations to spline parameters, trajectories, and flow fields, and can be combined with classical control mechanisms such as null-space collision avoidance without retraining the policy backbone. We instantiate SP with diffusion, flow-matching, transformer-based, and vision-language-action backbones. Experiments in low-dimensional motion learning, simulated manipulation under matched backbones, dexterous manipulation, and real-robot case studies show that SP remains compatible with modern policy learners while exposing useful motion-structure properties, including compact decoding, temporal resampling, local correction around predicted motions, uncertainty evaluation, and controller compatibility.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07386v1",
+      "url": "https://arxiv.org/abs/2606.07386"
+    },
+    {
+      "arxiv_id": "2606.07303",
+      "title": "Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models",
+      "authors": [
+        "Jacques Raynal",
+        "Pierre Slangen",
+        "Elsa Raynal",
+        "Jacques Margerit"
+      ],
+      "abstract": "Representation learning is central to modern machine learning, enabling transitions from handcrafted features to learned embeddings, latent spaces, foundation models, world models, and digital twins. Yet most research examines how representations are optimized after a representational framework has been selected, while less attention is given to when a new level of representation becomes necessary. We introduce the Bootstrap Theory of Representational Emergence (TBER), a framework describing how new representations arise when existing ones become explanatorily insufficient. In this view, representational innovation is not only driven by more data, larger models, or greater computational power, but also by persistent explanatory gaps: situations in which a representation can still describe observations but can no longer make their organization or transformations intelligible. TBER identifies explanatory insufficiency as a positive signal for representational transition. A representation becomes insufficient not because it is necessarily false, but because its explanatory domain has been exceeded. The bootstrap dynamic follows a recursive sequence: observations reveal anomalies; anomalies expose insufficiencies; insufficiencies motivate new representations; and these new representations generate further observations and possible new insufficiencies.We formalize this process through five stages: stabilized observation, anomaly detection, recognition of explanatory insufficiency, representational emergence, and provisional stabilization. We discuss applications to representation learning, latent spaces, foundation models, world models, digital twins, adaptive biological systems, and scientific discovery. TBER suggests that future AI systems may benefit from mechanisms for detecting the explanatory limits of their own internal representations.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07303v1",
+      "url": "https://arxiv.org/abs/2606.07303"
+    },
+    {
+      "arxiv_id": "2606.07297",
+      "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
+      "authors": [
+        "Shaoqiu Zhang",
+        "Yuhang Wang",
+        "Jialiang Liang",
+        "Yuling Shi",
+        "Wenhao Zeng",
+        "Maoquan Wang",
+        "Shilin He",
+        "Ningyuan Xu",
+        "Siyu Ye",
+        "Kai Cai",
+        "Xiaodong Gu"
+      ],
+      "abstract": "Repository-level coding benchmarks such as SWE-bench have driven a rapid surge in the capabilities of coding agents. Yet they usually treat coding tasks as a holistic, binary prediction problem (e.g., resolved or unresolved), neglecting fine-grained agent capabilities such as repository understanding, context retrieval, code localization, and bug diagnosis. In this paper, we introduce SWE-Explore, a benchmark that isolates the evaluation of repository exploration, a critical capability of coding agents. Given a repository and an issue, SWE-Explore asks an explorer to return a ranked list of relevant code regions under a fixed line budget. SWE-Explore covers 848 issues across 10 programming languages and 203 open-source repositories. For each instance, we derive line-level ground truth from independent agent trajectories that successfully solved the same issue, distilling the specific code regions their solution paths actually consulted. We evaluate exploration along coverage, ranking, and context-efficiency dimensions, showing that these metrics strongly track downstream repair behavior. Across a broad set of retrieval methods, general coding agents, and specialized localizers, we find that agentic explorers form a clear tier above classical retrieval. While file-level localization is already strong for modern methods, line-level coverage and efficient ranking remain the key axes differentiating state-of-the-art explorers.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.SE",
+      "categories": [
+        "cs.SE",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07297v1",
+      "url": "https://arxiv.org/abs/2606.07297"
+    },
+    {
+      "arxiv_id": "2606.07265",
+      "title": "Multi-channel free-space optical convolutions with incoherent light",
+      "authors": [
+        "Alexander Song",
+        "Sai Nikhilesh Murty Kottapalli",
+        "Peer Fischer"
+      ],
+      "abstract": "Free-space optical systems are promising candidates for high performance computing and have been particularly successful in the implementation of large-scale convolutions. Convolutions are the key operation in convolutional layers, which are used extensively in modern neural networks, especially in the context of image/video processing and generation. These optical accelerators have demonstrated remarkable performance in both processing rates and energy efficiency. Prior approaches have primarily demonstrated convolutions from a single input channel to one or more output channels. We extend these methods to perform true multi-channel convolutions, where multiple input channels are convolved with their own sets of convolutional kernels onto output channels. We simulate this approach using both ray-tracing and angular spectrum propagation and find the approach is highly-scalable. We then experimentally implement a proof-of-concept prototype to demonstrate multi-channel free-space optical convolutions.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "physics.optics",
+      "categories": [
+        "physics.optics"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07265v1",
+      "url": "https://arxiv.org/abs/2606.07265"
+    },
+    {
+      "arxiv_id": "2606.07262",
+      "title": "Towards Engineering Material Neural Networks",
+      "authors": [
+        "Charles de Kergariou",
+        "Hortense le Ferrand",
+        "Ali Momeni",
+        "Romain Fluery",
+        "Kunal Masania",
+        "Adam W Perriman",
+        "Fabrizio Scarpa"
+      ],
+      "abstract": "Structures that capture functionality in the form of animate or intelligent machines have the potential to transform modern engineering applications. Animation and embedded intelligence are typically realised by integrating advanced capabilities such as reversibility, adaptive responses and learning directly into the materials themselves. Currently, the majority of adaptive material systems rely on predefined adaptive designs combined with in-service, electronics-based computing to dynamically modify the structural behaviour. However, structural configurations with interconnected adaptable nodes are able to approximate continuous functions, providing new possibilities and opportunities than classical metamaterials and computational materials. We discuss here the potential to design load-bearing engineering materials with trainable physical parameters and neural network-inspired morphologies, embedding intelligence directly into their structure, a concept we define as Engineering Material Neural Networks (EMNNs) as a subcategory of Physical Neural Networks. In this perspective, we first establish the foundational concept of EMNNs; we then detail the mechanical and multifunctional properties required for such structural configurations. Finally, we evaluate existing and emerging engineering materials that hold promise for enabling this innovative approach. Key material candidates for realising EMNNs include composites, architected, biological and engineering living materials. We also outline future directions in materials science and structural engineering for developing EMNNs.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.dis-nn"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07262v1",
+      "url": "https://arxiv.org/abs/2606.07262"
+    },
+    {
+      "arxiv_id": "2606.07257",
+      "title": "On the conditional equivalence of phase retrieval algorithms",
+      "authors": [
+        "Jakob Schroeder",
+        "Andreas D\u00f6pp"
+      ],
+      "abstract": "Phase retrieval - recovering a complex-valued field from intensity measurements - is typically solved using variants of the Gerchberg-Saxton (GS) algorithm, understood as alternating projections between measurement planes. Meanwhile, modern computational imaging increasingly relies on gradient-based optimization and automatic differentiation. Here we show that these two approaches are mathematically identical: the GS magnitude replacement step is exactly a unit gradient descent step on an amplitude least-squares loss. This equivalence enables seamless integration of classical phase retrieval with differentiable physics pipelines. We further identify two complementary probabilistic interpretations of this equivalence: globally, the amplitude loss is the negative log-likelihood under Gaussian amplitude noise; locally, each projection step arises as a Bayesian update with the propagated field as prior. The local view provides qualitative guidance for relaxation in iterative phase retrieval.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "physics.optics",
+      "categories": [
+        "physics.optics",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07257v1",
+      "url": "https://arxiv.org/abs/2606.07257"
+    },
+    {
+      "arxiv_id": "2606.07256",
+      "title": "The Universe Observed with Particle Detectors: Astrophysical Legacy of Guido Barbiellini Amidei",
+      "authors": [
+        "Roberto Capuzzo Dolcetta"
+      ],
+      "abstract": "The development of modern high-energy astrophysics has been deeply intertwined with advances in particle detector technology. Guido Barbiellini Amidei (1943-2024) played a pivotal role in bridging experimental particle physics and astrophysical observation. His scientific career spanned over four decades, from early electron-positron collider experiments at ADONE and LEP (DELPHI) to space based missions such as AGILE, Fermi, and PAMELA. This memorial paper reviews the evolution of high-energy astrophysics as a detector-driven science, highlighting key domains where Barbiellini left an indelible mark: gamma-ray astronomy, cosmic-ray physics, and antimatter studies. We discuss his personal contributions to silicon tracking, calorimetry, data analysis, and his leadership in international collaborations. The conceptual impact of his interdisciplinary approach is examined, and future perspectives in the observation of the high-energy universe are outlined, recognizing that the path forward is built on the foundations he helped lay",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "astro-ph.IM",
+      "categories": [
+        "astro-ph.IM",
+        "cond-mat.other"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07256v1",
+      "url": "https://arxiv.org/abs/2606.07256"
+    },
+    {
+      "arxiv_id": "2606.07252",
+      "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+      "authors": [
+        "Ambuj Mehrish",
+        "Sebatiano Vascon"
+      ],
+      "abstract": "Long multimodal document question answering is limited by which evidence reaches the reader, rather than by the quantity retrieved. In lengthy documents, findings often recur across figures, captions, and introductory sentences, causing similarity based retrievers in modern multimodal retrieval-augmented generation (RAG) systems to allocate resources to near-duplicates while overlooking complementary evidence. This work introduces a retriever that selects evidence as a Constrained Dominant Set (CDS) on a query-augmented affinity graph, offering three advantages that similarity ranking does not. First, the query is encoded as a hard structural constraint, ensuring that every selected element is directly connected to the question through the cluster anchor. Second, the relevance-redundancy balance is determined automatically by a spectral bound, eliminating the need for manually tuned trade offs required by diversity-aware selectors. Third, the selection process achieves a global equilibrium via replicator dynamics, thereby avoiding the distortions introduced by greedy heuristics. The method is inherently graph-based and does not require training. Using a Qwen3-VL-32B reader, CDS establishes a new state of the art on VisDoMBench ($66.99$ average) and improves over the no-retrieval baseline by $37.1$ points on VisDoMBench and $4.8$ on MMLongBench-Doc.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.IR",
+      "categories": [
+        "cs.IR"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07252v1",
+      "url": "https://arxiv.org/abs/2606.07252"
+    },
+    {
+      "arxiv_id": "2606.07247",
+      "title": "Theory of learning of high-dimensional controlled non-linear dynamical systems (I): models and methods",
+      "authors": [
+        "Pierfrancesco Urbani"
+      ],
+      "abstract": "Neural ordinary differential equations (neural ODEs) have rapidly gained prominence as a powerful and unifying framework for conceptualizing artificial neural networks, elegantly connecting the continuous-time modeling of dynamical systems with the discrete, data-driven paradigm of modern deep learning. Beyond their practical advantages they offer fresh theoretical insights into the training and generalization properties of neural networks. The distinctive feature of this framework is its dual dynamical nature: inference dynamics, which govern the ODE evolution during forward computation, and training dynamics, which control the optimization of model parameters. This makes neural ODEs a particularly well-suited theoretical framework for studying a large variety of settings such as multi-layer neural networks (ResNets for example), autoregressive models (with next-token generation dynamics), generative models, and recurrent neural networks in theoretical neuroscience. In this work, we introduce a theoretically grounded class of models for studying neural ODEs trained via online stochastic gradient descent. We solve the training dynamics of these models via dynamical mean field theory and derive learning curves in the high-dimensional limit.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cond-mat.dis-nn",
+      "categories": [
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "stat.ML"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07247v1",
+      "url": "https://arxiv.org/abs/2606.07247"
+    },
+    {
+      "arxiv_id": "2606.07227",
+      "title": "Chhavi: A Python Tool for Converting RAMSES Outputs to VTKHDF for High-Fidelity AMR Visualization",
+      "authors": [
+        "Hemangi C. Varkal",
+        "Shubhankar R. Gharote",
+        "Munn Vinayak Shukla",
+        "Mehul Pandya"
+      ],
+      "abstract": "RAMSES is an adaptive mesh refinement (AMR) astrophysical simulation code that generates high-resolution multiscale data. However, its native binary output format is not directly compatible with standard visualization tools, making efficient analysis challenging. We present Chhavi, an open-source Python tool that converts RAMSES outputs into the VTKHDF format for direct use in visualization platforms such as ParaView. The tool reconstructs the AMR hierarchy, preserves key physical fields including density, pressure and velocity, and organizes them into a structured representation suitable for multi-resolution visualization.   The conversion is validated using the three-dimensional Sedov blast wave test case. Quantitative evaluation through radial profile comparison and Lin's concordance correlation coefficient demonstrates strong agreement between the original and converted datasets, confirming both physical and structural fidelity. Chhavi provides a scalable bridge between RAMSES simulation outputs and modern visualization workflows, supporting efficient and reproducible analysis in computational astrophysics.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "astro-ph.IM",
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07227v1",
+      "url": "https://arxiv.org/abs/2606.07227"
+    },
+    {
+      "arxiv_id": "2606.07205",
+      "title": "Towards Tight Bounds for Streaming Attention",
+      "authors": [
+        "Justin Y. Chen",
+        "Ying Feng",
+        "Piotr Indyk",
+        "Michael Kapralov",
+        "Ekaterina Kochetkova",
+        "Boris Prokhorov"
+      ],
+      "abstract": "The attention mechanism is a cornerstone of modern transformer architectures. However, its expressive power comes at the cost of quadratic runtime and linear space usage. In particular, the classical transformer architecture explicitly stores all previously seen input elements (tokens) in order to generate the next one. The problem of implementing a transformer in limited space, known as KV cache compression, has received much interest over the past few years, spurring the development of powerful heuristics. Recent works of Haris et al, COLT'25 and Kochetkova et al, NeurIPS'25, formalized KV cache compression as the streaming attention approximation problem, providing both upper bounds (based on discrepancy theory) and information theoretic lower bounds. However, those papers left open a significant gap between the upper and lower bounds. For example, the space usage of their algorithms increases with the precision parameter, but the lower bound does not get stronger.   In this work, we revisit the streaming attention approximation problem and provide nearly tight bounds on its space complexity. On the algorithmic side, we achieve the result through a surprisingly tight interplay between three distinct methods for kernel density estimation: discrepancy-based coreset constructions (e.g., Charikar-Kapralov-Waingarten'24), the polynomial method (e.g., Greengard-Rokhlin'87, Alman-Song'23), and space partitioning (e.g., Andoni-Laarhoven-Razenshteyn-Waingarten'17, Charikar-Kapralov-Nouri-Siminelakis'20). On the lower bound side, our main technical contribution is a new technique for using the INDEX problem with a large amount of side information that we hope will prove useful in other high dimensional geometric estimation problems.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.DS",
+      "categories": [
+        "cs.DS",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07205v1",
+      "url": "https://arxiv.org/abs/2606.07205"
+    },
+    {
+      "arxiv_id": "2606.07186",
+      "title": "A Causal Probabilistic Framework for Perception-Informed Closed-Loop Simulation of Autonomous Driving",
+      "authors": [
+        "Zhennan Fei",
+        "Rickard Johansson",
+        "Mikael Andersson",
+        "Matthias Eng",
+        "Mattias Eriksson",
+        "Kaveh Kianfar",
+        "Sadegh Rahrovani",
+        "Chris van der Ploeg",
+        "Michael Borth",
+        "Maren Buermann",
+        "Michiel Braat",
+        "Henk Goossens",
+        "Zijian Han",
+        "Majid Khorsand Vakilzadeh",
+        "Gabriel Rodrigues de Campos"
+      ],
+      "abstract": "Software-in-the-loop (SIL) simulation is a cornerstone for the validation of modern automotive safety functions. However, many current frameworks utilize ideal sensing, which bypasses the functional insufficiencies of perception algorithms, leading to over-optimistic safety assessments. This paper proposes a perception-informed SIL testing methodology that bridges the gap between ground-truth simulation and real-world perception behavior. We present a framework for incorporating causal probabilistic models into standardized, scenario-based simulation toolchains, applicable to both Advanced Driver Assistance Systems (ADAS) and Autonomous Driving Systems (ADS). Our approach enables the systematic injection of realistic perception errors, such as loss of detection, sizing inaccuracies, and positioning offsets, derived from physical triggering conditions like fog, rain, and object-merging scenarios. By evaluating these ``faults'' within a standardized simulation environment, we demonstrate that perception-informed testing reveals latent operational risks that ideal SIL environments fail to capture, providing a scalable pathway for SOTIF (ISO 21448) validation.",
+      "published": "2026-06-05",
+      "updated": "2026-06-05",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SE"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2606.07186v1",
+      "url": "https://arxiv.org/abs/2606.07186"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

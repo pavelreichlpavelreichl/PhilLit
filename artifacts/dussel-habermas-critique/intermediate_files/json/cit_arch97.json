@@ -1,0 +1,99 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: The architectonic of the ethics of liberation...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 2 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "48cd235d62f82a84a39343a63f13404ba40a8970",
+  "results": [
+    {
+      "paper": {
+        "paperId": "48cd235d62f82a84a39343a63f13404ba40a8970",
+        "title": "The architectonic of the ethics of liberation",
+        "authors": [
+          {
+            "name": "Enrique Dussel",
+            "authorId": "86952522"
+          }
+        ],
+        "year": 1997,
+        "abstract": null,
+        "citationCount": 52,
+        "doi": "10.1177/019145379702300301",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/48cd235d62f82a84a39343a63f13404ba40a8970",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "006cf6f4862729cd4a963ea6229882d417857783",
+          "title": "Global citizenship education as a planetary ethics: Embracing humans and non-humans in the pursuit of global solidarity",
+          "authors": [
+            {
+              "name": "Carlos Alberto Torres",
+              "authorId": "2259002023"
+            },
+            {
+              "name": "Emiliano Bosio",
+              "authorId": "81367915"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 8,
+          "doi": "10.1007/s11125-025-09738-8",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/006cf6f4862729cd4a963ea6229882d417857783",
+          "venue": "Prospects",
+          "isInfluential": true,
+          "contexts": [
+            "What defines the essence of humanity in our time is the notion of otherness\u2014or following Heidegger (1969), exteriority\u2014which serves as the starting point for philosophical analysis, as emphasized by Dussel (1997).",
+            "Torres: Dussel\u2019s (1997) intellectual contributions hold significant relevance to our discussion.",
+            "We will delve into Dussel\u2019s (1997) work later, but it is worth noting that he has made exceptional contributions to the fields of liberation philosophy, ethics, political economy, theology, and history.",
+            "Bosio : How does Enrique Dussel\u2019s notion of the ethics of liberation influence our discussion on a GCE informed by planetary ethics?",
+            "In summary, Dussel\u2019s (1997) ethical proposal begins with the centrality of life in ethics, shifts focus to the lives of the oppressed in a counter-hegemonic position against those in dominant contexts, and centers on critique and alternatives to create conditions for a praxis of liberation.",
+            "Dussel\u2019s (1997) argument resonates with Thomas Jeffer-son\u2019s Declaration of Independence, which declared that all individuals are created equal and endowed by their Creator with certain inalienable rights, including life, liberty, and the pursuit of happiness.",
+            "Dussel\u2019s (1997) philosophical trajectory rejects falling into relativism, which often underpins postmodernist analyses.",
+            "The dialogue concluded by arguing that these values should be translated into practical initiatives that promote social justice, Dussel\u2019s (1997) concept of an ethics of liberation and actively combat exclusion, discrimination, oppression, and domination\u2014while advancing principles of responsible sustainability (e.g., homesteading and indoor production) and fostering recognition of our interdependence with Mother Earth.",
+            "Despite Dussel\u2019s towering presence in the field of philosophy, one may question whether this ethical framework extends beyond the human condition.",
+            "In conclusion, I would like to summarize Dussel\u2019s (1997) six principles of ethics, which are divided into two parts."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "93bdb32bca90efbcb033171dd2f554ba8c922490",
+          "title": "Poverty Eradication in Brazil: an analysis from the perspective of the Philosophy of Liberation",
+          "authors": [
+            {
+              "name": "Guilherme Dornelas Camara",
+              "authorId": "2076239796"
+            }
+          ],
+          "year": 2013,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": null,
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/93bdb32bca90efbcb033171dd2f554ba8c922490",
+          "venue": "",
+          "isInfluential": true,
+          "contexts": [
+            "needs that the system itself has proclaimed as rights (Dussel, 1997).",
+            "\u2026(in view of its own claims to freedom, equality, property for all, and other myths and symbols...) to be contradictory since the majority of its participants find themselves in effect deprived of the possibility of fulfilling the needs that the system itself has proclaimed as rights (Dussel, 1997).",
+            "\u2026hinder his or her very life; and, in the second place, allows every culture to establish a dialogue with other cultures from the universality of this very same criterion- with respect to the validity or invalidity of its manner of achieving the reproduction or growth of human life (Dussel, 1997)."
+          ],
+          "intents": [
+            "background"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 2
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

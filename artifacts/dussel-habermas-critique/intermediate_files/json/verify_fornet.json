@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Interculturality transformation philosophy Haberma...' author=Fornet-Betancourt
+[verify_paper.py] Paper found: The modern world as a challenge to interculturalit... (score: 43.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Interculturality transformation philosophy Habermas",
+    "author": "Fornet-Betancourt"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.31119/phlog.2020.1.106",
+      "title": "The modern world as a challenge to interculturality",
+      "authors": [
+        {
+          "family": "Fornet-Betancourt",
+          "given": "Ra\u00fal"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Philosophical polylogue",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "International Foundation for the Support of Social Research and Education Intersozic",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.31119/phlog.2020.1.106",
+      "score": 43.92965
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

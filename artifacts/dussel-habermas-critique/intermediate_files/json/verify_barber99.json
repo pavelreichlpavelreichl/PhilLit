@@ -1,0 +1,31 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5860/choice.37-3295
+[verify_paper.py] DOI verified: Ethical hermeneutics: rationality in Enrique Dusse...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5860/choice.37-3295"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5860/choice.37-3295",
+      "title": "Ethical hermeneutics: rationality in Enrique Dussel's philosophy of liberation",
+      "authors": [],
+      "editors": [],
+      "year": 2000,
+      "container_title": "Choice Reviews Online",
+      "volume": "37",
+      "issue": "06",
+      "page": "37-3295-37-3295",
+      "publisher": "American Library Association",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5860/choice.37-3295"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

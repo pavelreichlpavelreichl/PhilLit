@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Alterity Analectics Challenges Epistemic Decoloniz...' author=Kim
+[verify_paper.py] Paper found: Alterity, Analectics, and the Challenges of Episte... (score: 56.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Alterity Analectics Challenges Epistemic Decolonization",
+    "author": "Kim"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/sjp.12346",
+      "title": "Alterity, Analectics, and the Challenges of Epistemic Decolonization",
+      "authors": [
+        {
+          "family": "Kim",
+          "given": "David Haekwon"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "The Southern Journal of Philosophy",
+      "volume": "57",
+      "issue": "S1",
+      "page": "37-62",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1111/sjp.12346",
+      "score": 56.771378
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

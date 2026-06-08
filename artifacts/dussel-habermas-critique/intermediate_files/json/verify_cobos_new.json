@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Latin American philosophy Habermas discourse liber...' author=Cobos
+[verify_paper.py] Paper found: Latin American Political Thought as a Response to ... (score: 37.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Latin American philosophy Habermas discourse liberationist",
+    "author": "Cobos"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1353/lar.2015.0052",
+      "title": "Latin American Political Thought as a Response to Discourse Ethics",
+      "authors": [
+        {
+          "family": "Cobos",
+          "given": "Felipe Curc\u00f3"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "Latin American Research Review",
+      "volume": "50",
+      "issue": "4",
+      "page": "69-87",
+      "publisher": "Project MUSE",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1353/lar.2015.0052",
+      "score": 37.189163
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

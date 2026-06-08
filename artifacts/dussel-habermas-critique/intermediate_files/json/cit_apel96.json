@@ -1,0 +1,43 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: 'Discourse ethics' before the challenge of 'libera...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 0 citing papers, fetching more...
+[s2_citations.py] Retrieved 0 citing papers, fetching more...
+[s2_citations.py] Retrieved 0 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "f7a017e247a142fb8d246b564bcef064879ac147",
+  "results": [
+    {
+      "paper": {
+        "paperId": "f7a017e247a142fb8d246b564bcef064879ac147",
+        "title": "'Discourse ethics' before the challenge of 'liberation philosophy'",
+        "authors": [
+          {
+            "name": "K. Apel",
+            "authorId": "46248066"
+          },
+          {
+            "name": "E. Mendieta",
+            "authorId": "50489593"
+          }
+        ],
+        "year": 1996,
+        "abstract": null,
+        "citationCount": 222,
+        "doi": "10.1177/019145379602200201",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/f7a017e247a142fb8d246b564bcef064879ac147",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

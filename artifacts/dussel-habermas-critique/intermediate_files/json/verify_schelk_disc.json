@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Discourse and Liberation...' author=Schelkshorn year=1996
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Discourse and Liberation",
+    "author": "Schelkshorn",
+    "year": 1996
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

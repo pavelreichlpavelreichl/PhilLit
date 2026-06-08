@@ -1,0 +1,48 @@
+[search_core.py] Searching CORE: 'Irvine ontological critique trans-ontology Dussel analectic', limit=20
+[search_core.py] Retrieved 2/2 papers...
+[search_core.py] Search complete: 2 papers found
+{
+  "status": "success",
+  "source": "core",
+  "query": "Irvine ontological critique trans-ontology Dussel analectic",
+  "results": [
+    {
+      "core_id": "122611465",
+      "doi": "10.4314/ejossah.v12i1.",
+      "title": "The Idea of Transmodern Ethiopia: A Perspective from Philosophy and Ethics of Liberation1",
+      "authors": [
+        {
+          "name": "Shemsedin, Walelign"
+        }
+      ],
+      "year": 2016,
+      "abstract": "Transmodernity is a new philosophical paradigm that transcends the modern foundational ethos and as well differs from the postmodern critique. It is basically a call towards a just social order that gives priority to human life. It is inherently ethical and fundamentally liberational. This work looks into the insufficiency of Modern Ethiopian establishment in attaining an inclusive and pluralist arrangement. It assumes this establishment as a hegemonic totality that marginalizes its others. It argues that the Modern Ethiopian establishment is an ontologic totality that needs to be liberated and transformed. Based on Dussel\u2019s Philosophy and Ethics of Liberation, Transmodern Ethiopia is anticipated as an entity that could transcend the Modern and come up with a different arrangement. This would be an ethical arrangement which accepts the other as other. The three principles of Ethics of Liberation (material principle, formal principle and feasibility principle) are used as an ethical framework for the construction.Key words: Transmodernity, Liberation philosophy, Analectic, Ethics of Liberation, Modern Ethiopia, Transmodern Ethiopia, Pluriversal polylogu",
+      "publisher": "'African Journals Online (AJOL)'",
+      "journal": "Ethiopian Journal of the Social Sciences and Humanities",
+      "download_url": "https://core.ac.uk/download/478366158.pdf",
+      "source_url": "https://www.ajol.info/index.php/ejossah/article/download/157274/146885",
+      "language": "en",
+      "document_type": null
+    },
+    {
+      "core_id": "123396598",
+      "doi": null,
+      "title": "The Emptiness of Cosmopolitanism: Cosmopolitan Critical Theory through the imagination of an other",
+      "authors": [
+        {
+          "name": "Murphy, Michael"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/524975660.pdf",
+      "source_url": "https://pure.royalholloway.ac.uk/portal/files/30771497/michaelmurphyphdthesis_.pdf",
+      "language": "en",
+      "document_type": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

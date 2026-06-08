@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Dussel Habermas lifeworld validity claims victims liberation', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_a0a143c6356a9d3b)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Dussel Habermas lifeworld validity claims victims liberation",
+  "results": [
+    {
+      "paperId": "fda2f40a741e315c901f559a3ce5bb62401c90c5",
+      "title": "Life and Ethics: On Dussel\u2019s Ethics of Liberation*",
+      "authors": [
+        {
+          "name": "Mario S\u00e1enz",
+          "authorId": "144801708"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1086/690480",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fda2f40a741e315c901f559a3ce5bb62401c90c5",
+      "venue": "The Journal of Religion",
+      "journal": {
+        "name": "The Journal of Religion",
+        "pages": "244 - 258",
+        "volume": "97"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

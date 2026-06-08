@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/J.1351-0487.2004.00365.X"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/j.1351-0487.2004.00365.x",
+      "title": "The Underside of Modernity: Adorno, Heidegger, and Dussel",
+      "authors": [
+        {
+          "family": "Dallmayr",
+          "given": "Fred"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "Constellations",
+      "volume": "11",
+      "issue": "1",
+      "page": "102-120",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/j.1351-0487.2004.00365.x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

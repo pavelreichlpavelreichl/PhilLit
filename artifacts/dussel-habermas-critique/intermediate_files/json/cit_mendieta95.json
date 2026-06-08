@@ -1,0 +1,58 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Discourse ethics and liberation ethics...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 1 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "7458673cbcf4a167d92344f1bf8121c02b1471b8",
+  "results": [
+    {
+      "paper": {
+        "paperId": "7458673cbcf4a167d92344f1bf8121c02b1471b8",
+        "title": "Discourse ethics and liberation ethics",
+        "authors": [
+          {
+            "name": "E. Mendieta",
+            "authorId": "50489593"
+          }
+        ],
+        "year": 1995,
+        "abstract": null,
+        "citationCount": 1,
+        "doi": "10.1177/019145379502100406",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/7458673cbcf4a167d92344f1bf8121c02b1471b8",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "24fb4b6b170007097b849211c486d77feec3a365",
+          "title": "Unfree Agency: Victim Vulnerability and the Unwitting Reproduction of Modern Slavery in Business",
+          "authors": [
+            {
+              "name": "M. Hasan",
+              "authorId": "2200006853"
+            }
+          ],
+          "year": 2026,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1177/00076503261449330",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/24fb4b6b170007097b849211c486d77feec3a365",
+          "venue": "Business &amp; Society",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

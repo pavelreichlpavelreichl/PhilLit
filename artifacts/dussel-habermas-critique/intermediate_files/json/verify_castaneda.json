@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='exterioridad del capital exterioridad comunidad co...' author=Castaneda year=2020
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "exterioridad del capital exterioridad comunidad comunicacion Dussel",
+    "author": "Castaneda",
+    "year": 2020
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (18.2) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

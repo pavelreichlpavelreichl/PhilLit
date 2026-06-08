@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4314/ejossah.v13i1.2
+[verify_paper.py] DOI verified: Enlightening Global Communication: Liberation Phil...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4314/ejossah.v13i1.2"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4314/ejossah.v13i1.2",
+      "title": "Enlightening Global Communication: Liberation Philosophy and the Intercultural Stand of the \u2018Other",
+      "authors": [
+        {
+          "family": "Mekonnen",
+          "given": "Binyam"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Ethiopian Journal of the Social Sciences and Humanities",
+      "volume": "13",
+      "issue": "1",
+      "page": "25",
+      "publisher": "African Journals Online (AJOL)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4314/ejossah.v13i1.2"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
