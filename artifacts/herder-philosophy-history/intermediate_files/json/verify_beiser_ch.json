@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/ACPROF:OSO/9780199691555.003.0004"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780199691555.003.0004",
+      "title": "Herder's Historicism, its Genesis and Development",
+      "authors": [
+        {
+          "family": "Beiser",
+          "given": "Frederick C."
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "The German Historicist Tradition",
+      "volume": "",
+      "issue": "",
+      "page": "98-166",
+      "publisher": "Oxford University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199691555.003.0004"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

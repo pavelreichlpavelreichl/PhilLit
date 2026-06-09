@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/18722636-12341302
+[verify_paper.py] DOI verified: Analogy, Natural History and the Philosophy of Nat...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/18722636-12341302"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/18722636-12341302",
+      "title": "Analogy, Natural History and the Philosophy of Nature",
+      "authors": [
+        {
+          "family": "Nassar",
+          "given": "Dalia"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "Journal of the Philosophy of History",
+      "volume": "9",
+      "issue": "2",
+      "page": "240-257",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/18722636-12341302"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

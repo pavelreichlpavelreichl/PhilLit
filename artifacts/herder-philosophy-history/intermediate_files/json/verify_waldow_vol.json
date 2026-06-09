@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/oso/9780198779650.001.0001"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/oso/9780198779650.001.0001",
+      "title": "Herder",
+      "authors": [],
+      "editors": [
+        {
+          "family": "Waldow",
+          "given": "Anik"
+        },
+        {
+          "family": "DeSouza",
+          "given": "Nigel"
+        }
+      ],
+      "year": 2017,
+      "container_title": "Oxford Scholarship Online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Oxford University Press",
+      "type": "book",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/oso/9780198779650.001.0001"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Countering Transposing or Negating the Enlightenme...' author=Lestition year=2007
+[verify_paper.py] Paper found: Countering, Transposing, or Negating the Enlighten... (score: 78.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Countering Transposing or Negating the Enlightenment Response to Norton",
+    "author": "Lestition",
+    "year": 2007
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1353/jhi.2007.0034",
+      "title": "Countering, Transposing, or Negating the Enlightenment? A Response to Robert Norton",
+      "authors": [
+        {
+          "family": "Lestition",
+          "given": "Steven O."
+        }
+      ],
+      "editors": [],
+      "year": 2007,
+      "container_title": "Journal of the History of Ideas",
+      "volume": "68",
+      "issue": "4",
+      "page": "659-681",
+      "publisher": "Project MUSE",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1353/jhi.2007.0034",
+      "score": 78.895935
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

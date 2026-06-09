@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Herder on Humanity and Cultural Difference: Enligh...' author=Sikka year=2011
+[verify_paper.py] Paper found: Herder on Humanity and Cultural Difference... (score: 82.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Herder on Humanity and Cultural Difference: Enlightened Relativism",
+    "author": "Sikka",
+    "year": 2011
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cbo9780511783012",
+      "title": "Herder on Humanity and Cultural Difference",
+      "authors": [
+        {
+          "family": "Sikka",
+          "given": "Sonia"
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cbo9780511783012",
+      "score": 82.31736
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

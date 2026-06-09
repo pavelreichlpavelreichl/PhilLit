@@ -1,0 +1,154 @@
+[s2_search.py] Searching Semantic Scholar: 'Berlin three critics enlightenment Vico Hamann Herder' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 6/6 papers...
+[s2_search.py] Search complete: 6 papers found
+[s2_search.py] Cached results (cache key: s2_4f0be8fc1b0950a7)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Berlin three critics enlightenment Vico Hamann Herder",
+  "results": [
+    {
+      "paperId": "a9595e92dc4f6ca3d9bb80767b8cd87c3b248549",
+      "title": "Three Critics of the Enlightenment: Vico, Hamann, Herder",
+      "authors": [
+        {
+          "name": "I. Berlin",
+          "authorId": "73725260"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 103,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a9595e92dc4f6ca3d9bb80767b8cd87c3b248549",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "54026902e769e8921100edab154143ccf31f2400",
+      "title": "Three Critics of the Enlightenment: Vico, Hamann, Herder",
+      "authors": [
+        {
+          "name": "D. Verene",
+          "authorId": "71574874"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.5840/newvico20001813",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/54026902e769e8921100edab154143ccf31f2400",
+      "venue": "",
+      "journal": {
+        "name": "New Vico Studies",
+        "pages": "114-116",
+        "volume": "18"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "79ff3ffbe4ddaadfdca6ff80e2740328a2d67135",
+      "title": "Herder\u2019s Political Thought: A Study of Language, Culture, and Community by Vicki A. Spencer (review)",
+      "authors": [
+        {
+          "name": "Rachel E Zuckert",
+          "authorId": "87545826"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1353/gyr.2015.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/79ff3ffbe4ddaadfdca6ff80e2740328a2d67135",
+      "venue": "",
+      "journal": {
+        "name": "Goethe Yearbook",
+        "pages": "310 - 311",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "fe9f00f1647d62bee7fec1c038aa2209225defbf",
+      "title": "Isaiah Berlin's enlightenment and counter-enlightenment",
+      "authors": [
+        {
+          "name": "R. Wokler",
+          "authorId": "103859546"
+        }
+      ],
+      "year": 2003,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.23943/princeton/9780691147888.003.0014",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fe9f00f1647d62bee7fec1c038aa2209225defbf",
+      "venue": "",
+      "journal": {
+        "name": "Transactions of The American Philosophical Society",
+        "pages": "13-31",
+        "volume": "93"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c0620ead8b6771dca0fecbef37c05de716a7528f",
+      "title": "The Anti-Enlightenment Tradition",
+      "authors": [
+        {
+          "name": "J. Schwarzmantel",
+          "authorId": "84487719"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 36,
+      "doi": "10.1080/21567689.2011.564409",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c0620ead8b6771dca0fecbef37c05de716a7528f",
+      "venue": "",
+      "journal": {
+        "name": "Politics, Religion & Ideology",
+        "pages": "109 - 111",
+        "volume": "12"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "1f819e1ddbb322a394fe4e991c37035b26740766",
+      "title": "Intellectual history and language",
+      "authors": [
+        {
+          "name": "D. Kelley",
+          "authorId": "40084641"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1080/17496977.2015.1032124",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1f819e1ddbb322a394fe4e991c37035b26740766",
+      "venue": "",
+      "journal": {
+        "name": "Intellectual History Review",
+        "pages": "49 - 53",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 6,
+  "errors": []
+}

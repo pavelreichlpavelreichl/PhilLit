@@ -1,0 +1,298 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Herder Kant controversy Ideen', limit=20
+[search_philpapers.py] Retrieved 17 entries...
+[search_philpapers.py] Search complete: 17 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Herder Kant controversy Ideen",
+  "results": [
+    {
+      "title": "Johann Gottfried von Herder & Immanuel Kant, J.G. Herders Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der \"Ideen\" Und Seiner Abhandlung Idee Zu Einer Allgemeinen Geschichte in Weltb\u00fcrgerlicher Absicht",
+      "url": "https://philpapers.org/rec/VONJHI",
+      "philpapers_id": "VONJHI",
+      "snippet": "Kleinere Schriften zur Geschichtsphilosophie, Ethik und Politik.Immanuel Kant - 2014 - Meiner, F. Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders &quot;Ideen zur Philosophie der Geschichte der Menschheit&quot; : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H.",
+      "page_age": null,
+      "extra_snippets": [
+        "Kleinere Schriften zur Geschichtsphilosophie, Ethik und Politik.Immanuel Kant - 2014 - Meiner, F. Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders \"Ideen zur Philosophie der Geschichte der Menschheit\" : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H.",
+        "Johann Gottfried von Herder's Ideen Zur Philosophie der Geschichte der Menschheit.Johann Gottfried Herder & Heinrich Luden - 1812 - Johann Freidrich Hartknoch. Idee zu einer allgemeinen Geschichte in weltb\u00fcrgerlicher Absicht.Immanuel Kant - 2019 - BoD \u2013 Books on Demand.",
+        "Die erste Aufnahme der,Ideen zur Philosophie der Geschichte der Menschheit\" in Ru\u00dfland.Gerhard Ziegengeist, Helmut Gra\u00dfhoff & Ulf Lehmann - 1978 - In Gerhard Ziegengeist, Helmut Gra\u00dfhoff & Ulf Lehmann, Johann Gottfried Herder: Zur Herder-Rezeption in Ost- und S\u00fcdosteuropa.",
+        "Ideen zur geschichte der menschheit: Von Johann Gottfried von Herder.Johann Gottfried Herder - 1869 - F.A."
+      ]
+    },
+    {
+      "title": "G\u00fcnter Z\u00f6ller, Genesis und Klima: Geo-Anthropologie bei Herder und Kant",
+      "url": "https://philpapers.org/rec/ZLLGUK",
+      "philpapers_id": "ZLLGUK",
+      "snippet": "Das Schicksal von Kants Rezensionen zu Herders Ideen.Karl Ameriks - 2023 - In Otfried H\u00f6ffe, Immanuel Kant: Schriften zur Geschichtsphilosophie. Berlin, Boston: De Gruyter.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G\u00fcnter Z\u00f6ller"
+        }
+      ],
+      "extra_snippets": [
+        "Schopenhauer und die Antinomien bei Kant.Giuseppe Invernizzi - 2013 - In Stefano Bacin, Alfredo Ferrarin, Claudio La Rocca & Margit Ruffing, Kant und die Philosophie in weltb\u00fcrgerlicher Absicht. Akten des XI. Internationalen Kant-Kongresses. Boston: de Gruyter.",
+        "Freiheit und Recht bei Kant.Manfred Baum - 2013 - In Stefano Bacin, Alfredo Ferrarin, Claudio La Rocca & Margit Ruffing, Kant und die Philosophie in weltb\u00fcrgerlicher Absicht. Akten des XI. Internationalen Kant-Kongresses. Boston: de Gruyter.",
+        "Mystik, Mystizismus und Kritizismus bei Kant.Yuichiro Yamane - 2013 - In Stefano Bacin, Alfredo Ferrarin, Claudio La Rocca & Margit Ruffing, Kant und die Philosophie in weltb\u00fcrgerlicher Absicht. Akten des XI. Internationalen Kant-Kongresses. Boston: de Gruyter.",
+        "\u00d6ffentlichkeit bei Kant.Volker Gerhardt - 2013 - In Stefano Bacin, Alfredo Ferrarin, Claudio La Rocca & Margit Ruffing, Kant und die Philosophie in weltb\u00fcrgerlicher Absicht. Akten des XI. Internationalen Kant-Kongresses. Boston: de Gruyter."
+      ]
+    },
+    {
+      "title": "Marc Cr\u00e9pon, Le Jeu de Kant et Spinoza dans le livre XV Des \"id\u00e9es sur la philosophie de l'histoire de l'humanit\u00e9\"",
+      "url": "https://philpapers.org/rec/CRPLJD",
+      "philpapers_id": "CRPLJD",
+      "snippet": "F\u00fcr Herder besteht die Frage also darin, mit Hilfe von Spinoza (und gegen Kant) zu beweisen da\u00df, \u2014 wenn er behauptet denselben Gott in der Natur und in der Geschichte vorfinden zu k\u00f6nnen und die Idee einer Zweckm\u00e4\u00dfigkeit, die jeglicher Natur fremd ist, kritisiert \u2014, er es ist, der sich auf der Seite der wissenschaftlichen Genauigkeit befindet",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Marc Cr\u00e9pon"
+        }
+      ],
+      "extra_snippets": [
+        "Toute la question consiste alors, pour Herder, \u00e0 prouver, avec le soutien de Spinoza (et contre Kant), que, lorsqu'il soutient la possibilit\u00e9 de retrouver le m\u00eame Dieu dans la nature et dans l'histoire et critique l'id\u00e9e d'une finalit\u00e9 \u00e9trang\u00e8re \u00e0 la nature de toute chose, c'est lui qui se trouve du c\u00f4t\u00e9 de la rigueur scientifique. In diesem Artikel gelt es darum, zu veranschaulischen, wie sich die Polemik zwischen Kant und Herder im Buch XV der Ideen zur Philosophie der Geschichte der Menschheit fortsetzt.",
+        "Herder hat sich in der Tat Spinozas bedient um zu zeigen, da\u00df im Gegensatz zu dem, was Kant in seinen Rezensionen hervorgehoben hat, die Prinzipien, die f\u00fcr die Schreibweise der Ideen und besonders der Anwendung von Analogien galten, nicht aus der Vorstellungskraft seiner Fantasie hervorgerufen wurde, sondern auf eine Metaphysik beruhen, die den verdienst hat, mit der Wissenschaft vereinbar zu sein.",
+        "L'objet de cet article est de mettre en \u00e9vidence comment la pol\u00e9mique entre Kant et Herder se prolonge dans le livre XV des Id\u00e9es sur la philosophie de l'histoire de l'humanit\u00e9. ...",
+        "F\u00fcr Herder besteht die Frage also darin, mit Hilfe von Spinoza (und gegen Kant) zu beweisen da\u00df, \u2014 wenn er behauptet denselben Gott in der Natur und in der Geschichte vorfinden zu k\u00f6nnen und die Idee einer Zweckm\u00e4\u00dfigkeit, die jeglicher Natur fremd ist, kritisiert \u2014, er es ist, der sich auf der Seite der wissenschaftlichen Genauigkeit befindet"
+      ]
+    },
+    {
+      "title": "Rachel Zuckert, Organisms and Metaphysics: Kant\u2019s First Herder Review",
+      "url": "https://philpapers.org/rec/ZUCOAM",
+      "philpapers_id": "ZUCOAM",
+      "snippet": "John Zammito, among others, argues that in his review of J.G. Herder\u2019s Ideas, Kant criticizes Herder as a dogmatic metaphysician hypocritically: these criticisms themselves rest on dogmatic metaphysical grounds, viz. an ...",
+      "page_age": "2015-04-02T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Rachel Zuckert"
+        }
+      ],
+      "extra_snippets": [
+        "In Eric Watkins & Ina Goy, Kant's Theory of Biology. Boston: De Gruyter. pp. 61-78 (2014) ... John Zammito, among others, argues that in his review of J.G. Herder\u2019s Ideas, Kant criticizes Herder as a dogmatic metaphysician hypocritically: these criticisms themselves rest on dogmatic metaphysical grounds, viz.",
+        "The genesis of Kant's critique of judgment.John Zammito - 1992 - Chicago: University of Chicago Press. On the value of happiness: Herder contra Kant.Sonia Sikka - 2007 - Canadian Journal of Philosophy 37 (4):515-546.",
+        "Kant's Debate with Herder about the Philosophical Significance of the Genius of Shakespeare.Andrew Cutrofello - 2008 - Philosophy Compass 3 (1):66-82.",
+        "Awe or envy: Herder contra Kant on the sublime.Rachel Zuckert - 2003 - Journal of Aesthetics and Art Criticism 61 (3):217\u2013232."
+      ]
+    },
+    {
+      "title": "Sonia Sikka, On the Value of Happiness",
+      "url": "https://philpapers.org/rec/SIKOTV-3",
+      "philpapers_id": "SIKOTV",
+      "snippet": "IntroductionIn November of 1785, Kant published a highly unsympathetic review of the second part of Johann Gottfried Herder&#x27;sIdeas for a Philosophy of the History of Mankind. Herder had once been Kant&#x27;s pupil, and had greatly admired his teacher, but the content of this review shows how profound the philosophical differences between them had by then become.",
+      "page_age": "2017-02-17T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Sonia Sikka"
+        }
+      ],
+      "extra_snippets": [
+        "IntroductionIn November of 1785, Kant published a highly unsympathetic review of the second part of Johann Gottfried Herder'sIdeas for a Philosophy of the History of Mankind. Herder had once been Kant's pupil, and had greatly admired his teacher, but the content of this review shows how profound the philosophical differences between them had by then become.",
+        "Kant is responding, in particular, to a section of theIdeasentitled: \u2018The happiness of human beings is everywhere an individual good; consequently, it is everywhere climatic and organic, a child of practice, tradition, and custom.\u2019 Although Kant is not mentioned by name in this section, it clearly contains critical rejoinders, often quite harsh in tone, to aspects of his practical philosophy and philosophy of history, as Herder understands them.",
+        "Herder on Humanity and Cultural Difference: Enlightened Relativism.Sonia Sikka - 2011 - New York: Cambridge University Press. kant Contra Herder: Almost Against Nature.Martin Bertman - 2006 - Florida Philosophical Review 6 (1):53-63.",
+        "Kant, Herder, and Psychology.Katherine Arens - 1990 - In Kurt Mueller-Vollmer (ed.), Herder Today: Contributions From the International Herder Conference, November 5\u20138, 1987, Stanford, California. De Gruyter. pp."
+      ]
+    },
+    {
+      "title": "Sonia Sikka, On the value of happiness: Herder contra Kant",
+      "url": "https://philpapers.org/rec/SIKOTV",
+      "philpapers_id": "SIKOTV",
+      "snippet": "Kant is responding, in particular, to a section of the Ideas entitled: \u2018The happiness of human beings is everywhere an individual good; consequently, it is everywhere climatic and organic, a child of practice, tradition, and custom.\u2019 Although ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Sonia Sikka"
+        }
+      ],
+      "extra_snippets": [
+        "IntroductionIn November of 1785, Kant published a highly unsympathetic review of the second part of Johann Gottfried Herder's Ideas for a Philosophy of the History of Mankind. Herder had once been Kant's pupil, and had greatly admired his teacher, but the content of this review shows how profound the philosophical differences between them had by then become.",
+        "Kant is responding, in particular, to a section of the Ideas entitled: \u2018The happiness of human beings is everywhere an individual good; consequently, it is everywhere climatic and organic, a child of practice, tradition, and custom.\u2019 Although Kant is not mentioned by name in this section, it clearly contains critical rejoinders, often quite harsh in tone, to aspects of his practical philosophy and philosophy of history, as Herder understands them.",
+        "Herder and Kant on History: Their Enlightenment Faith.Allen Wood - 2009 - In Samuel Newlands & Larry M. Jorgensen, Metaphysics and the good: themes from the philosophy of Robert Merrihew Adams. New York: Oxford University Press.",
+        "Herder and Kant on History: Their Enlightenment Faith.Allen W. Wood - 2014 - In The Free Development of Each: Studies on Freedom, Right, and Ethics in Classical German Philosophy. New York, NY: Oxford University Press."
+      ]
+    },
+    {
+      "title": "Allen Wood, Herder and Kant on History: Their Enlightenment Faith",
+      "url": "https://philpapers.org/rec/WOOHAK",
+      "philpapers_id": "WOOHAK",
+      "snippet": "Das Schicksal von Kants Rezensionen zu Herders Ideen.Karl Ameriks - 2011 - In Otfried H\u00f6ffe, Immanuel Kant: Schriften zur Geschichtsphilosophie. Berlin: Akademie Verlag.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Allen Wood"
+        }
+      ],
+      "extra_snippets": [
+        "Herder and Kant on History: Their Enlightenment Faith.Allen W. Wood - 2014 - In The Free Development of Each: Studies on Freedom, Right, and Ethics in Classical German Philosophy. New York, NY: Oxford University Press.",
+        "Kant on Apriority and the Spontaneity of Cognition.Houston Smit - 2009 - In Samuel Newlands & Larry M. Jorgensen, Metaphysics and the good: themes from the philosophy of Robert Merrihew Adams. New York: Oxford University Press. pp. 188-251. Robert Merrihew Adams and Leibniz.Daniel Garber - 2012 - The Leibniz Review 22:1-8. Added to PP 2009-01-28 Downloads 7 (#2,094,348) 6 months 5 (#1,804,211) ... Herder, Philosophy and Universal History.William Bristow - 2025 - The European Legacy 30 (6):712-727.",
+        "History, Biology, and Philosophical Anthropology in Kant and Herder.Rachel Zuckert - 2011 - In J\u00fcrgen Stolzenberg & Fred Rush, Philosophie und Wissenschaft / Philosophy and Science. Berlin, Boston: De Gruyter."
+      ]
+    },
+    {
+      "title": "John Zammito, Kant, Herder, and the Birth of Anthropology",
+      "url": "https://philpapers.org/rec/ZAMKHA",
+      "philpapers_id": "ZAMKHA",
+      "snippet": "Relying on previously unexamined sources, Zammito traces Kant&#x27;s friendship with Herder as well as the personal tensions that destroyed their relationship. From this he shows how two very different philosophers emerged from the same beginnings and how, because of Herder&#x27;s reformulation of Kant, anthropology was born out of philosophy.",
+      "page_age": null,
+      "extra_snippets": [
+        "But in this pioneering book, John H. Zammito challenges that view by revealing a precritical Kant who was immensely more influential than the one philosophers think they know. Zammito also reveals Kant's former student and latter-day rival, Johann Herder, to be a much more philosophically interesting thinker than is usually assumed and, in many important respects, historically as influential as Kant.",
+        "Relying on previously unexamined sources, Zammito traces Kant's friendship with Herder as well as the personal tensions that destroyed their relationship. From this he shows how two very different philosophers emerged from the same beginnings and how, because of Herder's reformulation of Kant, anthropology was born out of philosophy.",
+        "Herder and Kant on History: Their Enlightenment Faith.Allen W. Wood - 2014 - In The Free Development of Each: Studies on Freedom, Right, and Ethics in Classical German Philosophy. New York, NY: Oxford University Press.",
+        "John Zammito, Kant, Herder, and the Birth of Anthropology."
+      ]
+    },
+    {
+      "title": "D. D\u00fcnger, Johann Gottfried Herder: Ideen zur Philosophie der Geschichte der Menschheit",
+      "url": "https://philpapers.org/rec/DNGJGH",
+      "philpapers_id": "DNGJGH",
+      "snippet": "V. M. Schirmunski: Johann Gottfried Herder. Hauptlinien seines Schaffens. [REVIEW]H. Plavius - 1964 - Deutsche Zeitschrift f\u00fcr Philosophie 12 (4):518. Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der &quot;Ideen&quot; Und Seiner Abhandlung: Idee Zu Einer Allgemeinen Geschichte ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "D. D\u00fcnger"
+        }
+      ],
+      "extra_snippets": [
+        "V. M. Schirmunski: Johann Gottfried Herder. Hauptlinien seines Schaffens. [REVIEW]H. Plavius - 1964 - Deutsche Zeitschrift f\u00fcr Philosophie 12 (4):518. Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der \"Ideen\" Und Seiner Abhandlung: Idee Zu Einer Allgemeinen Geschichte in Weltb\u00fcrgerlicher Absicht.Johann Gottfried Herder & Immanuel Kant - 1914 - Deutsche Bibliothek.",
+        "Manfred Naumann: Paul Thiry D'Holbach/Johann Gottfried Herder: \u00dcber den Ursprung der Sprache. [REVIEW]Werner Sellhorn - 1960 - Deutsche Zeitschrift f\u00fcr Philosophie 8 (5):601. Ideen zur Philosophie der Geschichte der Menschheit.Johann Gottfried Herder - 1965 - Berlin,: Aufbau-Verlag.",
+        "Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders \"Ideen zur Philosophie der Geschichte der Menschheit\" : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H.",
+        "Johann Gottfried von Herder's Ideen Zur Philosophie der Geschichte der Menschheit.Johann Gottfried Herder & Heinrich Luden - 1812 - Johann Freidrich Hartknoch."
+      ]
+    },
+    {
+      "title": "Johann Gottfried Herder, Ideen zur Philosophie der Geschichte der Menschheit",
+      "url": "https://philpapers.org/rec/HERIZP-4",
+      "philpapers_id": "HERIZP",
+      "snippet": "Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders &quot;Ideen zur Philosophie der Geschichte der Menschheit&quot; : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H. Zammito &amp; Regine Otto - 2001 \u00b7 Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der &quot;Ideen&quot; Und Seiner Abhandlung: Idee Zu Einer Allgemeinen Geschichte in Weltb\u00fcrgerlicher Absicht.Johann Gottfried Herder &amp; Immanuel Kant - 1914 - Deutsche Bibliothek.",
+      "page_age": null,
+      "extra_snippets": [
+        "Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders \"Ideen zur Philosophie der Geschichte der Menschheit\" : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H. Zammito & Regine Otto - 2001 \u00b7 Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der \"Ideen\" Und Seiner Abhandlung: Idee Zu Einer Allgemeinen Geschichte in Weltb\u00fcrgerlicher Absicht.Johann Gottfried Herder & Immanuel Kant - 1914 - Deutsche Bibliothek.",
+        "J.G. Herders Ideen Zur Philosophie der Geschichte der Menschheit Mit Kants Rezensionen der \"Ideen\" Und Seiner Abhandlung Idee Zu Einer Allgemeinen Geschichte in Weltb\u00fcrgerlicher Absicht.Johann Gottfried von Herder & Immanuel Kant - 1914 - Deutsche Bibliothek.",
+        "Die erste Aufnahme der,Ideen zur Philosophie der Geschichte der Menschheit\" in Ru\u00dfland.Rostislaw Ju Danilewski - 1978 - In Johann Gottfried Herder: Zur Herder-Rezeption in Ost- und S\u00fcdosteuropa. Berlin, Boston: De Gruyter.",
+        "Johann Gottfried Herder: Ideen zur Philosophie der Geschichte der Menschheit."
+      ]
+    },
+    {
+      "title": "Andrew Cutrofello, Kant's Debate with Herder about the Philosophical Significance of the Genius of Shakespeare",
+      "url": "https://philpapers.org/rec/CUTKDW",
+      "philpapers_id": "CUTKDW",
+      "snippet": "Herder shared Kant&#x27;s view that ... own speculative metaphysics violated this principle. Kant accused Herder of allowing his genius to interfere with his philosophy \u2013 that is, of philosophizing in a Shakespearean ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andrew Cutrofello"
+        }
+      ],
+      "extra_snippets": [
+        "In this paper I suggest that one of Kant's motives in framing the account of artistic genius that he presents in the Critique of Judgment was to respond to Herder's veneration of Shakespeare. Kant agreed with Herder that Shakespeare was an exemplary artistic genius, but he disagreed with him about the relationship between genius and philosophy.",
+        "Herder shared Kant's view that beautiful art should not infringe on the boundaries of the sciences, but in Kant's view Herder's own speculative metaphysics violated this principle. Kant accused Herder of allowing his genius to interfere with his philosophy \u2013 that is, of philosophizing in a Shakespearean manner.",
+        "I conclude by briefly indicating how the debate between Kant and Herder came to inform the analytic/continental division, which in light of this debate can be understood as a meta\u2010argument about the nature of philosophical arguments.",
+        "Critique with a Small C.Rachel Zuckert - 2020 - In Mar\u00eda Del Del Rosario Acosta L\u00f3pez & Colin McQuillan, Critique in German Philosophy: From Kant to Critical Theory. Albany: pp. 155-172. The Unity of Happiness and Reason in Hegel.Carson Monetti - manuscript \u00b7 Awe or envy: Herder contra Kant on the sublime.Rachel Zuckert - 2003 - Journal of Aesthetics and Art Criticism 61 (3):217\u2013232."
+      ]
+    },
+    {
+      "title": "Dalia Nassar, Analogy, Natural History and the Philosophy of Nature: Kant, Herder and the Problem of Empirical Science",
+      "url": "https://philpapers.org/rec/NASANH",
+      "philpapers_id": "NASANH",
+      "snippet": "In 1785 Kant published a series of critical reviews of Johann Gottfried Herder\u2019s Ideas for a Philosophy of the History of Humanity (1784\u20131785), in which he not only challenges Herder\u2019s conception of nature but also, and more importantly, his methodology.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Dalia Nassar"
+        }
+      ],
+      "extra_snippets": [
+        "In 1785 Kant published a series of critical reviews of Johann Gottfried Herder\u2019s Ideas for a Philosophy of the History of Humanity (1784\u20131785), in which he not only challenges Herder\u2019s conception of nature but also, and more importantly, his methodology.",
+        "Kant\u2019s complaint is that by relying on analogy, Herder draws deeply mistaken conclusions that overlook fundamental differences between human and nonhuman beings. But was Kant\u2019s critique of Herder entirely fair? And how does it compare to Kant\u2019s own use of analogy?",
+        "My claim is that Herder\u2019s use of analogy posed a fundamental methodological challenge to Kant, a challenge he sought to meet in the years following the reviews. In so doing, however, Kant found himself in the untenable situation of, on the one hand, granting analogy greater significance, and, on the other, severely restricting its use.",
+        "Kant\u2019s Response to Hume in the Second Analogy: A Critique of Gerd Buchdahl\u2019s and Michael Friedman\u2019s Accounts.Saniye Vatansever - 2018 - Hopos: The Journal of the International Society for the History of Philosophy of Science 8 (2):310-346. On the value of happiness: Herder contra Kant.Sonia Sikka - 2007 - Canadian Journal of Philosophy 37 (4):515-546."
+      ]
+    },
+    {
+      "title": "Marvin Tritschler, Kant and Herder on Reason\u2019s Relation to Language",
+      "url": "https://philpapers.org/rec/TRIKAH",
+      "philpapers_id": "TRIKAH",
+      "snippet": "As Kant thinks that judging can ... act as the self-conscious positing of meaning, they equally reject any sharp separation of thought from its expression in language....",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Marvin Tritschler"
+        }
+      ],
+      "extra_snippets": [
+        "This paper offers a reading of the infamous mutual critique between Kant and Herder by criticising the standard account of their tense relation, which attributes a priority of reason to the former and a priority of language to the latter.",
+        "As Kant thinks that judging can only be realised through its expression in language, and Herder conceives of a linguistic act as the self-conscious positing of meaning, they equally reject any sharp separation of thought from its expression in language.",
+        "Vernunft und Sprache: Zu Herders und Reinholds Metakritik an Kant.Marion Heinz - 2023 - In Martin Bondeli & Dirk Westerkamp, Vorstellung, Denken, Sprache: Reinholds Philosophie zwischen rationalem Realismus und transzendentalem Idealismus. Berlin, Boston: De Gruyter.",
+        "Reason and Language in Kant and Hamann.Andrew Vincent - 2025 - Kantian Review 30 (1):117-136. Herder\u2019s Constitutive Recognitionalism: Against Condillac and Kant.Helder De Schutter - 2025 - Kantian Review 30 (1):9-28."
+      ]
+    },
+    {
+      "title": "Stefan He\u00dfbr\u00fcggen-Walter, The Metaphysician Who Didn\u2019t Know That He Was Dreaming: Kant and the Spirit-Seers",
+      "url": "https://philpapers.org/rec/HEBTMW",
+      "philpapers_id": "HEBTMW",
+      "snippet": "Kant\u2019s Dreams of a Spirit Seer has puzzled most of its readers since its publication in 1766. Herder complained in general terms about the lack of unity and coherence of the book as well as Kant\u2019s dialectical method of presenting both sides of a problem without offering his own solution.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Stefan He\u00dfbr\u00fcggen-Walter"
+        }
+      ],
+      "extra_snippets": [
+        "Kant\u2019s Dreams of a Spirit Seer has puzzled most of its readers since its publication in 1766. Herder complained in general terms about the lack of unity and coherence of the book as well as Kant\u2019s dialectical method of presenting both sides of a problem without offering his own solution.",
+        "And neither of them fits with what Kant analyses as Swedenborg\u2019s metaphysical position in the second part: The position of the \u2018tangled knot\u2019 can tentatively be labelled as \u2018crypto-materialist\u2019. Swedenborg\u2019s own position is characterised in the text as \u2018idealist\u2019. The \u2018fragment of occult philosophy\u2019 in contrast is probably best described as \u2018dualist\u2019. If this diagnosis is correct, it reinforces Herder\u2019s complaints about the lack of coherence of Dreams as well as Mendelssohn\u2019s worry about its targets.",
+        "Kant Und Swedenborgkant and Swedenborg. Approaches to a Controversial Relationship: Zug\u00e4nge Zu Einem Umstrittenen Verh\u00e4ltnis.Friedemann Stengel (ed.) - 2008 - Berlin, New York: Walter de Gruyter \u2013 Max Niemeyer Verlag.",
+        "In Violetta L. Waibel, Margit Ruffing & David Wagner, Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses. Berlin, Boston: De Gruyter."
+      ]
+    },
+    {
+      "title": "Wolfgang Harich, Herder und das Ende der Aufkla\u0308rung",
+      "url": "https://philpapers.org/rec/HARHUD",
+      "philpapers_id": "HARHUD",
+      "snippet": "Afrika im Schatten der Aufkla\u0308rung: das Afrikabild bei Immanuel Kant und Johann Gottfried Herder.Wolbert Smidt - 1999 - Bonn: Holos. Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders &quot;Ideen zur Philosophie der Geschichte der Menschheit&quot; : Beitr\u00e4ge zur Konferenz der International ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Afrika im Schatten der Aufkla\u0308rung: das Afrikabild bei Immanuel Kant und Johann Gottfried Herder.Wolbert Smidt - 1999 - Bonn: Holos. Vom Selbstdenken: Aufkl\u00e4rung und Aufkl\u00e4rungskritik in Herders \"Ideen zur Philosophie der Geschichte der Menschheit\" : Beitr\u00e4ge zur Konferenz der International Herder Society, Weimar 2000.John H.",
+        "U\u0308ber Johann Gottfried Herder -- Herders Biograph Rudolf Haym -- Die Epoche der Aufkla\u0308rung --",
+        "Die Druckgeschichte der Predigten Herders.Martin Ke\u00dfler - 2007 - In Johann Gottfried Herder - der Theologe unter den Klassikern: Das Amt des Generalsuperintendenten von Sachsen-Weimar. Berlin, Boston: De Gruyter.",
+        "Nationale und internationale Aspekte der Klassenauseinandersetzung in Herders \u201eBriefen zu Bef\u00f6rderung der Humanit\u00e4t\".Gerhard Ziegengeist, Helmut Gra\u00dfhoff & Ulf Lehmann - 1978 - In Gerhard Ziegengeist, Helmut Gra\u00dfhoff & Ulf Lehmann, Johann Gottfried Herder: Zur Herder-Rezeption in Ost- und S\u00fcdosteuropa."
+      ]
+    },
+    {
+      "title": "Rachel Zuckert, Awe or envy: Herder contra Kant on the sublime",
+      "url": "https://philpapers.org/rec/ZUCAOE",
+      "philpapers_id": "ZUCAOE",
+      "snippet": "I present and evaluate Johann Gottfried Herder&#x27;s criticisms of Kant&#x27;s account of the sublime and Herder&#x27;s own theory of the sublime, as presented in his work, Kalligone. Herder&#x27;s account and criticisms ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Immanuel Kant: Observations on the Feeling of the Beautiful and Sublime and Other Writings.Immanuel Kant - 2011 - Cambridge University Press. On the Value of Happiness: Herder Contra Kant.Sonia Sikka - 2007 - Canadian Journal of Philosophy 37 (4):515-546.",
+        "The Kantian Sublime: From Morality to Art.Paul Crowther - 1989 - Oxford University Press. \u201c\u2019Our Nurses Are Our First Teachers of Logic\u2019. Herder on Language as Embodied Thinking,\u201d In: Herausforderung Herder\u2014Herder as Challenge, Ed. S. Gross, Heidelberg, Synchron, 2010, 199-214.",
+        "[REVIEW]Angelica Nuzzo - 2010 - In S. Gross (ed.), Herausforderung Herder\u2014Herder as Challenge. Syncron. Observations on the Feeling of the Beautiful and Sublime.Immanuel Kant - 1960 - Berkeley: University of California Press."
+      ]
+    },
+    {
+      "title": "Johann Gottfried Herder, Verstand und Erfahrung",
+      "url": "https://philpapers.org/rec/HERVUE",
+      "philpapers_id": "HERVUE",
+      "snippet": "Verstand Und Erfahrung Eine Metakritik Zur Kritik der Reinen Vernunft [by I. Kant]. Leipz., 1799. Impr. Anastaltique.Johann Gottfried von Herder &amp; Immanuel Kant - 1969",
+      "page_age": null,
+      "extra_snippets": [
+        "Anastaltique.Johann Gottfried C. Kiesewetter & Johann Gottfried von Herder - 1973 \u00b7 Johannes Haag: Erfahrung und Gegenstand: Das Verh\u00e4ltnis von Sinnichkeit und Verstand.J\u00fcrgen Stolzenberg & Karl P. Ameriks - 2008 - In J\u00fcrgen Stolzenberg & Karl P. Ameriks, 2007: Metaphysik / Metaphysics. Walter de Gruyter. Kant und Herder als Deuter der geistigen Welt.Theodor Litt - 1930 - Leipzig,: Quelle & Meyer.",
+        "Johann Gottfried Herder: Sprache und die Natur des Menschen.Astrid Gesche - 1993 - K\u00f6nigshausen & Neumann. Diskursiver Verstand, Intuitiver Verstand Und Vernunft.Frank K\u00fchne - 2004 - Hegel-Jahrbuch 6 (1):155-159. Afrika im Schatten der Aufkla\u0308rung: das Afrikabild bei Immanuel Kant und Johann Gottfried Herder.Wolbert Smidt - 1999 - Bonn: Holos.",
+        "Verstand Und Erfahrung Eine Metakritik Zur Kritik der Reinen Vernunft [by I. Kant]. Leipz., 1799. Impr. Anastaltique.Johann Gottfried von Herder & Immanuel Kant - 1969",
+        "Kant und Herder als Deuter der geistigen Welt.Theodor Litt - 1932 - The Monist 42 (1):156-156."
+      ]
+    }
+  ],
+  "count": 17,
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2708100"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2708100",
+      "title": "Herder's Two Philosophies of History",
+      "authors": [
+        {
+          "family": "Wells",
+          "given": "G. A."
+        }
+      ],
+      "editors": [],
+      "year": 1960,
+      "container_title": "Journal of the History of Ideas",
+      "volume": "21",
+      "issue": "4",
+      "page": "527",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2708100"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

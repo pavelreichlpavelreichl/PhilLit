@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1093/acprof:oso/9780198783930.003.0004
+[verify_paper.py] DOI verified: Between Friedrich Meinecke and Ernst Cassirer...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/acprof:oso/9780198783930.003.0004"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780198783930.003.0004",
+      "title": "Between Friedrich Meinecke and Ernst Cassirer",
+      "authors": [
+        {
+          "family": "Lifschitz",
+          "given": "Avi"
+        }
+      ],
+      "editors": [],
+      "year": 2016,
+      "container_title": "Isaiah Berlin and the Enlightenment",
+      "volume": "",
+      "issue": "",
+      "page": "51-66",
+      "publisher": "Oxford University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198783930.003.0004"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

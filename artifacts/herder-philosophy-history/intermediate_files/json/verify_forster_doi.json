@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1093/oso/9780198792369.001.0001
+[verify_paper.py] DOI verified: Development and Distribution...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/oso/9780198792369.001.0001"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/oso/9780198792369.001.0001",
+      "title": "Development and Distribution",
+      "authors": [
+        {
+          "family": "Sumner",
+          "given": "Andy"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Oxford Scholarship Online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Oxford University Press",
+      "type": "book",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/oso/9780198792369.001.0001"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

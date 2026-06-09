@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Three Critics of the Enlightenment...' author=Berlin year=2013
+[verify_paper.py] Paper found: Three Critics of the Enlightenment... (score: 42.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Three Critics of the Enlightenment",
+    "author": "Berlin",
+    "year": 2013
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/9781400848522",
+      "title": "Three Critics of the Enlightenment",
+      "authors": [
+        {
+          "family": "Berlin",
+          "given": "IsaiahHG"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Princeton University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1515/9781400848522",
+      "score": 42.799168
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

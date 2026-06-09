@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Relation of Herder's Critique of Enlightenment...' author=Jeong year=2016
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Relation of Herder's Critique of Enlightenment and his Idea of Language",
+    "author": "Jeong",
+    "year": 2016
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (19.8) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

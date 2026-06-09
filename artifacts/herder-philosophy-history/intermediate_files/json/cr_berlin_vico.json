@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2024717"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2024717",
+      "title": "Freedom of the Will and the Concept of a Person",
+      "authors": [
+        {
+          "family": "Frankfurt",
+          "given": "Harry G."
+        }
+      ],
+      "editors": [],
+      "year": 1971,
+      "container_title": "The Journal of Philosophy",
+      "volume": "68",
+      "issue": "1",
+      "page": "5",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2024717"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,268 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Herder Dilthey Gadamer hermeneutics', limit=20
+[search_philpapers.py] Retrieved 15 entries...
+[search_philpapers.py] Search complete: 15 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Herder Dilthey Gadamer hermeneutics",
+  "results": [
+    {
+      "title": "Richard E. Palmer, Hermeneutics; interpretation theory in Schleiermacher, Dilthey, Heidegger, and Gadamer",
+      "url": "https://philpapers.org/rec/PALHIT",
+      "philpapers_id": "PALHIT",
+      "snippet": "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+      "page_age": null,
+      "extra_snippets": [
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Richard E. Palmer, \"Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger and Gadamer\".Rudolf A.",
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer. [REVIEW]J. B.",
+        "Martin Heidegger, in a recently published group of essays, discusses the persistently ... was shattered by ED Hirsch's book Validity in Interpretation. ..."
+      ]
+    },
+    {
+      "title": "J. B. R., Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer",
+      "url": "https://philpapers.org/rec/RHIT",
+      "philpapers_id": "RHIT",
+      "snippet": "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "J. B. R."
+        }
+      ],
+      "extra_snippets": [
+        "Hermeneutics; interpretation theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Richard E. Palmer, \"Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger and Gadamer\".Rudolf A.",
+        "\"Hermeneutics\" is a term that is slowly gaining familiarity in Anglo-Saxon countries. As is so frequently the case with movements in Continental philosophy, it has been the theologians who have first ..."
+      ]
+    },
+    {
+      "title": "Austin Harrington, Objectivism in hermeneutics? Gadamer, Habermas, Dilthey",
+      "url": "https://philpapers.org/rec/HAROIH",
+      "philpapers_id": "HAROIH",
+      "snippet": "Gadamer and Habermas both argue that some earlier theorists of interpretation in the human sciences, despite recognizing the meaningful character of social reality, still succumb to objectivism because they fail to conceive the relation of interpreters to their subjects in terms of cross-cultural normative \u201cdialogue.\u201d In particular, Gadamer and Habermas claim that the most prominent nineteenth-century philosopher of the human sciences, Wilhelm Dilthey, fell prey to a misleading Cartesian outlook which sought to ground the objectivity of interpretation on complete transcendence of the inter",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Austin Harrington"
+        }
+      ],
+      "extra_snippets": [
+        "Gadamer and Habermas both argue that some earlier theorists of interpretation in the human sciences, despite recognizing the meaningful character of social reality, still succumb to objectivism because they fail to conceive the relation of interpreters to their subjects in terms of cross-cultural normative \u201cdialogue.\u201d In particular, Gadamer and Habermas claim that the most prominent nineteenth-century philosopher of the human sciences, Wilhelm Dilthey, fell prey to a misleading Cartesian outlook which sought to ground the objectivity of interpretation on complete transcendence of the inter",
+        "Ricoeur's account of tradition and the gadamer\u2013habermas debate.Robert Piercey - 2004 - Human Studies 27 (3):259-280. Hermeneutics; interpretation theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "Reason, tradition, and authority: a comparative study of Habermas and Gadamer.Donghyun Kim - unknown \u00b7 Hermeneutics and the cognitive sciences.Shaun Gallagher - 2004 - Journal of Consciousness Studies 11 (10-11):162-174."
+      ]
+    },
+    {
+      "title": "Hans-Georg Gadamer, Classical and Philosophical Hermeneutics",
+      "url": "https://philpapers.org/rec/GADCAP",
+      "philpapers_id": "GADCAP",
+      "snippet": "The Romantic conception of hermeneutics was psychologized by Dilthey and re-founded upon the principle of consciousness. With Heidegger became conceived as an ontological phenomenon identical to Existenz itself. For Gadamer, hermeneutics criticizes the \u2018pale abstractions\u2019 of Enlightenment conceptions of philosophy for neglecting the work of concepts in philosophy; concepts that have their origins in the self-critical communicative movement of human interpretation",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Hans-Georg Gadamer"
+        }
+      ],
+      "extra_snippets": [
+        "The Romantic conception of hermeneutics was psychologized by Dilthey and re-founded upon the principle of consciousness. With Heidegger became conceived as an ontological phenomenon identical to Existenz itself. For Gadamer, hermeneutics criticizes the \u2018pale abstractions\u2019 of Enlightenment conceptions of philosophy for neglecting the work of concepts in philosophy; concepts that have their origins in the self-critical communicative movement of human interpretation",
+        "Hermeneutics is a mantic art involved in the translation of the unintelligible into the intelligible. However, within modern contexts the term possesses a more methodological sense - \u2018a universal doctrine for ...",
+        "Hermeneutics.Theodore George - 2020 - Stanford Encyclopedia of Philosophy. Gadamer and Hermeneutics: Science, Culture, Literature.Hugh J.",
+        "Textuality.Karl Simms - 2015 - In Niall Keane & Chris Lawn, A Companion to Hermeneutics. Chichester, West Sussex, UK: Wiley-Blackwell. pp. 320\u2013325. Hans-Georg Gadamer's Philosophical Hermeneutics.Jun Wei - 2003 - Philosophy and Culture 30 (11):63-92."
+      ]
+    },
+    {
+      "title": "Peter McCormick, Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer",
+      "url": "https://philpapers.org/rec/MCCHIT",
+      "philpapers_id": "MCCHIT",
+      "snippet": "Filosofische hermeneutiek en hermeneutische filosofie. Een herwaardering Van de traditie Van Kant en Dilthey in verband met Heidegger en Gadamer.R.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Peter McCormick"
+        }
+      ],
+      "extra_snippets": [
+        "Understanding Hermeneutics (Richard E. Palmer, \"Hermeneutics. Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer\".",
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Filosofische hermeneutiek en hermeneutische filosofie. Een herwaardering Van de traditie Van Kant en Dilthey in verband met Heidegger en Gadamer.R.",
+        "Hermeneutics, Interpretation Theory in Schleiermacher, Dilthey, Heidegger and Gadamer.Liliane Welch - 1969 - Journal of Aesthetics and Art Criticism 30 (2):260-262."
+      ]
+    },
+    {
+      "title": "Eric S. Nelson, Heidegger and Dilthey: Language, History, and Hermeneutics",
+      "url": "https://philpapers.org/rec/NELHAD-4",
+      "philpapers_id": "NELHAD",
+      "snippet": "The hermeneutical tradition represented by Yorck, Heidegger, and Gadamer has distrusted Dilthey as suffering from the two sins of modernism: scientific \u201cpositivism\u201d and individualistic and aesthetic \u201cromanticism.\u201d On the one hand, ...",
+      "page_age": "2014-11-16T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Eric S. Nelson"
+        }
+      ],
+      "extra_snippets": [
+        "The hermeneutical tradition represented by Yorck, Heidegger, and Gadamer has distrusted Dilthey as suffering from the two sins of modernism: scientific \u201cpositivism\u201d and individualistic and aesthetic \u201cromanticism.\u201d On the one hand, Dilthey\u2019s epistemology is deemed scientistic in accepting the priority of the empirical, the ontic, and consequently scientific inquiry into the physical, biological, and human worlds; on the other hand, his personalist ethos and Goethean humanism, and his pluralistic life- and worldview philosophy are considered excessively aesthetic, culturally liberal, relativistic, and subjective.",
+        "Hermeneutik im Ubergang von Dilthey zu Heidegger.Guillaume Fagniez - 2013 - Studia Phaenomenologica 13:429-447. Time, History, and Facticity in Dilthey and Heidegger.Eric Sean Nelson - 2001 - Dissertation, Emory University \u00b7 Historische Aufkl\u00e4rung und Geschichtlichkeit: Zur Rezeption von Diltheys Begriffswelt in Gadamers philosophischer Hermeneutik.Hans-Ulrich Lessing - 2003 - Archiv f\u00fcr Begriffsgeschichte 45:21-43.",
+        "The Original Purpose of Truth and Method and the Development of a Philosophical Hermeneutics from Dilthey through Heidegger to Gadamer.Richard Palmer & Hui-mei Lee - 2008 - Philosophy and Culture 35 (2):109-119.",
+        "Filosofische hermeneutiek en hermeneutische filosofie. Een herwaardering Van de traditie Van Kant en Dilthey in verband met Heidegger en Gadamer.R."
+      ]
+    },
+    {
+      "title": "Hans-Georg Gadamer, Hermeneutics between history and philosophy",
+      "url": "https://philpapers.org/rec/GADHBH-2",
+      "philpapers_id": "GADHBH",
+      "snippet": "Hermeneutics between History and Philosophy collects together Gadamer&#x27;s remaining important untranslated writings on the problem of history and the major philosophical traditions of the 20th century from the standpoint of hermeneutics. ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Hermeneutics between History and Philosophy collects together Gadamer's remaining important untranslated writings on the problem of history and the major philosophical traditions of the 20th century from the standpoint of hermeneutics. In these writings, Gadamer examines important thinkers as Husserl, Heidegger, Sartre, Bourdieu and Habermas and their ongoing legacies.",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "This volume also includes a preface by the editors, who are also the translators, presenting the structure of the volume, a substantial introductionsituating Gadamer's particular project and examining the place of hermeneutics vis-a-vis the disciplines of history and philosophy in the 20th century.",
+        "The translation is followed by a glossary of German terms and Greek and Latin expressions, as well as a bibliography of all the works cited and alluded to by Gadamer. ... Hermeneutics."
+      ]
+    },
+    {
+      "title": "Garrett Barden, Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer",
+      "url": "https://philpapers.org/rec/BARHIT-6",
+      "philpapers_id": "BARHIT",
+      "snippet": "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Garrett Barden"
+        }
+      ],
+      "extra_snippets": [
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Hermeneutics; interpretation theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+        "Richard E. Palmer, \"Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger and Gadamer\".Rudolf A.",
+        "Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer. [REVIEW]J. B."
+      ]
+    },
+    {
+      "title": "Eric S. Nelson, Hermeneutics: Schleiermacher and Dilthey",
+      "url": "https://philpapers.org/rec/NELHSA",
+      "philpapers_id": "NELHSA",
+      "snippet": "Richard E. Palmer, &quot;Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger and Gadamer&quot;. [REVIEW]Rudolf A.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Eric S. Nelson"
+        }
+      ],
+      "extra_snippets": [
+        "Wilhelm Dilthey: Selected Works, Volume Iv: Hermeneutics and the Study of History.Wilhelm Dilthey - 1996 - Princeton University Press."
+      ]
+    },
+    {
+      "title": "David Weberman, A New Defense of Gadamer\u2019s Hermeneutics",
+      "url": "https://philpapers.org/rec/WEBAND",
+      "philpapers_id": "WEBAND",
+      "snippet": "This paper re-examines the central thesis of Gadamer\u2019s hermeneutics that objectivity is not a suitable ideal for understanding a text, historical event, or cultural phenomenon because there exists no one correct ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "David Weberman"
+        }
+      ],
+      "extra_snippets": [
+        "This paper re-examines the central thesis of Gadamer\u2019s hermeneutics that objectivity is not a suitable ideal for understanding a text, historical event, or cultural phenomenon because there exists no one correct interpretation of such phenomena. Because Gadamer fails to make clear the grounds for this claim, this paper considers three possible arguments.",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "Hermeneutical contributions to the history of science: Gadamer on \u2018presentism\u2019.Oscar Moro Abad\u00eda - 2011 - Studies in History and Philosophy of Science Part A 42 (2):372-380. H.-G. Gadamer\u2019s Hermeneutics.Despina Neztekidou - 2018 - Proceedings of the XXIII World Congress of Philosophy 30:43-49.",
+        "Hans-Georg Gadamer\u2019s philosophical hermeneutics: Concepts of reading, understanding and interpretation.Paul Regan - 2012 - Meta: Research in Hermeneutics, Phenomenology, and Practical Philosophy 4 (2):286-303."
+      ]
+    },
+    {
+      "title": "Kristin Gjesdal, Herder's Hermeneutics: History, Poetry, Enlightenment",
+      "url": "https://philpapers.org/rec/GJEHHH",
+      "philpapers_id": "GJEHHH",
+      "snippet": "She shows that hermeneutic philosophy grew out of a historical, anthropological, and poetic discourse in the mid-eighteenth century and argues that, as such, it represents a rich, stimulating, and relevant engagement with the potentials and limits of human meaning and understanding. Gjesdal&#x27;s study broadens our conception of hermeneutic philosophy - the issues it raises and the answers it offers - and underlines the importance of Herder&#x27;s contribution to the development of this discipline.",
+      "page_age": null,
+      "extra_snippets": [
+        "Through a detailed study of Herder's Enlightenment thought, especially his philosophy of literature, Kristin Gjesdal offers a new and sometimes provocative reading of the historical origins and contemporary challenges of modern hermeneutics.",
+        "Herder's Hermeneutics: History, Poetry, Enlightenment. Cambridge University Press, 2017, xiv + 231 pp., $99.99 cloth. [REVIEW]Guy Elgat - 2019 - Journal of Aesthetics and Art Criticism 77 (1):96-99. Herder's Naturalist Aesthetics.Rachel Zuckert - 2019 - New York: Gadamer and the Legacy of German Idealism.Kristin Gjesdal - 2009 - New York: Cambridge University Press.",
+        "She shows that hermeneutic philosophy grew out of a historical, anthropological, and poetic discourse in the mid-eighteenth century and argues that, as such, it represents a rich, stimulating, and relevant engagement with the potentials and limits of human meaning and understanding. Gjesdal's study broadens our conception of hermeneutic philosophy - the issues it raises and the answers it offers - and underlines the importance of Herder's contribution to the development of this discipline.",
+        "Her book will be highly valuable for students and scholars of eighteenth-century thought, especially those working in the fields of hermeneutics, aesthetics, and European philosophy. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Gjesdal, Kristin: Herder\u2019s Hermeneutics: History, Poetry, Enlightenment.Niels Jacob Wildschut & Katherina Kinzel - 2018 - Herder Yearbook 14."
+      ]
+    },
+    {
+      "title": "Kristin Gjesdal, Hermeneutics and philology: A reconsideration of Gadamer's critique of Schleiermacher",
+      "url": "https://philpapers.org/rec/GJEHAP",
+      "philpapers_id": "GJEHAP",
+      "snippet": "Hermeneutics; interpretation theory in Schleiermacher, Dilthey, Heidegger, and Gadamer.Richard E.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Kristin Gjesdal"
+        }
+      ],
+      "extra_snippets": [
+        "Hermeneutics and theory of mind.Mahin Chenari - 2009 - Phenomenology and the Cognitive Sciences 8 (1):17-31. Aesthetic and Political Humanism: Gadamer on Herder, Schleiermacher, and the Origins of Modern Hermeneutics.Kristin Gjesdal - 2007 - History of Philosophy Quarterly 24 (3):275 - 296.",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "Gadamer's rhetorical conception of hermeneutics as the key to developing a critical hermeneutics.I."
+      ]
+    },
+    {
+      "title": "Thomas J. Nenon, Horizonality",
+      "url": "https://philpapers.org/rec/NENHVP",
+      "philpapers_id": "NENHVP",
+      "snippet": "Gadamer himself recognizes that the insights into the role of horizons in any understanding developed in the nineteenth century with the rise of historical consciousness in general and then came to be themes of explicit reflection in his own immediate philosophical predecessors, Dilthey, Husserl, and Heidegger. ... Edmund Husserl Hans\u2010Georg Gadamer hermeneutical philosophy historical consciousness horizonality in hermeneutics intellectual understanding Martin Heidegger Wilhelm Dilthey",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Thomas J. Nenon"
+        }
+      ],
+      "extra_snippets": [
+        "Gadamer himself recognizes that the insights into the role of horizons in any understanding developed in the nineteenth century with the rise of historical consciousness in general and then came to be themes of explicit reflection in his own immediate philosophical predecessors, Dilthey, Husserl, and Heidegger. ... Edmund Husserl Hans\u2010Georg Gadamer hermeneutical philosophy historical consciousness horizonality in hermeneutics intellectual understanding Martin Heidegger Wilhelm Dilthey",
+        "The notion of horizonality plays an important role in hermeneutical philosophy above all owing to the centrality afforded the concept of horizon in Hans\u2010Georg Gadamer's groundbreaking Truth and Method. The notion ...",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "Hans-Georg Gadamer et l\u2019herm\u00e9neutique th\u00e9ologique. Id\u00e9es directrices pour la compr\u00e9hension de soi de la th\u00e9ologie.Dany Rodier - 2008 - Dissertation, Universit\u00e9 de Montr\u00e9al \u00b7 The Hermeneutical Circle.Jean Grondin - 2015 - In Niall Keane & Chris Lawn, A Companion to Hermeneutics."
+      ]
+    },
+    {
+      "title": "Jeffrey James Polet, Liberal Interpretations: Gadamer's Hermeneutics and the Modern Subject",
+      "url": "https://philpapers.org/rec/POLLIG",
+      "philpapers_id": "POLLIG",
+      "snippet": "By engaging in a preliminary investigation of the nature of modernity--focusing specifically on the loss of historical consciousness, a widespread sense of alienation, the &quot;loss of the gods,&quot; and the primacy of the will--the work sets the stage by which Gadamer&#x27;s hermeneutical theory is shown to be a therapy for much of what ails the modern world. ;The preliminary discussion on Gadamer follows Gadamer&#x27;s own theory by showing how his indebtedness to and critique of certain key thinkers--Hegel, Husserl, Dilthey and Heidegger--provides the framework and content of his own recovery of historical consciousness, manifested in his defense of &quot;prejudice&quot; and tradition.",
+      "page_age": null,
+      "extra_snippets": [
+        "By engaging in a preliminary investigation of the nature of modernity--focusing specifically on the loss of historical consciousness, a widespread sense of alienation, the \"loss of the gods,\" and the primacy of the will--the work sets the stage by which Gadamer's hermeneutical theory is shown to be a therapy for much of what ails the modern world. ;The preliminary discussion on Gadamer follows Gadamer's own theory by showing how his indebtedness to and critique of certain key thinkers--Hegel, Husserl, Dilthey and Heidegger--provides the framework and content of his own recovery of historical consciousness, manifested in his defense of \"prejudice\" and tradition.",
+        "This work examines the significance of the hermeneutical theory of Hans-Georg Gadamer for the study of politics. By engaging in a preliminary investigation of the nature of modernity--focusing specifically on the ...",
+        "Gadamer's transformation of hermeneutics : from Dilthey to Heidegger.Martin Ford - unknown",
+        "In both, he attempts to think the presence of the universal as it manifests itself in the particular. Also, in both forms of consciousness, Gadamer shows that the subject is not an isolated Cartesian ego, but a participant within the process, and it is this act of participation which needs to be elucidated in hermeneutical reflection."
+      ]
+    },
+    {
+      "title": "Wilhelm Dilthey, The development of hermeneutics*(1900)",
+      "url": "https://philpapers.org/rec/DILTDO",
+      "philpapers_id": "DILTDO",
+      "snippet": "The Rise of Hermeneutics (1900).Wilhelm Dilthey - 1996 - In Wilhelm Dilthey: Selected Works, Volume IV: Hermeneutics and the Study of History. Princeton: Princeton University Press.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Wilhelm Dilthey"
+        }
+      ],
+      "extra_snippets": [
+        "The Rise of Hermeneutics (1900).Wilhelm Dilthey - 1996 - In Wilhelm Dilthey: Selected Works, Volume IV: Hermeneutics and the Study of History. Princeton: Princeton University Press.",
+        "Expanding hermeneutics to the world of technology.Jure Zovko - 2023 - AI and Society 38 (6):2243-2254."
+      ]
+    }
+  ],
+  "count": 15,
+  "errors": []
+}

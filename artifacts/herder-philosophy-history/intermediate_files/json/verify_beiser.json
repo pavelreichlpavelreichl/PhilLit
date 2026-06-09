@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Fate of Reason German Philosophy Kant Fichte...' author=Beiser year=1987
+[verify_paper.py] Paper found: The Fate of Reason... (score: 37.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Fate of Reason German Philosophy Kant Fichte",
+    "author": "Beiser",
+    "year": 1987
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4159/9780674020696",
+      "title": "The Fate of Reason",
+      "authors": [
+        {
+          "family": "BEISER",
+          "given": "Frederick C."
+        }
+      ],
+      "editors": [],
+      "year": 1987,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Harvard University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4159/9780674020696",
+      "score": 37.54424
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

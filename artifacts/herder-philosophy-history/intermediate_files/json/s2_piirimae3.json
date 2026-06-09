@@ -1,0 +1,59 @@
+[s2_search.py] Searching Semantic Scholar: 'Piirimae Berlin Herder Counter-Enlightenment History Political Thought 2015', limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_b148ab7f4a8f9ee9)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Piirimae Berlin Herder Counter-Enlightenment History Political Thought 2015",
+  "results": [
+    {
+      "paperId": "5414932fa99e2145b58e7c3bf2d6226fb154cd43",
+      "title": "Berlin, Herder, and the Counter-Enlightenment",
+      "authors": [
+        {
+          "name": "E. Piirim\u00e4e",
+          "authorId": "117311511"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1353/ECS.2015.0042",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5414932fa99e2145b58e7c3bf2d6226fb154cd43",
+      "venue": "",
+      "journal": {
+        "name": "Eighteenth-Century Studies",
+        "pages": "71 - 76",
+        "volume": "49"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1f819e1ddbb322a394fe4e991c37035b26740766",
+      "title": "Intellectual history and language",
+      "authors": [
+        {
+          "name": "D. Kelley",
+          "authorId": "40084641"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1080/17496977.2015.1032124",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1f819e1ddbb322a394fe4e991c37035b26740766",
+      "venue": "",
+      "journal": {
+        "name": "Intellectual History Review",
+        "pages": "49 - 53",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

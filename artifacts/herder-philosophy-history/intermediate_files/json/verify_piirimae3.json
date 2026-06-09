@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='State-machines commerce progress Humanitat Europe ...' author=Piirimae year=2017
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "State-machines commerce progress Humanitat Europe Herder response Kant",
+    "author": "Piirimae",
+    "year": 2017
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

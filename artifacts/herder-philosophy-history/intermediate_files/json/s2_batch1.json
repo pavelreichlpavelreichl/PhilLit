@@ -1,0 +1,16 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 3 paper(s)...
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "3 paper IDs",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "config_error",
+      "message": "Invalid request: Bad request",
+      "recoverable": false
+    }
+  ]
+}

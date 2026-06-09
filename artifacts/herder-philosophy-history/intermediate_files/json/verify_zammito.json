@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Kant, Herder, and the Birth of Anthropology...' author=Zammito year=2002
+[verify_paper.py] Paper found: Kant, Herder, and the Birth of Anthropology... (score: 51.0)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Kant, Herder, and the Birth of Anthropology",
+    "author": "Zammito",
+    "year": 2002
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/3252180",
+      "title": "Kant, Herder, and the Birth of Anthropology",
+      "authors": [
+        {
+          "family": "Schmidt",
+          "given": "Claudia M."
+        },
+        {
+          "family": "Zammito",
+          "given": "John H."
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "The German Quarterly",
+      "volume": "76",
+      "issue": "2",
+      "page": "221",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/3252180",
+      "score": 50.996788
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

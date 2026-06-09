@@ -1,0 +1,1348 @@
+[search_openalex.py] Searching OpenAlex: 'Herder Kant controversy philosophy history' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_da349769f3a32f2a)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Herder Kant controversy philosophy history",
+  "results": [
+    {
+      "openalex_id": "W2495734247",
+      "doi": "10.1093/acprof:oso/9780199542680.003.0010",
+      "title": "Herder and Kant on History: Their Enlightenment Faith",
+      "authors": [
+        {
+          "name": "Allen Wood",
+          "openalex_id": "A5076651531"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Johann Gottfried Herder was an important philosopher of history. He was also a student of Immanuel Kant, whose views on history are less well-known, but were developed \u2014 as were Herder's \u2014 in the course of sometimes acrimonious exchanges between the two philosophers. Most treatments of this relationship emphasize the differences and points of controversy between Kant and Herder. This chapter argues that we understand Herder better if we view his philosophy of history as a creative development of Enlightenment ideas, rather than as a fundamental critique of them. His rejection of the received 18th century philosophy of history is better viewed as a radical extension of Enlightenment principles than as a repudiation of them. Herder and Kant also share an Enlightenment faith in historical progress (which is less reserved and qualified in Herder's case than in Kant's). The final section of the chapter makes use of Robert Adams' conception of \u2018moral faith\u2019 in Finite and Infinite Goods to expound and defend the rationality of the Enlightenment position here as represented by both Kant and Herder.",
+      "cited_by_count": 31,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Reformation and Early Modern Christianity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2495734247"
+    },
+    {
+      "openalex_id": "W578201897",
+      "doi": "10.1515/9781400827169",
+      "title": "Selected Writings on Aesthetics",
+      "authors": [
+        {
+          "name": "Johann GottfriedHG Herder",
+          "openalex_id": "A5079310546"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-12-31",
+      "abstract": "A seminal figure in the philosophy of history, culture, and language, Johann Gottfried Herder (1744-1803) also produced some of the most important and original works in the history of aesthetic theory. A student of Kant, he spent much of his life striving to reconcile the opposing poles of Enlightenment thought represented by his early mentors. His ideas influenced Hegel, Schleiermacher, Nietzsche, Dilthey, J. S. Mill, and Goethe. This book presents most of Herder's important writings on aesthetics, including the main sections of one of his major untranslated works, Kritische W\u00e4lder (Critical Forests). These notes, essays, and treatises, the majority of which appear here in English for the first time, show this idiosyncratic thinker both deeply rooted in the controversies of his day and pointing the way to future developments in aesthetics. Chosen to reflect the extent and diversity of Herder's concerns, the texts cover such topics as the psychology and physiology of aesthetic perception, the classification of the arts, taste, Shakespeare, the classical tradition, and the relationship between art and morality. Few thinkers have reflected so sensitively and productively on the cultural, historical, anthropological, ethical, and theological dimensions of art and the creative process. With this book, the importance of aesthetics to the evolution and texture of Herder's own thought, as well as his profound contribution to that discipline, comes fully into view.",
+      "cited_by_count": 107,
+      "type": "book",
+      "source": {
+        "name": "Princeton University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Visual Culture and Art Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W578201897"
+    },
+    {
+      "openalex_id": "W1603011375",
+      "doi": "10.2307/j.ctt183gzx9",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        },
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. logging, pulping and manufacturing processes are expected to conform to the environmental standards of the country of origin.",
+      "cited_by_count": 126,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/45623/1/625231.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W1603011375"
+    },
+    {
+      "openalex_id": "W2802449888",
+      "doi": "10.17875/gup2006-739",
+      "title": "Annals of the History and Philosophy of Biology 10/2005",
+      "authors": [
+        {
+          "name": "Olaf Breidbach",
+          "openalex_id": "A5058583730",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Freie Universit\u00e4t Berlin",
+            "Albrecht von Haller Foundation"
+          ]
+        },
+        {
+          "name": "Karl Rudolphi",
+          "openalex_id": "A5098303733",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Albrecht von Haller Foundation",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Ihnen Als Natur Eigenen Ordnungsprinzip",
+          "openalex_id": "A5098236095",
+          "institutions": [
+            "Albrecht von Haller Foundation",
+            "Freie Universit\u00e4t Berlin",
+            "Max Planck Institute for the History of Science"
+          ]
+        },
+        {
+          "name": "Sind Ganz",
+          "openalex_id": "A5098303734",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "Max Planck Institute for the History of Science",
+            "Albrecht von Haller Foundation"
+          ]
+        },
+        {
+          "name": "Lorenz Oken",
+          "openalex_id": "A5035573206",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "Albrecht von Haller Foundation",
+            "Max Planck Institute for the History of Science"
+          ]
+        },
+        {
+          "name": "Ein Politischer",
+          "openalex_id": "A5098180014",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Freie Universit\u00e4t Berlin",
+            "Albrecht von Haller Foundation"
+          ]
+        },
+        {
+          "name": "Naturphilosoph Hg",
+          "openalex_id": "A5098475098",
+          "institutions": [
+            "Albrecht von Haller Foundation",
+            "Max Planck Institute for the History of Science",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "H.-J Breidbach",
+          "openalex_id": "A5098236096",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Albrecht von Haller Foundation",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "K Fliedner",
+          "openalex_id": "A5098563652",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "Albrecht von Haller Foundation",
+            "Max Planck Institute for the History of Science"
+          ]
+        },
+        {
+          "name": "Breidbach Olaf",
+          "openalex_id": "A5098645868",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Albrecht von Haller Foundation",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Michael T. Ghiselin",
+          "openalex_id": "A5047701183",
+          "orcid": "https://orcid.org/0000-0003-2634-8729",
+          "institutions": [
+            "Max Planck Institute for the History of Science",
+            "Freie Universit\u00e4t Berlin",
+            "Albrecht von Haller Foundation"
+          ]
+        },
+        {
+          "name": "Breidbach Olaf",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Ghiselin",
+          "openalex_id": ""
+        },
+        {
+          "name": "Olaf Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "Olaf Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "Lorenz Oken",
+          "openalex_id": ""
+        },
+        {
+          "name": "Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ghiselin Olaf",
+          "openalex_id": ""
+        },
+        {
+          "name": "Thomas Bach",
+          "openalex_id": ""
+        },
+        {
+          "name": "Brigitte Lohff",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Ebda",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Dear",
+          "openalex_id": ""
+        },
+        {
+          "name": "Brigitte Lohff",
+          "openalex_id": ""
+        },
+        {
+          "name": "Gregory",
+          "openalex_id": ""
+        },
+        {
+          "name": "Stefano Poggi",
+          "openalex_id": ""
+        },
+        {
+          "name": "Th Bach",
+          "openalex_id": ""
+        },
+        {
+          "name": "Lorenz Oken",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Brain",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "O",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Ghiselin",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Breidbach",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Cantor",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Dear",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Finocchiaro",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Hagner",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Hentschel",
+          "openalex_id": ""
+        },
+        {
+          "name": "I Kant",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Kremer",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Kremer",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Koller",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Lenoir",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Lohff",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Lohff",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Lohff",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Mendelsohn",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Mendelsohn",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Oken",
+          "openalex_id": ""
+        },
+        {
+          "name": "St Poggi",
+          "openalex_id": ""
+        },
+        {
+          "name": "St Poggi",
+          "openalex_id": ""
+        },
+        {
+          "name": "H.-J Rheinberger",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Strzbecher",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Wollgast",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Woolgar",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Bayertz",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Darwin",
+          "openalex_id": ""
+        },
+        {
+          "name": "E.-M Engels",
+          "openalex_id": ""
+        },
+        {
+          "name": "E.-M Engels",
+          "openalex_id": ""
+        },
+        {
+          "name": "E.-M Engels",
+          "openalex_id": ""
+        },
+        {
+          "name": "E.-M Engels",
+          "openalex_id": ""
+        },
+        {
+          "name": "E.-M Engels",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Erny",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Everett",
+          "openalex_id": ""
+        },
+        {
+          "name": "F Galton",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Gundry",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Hffding",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Hume",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Huxley",
+          "openalex_id": ""
+        },
+        {
+          "name": "I Kant",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Peters",
+          "openalex_id": ""
+        },
+        {
+          "name": "W Preyer",
+          "openalex_id": ""
+        },
+        {
+          "name": "W Schallmayer",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Tille",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Unruh",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Wallace",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Ball",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Behe",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Hanken",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Richardson",
+          "openalex_id": ""
+        },
+        {
+          "name": "U Hofeld",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Nthlich",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Olsson",
+          "openalex_id": ""
+        },
+        {
+          "name": "Martin Kemp",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Pennisi",
+          "openalex_id": ""
+        },
+        {
+          "name": "Pennisi",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Behe",
+          "openalex_id": ""
+        },
+        {
+          "name": "Pennisi",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Pennisi",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Richardson",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Richardson",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Keuck",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Uglow",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Abel",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Abel",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Adams",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "Mllers textbook of human physiology was one of the most important of its kind in the 19 th century. Mller not only presented state of the art physiology, but additionally a new approach to physiological experimentation. The aim of physiology was, he maintained, the most complete analysis possible of the physico-chemical reactions that make up the animal body. In practice, he realized, such an analysis was impossible at the time. Yet physiology should adopt just such a reductive approach, describing the various physiological processes as constitutive of the functional morphology of organisms. For this purpose, the nerve-muscle junction proved ideal. Following on from the 18 th century study of animal electricity, a particular experimental set-up had become established by the early 19 th century, which made possible the examination of reactions at the nerve-muscle junction and thus of the physiology of muscle movement and its control. By this time, the observed reactions were seen as effected life energies or life forces and became burdened by a theoretical overload. Experimental practices showed, however, that these vitalist notions were irrelevant, and as a result the reaction itself became the focus of physiological studies. In the article the strategy by which Mller enfolds his idea of a scientific physiology is reconstructed and the place of experiment and observation in Mllerian physiology is described, outlining physiology as a new prototype of experimental science.",
+      "cited_by_count": 43,
+      "type": "book",
+      "source": {
+        "name": "Annals of the history and philosophy of biology",
+        "type": "ebook platform",
+        "issn": [
+          "1863-0197",
+          "2512-5923"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.univerlag.uni-goettingen.de/bitstream/3/isbn-3-938616-39-3/1/annals%2010_DGGTB.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 190,
+      "url": "https://openalex.org/W2802449888"
+    },
+    {
+      "openalex_id": "W4249649394",
+      "doi": "10.1093/acprof:oso/9780199685530.003.0005",
+      "title": "Herder and Kant on History: Their Enlightenment Faith",
+      "authors": [
+        {
+          "name": "Allen W. Wood",
+          "openalex_id": "A5104029547"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-16",
+      "abstract": "Johann Gottfried Herder was an important philosopher of history. He was also a student of Immanuel Kant, whose views on history are less well known, but were developed \u2013 as were Herder\u2019s \u2013 in the course of sometimes acrimonious exchanges between the two philosophers. Most treatments of this relationship emphasize the differences and points of controversy between Kant and Herder. This chapter argues that we understand Herder better if we view his philosophy of history as a creative development of Enlightenment ideas, rather than as a fundamental critique of them. His rejection of the received eighteenth-century philosophy of history is not a form of relativism, but is better viewed as a radical extension of Enlightenment principles than as a repudiation of them. Herder and Kant also share an Enlightenment faith in historical progress. Robert Adams\u2019 conception of \u201cmoral faith\u201d is used to expound and defend the rationality of the Enlightenment position of Kant and Herder.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Reformation and Early Modern Christianity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4249649394"
+    },
+    {
+      "openalex_id": "W4296353112",
+      "doi": "10.1017/s1369415422000334",
+      "title": "White Progress: Kant, Race and Teleology",
+      "authors": [
+        {
+          "name": "Inder S. Marwah",
+          "openalex_id": "A5089426302",
+          "orcid": "https://orcid.org/0000-0003-2761-7679",
+          "institutions": [
+            "McMaster University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-19",
+      "abstract": "Abstract This article examines how Kant\u2019s conceptualizations of natural history and teleological judgement shape his understanding of human difference and race. I argue that the teleological framework encasing Kant\u2019s racial theory implies constraints on the capacity of non-whites to make moral progress. While commentators tend to approach Kant\u2019s racial theory in relation to his political theory, his late-life cosmopolitanism, and his treatments (or non-treatments) of colonialism, empire and slavery, the problem I focus on here is that race is itself only intelligible in relation to a teleological natural history limiting certain races\u2019 capacities to engage in humanity\u2019s moral vocation.",
+      "cited_by_count": 31,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D226D581B530439C81DF60228DAF3C29/S1369415422000334a.pdf/div-class-title-white-progress-kant-race-and-teleology-div.pdf"
+      },
+      "topics": [
+        "War, Ethics, and Justification",
+        "Political Philosophy and Ethics",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W4296353112"
+    },
+    {
+      "openalex_id": "W2974703201",
+      "doi": "10.1093/oso/9780198779650.003.0005",
+      "title": "Herder",
+      "authors": [
+        {
+          "name": "St\u00e9fanie Buchenau",
+          "openalex_id": "A5040224415",
+          "institutions": [
+            "Universit\u00e9 Paris 8"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-20",
+      "abstract": "A distinctive feature of Herder\u2019s attempt to develop an anthropology is the crucial role played by aesthetics. Anthropology is a naturalized form of understanding human motivations and behaviour, replacing traditional religious and humanist forms of understanding. It is naturalist in the sense of opening up human motivations and behaviour to empirical evidence, and deciding questions on this basis. Naturalism here is not a reduction to the physical sciences, but rather to sources of evidence that can be gleaned from comparative areas such as history, geography, and, more problematically, anatomy. That aesthetics could play a role in such an exercise may seem somewhat puzzling at first, but for Herder and his German contemporaries, an aesthetic sensibility was central to what it was to be a human being, just as, for his predecessors, a religious sensibility was crucial to what it was to be a human being.",
+      "cited_by_count": 20,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hal.science/hal-02286197/document"
+      },
+      "topics": [
+        "Reformation and Early Modern Christianity",
+        "Historical Philosophy and Science",
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W2974703201"
+    },
+    {
+      "openalex_id": "W398795503",
+      "doi": "10.5860/choice.51-2600",
+      "title": "Kant's organicism: epigenesis and the development of critical philosophy",
+      "authors": [
+        {
+          "name": "Jennifer Mensch",
+          "openalex_id": "A5066860494",
+          "orcid": "https://orcid.org/0000-0002-5352-8517"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-12-19",
+      "abstract": "Because it laid the foundation for nearly all subsequent epistemologies, Immanuel of Pure Reason has overshadowed his other interests in natural history and the life sciences, which scholars have long considered as separate from his rigorous theoretical philosophy - until now. In Kant's Organicism, Jennifer Mensch draws a crucial link between these spheres by showing how the concept of epigenesis - a radical theory of biological formation - lies at the heart of conception of reason. As Mensch argues, epigenesis was not simply a metaphor for Kant but centrally guided his critical philosophy, especially the relationship between reason and the categories of the understanding. Offsetting a study of highly technical theory of cognition with a mixture of intellectual history and biography, she situates the epigenesis of reason within broader investigations into theories of generation, genealogy, and classification, and against later writers and thinkers such as Goethe and Darwin. Distilling vast amounts of research on the scientific literature of the time into a concise and readable book, Mensch offers one of the most refreshing looks not only at famous first Critique but at the history of philosophy and the life sciences as well.",
+      "cited_by_count": 35,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/MENKOE.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Evolution and Science Education",
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W398795503"
+    },
+    {
+      "openalex_id": "W2743719292",
+      "doi": "10.1016/j.shpsa.2017.07.007",
+      "title": "Kant and the scope of analogy in the life sciences",
+      "authors": [
+        {
+          "name": "Hein van den Berg",
+          "openalex_id": "A5007980522",
+          "orcid": "https://orcid.org/0000-0001-6078-9558",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-10",
+      "abstract": null,
+      "cited_by_count": 26,
+      "type": "article",
+      "source": {
+        "name": "Studies in History and Philosophy of Science Part A",
+        "type": "journal",
+        "issn": [
+          "0039-3681",
+          "1879-2510"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/VANKAT-3.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Philosophical Ethics and Theory",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2743719292"
+    },
+    {
+      "openalex_id": "W2991632634",
+      "doi": "10.1093/oso/9780198712084.003.0021",
+      "title": "Translating \u2018Bedeutung\u2019 in Frege\u2019s Writings: A Case Study and Cautionary Tale in the History and Philosophy of Translation",
+      "authors": [
+        {
+          "name": "Michael Beaney",
+          "openalex_id": "A5042459932",
+          "orcid": "https://orcid.org/0000-0002-5458-6591"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-11",
+      "abstract": "In this chapter I chart the history of the different English translations of \u2018<italic>Bedeutung</italic>\u2019 in Frege\u2019s writings, setting them in context, explaining their rationale, and exploring some of the philosophical issues raised.",
+      "cited_by_count": 30,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kclpure.kcl.ac.uk/ws/files/61485173/Translating_Bedeutung_30Aug2016.pdf"
+      },
+      "topics": [
+        "Wittgensteinian philosophy and applications",
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W2991632634"
+    },
+    {
+      "openalex_id": "W4212961386",
+      "doi": "10.26530/oapen_625231",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        },
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "This is a thoroughly updated and revised edition of a popular classic of modern anthropology. Avoiding geographical bias, the authors provide summaries of \u2018Enlightenment\u2019, \u2018Romantic\u2019 and \u2018Victorian\u2019 anthropology, from the cultural theories of Morgan and Taylor to the often neglected contributions of German scholars. The ambiguous relationship between anthropology and national cultures is also considered, and the growth of distinctive national styles in anthropological research is highlighted. A History of Anthropology is an unparalleled account of theoretical developments in anthropology from the 1920s to the present, including functionalism, structuralism, hermeneutics, neo-Marxism and discourse analysis. Major anthropologists are provided with brief biographies and key debates are covered such as those concerning totemism, kinship and globalisation. This essential text on anthropology is highly engaging, authoritative and suitable for students at all levels.",
+      "cited_by_count": 52,
+      "type": "book",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.doabooks.org/doab?func=search&query=rid:20652"
+      },
+      "topics": [
+        "Anthropology: Ethics, History, Culture",
+        "Anthropological Studies and Insights",
+        "Emile Durkheim and Sociology"
+      ],
+      "referenced_works_count": 286,
+      "url": "https://openalex.org/W4212961386"
+    },
+    {
+      "openalex_id": "W4386771499",
+      "doi": "10.1515/kantyb-2023-0005",
+      "title": "Kant on Language and the (Self\u2010)Development of Reason",
+      "authors": [
+        {
+          "name": "Huaping Lu\u2010Adler",
+          "openalex_id": "A5089996439",
+          "orcid": "https://orcid.org/0000-0002-5242-277X",
+          "institutions": [
+            "Georgetown University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "Abstract The origin of languages was a hotly debated topic in the eighteenth century. This paper reconstructs a distinctively Kantian account according to which the origination, progression, and diversification of languages is at bottom reason\u2019s self-development under certain a priori constraints and external environments. The reconstruction builds on three sets of materials. The first is Herder\u2019s famous prize essay on the origin of languages. The second includes Kant\u2019s explicit remarks about language \u2013 especially his notion of \u201ctranscendental grammar,\u201d his argument that language cannot be innate, his contrast of \u201cOriental\u201d symbolic (intuitive) and \u201cOccidental\u201d discursive languages, and his treatment of the latter as a sine qua non of humanity\u2019s cultural and moral progress. The third includes the concepts that we need to make sense of those remarks, such as Kant\u2019s epigenetic theory of biological formation and his account of categories as originally acquired.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Kant Yearbook",
+        "type": "journal",
+        "issn": [
+          "1868-4599",
+          "1868-4602"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/LUAKOL-3.pdf"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Historical Philosophy and Science",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4386771499"
+    },
+    {
+      "openalex_id": "W1571242416",
+      "doi": "10.1111/heyj.12272",
+      "title": "An English Source of German Romanticism: Herder's Cudworth Inspired Revision of Spinoza from \u2018Plastik\u2019 to \u2018Kraft\u2019",
+      "authors": [
+        {
+          "name": "Alexander J. B. Hampton",
+          "openalex_id": "A5076155470",
+          "orcid": "https://orcid.org/0000-0001-9427-6822",
+          "institutions": [
+            "Barrett Technology (United States)",
+            "Arizona State University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-07-14",
+      "abstract": "This examination considers the influence of the seventeenth century Cambridge Platonist Cudworth upon the thought of the late eighteenth century German thinker Herder. It focuses upon Herder's use of Cudworth's philosophy to create a revised version of Spinoza's metaphysics. Both Cudworth and Herder were concerned with the problem of determinism. Cudworth outlined a number of difficulties relating to this problem in the thought of Spinoza and proposed amendments, particularly the introduction of the middle principle of plastik , which would mediate between the Ideas of transcendent reason and mechanical materialism. We find these amendments to Spinoza's philosophy also employed in Herder's contribution to the Pantheism Controversy, in which he too offers a revised Spinozism and introduces his own middle principle of Kraft . This demonstrates an important but under\u2010explored English contribution to a key development in German intellectual history. The Pantheism Controversy was an epoch\u2010making event, helping to bring an end to the German Enlightenment and to inaugurate the Romantic movement. Herder's version of Spinoza's thought revived the philosopher's fortunes, and Herder's notion of Kraft became central to Romantic aesthetics. Finally, Herder's use of Cudworth demonstrates the important but overlooked source of Platonic realism in German Romantic thought.",
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "The Heythrop Journal",
+        "type": "journal",
+        "issn": [
+          "0018-1196",
+          "1468-2265"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/HAMAES-2.pdf"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Classical Philosophy and Thought",
+        "Historical Philosophy and Science"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W1571242416"
+    },
+    {
+      "openalex_id": "W4386621241",
+      "doi": "10.4324/9781003376088",
+      "title": "Indian Philosophy and Yoga in Germany",
+      "authors": [
+        {
+          "name": "Owen Ware",
+          "openalex_id": "A5092849787",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-11",
+      "abstract": "This book sheds new light on the fascinating \u2013 at times dark and at times hopeful \u2013 reception of classical Yoga philosophies in Germany during the nineteenth century. When debates over God, religion, and morality were at a boiling point in Europe, Sanskrit translations of classical Indian thought became available for the first time. Almost overnight India became the centre of a major controversy concerning the origins of western religious and intellectual culture. Working forward from this controversy, this book examines how early translations of works such as the Bhagavad G\u012bt\u0101 and the Yoga S\u016btras were caught in the crossfire of another debate concerning the rise of pantheism, as a doctrine that identifies God and nature. It shows how these theological concerns shaped the image of Indian thought in the work of Schlegel, Gunderrode, Humboldt, Hegel, Schelling, and others, lasting into the nineteenth century and beyond. Furthermore, this book explores how worries about the perceived nihilism of Yoga were addressed by key voices in the early twentieth century Indian Renaissance \u2013 notably Dasgupta, Radhakrishnan, and Bhattacharyya \u2013 who defended sophisticated counterreadings of their intellectual heritage during the colonial era. Written for non-specialists, Indian Philosophy and Yoga in Germany will be of interest to students and scholars working on nineteenth-century philosophy, Indian philosophy, comparative philosophy, Hindu studies, intellectual history, and religious history.",
+      "cited_by_count": 12,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/oa-mono/download?identifierName=doi&identifierValue=10.4324/9781003376088&type=webpdf"
+      },
+      "topics": [
+        "Psychoanalysis and Social Critique",
+        "Psychology, Coaching, and Therapy",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 165,
+      "url": "https://openalex.org/W4386621241"
+    },
+    {
+      "openalex_id": "W1932287049",
+      "doi": "10.1007/s10739-015-9410-y",
+      "title": "Suppressing Synonymy with a Homonym: The Emergence of the Nomenclatural Type Concept in Nineteenth Century Natural History",
+      "authors": [
+        {
+          "name": "Joeri Witteveen",
+          "openalex_id": "A5040526481",
+          "orcid": "https://orcid.org/0000-0003-1291-9156",
+          "institutions": [
+            "University of Applied Sciences Utrecht",
+            "Utrecht University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-30",
+      "abstract": "'Type' in biology is a polysemous term. In a landmark article, Paul Farber (Journal of the History of Biology 9(1): 93-119, 1976) argued that this deceptively plain term had acquired three different meanings in early nineteenth century natural history alone. 'Type' was used in relation to three distinct type concepts, each of them associated with a different set of practices. Important as Farber's analysis has been for the historiography of natural history, his account conceals an important dimension of early nineteenth century 'type talk.' Farber's taxonomy of type concepts passes over the fact that certain uses of 'type' began to take on a new meaning in this period. At the closing of the eighteenth century, terms like 'type specimen,' 'type species,' and 'type genus' were universally recognized as referring to typical, model members of their encompassing taxa. But in the course of the nineteenth century, the same terms were co-opted for a different purpose. As part of an effort to drive out nomenclatural synonymy - the confusing state of a taxon being known to different people by different names - these terms started to signify the fixed and potentially atypical name-bearing elements of taxa. A new type concept was born: the nomenclatural type. In this article, I retrace this perplexing nineteenth century shift in meaning of 'type.' I uncover the nomenclatural disorder that the new nomenclatural type concept dissolved, and expose the conceptual confusion it left in its tracks. What emerges is an account of how synonymy was suppressed through the coinage of a homonym.",
+      "cited_by_count": 68,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Biology",
+        "type": "journal",
+        "issn": [
+          "0022-5010",
+          "1573-0387"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10739-015-9410-y.pdf"
+      },
+      "topics": [
+        "History of Science and Natural History",
+        "Philosophy and History of Science",
+        "Evolution and Paleontology Studies"
+      ],
+      "referenced_works_count": 160,
+      "url": "https://openalex.org/W1932287049"
+    },
+    {
+      "openalex_id": "W2767975435",
+      "doi": null,
+      "title": "Hegel on Indian Philosophy: Spinozism, Romanticism, Eurocentrism",
+      "authors": [
+        {
+          "name": "Gino Signoracci",
+          "openalex_id": "A5086093277"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "This study examines nineteenth-century German philosopher G.W.F. Hegel\u2019s appraisal of philosophies of India. In Hegel\u2019s time, classical Indian texts such as the Vedas, Upani\u1e63ads, and Bhagavadg\u012bt\u0101 had only recently been translated into European languages, and were generating tremendous controversy. Hegel carved out a unique and hugely influential position by devotedly reading fledgling translations of source texts alongside European interpretations, attempting to comprehend the philosophical significance of Indian thought. Hegel\u2019s legacy proved deeply problematic, however, both because his views were not entirely consistent or unambiguous over time, and because his evident relegation of Indian ideas to pre- or unphilosophical status became the dominant practice among Europeans and Westerners through the twentieth century even while Hegel\u2019s star, relatively speaking, went into a period of decline. While Hegel spent much more time and space discussing Indian philosophy in detail than did many philosophers who succeeded him in Europe and elsewhere, today his philosophy is too-frequently either reflexively labeled Eurocentric to legitimize ignoring or summarily dismissing it, or studied and written about exclusively in the context of \u201cWestern\u201d ideas as if India were of little or no serious concern to him. This work first situates Hegel\u2019s interest in and attention to Indian ideas in the context of the philosophical trends of Spinozism and Romanticism that he sought to navigate from his earliest forays into theology and philosophy. It then interrogates his analyses and judgments of Indian philosophical systems over the course of his career, revealing the increasing depth and innovation in his engagement with India over time while also critiquing his readings of Indian texts and his characterizations of Indian thought and culture. In doing so, it endeavors to supply the complete account of Hegel\u2019s approach to Indian philosophy in its full complexity.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "UNM\u2019s Digital Repository (University of New Mexico)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1022&context=phil_etds"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Indian History and Philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767975435"
+    },
+    {
+      "openalex_id": "W2753620855",
+      "doi": "10.1080/09608788.2017.1358143",
+      "title": "Kants Theorie der Biologie: Ein Kommentar. Eine Lesart. Eine Historische Einordnung",
+      "authors": [
+        {
+          "name": "Andrew Cooper",
+          "openalex_id": "A5007223288",
+          "orcid": "https://orcid.org/0000-0003-2979-8813",
+          "institutions": [
+            "Durham University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-04",
+      "abstract": "Kants Theorie der Biologie (KTB) is a landmark text, providing the first systematic account of Kant\u2019s extensive reflections on organized beings. It is comprehensive in scope, displaying a remarkabl...",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/10024258/1/Cooper_Kants_Theorie_der_Biologie.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Philosophical Ethics and Theory",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W2753620855"
+    },
+    {
+      "openalex_id": "W2743338026",
+      "doi": null,
+      "title": "Philosophy of Science in Practice : A Proposal for Epistemological Constructivism",
+      "authors": [
+        {
+          "name": "Mieke Boon",
+          "openalex_id": "A5018790477",
+          "orcid": "https://orcid.org/0000-0003-2492-2854"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-05-12",
+      "abstract": "Philosophy of science in practice (PoSiP), besides other things, aims at an epistemology of scientific practices that addresses questions such as: How is the construction of knowledge for epistemic uses possible? Epistemology that goes beyond formal epistemology has been banned from mainstream philosophy of science since the Wiener Kreis (Vienna Circle) in order to avoid drifting into the realm of metaphysics. However, formal epistemology cannot account for the possibility of epistemic uses of scientific knowledge (e.g., Cartwright 1983). For, this account would involve as an epistemological presupposition that knowledge about new, previously unexamined systems can be derived from logical or mathematical structures that are ultimately grounded on experiential and experimental data. The plausibility of this presupposition draws on the belief that there exist such structures. Hence, metaphysics re-enters through the backdoor. When acknowledging that any claim to the certainty of knowledge involves metaphysics, the entire idea of certain knowledge may be abandoned (as in Van Fraassen\u2019s anti-realism). At this point, it becomes apparent that there is a need for an epistemology that suits scientific practices, especially those which aim at knowledge for practical uses. Indeed, a reconsideration of some of the presuppositions that vindicated formal epistemology seems in order, in particular: on the aim of science, on how to avoid metaphysics, and on the task of the philosophy of science. In this article Kant\u2019s epistemology is taken as a starting point for such reconsideration, since his work aimed to explain the possibility of knowledge. Based on contemporary interpretations of Kant\u2019s epistemology (e.g., Neiman 1994), epistemological constructivism is proposed as a view in which the aim of science is to construct knowledge for epistemic uses. It involves the idea that scientific knowledge (patterns in data, and scientific laws, models and concepts) is constructed to enable and guide epistemic uses, which also entails that scientific practices develop epistemic strategies for the production of knowledge that meets this purpose. Accordingly, one of the tasks of PoSiP is to reconstruct, investigate, and evaluate epistemic strategies by means of which knowledge is constructed.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "University of Twente Research Information",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ris.utwente.nl/ws/files/13991395/Boon_2017_Epistemological_Constructivism.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Epistemology, Ethics, and Metaphysics",
+        "Complex Systems and Decision Making"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W2743338026"
+    },
+    {
+      "openalex_id": "W2886330664",
+      "doi": "10.31979/2151-6014(2015).060205",
+      "title": "IT\u2019S NOT THEM, IT\u2019S YOU: A CASE STUDY CONCERNING THE EXCLUSION OF NON-WESTERN PHILOSOPHY",
+      "authors": [
+        {
+          "name": "Amy Olberding",
+          "openalex_id": "A5023269215",
+          "institutions": [
+            "University of Oklahoma"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-07-30",
+      "abstract": "My purpose in this essay is to suggest, via case study, that if Anglo-American philosophy is to become more inclusive of non-western traditions, the discipline requires far greater efforts at self-scrutiny. I begin with the premise that Confucian ethical treatments of manners afford unique and distinctive arguments from which moral philosophy might profit, then seek to show why receptivity to these arguments will be low. I examine how ordinary good manners have largely fallen out of philosophical moral discourse in the west, looking specifically at three areas: conditions in the 18th and 19th centuries that depressed philosophical attention to manners; discourse conventions in contemporary philosophy that privilege modes of analysis not well fitted to close scrutiny of manners; and a philosophical culture that implicitly encourages indifference or even antipathy toward polite conduct. I argue that these three areas function in effect to render contemporary discourse inhospitable to greater inclusivity where Confucianism is concerned and thus, more broadly, that greater self-scrutiny regarding unexamined, parochial western commitments and practices is necessary for genuine inclusivity.",
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "Comparative Philosophy An International Journal of Constructive Engagement of Distinct Approaches toward World Philosophy",
+        "type": "journal",
+        "issn": [
+          "2151-6014"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1154&context=comparativephilosophy"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Indian and Buddhist Studies",
+        "Multicultural Socio-Legal Studies"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2886330664"
+    },
+    {
+      "openalex_id": "W1606033122",
+      "doi": null,
+      "title": "A Theory of Crimes Against Humanity",
+      "authors": [
+        {
+          "name": "David Luban",
+          "openalex_id": "A5108126170"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "No record exists of how the term \"crimes against humanity\" came to be chosen by the framers of the Nuremberg Charter. The term was selected by U.S. Supreme Court Justice Robert Jackson, the chief U.S. prosecutor at Nuremberg and the head of the American delegation to the London Conference that framed the Charter. Jackson consulted with the great international law scholar Hersch Lauterpacht, but they decided to leave their deliberations unrecorded, apparently to avoid courting controversy. In 1915, the French, British, and Russian governments had denounced Turkey's Armenian genocide as \"crimes against civilization and humanity,\" and the same phrase appeared in a 1919 proposal to conduct trials of the Turkish perpetrators. But the United States objected at that time that the so-called \"laws of humanity\" had no specific content, and the proposal to try the Turks was scuttled. Apparently, Jackson saw no reason to invoke a precedent to which his own government had earlier objected on rule of law grounds and concluded that the less said, the better. Cherif Bassiouni, who chronicles these events, nevertheless finds the crimes-against-humanity terminology \"most appropriate,\" and, aside from worries to be considered below that the term runs the danger of demonizing those who commit such crimes, it is hard to disagree. The phrase \"crimes against humanity\" has acquired enormous resonance in the legal and moral imaginations of the post-World War II world. It suggests, in at least two distinct ways, the enormity of these offenses. First, the phrase \"crimes against humanity\" suggests offenses that aggrieve not only the victims and their own communities, but all human beings, regardless of their community. Second, the phrase suggests that these offenses cut deep, violating the core humanity that we all share and that distinguishes us from other natural beings.",
+      "cited_by_count": 216,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1226&context=yjil"
+      },
+      "topics": [
+        "Wildlife Conservation and Criminology Analyses",
+        "International Law and Human Rights",
+        "Torture, Ethics, and Law"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1606033122"
+    },
+    {
+      "openalex_id": "W4205856483",
+      "doi": "10.1007/978-3-030-80363-6_4",
+      "title": "Philosophy (and Wissenschaft) Without Politics? Schlick on Nietzsche, German Idealism, and Militarism",
+      "authors": [
+        {
+          "name": "Andreas Vrahimis",
+          "openalex_id": "A5024137699",
+          "orcid": "https://orcid.org/0000-0002-3409-6034",
+          "institutions": [
+            "University of Cyprus"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": null,
+      "cited_by_count": 5,
+      "type": "book-chapter",
+      "source": {
+        "name": "Vienna Circle Institute yearbook",
+        "type": "book series",
+        "issn": [
+          "0929-6328",
+          "2215-1818"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/VRAPAW.pdf"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W4205856483"
+    },
+    {
+      "openalex_id": "W2404924696",
+      "doi": "10.1515/9783110314595-004",
+      "title": "2. Earth\u2019s Poesy: Romantic Poetics, Natural Philosophy, and Biosemiotics",
+      "authors": [
+        {
+          "name": "Kate Rigby",
+          "openalex_id": "A5069086891",
+          "orcid": "https://orcid.org/0000-0001-5793-5366"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-05-10",
+      "abstract": "This chapter undertakes an exploration of the pre-history of contemporary biosemiotics in Romantic ecopoetics, beginning with the ways in which Romantic natural philosophies, such as those of Schelling and Goethe, opened the way for a renewed appreciation of the subjective \u2018worlds\u2019 or Umwelten, as Jakob von Uexk\u00fcll later termed them, along with the agency, communicative capacity, and, in some cases, ethical considerability of more-than-human beings. Secondly, I will examine the implications of this philosophical re-animation of materiality for the &#13;\\nreconceptualization of human language, especially as deployed to poetic ends. Here, I turn to Friedrich Schlegel\u2019s (1967 [1800]) \u201cConversation on Poetry,\u201d in which human 'poiesis',&#13;\\nthe crafting of ideational worlds by means of words, is repositioned as an emergent property of the prior 'autopoiesis' of natural becoming. Finally, I will indicate how this German proto-biosemiotics finds a literary counterpart in the ecosemiotics of English Romantic literature, focusing on John Clare\u2019s birds\u2019 nest poetry.",
+      "cited_by_count": 10,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://researchspace.bathspa.ac.uk/7403/1/7403.pdf"
+      },
+      "topics": [
+        "Ecocriticism and Environmental Literature",
+        "German Literature and Culture Studies",
+        "German Colonialism and Identity Studies"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2404924696"
+    },
+    {
+      "openalex_id": "W3127160793",
+      "doi": "10.5962/bhl.title.26407",
+      "title": "Dogmatism and Evolution: Studies in Modern Philosophy",
+      "authors": [
+        {
+          "name": "Theodore de Laguna",
+          "openalex_id": "A5087000767"
+        },
+        {
+          "name": "Grace Mead Andrus De Laguna",
+          "openalex_id": "A5069459501"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-02-21",
+      "abstract": null,
+      "cited_by_count": 9,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Evolution and Science Education"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3127160793"
+    },
+    {
+      "openalex_id": "W4381853775",
+      "doi": "10.1093/oso/9780198845768.003.0012",
+      "title": "The Pantheism Controversy in the 1780s",
+      "authors": [
+        {
+          "name": "Myriam Bienenstock",
+          "openalex_id": "A5006386465"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-15",
+      "abstract": "Abstract The publication in 1785 of the \u2018Letters on the Doctrine of Spinoza\u2019 triggered in Germany a powerful Spinoza cult which had not been willed by F. H. Jacobi, their editor: he had perceived the growing enthusiasm for Spinoza, also manifested by Herder and Goethe, and wanted to react. Rather than waging war on Spinoza himself, he targeted Mendelssohn the Jew and the Berlin Aufkl\u00e4rung, also other famous contemporaries whom he summoned to choose between reason and faith. Many preferred to declare themselves \u2018Spinozists\u2019. Kant resisted, but Fichte evolved an influential form of pantheism disparagingly called by Herder \u2018transcendental Spinozism\u2019. Herder\u2019s own aesthetical pantheism developed into a highly successful yet much criticized philosophy of history. The figure of Spinoza also marked the life and works of Goethe, the \u2018great heathen\u2019, and of \u2018the great heathen No. 2\u2019 Heinrich Heine, who gave a social and political meaning to pantheism, that \u2018clandestine religion of Germany\u2019.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Political Theology and Sovereignty",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4381853775"
+    },
+    {
+      "openalex_id": "W4213026622",
+      "doi": "10.4324/9780203963098",
+      "title": "Auguste Comte",
+      "authors": [
+        {
+          "name": "Mike Gane",
+          "openalex_id": "A5067085171",
+          "institutions": [
+            "Loughborough University",
+            "Oxford Centre for Mission Studies"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-10-16",
+      "abstract": "Auguste Comte is widely acknowledged as the founder of the science of sociology and the 'Religion of Humanity'. In this fascinating study, the first major reassessment of Comte\u2019s sociology for many years, Mike Gane draws on recent scholarship and presents a new reading of this remarkable figure. Comte\u2019s contributions to the history and philosophy of science have decisively influenced positive methodologies. He coined the term \u2018sociology\u2019 and gave it its first content, and he is renowned for having introduced the sociology of gender and emotion into sociology. What is less well known however, is that Comte contributed to ethics, and indeed coined the word \u2018altruism\u2019.&nbsp; In this important work Gane examines Comte's sociological vision and shows that, because he thought sociology could and should be reflexive, encyclopaedic and utopian, he considered topics such as fetishism, polytheism, fate, love, and the relations between sociology, science, theology and culture. This fascinating account of the birth of sociology&nbsp;is an unprecedented&nbsp;introductory text on Comte. Gane\u2019s work is an essential read for all sociologists and students of the discipline.",
+      "cited_by_count": 115,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=172199"
+      },
+      "topics": [
+        "Legal and Social Philosophy",
+        "History of Science and Medicine",
+        "Contemporary Sociological Theory and Practice"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W4213026622"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

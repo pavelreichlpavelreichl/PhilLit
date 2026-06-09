@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Herder's Hermeneutics: History, Poetry, Enlightenm...' author=Gjesdal year=2017
+[verify_paper.py] Paper found: Herder's Hermeneutics... (score: 56.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Herder's Hermeneutics: History, Poetry, Enlightenment",
+    "author": "Gjesdal",
+    "year": 2017
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/9781316285770",
+      "title": "Herder's Hermeneutics",
+      "authors": [
+        {
+          "family": "Gjesdal",
+          "given": "Kristin"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/9781316285770",
+      "score": 56.3682
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

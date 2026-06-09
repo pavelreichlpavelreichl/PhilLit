@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Situating the Enlightenment in Herder's Philosophy...' author=James year=2022
+[verify_paper.py] Paper found: Situating the Enlightenment in Herder’s Philosophy... (score: 40.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Situating the Enlightenment in Herder's Philosophy of History",
+    "author": "James",
+    "year": 2022
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/18722636-12341480",
+      "title": "Situating the Enlightenment in Herder\u2019s Philosophy of History",
+      "authors": [
+        {
+          "family": "James",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "Journal of the Philosophy of History",
+      "volume": "16",
+      "issue": "3",
+      "page": "247-270",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1163/18722636-12341480",
+      "score": 40.354534
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

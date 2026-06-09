@@ -1,0 +1,17 @@
+[search_iep.py] Connecting to Brave API for iep_via_brave search...
+[search_iep.py] Searching iep.utm.edu: 'Herder', limit=20
+[search_iep.py] Search complete: 0 entries found
+{
+  "status": "error",
+  "source": "iep_via_brave",
+  "query": "Herder",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No IEP entries found",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Counter-Enlightenment",
+    "author": "Berlin",
+    "year": 1973
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

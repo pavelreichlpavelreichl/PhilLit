@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Myth of the Counter-Enlightenment...' author=Norton year=2007
+[verify_paper.py] Paper found: The Myth of the Counter-Enlightenment... (score: 37.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Myth of the Counter-Enlightenment",
+    "author": "Norton",
+    "year": 2007
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1353/jhi.2007.0040",
+      "title": "The Myth of the Counter-Enlightenment",
+      "authors": [
+        {
+          "family": "Norton",
+          "given": "Robert Edward"
+        }
+      ],
+      "editors": [],
+      "year": 2007,
+      "container_title": "Journal of the History of Ideas",
+      "volume": "68",
+      "issue": "4",
+      "page": "635-658",
+      "publisher": "Project MUSE",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1353/jhi.2007.0040",
+      "score": 37.752094
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

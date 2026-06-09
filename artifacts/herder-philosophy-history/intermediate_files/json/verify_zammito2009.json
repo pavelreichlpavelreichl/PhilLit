@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/9781571137289.004"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/9781571137289.004",
+      "title": "Herder and Historical Metanarrative: What's Philosophical about History?",
+      "authors": [
+        {
+          "family": "Zammito",
+          "given": "John"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "A Companion to the Works of Johann Gottfried Herder",
+      "volume": "",
+      "issue": "",
+      "page": "65-92",
+      "publisher": "Boydell and Brewer Limited",
+      "type": "other",
+      "suggested_bibtex_type": "misc",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/9781571137289.004"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

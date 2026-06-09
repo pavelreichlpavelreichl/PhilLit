@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Dilthey philosopher of the human studies",
+    "author": "Makkreel",
+    "year": 1992
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (29.5) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

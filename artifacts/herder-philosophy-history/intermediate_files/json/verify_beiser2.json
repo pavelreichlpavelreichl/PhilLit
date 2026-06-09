@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The German Historicist Tradition...' author=Beiser year=2011
+[verify_paper.py] Paper found: Max Weber and the End of the Historicist Tradition... (score: 54.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The German Historicist Tradition",
+    "author": "Beiser",
+    "year": 2011
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780199691555.003.0014",
+      "title": "Max Weber and the End of the Historicist Tradition",
+      "authors": [
+        {
+          "family": "Beiser",
+          "given": "Frederick C."
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "The German Historicist Tradition",
+      "volume": "",
+      "issue": "",
+      "page": "511-567",
+      "publisher": "Oxford University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199691555.003.0014",
+      "score": 54.931286
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

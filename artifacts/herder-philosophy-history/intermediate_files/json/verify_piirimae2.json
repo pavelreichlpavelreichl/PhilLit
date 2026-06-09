@@ -1,0 +1,22 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Herder enlightenment politics...' author=Piirimae year=2019
+[verify_paper.py] Rate limited, backing off (attempt 1/5)...
+[verify_paper.py] Retrying after 1.7s backoff...
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Herder enlightenment politics",
+    "author": "Piirimae",
+    "year": 2019
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

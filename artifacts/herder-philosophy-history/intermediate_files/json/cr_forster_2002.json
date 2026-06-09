@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Herder's Philosophy of Language Interpretation and Translation Three Fundamental Principles",
+    "author": "Forster",
+    "year": 2002
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (23.6) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/9781316285770"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/9781316285770",
+      "title": "Herder's Hermeneutics",
+      "authors": [
+        {
+          "family": "Gjesdal",
+          "given": "Kristin"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/9781316285770"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

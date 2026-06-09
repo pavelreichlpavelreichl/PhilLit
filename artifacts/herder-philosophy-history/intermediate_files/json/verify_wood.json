@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Herder and Kant on History Their Enlightenment Fai...' author=Wood year=2008
+[verify_paper.py] Paper found: Herder and Kant on History: Their Enlightenment Fa... (score: 56.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Herder and Kant on History Their Enlightenment Faith",
+    "author": "Wood",
+    "year": 2008
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acprof:oso/9780199542680.003.0010",
+      "title": "Herder and Kant on History: Their Enlightenment Faith",
+      "authors": [
+        {
+          "family": "Wood",
+          "given": "Allen"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "Metaphysics and the Good",
+      "volume": "",
+      "issue": "",
+      "page": "313-342",
+      "publisher": "Oxford University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199542680.003.0010",
+      "score": 56.32911
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

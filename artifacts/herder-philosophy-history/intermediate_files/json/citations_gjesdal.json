@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "5f52709ceb040d0eb9c1e823d0210789f148fffa",
+  "results": [
+    {
+      "paper": {
+        "paperId": "5f52709ceb040d0eb9c1e823d0210789f148fffa",
+        "title": "Herder's Hermeneutics: History, Poetry, Enlightenment",
+        "authors": [
+          {
+            "name": "K. Gjesdal",
+            "authorId": "145276974"
+          }
+        ],
+        "year": 2017,
+        "abstract": null,
+        "citationCount": 63,
+        "doi": "10.1017/9781316285770",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/5f52709ceb040d0eb9c1e823d0210789f148fffa",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "8788742e060b89ec73b9e19ca58906afeb82a0ef",
+          "title": "Proteus and the Pyrrhonists. Historical Change and Continuity in Herder\u2019s Early Philosophy of History",
+          "authors": [
+            {
+              "name": "N. Wildschut",
+              "authorId": "134537421"
+            }
+          ],
+          "year": 2018,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": null,
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/8788742e060b89ec73b9e19ca58906afeb82a0ef",
+          "venue": "",
+          "isInfluential": true,
+          "contexts": [
+            "But he finds that his contemporaries still lack a properly reflective attitude towards all these new discoveries inscribed in historical documents and travelogues (FHA 4, 88-91; Gjesdal 2017, 166-168).",
+            "\u2026as particular to eighteenth-century natural history, but which was already explicit in early modern natural history as the dynamic between Proteus and Pan: grasping the unity of nature in its complexity by a constant dialectic between the individual and totality (Reill 1996, 17; Gjesdal 2017, 114).",
+            "To uncover the error, Herder attempts to exhibit how manners of thought have, during their development, gone through a range of shapes (cf. Noyes 2015, 34; Gjesdal 2017, 89-91).",
+            "\u2026all the different poetic arts from different nations and times in front of a magic mirror, in order to still recognize the unity of sensibility, of expression, and of harmony between different works, and be able to discuss them historically under the general heading of \u2018ode\u2019 (Gjesdal 2017, 51-52).",
+            "22 Cf. Herz (1996, 13-19 , 23-33 23-33) for all.",
+            "17 Cf. Gjesdal (2017, 114-115) on the connection between the methods of divination and sympathy in Herder\u2019s hermeneutics.",
+            "Herder\u2019s references to Proteus are mentioned (but seldom discussed in any detail) here: Gjesdal 2017, 51-52; Noyes 2015, 32, 56; Sikka 2011, 38, 250; Beiser 2011, 106-107; Irmscher 2009, 23-24; Herz 1996, 227; Leventhal 1994, 167; Norton 1991, 72, 80; Morton 1989, 41; Heizmann 1981, 42; Meinecke\u2026"
+          ],
+          "intents": [
+            "methodology",
+            "background"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
