@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1111/J.1468-0378.2007.00271.X
+[verify_paper.py] DOI verified: Transcendental Philosophy and Atheism...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/J.1468-0378.2007.00271.X"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/j.1468-0378.2007.00271.x",
+      "title": "Transcendental Philosophy and Atheism",
+      "authors": [
+        {
+          "family": "Martin",
+          "given": "Wayne M."
+        }
+      ],
+      "editors": [],
+      "year": 2007,
+      "container_title": "European Journal of Philosophy",
+      "volume": "16",
+      "issue": "1",
+      "page": "109-130",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/j.1468-0378.2007.00271.x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

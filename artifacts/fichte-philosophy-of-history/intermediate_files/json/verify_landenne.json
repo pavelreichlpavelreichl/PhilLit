@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Speculation and Freedom in the Philosophy of Histo...' author=Landenne year=2009
+[verify_paper.py] Paper found: Binkelmann, Christoph, Theorie der praktischen Fre... (score: 33.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Speculation and Freedom in the Philosophy of History in the Characteristics of the Present Age by J. G. Fichte",
+    "author": "Landenne",
+    "year": 2009
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.7202/038024ar",
+      "title": "Binkelmann, Christoph, Theorie der praktischen Freiheit. Fichte \u2014 Hegel, Berlin, De\u00a0Gruyter, 2007, 376 p.",
+      "authors": [
+        {
+          "family": "Landenne",
+          "given": "Quentin"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "Philosophiques",
+      "volume": "36",
+      "issue": "1",
+      "page": "253",
+      "publisher": "Consortium Erudit",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.7202/038024ar",
+      "score": 33.404984
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

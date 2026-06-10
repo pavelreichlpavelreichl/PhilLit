@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Was Fichte An Ethnic Nationalist On Cultural Natio...' author=Abizadeh year=2005
+[verify_paper.py] Paper found: Liberal nationalist versus postnational social int... (score: 45.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Was Fichte An Ethnic Nationalist On Cultural Nationalism And Its Double",
+    "author": "Abizadeh",
+    "year": 2005
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/j.1354-5078.2004.00165.x",
+      "title": "Liberal nationalist versus postnational social integration: on the nation's ethno\u2010cultural particularity and \u2018concreteness\u2019<sup>*</sup>",
+      "authors": [
+        {
+          "family": "Abizadeh",
+          "given": "Arash"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "Nations and Nationalism",
+      "volume": "10",
+      "issue": "3",
+      "page": "231-250",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1111/j.1354-5078.2004.00165.x",
+      "score": 45.800087
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

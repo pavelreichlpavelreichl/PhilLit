@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5209/ASHF.57896
+[verify_paper.py] DOI verified: The Idea of Liberty in the Fichtean Natural Right...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5209/ASHF.57896"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5209/ashf.57896",
+      "title": "The Idea of Liberty in the Fichtean Natural Right",
+      "authors": [
+        {
+          "family": "Arrese Igor",
+          "given": "Hector Oscar Oscar"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Anales del Seminario de Historia de la Filosof\u00eda",
+      "volume": "36",
+      "issue": "2",
+      "page": "407-419",
+      "publisher": "Universidad Complutense de Madrid (UCM)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5209/ashf.57896"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

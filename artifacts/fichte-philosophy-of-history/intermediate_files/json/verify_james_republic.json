@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fichte Republic Idealism History Nationalism...' author=James year=2015
+[verify_paper.py] Paper found: Fichte's Republic... (score: 45.1)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fichte Republic Idealism History Nationalism",
+    "author": "James",
+    "year": 2015
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/cbo9781316275719",
+      "title": "Fichte's Republic",
+      "authors": [
+        {
+          "family": "James",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Cambridge University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/cbo9781316275719",
+      "score": 45.140865
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Between Thinking and Acting Fichte Deduction Conce...' author=Ramsauer year=2023
+[verify_paper.py] Paper found: Between Thinking and Acting Fichte’s Deduction of ... (score: 65.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Between Thinking and Acting Fichte Deduction Concept Right",
+    "author": "Ramsauer",
+    "year": 2023
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1590/0100-6045.2023.v46n2.lr",
+      "title": "Between Thinking and Acting Fichte\u2019s Deduction of the Concept of Right",
+      "authors": [
+        {
+          "family": "Ramsauer",
+          "given": "Laurenz"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "Manuscrito",
+      "volume": "46",
+      "issue": "2",
+      "page": "156-197",
+      "publisher": "FapUNIFESP (SciELO)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1590/0100-6045.2023.v46n2.lr",
+      "score": 65.41129
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

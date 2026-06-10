@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/978-1-137-33475-6_19
+[verify_paper.py] DOI verified: Transcendental Idealism and Theistic Commitment in...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/978-1-137-33475-6_19"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/978-1-137-33475-6_19",
+      "title": "Transcendental Idealism and Theistic Commitment in Fichte",
+      "authors": [
+        {
+          "family": "Hoeltzel",
+          "given": "Steven"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "The Palgrave Handbook of German Idealism",
+      "volume": "",
+      "issue": "",
+      "page": "364-385",
+      "publisher": "Palgrave Macmillan UK",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/978-1-137-33475-6_19"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

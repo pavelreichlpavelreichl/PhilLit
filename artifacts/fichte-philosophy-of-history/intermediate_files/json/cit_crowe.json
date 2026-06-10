@@ -1,0 +1,37 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Revisionism and religion in Fichte's Jena Wissensc...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 0 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "9af4c854d90b4df68501239e06754457812461af",
+  "results": [
+    {
+      "paper": {
+        "paperId": "9af4c854d90b4df68501239e06754457812461af",
+        "title": "Revisionism and religion in Fichte's Jena Wissenschaftslehre",
+        "authors": [
+          {
+            "name": "B. Crowe",
+            "authorId": "2073017592"
+          }
+        ],
+        "year": 2008,
+        "abstract": null,
+        "citationCount": 4,
+        "doi": "10.1080/09608780801969183",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/9af4c854d90b4df68501239e06754457812461af",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

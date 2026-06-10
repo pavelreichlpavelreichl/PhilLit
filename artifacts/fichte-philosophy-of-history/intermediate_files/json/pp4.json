@@ -1,0 +1,215 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte Jena Berlin period', limit=20
+[search_philpapers.py] Retrieved 13 entries...
+[search_philpapers.py] Search complete: 13 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte Jena Berlin period",
+  "results": [
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), New essays on Fichte's later Jena Wissenschaftslehre",
+      "url": "https://philpapers.org/rec/BRENEO-2",
+      "philpapers_id": "BRENEO",
+      "snippet": "Crucial to this reassessment is Fichte&#x27;s _Wissenschaftslehre nova methodo_ of 1796 to 1799, the manuscript at the heart of this essay colleciton and an articulation of the philosopher&#x27;s _Wissenschaftslehre,_ or overall system of philosophy, ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Crucial to this reassessment is Fichte's _Wissenschaftslehre nova methodo_ of 1796 to 1799, the manuscript at the heart of this essay colleciton and an articulation of the philosopher's _Wissenschaftslehre,_ or overall system of philosophy, which he discussed in lectures at the University of Jena. Coherent, comprehensive, and edited by two of the foremost Fichte scholars in the world, the essays provide a much needed introduction to the major themes of the most important period of Fichte's philosophical thought--and thus to German idealism itself--and make a persuasive case for the originality and continuing significance of the later Jena _Wissenschaftslehre._.",
+        "Agency and Self\u2010Sufficiency in Fichte's Ethics.Michelle Kosch - 2015 - Philosophy and Phenomenological Research 91 (2):348-380. Philosophy and \u201cthe method of fictions\u201d: Maimon's proposal and its critics.Daniel Breazeale - 2018 - European Journal of Philosophy 26 (2):702-716. Immanence in Schelling and Hegel in the Jena Period.Paolo Diego Bubbio & Daniele Fulvi - 2022 - Southern Journal of Philosophy 60 (3):353-387.",
+        "The philosophical thought of J. G. Fichte, particularly his later work, is at the very center of the paradigm shift under way in the field of German idealism. Crucial to this ...",
+        "New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326."
+      ]
+    },
+    {
+      "title": "G. Anthony Bruno, Facticity and Genesis: Tracking Fichte\u2019s Method in the Berlin Wissenschaftslehre",
+      "url": "https://philpapers.org/rec/BRUFAG-3",
+      "philpapers_id": "BRUFAG",
+      "snippet": "Although often associated with Heidegger, Fichte coins \u2018facticity\u2019 in his Berlin period to refer to the conclusion of Kant\u2019s metaphysical deduction of the categories, which he argues leaves it a contingent matter that we have the conditions of experience that we do. Such rhapsodic or factical conditions, he argues, must follow necessarily, independent of empirical givenness, from the I through a process of \u2018genesis.\u2019 I reconstruct Fichte\u2019s argument by tracing the origin of his neologism, presenting his Jena critique of Kant\u2019s rhapsodic appeal to the forms of judgment, and illustrating the Jena period\u2019s continuity with the Berlin period\u2019s genetic method, while noting a methodological shift whereby Fichte directs his critique against his own doctrine of intellectual intuition in order to eliminate its \u2018factical terms.\u2019",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. Anthony Bruno"
+        }
+      ],
+      "extra_snippets": [
+        "Although often associated with Heidegger, Fichte coins \u2018facticity\u2019 in his Berlin period to refer to the conclusion of Kant\u2019s metaphysical deduction of the categories, which he argues leaves it a contingent matter that we have the conditions of experience that we do. Such rhapsodic or factical conditions, he argues, must follow necessarily, independent of empirical givenness, from the I through a process of \u2018genesis.\u2019 I reconstruct Fichte\u2019s argument by tracing the origin of his neologism, presenting his Jena critique of Kant\u2019s rhapsodic appeal to the forms of judgment, and illustrating the Jena period\u2019s continuity with the Berlin period\u2019s genetic method, while noting a methodological shift whereby Fichte directs his critique against his own doctrine of intellectual intuition in order to eliminate its \u2018factical terms.\u2019",
+        "The concept of facticity denotes conditions of experience whose necessity is not logical yet whose contingency is not empirical. Although often associated with Heidegger, Fichte coins \u2018facticity\u2019 in his Berlin period ...",
+        "The 'I' and the individual : the problem of nature in Fichte's philosophy.Hans-Jakob Wilhelm - unknown \u00b7 After Jena: New Essays on Fichte's Later Philosophy.Tom Rockmore & Daniel Breazeale (eds.) - 2008 - Evanston, Ill.: Northwestern University Press.",
+        "The Problem of the Unconscious in Fichte\u2019s Later Jena Wissenschaftslehre.Marco Dozzi - 2020 - Fichte-Studien 48:434-455."
+      ]
+    },
+    {
+      "title": "Wayne M. Martin, Idealism and Objectivity: Understanding Fichte\u2019s Jena Project",
+      "url": "https://philpapers.org/rec/MARIAO-2",
+      "philpapers_id": "MARIAO",
+      "snippet": "New essays on Fichte&#x27;s later Jena Wissenschaftslehre.Daniel Breazeale &amp; Tom Rockmore (eds.) - 2002 - Evanston, Ill.: Northwestern University Press. The Foundations of German Idealism: Fichte&#x27;s &quot;Wissenschaftslehre&quot; and the Referentiality of Consciousness.Wayne M. Martin - 1993 - Dissertation, University of California, Berkeley \u00b7 Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen&#x27;s University Press.",
+      "page_age": "2014-02-06T00:00:00",
+      "extra_snippets": [
+        "New essays on Fichte's later Jena Wissenschaftslehre.Daniel Breazeale & Tom Rockmore (eds.) - 2002 - Evanston, Ill.: Northwestern University Press. The Foundations of German Idealism: Fichte's \"Wissenschaftslehre\" and the Referentiality of Consciousness.Wayne M. Martin - 1993 - Dissertation, University of California, Berkeley \u00b7 Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen's University Press.",
+        "This new interpretation of Fichte's Jena system focuses on the problem of the objectivity of consciousness.",
+        "Wayne M. Martin, Idealism and Objectivity : Understanding Fichte's Jena Project. Stanford, California, Stanford University Press, 1997, xx-177 p.Wayne M. Martin, Idealism and Objectivity : Understanding Fichte's Jena Project. Stanford, California, Stanford University Press, 1997, xx-177 p.",
+        "Wayne M. Martin, Idealism and Objectivity: Understanding Fichte's Jena Project Reviewed by.Elizabeth Mill\u00e0n-Zaibert - 1999 - Philosophy in Review 19 (2):120-122."
+      ]
+    },
+    {
+      "title": "G. Anthony Bruno, Metametaphysical Monism, Dualism, Pluralism, and Holism in the German Idealist Tradition",
+      "url": "https://philpapers.org/rec/EGHMMD",
+      "philpapers_id": "EGHMMD",
+      "snippet": "During his Jena period, Fichte endorses a curious dictum: \u2018the kind of philosophy one chooses depends on the kind of person one is\u2019. How can Fichte\u2019s dictum support a vindication of German idealism over Spinozism, which he also calls ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. Anthony Bruno"
+        }
+      ],
+      "extra_snippets": [
+        "During his Jena period, Fichte endorses a curious dictum: \u2018the kind of philosophy one chooses depends on the kind of person one is\u2019. How can Fichte\u2019s dictum support a vindication of German idealism over Spinozism, which he also calls \u2018dogmatism\u2019? I will show that the answer to this seemingly straightforward question reveals a rather complex series of metametaphysical objections that shape the development of the entire German idealist tradition.",
+        "Language and German Idealism: Fichte\u2019s Linguistic Philosophy.Ingrid Scheibler - 1997 - Review of Metaphysics 51 (1):176-176.",
+        "Fichte: Foundations of Transcendental Philosophy (Wissenschaftslehre) nova methodo (1796\u201399).Johann Gottlieb Fichte - 2019 - Ithaca, NY: Cornell University Press."
+      ]
+    },
+    {
+      "title": "Erich Fuchs, Fichte the founder of german nationalism?: Contribution to the understanding of the Reden an die deutsche nation",
+      "url": "https://philpapers.org/rec/FUCFTF",
+      "philpapers_id": "FUCFTF",
+      "snippet": "Written and delivered with the purpose of promoting the German spiritual and political re-birth after the defeat of Prussia at Jena, then put aside in the years of the Restoration and the Holy Alliance, Fichte\u2019s Reden were interpreted on a nationalist key during the Bismarckian Reich.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Erich Fuchs"
+        }
+      ],
+      "extra_snippets": [
+        "Cosmopolitanism, Nationalism and Theory of State in the Reden an die deutsche Nation and in the last Phase of Fichte\u2019 s Thought.Roberta Picardi - 2005 - Archivio di Storia Della Cultura 18. From the Jena period to the Reden: Philosophical and historical developments.Michelle Kosch - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):70-81.",
+        "Written and delivered with the purpose of promoting the German spiritual and political re-birth after the defeat of Prussia at Jena, then put aside in the years of the Restoration and the Holy Alliance, Fichte\u2019s Reden were interpreted on a nationalist key during the Bismarckian Reich.",
+        "In fact, the educational project outlined in the Reden can be fully understood only if they are placed in the context of Fichte\u2019s overall transcendental system. On the other side, Fichte\u2019s notion of \u201cbeing German\u201d, oscillating between particularism and universalism, contributed to this misunderstanding",
+        "Germanness and Judaism in Fichte\u2019s Reden an die deutsche Nation.Jo\u00ebl Ben-Yehoshua - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):101-116."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, \u00dcber den Begriff der Wissenschaftslehre oder der sogenannten Philosophie",
+      "url": "https://philpapers.org/rec/FICBDB",
+      "philpapers_id": "FICBDB",
+      "snippet": "September-1 Oktober 1994) in Jena in Verbindung mit der Friedrich-Schiller-Universita\u0308t (Jena), dem Collegium Europaeum Jenense (Jena) und dem Istituto italiano per gli studi filosofici (Neapel).Wolfgang H.",
+      "page_age": null,
+      "extra_snippets": [
+        "Geschichte des eigenen lebens (1754-1800).Salomon Maimon - 1935 - Berlin,: Im Schocken verlag. Die Grundlage der gesamten Wissenschaftslehre von 1794/95 und der transzendentale Standpunkt: 200 Jahre Wissenschaftslehre--die Philosophie Johann Gottlieb Fichtes: Tagung der Internationalen J.G.-Fichte-Gesellschaft (26. September-1 Oktober 1994) in Jena in Verbindung mit der Friedrich-Schiller-Universita\u0308t (Jena), dem Collegium Europaeum Jenense (Jena) und dem Istituto italiano per gli studi filosofici (Neapel).Wolfgang H.",
+        "Johann Gottlieb Fichte: \u00dcber den Begriff der Wissenschaftslehre oder der sogenannten Philosophie Erstdruck: Weimar (Industrie-Comptoir) 1794. Der Text folgt der zweiten vermehrten und verbesserten Ausgabe: Jena (Gabler) 1798. Textabweichungen gegen\u00fcber der Erstausgabe sind in den Fu\u00dfnoten wiedergegeben.",
+        "Die der zweiten Ausgabe beigef\u00fcgten Rezensionen (zu Schellings Schrift \u00bb\u00dcber die M\u00f6glichkeit der Form einer Philosophie \u00fcberhaupt\u00ab und zu Fichtes \u00bb\u00dcber den Begriff der Wissenschaftslehre\u00ab aus Jacobs \u00bbPhilosophischen Annalen\u00ab) wurden nicht mit aufgenommen. Vollst\u00e4ndige Neuausgabe mit einer Biographie des Autors. Herausgegeben von Karl-Maria Guth. Berlin 2014.",
+        "Textgrundlage ist die Ausgabe: Johann Gottlieb Fichtes s\u00e4mmtliche Werke. Herausgegeben von I. H. Fichte, Band 1-8, Berlin: Veit & Comp., 1845/1846. Die Paginierung obiger Ausgabe wird in dieser Neuausgabe als Marginalie zeilengenau mitgef\u00fchrt. Umschlaggestaltung von Thomas Schultz-Overhage."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, The system of ethics: according to the principles of the Wissenschaftslehre",
+      "url": "https://philpapers.org/rec/FICTSO-2",
+      "philpapers_id": "FICTSO",
+      "snippet": "Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen&#x27;s University Press. New essays on Fichte&#x27;s later Jena Wissenschaftslehre.Daniel Breazeale &amp; Tom Rockmore (eds.) - 2002 - Evanston, Ill.: Northwestern University Press.",
+      "page_age": null,
+      "extra_snippets": [
+        "Fichte's System of Ethics, originally published in 1798, is at once the most accessible presentation of its author's comprehensive philosophical project, The Science of Knowledge or Wissenschaftslehre, and the most important work in moral philosophy written between Kant and Hegel.",
+        "Fichte: The System of Ethics.Daniel Breazeale & Guenter Z\u00f6ller (eds.) - 2005 - Cambridge University Press.",
+        "Fichte: Attempt at a Critique of All Revelation.Garrett Green (ed.) - 2009 - Cambridge University Press.",
+        "Fichte: Attempt at a Critique of All Revelation.Allen Wood - 2009 - Cambridge University Press."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Fichte, early philosophical writings",
+      "url": "https://philpapers.org/rec/FICFEP",
+      "philpapers_id": "FICFEP",
+      "snippet": "EDITOR&#x27;S INTRODUCTION Fichte in Jena The year was one of rare calm for Johann Gottlieb Fichte. Behind him lay more than a decade of employment as an ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Eine Erinnerung an Johann Gottlieb Fichte.Rudolf Haym - 1861 - Berlin, Boston: De Gruyter.",
+        "Idealism and Objectivity: Understanding Fichte\u2019s Jena Project.Wayne Martin - 1997 - Stanford University Press. Johann Gottlieb Fichte.Heinrich Weinel - 1914 - Protestantischer Schriftenvertreib. Johann Gottlieb Fichte.Peter Rohs - 1992 - Tijdschrift Voor Filosofie 54 (1):158-158. Johann Gottlieb Fichte: Vernunft und Freiheit.Walter Schulz - 1962 - Neske. Eine Erinnerung an Johann Gottlieb Fichte.Rudolf Haym - 1861 - In Eine Erinnerung an Johann Gottlieb Fichte. Berlin, Boston: De Gruyter.",
+        "Fichte\u2019s critique of physicalism \u2013 towards an idealist alternative.Plato Tse - 2019 - Inquiry: An Interdisciplinary Journal of Philosophy 62 (5):527-545.",
+        "Nothing more or less than logic: General logic, transcendental philosophy, and Kant's repudiation of Fichte's Wissenschaftslehre.Wayne M."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), Fichte's Addresses to the German Nation Reconsidered",
+      "url": "https://philpapers.org/rec/BREFAT-4",
+      "philpapers_id": "BREFAT",
+      "snippet": "Essays on one of Fichte&#x27;s best known and most controversial works. One of J. G. Fichte\u2019s best-known works, Addresses to the German Nation is based on a series of speeches he gave in Berlin when the city was under French occupation.",
+      "page_age": null,
+      "extra_snippets": [
+        "Essays on one of Fichte's best known and most controversial works. One of J. G. Fichte\u2019s best-known works, Addresses to the German Nation is based on a series of speeches he gave in Berlin when the city was under French occupation.",
+        "New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "Review of Daniel Breazeale (ed.), Tom Rockmore (ed.), New Essays on Fichte's Later Jena Wissenschaftslehre.",
+        "Review of New Essays on Fichte's Later Jena Wissenschaftslehre by Daniel Breazeale and Tom Rockmore.Michael Vater - unknown"
+      ]
+    },
+    {
+      "title": "Paolo Diego Bubbio & Daniele Fulvi, Immanence in Schelling and Hegel in the Jena Period",
+      "url": "https://philpapers.org/rec/BUBIIS",
+      "philpapers_id": "BUBIIS",
+      "snippet": "In this article, we argue that in the Jena period (1801\u20131803) Schelling and Hegel both rejected the conception of God as coinciding with the moral order, which they attribute to Fichte; such coincidence, in their view, turned God into a ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paolo Diego Bubbio"
+        },
+        {
+          "type": "person",
+          "name": "Daniele Fulvi"
+        }
+      ],
+      "extra_snippets": [
+        "In this article, we argue that in the Jena period (1801\u20131803) Schelling and Hegel both rejected the conception of God as coinciding with the moral order, which they attribute to Fichte; such coincidence, in their view, turned God into a transcendent and merely moral Being.",
+        "In an effort to demonstrate their distance from Fichte's view, we contend, Schelling and Hegel advocated for a metaphysical (rather than merely moral) and immanent (rather than transcendent) understanding of God, conceived in its inextricable relation with nature and self-consciousness. We conclude by demonstrating that the cooperation between Schelling and Hegel in the Jena period led them to develop an analogous conception of immanence\u2014which already foreshadows, however, the different directions that Schelling and Hegel take in their mature works.",
+        "Fichte et la premi\u00e8re philosophie de la nature de Schelling.Claude Pich\u00e9 - 2004 - Dialogue 43 (2):211-238. Schelling und Hegel in Jena.G.",
+        "Hegel in Jena: d. Entwicklung d. Systems u.d. Zusammenarbeit mit Schelling.Dieter Henrich & Klaus D\u00fcsing (eds.) - 1980 - Bonn: Bouvier. The Philosophy of Nature of Kant, Schelling and Hegel.Dieter Wandschneider - 2010 - In Dean Moyar, The Routledge Companion to Nineteenth Century Philosophy. New York: Routledge. pp. 64. Freedom and Pluralism in Schelling\u2019s Critique of Fichte\u2019s Jena Wissenschaftslehre.G."
+      ]
+    },
+    {
+      "title": "Anthony J. La Vopa, Fichte: The Self and the Calling of Philosophy, 1762\u20131799",
+      "url": "https://philpapers.org/rec/VOPFTS-2",
+      "philpapers_id": "VOPFTS",
+      "snippet": "This book, first published in 2001, is a biography of the German philosopher Johann Gottlieb Fichte from birth to his resignation from his university position at Jena in 1799 due to the Atheism Conflict, this work explains how Fichte contributed ...",
+      "page_age": null,
+      "extra_snippets": [
+        "After Jena: New Essays on Fichte's Later Philosophy.Tom Rockmore & Daniel Breazeale (eds.) - 2008 - Evanston, Ill.: Northwestern University Press. The Bloomsbury Handbook to Fichte.Marina F. Bykova (ed.) - 2020 - New York: Bloomsbury Academic. Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen's University Press.",
+        "This book, first published in 2001, is a biography of the German philosopher Johann Gottlieb Fichte from birth to his resignation from his university position at Jena in 1799 due to the Atheism Conflict, this work explains how Fichte contributed to modern conceptions of selfhood; how he sought to make the moral agency of the self efficacious in a modern public culture; and the critical role he assigned philosophy in the construal and assertion of selfhood and in the creation of a new public sphere.",
+        "New essays on Fichte's later Jena Wissenschaftslehre.Daniel Breazeale & Tom Rockmore (eds.) - 2002 - Evanston, Ill.: Northwestern University Press.",
+        "Using the writings and private papers now available in the Gesamtausgabe, the study historicises these themes by tracing their development within several contexts, including the German Lutheran tradition, the eighteenth-century culture of sensibility, the Kantian philosophical revolution, the politics of the revolutionary era, and the emergence of modern German universities. It includes a reinterpretation of Fichte's political theory and philosophy of law, his anti-Semitism, and his controversial views on gender and marriage."
+      ]
+    },
+    {
+      "title": "Abizadeh Arash, Was Fichte An Ethnic Nationalist? On Cultural Nationalism And Its Double",
+      "url": "https://philpapers.org/rec/ARAWFA",
+      "philpapers_id": "ARAWFA",
+      "snippet": "\u201cWith Fichte in His Field Pack\u201d to the \u201cMetapolitical\u201d Front.Felix Werfel - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):82-100. From the Jena period to the Reden: Philosophical and historical developments.Michelle Kosch - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):70-81.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Abizadeh Arash"
+        }
+      ],
+      "extra_snippets": [
+        "Even though Fichte's Reden an die deutsche Nation arguably constitutes one of the founding texts of nationalist political thought, it has received little scholarly attention from English-speaking political theorists. The French, by contrast, have a long tradition of treating Fichte as a central figure in the history of political thought, and have given considerable attention to the Reden in particular.",
+        "\u201cWith Fichte in His Field Pack\u201d to the \u201cMetapolitical\u201d Front.Felix Werfel - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):82-100. From the Jena period to the Reden: Philosophical and historical developments.Michelle Kosch - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):70-81.",
+        "While the dominant French interpretation, which construes the Reden as a non-ethnic cultural nationalist text, provides a welcome corrective to those who impute unmediated ethnic nationalism to Fichte, it is ultimately flawed for missing the text's crypto-ethnic character.",
+        "This collapse, signalled by his appeals to Abstammung and Abkunft, is propelled by the fact that, ultimately, the appeal to language and culture is incapable of securing immortality, which is the supposed source of its motivational power for Fichte."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Science of knowledge ; with the First and Second introductions",
+      "url": "https://philpapers.org/rec/FICSOK",
+      "philpapers_id": "FICSOK",
+      "snippet": "Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen&#x27;s University Press. New essays on Fichte&#x27;s later Jena Wissenschaftslehre.Daniel Breazeale &amp; Tom Rockmore (eds.) - 2002 - Evanston, Ill.: Northwestern University Press.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "A modern translation of J. G. Fichte's best known philosophical work (including his two explanatory Introductions), which contributed to the development of 19th Century German Idealism from Kant's critical philosophy.",
+        "Science of Knowledge with the First and Second Introductions, Edited and Translated by Peter Heath [and] John Lachs. --.Johann Gottlieb Fichte, Peter Lauchlan Heath & John jt ed Lachs - 1970 - Appleton-Century-Crofts.",
+        "The Cambridge Companion to Fichte.David James & G\u00fcnter Z\u00f6ller (eds.) - 2016 - Cambridge, United Kingdom: Cambridge University Press.",
+        "Fichte: The Self and the Calling of Philosophy, 1762\u20131799.Anthony J."
+      ]
+    }
+  ],
+  "count": 13,
+  "errors": []
+}

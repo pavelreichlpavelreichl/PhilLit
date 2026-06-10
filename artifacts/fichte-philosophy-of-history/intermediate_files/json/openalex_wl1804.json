@@ -1,0 +1,942 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte Wissenschaftslehre 1804 Absolute God' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_9f562abe00e91ffe)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte Wissenschaftslehre 1804 Absolute God",
+  "results": [
+    {
+      "openalex_id": "W4283512978",
+      "doi": "10.1515/jtph-2022-0007",
+      "title": "The Conceptual Origin of Worldview in Kant and Fichte",
+      "authors": [
+        {
+          "name": "Alexander T. Englert",
+          "openalex_id": "A5050991809",
+          "orcid": "https://orcid.org/0000-0002-7275-8318",
+          "institutions": [
+            "Princeton University",
+            "Center for Human Reproduction"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-25",
+      "abstract": "Abstract Kant and Fichte developed the concept of a worldview as a way of reflecting on experience as a whole. But what does it mean to form a worldview? And what role did it play in the German Idealist tradition? This paper seeks to answer these questions through a detailed analysis of the form of a philosophical worldview and its historical portent, both of which remain unexplored in the literature. The dearth of attention is partially to blame on Kant\u2019s desultory development of it, as well as its place in Fichte\u2019s understudied lectures on religion. In this paper, I first reconstruct Kant\u2019s conception as the starting point and then trace it to Fichte who went on to evolve it further. Fichte endorses the basic conceptual shape pioneered by Kant, namely, a reflective process of positing an idea and then checking the coherence of necessary judgments relative to it. However, Fichte came to realize that its philosophical function needed expanding. Beyond recognizing the possibility for alternative worldviews, Fichte further fleshed out how worldview creation could lead to human flourishing. The common feature between both thinkers is that the formation of a worldview aims to turn philosophy into a life-orienting exercise.",
+      "cited_by_count": 35,
+      "type": "article",
+      "source": {
+        "name": "Journal of Transcendental Philosophy",
+        "type": "journal",
+        "issn": [
+          "2626-8310",
+          "2626-8329"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ENGTCO-17.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "War, Ethics, and Justification",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W4283512978"
+    },
+    {
+      "openalex_id": "W4283791309",
+      "doi": "10.1080/09608788.2022.2077695",
+      "title": "From being to acting: Kant and Fichte on intellectual intuition",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971",
+          "institutions": [
+            "Royal Holloway University of London"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-07-04",
+      "abstract": "Fichte assigns \u2018intellectual intuition\u2019 a new meaning after Kant. But in 1799, his doctrine of intellectual intuition is publicly deemed indefensible by Kant and nihilistic by Jacobi. I propose to defend Fichte\u2019s doctrine against these charges, leaving aside whether it captures what he calls the \u2018spirit\u2019 of transcendental idealism. I do so by articulating three problems that motivate Fichte\u2019s redirection of intellectual intuition from being to acting: (1) the regress problem, which states that reflecting on empirical facts of consciousness leads only to further facts and so cannot yield a first principle; (2) the rhapsody problem, which states that the categories form a haphazard set and so lack necessity unless they derive from a first principle; and (3) the nihilism problem, which states that a first principle cannot lie outside our cognition of it, lest it be the cause of our cognition and, being first, the cause of all our actions, reducing us to machines. Crucially, Fichte\u2019s three motivating problems are in fact aspects of a single problem. Leaving any aspect unsolved spoils putative solutions to the other two. Consequently, Fichte requires a single unified solution to all three, which his doctrine of intellectual intuition provides.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/BRUFBT-3.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy and Theoretical Science",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W4283791309"
+    },
+    {
+      "openalex_id": "W2286148239",
+      "doi": "10.1515/9783110192438.1.90",
+      "title": "The Status of the Wissenschaftslehre: Transcendental and Ontological Grounds in Fichte",
+      "authors": [
+        {
+          "name": "S Gardner",
+          "openalex_id": "A5112436894"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-10-29",
+      "abstract": "In this paper I pursue the question whether transcendental explanation in Fichte's Wissenschaftslehre should be regarded as ontologically committed. It is natural to assume that transcendental explanation in the Wissenschaftslehre should be construed non-ontologically: Schulze's criticisms of Kantian philosophy and Jacobi's objection to philosophical justification supply Fichte with motives for freeing transcendental explanation of ontological commitment. However, the situation is not, I argue, clear-cut: Fichte's explicit remarks are equivocal and exhibit tensions, and interpretations of the WL which imply its non-ontological status are open to criticism. Finally I suggest a way in which Fichte's position on the WL\u2019s status may be regarded as coherent and defensible, and indicate how the relation of Fichte to Schelling and Hegel may be understood in its light.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "2007",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/93423/1/Gardner_STATUS%20OF%20THE%20WISSENSCHAFTSLEHRE%20%28Jahrbuch%29.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2286148239"
+    },
+    {
+      "openalex_id": "W3000228430",
+      "doi": "10.1515/jtph-2019-0013",
+      "title": "Transcendental Idealism and Naturalism: The Case of Fichte",
+      "authors": [
+        {
+          "name": "Rory Lawrence Phillips",
+          "openalex_id": "A5031376893",
+          "orcid": "https://orcid.org/0000-0002-1591-5145",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-07",
+      "abstract": "Abstract In this paper, I explore the relationship between naturalism and transcendental idealism in Fichte. I conclude that Fichte is a near-naturalist , akin to Baker, Lynne Rudder (2017). \u201cNaturalism and the idea of nature,\u201d Philosophy 92 (3): 333\u2013349. A near-naturalist is one whose position looks akin to the naturalist in some ways but the near-naturalist can radically differ in metaphilosophical orientation and substantial commitment. This paper is composed of three sections. In the first, I outline briefly what I take transcendental idealism to be, as well as some differences in types of naturalism, and how this maps on to Fichte. In the second, I give an exegesis of Fichte\u2019s key arguments in the Later Jena period, which are important for the question of his relationship to naturalism. In the third, I continue the exegesis with a discussion of Fichte\u2019s conception of God, and conclude that these arguments support a near-naturalist reading of Fichte.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Journal of Transcendental Philosophy",
+        "type": "journal",
+        "issn": [
+          "2626-8310",
+          "2626-8329"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/jtph-2019-0013/pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Theology and Philosophy of Evil",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W3000228430"
+    },
+    {
+      "openalex_id": "W2092106108",
+      "doi": "10.1353/hph.2005.0135",
+      "title": "Sartre, Intersubjectivity, and German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-07-01",
+      "abstract": "This paper has two, interrelated aims. The first is to clarify Sartre's theory of intersubjectivity. Sartre's discussion of the Other has a puzzling way of going in and out of focus, seeming at one moment to provide a remarkably original solution to the problem of other minds and at the next to wholly miss the point of the skeptical challenge. The nature of his argument is equally uncertain: at some points it looks like an attempt to mount a transcendental argument, a kind of Refutation of Idealism regarding the existence of others, at others, to be a defence of direct realism; yet again, it can seem to propose a dissolution of the problem closely analogous to Wittgenstein. I will argue (Section I) that none of these provides quite the right model for understanding Sartre, which requires one to take seriously his method of resolving epistemological issues into matters of 'ontology'. I argue further (Section II) that Sartre's theory becomes fully coherent only if we make explicit its implicit presupposition of a conception of intersubjectivity articulated by Fichte.",
+      "cited_by_count": 47,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/1/article/184863/pdf"
+      },
+      "topics": [
+        "Simone de Beauvoir and Sartre",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2092106108"
+    },
+    {
+      "openalex_id": "W2573888163",
+      "doi": "10.7202/1038538ar",
+      "title": "The Doctrine of Manifestation in Fichte\u2019s Principien (1805)",
+      "authors": [
+        {
+          "name": "Marco Ivaldo",
+          "openalex_id": "A5041047915",
+          "institutions": [
+            "University of Naples Federico II"
+          ]
+        },
+        {
+          "name": "Garth W. Green",
+          "openalex_id": "A5028366517",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-04",
+      "abstract": "This article considers the systematic position of Fichte\u2019s Principien (1805), between the philosophia prima that is the Wissenschaftslehre and the specific doctrines of its application ; nature, right, morality, and religion. It considers also the systematic structures of the Principien , with particular attention to the doctrine of manifestation. It does so with sustained attention to the philosophy of religion, since the Principien determines manifestation with respect to the relation between God and world, and the relation between God and world with respect to the doctrine of manifestation.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Laval th\u00e9ologique et philosophique",
+        "type": "journal",
+        "issn": [
+          "0023-9054",
+          "1703-8804"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/ltp/2016-v72-n1-ltp02888/1038538ar.pdf"
+      },
+      "topics": [
+        "Humanities and Social Sciences",
+        "Philosophical and Historical Studies",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2573888163"
+    },
+    {
+      "openalex_id": "W4392231717",
+      "doi": "10.3390/rel15030302",
+      "title": "Johann Gottlieb Fichte and Protestant Theology",
+      "authors": [
+        {
+          "name": "Folkart Wittekind",
+          "openalex_id": "A5047668913",
+          "institutions": [
+            "University of Bonn"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-28",
+      "abstract": "Johann Gottlieb Fichte\u2019s thinking is part of the Sattelzeit, in which the foundation for the modern use of important concepts is laid. The stages of Fichte\u2019s philosophy and his various theories of religion and Christianity reflect attempts to determine the function of religion in a modern society. Important is the philosophical foundation of religion, which is transformed from a moral theology based on Kant to a unified theory of the philosophy of mind. Fichte thus offers an alternative to Hegel and Schelling. This alternative has only been taken up in Protestant theology at a small number of points, but all the more intensively.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/15/3/302/pdf?version=1709131301"
+      },
+      "topics": [
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4392231717"
+    },
+    {
+      "openalex_id": "W2795172706",
+      "doi": "10.4000/ref.781",
+      "title": "The \u201cDouble Sense\u201d of Fichte\u2019s Philosophical Language. Some Critical Reflections on the Cambridge Companion to Fichte",
+      "authors": [
+        {
+          "name": "David Wood",
+          "openalex_id": "A5109568305",
+          "orcid": "https://orcid.org/0009-0005-8537-0397"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "1. Introduction: Fichtean Spirit and Letter The example is well-known. Monsieur Jourdain \u2013 the main character in Moli\u00e8re\u2019s comedy Le Bourgeois gentilhomme \u2013 has an epiphany: under the tutelage of a master of philosophy he suddenly becomes aware of the nature of his own language: Monsieur Jourdain: Par ma foi, il y a plus de quarante ans que je dis de la prose, sans que j\u2019en susse rien; et je vous suis le plus oblig\u00e9 du monde, de m\u2019avoir appris cela. (By my faith! I have been speaking prose ...",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Revista de Estud(i)os sobre Fichte",
+        "type": "journal",
+        "issn": [
+          "2258-014X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.openedition.org/ref/pdf/781"
+      },
+      "topics": [
+        "Philosophical and Historical Studies",
+        "Kantian Philosophy and Modern Interpretations",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2795172706"
+    },
+    {
+      "openalex_id": "W4393244113",
+      "doi": "10.23924/oi.v10i19.335",
+      "title": "The Ideal of Humanity versus Worldly Powers - Kant, Fichte, and Husserl",
+      "authors": [
+        {
+          "name": "Rosemary Rizo-Patr\u00f3n",
+          "openalex_id": "A5050592582",
+          "orcid": "https://orcid.org/0000-0001-6634-4437",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-12",
+      "abstract": "Received: 06-08-2018Accepted: 07-03-2019 Challenged by worldly powers, philosophy and the human sciences have traditionally proposed \u00abideals of humanity\u00bb as guides towards spiritual values in times of crises. By the end of the 18th century, Kant defended the rational ideas fostered by the Faculty of Philosophy, as opposed to the dogmatic teachings of Theology, Jurisprudence and Medicine. At the beginning of the 19th century, Fichte\u2019s reflections inspired the values brandished by German Idealism after Germany\u2019s defeat by the Napoleonic armies. A century later, after First World War, Husserl believed that \u00abFichte\u2019s Ideal of Humanity\u00bb offered a hope of renewal, by fostering the emergence of a global moral order. After another century, Husserl\u2019s reflections and those of his predecessors in times of crises, reveal their enduring relevance.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Open Insight",
+        "type": "journal",
+        "issn": [
+          "2395-8936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://openinsight.com.mx/index.php/open/article/download/335/645"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophical Ethics and Theory",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4393244113"
+    },
+    {
+      "openalex_id": "W2111853364",
+      "doi": "10.1017/s0007087406007953",
+      "title": "From the organism of a body to the body of an organism: occurrence and meaning of the word \u2018organism\u2019 from the seventeenth to the nineteenth centuries",
+      "authors": [
+        {
+          "name": "Tobias Cheung",
+          "openalex_id": "A5111821357",
+          "institutions": [
+            "Humboldt-Universit\u00e4t zu Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-08-23",
+      "abstract": "This paper retraces the occurrence of the word 'organism' in writings of different authors from the seventeenth to the nineteenth centuries. It seeks to clarify chronological and conceptual shifts in the usage and meaning of the word. After earlier uses of the word in medieval sources, the Latin word organismus appeared in 1684 in Stahl's medico-physiological writings. Around 1700 it can be found in French (organisme), English (organism), Italian (organismo) and later also in German (Organismus). During the eighteenth century the word 'organism' generally referred to a specific principle or form of order that could be applied to plants, animals or the entire world. At the end of the eighteenth century the term became a generic name for individual living entities. From around 1830 the word 'organism' replaced the expressions 'organic' or 'organized body' as a recurrent technical term in the emerging biological disciplines.",
+      "cited_by_count": 74,
+      "type": "article",
+      "source": {
+        "name": "The British Journal for the History of Science",
+        "type": "journal",
+        "issn": [
+          "0007-0874",
+          "1474-001X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/178E7956B97BC6A86F057347624DB0A5/S0007087406007953a.pdf/div-class-title-from-the-organism-of-a-body-to-the-body-of-an-organism-occurrence-and-meaning-of-the-word-organism-from-the-seventeenth-to-the-nineteenth-centuries-div.pdf"
+      },
+      "topics": [
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2111853364"
+    },
+    {
+      "openalex_id": "W2937026838",
+      "doi": "10.12795/araucaria.2019.i41.04",
+      "title": "Morality and State in the Fichtean Political Philosophy",
+      "authors": [
+        {
+          "name": "H\u00e9ctor \u00d3scar Arrese Igor",
+          "openalex_id": "A5066437467",
+          "orcid": "https://orcid.org/0000-0001-8773-5357"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society and state. From a synchronic viewpoint, Fichte cannot solve the problem of the control of political power because he has to draw on the assumption of a virtuous ephorate. This assumption is not consistent with the Fichtean ideal of a philosophy of right completely independent from moral considerations. Thus, the control of government is possible only if at least a group of citizens can go beyond the mere rational egoism. This new temporal conception of the state leads Fichte to think that the problems of consistency of his theory of Jena are unavoidable, given that a society integrated by egoist individuals cannot be sustained. However, his later philosophy of history enables Fichte to state the inexorable annihilation of this type of community and gives place to an ensuing epoch, when citizens are not self-interested anymore.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Araucaria",
+        "type": "journal",
+        "issn": [
+          "1575-6823",
+          "2340-2199"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.12795/araucaria.2019.i41.04"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2937026838"
+    },
+    {
+      "openalex_id": "W780622280",
+      "doi": "10.1163/9789004288638_007",
+      "title": "Das Absolute als Einheit bei Fichte und Henry",
+      "authors": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Seyler",
+          "openalex_id": "A5105522292"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "The purpose of this article is to investigate common traits and differences in Fichte\u2019s and Michel Henry\u2019s approach to fundamental reality in connection to their concept of the highest good. The \u201cblessed life\u201d in Fichte and \u201csecond birth\u201d in Henry are both tied to their perspectives on the divine as absolute reality. In Fichte\u2019s middle period, especially between 1804 and 1806, the central opposition is one between absolute unity and manifold appearing. In the second lecture series of the Wissenschaftslehre 1804 the task is to overcome this opposition through a theory of truth and a phenomenology that genetically explains the manifold as appearing of original unity. The Religionslehre 1806 uses this result to portrait the blessed life as a life in God, i.e. as an authentic religious existence. A similar move is found in Henry\u2019s late works on a philosophy of Christianity with the concept of \u201csecond birth\u201d. However, Henry\u2019s phenomenology of life is less concerned with the manifold character of appearing than with the transcendence proper to intentional givenness. Henry\u2019s radical phenomenology identifies, unlike Fichte, a second and more fundamental form of appearing that is purely immanent and synonymous with absolute life itself.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Thought and Analysis",
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W780622280"
+    },
+    {
+      "openalex_id": "W4386621241",
+      "doi": "10.4324/9781003376088",
+      "title": "Indian Philosophy and Yoga in Germany",
+      "authors": [
+        {
+          "name": "Owen Ware",
+          "openalex_id": "A5092849787",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-11",
+      "abstract": "This book sheds new light on the fascinating \u2013 at times dark and at times hopeful \u2013 reception of classical Yoga philosophies in Germany during the nineteenth century. When debates over God, religion, and morality were at a boiling point in Europe, Sanskrit translations of classical Indian thought became available for the first time. Almost overnight India became the centre of a major controversy concerning the origins of western religious and intellectual culture. Working forward from this controversy, this book examines how early translations of works such as the Bhagavad G\u012bt\u0101 and the Yoga S\u016btras were caught in the crossfire of another debate concerning the rise of pantheism, as a doctrine that identifies God and nature. It shows how these theological concerns shaped the image of Indian thought in the work of Schlegel, Gunderrode, Humboldt, Hegel, Schelling, and others, lasting into the nineteenth century and beyond. Furthermore, this book explores how worries about the perceived nihilism of Yoga were addressed by key voices in the early twentieth century Indian Renaissance \u2013 notably Dasgupta, Radhakrishnan, and Bhattacharyya \u2013 who defended sophisticated counterreadings of their intellectual heritage during the colonial era. Written for non-specialists, Indian Philosophy and Yoga in Germany will be of interest to students and scholars working on nineteenth-century philosophy, Indian philosophy, comparative philosophy, Hindu studies, intellectual history, and religious history.",
+      "cited_by_count": 12,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/oa-mono/download?identifierName=doi&identifierValue=10.4324/9781003376088&type=webpdf"
+      },
+      "topics": [
+        "Psychoanalysis and Social Critique",
+        "Psychology, Coaching, and Therapy",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 165,
+      "url": "https://openalex.org/W4386621241"
+    },
+    {
+      "openalex_id": "W3080875618",
+      "doi": "10.5040/9781350036642.ch-003",
+      "title": "Fichte\u2019s Reception of Kant\u2019s Critique of Judgment",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Expositions recounting Fichte's philosophical development in relation to Kant characteristically derive the primary motivation for the Wissenschaftslehre from Kant's Critique of Practical Reason.The Wissenschaftslehre is commonly viewed as a creative sequitur to and transformative reworking of Kant's Solution to the Third Antinomy, the famous footnote in Section III of the Groundwork which talks of the necessity of acting under the Idea of freedom (Ak 4:448n), and the Second Critique's account of the Fact of Reason (Ak 5:31).Fichte is consequently regarded (depending on one's reading) either as integrating the edifices of theoretical and practical reason with one another, or as subsuming Kant's transcendental idealism under his practical philosophy: either Fichte begins with the I \"as such\" and advances to its theoretical and practical differentiation, or he begins with the I of practical reason and extrapolates its theoretical counterpart.This account agrees with Fichte's own claim that the Wissenschaftslehre provides a unitary solution to problems in Kant's theoretical and practical philosophy which threaten to leave Kant's insights indefensible in the face of its many forcible critics, and which must be solved either jointly and interdependently, or not at all.My aim in this chapter is not to contest but to enrich this picture, by showing what is gained by factoring in Kant's Critique of the Power of Judgment as no less formative for the development of theWissenschaftslehre.The issue has both historical and systematic aspects.My approach will comprise an examination of Fichte's earliest writings, followed by a broader account of how the CJ shapes and gives definition to Fichte's philosophical project.What I will chiefly try to bring out is the extent to which the Wissenschaftslehre, in the 1794-95 SK 2 and its later presentations, pursues a philosophical end which, on Fichte's understanding, Kant had set himself in the Third Critique but failed to realize. Aims of Kant's Critique of Judgment (1790)At the end of the Introduction to the Third Critique, Kant defines a task which, he invites us to think, his previous works in Critical philosophy have not fulfilled, concerning the unification of the domains of Freedom and Nature, between which there lies \"a great chasm,\" eine unbersehbare Kluft (Ak 5:195).Completing the task will involve, as Kant presents it, no revision of the First Critique's epistemology and metaphysics, nor of the Second Critique's analysis of morality and deduction of the moral law; nor will it require revisiting the solution to the problem of the compatibility of Freedom and Nature given in the Third Antinomy.The need for further work is not immediately obvious, but as Kant explains it in the",
+      "cited_by_count": 1,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/10169110/1/8FICHTE%20RECEPTION%20OF%20THIRD%20CRITIQUE%20%5BBloomsbury%20Companion%5D%20with%20references%20completed%20%5Bcorrected%5D.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3080875618"
+    },
+    {
+      "openalex_id": "W4321486670",
+      "doi": "10.1111/phc3.12903",
+      "title": "\u2018From Time Into Eternity\u2019: Schelling on Intellectual Intuition",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971",
+          "institutions": [
+            "Royal Holloway University of London"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-02-22",
+      "abstract": "Abstract Throughout his career, Schelling assigns knowledge of the absolute first principle of philosophy to intellectual intuition. Schelling's doctrine of intellectual intuition raises two important questions for interpreters. First, given that his doctrine undergoes several changes before and after his identity philosophy, to what extent can he be said to \u201chold onto\u201d the same \u201csense\u201d of it by the 1830s, as he claims? Second, given that his doctrine of intellectual intuition restricts absolute idealism to what he calls a \u201cscience of reason\u201d, which he says cannot prove the absolute\u2019s existence, what other doctrine does he require in order to prove this? I will answer these questions by tracing the shifts in Schelling\u2019s doctrine of intellectual intuition from the 1790s to the 1830s and drawing out its evolving methodological role within his science of intelligibility.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Philosophy Compass",
+        "type": "journal",
+        "issn": [
+          "1747-9991"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phc3.12903"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W4321486670"
+    },
+    {
+      "openalex_id": "W4379033154",
+      "doi": "10.1007/978-3-031-27345-2",
+      "title": "The Palgrave Handbook of German Idealism and Poststructuralism",
+      "authors": [
+        {
+          "name": "Tilottama Rajan",
+          "openalex_id": "A5112460993",
+          "institutions": [
+            "Western University"
+          ]
+        },
+        {
+          "name": "Daniel Whistler",
+          "openalex_id": "A5041927597",
+          "orcid": "https://orcid.org/0000-0002-8662-3211",
+          "institutions": [
+            "Royal Holloway University of London"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "book",
+      "source": {
+        "name": "Palgrave handbooks in German idealism",
+        "type": "book series",
+        "issn": [
+          "2634-6230",
+          "2634-6249"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-27345-2/1?pdf=chapter%20toc"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophy and Historical Thought",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4379033154"
+    },
+    {
+      "openalex_id": "W2759285759",
+      "doi": "10.1515/9783110498615-002",
+      "title": "Kant\u2019s Practical Postulates and the Development of German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-23",
+      "abstract": "Kant\u2019s moral theology was a subject of intense debate in the early reception of Kant\u2019s philosophy. At the same time, Kant\u2019s notion of practical postulation held considerable interest for Fichte, Schelling, and Hegel. What I seek to show is the systematic connection of these two facts: examination of the ways in which Kant\u2019s postulates of pure practical reason exposed the Kantian system to criticism sheds light, I argue, on some of the fundamental moves made by the German Idealists in their transformation of Kant\u2019s philosophy.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/1560555/8/Gardner_%5B9783110498615%20-%20German%20Idealism%20Today%5D%20Kants%20Practical%20Postulates%20and%20the%20Development%20of%20German%20Idealism.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2759285759"
+    },
+    {
+      "openalex_id": "W2920781589",
+      "doi": null,
+      "title": "The Concept of Phenomenology in Fichte\u2019s Wissenschaftslehre of 1804/II",
+      "authors": [
+        {
+          "name": "Claude Pich\u00e9",
+          "openalex_id": "A5058070927"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-31",
+      "abstract": "Fichte characterizes the second part of his Doctrine of Science of 1804 with the term \u00ab&#13;\\nphenomenology \u00bb, to which he assigns a double meaning : theory of illusion (Schein) and theory of&#13;\\nphenomenon (Erscheinung). If the first part of this definition reminds us of Lambert, the inventor of&#13;\\nphenomenology as a philosophical discipline, the second part corresponds to the idea that Kant has of this&#13;\\ndiscipline, for instance in the Metaphysical Foundations of Natural Science. Now the question is: is it&#13;\\npossible to integrate into a single discipline two concepts as different as Schein and Erscheinung ? If&#13;\\nFichte is successful in uniting both concepts in his phenomenology, it might be due to the fact that he&#13;\\nfollows in this the path already opened by Reinhold in his Beytr\u00e4ge of 1802-1803.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Papyrus : Institutional Repository (Universit\u00e9 de Montr\u00e9al)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://umontreal.scholaris.ca/bitstreams/84dbe7d8-1b7d-4ce6-8135-3a78415e30c4/download"
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophical and Historical Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2920781589"
+    },
+    {
+      "openalex_id": "W2808127847",
+      "doi": "10.1080/09608788.2018.1471661",
+      "title": "Schelling\u2019s substantive reinterpretation of the transcendental turn: beyond method",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-14",
+      "abstract": "Several factors, including but not limited to his investments in Naturphilosophie and Spinoza, make it hard to determine the extent to which Schelling remains on track with Kant\u2019s transcendental project. My aim here is to isolate Schelling\u2019s conception of transcendental method in the first decade of his philosophical development, a topic that has received little direct and extended discussion. Schelling\u2019s 1800 System of Transcendental Idealism stands out as of particular importance, but no single text can be regarded as Schelling\u2019s definitive statement of his views on the question of method in his early period, necessitating a diachronic approach. I argue that, though in important respects Schelling\u2019s concerns diverge from those of Kant and Fichte, Schelling should not be regarded as abandoning the transcendental framework, and is best understood as attempting to work out what is involved at the original point of adoption of the transcendental standpoint. This entails, I argue, exchanging transcendental philosophy\u2019s claim to a distinctive method for a substantive interpretation of the transcendental turn.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "British Journal for the History of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0960-8788",
+          "1469-3526"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/10045438/1/Gardner%2013SCHELLING%27S%20REINTERPRETATION%20OF%20THE%20TRANSCENDENTAL%20TURN%20%5Bfinal%20revised%20with%20abstract%5D.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2808127847"
+    },
+    {
+      "openalex_id": "W4289206224",
+      "doi": "10.14746/eip.2022.1.4",
+      "title": "\u201cConsciousness in Its Own Self Provides Its Own Standard\u201d. Hegel and the Spirit as a Process of Thinking",
+      "authors": [
+        {
+          "name": "Violetta L. Waibel",
+          "openalex_id": "A5050348164",
+          "orcid": "https://orcid.org/0000-0001-8745-3050",
+          "institutions": [
+            "University of Vienna"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-07-28",
+      "abstract": "Hegel\u2019s Phenomenology of Spirit develops not only the idea of absolute knowledge but also the notion of an inner criterion [Ma\u00dfstab] of the spirit. The inner criterion or norm of knowledge is what, in the end of the speculative process, appears as the form of absolute knowledge. Experience and inner criterion are responsible for the development of the consciousness that has to become itself. Becoming and absolute, temporality and timelessness are the substance that becomes and is subject. The actuality of this method of analysis of spirit will be shown and discussed in this essay.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "ETHICS IN PROGRESS",
+        "type": "journal",
+        "issn": [
+          "2084-9257"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://pressto.amu.edu.pl/index.php/eip/article/download/34814/30131"
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4289206224"
+    },
+    {
+      "openalex_id": "W4411814595",
+      "doi": "10.1163/18795811_04401006",
+      "title": "Idee und Aufgabe der Wissenschaftslehre beim sp\u00e4ten Fichte \u2013 Zum Vortrag im Jahre 1812",
+      "authors": [
+        {
+          "name": "Masahiro Yamaguchi",
+          "openalex_id": "A5109594967",
+          "orcid": "https://orcid.org/0000-0003-3901-9254"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-01",
+      "abstract": "The theory of the appearance of the Absolute is the last theme of Fichte\u2019s Science of Knowledge. Since he lectured the theory of appearance with that of truth in his Systemconcept of the Transcendentalphilosophy in 1804, he said that the Absolute exists (1805), and that the Absolute appears (1811). In the lecture in 1812, he explains the necessity of appearance, criticizing Spinoza\u2019s Monismus. It is denied by the fact that a concept exists outside the only one substance, while the latter is thought about. There is a Nonabsolute outside the Absolute. Fichte names it \u203aappearance\u2039, which is synonym with \u203aimage\u2039 and \u203ascheme\u2039 of the Absolute. The appearance has a life to appear to itself. Because it is a concept and knowledge of the Absolute, it knows itself as such. Between two appearances is a difference, through which the manifold springs. The earlier question against Schelling\u2019s philosophy of identity, how the finite can be deduced from the infinite or the Absolute, is solved here. Fichte calls the self-appearance of the appearance \u203aSeeing\u2039 and \u203areflection\u2039. Also the ego as subject-object is born in it. The task of Science of Knowledge is to analyze it, through which the appearance appears to itself not only as appearing to itself, but also as appearing to itself as appearing to itself. Fichte calls this the formula of Science of Knowledge. In the appearance is a reflexibility, whose ground is the visibility of the Absolute, the absolute evidence or the light. Even the image-making act of ego is in fact that of the Absolute. The Absolute intuits itself. Ego, as a representant of it, should stand under the law of the Absolute and devote its freedom and will to this. Standing upon the will to obey the law Science of Knowledge can gain the total scope of knowledge and open the way to God and the morality.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Fichte-Studien",
+        "type": "journal",
+        "issn": [
+          "0925-0166",
+          "1879-5811"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Kantian Philosophy and Modern Interpretations",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4411814595"
+    },
+    {
+      "openalex_id": "W3034703146",
+      "doi": "10.1007/s10739-020-09609-2",
+      "title": "Axiomatic Natural Philosophy and the Emergence of Biology as a Science",
+      "authors": [
+        {
+          "name": "Hein van den Berg",
+          "openalex_id": "A5007980522",
+          "orcid": "https://orcid.org/0000-0001-6078-9558",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Boris Demarest",
+          "openalex_id": "A5084409866",
+          "orcid": "https://orcid.org/0000-0001-7687-0836",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-16",
+      "abstract": "Ernst Mayr argued that the emergence of biology as a special science in the early nineteenth century was possible due to the demise of the mathematical model of science and its insistence on demonstrative knowledge. More recently, John Zammito has claimed that the rise of biology as a special science was due to a distinctive experimental, anti-metaphysical, anti-mathematical, and anti-rationalist strand of thought coming from outside of Germany. In this paper we argue that this narrative neglects the important role played by the mathematical and axiomatic model of science in the emergence of biology as a special science. We show that several major actors involved in the emergence of biology as a science in Germany were working with an axiomatic conception of science that goes back at least to Aristotle and was popular in mid-eighteenth-century German academic circles due to its endorsement by Christian Wolff. More specifically, we show that at least two major contributors to the emergence of biology in Germany-Caspar Friedrich Wolff and Gottfried Reinhold Treviranus-sought to provide a conception of the new science of life that satisfies the criteria of a traditional axiomatic ideal of science. Both C.F. Wolff and Treviranus took over strong commitments to the axiomatic model of science from major philosophers of their time, Christian Wolff and Friedrich Wilhelm Joseph Schelling, respectively. The ideal of biology as an axiomatic science with specific biological fundamental concepts and principles thus played a role in the emergence of biology as a special science.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Biology",
+        "type": "journal",
+        "issn": [
+          "0022-5010",
+          "1573-0387"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10739-020-09609-2.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W3034703146"
+    },
+    {
+      "openalex_id": "W1653441597",
+      "doi": null,
+      "title": "Bildung--Then and Now in Danish High School and University Teaching and How to Integrate Bildung into Modern University Teaching.",
+      "authors": [
+        {
+          "name": "Mogens Noergaard Olesen",
+          "openalex_id": "A5000570857"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-06-22",
+      "abstract": "I artiklen gennemg\u00e5s dannelsesbegrebets indf\u00f8relse af Humboldt og Kant og dets betydning for undervisningen i danske gymnasier og p\u00e5 danske universiteter gennem de sidste 200 \u00e5r. Det fremdrages og vises, hvordan dannelsesbegrebet i tillempet form med stor fordel kan inddrages i moderne universitetsundervisning, og der henvises til en del erfaringer hermed gennem de sidste tre \u00e5r p\u00e5 \u00d8konomisk Institut.<br /> Udgivelsesdato: September",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Research at the University of Copenhagen (University of Copenhagen)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://curis.ku.dk/ws/files/22773954/PDF"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Educational Philosophies and Pedagogies",
+        "Historical Education Studies Worldwide"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W1653441597"
+    },
+    {
+      "openalex_id": "W3206071528",
+      "doi": "10.21638/spbu28.2021.306",
+      "title": "The \u201cabsolute I\u201d and the \u201cabsolute\u201d in the philosophy of Johann Gottlieb Fichte",
+      "authors": [
+        {
+          "name": "Anton \u0410. Ivanenko",
+          "openalex_id": "A5058265766",
+          "orcid": "https://orcid.org/0000-0002-3494-5470"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The article deals with the relationship between the concepts of the \u201cabsolute I\u201d and \u201cabsolute\u201d in the philosophy of Johann Gottlieb Fichte and the relationship of the latter with faith and religion. These concepts play the role of the principle of his philosophy in the early and late period of his work, respectively. The topic of the article is relevant to the issues of religion and theology, first of all, in the sense that in the tradition of interpretation of Fichte\u2019s doctrine, the following two ideas are fixed. First, the principle of the \u201cabsolute I\u201d is interpreted as subjective-idealistic, which is why Fichte in the early period of his work had to place the object of faith outside and above knowledge. Second, many researchers are of the view that in his later years, Fichte proceeds to a religious motivated philosophizing that finds expression in his doctrine to change the principle of the \u201cabsolute I\u201d with the principle of \u201cabsolute\u201d, which is the philosophical equivalent to the concept of God. In the first part of the article, based on the texts of Fichte himself, the unsatisfactoriness of these ideas and the identity of the content of the concepts of the \u201cabsolute I\u201d and \u201cabsolute\u201d in Fichte are shown. Further, it is demonstrated that the identical content of these concepts is the unconditional first cause of both being and cognition. From the beginning of his work, Fichte sought to understand the true nature of the original and thereby reveal his own definiteness of the subject of religious faith. According to Fichte, his philosophy should overcome the limitations of the theological teachings that preceded it in questions about the essence of the first cause, divine creation and the possibility of its knowledge, and therefore, in fact, represents the experience of creating a new theology.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Issues of Theology",
+        "type": "journal",
+        "issn": [
+          "2658-5200",
+          "2658-7564"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://theologyjournal.spbu.ru/article/download/11964/8268"
+      },
+      "topics": [
+        "Philosophical and Historical Studies",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W3206071528"
+    },
+    {
+      "openalex_id": "W2525763085",
+      "doi": "10.1080/17570638.2016.1231878",
+      "title": "\u201cAs From a State of Death\u201d: Schelling\u2019s Idealism as Mortalism",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-09-01",
+      "abstract": "If a problem is the collision between a system and a fact, Spinozism and German idealism\u2019s greatest problem is the corpse. Life\u2019s end is problematic for the denial of death\u2019s qualitative difference from life and the affirmation of nature\u2019s infinite purposiveness. In particular, German idealism exemplifies immortalism \u2013 the view that life is the unconditioned condition of all experience, including death. If idealism cannot explain the corpse, death is not grounded on life, which invites mortalism \u2013 the view that death is the unconditioned condition of experience. In \u201cPhilosophical Letters,\u201d Schelling critiques idealism, arguing that death symbolizes the regulative ideal of a philosophical system\u2019s derivation, our striving for which unifies our rational activity. I interpret Schelling\u2019s critique as explaining how death puts philosophy into question, an idea he develops in the Freedom essay and Berlin lectures. Death is not a problem to be solved by a system, but represents philosophy\u2019s highest yet unrealizable end.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Comparative and Continental Philosophy",
+        "type": "journal",
+        "issn": [
+          "1757-0638",
+          "1757-0646"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/BRUAFA-2.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2525763085"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

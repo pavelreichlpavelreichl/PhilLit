@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Recognition Fichte Hegel...' author=Williams year=1992
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Recognition Fichte Hegel",
+    "author": "Williams",
+    "year": 1992
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (22.2) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

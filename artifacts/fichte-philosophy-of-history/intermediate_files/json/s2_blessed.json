@@ -1,0 +1,59 @@
+[s2_search.py] Searching Semantic Scholar: 'Fichte Anweisung seligen Leben blessed life religion' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_90febdc9c34b5263)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Fichte Anweisung seligen Leben blessed life religion",
+  "results": [
+    {
+      "paperId": "7d5293bb820a623cc47d64a277c3a0013aab8574",
+      "title": "Bildung as Standpoint. Philosophy of Religion as Philosophy of Culture in Fichte\u2019s Middle Period",
+      "authors": [
+        {
+          "name": "Matthew Nini",
+          "authorId": "2361283000"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.15160/2038-1034/2230",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7d5293bb820a623cc47d64a277c3a0013aab8574",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "327-341",
+        "volume": "12"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ed3d299b38da1aba745e683d86ed58f261e426a7",
+      "title": "Gl\u00fcck im Deutschen Idealismus. Das Gl\u00fcck der Vers\u00f6hnung",
+      "authors": [
+        {
+          "name": "O. Mitscherlich-Sch\u00f6nherr",
+          "authorId": "1517938652"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-3-476-00372-0_36",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ed3d299b38da1aba745e683d86ed58f261e426a7",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "188-199",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

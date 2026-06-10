@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Germanness Judaism Fichte Reden...' author=Ben-Yehoshua year=2025
+[verify_paper.py] Paper found: Germanness and Judaism in Fichte’s <i>Reden an die... (score: 57.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Germanness Judaism Fichte Reden",
+    "author": "Ben-Yehoshua",
+    "year": 2025
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/dzph-2025-0007",
+      "title": "Germanness and Judaism in Fichte\u2019s <i>Reden an die deutsche Nation</i>",
+      "authors": [
+        {
+          "family": "Ben-Yehoshua",
+          "given": "Jo\u00ebl"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Deutsche Zeitschrift f\u00fcr Philosophie",
+      "volume": "73",
+      "issue": "1",
+      "page": "101-116",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1515/dzph-2025-0007",
+      "score": 57.17295
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

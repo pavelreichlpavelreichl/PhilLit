@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "People Nation State The Ground in Fichte Addresses",
+    "author": "People",
+    "year": 2021
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (29.6) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,1067 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte philosophy of history teleology' (year=2000-2026), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_407ea307a3d095b1)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte philosophy of history teleology",
+  "results": [
+    {
+      "openalex_id": "W155265375",
+      "doi": "10.1017/cbo9781139135139",
+      "title": "Spinoza and German Idealism",
+      "authors": [
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "A5086985374",
+          "orcid": "https://orcid.org/0000-0002-2478-5610",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "A5086985374",
+          "orcid": "https://orcid.org/0000-0002-2478-5610",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Della Rocca",
+          "openalex_id": ""
+        },
+        {
+          "name": "Omri Boehm",
+          "openalex_id": ""
+        },
+        {
+          "name": "Karl Ameriks",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael N. Forster",
+          "openalex_id": ""
+        },
+        {
+          "name": "Eckart F\u00f6rster",
+          "openalex_id": "",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Johannes Haag",
+          "openalex_id": ""
+        },
+        {
+          "name": "Allen Wood",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dalia Nassar",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Vater",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yitzhak Y. Melamed",
+          "openalex_id": "A5062922985",
+          "orcid": "https://orcid.org/0000-0002-6090-5763"
+        },
+        {
+          "name": "Dean Moyar",
+          "openalex_id": ""
+        },
+        {
+          "name": "Gunnar Hindrichs",
+          "openalex_id": ""
+        },
+        {
+          "name": "Frederick Beiser",
+          "openalex_id": ""
+        },
+        {
+          "name": "Don Garrett",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-09-13",
+      "abstract": "There can be little doubt that without Spinoza, German Idealism would have been just as impossible as it would have been without Kant. Yet the precise nature of Spinoza's influence on the German Idealists has hardly been studied in detail. This volume of essays by leading scholars sheds light on how the appropriation of Spinoza by Fichte, Schelling and Hegel grew out of the reception of his philosophy by, among others, Lessing, Mendelssohn, Jacobi, Herder, Goethe, Schleiermacher, Maimon and, of course, Kant. The volume thus not only illuminates the history of Spinoza's thought, but also initiates a genuine philosophical dialogue between the ideas of Spinoza and those of the German Idealists. The issues at stake - the value of humanity; the possibility and importance of self-negation; the nature and value of reason and imagination; human freedom; teleology; intuitive knowledge; the nature of God - remain of the highest philosophical importance today.",
+      "cited_by_count": 100,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W155265375"
+    },
+    {
+      "openalex_id": "W4236122121",
+      "doi": "10.1093/acprof:oso/9780199669622.003.0005",
+      "title": "Commerce and Colonialism in Kant\u2019s Philosophy of History",
+      "authors": [
+        {
+          "name": "Lea Ypi",
+          "openalex_id": "A5044913195",
+          "orcid": "https://orcid.org/0000-0002-2573-9704"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-11-20",
+      "abstract": "Abstract This chapter examines the relation between colonialism and commerce in Kant\u2019s political writings, linking Kant\u2019s thought on these issues to the teleology that developed from his 1784 essay on universal history to the Critique of Judgment and later political writings. Starting by discussing the place of race and commerce in Kant\u2019s earlier political writings, and linking it to the account of germs and dispositions in his philosophy of biology, the chapter illustrates how Kant\u2019s thought moves from a positive evaluation of the contribution of the commercial spirit to the development of moral dispositions to one of increasing scepticism towards the unregulated expansion of trade and subsequent colonialism. It is argued that this development coincides with Kant\u2019s increased emphasis on the conscious role played by human agents in historical transformation and a more nuanced, reflective account of the relation between natural teleology and the process of moral development of human beings.",
+      "cited_by_count": 48,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.lse.ac.uk/id/eprint/64938/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Ypi%2C%20L_Commerce%20and%20colonialism_Ypi_Commerce%20and%20colonialism_2016.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Political Philosophy and Ethics",
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W4236122121"
+    },
+    {
+      "openalex_id": "W1554365007",
+      "doi": null,
+      "title": "Politics and Teleology in Kant",
+      "authors": [
+        {
+          "name": "Paul Formosa",
+          "openalex_id": "A5067925382",
+          "orcid": "https://orcid.org/0000-0002-7490-0242"
+        },
+        {
+          "name": "Avery Goldman",
+          "openalex_id": "A5042588476",
+          "institutions": [
+            "DePaul University"
+          ]
+        },
+        {
+          "name": "Tatiana Patrone",
+          "openalex_id": "A5030486285",
+          "orcid": "https://orcid.org/0000-0002-6502-1908",
+          "institutions": [
+            "Ithaca College"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "The fourteen essays in this volume, by leading scholars in the field, explore the relationship between teleology and politics in Kant\u2019s corpus. Among the topics discussed are Kant\u2019s normative political theory and legal philosophy; his cosmopolitanism and views on international relations; his theory of history; his theory of natural teleology; and the broader relationship between morality, history, nature, and politics. _Politics and Teleology in Kant_ will be of interest to a wide audience, including Kant scholars; scholars and students working in moral and political philosophy, the philosophy of history, and political theory and political science; legal scholars; and international relations theorists",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/FORPAT-4.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1554365007"
+    },
+    {
+      "openalex_id": "W4283512978",
+      "doi": "10.1515/jtph-2022-0007",
+      "title": "The Conceptual Origin of Worldview in Kant and Fichte",
+      "authors": [
+        {
+          "name": "Alexander T. Englert",
+          "openalex_id": "A5050991809",
+          "orcid": "https://orcid.org/0000-0002-7275-8318",
+          "institutions": [
+            "Princeton University",
+            "Center for Human Reproduction"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-25",
+      "abstract": "Abstract Kant and Fichte developed the concept of a worldview as a way of reflecting on experience as a whole. But what does it mean to form a worldview? And what role did it play in the German Idealist tradition? This paper seeks to answer these questions through a detailed analysis of the form of a philosophical worldview and its historical portent, both of which remain unexplored in the literature. The dearth of attention is partially to blame on Kant\u2019s desultory development of it, as well as its place in Fichte\u2019s understudied lectures on religion. In this paper, I first reconstruct Kant\u2019s conception as the starting point and then trace it to Fichte who went on to evolve it further. Fichte endorses the basic conceptual shape pioneered by Kant, namely, a reflective process of positing an idea and then checking the coherence of necessary judgments relative to it. However, Fichte came to realize that its philosophical function needed expanding. Beyond recognizing the possibility for alternative worldviews, Fichte further fleshed out how worldview creation could lead to human flourishing. The common feature between both thinkers is that the formation of a worldview aims to turn philosophy into a life-orienting exercise.",
+      "cited_by_count": 35,
+      "type": "article",
+      "source": {
+        "name": "Journal of Transcendental Philosophy",
+        "type": "journal",
+        "issn": [
+          "2626-8310",
+          "2626-8329"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ENGTCO-17.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "War, Ethics, and Justification",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W4283512978"
+    },
+    {
+      "openalex_id": "W2494251222",
+      "doi": "10.1057/9781137405500",
+      "title": "Pynchon and Philosophy",
+      "authors": [
+        {
+          "name": "Martin Paul Eve",
+          "openalex_id": "A5048857081",
+          "orcid": "https://orcid.org/0000-0002-5589-8511"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "Pynchon and Philosophy radically reworks our readings of Thomas Pynchon alongside the theoretical perspectives of Wittgenstein, Foucault and Adorno. Rigorous yet readable, Pynchon and Philosophy seeks to recover philosophical readings of Pynchon that work harmoniously, rather than antagonistically, resulting in a wholly fresh approach. Dr. Martin Paul Eve is a lecturer in literature at the University of Lincoln, UK. In addition to editing the open access journal of Pynchon Studies, Orbit, he has work published or forthcoming in Textual Practise, Neo-Victorian Studies, C21, Pynchon Notes and several edited collections. This book was originally published with exclusive rights reserved by the Publisher in (2014) and was licensed as an open access publication in [SEPTEMBER 2021] under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license if changes were made. This is an open access book.",
+      "cited_by_count": 81,
+      "type": "book",
+      "source": {
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1057/9781137405500"
+      },
+      "topics": [
+        "Contemporary Literature and Criticism",
+        "Nostalgia and Consumer Behavior",
+        "Literature, Film, and Journalism Analysis"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W2494251222"
+    },
+    {
+      "openalex_id": "W2930453283",
+      "doi": "10.1080/13869795.2019.1599049",
+      "title": "Kant: constitutivism as capacities-first philosophy",
+      "authors": [
+        {
+          "name": "Karl Sch\u00e4fer",
+          "openalex_id": "A5076903279",
+          "orcid": "https://orcid.org/0000-0002-6491-2207",
+          "institutions": [
+            "University of California, Irvine"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-28",
+      "abstract": "Over the last two decades, Kant\u2019s name has become closely associated with the \u201cconstitutivist\u201d program within metaethics.11 The association of Kant and constitutivism is due above all to the work of Korsgaard \u2013 see for example Korsgaard (1996 Korsgaard, Christine. 1996. The Sources of Normativity. Cambridge: Cambridge University Press.[Crossref] , [Google Scholar], 2008 Korsgaard, Christine. 2008. The Constitution of Agency: Essays on Practical Reason and Moral Psychology. Oxford: Oxford University Press.[Crossref] , [Google Scholar], 2009 Korsgaard, Christine. 2009. Self-Constitution: Agency, Identity, and Integrity. Oxford: Oxford University Press.[Crossref] , [Google Scholar]). A close second in significance in this regard is Velleman (2000 Velleman, David. 2000. The Possibility of Practical Reason. Oxford: Clarendon Press. [Google Scholar], 2009 Velleman, David. 2009. How We Get Along. Cambridge: Cambridge University Press.[Crossref] , [Google Scholar]). For some of the other (Kantian and anti-Kantian) variants on the constitutivist idea, see Foot (2003 Foot, Philippa. 2003. Natural Goodness. Oxford: Oxford University Press. [Google Scholar]), O'Neill (1989 O\u2019Neill, Onora. 1989. Constructions of Reason. Cambridge: Cambridge University Press. [Google Scholar]), Thomson (2008 Thomson, J. J. 2008. Normativity. New York: Open Court. [Google Scholar]), Thompson (2008 Thompson, Michael. 2008. Life and Action: Elementary Structures of Practice and Practical Thought. Cambridge: Harvard University Press.[Crossref] , [Google Scholar]), Smith (2012 Smith, Michael. 2012. \u201cAgents and Patients, or: What We Learn About Reasons for Action by Reflecting on Our Choices in Process-of-Thought Cases.\u201d Proceedings of the Aristotelian Society 112 (3): 309\u2013331. doi: 10.1111/j.1467-9264.2012.00337.x[Crossref] , [Google Scholar], 2013 Smith, Michael. 2013. \u201cA Constitutivist Theory of Reasons: Its Promise and Parts.\u201d LEAP: Law, Ethics, and Philosophy 1: 9\u201330. [Google Scholar]), James (2012 James, Aaron. 2012. \u201cConstructing Protagorean Objectivity.\u201d In Constructivism in Practical Philosophy, edited by J. Lenman, and Y. Shemmer, 60\u201380. Oxford: Oxford University Press.[Crossref] , [Google Scholar]), Walden (2012 Walden, Kenny. 2012. \u201cLaws of Nature, Laws of Freedom, and the Social Construction of Normativity.\u201d Oxford Studies in Metaethics 7: 37\u201379. doi: 10.1093/acprof:oso/9780199653492.003.0002[Crossref] , [Google Scholar]), Katsafanas (2013 Katsafanas, Paul. 2013. Agency and the Foundations of Ethics: Nietzschean Constitutivism. Oxford: Oxford University Press.[Crossref] , [Google Scholar]), Setiya (2013 Setiya, Kieran. 2013. Knowing Right from Wrong. Oxford: Oxford University Press. [Google Scholar]), and Lavin (forthcoming Lavin, Doug. forthcoming. \u201cPluralism about Agency\u201d. [Google Scholar]). But is Kant best read as pursuing a constitutivist approach to meta-normative questions? And if so, in what sense?22 I\u2019ve discussed this question previously (with a contemporary focus) in Schafer (2015a Schafer, Karl. 2015a. \u201cRealism and Constructivism in Kantian Metaethics 1.\u201d Philosophy Compass 10: 690\u2013701. doi: 10.1111/phc3.12253[Crossref], [Web of Science \u00ae] , [Google Scholar], 2015b Schafer, Karl. 2015b. \u201cRealism and Constructivism in Kantian Metaethics 2.\u201d Philosophy Compass 10: 702\u2013713. doi: 10.1111/phc3.12252[Crossref], [Web of Science \u00ae] , [Google Scholar], 2018a Schafer, Karl. 2018a. \u201cConstitutivism About Reasons: Autonomy and Understanding.\u201d In The Many Moral Rationalisms, edited by K. Jones, and F. Schroeter, 70\u201390. Oxford: Oxford University Press. [Google Scholar]). See also the discussion of Sensen (2013 Sensen, Oliver. 2013. \u201cKant\u2019s Constructisivm.\u201d In Constructivism in Ethics, edited by Carla Bagnoli, 63\u201381. Cambridge: Cambridge University Press.[Crossref] , [Google Scholar]), which arrives at a somewhat similar conclusion, albeit in a different systematic context. In this essay, I argue that we can best answer these questions by considering them in the context of how Kant understands the proper methodology for philosophy in general. The result of this investigation will be that, while Kant can indeed be read as a sort of constitutivist, his constitutivism is ultimately one instance of a more general approach to philosophy, which treats as fundamental our basic, self-conscious rational capacities. Thus, to truly understand why and how Kant is a constitutivist, we need to consider this question within the context of his more fundamental commitment to \u201ccapacities-first philosophy\u201d.",
+      "cited_by_count": 88,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/SCHKCA-6.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy and Theoretical Science",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2930453283"
+    },
+    {
+      "openalex_id": "W2750801948",
+      "doi": "10.1017/ccol0521651786.011",
+      "title": "German realism",
+      "authors": [
+        {
+          "name": "G\u00fcnter Z\u00f6ller",
+          "openalex_id": "A5112718947",
+          "institutions": [
+            "University of Notre Dame"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-10-30",
+      "abstract": "Richard Kroner's monumental study of German Idealism, From Kant to Hegel, portrays that philosophical movement as a teleological process brought under way by Kant, originally advanced, in different ways, by Fichte and Schelling, and culminating in the universal synthesis of all prior views and standpoints that is Hegel's system. This linear, progressivist, and finalist perspective is informed by Hegel's self-understanding of his place at the end of the history of philosophy and owes much to Hegel's own work in writing the history of philosophy in general and the history of modern philosophy in particular. But it has not remained the only, or even the dominant, reading of German Idealism. Over the past few decades a number of philosophers and scholars have argued for the superior role of Schelling in the later development of German Idealism and sought to show that it was with Schelling and not Hegel that the movement reached its deepest and most far-reaching insights. Similarly, there has been a reassessment of the place that Fichte occupies through his later works in the history of German Idealism. Finally, even Schopenhauer, once excluded from the German idealist canon, has been incorporated into a more comprehensively conceived genealogy of classical German philosophy between Kant and Hegel.",
+      "cited_by_count": 23,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy, Science, and History",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2750801948"
+    },
+    {
+      "openalex_id": "W3093941507",
+      "doi": "10.1093/oso/9780190086596.001.0001",
+      "title": "Fichte's Moral Philosophy",
+      "authors": [
+        {
+          "name": "Owen Ware",
+          "openalex_id": "A5012872507",
+          "orcid": "https://orcid.org/0000-0001-6480-6423",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-22",
+      "abstract": "Abstract This book develops and defends a new interpretation of Fichte\u2019s moral philosophy as an ethics of wholeness. While virtually forgotten for most of the twentieth century, Fichte\u2019s System of Ethics (1798) is now recognized by scholars as a masterpiece in the history of post-Kantian philosophy and a key text for understanding the work of later German idealist thinkers. This book provides a careful examination of the intellectual context in which Fichte\u2019s moral philosophy evolved and of the specific arguments he offers in response to Kant and his immediate successors. A distinctive feature of the study is a focus on the foundational concepts of Fichte\u2019s ethics\u2014freedom, morality, feeling, conscience, community\u2014and their connection to his novel but largely misunderstood theory of drives. By way of conclusion, the book shows that what appears to be two conflicting commitments in Fichte\u2019s ethics, a commitment to the feelings of one\u2019s conscience and a commitment to engage in open dialogue with others, are two aspects of his theory of moral perfection. The result is a fresh understanding of Fichte\u2019s System of Ethics as offering a compelling resolution to the personal and interpersonal dimensions of moral life.",
+      "cited_by_count": 53,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/WARFMP-2.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W3093941507"
+    },
+    {
+      "openalex_id": "W2588164421",
+      "doi": "10.82308/26392",
+      "title": "Hermann Cohen's history and philosophy of science",
+      "authors": [
+        {
+          "name": "Lydia Patton",
+          "openalex_id": "A5012593658",
+          "orcid": "https://orcid.org/0000-0003-2751-1196"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "In my dissertation, I present Hermann Cohen's foundation for the history and philosophy of science. My investigation begins with Cohen's formulation of a neo-Kantian epistemology. I analyze Cohen's early work, especially his contributions to 19th century debates about the theory of knowledge. I conclude by examining Cohen's mature theory of science in two works, The Principle of the Infinitesimal Method and its History of 1883, and Cohen's extensive 1914 Introduction to Friedrich Lange's History of Materialism. In the former, Cohen gives an historical and philosophical analysis of the foundations of the infinitesimal method in mathematics. In the latter, Cohen presents a detailed account of Heinrich Hertz's Principles of Mechanics of 1894. Hertz considers a series of possible foundations for mechanics, in the interest of finding a secure conceptual basis for mechanical theories. Cohen argues that Hertz's analysis can be completed, and his goal achieved, by means of a philosophical examination of the role of mathematical principles and fundamental concepts in scientific theories.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "eScholarship@McGill (McGill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.mcgill.ca/concern/theses/zg64tm46k"
+      },
+      "topics": [
+        "Evolution and Science Education",
+        "Academic and Historical Perspectives in Psychology",
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2588164421"
+    },
+    {
+      "openalex_id": "W2798354061",
+      "doi": "10.5040/9781474247696",
+      "title": "Philosophy in a Meaningless Life",
+      "authors": [
+        {
+          "name": "James Tartaglia",
+          "openalex_id": "A5007205138",
+          "orcid": "https://orcid.org/0000-0002-5251-1908"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "<JATS1:p>Philosophy in a Meaningless Life provides an account of the nature of philosophy which is rooted in the question of the meaning of life. It makes a powerful and vivid case for believing that this question is neither obscure nor obsolete, but reflects a quintessentially human concern to which other traditional philosophical problems can be readily related; allowing them to be reconnected with natural interest, and providing a diagnosis of the typical lines of opposition across philosophy\u2019s debates.</JATS1:p> <JATS1:p>James Tartaglia looks at the various ways philosophers have tried to avoid the conclusion that life is meaningless, and in the process have distanced philosophy from the concept of transcendence. Rejecting all of this, Tartaglia embraces nihilism (\u2018we are here with nothing to do\u2019), and uses transcendence both to provide a new solution to the problem of consciousness, and to explain away perplexities about time and universals. He concludes that with more self-awareness, philosophy can attain higher status within a culture increasingly in need of it.</JATS1:p>",
+      "cited_by_count": 31,
+      "type": "book",
+      "source": {
+        "name": "Bloomsbury Publishing Plc eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.5040/9781474247696"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Philosophy, Ethics, and Existentialism",
+        "Theology and Philosophy of Evil"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2798354061"
+    },
+    {
+      "openalex_id": "W3162846229",
+      "doi": "10.1007/s11097-021-09748-9",
+      "title": "Projection or encounter? Investigating Hans Jonas\u2019 case for natural teleology",
+      "authors": [
+        {
+          "name": "Sigurd Hverven",
+          "openalex_id": "A5057106707",
+          "orcid": "https://orcid.org/0000-0001-8657-1696",
+          "institutions": [
+            "Norwegian University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Thomas Netland",
+          "openalex_id": "A5086021818",
+          "orcid": "https://orcid.org/0000-0002-9340-3591",
+          "institutions": [
+            "Norwegian University of Science and Technology"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-05-19",
+      "abstract": "Abstract This article discusses Hans Jonas\u2019 argument for teleology in living organisms, in light of recently raised concerns over enactivism\u2019s \u201cJonasian turn.\u201d Drawing on textual resources rarely discussed in contemporary enactivist literature on Jonas\u2019 philosophy, we reconstruct five core ideas of his thinking: 1) That natural science\u2019s rejection of teleology is methodological rather than ontological, and thus not a proof of its non-existence; 2) that denial of the reality of teleology amounts to a performative self-contradiction; 3) that the fact of evolution makes it implausible that only humans actualize purpose; 4) that the concept of metabolism delimits and gestures towards beings performing purposive activity; and 5) that concrete encounters with living organisms are indispensable for the judgment that they are purposive. Lastly, we draw attention to how Jonas\u2019 understanding of teleology and inwardness in nonhuman life in terms of degrees of identity with human life poses a problem for his view. In this way, we hope to clarify what Jonas, as an important source of inspiration for the enactivist project, is proposing.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11097-021-09748-9.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Psychedelics and Drug Studies",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W3162846229"
+    },
+    {
+      "openalex_id": "W3215480586",
+      "doi": "10.1007/978-3-030-84570-4",
+      "title": "Continental Philosophy of Technoscience",
+      "authors": [
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213",
+          "institutions": [
+            "Erasmus University Rotterdam"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-18",
+      "abstract": "This open access authored book focuses on methodological issues of how to practice continental philosophy of technoscience today.",
+      "cited_by_count": 20,
+      "type": "book",
+      "source": {
+        "name": "Philosophy of engineering and technology",
+        "type": "book series",
+        "issn": [
+          "1879-7202",
+          "1879-7210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-84570-4.pdf"
+      },
+      "topics": [
+        "Innovation, Sustainability, Human-Machine Systems",
+        "Space Science and Extraterrestrial Life",
+        "Interdisciplinary Research and Collaboration"
+      ],
+      "referenced_works_count": 324,
+      "url": "https://openalex.org/W3215480586"
+    },
+    {
+      "openalex_id": "W3009709116",
+      "doi": null,
+      "title": "I am not a brain : philosophy of mind for the twenty-first century",
+      "authors": [
+        {
+          "name": "Markus Gabriel",
+          "openalex_id": "A5113079322"
+        },
+        {
+          "name": "Chris Turner",
+          "openalex_id": "A5079729957"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Introduction Mind and Geist Elementary Particles and Conscious Organisms The Decade of the Brain Can the Mind Be Free in a Brain Scan? The Self as a USB-Stick Neuromania and Darwinitis - The Example of Fargo Mind - Brain - Ideology The Cartography of Self-Interpretation I. What is at Stake in the Philosophy of Mind? Mind in the Universe? In the Spirit of Hegel The Historical Animal on the Social Stage Why not Everything, but at least Something is Teleological II. Consciousness I See Something That You Do Not See! Neuronal Thunderstorms and the Arena of Consciousness Buddha, the Snake and the Bat - Again Surfing On the Wave of Neuro-Kantianism Nothing Is Beyond Our Experience - Or Is There? Faith, Love, Hope - Are They All Just Illusions? An Altruist is Lodged in Every Ego Davidson's Dog and Derrida's Cat Tasty Consciousness The Intelligence of the Robot Vacuum Cleaner Strange Days - The Noise of Consciousness What Mary Still Doesn't Know The Discovery of the Universe in a Monastery Sensations are Not Subtitles to a Chinese Movie God's-Eye View III. Self-Consciousness How History Can Expand Our Consciousness Monads in the Mill Bio is Not Always Better than Techno How the Clown Attempted To Get Rid of Omnipotence Self-Consciousness in a Circle IV. Who or What Is This Thing We Call: The Self? The Reality of Illusions Puberty-Reductionism and the Toilet Theory Self is God Fichte: The Almost Forgotten Grandmaster of the Self The Three Pillars of the Science of Knowledge In the Human Being Nature Opens her Eyes and Sees that She Exists 'Let Daddy Take Care of this': Freud and Stromberg Drives Meet Hard Facts Oedipus and the Milk Carton V. Freedom Can I Will Not to Will What I Will? The Self is Not a One-Armed Bandit Why Cause and Reason are Not the Same Thing and What That Has to Do with Tomato Sauce Friendly Smites Meanie and Defeats Metaphysical Pessimism Human Dignity is Inviolable On the Same Level as God or Nature? PS: There Are No Savages Man is Not a Face Drawn in Sand Notes Bibliography Index of Concepts Index of Names",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Neuroscience, Education and Cognitive Function",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3009709116"
+    },
+    {
+      "openalex_id": "W1684888166",
+      "doi": "10.26530/oapen_377572",
+      "title": "Bakhtin\u2019s Theory of the Literary Chronotope: Reflections, Applications, Perspectives",
+      "authors": [
+        {
+          "name": "Nele Bemong",
+          "openalex_id": "A5089554416"
+        },
+        {
+          "name": "Pieter Borghart",
+          "openalex_id": "A5027362175"
+        },
+        {
+          "name": "Michel De Dobbeleer",
+          "openalex_id": "A5072676693",
+          "orcid": "https://orcid.org/0000-0001-8846-9978"
+        },
+        {
+          "name": "Kristoffel Demoen",
+          "openalex_id": "A5075337392",
+          "orcid": "https://orcid.org/0000-0003-3831-6329"
+        },
+        {
+          "name": "Koen De Temmerman",
+          "openalex_id": "A5053621288",
+          "orcid": "https://orcid.org/0000-0001-7943-8299"
+        },
+        {
+          "name": "Bart Keunen",
+          "openalex_id": "A5111366801"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This edited volume is the first scholarly tome exclusively dedicated to Mikhail Bakhtin\u2019s theory of the literary chronotope. This concept, initially developed in the 1930s and used as a frame of reference throughout Bakhtin\u2019s own writings, has been highly influential in literary studies. After an extensive introduction that serves as a \u2018state of the art\u2019, the volume is divided into four main parts: Philosophical Reflections, Relevance of the Chronotope for Literary History, Chronotopical Readings and Some Perspectives for Literary Theory. These thematic categories contain contributions by well-established Bakhtin specialists such as Gary Saul Morson and Michael Holquist, as well as a number of essays by scholars who have published on this subject before. Together the papers in this volume explore the implications of Bakhtin\u2019s concept of the chronotope for a variety of theoretical topics such as literary imagination, polysystem theory and literary adaptation; for modern views on literary history ranging from the hellenistic romance to nineteenth-century realism; and for analyses of well-known novelists and poets as diverse as Milton, Fielding, Dickinson, Dostoevsky, Papadiamandis and DeLillo.",
+      "cited_by_count": 234,
+      "type": "book",
+      "source": {
+        "name": "Academia Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/34655/1/377572.pdf"
+      },
+      "topics": [
+        "Russian Literature and Bakhtin Studies",
+        "Borges, Kipling, and Jewish Identity",
+        "Linguistics and Education Research"
+      ],
+      "referenced_works_count": 178,
+      "url": "https://openalex.org/W1684888166"
+    },
+    {
+      "openalex_id": "W4313477693",
+      "doi": "10.1007/978-3-031-13123-3",
+      "title": "The Palgrave Handbook of German Idealism and Feminist Philosophy",
+      "authors": [
+        {
+          "name": "Susanne Lettow",
+          "openalex_id": "",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Tuija Pulkkinen",
+          "openalex_id": "",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "book",
+      "source": {
+        "name": "Palgrave handbooks in German idealism",
+        "type": "book series",
+        "issn": [
+          "2634-6230",
+          "2634-6249"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-13123-3/1?pdf=chapter%20toc"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4313477693"
+    },
+    {
+      "openalex_id": "W3034703146",
+      "doi": "10.1007/s10739-020-09609-2",
+      "title": "Axiomatic Natural Philosophy and the Emergence of Biology as a Science",
+      "authors": [
+        {
+          "name": "Hein van den Berg",
+          "openalex_id": "A5007980522",
+          "orcid": "https://orcid.org/0000-0001-6078-9558",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Boris Demarest",
+          "openalex_id": "A5084409866",
+          "orcid": "https://orcid.org/0000-0001-7687-0836",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-16",
+      "abstract": "Ernst Mayr argued that the emergence of biology as a special science in the early nineteenth century was possible due to the demise of the mathematical model of science and its insistence on demonstrative knowledge. More recently, John Zammito has claimed that the rise of biology as a special science was due to a distinctive experimental, anti-metaphysical, anti-mathematical, and anti-rationalist strand of thought coming from outside of Germany. In this paper we argue that this narrative neglects the important role played by the mathematical and axiomatic model of science in the emergence of biology as a special science. We show that several major actors involved in the emergence of biology as a science in Germany were working with an axiomatic conception of science that goes back at least to Aristotle and was popular in mid-eighteenth-century German academic circles due to its endorsement by Christian Wolff. More specifically, we show that at least two major contributors to the emergence of biology in Germany-Caspar Friedrich Wolff and Gottfried Reinhold Treviranus-sought to provide a conception of the new science of life that satisfies the criteria of a traditional axiomatic ideal of science. Both C.F. Wolff and Treviranus took over strong commitments to the axiomatic model of science from major philosophers of their time, Christian Wolff and Friedrich Wilhelm Joseph Schelling, respectively. The ideal of biology as an axiomatic science with specific biological fundamental concepts and principles thus played a role in the emergence of biology as a special science.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Biology",
+        "type": "journal",
+        "issn": [
+          "0022-5010",
+          "1573-0387"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10739-020-09609-2.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W3034703146"
+    },
+    {
+      "openalex_id": "W4392939754",
+      "doi": "10.1093/oxfordhb/9780190066239.013.29",
+      "title": "Social and Political Philosophy",
+      "authors": [
+        {
+          "name": "Kristin Gjesdal",
+          "openalex_id": "A5031169165",
+          "institutions": [
+            "Temple University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-19",
+      "abstract": "Abstract This chapter explores the contributions of nineteenth-century women to social and political thought. Focusing on the works of Germaine de Sta\u00ebl, Karoline von G\u00fcnderrode, Bettina Brentano von Arnim, Hedwig Dohm, Clara Zetkin, and Rosa Luxemburg, it makes visible the important philosophical arc from early romanticism to late nineteenth-century socialism. The chapter concludes with a brief reflections on the legacy of these movements and how they contribute to the shaping of phenomenology and later twentieth-century thought.",
+      "cited_by_count": 10,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/GJESAP-2.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Hannah Arendt's Political Philosophy",
+        "Simone de Beauvoir and Sartre"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4392939754"
+    },
+    {
+      "openalex_id": "W2063088776",
+      "doi": "10.5325/jspecphil.28.3.0273",
+      "title": "Teleology Beyond Metaphysics: Husserlian Phenomenology and the Historical Consciousness of Modernity",
+      "authors": [
+        {
+          "name": "Timo Miettinen",
+          "openalex_id": "A5027482953",
+          "orcid": "https://orcid.org/0000-0003-3033-6886",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-07-01",
+      "abstract": "ABSTRACT This article examines the idea of historical teleology in the context of Husserlian phenomenology. Although Husserl derived this notion from the historical thinking of German idealism, the phenomenological concept of teleology differed radically from this current: instead of a deterministic idea signifying the inevitable progress of historical development, the phenomenological concept of teleology was to be understood as a fundamentally critical device of philosophical reflection\u2014something that ought to liberate us from the yoke of the present moment. On the basis of these reformulations, the article defends the phenomenological idea of teleology as an inalienable tool of historical thinking.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Speculative Philosophy",
+        "type": "journal",
+        "issn": [
+          "0891-625X",
+          "1527-9383"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/MIETBM.pdf"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Phenomenology and Existential Philosophy",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2063088776"
+    },
+    {
+      "openalex_id": "W4313481650",
+      "doi": "10.1007/978-3-031-12604-8",
+      "title": "Vitalism and Its Legacy in Twentieth Century Life Sciences and Philosophy",
+      "authors": [
+        {
+          "name": "Christopher Donohue",
+          "openalex_id": "A5001978767",
+          "orcid": "https://orcid.org/0000-0003-4286-5427",
+          "institutions": [
+            "National Human Genome Research Institute"
+          ]
+        },
+        {
+          "name": "Charles T. Wolfe",
+          "openalex_id": "A5021104565",
+          "orcid": "https://orcid.org/0000-0002-7956-9085",
+          "institutions": [
+            "Universit\u00e9 Toulouse - Jean Jaur\u00e8s"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "This open access book combines philosophical and historical analysis of various forms of alternatives to mechanism and mechanistic explanation",
+      "cited_by_count": 19,
+      "type": "book",
+      "source": {
+        "name": "History, philosophy and theory of the life sciences",
+        "type": "book series",
+        "issn": [
+          "2211-1948",
+          "2211-1956"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-12604-8.pdf?pdf=button"
+      },
+      "topics": [
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 361,
+      "url": "https://openalex.org/W4313481650"
+    },
+    {
+      "openalex_id": "W2937026838",
+      "doi": "10.12795/araucaria.2019.i41.04",
+      "title": "Morality and State in the Fichtean Political Philosophy",
+      "authors": [
+        {
+          "name": "H\u00e9ctor \u00d3scar Arrese Igor",
+          "openalex_id": "A5066437467",
+          "orcid": "https://orcid.org/0000-0001-8773-5357"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society and state. From a synchronic viewpoint, Fichte cannot solve the problem of the control of political power because he has to draw on the assumption of a virtuous ephorate. This assumption is not consistent with the Fichtean ideal of a philosophy of right completely independent from moral considerations. Thus, the control of government is possible only if at least a group of citizens can go beyond the mere rational egoism. This new temporal conception of the state leads Fichte to think that the problems of consistency of his theory of Jena are unavoidable, given that a society integrated by egoist individuals cannot be sustained. However, his later philosophy of history enables Fichte to state the inexorable annihilation of this type of community and gives place to an ensuing epoch, when citizens are not self-interested anymore.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Araucaria",
+        "type": "journal",
+        "issn": [
+          "1575-6823",
+          "2340-2199"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.12795/araucaria.2019.i41.04"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2937026838"
+    },
+    {
+      "openalex_id": "W2767975435",
+      "doi": null,
+      "title": "Hegel on Indian Philosophy: Spinozism, Romanticism, Eurocentrism",
+      "authors": [
+        {
+          "name": "Gino Signoracci",
+          "openalex_id": "A5086093277"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "This study examines nineteenth-century German philosopher G.W.F. Hegel\u2019s appraisal of philosophies of India. In Hegel\u2019s time, classical Indian texts such as the Vedas, Upani\u1e63ads, and Bhagavadg\u012bt\u0101 had only recently been translated into European languages, and were generating tremendous controversy. Hegel carved out a unique and hugely influential position by devotedly reading fledgling translations of source texts alongside European interpretations, attempting to comprehend the philosophical significance of Indian thought. Hegel\u2019s legacy proved deeply problematic, however, both because his views were not entirely consistent or unambiguous over time, and because his evident relegation of Indian ideas to pre- or unphilosophical status became the dominant practice among Europeans and Westerners through the twentieth century even while Hegel\u2019s star, relatively speaking, went into a period of decline. While Hegel spent much more time and space discussing Indian philosophy in detail than did many philosophers who succeeded him in Europe and elsewhere, today his philosophy is too-frequently either reflexively labeled Eurocentric to legitimize ignoring or summarily dismissing it, or studied and written about exclusively in the context of \u201cWestern\u201d ideas as if India were of little or no serious concern to him. This work first situates Hegel\u2019s interest in and attention to Indian ideas in the context of the philosophical trends of Spinozism and Romanticism that he sought to navigate from his earliest forays into theology and philosophy. It then interrogates his analyses and judgments of Indian philosophical systems over the course of his career, revealing the increasing depth and innovation in his engagement with India over time while also critiquing his readings of Indian texts and his characterizations of Indian thought and culture. In doing so, it endeavors to supply the complete account of Hegel\u2019s approach to Indian philosophy in its full complexity.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "UNM\u2019s Digital Repository (University of New Mexico)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1022&context=phil_etds"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Indian History and Philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767975435"
+    },
+    {
+      "openalex_id": "W4213287863",
+      "doi": "10.1093/oso/9780198868705.001.0001",
+      "title": "The Practical Origins of Ideas",
+      "authors": [
+        {
+          "name": "Matthieu Queloz",
+          "openalex_id": "A5075238146",
+          "orcid": "https://orcid.org/0000-0001-6644-9992",
+          "institutions": [
+            "University of Oxford",
+            "METabolic Explorer (France)",
+            "Science Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-04",
+      "abstract": "Abstract Why did such highly abstract ideas as truth, knowledge, or justice become so important to us? What was the point of coming to think in these terms? In The Practical Origins of Ideas, Matthieu Queloz presents a philosophical method designed to answer such questions: the method of pragmatic genealogy. Pragmatic genealogies are partly fictional, partly historical narratives exploring what might have driven us to develop certain ideas in order to discover what these do for us. The book uncovers an under-appreciated tradition of pragmatic genealogy which cuts across the analytic\u2013continental divide, running from the state-of-nature stories of David Hume and the early genealogies of Friedrich Nietzsche to recent work in analytic philosophy by Edward Craig, Bernard Williams, and Miranda Fricker. However, these genealogies combine fictionalizing and historicizing in ways that even philosophers sympathetic to the use of state-of-nature fictions or real history have found puzzling. To make sense of why both fictionalizing and historicizing are called for, the book offers a systematic account of pragmatic genealogies as dynamic models serving to reverse-engineer the points of ideas in relation not only to near-universal human needs, but also to socio-historically situated needs. This allows the method to offer us explanation without reduction and to help us understand what led our ideas to shed the traces of their practical origins. Far from being normatively inert, moreover, pragmatic genealogy can affect the space of reasons, guiding attempts to improve our conceptual repertoire by helping us determine whether and when our ideas are worth having.",
+      "cited_by_count": 193,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1093/oso/9780198868705.001.0001"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Epistemology, Ethics, and Metaphysics",
+        "Pragmatism in Philosophy and Education"
+      ],
+      "referenced_works_count": 405,
+      "url": "https://openalex.org/W4213287863"
+    },
+    {
+      "openalex_id": "W2086285714",
+      "doi": "10.1353/sub.2007.0042",
+      "title": "Bergson's Hand: Toward a History of (Non)-Organic Vitalism",
+      "authors": [
+        {
+          "name": "Hisashi Fujita",
+          "openalex_id": "A5019097189",
+          "orcid": "https://orcid.org/0000-0003-0582-6744"
+        },
+        {
+          "name": "Roxanne Lapidus",
+          "openalex_id": "A5001501614"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Tbday vitalism is sterile, but it will not always be so''-Henri Bergson",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "SubStance",
+        "type": "journal",
+        "issn": [
+          "0049-2426",
+          "1527-2095"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/19/article/223929/pdf"
+      },
+      "topics": [
+        "Philosophical and Theoretical Analysis"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W2086285714"
+    },
+    {
+      "openalex_id": "W2908416735",
+      "doi": "10.4000/ref.878",
+      "title": "Biology and ontology: Kant, Fichte, and the uses of natural history",
+      "authors": [
+        {
+          "name": "Michael Steinberg",
+          "openalex_id": "A5032449399",
+          "orcid": "https://orcid.org/0000-0003-2661-2120"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This paper explores the similarities and differences between Kant and Fichte that are wound around a single, seemingly tangential subject: their arguments from biology. The most extensive discussions of biology in their work both came in the last decade of the eighteenth century, in Kant\u2019s Critique of Judgment and in Fichte\u2019s System of Ethics and Wissenschaftslehre nova methodo. On first reading the accounts appear extraordinarily similar. But the two philosophers begin to diverge as they move forward. Both invoke the notion of a formative drive that guides and impels self-organization, the Bildungstrieb that features prominently in the writing of Blumenbach. Kant, though, praises Blumenbach not so much for his ideas as for his caution in applying them, and interprets the drive as nothing more than the \u201cability of an organized body to take on \u2026 organization.\u201d Fichte, on the other hand, characterizes the Bildungstrieb as \u201ca drive to form or shape or to cultivate and ... a drive to allow oneself to be formed or shaped or cultivated.\u201d There is a far more obvious way in which the two philosophers differ, though. Hardly anything seems less Kantian than a discussion of biology, and biological drives at that, in a System of Ethics. The moral law flies in the face of all inclination, and what are those inclinations but the promptings of our nature as physical organisms? From a Kantian perspective it is hard to see how biology could help us comprehend or comply with a law that is grounded in something utterly apart from our physical being. By incorporating it into his ethical treatise, though, Fichte seems to be moving in just that direction.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revista de Estud(i)os sobre Fichte",
+        "type": "journal",
+        "issn": [
+          "2258-014X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.openedition.org/ref/pdf/878"
+      },
+      "topics": [
+        "Earth Systems and Cosmic Evolution",
+        "Space Science and Extraterrestrial Life",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2908416735"
+    },
+    {
+      "openalex_id": "W2791899003",
+      "doi": "10.5206/fpq/2018.1.1",
+      "title": "Kant on Sex. Reconsidered. -- A Kantian account of sexuality: sexual love, sexual identity, and sexual orientation",
+      "authors": [
+        {
+          "name": "Helga Varden",
+          "openalex_id": "A5084714613",
+          "institutions": [
+            "University of Illinois Urbana-Champaign"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-03-24",
+      "abstract": "Kant on sex gives most philosophers the following associations: a lifelong celibate philosopher; a natural teleological view of sexuality; a strange incorporation of this natural teleological account within his freedom-based moral theory; and a stark ethical condemnation of most sexual activity. Although this paper provides an interpretation of Kant\u2019s view on sexuality, it neither defends nor offers an apology for everything Kant says about sexuality. Rather, it aims to show that a reconsidered Kant-based account can utilize his many worthwhile insights and that by making Kant\u2019s account of sexuality more consistent with his own basic philosophical commitments, the result is a compelling approach to the complex and complicated phenomena of sexual love, sexual identity, and sexual orientation.",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "Feminist Philosophy Quarterly",
+        "type": "journal",
+        "issn": [
+          "2371-2570"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ojs.lib.uwo.ca/index.php/fpq/article/download/3116/2381"
+      },
+      "topics": [
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W2791899003"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

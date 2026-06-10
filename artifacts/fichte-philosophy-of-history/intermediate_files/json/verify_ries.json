@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Mythos Fichte...' author=Ries year=2018
+[verify_paper.py] Paper found: Mythos Fichte: Die Reden an die deutsche Nation al... (score: 40.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Mythos Fichte",
+    "author": "Ries",
+    "year": 2018
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/18795811_04501013",
+      "title": "Mythos Fichte: Die Reden an die deutsche Nation als universalistischer Appell",
+      "authors": [
+        {
+          "family": "Ries",
+          "given": "Klaus"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Fichte Studien",
+      "volume": "45",
+      "issue": "1",
+      "page": "242-266",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1163/18795811_04501013",
+      "score": 40.242493
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

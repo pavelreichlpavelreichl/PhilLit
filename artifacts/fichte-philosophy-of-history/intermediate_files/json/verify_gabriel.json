@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/978-3-030-26508-3_20
+[verify_paper.py] DOI verified: Transcendental Ontology in Fichte’s Wissenschaftsl...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/978-3-030-26508-3_20"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/978-3-030-26508-3_20",
+      "title": "Transcendental Ontology in Fichte\u2019s Wissenschaftslehre of 1804",
+      "authors": [
+        {
+          "family": "Gabriel",
+          "given": "Markus"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Palgrave Handbooks in German Idealism",
+      "volume": "",
+      "issue": "",
+      "page": "443-460",
+      "publisher": "Springer International Publishing",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/978-3-030-26508-3_20"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,275 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte Atheismusstreit atheism controversy', limit=20
+[search_philpapers.py] Retrieved 16 entries...
+[search_philpapers.py] Search complete: 16 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte Atheismusstreit atheism controversy",
+  "results": [
+    {
+      "title": "Arslan Topakkaya, Fichte Und Der Atheismusstreit",
+      "url": "https://philpapers.org/rec/TOPFUD",
+      "philpapers_id": "TOPFUD",
+      "snippet": "Ein Aufsatz Fichtes im Philosophischen Journal von 1798 \u201c\u00dcber den Grund unseres Glaubens an eine g\u00f6ttliche Weltregierung\u201d trug ihm den Vorwurf des Atheismus ein, und Fichte musste demzufolge 1799 Universitaet Jena ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Arslan Topakkaya"
+        }
+      ],
+      "extra_snippets": [
+        "Ein Aufsatz Fichtes im Philosophischen Journal von 1798 \u201c\u00dcber den Grund unseres Glaubens an eine g\u00f6ttliche Weltregierung\u201d trug ihm den Vorwurf des Atheismus ein, und Fichte musste demzufolge 1799 Universitaet Jena verlassen. Fichte bezeichnet sich nicht als ein Atheist.",
+        "Seine ganze Philosophie dreht sich um den Begriff des Gottes. Es ist ganz klar, dass Fichte nicht Atheist war. Aber er war auch nicht einverstanden mit der Gottauffsaaung des Christentums. In diesem Zusammenhang stellt sich die Frage, ob Fichte ein Theist oder ein Deist ist.",
+        "Fichte und die Gesellschaft.Carla de Pascale - 2003 - Fichte-Studien 24 (1):95-102.",
+        "Das Nicht-Ich und die neue Realit\u00e4t der Welt beim sp\u00e4ten Fichte.de Rosales Chac\u00f3n - 2022 - Fichte-Studien 51 (1):122-143."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte & Werner Ro\u0308hr (eds.), Appellation an das Publikum--: Dokumente zum Atheismusstreit um Fichte, Forberg, Niethammer, Jena, 1798/99",
+      "url": "https://philpapers.org/rec/FICAAD",
+      "philpapers_id": "FICAAD",
+      "snippet": "Fichtes Atheismusstreit Und Die Kantische Philosophie.Heinrich Rickert - 1899",
+      "page_age": null,
+      "extra_snippets": [
+        "Johann Gottlieb Fichte, Wissenschaftslehre nova methodo. Kollegnachschrift K. Chr. Fr. Krause 1798/99, hg. von Erich Fuchs -Johann Gottlieb Fichte, \u00dcber das Verh\u00e4ltnis der Logik zur Philosophie oder Transzendentale Logik, hg. von Reinhard Lauth und Peter K.",
+        "Fichtes Entlassung.",
+        "Johann Gottlieb Fichte.Heinrich Weinel - 1914 - Protestantischer Schriftenvertreib.",
+        "Untersuchungen zum Problem der freimauerei bei Lessing, Herder und Fichte.Paul M\u00fcller - 1965 - Haupt."
+      ]
+    },
+    {
+      "title": "Yolanda Estes, J.G. Fichte and the Atheism Dispute, 1798-1800",
+      "url": "https://philpapers.org/rec/ESTJFA",
+      "philpapers_id": "ESTJFA",
+      "snippet": "Translator&#x27;s preface -- Commentator&#x27;s preface -- Commentator&#x27;s introduction -- J.G. Fichte : on the ground of our belief in a divine world-governance -- Commentary: on the ground of our belief in a divine world-governance -- Text: on the ground of our belief in a divine world-governance -- F.K. Forberg : development of the concept of religion -- Commentary: development of the concept of religion -- Text: development of the concept of religion -- G.: a father&#x27;s letter to his student son about Fichte&#x27;s and forberg&#x27;s atheism -- Commentary: a father&#x27;s letter to his student son about Fichte&#x27;s and F",
+      "page_age": null,
+      "extra_snippets": [
+        "Translator's preface -- Commentator's preface -- Commentator's introduction -- J.G. Fichte : on the ground of our belief in a divine world-governance -- Commentary: on the ground of our belief in a divine world-governance -- Text: on the ground of our belief in a divine world-governance -- F.K. Forberg : development of the concept of religion -- Commentary: development of the concept of religion -- Text: development of the concept of religion -- G.: a father's letter to his student son about Fichte's and forberg's atheism -- Commentary: a father's letter to his student son about Fichte's and F",
+        "J.G. Fichte and the Atheism Dispute (1798\u20131800).David James - 2012 - British Journal for the History of Philosophy 20 (6):1217-1221.",
+        "Fichte: appeal to the public -- Commentary: appeal to the public -- Text: appeal to the public -- K.l. Reinhold: letter to Fichte -- Commentary:letter to fichte -- Text: letter to Fichte -- J.G. Fichte : juridical defense -- Commentary: juridical defense -- Text: juridical defense -- Ernst I.",
+        "Ludwig : Gotha rescript to the University of Jena -- Commentary: Gotha rescript to the University of Jena -- Text: Gotha rescript to the University of Jena -- Students of the University of Jena : first petition to Duke Karl, August of Saxony, Weimar, Eisenach and Karl August : first reply to the University of Jena and students of the University of Jena : second petition to Duke Karl, August of Saxony, Weimar, Eisenach and Karl August : second reply to the University of Jena -- Commentary: first and second petitions to Duke Karl, August of Saxony, Weimar, Eisenach and first and second replies t"
+      ]
+    },
+    {
+      "title": "Yolanda Estes, Fichtes Entlassung",
+      "url": "https://philpapers.org/rec/ESTFED-2",
+      "philpapers_id": "ESTFED",
+      "snippet": "During the next spring, Duke Carl-August of Weimar censured the content of the Philosophisches Journal and \u201caccepted\u201d Fichte\u2019s \u201cresignation\u201d from the University of Jena. By 1800, the conflict died down. It remains an example of the theological, religious, and philosophical controversies that characterized intellectual life in the eighteenth century. Nonetheless, few works provide a comprehensive account of the Atheismusstreit.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Yolanda Estes"
+        }
+      ],
+      "extra_snippets": [
+        "Fichtes Entlassung. Der Atheismusstreit vor 200 Jahren. [REVIEW]Wilhelm G. Jacobs - 2003 - Fichte-Studien 21:222-227. J.G. Fichte and the Atheism Dispute, 1798-1800.Yolanda Estes - 2009 - Ashgate.",
+        "During the next spring, Duke Carl-August of Weimar censured the content of the Philosophisches Journal and \u201caccepted\u201d Fichte\u2019s \u201cresignation\u201d from the University of Jena. By 1800, the conflict died down. It remains an example of the theological, religious, and philosophical controversies that characterized intellectual life in the eighteenth century. Nonetheless, few works provide a comprehensive account of the Atheismusstreit.",
+        "Fichtes Entlassung: der Atheismusstreit vor 200 Jahren.Klaus-Michael Kodalle & Martin Ohst (eds.) - 1999 - Wu\u0308rzburg: Ko\u0308nigshausen & Neumann. Fichtes Entlassung: Der Atheismusstreit vor 200 Jahren.Klaus-M. Kodalle, Martin Ohst, Ch Danz, C.",
+        "Fichtes Atheismusstreit Und Die Kantische Philosophie.Heinrich Rickert - 1899 \u00b7 Spinozismus substanzloser Subjektivit\u00e4t. Jacobi und Jean Paul wider Fichtes Ichphilosophie.Gunther Wenz - 2019 - Neue Zeitschrift f\u00fcr Systematicsche Theologie Und Religionsphilosophie 61 (3):388-413. J.G. Fichte\u2019s Essay on the Origin of Language.Pietro Perconti - 2002 - Fichte-Studien 19:223-229."
+      ]
+    },
+    {
+      "title": "The Atheism Controversy of 1799 and the Christology ...",
+      "url": "https://philpapers.org/rec/SEITAC",
+      "philpapers_id": "SEITAC",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": null
+    },
+    {
+      "title": "Wilhelm G. Jacobs, Fichtes Entlassung. Der Atheismusstreit vor 200 Jahren",
+      "url": "https://philpapers.org/rec/JACFED-2",
+      "philpapers_id": "JACFED",
+      "snippet": "Der Band enth\u00e4lt die Vortr\u00e4ge einer Ringvorlesung an der Universit\u00e4t Jena anl\u00e4\u00dflich des Gedenkens an den Atheismusstreit in den Jahren 1798 und 1799. Er umfa\u00dft nach einem Vorwort dreizehn Beitr\u00e4ge und eine kurze Angabe zu den Autoren ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Wilhelm G. Jacobs"
+        }
+      ],
+      "extra_snippets": [
+        "Der Band enth\u00e4lt die Vortr\u00e4ge einer Ringvorlesung an der Universit\u00e4t Jena anl\u00e4\u00dflich des Gedenkens an den Atheismusstreit in den Jahren 1798 und 1799. Er umfa\u00dft nach einem Vorwort dreizehn Beitr\u00e4ge und eine kurze Angabe zu den Autoren der Vortr\u00e4ge. Der Aufbau des Bandes ist einleuchtend. Von der uns Heutigen weitgehend unbekannten Rechtssituation geht der Weg \u00fcber die theologisch-kirchliche Umgebung zu Interpretationen der Fichteschen Philosophie zur Zeit des Atheismusstreites, ihrer fr\u00fchen und sp\u00e4teren Form und zu Gegen\u00fcberstellungen mit zeitgen\u00f6ssischen Lehren.",
+        "Wie sich Philosophen im Grunde anerkennen k\u00f6nnen: Die Bedeutung der Identit\u00e4tsphilosophie Schellings f\u00fcr Fichtes Philosophie nach dem \u00bbAtheismusstreit\u00ab.Robert Marsza\u0142ek - 2007 - In Christoph Asmuth (ed.), Transzendentalphilosophie Und Person. Leiblichkeit \u00c2\u0080\u0093 Interpersonalit\u00e3\u00a4T \u00c2\u0080\u0093 Anerkennung.",
+        "Fichtes Entlassung. Der Atheismusstreit vor 200 Jahren. [REVIEW]Wilhelm G.",
+        "Fichtes Entlassung: Der Atheismusstreit vor 200 Jahren.Klaus-M. Kodalle, Martin Ohst, Ch Danz, C."
+      ]
+    },
+    {
+      "title": "Friedrich B\u00fcchsel, J.-G. Fichte; \u2014 Ideen \u00fcber Gott und Unsterblichkeit. Zwei religionsphilosophische Vorlesungen aus der Zeit vor dem Atheismusstreit. Mit einer Einleitung herausgegeben",
+      "url": "https://philpapers.org/rec/BCHJF",
+      "philpapers_id": "BCHJF",
+      "snippet": "J.-G. Fichte; \u2014 Ideen \u00fcber Gott und Unsterblichkeit. Zwei religionsphilosophische Vorlesungen aus der Zeit vor dem Atheismusstreit. Mit einer Einleitung herausgegeben [Book Review] \u00b7 B\u00fcchsel, Friedrich, J. G. Fichte. Ideen \u00fcber Gott und Unsterblichkeit.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Friedrich B\u00fcchsel"
+        }
+      ],
+      "extra_snippets": [
+        "J. G. Fichte u\u0308ber Gott und Unsterblichkeit, aus einer Kollegnachschrift von 1795..Johann Gottlieb Fichte - 1914 - Berlin: Reuther & Reichard.",
+        "J. G. Fichtes Werken."
+      ]
+    },
+    {
+      "title": "Rolf Ahlers, Vitalism and System: Jacobi and Fichte on Philosophy and Life",
+      "url": "https://philpapers.org/rec/AHLVAS",
+      "philpapers_id": "AHLVAS",
+      "snippet": "This paper thematizes the crucial agreement and point of departure between Jacobi and Fichte at the height of the \u201catheism controversy.\u201d The argument on the proper relationship between philosophy and existence ...",
+      "page_age": "2011-01-09T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Rolf Ahlers"
+        }
+      ],
+      "extra_snippets": [
+        "This paper thematizes the crucial agreement and point of departure between Jacobi and Fichte at the height of the \u201catheism controversy.\u201d The argument on the proper relationship between philosophy and existence or speculation and life had far-reaching consequences in the history of thought after Jacobi and Fichte in German Idealism on the one hand, primarly advocated by Schelling and Hegel, and on the other hand by existentialism and vitalism.",
+        "The essay focuses first on Jacobi\u2019s philosophy of life, which centrally influenced and attracted Fichte to Jacobi. Jacobi\u2019s dualism between speculation, of which he was skeptical, and life, became Fichte\u2019s dualism. Fichte\u2019s transcendentalism, however, prioritized, contrary to Jacobi, both speculation and systematicity.",
+        "Both of these elements became central for later forms of German Idealism. In the last part of the essay Hegel\u2019s absolute idealism becomes the platform affording a critical perspective on Fichte\u2019s transcendental philosophy.",
+        "Vitalism and system: Jacobi and Fichte on philosophy and life (vol 33.1, np, 2003).R."
+      ]
+    },
+    {
+      "title": "Heinrich Rickert, Fichtes Atheismusstreit und die Kantische Philosophie. Eine S\u00e4kularbetrachtung",
+      "url": "https://philpapers.org/rec/RICFAU",
+      "philpapers_id": "RICFAU",
+      "snippet": "Fichtes Atheismusstreit Und Die Kantische Philosophie.Heinrich Rickert - 1899 \u00b7 Pestalozzi und die Kantische Philosophie.Arthur Stein - 1927 - Darmstadt,: Wissenschaftliche Buchgesellschaft. Faust, August, Heinrich Rickert und seine Stellung innerhalb der deutschen Philosophie der Gegenwart.Robert Heindl - 1927 - Kant Studien 32:535.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Heinrich Rickert"
+        }
+      ],
+      "extra_snippets": [
+        "Fichtes Atheismusstreit Und Die Kantische Philosophie.Heinrich Rickert - 1899 \u00b7 Pestalozzi und die Kantische Philosophie.Arthur Stein - 1927 - Darmstadt,: Wissenschaftliche Buchgesellschaft. Faust, August, Heinrich Rickert und seine Stellung innerhalb der deutschen Philosophie der Gegenwart.Robert Heindl - 1927 - Kant Studien 32:535.",
+        "Die grundlegende Rolle des Fichteschen Hingeben-Konzepts in der Transzendentalphilosophie von Lask.Maurizio Trudu - 2024 - Fichte-Studien 53 (1):207-224.",
+        "Sacrif\u00edcio e individualidade: Lask leitor de Fichte.Federico Ferraguto - 2019 - Trans/Form/A\u00e7\u00e3o 42 (4):125-156.",
+        "The Image of Fichte\u2019s Philosophy in German Neo-Kantianism.Leonid Yu Kornilaev - 2022 - Kantian Journal 41 (4):76-93."
+      ]
+    },
+    {
+      "title": "Klaus Hammacher, Fichte in Berlin",
+      "url": "https://philpapers.org/rec/HAMFIB",
+      "philpapers_id": "HAMFIB",
+      "snippet": "Fichtes Berliner Zeit umfa\u00dft immerhin nahezu 14 Jahre seines nur 54 Jahre w\u00e4hrenden Lebens. Sie bildet eine in etwa in sich abgeschlossene Periode, auch wenn man keinen grunds\u00e4tzlichen Bruch in seinem Denken mit dem Atheismusstreit, der dieser Zeit unmittelbar vorhergeht, annimmt.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Klaus Hammacher"
+        }
+      ],
+      "extra_snippets": [
+        "Fichtes Berliner Zeit umfa\u00dft immerhin nahezu 14 Jahre seines nur 54 Jahre w\u00e4hrenden Lebens. Sie bildet eine in etwa in sich abgeschlossene Periode, auch wenn man keinen grunds\u00e4tzlichen Bruch in seinem Denken mit dem Atheismusstreit, der dieser Zeit unmittelbar vorhergeht, annimmt.",
+        "Fichte in Berlin in M\u00fcnchen.G\u00fcnter Z\u00f6ller - 2006 - Fichte-Studien 28 (1):1-14.",
+        "Fichte in Berlin.Wolfgang F\u00f6rster - 1987 - Deutsche Zeitschrift f\u00fcr Philosophie 35 (9):790.",
+        "Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen's University Press."
+      ]
+    },
+    {
+      "title": "J. Fichte, La querelle de l'ath\u00e9isme: suivie de divers textes sur la religion",
+      "url": "https://philpapers.org/rec/FICQDL",
+      "philpapers_id": "FICQDL",
+      "snippet": "L&#x27;accusation d&#x27;atheisme, qui couta a Fichte sa chaire a l&#x27;Universite d&#x27;Iena et compromit gravement, et pour longtemps, la reputation de sa doctrine, concentre tous les anathemes par lesquels l&#x27;esprit de calomnie pouvait tenter, avec un certain succes, d&#x27;empecher une pensee trop libre d&#x27;agir sur son siecle en forgeant une image plus forte et plus courageuse de l&#x27;avenir du monde.",
+      "page_age": null,
+      "extra_snippets": [
+        "L'accusation d'atheisme, qui couta a Fichte sa chaire a l'Universite d'Iena et compromit gravement, et pour longtemps, la reputation de sa doctrine, concentre tous les anathemes par lesquels l'esprit de calomnie pouvait tenter, avec un certain succes, d'empecher une pensee trop libre d'agir sur son siecle en forgeant une image plus forte et plus courageuse de l'avenir du monde.",
+        "On trouvera dans le present volume la traduction des articles par lesquels Fichte se defendit publiquement contre cette accusation, ainsi que l'ensemble des textes qu'il consacra a la question religieuse depuis la fin de ses etudes de theologie jusqu'au declenchement de la Querelle de l'atheisme.",
+        "Comptes rendus. J. G. Fichte, Querelle de l'ath\u00e9isme suivie de divers textes sur la religion.I.",
+        "Fichte: id\u00e9alisme, politique et histoire : actes du colloque organis\u00e9 par le Centre Alpin de Philosophie Allemande.Jean-Marie Lardic & Myriam Bienenstock - 2003 - Librairie Philosophique J Vrin."
+      ]
+    },
+    {
+      "title": "Jason M. Yonover, Fichte\u2019s First First Principles, in the _Aphorisms on Religion and Deism_ (1790) and Prior",
+      "url": "https://philpapers.org/rec/YONFFF",
+      "philpapers_id": "YONFFF",
+      "snippet": "Next, I establish that Fichte\u2019s views at the time of writing, and for some years prior, are those of the \u201cdeist,\u201d and clarify why he sensed he had to leave this stance represented in the \u201cAphorisms\u201d behind.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Jason M. Yonover"
+        }
+      ],
+      "extra_snippets": [
+        "The idea of a \u201cfirst principle\u201d looms large in Fichte\u2019s thought, and its first real appearance is in his \u201cAphorisms on Religion and Deism\u201d (1790), which has received little attention. I begin this paper by providing some context on that piece, and then developing a reconstruction of the position presented within it.",
+        "Next, I establish that Fichte\u2019s views at the time of writing, and for some years prior, are those of the \u201cdeist,\u201d and clarify why he sensed he had to leave this stance represented in the \u201cAphorisms\u201d behind.",
+        "I conclude that understanding Fichte\u2019s shift away from \u201cdeism,\u201d a species of what he would eventually call \u201cdogmatism,\u201d can also help us understand Fichte\u2019s critique of the latter kind of thinking and so shed light on Fichte\u2019s better-known views; and I emphasize that Fichte\u2019s transition from a strict rationalism to a form of Kantianism may be of interest not only to scholarship on Fichte and the period, but likewise to work on rationalism in contemporary metaphysics.",
+        "Fichte\u2019s First Principle of Right.Michael Nance - 2021 - Fichte-Studien 49:248-266."
+      ]
+    },
+    {
+      "title": "Marco Ivaldo, Fichte: Outlines of the doctrine of religion",
+      "url": "https://philpapers.org/rec/IVAFOO",
+      "philpapers_id": "IVAFOO",
+      "snippet": "This paper presents an overview of the development of Fichte\u2019s theory of religion. Fichte felt the inadequacy of the theological rationalism which prevailed among the scientific circles and in the Protestant ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Marco Ivaldo"
+        }
+      ],
+      "extra_snippets": [
+        "This paper presents an overview of the development of Fichte\u2019s theory of religion. Fichte felt the inadequacy of the theological rationalism which prevailed among the scientific circles and in the Protestant orthodoxy in his time.",
+        "Fichte interprete del Prologo giovanneo.Marco Ivaldo - 2011 - Annuario Filosofico 27:165-180.",
+        "Image and Freedom in Fichte\u2019s Doctrine of the State of 1813.Luciano Corsico - 2020 - Fichte-Studien 48:240-257."
+      ]
+    },
+    {
+      "title": "Klaus Viertbauer, Neuer Atheismus",
+      "url": "https://philpapers.org/rec/VIENA",
+      "philpapers_id": "VIENA",
+      "snippet": "Der sogenannte \u203aNeue Atheismus\u2039 ... \u00fcber gesellschaftliche Diskurse bis hin zu polemischen Kontroversen, deren gemeinsames Anliegen in einer Kritik an der Religion, deren ......",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Klaus Viertbauer"
+        }
+      ],
+      "extra_snippets": [
+        "Neuer Atheismus: New Atheism in Germany.Thomas Zenk - 2012 - Approaching Religion 2 (1):36-51."
+      ]
+    },
+    {
+      "title": "Fritz Medicus, Johann Gottlieb Fichte. \u2014 Reden an die deutsche Nation",
+      "url": "https://philpapers.org/rec/MEDJGF-2",
+      "philpapers_id": "MEDJGF",
+      "snippet": "Sign in | Create an account \u00b7 PhilPapers PhilPeople PhilArchive PhilEvents PhilJobs \u00b7 All new items \u00b7 Books \u00b7 Journal articles \u00b7 Manuscripts \u00b7 Topics \u00b7 All Categories \u00b7 Metaphysics and Epistemology",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Fritz Medicus"
+        }
+      ]
+    },
+    {
+      "title": "Whitley Kaufman, New Atheism and its critics",
+      "url": "https://philpapers.org/rec/KAUNAA-2",
+      "philpapers_id": "KAUNAA",
+      "snippet": "True Religion and Hume&#x27;s Practical Atheism.Paul Russell - 2021 - In Vicente Raga Rosaleny &amp; Pl\u00ednio Junqueira Smith, Sceptical Doubt and Disbelief in Modern European Thought. Cham: Springer. pp. 191-225. Disciplining Skepticism through Kant&#x27;s Critique, Fichte&#x27;s Idealism, and Hegel&#x27;s Negations.Meghant Sudan - 2021 - In Vicente Raga Rosaleny, Doubt and Disbelief in Modern European Thought.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Whitley Kaufman"
+        }
+      ],
+      "extra_snippets": [
+        "True Religion and Hume's Practical Atheism.Paul Russell - 2021 - In Vicente Raga Rosaleny & Pl\u00ednio Junqueira Smith, Sceptical Doubt and Disbelief in Modern European Thought. Cham: Springer. pp. 191-225. Disciplining Skepticism through Kant's Critique, Fichte's Idealism, and Hegel's Negations.Meghant Sudan - 2021 - In Vicente Raga Rosaleny, Doubt and Disbelief in Modern European Thought.",
+        "The New Atheism and Its Critics.Peter A.",
+        "The New Atheism and Its Critics, Volume XXXVII.Peter A. French & Howard K.",
+        "Radiacal atheism and religious power: new atheist politics.Stuart McAnulla - 2012 - Approaching Religion 2 (1):87-99."
+      ]
+    }
+  ],
+  "count": 16,
+  "errors": []
+}

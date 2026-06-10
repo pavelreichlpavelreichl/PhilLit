@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4000/ref.1614
+[verify_paper.py] DOI verified: El profesor, el teólogo y el político. Novalis fre...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4000/ref.1614"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4000/ref.1614",
+      "title": "El profesor, el te\u00f3logo y el pol\u00edtico. Novalis frente al Atheismusstreit de Fichte",
+      "authors": [
+        {
+          "family": "Napoli",
+          "given": "Santiago"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Revista de Estud(i)os sobre Fichte",
+      "volume": "21",
+      "issue": "",
+      "page": "",
+      "publisher": "OpenEdition",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4000/ref.1614"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

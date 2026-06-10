@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fichte Politics Cultural Awakening...' author=Maliks year=2025
+[verify_paper.py] Paper found: Fichte’s Politics of Cultural Awakening... (score: 46.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fichte Politics Cultural Awakening",
+    "author": "Maliks",
+    "year": 2025
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s1369415425000159",
+      "title": "Fichte\u2019s Politics of Cultural Awakening",
+      "authors": [
+        {
+          "family": "Maliks",
+          "given": "Reidar"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Kantian Review",
+      "volume": "30",
+      "issue": "1",
+      "page": "29-43",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1017/s1369415425000159",
+      "score": 46.203014
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

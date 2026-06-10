@@ -1,0 +1,58 @@
+[s2_search.py] Searching Semantic Scholar: 'James Fichte vocation scholar misuse of history' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_7d2f0873efc68f5a)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "James Fichte vocation scholar misuse of history",
+  "results": [
+    {
+      "paperId": "20c8a6d7129e3cf7729384232902bb10dcf111ba",
+      "title": "Fichte on the Vocation of the Scholar and the (Mis)use of History",
+      "authors": [
+        {
+          "name": "D. James",
+          "authorId": "145884422"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20c8a6d7129e3cf7729384232902bb10dcf111ba",
+      "venue": "",
+      "journal": {
+        "name": "Review of Metaphysics",
+        "pages": "539",
+        "volume": "63"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "76a0c14d07a04526e998afbcbcec4c47fcd7107a",
+      "title": "Fichte's Republic: Idealism, History and Nationalism",
+      "authors": [
+        {
+          "name": "D. James",
+          "authorId": "145884422"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 10,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/76a0c14d07a04526e998afbcbcec4c47fcd7107a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

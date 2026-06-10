@@ -1,0 +1,58 @@
+[s2_search.py] Searching Semantic Scholar: 'Fichte popular works doctrine of religion Bestimmung' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_fab2f06c74ba2ee6)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Fichte popular works doctrine of religion Bestimmung",
+  "results": [
+    {
+      "paperId": "a1f97fc2c698db2a73fd02453fc62b90a40cea9d",
+      "title": "Johann Gottlieb Fichte's Popular Works: The Nature of the Scholar, the Vocation of Man, the Doctrine of Religion",
+      "authors": [
+        {
+          "name": "William Smith",
+          "authorId": "153308925"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a1f97fc2c698db2a73fd02453fc62b90a40cea9d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1765dbbff39e93e8e99806247466c5a67c509b9d",
+      "title": "Two Hundred Years of Solitude: The Failed Reception of Fichte\u2019s System of Ethics",
+      "authors": [
+        {
+          "name": "G\u00fcnter Z\u00f6ller",
+          "authorId": "119919037"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.5840/PHILTODAY2008523/43",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1765dbbff39e93e8e99806247466c5a67c509b9d",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy Today",
+        "pages": "218-227",
+        "volume": "52"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

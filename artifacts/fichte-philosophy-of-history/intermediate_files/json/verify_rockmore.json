@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fichte Marx German Philosophical Tradition...' author=Rockmore year=1980
+[verify_paper.py] Paper found: Fichte, Husserl, and Philosophical Science... (score: 37.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fichte Marx German Philosophical Tradition",
+    "author": "Rockmore",
+    "year": 1980
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/ipq197919141",
+      "title": "Fichte, Husserl, and Philosophical Science",
+      "authors": [
+        {
+          "family": "Rockmore",
+          "given": "Tom"
+        },
+        {
+          "family": "Philosophy Documentation Center",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 1979,
+      "container_title": "International Philosophical Quarterly",
+      "volume": "19",
+      "issue": "1",
+      "page": "15-27",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.5840/ipq197919141",
+      "score": 37.19258
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

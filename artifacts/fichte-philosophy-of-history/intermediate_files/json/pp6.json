@@ -1,0 +1,303 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte Grundzuge Characteristics Present Age', limit=20
+[search_philpapers.py] Retrieved 18 entries...
+[search_philpapers.py] Search complete: 18 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte Grundzuge Characteristics Present Age",
+  "results": [
+    {
+      "title": "Johann Fichte, Die Grundz\u00fcge des Gegenw\u00e4rtigen Zeitalters",
+      "url": "https://philpapers.org/rec/FICDGD",
+      "philpapers_id": "FICDGD",
+      "snippet": "Herausgegeben von I. H. Fichte, Band 1-8, Berlin: Veit &amp; Comp., 1845/1846. Herausgeber der Reihe: Michael Holzinger Reihengestaltung: Viktor Harvion Gesetzt aus Minion Pro, 10 pt. ... Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... (1) Die Grundz\u00fcge des gegenw\u00e4rtigen Zeitalters, 1804.Johann Gottlieb Fichte - 1971 - In Johann G.",
+      "page_age": "2015-01-22T00:00:00",
+      "extra_snippets": [
+        "Herausgegeben von I. H. Fichte, Band 1-8, Berlin: Veit & Comp., 1845/1846. Herausgeber der Reihe: Michael Holzinger Reihengestaltung: Viktor Harvion Gesetzt aus Minion Pro, 10 pt. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... (1) Die Grundz\u00fcge des gegenw\u00e4rtigen Zeitalters, 1804.Johann Gottlieb Fichte - 1971 - In Johann G.",
+        "Ideales und Reales in der Wissenschaftslehre 1804-II. Die Logik der Apperzeption in der mittleren Wissenschaftslehre.Martin Bunte - 2022 - Fichte-Studien 51 (1):164-179.",
+        "Offene Intersubjektivit\u00e4t - nach Johann Gottlieb Fichte.Dominik Schmidig - 1996 - Perspektiven der Philosophie 22:267-283."
+      ]
+    },
+    {
+      "title": "M\u00e1rio Jorge Pereira de Almeida Carvalho, The art of endlessly taking another view",
+      "url": "https://philpapers.org/rec/CARTAO-52",
+      "philpapers_id": "CARTAO",
+      "snippet": "This paper deals with Fichte\u2019s The Characteristics of the Present Age, and in particular with his discussion of the \u201cempty form of knowledge\u201d he claims stands at the centre of the third \u2013 i.e. the present \u2013 age. Fichte speaks of a fundamental principle that forms the \u2018common denominator\u2019 between the third and fourth main epochs.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "M\u00e1rio Jorge Pereira de Almeida Carvalho"
+        }
+      ],
+      "extra_snippets": [
+        "This paper deals with Fichte\u2019s The Characteristics of the Present Age, and in particular with his discussion of the \u201cempty form of knowledge\u201d he claims stands at the centre of the third \u2013 i.e. the present \u2013 age. Fichte speaks of a fundamental principle that forms the \u2018common denominator\u2019 between the third and fourth main epochs.",
+        "Intuition and Comprehension: Productive Imagination in Fichte and Goethe.Gerad Gentry, Mattias Pirholt & Camilla Flodin - 2024 - In Gerad Gentry, Mattias Pirholt & Camilla Flodin, Art, Nature, and Self-Formation in the Age of Goethe. Berlin, Boston: De Gruyter.",
+        "This fundamental principle \u2013 the \u201cmaxim of comprehensibility\u201d \u2013 makes knowledge and comprehension the measure of all that \u201ccounts as being valid and as really existing\u201d. But the question arises: How can one and the same principle act as the \u201cunifying concept\u201d for two different \u201cmain epochs of human life\u201d? Does this not go directly against Fichte\u2019s claim that two main epochs differ from each other in every respect, precisely because they arise from two entirely different \u201cunifying principles\u201d, and because everything in them must reflect the difference between their \u201c",
+        "Special attention is paid to the question of whether and how some major features of Fichte\u2019s \u201cempty form of knowledge\u201d result from a misguided and superficial understanding of Kant\u2019s \u201cmaxims of the self-preservation of reason\u201d and can be reconstructed from this vantage point."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Characteristics of the Present Age: The Way Towards the Blessed Life Or, the Doctrine of Religion",
+      "url": "https://philpapers.org/rec/FICCOT",
+      "philpapers_id": "FICCOT",
+      "snippet": "Johann Gottlieb Fichte&#x27;s Popular Works the Nature of the Scholar, the Vocation of Man, the Doctrine of Religion.Johann Gottlieb Fichte &amp; William Smith - 1873 - Tr\u00fcbner.",
+      "page_age": null,
+      "extra_snippets": [
+        "Johann Gottlieb Fichte's Popular Works the Nature of the Scholar, the Vocation of Man, the Doctrine of Religion.Johann Gottlieb Fichte & William Smith - 1873 - Tr\u00fcbner.",
+        "Johann Gottlieb Fichte.Peter Rohs - 1992 - Tijdschrift Voor Filosofie 54 (1):158-158.",
+        "Johann Gottlieb Fichte.Curtis Bowman - 2001 - Internet Encyclopedia of Philosophy.",
+        "Johann Gottlieb Fichte.Yolanda D. Estes - 2009 - In Graham Oppy & Nick Trakakis (eds.), Medieval Philosophy of Religion: The History of Western Philosophy of Religion, Volume 2. Routledge. pp."
+      ]
+    },
+    {
+      "title": "Richard Findler, Why be witty? Fichte and Kant on the nature of wit with a view to wit's political ramifications",
+      "url": "https://philpapers.org/rec/FINWBW",
+      "philpapers_id": "FINWBW",
+      "snippet": "In a brief section of The Characteristics of the Present Age, Fichte presents one of the strangest ideas to have arisen in transcendental thought: that wit is related to what Fichte calls the highest idea and to truth. The concept of wit does not arise anywhere else in Fichte&#x27;s philosophy, and he does not analyze it completely in either The Characteristics of the Present Age or his philosophical texts.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Richard Findler"
+        }
+      ],
+      "extra_snippets": [
+        "In a brief section of The Characteristics of the Present Age, Fichte presents one of the strangest ideas to have arisen in transcendental thought: that wit is related to what Fichte calls the highest idea and to truth. The concept of wit does not arise anywhere else in Fichte's philosophy, and he does not analyze it completely in either The Characteristics of the Present Age or his philosophical texts.",
+        "Fichte's Interpretation of Kant; a Starting Point for Transcendental Philosophy as a System.Zong Laixian - 1998 - Philosophy and Culture 25 (5):438-450.",
+        "Was ist die Einheit des Absoluten? Fichtes Kant-Kritik und sein Anspruch als Transzendentalphilosoph in der Wissenschaftslehre 1804.Fridolin Neumann - 2023 - Fichte-Studien 52 (2):503-522.",
+        "Fichte and Kant on Reason\u2019s Final Ends and Highest Ideas.Steven Hoeltzel - 2018 - Revista de Estudios Sobre Fichte 16."
+      ]
+    },
+    {
+      "title": "Franz Knappik, Kant, Schopenhauer und Fichte \u00fcber unser Wissen von unseren k\u00f6rperlichen Handlungen",
+      "url": "https://philpapers.org/rec/KNAKSU",
+      "philpapers_id": "KNAKSU",
+      "snippet": "According to a view, which is common both in contemporary philosophy and in the history of philosophy, we possess a particular epistemic access to our own present intentional actions. This article examines accounts of this access, which have been put forward in Classical German Philosophy. After a short survey of the relevant Kantian background I discuss the positions that Schopenhauer and Fichte have proposed in this regard.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Franz Knappik"
+        }
+      ],
+      "extra_snippets": [
+        "According to a view, which is common both in contemporary philosophy and in the history of philosophy, we possess a particular epistemic access to our own present intentional actions. This article examines accounts of this access, which have been put forward in Classical German Philosophy. After a short survey of the relevant Kantian background I discuss the positions that Schopenhauer and Fichte have proposed in this regard.",
+        "Sehns\u00fcchtiges Sein.Christian Lotz - 2003 - Fichte-Studien 22 (1):155-169. Die Grundz\u00fcge der Moral in der zweiten Auflage der Offenbarungskritik Fichtes (1793).Graziella Rotta - 1997 - Fichte-Studien 11 (1):135-146.",
+        "Fichte\u2019s Moral Psychology of Drives and Feelings and its Influence on Schopenhauer\u2019s Metaphysics of the Will.Manja Kisner - 2019 - In Dina Emundts & Sally Sedgwick, Psychologie. Berlin, Boston: De Gruyter. pp. 105-124. ... Practical knowledge.Kieran Setiya - 2008 - Ethics 118 (3):388-409. Intention and Uncertainty.H. P. Grice - 1971 - Proceedings of the British Academy 57:263-279. Vicarious Agency: Experiencing Control Over the Movements of Others.Daniel M.",
+        "Dieser Beitrag untersucht Ans\u00e4tze, die innerhalb der Klassischen Deutschen Philosophie zur Deutung dieses Zugangs entwickelt wurden. Nach einer kurzen Diskussion des relevanten Kantischen Hintergrunds (1.) wende ich mich Schopenhauers (2.) und Fichtes (3.) einschl\u00e4gigen Positionen zu."
+      ]
+    },
+    {
+      "title": "Jean-Christophe Goddard & Marc Maesschalck, Fichte: la philosophie de la maturit\u00e9 (1804-1814) : r\u00e9flexivit\u00e9, ph\u00e9nom\u00e9nologie et philosophie",
+      "url": "https://philpapers.org/rec/GODFLP",
+      "philpapers_id": "GODFLP",
+      "snippet": "L&#x27;interet de la recherche internationale pour la derniere philosophie de Fichte n&#x27;a cesse de croitre. C&#x27;est dans cette dynamique de decouverte et d&#x27;enrichissement que s&#x27;inscrit le present volume, qui non seulement offre une interpretation originale des principaux moments speculatifs et systematiques de la derniere periode (les exposes de la Doctrine de la science de 1804, 1810, 1811, 1812 et 1813), mais exploite egalement les textes des tout derniers manuscrits (1814) du journal philosophique de Fichte encore inedits (le Diarium).",
+      "page_age": null,
+      "extra_snippets": [
+        "L'interet de la recherche internationale pour la derniere philosophie de Fichte n'a cesse de croitre. C'est dans cette dynamique de decouverte et d'enrichissement que s'inscrit le present volume, qui non seulement offre une interpretation originale des principaux moments speculatifs et systematiques de la derniere periode (les exposes de la Doctrine de la science de 1804, 1810, 1811, 1812 et 1813), mais exploite egalement les textes des tout derniers manuscrits (1814) du journal philosophique de Fichte encore inedits (le Diarium).",
+        "Dans une premiere partie ont ete rassembles les articles traitant des questions fondamentales de la periode de Berlin: le rapport de l'ontologie et du transcendantalisme, de l'absolu et du phenomene, l'essence de la manifestation, la doctrine de l'image, la theorie de la reflexivite. Une seconde partie eclaire trois des grands aspects de la philosophie appliquee de Fichte dans cette meme periode: la theorie de la religion, de l'Etat et de l'education.",
+        "Enfin, une troisieme partie rassemble les textes qui articulent et confrontent la demarche speculative et phenomenologique du dernier Fichte aux traditions philosophiques contemporaines que sont l'hegelianisme, le perspectivisme nietzscheen, la phenomenologie husserlienne, le cognitivisme.",
+        "Les sources du concept ficht\u00e9en de ph\u00e9nom\u00e9nologie dans la Doctrine de la science de 1804.Claude Pich\u00e9 - 2007 - Laval Th\u00e9ologique et Philosophique 63 (1):7-20."
+      ]
+    },
+    {
+      "title": "Gaetano Rametta, Fichte, Henry, and the Problem of Manifestation",
+      "url": "https://philpapers.org/rec/RAMFHA",
+      "philpapers_id": "RAMFHA",
+      "snippet": "Fichte in 1804: A Radical Phenomenology of Life? On a Possible Comparison Between the 1804 Wissenschaftslehre and Michel Henry&#x27;s Phenomenology. [REVIEW]Fr\u00e9d\u00e9ric Seyler - 2014 - Journal of Speculative Philosophy 28 (3):295-304. Michel Henry between Krisis and Critique: Philosophy in the Age of Barbarism.Carla Canullo - 2016 - Analecta Hermeneutica 8.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gaetano Rametta"
+        }
+      ],
+      "extra_snippets": [
+        "Fichte in 1804: A Radical Phenomenology of Life? On a Possible Comparison Between the 1804 Wissenschaftslehre and Michel Henry's Phenomenology. [REVIEW]Fr\u00e9d\u00e9ric Seyler - 2014 - Journal of Speculative Philosophy 28 (3):295-304. Michel Henry between Krisis and Critique: Philosophy in the Age of Barbarism.Carla Canullo - 2016 - Analecta Hermeneutica 8.",
+        "Finally, I will evaluate Henry\u2019s interpretation in terms of its relevance to the fundamental characteristics of Fichte\u2019s transcendental philosophy.",
+        "1 Indeed, it accompanies one of the most important passages of the entire volume, which establishes the definition of philosophical monism as the dominant tradition of Western thought.2 In order to understand what is at stake in this interpretation it will thus be necessary to place it in the wider context of Henry\u2019s argumentation. Once we have illustrated the principal characteristics of philosophical monism, we will be able to analyze the role that Fichte played in its development in greater detail."
+      ]
+    },
+    {
+      "title": "G\u00fcnter Z\u00f6ller, Libert\u00e9, \u00c9galit\u00e9, Fraternit\u00e9",
+      "url": "https://philpapers.org/rec/ZLLLGF-2",
+      "philpapers_id": "ZLLLGF",
+      "snippet": "Der abschliesende Abschnitt behandelt die mediale und transitorische Stellung und Funktion des Politischen bei Fichte, fur den der Staat niemals Selbstzweck und immer nur Mittel zum Zweck ist.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G\u00fcnter Z\u00f6ller"
+        }
+      ],
+      "extra_snippets": [
+        "The second section further investigates the political character of Fichte\u2019s philosophy by recourse to the triple motto of the French Revolution \u2013 \u201eLiberty, Equality, Fraternity\u201d \u2013 and its correlation with Fichte\u2019s trinity of \u201eI\u201d, \u201eYou\u201d and \u201eWe\u201c. The final section addresses the mediating and transitional role and function of the political in Fichte, for whom the state is not a final end but always only a means.",
+        "Der zweite Abschnitt verfolgt die politische Pragung von Fichtes Philosophieren im Ruckgriff auf das triplizitare Motto der Franzosischen Revolution \u2013 \u201eLiberte, Egalite, Fraternite\u201c \u2013, dem die Fichtesche Triade von \u201eIch\u201c, \u201eDu\u201c und \u201eWir\u201c zugeordnet wird.",
+        "Der Beitrag mochte J. G. Fichte als politischen Denker von europaischem Format vergegenwartigen. Zu diesen Zweck exponiert der erste Abschnitt den politischen Grundzug von Fichtes Philosophieren.",
+        "Der abschliesende Abschnitt behandelt die mediale und transitorische Stellung und Funktion des Politischen bei Fichte, fur den der Staat niemals Selbstzweck und immer nur Mittel zum Zweck ist."
+      ]
+    },
+    {
+      "title": "Jens Lemanski, Techniques of Bridging the Gulf: Dialectic and Reductionism in McDowell and Fichte",
+      "url": "https://philpapers.org/rec/LEMTOB",
+      "philpapers_id": "LEMTOB",
+      "snippet": "\u201cDialectic\u201d has been a matter of growing interest in contemporary philosophy. The present article analyzes dialectical methods and positions them by reference to two paradigmatic texts of German idealism and analytic philosophy, i.e. J.G. Fichte\u2019s Science of Knowing (1804) and J.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Jens Lemanski"
+        }
+      ],
+      "extra_snippets": [
+        "\u201cDialectic\u201d has been a matter of growing interest in contemporary philosophy. The present article analyzes dialectical methods and positions them by reference to two paradigmatic texts of German idealism and analytic philosophy, i.e. J.G. Fichte\u2019s Science of Knowing (1804) and J.",
+        "I will argue that for McDowell dialectic seems to be an alternative to one-sided reductionisms as well as to normal anti-reductionistic holism. Furthermore, for Fichte dialectic is an adequate method for describing the relationship of reductionism and anti-reductionism itself."
+      ]
+    },
+    {
+      "title": "Erich Fuchs, Fichte: A Sytem of Freedom? Biographical-philosophical Reflections",
+      "url": "https://philpapers.org/rec/FUCF",
+      "philpapers_id": "FUCF",
+      "snippet": "In an analysis of Fichte\u2019s theoretical reflections read in the light of decisive biographical events, the present paper examines the following question: to what extent are we to assent to Fichte\u2019s own assertion that his system is from the very outset a system of freedom?",
+      "page_age": "2012-09-18T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Erich Fuchs"
+        }
+      ],
+      "extra_snippets": [
+        "In an analysis of Fichte\u2019s theoretical reflections read in the light of decisive biographical events, the present paper examines the following question: to what extent are we to assent to Fichte\u2019s own assertion that his system is from the very outset a system of freedom?",
+        "In reaction to both Jacobi and Schelling, Fichte\u2019s philosophical and political investigations pursue at once the problem of grounding the \u201cAbsolute\u201d and the relationship between individual freedom and reason as a whole.\u2014These tensions are especially visible in Fichte\u2019s path from the Addresses To the German Nation to the virtually unknown \u201cPhilosophical Diaries\u201d of the final days of his life.",
+        "Drive and Will in Fichte\u2019s System of Ethics.Manja Kisner - 2020 - In Manja Kisner & J\u00f6rg Noller, The Concept of Will in Classical German Philosophy: Between Ethics, Politics, and Metaphysics. Berlin, Boston: De Gruyter.",
+        "Fichte.Erich Fuchs - 2011 - Idealistic Studies 41 (1-2):113-123."
+      ]
+    },
+    {
+      "title": "Gabriel Gottlieb (ed.), Fichte's Foundations of Natural Right: A Critical Guide",
+      "url": "https://philpapers.org/rec/GOTFFO",
+      "philpapers_id": "GOTFFO",
+      "snippet": "They offer discussions of Fichte&#x27;s conception of freedom, self-consciousness, coercion, the summons, the body, and human rights, together with new analyses of his deduction of right, his views on the social contract, and his arguments for the ...",
+      "page_age": null,
+      "extra_snippets": [
+        "They offer discussions of Fichte's conception of freedom, self-consciousness, coercion, the summons, the body, and human rights, together with new analyses of his deduction of right, his views on the social contract, and his arguments for the separation of right from morality.",
+        "The essays expand and deepen ongoing debates in the scholarship and chart new avenues of thought about Fichte's most enduring work of political philosophy.",
+        "Fichte's transcendental deduction of private property.W.",
+        "Fichte's Developmental View of Self-Consciousness.Gabriel Gottlieb - 2016 - In Fichte's Foundations of Natural Right: A Critical Guide."
+      ]
+    },
+    {
+      "title": "Plato Tse, What Kant Should Have Said About Fichte (But Did Not)",
+      "url": "https://philpapers.org/rec/TSEWKS",
+      "philpapers_id": "TSEWKS",
+      "snippet": "Was ist die Einheit des Absoluten? Fichtes Kant-Kritik und sein Anspruch als Transzendentalphilosoph in der Wissenschaftslehre 1804.Fridolin Neumann - 2023 - Fichte-Studien 52 (2):503-522.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Plato Tse"
+        }
+      ],
+      "extra_snippets": [
+        "What philosophical reasons are there that could ground Kant\u2019s Declaration in 1799 against Fichte\u2019s Doctrine of Science? To answer this question, the present paper reconstructs what Kant could have said but did not.",
+        "Was ist die Einheit des Absoluten? Fichtes Kant-Kritik und sein Anspruch als Transzendentalphilosoph in der Wissenschaftslehre 1804.Fridolin Neumann - 2023 - Fichte-Studien 52 (2):503-522.",
+        "The Precursor as Rival: Fichte in Relation to Kant.G\u00fcnter Z\u00f6ller - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Palgrave Macmillan.",
+        "Fichte's Interpretation of Kant; a Starting Point for Transcendental Philosophy as a System.Zong Laixian - 1998 - Philosophy and Culture 25 (5):438-450."
+      ]
+    },
+    {
+      "title": "Erich Fuchs, Fichte the founder of german nationalism?: Contribution to the understanding of the Reden an die deutsche nation",
+      "url": "https://philpapers.org/rec/FUCFTF",
+      "philpapers_id": "FUCFTF",
+      "snippet": "Fichte, the Enlightenment and cosmopolitan thinker, was therefore transformed in Fichte the Prussian nationalist, originating a die-hard prejudice. In fact, the educational project outlined in the Reden can be fully understood only if they are placed in the context of Fichte\u2019s overall transcendental system.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Erich Fuchs"
+        }
+      ],
+      "extra_snippets": [
+        "Written and delivered with the purpose of promoting the German spiritual and political re-birth after the defeat of Prussia at Jena, then put aside in the years of the Restoration and the Holy Alliance, Fichte\u2019s Reden were interpreted on a nationalist key during the Bismarckian Reich.",
+        "Fichte, the Enlightenment and cosmopolitan thinker, was therefore transformed in Fichte the Prussian nationalist, originating a die-hard prejudice. In fact, the educational project outlined in the Reden can be fully understood only if they are placed in the context of Fichte\u2019s overall transcendental system.",
+        "Germanness and Judaism in Fichte\u2019s Reden an die deutsche Nation.Jo\u00ebl Ben-Yehoshua - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):101-116.",
+        "Mythos Fichte: Die Reden an die deutsche Nation als universalistischer Appell.Klaus Ries - 2018 - Fichte-Studien 45 (1):242-266."
+      ]
+    },
+    {
+      "title": "Mar\u00eda Jimena Sol\u00e9 & Elizabeth Mill\u00e1n Brusslan (eds.), Fichte in the Americas",
+      "url": "https://philpapers.org/rec/SOLFIT",
+      "philpapers_id": "SOLFIT",
+      "snippet": "The Reception, development, and application of J.G. Fichte&#x27;s account of gender, marriage, and family in the Americas.Yolanda Estes",
+      "page_age": null,
+      "extra_snippets": [
+        "The Reception, development, and application of J.G. Fichte's account of gender, marriage, and family in the Americas.Yolanda Estes",
+        "Triple Fichtean revolution : notes to a freer Latin-American thinking.Thiago S.",
+        "Fichte in the Americas.Mari\u0301a Jimena Sole\u0301 & Elizabeth Milla\u0301n (eds.) - 2023 - Boston: Brill.",
+        "M. Gaudio et al. (eds.). Fichte en las Am\u00e9ricas || E. Bernini, El m\u00e9todo Rousseau || V. Dahbar, Otras figuraciones || F. D\u00edez et al."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Science of knowledge ; with the First and Second introductions",
+      "url": "https://philpapers.org/rec/FICSOK",
+      "philpapers_id": "FICSOK",
+      "snippet": "Fichte: The Self and the Calling of Philosophy, 1762\u20131799.Anthony J.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "Science of Knowledge with the First and Second Introductions, Edited and Translated by Peter Heath [and] John Lachs. --.Johann Gottlieb Fichte, Peter Lauchlan Heath & John jt ed Lachs - 1970 - Appleton-Century-Crofts.",
+        "The Cambridge Companion to Fichte.David James & G\u00fcnter Z\u00f6ller (eds.) - 2016 - Cambridge, United Kingdom: Cambridge University Press.",
+        "Fichte: The Self and the Calling of Philosophy, 1762\u20131799.Anthony J.",
+        "Fichte's Science of Knowledge a Critical Exposition.Charles Carroll Everett - 1892 - S."
+      ]
+    },
+    {
+      "title": "Erich Fuchs, Fichte",
+      "url": "https://philpapers.org/rec/FUCFAS",
+      "philpapers_id": "FUCFAS",
+      "snippet": "In an analysis of Fichte\u2019s theoretical reflections read in the light of decisive biographical events, the present paper examines the following question: to what extent are we to assent to Fichte\u2019s own assertion that his system is from the very outset a system of freedom?",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Erich Fuchs"
+        }
+      ],
+      "extra_snippets": [
+        "In an analysis of Fichte\u2019s theoretical reflections read in the light of decisive biographical events, the present paper examines the following question: to what extent are we to assent to Fichte\u2019s own assertion that his system is from the very outset a system of freedom?",
+        "Fichte's transcendental phenomenology of agency.Wayne Martin - unknown",
+        "In reaction to both Jacobi and Schelling, Fichte\u2019s philosophical and political investigations pursue at once the problem of grounding the \u201cAbsolute\u201d and the relationship between individual freedom and reason as a whole.\u2014These tensions are especially visible in Fichte\u2019s path from the Addresses To the German Nation to the virtually unknown \u201cPhilosophical Diaries\u201d of the final days of his life.",
+        "Fichte.Erich Fuchs - 2011 - Idealistic Studies 41 (1-2):113-123."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), New essays in Fichte's Foundation of the entire doctrine of scientific knowledge",
+      "url": "https://philpapers.org/rec/BRENEI",
+      "philpapers_id": "BRENEI",
+      "snippet": "Fichte&#x27;s Grundlage is an audaciously original effort to recast the Kantian philosophy into a full-blown system of &quot;transcendental idealism.&quot; Rejecting all reference to &quot;things in themselves,&quot; Fichte described his work as &quot;the first philosophy of human freedom&quot; and as a faithful expression of the true &quot;spirit&quot; of Kant&#x27;s critical philosophy.",
+      "page_age": null,
+      "extra_snippets": [
+        "This collection of 13 essays on the philosophy of Johann Gottlieb Fichte is the first volume in English to focus upon Fichte's most celebrated and influential philosophical text, his Grundlage der gesamten Wissenschaftslehre (\"Foundation of the Entire Doctrine of Scientific Knowledge\").",
+        "Fichte's Grundlage is an audaciously original effort to recast the Kantian philosophy into a full-blown system of \"transcendental idealism.\" Rejecting all reference to \"things in themselves,\" Fichte described his work as \"the first philosophy of human freedom\" and as a faithful expression of the true \"spirit\" of Kant's critical philosophy.",
+        "Most of the essays in this collection address specific themes and problems in the context of the Grundlage, such as imagination, time, representation, reflection, deduction, and transcendental methodology. Others examine the relationship of Fichte's philosophy to Kant's and the influence of the Grundlage upon such philosophers as Jacobi, Schelling, and Hegel.",
+        "Collectively, these essays constitute an ideal introduction to the reading of Fichte's notoriously difficult but deeply rewarding work."
+      ]
+    },
+    {
+      "title": "Alexis Philonenko, La Liberte\u0301 humaine dans la philosophie de Fichte",
+      "url": "https://philpapers.org/rec/PHILLH",
+      "philpapers_id": "PHILLH",
+      "snippet": "Le present travail est essentiellement consacre a l&#x27;interpretation de l&#x27;ouvrage qui constitue le coeur de la premiere philosophie de Fichte, le Grundlage der gesamten Wissenschafteslehre (1794). Les problemes consideres sont divers et nombreux; le probleme de la connaissance notamment est etudie d&#x27;une maniere detaillee et occupe une place importante.",
+      "page_age": null,
+      "extra_snippets": [
+        "Le present travail est essentiellement consacre a l'interpretation de l'ouvrage qui constitue le coeur de la premiere philosophie de Fichte, le Grundlage der gesamten Wissenschafteslehre (1794). Les problemes consideres sont divers et nombreux; le probleme de la connaissance notamment est etudie d'une maniere detaillee et occupe une place importante.",
+        "En effet, ce qui caracterise la philosophie fichteenne de la vie est que tous les problemes qu'elle examine et surtout le probleme de la connaissance debouchent sur une certaine conception de la liberte humaine. Ainsi la theorie du savoir n'est en verite qu'une theorie de la liberte. Fichte lui-meme definissait ainsi sa philosophie: Mon systeme, du debut a la fin, n'est qu'une analyse du concept de la liberte.",
+        "Fichte: le moi et la liberte\u0301.Jean-Christophe Goddard (ed.) - 2000 - Paris: Presses universitaires de France.",
+        "Fichte: la philosophie pratique.Max Marcuzzi (ed.) - 2008 - Aix-en-Provence: Publications de l'Universite\u0301 de Provence."
+      ]
+    }
+  ],
+  "count": 18,
+  "errors": []
+}

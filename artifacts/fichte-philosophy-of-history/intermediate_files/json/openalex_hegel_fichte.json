@@ -1,0 +1,944 @@
+[search_openalex.py] Searching OpenAlex: 'Hegel critique Fichte forerunner historical spirit', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_072ca1d3664bf572)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Hegel critique Fichte forerunner historical spirit",
+  "results": [
+    {
+      "openalex_id": "W2767975435",
+      "doi": null,
+      "title": "Hegel on Indian Philosophy: Spinozism, Romanticism, Eurocentrism",
+      "authors": [
+        {
+          "name": "Gino Signoracci",
+          "openalex_id": "A5086093277"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "This study examines nineteenth-century German philosopher G.W.F. Hegel\u2019s appraisal of philosophies of India. In Hegel\u2019s time, classical Indian texts such as the Vedas, Upani\u1e63ads, and Bhagavadg\u012bt\u0101 had only recently been translated into European languages, and were generating tremendous controversy. Hegel carved out a unique and hugely influential position by devotedly reading fledgling translations of source texts alongside European interpretations, attempting to comprehend the philosophical significance of Indian thought. Hegel\u2019s legacy proved deeply problematic, however, both because his views were not entirely consistent or unambiguous over time, and because his evident relegation of Indian ideas to pre- or unphilosophical status became the dominant practice among Europeans and Westerners through the twentieth century even while Hegel\u2019s star, relatively speaking, went into a period of decline. While Hegel spent much more time and space discussing Indian philosophy in detail than did many philosophers who succeeded him in Europe and elsewhere, today his philosophy is too-frequently either reflexively labeled Eurocentric to legitimize ignoring or summarily dismissing it, or studied and written about exclusively in the context of \u201cWestern\u201d ideas as if India were of little or no serious concern to him. This work first situates Hegel\u2019s interest in and attention to Indian ideas in the context of the philosophical trends of Spinozism and Romanticism that he sought to navigate from his earliest forays into theology and philosophy. It then interrogates his analyses and judgments of Indian philosophical systems over the course of his career, revealing the increasing depth and innovation in his engagement with India over time while also critiquing his readings of Indian texts and his characterizations of Indian thought and culture. In doing so, it endeavors to supply the complete account of Hegel\u2019s approach to Indian philosophy in its full complexity.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "UNM\u2019s Digital Repository (University of New Mexico)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1022&context=phil_etds"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Indian History and Philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767975435"
+    },
+    {
+      "openalex_id": "W2765156528",
+      "doi": "10.1353/pew.2017.0098",
+      "title": "Swami Vivekananda's Ved\u0101ntic Critique of Schopenhauer's Doctrine of the Will",
+      "authors": [
+        {
+          "name": "Ayon Maharaj",
+          "openalex_id": "A5027771348",
+          "orcid": "https://orcid.org/0000-0002-8395-8446",
+          "institutions": [
+            "Ramakrishna Mission Vivekananda Educational and Research Institute"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Recently, there has been a burgeoning of interest in the relationship between Schopenhauer's philosophy and Indian thought. Deussen, thoroughly trained in both indology and Western philosophy, was the first to bring Schopenhauer's philosophy into dialogue with Indian thought, especially Vedntic philosophy. Hecker, drawing on Deussen's work, wrote Schopenhauer und die indische Philosophie (1897), the first book-length comparison of Schopenhauer's philosophy and the philosophies of Vednta and Buddhism.",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Philosophy East and West",
+        "type": "journal",
+        "issn": [
+          "0031-8221",
+          "1529-1898"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/5/article/674000"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy, Ethics, and Existentialism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2765156528"
+    },
+    {
+      "openalex_id": "W2994092906",
+      "doi": null,
+      "title": "Neutrosophy, A New Branch of Philosophy",
+      "authors": [
+        {
+          "name": "Florent\u00edn Smarandache",
+          "openalex_id": "A5012703845",
+          "orcid": "https://orcid.org/0000-0002-5560-5926"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "In this paper is presented a new branch of philosophy, called neutrosphy, which studies the origin, nature, and scope of neutralities, as well as their interactions with different ideational spectra. The Fundamental Thesis: Any idea is T% true, I% indeterminate, and F% false, - where T, I, F are standard or non-standard subsets included in ]0-, 1+[. The Fundamental Theory: Every idea tends to be neutralized, diminished, balanced by ideas (not only , as Hegel asserted) - as a state of equilibrium. Neutrosophy is the base of neutrosophic logic, a multiple value logic that generalizes the fuzzy logic, of neutrosophic set that generalizes the fuzzy set, and of neutrosphic probability and neutrosophic statistics, which generalize the classical and imprecise probability and statistics respectively.",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "UNM\u2019s Digital Repository (University of New Mexico)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalrepository.unm.edu/math_fsp/24"
+      },
+      "topics": [
+        "Cognitive Science and Mapping",
+        "Advanced Mathematical Theories"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2994092906"
+    },
+    {
+      "openalex_id": "W4301490982",
+      "doi": "10.1515/9781503621633-001",
+      "title": "Foreword",
+      "authors": [
+        {
+          "name": "David \u0395. Wellbery",
+          "openalex_id": "A5043580155",
+          "orcid": "https://orcid.org/0000-0002-3514-1917"
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-06-01",
+      "abstract": "Fashion, Georg Simmel once remarked, is distinguished from history by the fact that its changes are without substance. Whether ties are thick or thin, collars loose or buttoned down, sets no preconditions for subsequent development except for the empty or nonsubstantial one that what follows be different. Alterations of fashion are without consequence, mere signals of the new, empty of emergence. The remark is a sort of ideological crystal that assembles the tacit axiology of our fashion talksurface versus depth, sign versus meaning, semblance versus seriousness, repetition versus growth-into symmetrically juxtaposed facets. It miniaturizes a code, reduces the already said, the already thought, the always already known, to the bounded framework of a sentence. Hence its evidentiary force, its effect of perceptual immediacy.",
+      "cited_by_count": 55,
+      "type": "book-chapter",
+      "source": {
+        "name": "Stanford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9781503621633-001/pdf"
+      },
+      "topics": [
+        "Weber, Simmel, Sociological Theory",
+        "Fashion and Cultural Textiles",
+        "Decadence, Literature, and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4301490982"
+    },
+    {
+      "openalex_id": "W2920208133",
+      "doi": "10.1007/s11212-019-09319-4",
+      "title": "\u2018Strike out, right and left!\u2019: a conceptual-historical analysis of 1860s Russian nihilism and its notion of negation",
+      "authors": [
+        {
+          "name": "Kristian Petrov",
+          "openalex_id": "A5112846708",
+          "institutions": [
+            "Karlstad University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-04",
+      "abstract": "The aim of this essay is to synthesize as well as to analyze the conceptual evolution of 1860s Russian nihilism in general and its notion of negation in particular. The fictitious characters that traditionally have been informing the popular notion of \u201cRussian nihilism\u201d mainly refer to an antinihilistic genre. By analyzing nihilism also on the basis of primary sources, the antinihilistic notion of nihilism is nuanced, enabling a more comprehensive analysis of the movement\u2019s different aspects. In some instances, Russian nihilism has been taken out of context and portrayed as a monolith; its pursuit of \u201cnegation\u201d interpreted literally. In this essay, a dialectical relation emerges, between affirmation and negation on the one hand as well as between the nihilist \u201cchildren\u201d and their idealist \u201cfathers\u201d on the other. Despite its radical stance, nihilism consists of a reconciliation of opposites. Although nihilists fought for autonomy, revolution and a new society, the movement was ironically stuck in a continuous negation of its inspirers and forerunners.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-019-09319-4.pdf"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Vladimir Nabokov Literary Studies",
+        "Philosophical and Historical Studies"
+      ],
+      "referenced_works_count": 59,
+      "url": "https://openalex.org/W2920208133"
+    },
+    {
+      "openalex_id": "W3117008337",
+      "doi": "10.18778/2084-140x.10.12",
+      "title": "Historical Master Narratives and the Master Narrative of the Bulgarian Middle Ages",
+      "authors": [
+        {
+          "name": "Roumen Daskalov",
+          "openalex_id": "A5065831780",
+          "orcid": "https://orcid.org/0000-0001-7136-0001",
+          "institutions": [
+            "New Bulgarian University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-23",
+      "abstract": "The article is a brief and schematic presentation of the notion of a \u201cmaster narrative\u201d and of the master narrative of the Bulgarian Middle Ages, which is the subject a detailed book of mine in Bulgarian. This master narrative was constructed starting with what is known as \u201cRomantic\u201d historiography (from Monk Paisij\u2019s \u201cIstorija Slavjanobolgarskaja\u201d [Slavonic-Bulgarian History] in 1762 to Vasil Aprilov\u2019s writings in the first half of the nineteenth century) but it was elaborated especially with the development of \u201cscientific\u201d (or critical) historiography first by Marin Drinov (1838\u20131906) and mainly by the most significant Bulgarian historians from the \u201cbourgeois\u201d era: Vasil Zlatarski (1866\u20131935), Pet\u0103r Mutaf\u010diev (1883\u20131943), and Pet\u0103r Nikov (1884\u20131938). Then it was interrupted by the (crude) Marxist counter-narrative of the late 1940s through the 1960s. Starting in the late 1960s there was a gradual return to the nationalism of the master national narrative, which reached a peak with the celebration of the 1,300th anniversary of the founding of the Bulgarian state in 1981. The same line continued after 1989 (stripped of the Marxist vulgata), yet some new tendencies appeared.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Studia Ceranea Journal of the Waldemar Ceran Research Centre for the History and Culture of the Mediterranean Area and South-East Europe",
+        "type": "journal",
+        "issn": [
+          "2084-140X",
+          "2449-8378"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://czasopisma.uni.lodz.pl/sceranea/article/download/8969/8781"
+      },
+      "topics": [
+        "Philippine History and Culture",
+        "Balkans: History, Politics, Society",
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W3117008337"
+    },
+    {
+      "openalex_id": "W4379033154",
+      "doi": "10.1007/978-3-031-27345-2",
+      "title": "The Palgrave Handbook of German Idealism and Poststructuralism",
+      "authors": [
+        {
+          "name": "Tilottama Rajan",
+          "openalex_id": "A5112460993",
+          "institutions": [
+            "Western University"
+          ]
+        },
+        {
+          "name": "Daniel Whistler",
+          "openalex_id": "A5041927597",
+          "orcid": "https://orcid.org/0000-0002-8662-3211",
+          "institutions": [
+            "Royal Holloway University of London"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "book",
+      "source": {
+        "name": "Palgrave handbooks in German idealism",
+        "type": "book series",
+        "issn": [
+          "2634-6230",
+          "2634-6249"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-27345-2/1?pdf=chapter%20toc"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophy and Historical Thought",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4379033154"
+    },
+    {
+      "openalex_id": "W2046170942",
+      "doi": "10.1017/s026988971400026x",
+      "title": "Hermann von Helmholtz's Empirico-Transcendentalism Reconsidered: Construction and Constitution in Helmholtz's Psychology of the Object",
+      "authors": [
+        {
+          "name": "Liesbet De Kock",
+          "openalex_id": "A5075223764",
+          "orcid": "https://orcid.org/0000-0003-3717-4517",
+          "institutions": [
+            "Ghent University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-11-13",
+      "abstract": "This paper aims at contributing to the ongoing efforts to get a firmer grasp of the systematic significance of the entanglement of idealism and empiricism in Helmholtz's work. Contrary to existing analyses, however, the focal point of the present exposition is Helmholtz's attempt to articulate a psychological account of objectification. Helmholtz's motive, as well as his solution to the problem of the object are outlined, and interpreted against the background of his scientific practice on the one hand, and that of empiricist and (transcendental) idealist analyses of experience on the other. The specifically psychological angle taken, not only prompts us to consider figures who have hitherto been treated as having only minor import for Helmholtz interpretation (most importantly J.S. Mill and J.G. Fichte), it furthermore sheds new light on some central tenets of the latter's psychological stance that have hitherto remained underappreciated. For one thing, this analysis reveals an explicit voluntarist tendency in Helmholtz's psychological theory. In conclusion, it is argued that the systematic significance of Helmholtz's empirico-transcendentalism with respect to questions of the mind is best understood as an attempt to found his empirical theory of perception in a second order, normative account of epistemic subjectivity.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Science in Context",
+        "type": "journal",
+        "issn": [
+          "0269-8897",
+          "1474-0664"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D8120A064C72A7AEACD0627D04A8FA3E/S026988971400026Xa.pdf/div-class-title-hermann-von-helmholtz-s-empirico-transcendentalism-reconsidered-construction-and-constitution-in-helmholtz-s-psychology-of-the-object-div.pdf"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Historical Philosophy and Science",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W2046170942"
+    },
+    {
+      "openalex_id": "W4386621241",
+      "doi": "10.4324/9781003376088",
+      "title": "Indian Philosophy and Yoga in Germany",
+      "authors": [
+        {
+          "name": "Owen Ware",
+          "openalex_id": "A5092849787",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-11",
+      "abstract": "This book sheds new light on the fascinating \u2013 at times dark and at times hopeful \u2013 reception of classical Yoga philosophies in Germany during the nineteenth century. When debates over God, religion, and morality were at a boiling point in Europe, Sanskrit translations of classical Indian thought became available for the first time. Almost overnight India became the centre of a major controversy concerning the origins of western religious and intellectual culture. Working forward from this controversy, this book examines how early translations of works such as the Bhagavad G\u012bt\u0101 and the Yoga S\u016btras were caught in the crossfire of another debate concerning the rise of pantheism, as a doctrine that identifies God and nature. It shows how these theological concerns shaped the image of Indian thought in the work of Schlegel, Gunderrode, Humboldt, Hegel, Schelling, and others, lasting into the nineteenth century and beyond. Furthermore, this book explores how worries about the perceived nihilism of Yoga were addressed by key voices in the early twentieth century Indian Renaissance \u2013 notably Dasgupta, Radhakrishnan, and Bhattacharyya \u2013 who defended sophisticated counterreadings of their intellectual heritage during the colonial era. Written for non-specialists, Indian Philosophy and Yoga in Germany will be of interest to students and scholars working on nineteenth-century philosophy, Indian philosophy, comparative philosophy, Hindu studies, intellectual history, and religious history.",
+      "cited_by_count": 12,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/oa-mono/download?identifierName=doi&identifierValue=10.4324/9781003376088&type=webpdf"
+      },
+      "topics": [
+        "Psychoanalysis and Social Critique",
+        "Psychology, Coaching, and Therapy",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 165,
+      "url": "https://openalex.org/W4386621241"
+    },
+    {
+      "openalex_id": "W2735922662",
+      "doi": "10.1353/hph.2017.0050",
+      "title": "Perspectives without Privileges: The Estates in Hegel's Political Philosophy",
+      "authors": [
+        {
+          "name": "Christopher Yeomans",
+          "openalex_id": "A5050082510",
+          "orcid": "https://orcid.org/0000-0003-3805-3063",
+          "institutions": [
+            "Purdue University West Lafayette"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "For a variety of reasons, Hegel's theory of the estates remains an unexpected and unappreciated feature of his practical philosophy. In fact, it is the key element of his social philosophy, which grounds his more properly political philosophy. Most fundamentally, it plays this role because the estates provide the forms of visibility required by Hegel's distinctive theory of self-determination, and so the estates constitute conditions for the possibility of human agency as such. With respect to political agency in particular, this ramifies into the view that the estates are social preconditions for legal and political practices, forms of political participation in their own right, and conditions of possibility of moderate government (three functions also attributed to the estates by Montesquieu).",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/1/article/664777"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W2735922662"
+    },
+    {
+      "openalex_id": "W114194120",
+      "doi": null,
+      "title": "Dialectics, Self-Consciousness, and Recognition: The Hegelian Legacy",
+      "authors": [
+        {
+          "name": "Asger S\u00f8rensen",
+          "openalex_id": "A5049419125",
+          "orcid": "https://orcid.org/0000-0002-5671-9060"
+        },
+        {
+          "name": "Morten Raffns\u00f8e-M\u00f8ller",
+          "openalex_id": "A5067345168"
+        },
+        {
+          "name": "Arne Gr\u00f8n",
+          "openalex_id": "A5004511780"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Hegel's influence on post-Hegelian philosophy is as profound as it is ambiguous. Modern philosophy is philosophy after Hegel. Taking leave of Hegel's system appears to be a common feature of modern and post-modern thought. One could even argue that giving up Hegel's claim of totality defines philosophy after Hegel. Modern and post-modern philosophies are philosophies of finitude: Hegel's philosophy cannot be repeated. However, its status as a negative backdrop for modern and post-modern thought already shows its pervasive influence. Precisely in its criticism of Hegel, modern thought is bound up with his thinking.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/SREDSA-2.pdf"
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Philosophical Ethics and Theory",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W114194120"
+    },
+    {
+      "openalex_id": "W4255899040",
+      "doi": "10.4324/9781351212472",
+      "title": "The Political Sociology of Emotions",
+      "authors": [
+        {
+          "name": "Nicolas Demertzis",
+          "openalex_id": "A5079171861",
+          "orcid": "https://orcid.org/0000-0002-6251-0239",
+          "institutions": [
+            "National and Kapodistrian University of Athens"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-01",
+      "abstract": "The Political Sociology of Emotions articulates the political sociology of emotions as a sub-field of emotions sociology in relation to cognate disciplines and sub-disciplines. Far from reducing politics to affectivity, the political sociology of emotions is coterminous with political sociology itself plus the emotive angle added in the investigation of its traditional and more recent areas of research. The worldwide predominance of affective anti-politics (e.g., the securitization of immigration policies, reactionism, terrorism, competitive authoritarianism, nationalism and populism, etc.) makes the political sociology of emotions increasingly&nbsp;necessary in&nbsp;making the prospects of democracy and republicanism in the twenty-first century more intelligible. Through a weak constructionist theoretical perspective, the book shows the utility of this new sub-field by addressing two central themes: trauma and ressentiment. Trauma is considered as a key cultural-political phenomenon of our times, evoking both negative and positive emotions; ressentiment is a pertaining individual and collective political emotion allied to insecurities and moral injuries. In tandem, they constitute fundamental experiences of late modern times. The value of the political sociology of emotions is revealed in the analysis of civil wars, cultural traumas, the politics of pity, the suffering of distant others in the media, populism, and national identities on both sides of the Atlantic.",
+      "cited_by_count": 81,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781351212472&type=googlepdf"
+      },
+      "topics": [
+        "Youth Education and Societal Dynamics",
+        "Critical Theory and Philosophy",
+        "Gender, Feminism, and Media"
+      ],
+      "referenced_works_count": 762,
+      "url": "https://openalex.org/W4255899040"
+    },
+    {
+      "openalex_id": "W2985376287",
+      "doi": "10.1007/s11787-019-00234-0",
+      "title": "Pavel Florensky\u2019s Theory of Religious Antinomies",
+      "authors": [
+        {
+          "name": "Pawe\u0142 Rojek",
+          "openalex_id": "A5067545378",
+          "orcid": "https://orcid.org/0000-0002-2584-0108",
+          "institutions": [
+            "Jagiellonian University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-11-01",
+      "abstract": "Abstract Pavel Florensky (1882\u20131937), a Russian theologian, philosopher, and mathematician, argued that the religious discourse is essentially contradictory and put forward the idea of the logical theory of antinomies. Recently his views raised interesting discussions among logicians who consider him a forerunner of many non-classical logics. In this paper I discuss four interpretations of Florensky\u2019s views: paraconsistent, L-contradictory, non-monotonic and rhetorical. In conclusion I argue for the integral interpretation which unites these four approaches.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Logica Universalis",
+        "type": "journal",
+        "issn": [
+          "1661-8297",
+          "1661-8300"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11787-019-00234-0.pdf"
+      },
+      "topics": [
+        "History and Theory of Mathematics",
+        "Philosophy and Theoretical Science",
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2985376287"
+    },
+    {
+      "openalex_id": "W2308223862",
+      "doi": null,
+      "title": "The creativity of nature: The genesis of Schelling's Naturphilosophie, 1775--1799",
+      "authors": [
+        {
+          "name": "Ryan J. Foster",
+          "openalex_id": "A5074466210"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "The Naturphilosophie of Friedrich Wilhelm Joseph Schelling (1775-1854) has been neglected in the Anglophone world for over 200 years, but his detractors are wrong in insisting that his system represented a disguised mysticism and a rejection of empirical science. Although Schelling studied theology at the famous Tubingen seminary, he dedicated his life to philosophy by 1794, eventually turning to an intensive study of the natural sciences. By 1799, he had developed a systematic Naturphilosophie which harvested the discoveries of eighteenth century science in order to solve the philosophical problems left behind by Immanuel Kant and Johann Gottlieb Fichte. Schelling relentlessly fought against the notion that nature is inert. Instead, he stressed its vibrancy, its activity, and ultimately its creativity. By reconstructing Schelling's intellectual development, we not only gain a new appreciation for his thought, but we also see aspects of his Naturphilosophie which are deeply sympathetic, and perhaps even useful in the twenty-first century.",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": {
+        "name": "Rice Digital Scholarship Archive (Rice University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1911/61779"
+      },
+      "topics": [
+        "Scientific and Historical Analyses"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2308223862"
+    },
+    {
+      "openalex_id": "W3165049103",
+      "doi": "10.5771/9783896658074",
+      "title": "Human Rights and Natural Law",
+      "authors": [
+        {
+          "name": "Schweidler, Walter",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Perspective\" at the Catholic University Eichstaett-Ingolstadt in July/August 2011 and articles of various colleagues who were so kind as to collaborate in the discussion that followed. The intercultural approach to the questions about the ethical, political and juridical foundations of human rights and human dignity is still dependent on the analysis of its presuppositions in the different cultures and civilizations on earth. The general idea of the International Academy was to explicate the classical European idea of natural law as one element among these cultural horizons and to relate it to the traditions of non-European cultures. We hope to have made a contribution to some of the fundamental questions of historic continuity and discontinuity and the intercultural validity of the philosophical substance of human rights. The editor is very grateful to all the contributors to this volume, to the institutions that made the International Academy possibleamong them the DAAD, Renovabis, the Hertie Foundation and the Hanns Seidel Foundation-and of course to the University itself and especially its International Office. The publication of this volume was made possible by the Hermann and Marianne Straniak-Stiftung, which has, under the direction of its late president Dr. Herwig Liebscher, been of the highest importance for the initiation and development of intercultural philosophical research, especially in the German-speaking world.",
+      "cited_by_count": 19,
+      "type": "book",
+      "source": {
+        "name": "Academia Verlag eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nomos-elibrary.de/10.5771/9783896658074.pdf"
+      },
+      "topics": [
+        "Evolving Legal Systems and Governance",
+        "International Law and Human Rights",
+        "Multicultural Socio-Legal Studies"
+      ],
+      "referenced_works_count": 88,
+      "url": "https://openalex.org/W3165049103"
+    },
+    {
+      "openalex_id": "W4319349866",
+      "doi": "10.1017/s095742392200011x",
+      "title": "AFTER THE ENLIGHTENMENT: THE REDISCOVERY OF AVERROES BY TIEDEMANN AND HERDER",
+      "authors": [
+        {
+          "name": "Stefan Schick",
+          "openalex_id": "A5012470643",
+          "orcid": "https://orcid.org/0000-0003-4990-0029",
+          "institutions": [
+            "Leipzig University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-02-07",
+      "abstract": "Abstract Both Arabic modernists and Western humanists often regard the Muslim philosopher Averroes as one of the earliest precursors of Kant and the European Enlightenment. In contrast to this reputation, this paper argues that it was Kant\u2019s critics Herder and Tiedemann who rediscovered Averroes. Tiedemann was the first German historiographer to give an accurate account of Averroes\u2019 thought. This was accompanied by a re-evaluation of Averroes by Herder in his Letters for the Advancement of Humanity , in which he recognized the similarity between his own concept of the spirit of the age as historical reason \u2013 his alternative to the Enlightenment concept of a universal and ahistorical reason \u2013 and Averroes\u2019 concept of a single material intellect for all individual human minds. Finally, the paper outlines the possible connections between Averroes\u2019 interpretation of Aristotle\u2019s intellect and Hegel\u2019s concept of reason in history.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Arabic Sciences and Philosophy",
+        "type": "journal",
+        "issn": [
+          "0957-4239",
+          "1474-0524"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/64F2ACE361FD1EB9FBC4AA4860131D6C/S095742392200011Xa.pdf/div-class-title-after-the-enlightenment-the-rediscovery-of-averroes-by-tiedemann-and-herder-div.pdf"
+      },
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Families in Therapy and Culture",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W4319349866"
+    },
+    {
+      "openalex_id": "W4200517593",
+      "doi": "10.1515/9783110707014",
+      "title": "Chronicles and the Priestly Literature of the Hebrew Bible",
+      "authors": [
+        {
+          "name": "Jeon, Jaeyoung 1972-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jonker, Louis C. 1962-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Walter de Gruyter GmbH & Co. KG",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-08",
+      "abstract": "The study of the Books of Chronicles has focused in the past mainly on its literary relationship to Historical Books such as Samuel and Kings. Less attention was payed to its possible relationships to the priestly literature. Against this backdrop, this volume aims to examine the literary and socio-historical relationship between the Books of Chronicles and the priestly literature (in the Pentateuch and in Ezekiel). Since Chronicles and Pentateuch (and also Ezekiel) studies have been regarded as separate fields of study, we invited experts from both fields in order to open a space for fruitful discussions with each other. The contributions deal with connections and interactions between specific texts, ideas, and socio-historical contexts of the literary works, as well as with broad observations of the relationship between them.",
+      "cited_by_count": 8,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1515/9783110707014"
+      },
+      "topics": [
+        "Biblical Studies and Interpretation",
+        "Development, Ethics, and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4200517593"
+    },
+    {
+      "openalex_id": "W2023118909",
+      "doi": "10.1163/18725473-12341250",
+      "title": "Changing Interpretations of Plotinus: The 18th-Century Introduction of the Concept of a \u2018System of Philosophy\u2019",
+      "authors": [
+        {
+          "name": "Leo Catana",
+          "openalex_id": "A5040916872",
+          "orcid": "https://orcid.org/0000-0002-5299-1833",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Abstract This article critically explores the history and nature of a hermeneutic assumption which frequently guided interpretations of Plotinus from the 18th century onwards, namely that Plotinus advanced a system of philosophy. It is argued that this assumption was introduced relatively late, in the 18th and 19th centuries, and that it was primarily made possible by Brucker\u2019s methodology for the history of philosophy, dating from the 1740s, to which the concept of a \u2018system of philosophy\u2019 was essential. It is observed that the concept is absent from Ficino\u2019s commentary from the 15th century, and that it remained absent in interpretations produced between the 15th and 18th centuries. It is also argued that the assumption of a \u2018system of philosophy\u2019 in Plotinus is historically incorrect\u2014we do not find this concept in Plotinus\u2019 writings, and his own statements about method point in other directions. Eduard Zeller (active in the second half of the 19th century) is typically regarded as the first to give a satisfying account of Plotinus\u2019 philosophy as a whole. In this article, on the other hand, Zeller is seen as having finalised a tradition initiated in the 18th century. Very few Plotinus scholars have examined the interpretative development prior to Zeller. Schiavone (1952) and Bonetti (1971), for instance, have given little attention to Brucker\u2019s introduction of the concept of a \u2018system of philosophy\u2019. The present analysis, then, has value for an understanding of Plotinus\u2019 Enneads . It also explains why \u201cpre-Bruckerian\u201d interpretations of Plotinus appear alien to the modern reader; the analysis may even serve to make some sense of the hermeneutics employed by Renaissance Platonists and commentators, who are often eclipsed from the tradition of Platonism.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "The International Journal of the Platonic Tradition",
+        "type": "journal",
+        "issn": [
+          "1872-5082",
+          "1872-5473"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/jpt/7/1/article-p50_2.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Historical and Literary Studies",
+        "Historical, Religious, and Philosophical Studies"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W2023118909"
+    },
+    {
+      "openalex_id": "W2779808904",
+      "doi": "10.5167/uzh-142957",
+      "title": "Yehezkel Kaufmann and the Reinvention of Jewish Biblical Scholarship",
+      "authors": [
+        {
+          "name": "Job Y. Jindo",
+          "openalex_id": ""
+        },
+        {
+          "name": "Benjamin D. Sommer",
+          "openalex_id": "A5086284600"
+        },
+        {
+          "name": "Thomas Staubli",
+          "openalex_id": "A5103023241",
+          "orcid": "https://orcid.org/0000-0001-9371-6822"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The biblical scholar, historian, and Jewish thinker Yehezkel Kaufmann (1889\u20131963) is best known for two magisterial works: a two-volume interpretation of Jewish history, Golah ve-nekhar (Exile and Alienation, 1928\u20131932), and a four-volume study of biblical religion, Toledot ha-emunah ha-yisre\u2019elit (A History of the Israelite Faith, 1937\u20131956). Toledot in particular is the most monumental achievement of modern Jewish biblical scholarship. No other figure, not even Martin Buber, has had such a profound influence on the work of Jewish scholars of the Bible. Whether by supporting his ideas with new evidence, modifying them in light of new discoveries or methods, or attacking them, and whether addressing his work explicitly or implicitly, a substantial amount of modern Jewish biblical criticism builds upon the foundation set by Kaufmann. The latter\u2019s phenomenological analysis of biblical monotheism as well as his critique of theoretical and methodological assumptions that are still dominant in historical studies in general, and biblical scholarship in particular, are an invaluable asset for those who engage in biblical scholarship, historical studies, and comparative religion. The idea of this volume was conceived at an international symposium held in Switzerland, from June 10\u201311, 2014, \u201cYehezkel Kaufmann and the Reinvention of Jewish Exegesis of the Bible in Bern.\u201d This gathering was held at the Universities of Bern and of Fribourg in order to commemorate the centenary of Yehezkel Kaufmann\u2019s matriculation at the University of Bern on May 5, 1914, and to document and reassess the significance of his legacy and its reception. The symposium had three foci, corresponding with sections I-III of this volume: Kaufmann\u2019s biography and intellectual background, his impact on Jewish studies, and his contribution to modern biblical scholarship. The volume provides a comprehensive and multi-faceted account of Kaufmann\u2019s work, through which Anglophone readers, students and scholars alike, can explore the hitherto unrecognized significance and profundity of Kaufmann\u2019s legacy. It includes not only the symposium papers but also other essays, including two testimonies by two of his students, Menahem Haran and Moshe Greenberg and some of Kaufmann\u2019s own writings\u2014all heretofore unavailable in English\u2014that are crucial for a fuller appreciation of his life project.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Zurich Open Repository and Archive (University of Zurich)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": null
+      },
+      "topics": [
+        "Religion, Theology, History, Judaism, Christianity",
+        "Jewish and Middle Eastern Studies",
+        "Biblical Studies and Interpretation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2779808904"
+    },
+    {
+      "openalex_id": "W2498036332",
+      "doi": "10.1515/9783110367195",
+      "title": "The German-Jewish Experience Revisited",
+      "authors": [
+        {
+          "name": "Liska, Vivian",
+          "openalex_id": ""
+        },
+        {
+          "name": "Aschheim, Steven E.",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-28",
+      "abstract": "In addition to the papers presented at the workshop, we have included a few extra contributions that round out our reflections. The workshop and the present volume aim at revisiting interesting and important aspects of the German-Jewish experience and evaluating the present state of the field. Senior and junior scholars from Israel, Germany, and the United States all contributed to this work. We shall not summarize the arguments and theses of the essays in this collection. After all, what would be the point of reading them if one knows in advance what they are going to say? Readers will, no doubt, perceive some methodological, analytic, generational, and national divergences in these pieces but what emerges clearly is the ongoing vitality of this field, which in many ways is in transition. New paradigms, methods, and approaches co-exist with other more familiar and tried analyses. In the Postscript, we try to provide a retrospective account of the state of things as reflected in this volume.",
+      "cited_by_count": 23,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110367195/pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Religion, Theology, History, Judaism, Christianity",
+        "Jewish Identity and Society"
+      ],
+      "referenced_works_count": 247,
+      "url": "https://openalex.org/W2498036332"
+    },
+    {
+      "openalex_id": "W2972156575",
+      "doi": null,
+      "title": "The Dialectical Circumplex Model: A Theory of Dialectic and Its Implications for Education",
+      "authors": [
+        {
+          "name": "Amber-Jean Vlasti Samson",
+          "openalex_id": "A5063824813"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-31",
+      "abstract": "A veil of mystery shrouds the origin and meaning of the dialectical method known as thesis-antithesis-synthesis. Many scholars reject the commonly-held notion that this triadic dialectic began with the enigmatic philosopher Hegel. Wheat\u2019s recent book Hegel\u2019s Undiscovered Thesis-Antithesis-Synthesis Dialectics, however, reaffirms the connection between Hegel and the triadic dialectic while offering a reinterpretation of the Hegelian dialectical format. Still, Wheat dismisses the dialectical method as outdated and without value. With this theoretical dissertation, I seek to demystify the seemingly esoteric concept of dialectic and evaluate the potential educational value of the dialectical method. First, I trace the conceptual development of dialectic from its origins in ancient Chinese, Indian, and Greek philosophy to its more modern interpretations in German idealism and Marxism. Next, I review the applications of dialectic within the fields of psychology and education. For instance, psychological literature alternatively presents dialectical thinking as a stage of intellectual development, a cultural thinking style, and an epistemological belief. From here, I propose a new theory of dialectic, which includes a unified definition of dialectic and a reinterpretation of the Hegelian dialectical method in tetradic form. I map this tetradic dialectical format (i.e., thesis-antithesis-synthesis-diathesis) onto a two-dimensional circumplex model in what I term the dialectical circumplex model. The purpose of this conceptual model is to facilitate dialectical thinking about, generate insights into, and create a more holistic representation of complex phenomena. I demonstrate this function with a dialectical model of knowing, which applies the dialectical circumplex model to the literature on epistemological development. I also explore the educational value of dialectic by outlining a dialectical method for learning. Lastly, I discuss implications of this new theory of dialectic and identify directions for future research.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "KU ScholarWorks (The University of Kansas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1808/29495"
+      },
+      "topics": [
+        "Education and Critical Thinking Development",
+        "Religious Education and Schools"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W2972156575"
+    },
+    {
+      "openalex_id": "W3111433472",
+      "doi": "10.15516/cje.v22i0.4126",
+      "title": "The Entanglement of Nation and Epistemology: Glances into the Backyard of Academic Dignity",
+      "authors": [
+        {
+          "name": "Stephanie Fox",
+          "openalex_id": "A5102907438",
+          "orcid": "https://orcid.org/0000-0003-1996-3352",
+          "institutions": [
+            "University of Vienna"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-17",
+      "abstract": "This article addresses the phenomenon of \u2018national epistemologies\u2019 that areunderstood as particular ways to think about the world, both enabled and restrictedby national(ist) ideologies as cultural thesis about distinct commonality andtogetherness. With regard to methodology, the article describes on a general levelhow these \u2018national epistemologies\u2019 can be identified and particularly how theirdevelopment as nationally idiosyncratic ways of conceptualizing and conductingresearch can be explained, taking the academic field of education as an example. Theexistence of such distinct national research thought styles can be detected, at leastin the West: in the United States, in France, in England and in Germany. Thereby,imperial aspirations of these nationally connoted and configured phenomena cometo the fore, indicating their efforts of spreading from epistemologically strongernation(-state)s into weaker ones in the way of \u2018travelling ideas\u2019. Starting from thethought style represented by German Idealism, two major reasons or purposes forthese travels can be distinguished: One \u2018by invitation\u2019 and one \u2018as occupation\u2019, asrepresented by the case of Austria.Key words: Austria; education research; national epistemologies; nationalism;travelling ideas.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Croatian Journal of Education - Hrvatski \u010dasopis za odgoj i obrazovanje",
+        "type": "journal",
+        "issn": [
+          "1848-5189",
+          "1848-5197"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://cje2.ufzg.hr/ojs/index.php/CJOE/article/download/4126/982"
+      },
+      "topics": [
+        "Religious Education and Schools",
+        "Educator Training and Historical Pedagogy",
+        "Sociology and Education Studies"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W3111433472"
+    },
+    {
+      "openalex_id": "W2108673471",
+      "doi": "10.1080/13569310903570405",
+      "title": "\u2018Socialism in one country\u2019 before Stalin: German origins",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-06-01",
+      "abstract": "This article discusses the prehistory of the Stalinist concept of \u2018socialism in one country\u2019 in the German social democratic movement, from 1875 through to the first decade of the twentieth century. The internationalist Marxist discourse on the geography of socialism did not remain unchallenged in the party. German social-democrats hoped for their country to become the first to introduce the supposedly very efficient socialist mode of production. Anticipating other capitalist powers would have been a way to compensate for Germany's disadvantages. In the early versions of \u2018socialism in one country\u2019, expounded most prominently by Ferdinand Lassalle and Georg Vollmar, the socialist mode of production might allow Germany to dominate the world market. In later ones, represented by Karlis Balodis, Richard Calwer and others, the acquisition of a colonial empire, or fusion with continental neighbours, would create the conditions for a socialist Germany to occupy her rightful Platz an der Sonne.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Journal of Political Ideologies",
+        "type": "journal",
+        "issn": [
+          "1356-9317",
+          "1469-9613"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/socialism-in-one-country-before-stalin-german-origins(83914384-3b4f-4cd4-9c96-aac418433ce8).html"
+      },
+      "topics": [
+        "European history and politics",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2108673471"
+    },
+    {
+      "openalex_id": "W7132923507",
+      "doi": null,
+      "title": "Hegel&apos;s Concept of Reconciliation: On Absolute Spirit",
+      "authors": [
+        {
+          "name": "Dylan Shaul",
+          "openalex_id": "A5090345661",
+          "orcid": "https://orcid.org/0000-0001-5109-8907"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-01",
+      "abstract": "This dissertation reconstructs and defends Hegel\u2019s concept of reconciliation as the highest goal of the three forms of Absolute Spirit: art, religion, and philosophy. I argue that Hegel\u2019s concept of reconciliation can be expressed by the following temporal formula: to reconcile means to remember and work through the past, in order to comprehend the present, and thereby open ourselves up to a new future. I argue that this constitutes a therapeutic conception of reconciliation, which grounds a therapeutic conception of art, religion, and philosophy. While Absolute Spirit can neither predict what the future will be nor prescribe what the future ought to be, on Hegel\u2019s view, I argue that the point of Hegelian reconciliation is to set us free to create a new future. On the basis of this temporal formula for reconciliation, I reconstruct Hegel\u2019s argument that philosophy alone can fully achieve its goal of reconciliation, from which art and religion fall short. I further argue that Hegel\u2019s therapeutic conception of Absolute Spirit supports the revolutionary reading of Hegel\u2019s concept of reconciliation, against the quietist reading and the reformist reading. On the quietist reading, reconciliation entails justifying the present world, despite whatever suffering or injustice it may contain, while renouncing any efforts to change it for the better. On the reformist reading, reconciliation entails a commitment to the gradual improvement of the present world according to its own constitutive normative standards. I argue that the quietist reading and the reformist reading fail to properly account for Hegel\u2019s famous claim that philosophy always arrives too late to instruct the world on how it ought to be, insofar as philosophy arises only at those historical moments in which a form of life has already grown old. On my view, this claim expresses Hegel\u2019s position that reconciliation performs the therapeutic function of facilitating the historical transformation from an old form of life to a new form of life, as per the revolutionary reading. In other words, the therapeutic work of reconciliation is a necessary condition for the revolutionary decision to create a new future qua new world or new form of life.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "TSpace",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/deef2fce-079c-427d-9464-e595ed535545/download"
+      },
+      "topics": [
+        "Kierkegaardian Philosophy and Influence",
+        "Philosophical Ethics and Theory",
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7132923507"
+    },
+    {
+      "openalex_id": "W4387640924",
+      "doi": "10.4000/ejpap.3525",
+      "title": "George Herbert Mead and Psychoanalysis",
+      "authors": [
+        {
+          "name": "Jean\u2010Fran\u00e7ois C\u00f4t\u00e9",
+          "openalex_id": "A5043702502",
+          "orcid": "https://orcid.org/0000-0003-0148-2403",
+          "institutions": [
+            "Universit\u00e9 d'Artois"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "This article examines G.H. Mead\u2019s critique of psychoanalysis, in order to show how it reflects the parallels with his own conception of social psychology. In showing that both Freud and Mead address the same issues of the redefinition of the psyche based on experimental psychology in their own theoretical entreprise, the analysis makes clear that Freud\u2019s two topics (Conscious, Preconscious, Unconscious; Superego, Ego, Id) and Mead\u2019s theory of the Self (I, Me, Self) are closely related but nevertheless kept apart by fundamental oppositions. However, further explorations in Lacan\u2019s reading of Freud help in seeing how close psychoanalysis and social psychology can be, by shifting attention to the distinction between unconscious and conscious communication. By addressing the issue of emotions in social life, a final look at the transformation of social norms shows how the confrontation between social psychology and psychoanalysis can be fruitful.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "European Journal of Pragmatism and American Philosophy",
+        "type": "journal",
+        "issn": [
+          "2036-4091"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.openedition.org/ejpap/pdf/3525"
+      },
+      "topics": [
+        "Academic and Historical Perspectives in Psychology",
+        "Historical Psychiatry and Medical Practices",
+        "Psychotherapy Techniques and Applications"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W4387640924"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/IDSTUDIES20063619
+[verify_paper.py] DOI verified: On the Mysticism of Fichte’s The Way Towards the B...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/IDSTUDIES20063619"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/idstudies20063619",
+      "title": "On the Mysticism of Fichte\u2019s The Way Towards the Blessed Life",
+      "authors": [
+        {
+          "family": "Perovich Jr.",
+          "given": "Anthony N."
+        },
+        {
+          "family": "Philosophy Documentation Center",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2006,
+      "container_title": "Idealistic Studies",
+      "volume": "36",
+      "issue": "1",
+      "page": "1-11",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/idstudies20063619"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

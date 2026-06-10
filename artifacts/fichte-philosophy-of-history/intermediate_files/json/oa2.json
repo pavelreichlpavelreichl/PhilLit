@@ -1,0 +1,908 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte idealism freedom temporality' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_5eac4db9413d6d46)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte idealism freedom temporality",
+  "results": [
+    {
+      "openalex_id": "W2092106108",
+      "doi": "10.1353/hph.2005.0135",
+      "title": "Sartre, Intersubjectivity, and German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-07-01",
+      "abstract": "This paper has two, interrelated aims. The first is to clarify Sartre's theory of intersubjectivity. Sartre's discussion of the Other has a puzzling way of going in and out of focus, seeming at one moment to provide a remarkably original solution to the problem of other minds and at the next to wholly miss the point of the skeptical challenge. The nature of his argument is equally uncertain: at some points it looks like an attempt to mount a transcendental argument, a kind of Refutation of Idealism regarding the existence of others, at others, to be a defence of direct realism; yet again, it can seem to propose a dissolution of the problem closely analogous to Wittgenstein. I will argue (Section I) that none of these provides quite the right model for understanding Sartre, which requires one to take seriously his method of resolving epistemological issues into matters of 'ontology'. I argue further (Section II) that Sartre's theory becomes fully coherent only if we make explicit its implicit presupposition of a conception of intersubjectivity articulated by Fichte.",
+      "cited_by_count": 47,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/1/article/184863/pdf"
+      },
+      "topics": [
+        "Simone de Beauvoir and Sartre",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2092106108"
+    },
+    {
+      "openalex_id": "W4298241889",
+      "doi": "10.1353/book.61311",
+      "title": "Making Light Haydn, Musical Camp, and the Long Shadow of German Idealism",
+      "authors": [
+        {
+          "name": "Knapp, Raymond",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "In Making Light Raymond Knapp traces the musical legacy of German Idealism as it led to the declining prestige of composers such as Haydn while influencing the development of American popular music in the nineteenth century. Knapp identifies in Haydn and in early popular American musical cultures such as minstrelsy and operetta a strain of high camp\u00e2\u0080\u0094a mode of engagement that relishes both the superficial and serious aspects of an aesthetic experience\u00e2\u0080\u0094that runs antithetical to German Idealism's musical paradigms. By considering the disservice done to Haydn by German Idealism alongside the emergence of musical camp in American popular music, Knapp outlines a common ground: a humanistically based aesthetic of shared pleasure that points to ways in which camp receptive modes might rejuvenate the original appeal of Haydn's music that has\u00c2 mostly eluded audiences. In so doing, Knapp remaps the historiographical modes and systems of critical evaluation that dominate musicology while troubling the divide between serious and popular music.",
+      "cited_by_count": 27,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1353/book.61311"
+      },
+      "topics": [
+        "Musicology and Musical Analysis"
+      ],
+      "referenced_works_count": 217,
+      "url": "https://openalex.org/W4298241889"
+    },
+    {
+      "openalex_id": "W4379033154",
+      "doi": "10.1007/978-3-031-27345-2",
+      "title": "The Palgrave Handbook of German Idealism and Poststructuralism",
+      "authors": [
+        {
+          "name": "Tilottama Rajan",
+          "openalex_id": "A5112460993",
+          "institutions": [
+            "Western University"
+          ]
+        },
+        {
+          "name": "Daniel Whistler",
+          "openalex_id": "A5041927597",
+          "orcid": "https://orcid.org/0000-0002-8662-3211",
+          "institutions": [
+            "Royal Holloway University of London"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "book",
+      "source": {
+        "name": "Palgrave handbooks in German idealism",
+        "type": "book series",
+        "issn": [
+          "2634-6230",
+          "2634-6249"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-27345-2/1?pdf=chapter%20toc"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophy and Historical Thought",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4379033154"
+    },
+    {
+      "openalex_id": "W1915497867",
+      "doi": "10.3998/ohp.12763629.0001.001",
+      "title": "Ontological Catastrophe: \u017di\u017eek and the Paradoxical Metaphysics of German Idealism",
+      "authors": [
+        {
+          "name": "Joseph Carew",
+          "openalex_id": "A5016357216"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "In Ontological Catastrophe, Joseph Carew takes up the central question guiding Slavoj \u017di\u017eek philosophy: How could something like phenomenal reality emerge out of the meaninglessness of the Real? Carefully reconstructing and expanding upon his controversial reactualization of German Idealism, Carew argues that \u017di\u017eek offers us an original, but perhaps terrifying, response: experience is possible only if we presuppose a prior moment of breakdown as the ontogenetic basis of subjectivity. Drawing upon resources found in \u017di\u017eek, Lacanian psychoanalysis, and post-Kantian philosophy, Carew thus develops a new critical metaphysics\u2014a metaphysics which is a variation upon the late German Idealist theme of balancing system and freedom, realism and idealism, in a single, self-reflexive theoretical construct\u2014that challenges our understanding of nature, culture, and the ultimate structure of reality.",
+      "cited_by_count": 13,
+      "type": "book",
+      "source": {
+        "name": "Open Humanities Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.3998/ohp.12763629.0001.001"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W1915497867"
+    },
+    {
+      "openalex_id": "W4327555414",
+      "doi": "10.1080/21692327.2023.2188243",
+      "title": "Hegel\u2019s vanity. Schelling\u2019s early critique of absolute idealism",
+      "authors": [
+        {
+          "name": "Juan Jos\u00e9 Rodr\u00edguez",
+          "openalex_id": "A5086533843",
+          "orcid": "https://orcid.org/0000-0002-1585-3992",
+          "institutions": [
+            "University of Wuppertal",
+            "Charles University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "In this article, we present for the first time Schelling\u2019s early critique of absolute idealism within his middle metaphysics (1804\u20131820), which has great relevance and influence on the subsequent course of German philosophy, and, more broadly considered, on later systematic thinking about the categories of unity and duality. We aim to show how Schelling defends a form of metaphysical duality, from 1804 onwards, without relapsing into a stronger Kantian dualism. In this sense, our author rejects both the dualism between nature and spirit, necessity and freedom, as well as the monist-immanent metaphysical stance later associated with Hegelian panlogism. Against Hegel, Schelling increasingly vindicates the reality of the finite and degrades the infinite to mere ideality in a movement that resembles later existentialism. Furthermore, we defend Schelling against the accusation of irrationalism that sections of Hegelianism formulated against him and present the concept of infinity without the notion of totality, which he thinks of, much like Fichte, in the light of the concept of an \u2018infinite task\u2019. Schelling\u2019s later criticisms of Hegel are shown to be influenced by his early idealist critique of the period at hand.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Philosophy and Theology",
+        "type": "journal",
+        "issn": [
+          "2169-2327",
+          "2169-2335"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/21692327.2023.2188243?download=true"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy and Historical Thought",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W4327555414"
+    },
+    {
+      "openalex_id": "W85169969",
+      "doi": null,
+      "title": "Fichte and Schelling : the Spinoza connection",
+      "authors": [
+        {
+          "name": "Alexandre Anselmo Guilherme",
+          "openalex_id": "A5002103035",
+          "orcid": "https://orcid.org/0000-0003-4578-1894"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "The influence of Spinoza on Post-Kantian Idealism has been acknowledged by virtually all commentators in the area. Much research on the influence of Spinoza on Hegel has been already carried out by many of Hegel's commentators in both the Continental and Anglo- American tradition, and Hegel himself wrote a great deal on Spinozism. Detailed research and study on the influence of Spinoza on Fichte and Schelling, however, is still to be carried out in the Anglo-American tradition; and this situation is in contrast to the current scenario in Germany, where much effort has been devoted to this topic. Commentators in the Anglo-American tradition acknowledge the influence of some of Spinoza's views on Fichte's and Schelling's respective projects but fail to provide a detailed account of this influence. This thesis will attempt to help fill in the gap in this area by providing a detailed study of the influence of Spinozism on Fichte and Schelling. This will be done by drawing parallels and by demonstrating similarities between some of their philosophical views, as well as referring to textual evidence where Fichte and Schelling acknowledge, overtly or not, their debt to Spinoza. This thesis is divided into three parts. In Part I I shall provide the context or background to this thesis. This part focus on the reception of Spinoza's writings in the Netherlands and Germany (chap. 1), the Enlightenment and Romantic movement as well as the Enlightenment crises (chap. 2), and Kant's attempt to solve the crises (chap. 3). In Part II and III I deal with Fichte's and Schelling's Spinozism respectively. Part II is divided into three chapters, which are entitled: \"Metaphysics, Knowledge and Freedom\" (chap. 4), \"Theology and Religion\" (chap. 5)\u00ef\u00bc\u008c and \"Ethics\" (chap. 6). Part III is also divided into three chapters, which are entitled: \"From Kant to Fichte to Schelling: Spinoza's contribution to Absolute Idealism\" (chap. 7), \"Pantheism and God\" (chap. 8), and finally \"Deep Ecology\" (chap. 9). Finally, in this abstract I find it important to draw the reader's attention to a few issues. My sympathies with, or antipathies to, the various positions taken by the authors I discuss will no doubt be apparent as the thesis unfolds. And it could be said that this thesis is primarily intended as an exercise in the history, influence and study of some conceptual views particular to Spinozism, and as such it shall be of great interest to metaphysicians. But in doing so this thesis will also set the background for a proper understanding of Fichte's and Schelling's philosophical systems - this is an important point as there is a tendency in philosophical and academic circles to 'box in' philosophical systems as if these systems were self-contained and bore no connection with previous philosophical systems; moreover, there is also a tendency in these circles not to appreciate the legacy of philosophical systems either. As such, this thesis aims to help correcting this situation insofar as Spinoza, Fichte and Schelling are concerned - but it can be also viewed as a template for similar research in connection to other philosophical systems. It is also intended that the interpretations of Fichte and Schelling in the light of their Spinozism, which I propose will be useful to other scholars in their attempt to critically appraise the writings of these important figures.",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": {
+        "name": "Durham e-Theses (Durham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etheses.durham.ac.uk/id/eprint/2471/1/2471_482.pdf"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W85169969"
+    },
+    {
+      "openalex_id": "W4366532056",
+      "doi": "10.6001/fil-soc.2023.34.1.4",
+      "title": "Heidegger: German Idealism and Ecstatic Temporality",
+      "authors": [
+        {
+          "name": "Nerijus Stasiulis",
+          "openalex_id": "A5050678425",
+          "orcid": "https://orcid.org/0000-0001-9925-4120",
+          "institutions": [
+            "Vilnius Gediminas Technical University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-13",
+      "abstract": "&#x0D; &#x0D; &#x0D; The article discusses the significance of Hegel\u2019s and especially Schelling\u2019s concepts for the formation of Heidegger\u2019s conceptions of Being and ecstatic time. It is argued that the authors of German Idealism began to think about the Absolute in temporal and historical terms, and that this set the stage for Heidegger\u2019s historical and temporal understanding of Being. Crucially, negativity is included in the structure of Being. The ecstatic structure of Being and time itself is shaped by Schelling\u2019s thought on the dialectic of ground and existence.&#x0D; &#x0D; &#x0D;",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Filosofija Sociologija",
+        "type": "journal",
+        "issn": [
+          "0235-7186",
+          "2424-4546"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://lmaleidykla.lt/ojs/index.php/filosofija-sociologija/article/download/4887/4257"
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Humanities and Social Sciences",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W4366532056"
+    },
+    {
+      "openalex_id": "W4389194736",
+      "doi": "10.4324/9781003056409-19",
+      "title": "Post-Kantian Idealism and Self-Transformation",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-30",
+      "abstract": "While the idea that philosophy requires self-transformation is historically pervasive, it exerts considerable influence on the post-Kantians who first aim to systematize Kant's idealism by grounding it on a first principle. In the 1790s, Fichte and Schelling offer competing accounts of the self-transformation that they regard as essential to positing a first principle. Their accounts raise two central questions. First, what makes this kind of self-transformation possible? Second, are there different possible expressions of philosophical self-transformation? In what follows, I will articulate the Fichtean and Schellingian answers to these central questions. For Fichte, the one who summons me to posit a first principle makes possible my philosophical self-transformation, although the latter has an exclusively idealist expression in that I can only genuinely posit the I as first principle, which is to say that philosophical self-transformation depends on mutual recognition and vindicates precisely one philosophical system (Section 13.1). For Schelling, a brute act of will makes possible my philosophical self-transformation, although the latter has either an idealist or a realist expression in that I can genuinely posit either the I or the not-I as first principle, which is to say that philosophical self-transformation does not depend on mutual recognition and vindicates one of two possible philosophical systems (Section 13.2). Thus, whereas Fichtean self-transformation is recognitive and non-pluralistic, Schellingian self-transformation is pluralistic and non-recognitive. I conclude with a discussion of how Jacobi poses a challenge to Fichte's and Schelling's answers to the two central questions (Section 13.3).",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/BRUIAT-4.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4389194736"
+    },
+    {
+      "openalex_id": "W2304103201",
+      "doi": "10.13130/2239-5474/6797",
+      "title": "The Schellingian Roots of Peirce\u2019s idealism",
+      "authors": [
+        {
+          "name": "Ivo Assad Ibri",
+          "openalex_id": "A5074301722",
+          "orcid": "https://orcid.org/0000-0003-3801-3061",
+          "institutions": [
+            "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-12",
+      "abstract": "The Schellingian Roots of Peirce\u2019s idealism",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Riviste UNIMI (Universit\u00e0 degli studi di Milano)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://riviste.unimi.it/index.php/noema/article/view/6797"
+      },
+      "topics": [
+        "Pragmatism in Philosophy and Education",
+        "Philosophy, Science, and History",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2304103201"
+    },
+    {
+      "openalex_id": "W2604874693",
+      "doi": null,
+      "title": "Schopenhauer and Kant's Transcendental Idealism",
+      "authors": [
+        {
+          "name": "Petri R\u00e4s\u00e4nen",
+          "openalex_id": "A5087284490",
+          "institutions": [
+            "Tampere University"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-11-17",
+      "abstract": "Tutkimuksen kohteena on saksalaisen filosofin Arthur Schopenhauerin (1788-1860) filosofia. Tarkoituksena on selvitt\u00e4\u00e4 Schopenhauerin filosofian suhdetta toisen saksalaisen filosofin, Immanuel Kantin (1724-1804), filosofiaan. Tutkimus perustuu Schopenhauerin ja Kantin tekstien l\u00e4hilukuun, jossa on k\u00e4ytetty apuna Kant- ja Schopenhauer- tutkijoiden tulkintoja n\u00e4ist\u00e4 teksteist\u00e4.\\n\\nTutkimuksen t\u00e4rkeimm\u00e4t tulokset ovat: 1) Schopenhauer hyv\u00e4ksyy Kantin filosofian perusajatuksen subjektin roolista ns. teoreettisen tiedon perustana ja rajoittajana. T\u00e4lt\u00e4 osin h\u00e4n asettuu ns. transsendentaalifilosofian perinteeseen, jossa ajatus tiedon rajoista on keskeinen. 2) Schopenhauerin filosofiaa voidaan l\u00e4hesty\u00e4 t\u00e4m\u00e4n p\u00e4iv\u00e4n Kant-tutkimuksen tekem\u00e4st\u00e4 erottelusta ns. kahden maailman \u00adteorian ja kahden aspektin \u00adteorian v\u00e4lill\u00e4. Schopenhauer hyv\u00e4ksyy kahden aspektin \u00adteorian, jossa ajatuksella tiedon rajoista on keskeinen merkitys ja joka pyrkii muodostamaan uudenlaisen (arkiajattelusta ja tieteellisest\u00e4 ajattelusta eroavan) l\u00e4hestymistavan maailman ja subjektin suhdetta koskeviin kysymyksiin. Schopenhauer hylk\u00e4\u00e4 kahden maailman \u00adteorian, joka ylitt\u00e4\u00e4 em. tiedon rajoitukset ja jonka l\u00e4hestymistapa maailman ja subjektin suhdetta koskeviin kysymyksiin on perinteisempi. Tutkimuksen anti kansainv\u00e4liselle Schopenhauer-tutkimukselle on kahtalainen. Toisaalta se nostaa esiin Schopenhauerin suhteen Kantin filosofian tiedon rajoja painottavaan puoleen. Toisaalta tutkimus liitt\u00e4\u00e4 Schopenhauerin filosofian keskusteluun em. kahden maailman- teorian ja kahden aspektin- teorian v\u00e4lill\u00e4. Tutkimus edustaa filosofianhistoriallista tutkimusta. Sen pohjalta voidaan edet\u00e4 erityiskysymyksiin koskien Schopenhauerin k\u00e4sityksi\u00e4 tietokykymme, metafysiikan ja filosofian luonteesta.",
+      "cited_by_count": 3,
+      "type": "book",
+      "source": {
+        "name": "Trepo - Institutional Repository of Tampere University",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://trepo.tuni.fi/bitstream/10024/67524/1/951-44-6421-4.pdf"
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophical Ethics and Theory",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2604874693"
+    },
+    {
+      "openalex_id": "W2541417898",
+      "doi": "10.1007/s40961-016-0076-4",
+      "title": "The Absolute of Advaita and the Spirit of Hegel: Situating Ved\u0101nta on the Horizons of British Idealisms",
+      "authors": [
+        {
+          "name": "Ankur Barua",
+          "openalex_id": "A5072111058",
+          "orcid": "https://orcid.org/0000-0003-1202-0095",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-26",
+      "abstract": "A significant volume of philosophical literature produced by Indian academic philosophers in the first half of the twentieth century can be placed under the rubric of \u2018\u015aa\u1e41kara and X\u2019, where X is Hegel, or a German or a British philosopher who had commented on, elaborated or critiqued the Hegelian system. We will explore in this essay the philosophical significance of Hegel-influenced systems as an intellectual conduit for these Indo-European conceptual encounters, and highlight how for some Indian philosophers the British variations on Hegelian systems were both a point of entry into debates over \u2018idealism\u2019 and \u2018realism\u2019 in contemporary European philosophy and an occasion for defending Advaita against the charge of propounding a doctrine of world illusionism. Our study of the philosophical enquiries of A.C. Mukerji, P.T. Raju, and S.N.L. Shrivastava indicates that they developed distinctive styles of engaging with Hegelian idealisms as they reconfigured certain aspects of the classical Advaita of \u015aa\u1e41kara through contemporary vocabulary. These appropriations of Hegelian idioms can be placed under three overlapping styles: (a) Mukerji was partly involved in locating Advaita in an intermediate conceptual space between, on the one hand, Kantian agnosticism and, on the other hand, Hegelian absolutism; (b) Raju and Shrivastava presented Advaitic thought as the fulfilment of certain insights of Hegel and F.H. Bradley; and (c) the interrogations of Hegel\u2019s \u2018idealism\u2019 provided several Indian academic philosophers with a hermeneutic opportunity to revisit the vexed question of whether the \u2018idealism\u2019 of \u015aa\u1e41kara reduces the phenomenal world, structured by m\u0101y\u0101, to a bundle of ideas.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Journal of Indian Council of Philosophical Research",
+        "type": "journal",
+        "issn": [
+          "2363-9962"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs40961-016-0076-4.pdf"
+      },
+      "topics": [
+        "Indian History and Philosophy",
+        "Philosophical Ethics and Theory",
+        "Indian and Buddhist Studies"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2541417898"
+    },
+    {
+      "openalex_id": "W2525763085",
+      "doi": "10.1080/17570638.2016.1231878",
+      "title": "\u201cAs From a State of Death\u201d: Schelling\u2019s Idealism as Mortalism",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-09-01",
+      "abstract": "If a problem is the collision between a system and a fact, Spinozism and German idealism\u2019s greatest problem is the corpse. Life\u2019s end is problematic for the denial of death\u2019s qualitative difference from life and the affirmation of nature\u2019s infinite purposiveness. In particular, German idealism exemplifies immortalism \u2013 the view that life is the unconditioned condition of all experience, including death. If idealism cannot explain the corpse, death is not grounded on life, which invites mortalism \u2013 the view that death is the unconditioned condition of experience. In \u201cPhilosophical Letters,\u201d Schelling critiques idealism, arguing that death symbolizes the regulative ideal of a philosophical system\u2019s derivation, our striving for which unifies our rational activity. I interpret Schelling\u2019s critique as explaining how death puts philosophy into question, an idea he develops in the Freedom essay and Berlin lectures. Death is not a problem to be solved by a system, but represents philosophy\u2019s highest yet unrealizable end.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Comparative and Continental Philosophy",
+        "type": "journal",
+        "issn": [
+          "1757-0638",
+          "1757-0646"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/BRUAFA-2.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2525763085"
+    },
+    {
+      "openalex_id": "W2322342685",
+      "doi": "10.5840/ipq200343158",
+      "title": "Kant, Lonergan, and Fichte on the Critique of Immediacy and the Epistemology of Constraint in Human Knowing",
+      "authors": [
+        {
+          "name": "Michael Baur",
+          "openalex_id": "A5110969908"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "One of the defining characteristics of Kant\u2019s \u201ccritical philosophy\u201d is what has been called the \u201ccritique of immediacy\u201d or the rejection of the \u201cmyth of the given.\u201d According to the Kantian position, no object can count as an object for a human knower apart from the knower\u2019s own activity or spontaneity. That is, no object can count as an object for a human knower on the basis of the object\u2019s givenness alone. But this gives rise to a problem: how is it possible to accept the Kantian critique of immediacy while also giving an epistemologically adequate account of the constrained or finite character of human knowing (i.e., an account that does not rely on some appeal to what is simply \u201cgiven\u201d)? This paper examines how this crucial question is addressed (with more or less success) in the \u201ccritical philosophies\u201d of Kant, Lonergan, and Fichte.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "International Philosophical Quarterly",
+        "type": "journal",
+        "issn": [
+          "0019-0365",
+          "2153-8077"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.pdcnet.org/scholarpdf/show?id=ipq_2003_0043_0001_0091_0112&pdfname=ipq_2003_0043_0001_0091_0112.pdf&file_type=pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2322342685"
+    },
+    {
+      "openalex_id": "W3009178731",
+      "doi": "10.1515/jtph-2019-0014",
+      "title": "Transcendental Idealism and the Self-Knowledge Premise",
+      "authors": [
+        {
+          "name": "Chiu Yui Plato Tse",
+          "openalex_id": "A5091262206",
+          "orcid": "https://orcid.org/0000-0001-8846-3680",
+          "institutions": [
+            "National Chengchi University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-01",
+      "abstract": "Abstract The relation between transcendental idealism and philosophical naturalism awaits more careful determination, i. e. whether the issue of their compatibility hinges on their ontological view on the relation between physical and mental phenomena (i. e. whether it is supervenience or emergence) or on their epistemological view on our access to mental content. The aim of this paper is to identify a tension between transcendental idealism and philosophical naturalism, which lies not in their ontological view on the nature of substances, but in their epistemological view on the relation between self-awareness and the first-personal access to mental content. I will first trace the (mis)understanding of transcendental idealism as Berkeleyan idealism to a misinterpretation of the self-knowledge premise in transcendental arguments. I will argue that transcendental idealism is not so much concerned with grounding reality of the external world as with establishing the agential nature of the first-personal perspective of experience, and it has an important implication on the meaning and function of self-awareness in transcendental idealism.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Journal of Transcendental Philosophy",
+        "type": "journal",
+        "issn": [
+          "2626-8310",
+          "2626-8329"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/jtph-2019-0014/pdf"
+      },
+      "topics": [
+        "Philosophy and Theoretical Science",
+        "Philosophical Ethics and Theory",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W3009178731"
+    },
+    {
+      "openalex_id": "W3127004263",
+      "doi": "10.2307/48563622",
+      "title": "GENEALOGY AND JURISPRUDENCE IN FICHTE\u2019S GENETIC DEDUCTION OF THE CATEGORIES",
+      "authors": [
+        {
+          "name": "G. Anthony Bruno",
+          "openalex_id": "A5029700714",
+          "orcid": "https://orcid.org/0000-0002-4002-2971"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Fichte argues that the conclusion of Kant\u2019s transcendental deduction of the categories is correct yet lacks a crucial premise, given Kant\u2019s admission that the metaphysical deduction locates an arbitrary origin for the categories. Fichte provides the missing premise by employing a new method: a genetic deduction of the categories from a first principle. Since Fichte claims to articulate the same view as Kant in a different, it is crucial to grasp genetic deduction in relation to the sorts of deduction that Kant offers. I propose to interpret genetic deduction as the simultaneous fulfillment of two tasks: answering the question quid facti by deriving the categories from the I and answering the question quid juris by establishing our entitlement to the categories as conditions of experience. While the second task represents Fichte\u2019s agreement with Kant\u2019s transcendental deduction, the first reflects his correction of Kant\u2019s metaphysical deduction.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "History of Philosophy Quarterly",
+        "type": "journal",
+        "issn": [
+          "0740-0675",
+          "2152-1026"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/BRUGAJ.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Classical Philosophy and Thought",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W3127004263"
+    },
+    {
+      "openalex_id": "W2622182601",
+      "doi": null,
+      "title": "Life and Autonomy: Forms of Self-Determination in Kant and Hegel",
+      "authors": [
+        {
+          "name": "Thomas Khurana",
+          "openalex_id": "A5085273667",
+          "orcid": "https://orcid.org/0000-0003-3149-3787"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "It is, by now, a well-established thesis that one major path that runs from Kant, through Fichte and Schelling, up to Hegel is defined by the conception of freedom as autonomy.It is less known and has been less frequently the object of study that from Kant to Hegel a new idea of life takes shape as well.Even less taken into account is the fact that these two paths from Kant to Hegel might be systematically intertwined.If the notion of life in German Idealism is discussed at all, it has been discussed mostly in dealing with the philosophies of nature and biology of Kant and his successors.This framing is, of course, not wrong in itself; yet to my mind we can only fully account for the thought of what is living and the new interest that the idealist philosophies of nature actually deserve if we regard life as a practical notion.For the idealists, life is, as Fichte has it, an \"analogue of freedom in nature,\" 1 and it describes the one form of object we can encounter in nature that possesses a kind of unity and organization that comes close to the unity and the organization of spirit.In various accounts of German Idealism, life is not only regarded as an analogue of a self-grounded",
+      "cited_by_count": 21,
+      "type": "book-chapter",
+      "source": {
+        "name": "Open Access at Essex (University of Essex)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://repository.essex.ac.uk/19547/1/Khurana%20-%20Life%20and%20Autonomy%20-%20Penultimate%20Draft.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Political Philosophy and Ethics",
+        "Economic and Social Issues"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2622182601"
+    },
+    {
+      "openalex_id": "W2759285759",
+      "doi": "10.1515/9783110498615-002",
+      "title": "Kant\u2019s Practical Postulates and the Development of German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-23",
+      "abstract": "Kant\u2019s moral theology was a subject of intense debate in the early reception of Kant\u2019s philosophy. At the same time, Kant\u2019s notion of practical postulation held considerable interest for Fichte, Schelling, and Hegel. What I seek to show is the systematic connection of these two facts: examination of the ways in which Kant\u2019s postulates of pure practical reason exposed the Kantian system to criticism sheds light, I argue, on some of the fundamental moves made by the German Idealists in their transformation of Kant\u2019s philosophy.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/1560555/8/Gardner_%5B9783110498615%20-%20German%20Idealism%20Today%5D%20Kants%20Practical%20Postulates%20and%20the%20Development%20of%20German%20Idealism.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2759285759"
+    },
+    {
+      "openalex_id": "W2907926696",
+      "doi": "10.4000/ref.952",
+      "title": "The Imagination in Kant and Fichte",
+      "authors": [
+        {
+          "name": "Virginia L\u00f3pez-Dom\u00ednguez",
+          "openalex_id": "A5110985097"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Traditionally, imagination has been dismissed or devalued by philosophy. For centuries, it was considered a minor and secondary function in the constitution of our worldview. And this holds true for both its reproductive and productive aspects. In this paper, it will be argued that the view of the imagination changed radically after Kant, because he considered imagination not only a fundamental active faculty in the process of knowledge but also an authentic creative force, present both in aesthetic experience and in artistic production. With this he prepared the way for Fichte, Schelling and the Romantics, transforming it into an inventive activity, linked to genius and freedom, but at the same time, builder of our reality. Fichte is completely faithful to Kant\u2019s theory of transcendental imagination, but, as it will be argued, he presents it from a different conception of philosophy, which will allow him to expand, deepen, and make it the basic faculty of man. Fichte took his principle, the last explanatory ground of the system, from the second Critique, from the Kantian idea that the key to the whole edifice of reason lies in practical reason. And so his starting point was the Thathandlung, the absolute action, without further conditions. This would give rise to a holistic vision, where the unity underlies the different human faculties, in a globalizing process led by the imagination, which creates new spheres of freedom, constructing all human activity, whether theoretical, practical, aesthetic or political.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revista de Estud(i)os sobre Fichte",
+        "type": "journal",
+        "issn": [
+          "2258-014X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.openedition.org/ref/pdf/952"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W2907926696"
+    },
+    {
+      "openalex_id": "W2286148239",
+      "doi": "10.1515/9783110192438.1.90",
+      "title": "The Status of the Wissenschaftslehre: Transcendental and Ontological Grounds in Fichte",
+      "authors": [
+        {
+          "name": "S Gardner",
+          "openalex_id": "A5112436894"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-10-29",
+      "abstract": "In this paper I pursue the question whether transcendental explanation in Fichte's Wissenschaftslehre should be regarded as ontologically committed. It is natural to assume that transcendental explanation in the Wissenschaftslehre should be construed non-ontologically: Schulze's criticisms of Kantian philosophy and Jacobi's objection to philosophical justification supply Fichte with motives for freeing transcendental explanation of ontological commitment. However, the situation is not, I argue, clear-cut: Fichte's explicit remarks are equivocal and exhibit tensions, and interpretations of the WL which imply its non-ontological status are open to criticism. Finally I suggest a way in which Fichte's position on the WL\u2019s status may be regarded as coherent and defensible, and indicate how the relation of Fichte to Schelling and Hegel may be understood in its light.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "2007",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/93423/1/Gardner_STATUS%20OF%20THE%20WISSENSCHAFTSLEHRE%20%28Jahrbuch%29.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2286148239"
+    },
+    {
+      "openalex_id": "W2151870264",
+      "doi": "10.3998/ohp.9750134.0001.001",
+      "title": "Democracy of Objects",
+      "authors": [
+        {
+          "name": "Levi R. Bryant",
+          "openalex_id": "A5054906171"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Can I claim authorship of the book that follows?In the typical and frustrating manner of a philosopher-if such I am-I can only answer that this depends on what authorship is.Certainly, I spent months typing words and editing various drafts of The Democracy of Objects.Yet if there is some truth to the ontology that I here develop, then every object is also a crowd of objects.Moreover, the circumstances under which this book came to be written, coupled with the way in which this book was written, render this point especially true.This book was already on its way to coming into being before I even conceived of it as a result of my encounter with the literary and media theorist Melanie Doherty.I met Doherty around eight years ago under unusual circumstances when I was at the height of my Lacanian period, singing endless odes to the signifier and fully enmeshed within the linguistic and rhetorical turn.A deep and productive friendship ensued that continues to this day.Doherty continuously challenged my focus on the signifier and the semiotic, conceding that these things play a role, but also drawing my attention to the role the non-semiotic and material plays in the formation of social relations.Like the reincarnation of Alice that she is, she sent me down the rabbit hole of thinkers such as Latour, Ong, Kittler, Haraway, McLuhan, Marx, and a host of others, while also underscoring the singularity of mathematics, science, neurology, and biology.While I remain a resolute Lacanian-how couldn't I, having suffered through all the seminars, having gone through analysis, and having practiced for a time myself?-Ix Levi R. Bryant xii Levi R. Bryant editing this text, but he also created the majority of the diagrams.Jon Cogburn, a friend from nearly two decades ago but whom I've only recently had the privilege of getting to know again, provided cogent critique and editorial comments from a philosophical orientation very foreign to my own background.I am tremendously fortunate to have his friendship and eagerly look forward to developments in his own thought in the years to come.I have only had the pleasure of knowing Timothy Morton's friendship this year, but despite the short time of our encounter, he generously provided extremely helpful editorial advice and has been a deep influence on",
+      "cited_by_count": 629,
+      "type": "book",
+      "source": {
+        "name": "Open Humanities Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.3998/ohp.9750134.0001.001"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Cybernetics and Technology in Society",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W2151870264"
+    },
+    {
+      "openalex_id": "W2765109054",
+      "doi": "10.4324/9781003249573-2",
+      "title": "The Elimination of Metaphysics Through Logical Analysis of Language",
+      "authors": [
+        {
+          "name": "Rudolf Carnap",
+          "openalex_id": "A5062063339"
+        },
+        {
+          "name": "Arthur Pap",
+          "openalex_id": "A5026464497"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-12",
+      "abstract": "Criticisms of very diverse kinds have been set forth. Many have declared that the doctrine of metaphysics is false, since it contradicts our empirical knowledge. Many anti metaphysicians have declared that occupation with metaphysical questions is sterile. The development of modern logic has made it possible to give a new and sharper answer to the question of the validity and justification of metaphysics. The researches of applied logic or the theory of knowledge, which aim at clarifying the cognitive content of scientific statements and thereby the meanings of the ternis that occur in the statements, by means of logical analysis, lead to a positive and to a negative result. A word which has a meaning, is usually also said to designate a concept; if it only seems to have a meaning while it really does not, people speak of a \u201cpseudo-concept.\u201d",
+      "cited_by_count": 470,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/TEO.pdf"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Education, Innovation and Language Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2765109054"
+    },
+    {
+      "openalex_id": "W356282943",
+      "doi": "10.31979/2151-6014(2013).040204",
+      "title": "German Idealism Meets Indian Vedanta and Kasmiri Saivism",
+      "authors": [
+        {
+          "name": "Katherine Elise Barhydt",
+          "openalex_id": "A5043740863",
+          "institutions": [
+            "Lewis & Clark College"
+          ]
+        },
+        {
+          "name": "J. M. Fritzman",
+          "openalex_id": "A5074742097",
+          "orcid": "https://orcid.org/0000-0002-5086-809X",
+          "institutions": [
+            "Lewis & Clark College"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-07-02",
+      "abstract": "Regarding each philosophy as a variation of that of Spinoza, this article compares the German Idealism of Schelling and Hegel with the Indian Vedanta of Sa?kara and Ramanuja, as well as Abhinavagupta's Kasmiri Saivism. It argues that only Hegel's philosophy does not fail. For \u015aa\u1e45kara, Ramanuja, Abhinavagupta, and Schelling, the experience of ultimate reality\u2014Brahman for \u015aa\u1e45kara and Ramanuja, Siva for Abhinavagupta, the Absolute for Schelling\u2014is self-authenticating and so excludes the possibility of error. However, there is also no possibility of truth as no criterion distinguishes truth from error when individuals make contradictory claims. By contrast, Hegel's Geist is an extended mind that potentially encompasses the human community. Geist develops historically. Experience is conceptual and concepts must be socially recognized to be legitimate. Experience is fallible, for Hegel, and better accounts are obtained through mutual criticism. Although disagreement represents an impassible impasse for Sa?kara, Ramanuja, Abhinavagupta, and Schelling, it is the road forward for Hegel.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Comparative Philosophy An International Journal of Constructive Engagement of Distinct Approaches toward World Philosophy",
+        "type": "journal",
+        "issn": [
+          "2151-6014"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1094&context=comparativephilosophy"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Phenomenology and Existential Philosophy",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W356282943"
+    },
+    {
+      "openalex_id": "W2105853614",
+      "doi": null,
+      "title": "Idealism in Yog\u0101c\u0101ra Buddhism",
+      "authors": [
+        {
+          "name": "Sean Butler",
+          "openalex_id": "A5063193217"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "In the last fifty years or so, since Yog\u0101c\u0101ra texts have been available to western academics, there has been a debate as to how Yog\u0101c\u0101ra Buddhism should be interpreted. This article seeks to establish that Yog\u0101c\u0101ra Buddhism is most properly interpreted as an idealist school of Buddhist thought. Specifically, it challenges the arguments that have been put forth in recent years that suggest a phenomenological interpretation of Yog\u0101c\u0101ra Buddhism. The primary target of my argumentation is Dan Lusthaus but arguments of other scholars are also taken into account. In the process of defending my thesis I will explain the fundamentals of Yog\u0101c\u0101ra Buddhism, provide the reasons why Yog\u0101c\u0101ra Buddhism should be interpreted as an idealist school, provide reasons why some have interpreted Yog\u0101c\u0101ra Buddhism as phenomenology, refute non-idealist interpretations of Yog\u0101c\u0101ra Buddhism, and investigate the relation between Yog\u0101c\u0101ra Buddhism and other forms of idealism. In order to achieve each of these goals I will utilize the original texts of Yog\u0101c\u0101ra Buddhism, known as the Trimsika, authored by Vasubandhu and the Cheng Wei-Shih Lun, authored by Hs\u00fcan-Tsang. I will also reference and expound upon the philosophies of George Berkeley, Immanuel Kant, and Georg Hegel along with recent scholars who have partaken in this debate.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "ScholarWorks - WMU (Western Michigan University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.wmich.edu/hilltopreview/vol4/iss1/6"
+      },
+      "topics": [
+        "Indian and Buddhist Studies",
+        "Study and Philosophy of Religion",
+        "Medieval and Classical Philosophy"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2105853614"
+    },
+    {
+      "openalex_id": "W2113420508",
+      "doi": "10.1017/s1369415412000143",
+      "title": "Schopenhauer's Contraction of Reason: Clarifying Kant and Undoing German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903",
+          "institutions": [
+            "UCL Australia"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-10-16",
+      "abstract": "Abstract Schopenhauer's claim that the essence of the world consists in Wille encounters well-known difficulties. Of particular importance is the conflict of this metaphysical claim with his restrictive account of conceptuality. This paper attempts to make sense of Schopenhauer's position by restoring him to the context of post-Kantian debate, with special attention to the early notebooks and Fourfold Root of the Principle of Sufficient Reason . On the reconstruction suggested here, Schopenhauer's philosophical project should be understood in light of his rejection of post-Kantian metaphilosophy and his opposition to German Idealism.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/1411572/1/Gardner_SCHOPENHAUER%20CONTRACTION%20OF%20REASON%201.pdf"
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophical Ethics and Theory",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2113420508"
+    },
+    {
+      "openalex_id": "W2176719761",
+      "doi": null,
+      "title": "The Movement of Philosophy: Freedom as Ecstatic Thinking in Schelling and Heidegger",
+      "authors": [
+        {
+          "name": "Adam Arola",
+          "openalex_id": "A5071332216"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-03-01",
+      "abstract": "xii, 259 p. Print copy also available for check out and consultation in the University of Oregon's library under the call number: B105.L45 A76 2008",
+      "cited_by_count": 8,
+      "type": "dissertation",
+      "source": {
+        "name": "Scholars' Bank (University of Oregon)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1794/7231"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Hannah Arendt's Political Philosophy",
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2176719761"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

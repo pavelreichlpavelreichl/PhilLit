@@ -1,0 +1,85 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 3 paper(s)...
+[s2_batch.py] Processing 3 responses...
+[s2_batch.py] Found 3 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "3 paper IDs",
+  "results": [
+    {
+      "paperId": "6468f644a0dd00e4aba57592647bcb8c808ccd21",
+      "title": "Nation, Race, Language, and Spirituality: Reading Fichte's Addresses to the German Nation",
+      "authors": [
+        {
+          "name": "M. Saji",
+          "authorId": "118004575"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6468f644a0dd00e4aba57592647bcb8c808ccd21",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "1-41",
+        "volume": "2011"
+      },
+      "publicationTypes": null,
+      "_queryId": "6468f644a0dd00e4aba57592647bcb8c808ccd21"
+    },
+    {
+      "paperId": "ec20e8dd3c067ff2b323d9cf2b4bb05311a565df",
+      "title": "Language, Embodiment, and the Supersensuous in Fichte\u2019s Addresses to the German Nation",
+      "authors": [
+        {
+          "name": "R. Velkley",
+          "authorId": "113255793"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2307/J.CTV18DVVNP.12",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ec20e8dd3c067ff2b323d9cf2b4bb05311a565df",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "153-164",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "ec20e8dd3c067ff2b323d9cf2b4bb05311a565df"
+    },
+    {
+      "paperId": "b047c61e89c70da13aff0905699d1892902b37ff",
+      "title": "People, Nation, State: The Ground in Fichte\u2019s Addresses",
+      "authors": [
+        {
+          "name": "Mariano Gaudio",
+          "authorId": "2100755358"
+        }
+      ],
+      "year": 2021,
+      "abstract": "ABSTRACT In Fichte\u2019s Addresses to the German Nation (1807\u20138), one important issue is which of the concepts works as a foundation for the others. People, nation, language, state, or education are all possible candidates to take a central place. First, this paper analyzes the problems presented by the notions of \u201cpeople\u201d and \u201cnation,\u201d such as their ambiguous and even contradictory aspects. Second, we focus on how the concept of education needs a solid ground from which an educational plan can develop. Finally, we show that the fundamental concept of Fichte\u2019s Addresses is the same one as in his Natural Right: the State. According to Fichte, only the rational State can guarantee the realization of education, people, and nation.",
+      "citationCount": 0,
+      "doi": "10.1080/17570638.2021.1915110",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b047c61e89c70da13aff0905699d1892902b37ff",
+      "venue": "",
+      "journal": {
+        "name": "Comparative and Continental Philosophy",
+        "pages": "75 - 87",
+        "volume": "13"
+      },
+      "publicationTypes": null,
+      "_queryId": "b047c61e89c70da13aff0905699d1892902b37ff"
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

@@ -1,0 +1,247 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte striving Streben', limit=20
+[search_philpapers.py] Retrieved 14 entries...
+[search_philpapers.py] Search complete: 14 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte striving Streben",
+  "results": [
+    {
+      "title": "Andrija Juri\u0107, Streben of the I as the Fundamental Form of Consciousness",
+      "url": "https://philpapers.org/rec/JURSOT-2",
+      "philpapers_id": "JURSOT",
+      "snippet": "This paper aims to show that Fichte\u2019s concept of Streben or striving of the I is the necessary condition of finite or individual consciousness. The I posits itself absolutely, but in ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andrija Juri\u0107"
+        }
+      ],
+      "extra_snippets": [
+        "It will be concluded that the I possesses a \u201cdual nature\u201d or divided character: it is finite, but it strives towards infinity. The tension arising from this contradiction should be the moving force of the I. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fichte's striving subject.Simon Lumsden - 2004 - Inquiry: An Interdisciplinary Journal of Philosophy 47 (2):123 \u2013 142.",
+        "Any Colour You Like: The Interplay of Fichte\u2019s \u2018I\u2019, \u2018Not-I\u2019, and Ansto\u00df.James L.",
+        "E. Ternent - 2022 - Fichte Studien 51 (2):441-462.",
+        "Knowledge and Action: Self-Positing, I-Hood, and the Centrality of the Striving Doctrine.C. Jeffery Kinlaw - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Springer Verlag."
+      ]
+    },
+    {
+      "title": "Elena Paola Carola Alessiato, Striving for Freedom. Some Notes about Fichte\u2019s Idealism",
+      "url": "https://philpapers.org/rec/ALESFF",
+      "philpapers_id": "ALESFF",
+      "snippet": "Fichte\u2019s idea of activity will be examined with reference to such basic concepts as collision [Anstoss], interaction [Wechselwirkung], inter-determination [Wechselbestimmung], and striving [Streben]. However, it is freedom which frames and connects the core components of Fichte\u2019s thinking and sets up the goal of his philosophy of action.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Elena Paola Carola Alessiato"
+        }
+      ],
+      "extra_snippets": [
+        "Fichte\u2019s idea of activity will be examined with reference to such basic concepts as collision [Anstoss], interaction [Wechselwirkung], inter-determination [Wechselbestimmung], and striving [Streben]. However, it is freedom which frames and connects the core components of Fichte\u2019s thinking and sets up the goal of his philosophy of action.",
+        "In assuming the unitary character of Fichte\u2019s philosophical system, concluding remarks are developed concerning the moral meaning of the act of striving for freedom and, conversely, the immorality of attitudes and feelings such as fear, resignation, and fatigue.",
+        "Fichte and Existentialism: Freedom and Finitude, Subjectivity and Striving.Steven Hoeltzel - 2020 - In Jon Stewart (ed.), The Palgrave Handbook of German Idealism and Existentialism (Palgrave Handbooks in German Idealism). Cham: Palgrave Macmillan.",
+        "Fichte's Ethical Thought.Allen W."
+      ]
+    },
+    {
+      "title": "Simon Lumsden, Fichte's striving subject",
+      "url": "https://philpapers.org/rec/LUMFSS",
+      "philpapers_id": "LUMFSS",
+      "snippet": "In this paper I argue that Fichte&#x27;s attempt to reconcile the dualism of concept and intuition requires the overcoming of any idea of a thing-in-itself. At the same time he preserves ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Simon Lumsden"
+        }
+      ],
+      "extra_snippets": [
+        "In this paper I argue that Fichte's attempt to reconcile the dualism of concept and intuition requires the overcoming of any idea of a thing-in-itself. At the same time he preserves the idea of an external constraint on the I's self-positing. This central role for the realist constraint of the check conflicts with recent interpretations of Fichte that see his project as advocating the exclusivity of the space of reasons.",
+        "The Unquiet Spirit of Idealism: Fichte's Drive to Freedom and the Paradoxes of Finite Subjectivity.Matthew Christopher Altman - 2001 - Dissertation, The University of Chicago \u00b7 Streben of the I as the Fundamental Form of Consciousness.Andrija Juri\u0107 - 2021 - Conatus 6 (2).",
+        "Knowledge and Action: Self-Positing, I-Hood, and the Centrality of the Striving Doctrine.C. Jeffery Kinlaw - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Palgrave Macmillan.",
+        "Realism and Idealism in Fichte's theory of Subjectivity.Simon Lumsden - 2007 - The Proceedings of the Twenty-First World Congress of Philosophy 10:189-196."
+      ]
+    },
+    {
+      "title": "G\u00fcnter Z\u00f6ller, Identitas discernibilium. Spinoza und Fichte \u00fcber Streben, Trieb und Affekt",
+      "url": "https://philpapers.org/rec/ZLLIDS",
+      "philpapers_id": "ZLLIDS",
+      "snippet": "Identitas discernibilium. Spinoza und Fichte \u00fcber Streben, Trieb und Affekt.G\u00fcnter Z\u00f6ller - 2013 - In Stefan Lang &amp; Lars-Thade Ulrichs, Subjektivit\u00e4t und Autonomie: Praktische Selbstverh\u00e4ltnisse in der klassischen deutschen Philosophie. Berlin, Boston: De Gruyter.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G\u00fcnter Z\u00f6ller"
+        }
+      ],
+      "extra_snippets": [
+        "Reiner Wille, unreines Wollen: Praktische Selbstverh\u00e4ltnisse bei Kant, Fichte, Schelling, Schopenhauer und Frankfurt.Lars-Thade Ulrichs - 2013 - In Stefan Lang & Lars Thade Ulrichs, Subjektivita\u0308t und Autonomie: Praktische Selbstverha\u0308ltnisse in der klassischen deutschen Philosophie.",
+        "Monismus und Freiheit in Fichtes Philosophie der Religion.Christian Klotz - 2013 - In Stefan Lang & Lars Thade Ulrichs, Subjektivita\u0308t und Autonomie: Praktische Selbstverha\u0308ltnisse in der klassischen deutschen Philosophie. Boston: De Gruyter.",
+        "Spinoza zur Einf\u00fchrung: Fichtes Wissenschaftslehre von 1812.Birgit Sandkaulen - 2006 - Fichte-Studien 30 (1):71-84."
+      ]
+    },
+    {
+      "title": "Steven Hoeltzel, Fichte and Existentialism: Freedom and Finitude, Subjectivity and Striving",
+      "url": "https://philpapers.org/rec/HOEFAE",
+      "philpapers_id": "HOEFAE",
+      "snippet": "Knowledge and Action: Self-Positing, I-Hood, and the Centrality of the Striving Doctrine.C. Jeffery Kinlaw - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Palgrave Macmillan.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Steven Hoeltzel"
+        }
+      ],
+      "extra_snippets": [
+        "This essay exhibits and explains a range of claims, each of which is central to Fichte\u2019s \u201ctheory of science\u201d (Wissenschaftslehre) and all of which importantly anticipate existentialism. The claims in question are the following: (1) The nature of selfhood or subjectivity is an issue of fundamental philosophical importance.",
+        "Fichte\u2019s Account of Reason and Rational Normativity.Steven Hoeltzel - 2019 - In The Palgrave Fichte Handbook. Cham: Palgrave Macmillan.",
+        "Fichte\u2019s Theory of Subjectivity.Frederick Neuhouser - 1990 - New York: Cambridge University Press.",
+        "Knowledge and Action: Self-Positing, I-Hood, and the Centrality of the Striving Doctrine.C. Jeffery Kinlaw - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Palgrave Macmillan."
+      ]
+    },
+    {
+      "title": "Tam\u00e1s Hankovszky, Philosophy of education in early Fichte",
+      "url": "https://philpapers.org/rec/HANPOE",
+      "philpapers_id": "HANPOE",
+      "snippet": "According to Fichte\u2019s early science of knowledge, man is a free and independent being who becomes somebody not through the power of nature, by developing his innate skills and abilities, or through external influence, but by his own power. Since the essence of human beings is I-hood, the individual, having defeated the not-I or nature living in him, has to strive towards the absolute I, which is nothing else but the being created by himself.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tam\u00e1s Hankovszky"
+        }
+      ],
+      "extra_snippets": [
+        "According to Fichte\u2019s early science of knowledge, man is a free and independent being who becomes somebody not through the power of nature, by developing his innate skills and abilities, or through external influence, but by his own power. Since the essence of human beings is I-hood, the individual, having defeated the not-I or nature living in him, has to strive towards the absolute I, which is nothing else but the being created by himself.",
+        "Fichte's Developmental View of Self-Consciousness.Gabriel Gottlieb - 2016 - In Fichte's Foundations of Natural Right: A Critical Guide. Cambridge University Press.",
+        "Fichte\u2019s Account of Reason and Rational Normativity.Steven Hoeltzel - 2019 - In The Palgrave Fichte Handbook. Cham: Palgrave Macmillan.",
+        "Knowledge and Action: Self-Positing, I-Hood, and the Centrality of the Striving Doctrine.C. Jeffery Kinlaw - 2019 - In Steven Hoeltzel, The Palgrave Fichte Handbook. Cham: Palgrave Macmillan."
+      ]
+    },
+    {
+      "title": "Simon Lumsden, Realism and Idealism in Fichte's theory of Subjectivity",
+      "url": "https://philpapers.org/rec/LUMRAI-2",
+      "philpapers_id": "LUMRAI",
+      "snippet": "The exposition of Fichte will examine his theory of subjectivity in relation to the central notion of striving; it will be argued that the notion of a striving subject tries to reconcile the dichotomy of idealism and realism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Simon Lumsden"
+        }
+      ],
+      "extra_snippets": [
+        "Kant's account of subjectivity is ambiguous: there is an implicit critique of Descartes in Kaaat, but this is in conflict with more Cartesian aspects of his approach to subjectivity. Fichte develops the critical elements of Kant and turns them against Kant's residual Cartesianism.",
+        "Fichte, in the various versions of the Wissenschaftslehre, is the first to be aware of the limitations of the reflective model of consciousness. In those texts he presents his alternative model for subjectivity by trying to conceive of selfconsciousness such that the self-relation makes no separation between thinker and thought.",
+        "While Fichte's insight into the limitations of the reflective model of consciousness is generally accepted, his own account of the character of the immediate self-relation, which he presents as the alternative to the reflective model, was never satisfactorily resolved.",
+        "The exposition of Fichte will examine his theory of subjectivity in relation to the central notion of striving; it will be argued that the notion of a striving subject tries to reconcile the dichotomy of idealism and realism."
+      ]
+    },
+    {
+      "title": "Paul Hoffman, Final Causation in Spinoza",
+      "url": "https://philpapers.org/rec/HOFFCI-2",
+      "philpapers_id": "HOFFCI",
+      "snippet": "One can only do justice to these passages if one assumes that Spinoza did accept final causation in the traditional sense. John Carriero argumentierte, dass Spinoza keine finale Kausalit\u00e4t im aristotelischen Sinne vertrete, sondern das Streben von Dingen als Ausdruck einer Art metaphysischen Tr\u00e4gheit verstehe.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paul Hoffman"
+        }
+      ],
+      "extra_snippets": [
+        "One can only do justice to these passages if one assumes that Spinoza did accept final causation in the traditional sense. John Carriero argumentierte, dass Spinoza keine finale Kausalit\u00e4t im aristotelischen Sinne vertrete, sondern das Streben von Dingen als Ausdruck einer Art metaphysischen Tr\u00e4gheit verstehe.",
+        "Zweitens f\u00fchrt Carrieros Zur\u00fcckweisung finaler Verursachung zu einer deflation\u00e4ren Lesart von Spinozas Begriffen des Guten und des Strebens von Dingen, die mit vielen Passagen aus Spinozas Ethik unvereinbar sind.",
+        "Dagegen, so wird hier ausgef\u00fchrt, sprechen zwei Gr\u00fcnde: Erstens gen\u00fcgt Spinozas Charakterisierung des Strebens von Dingen prinzipiell Thomas von Aquins Definition finaler Verursachung."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Hans Jacob & Reinhard Lauth, J.G. Fichte-Gesamtausgabe der Bayerischen Akademie der Wissenschaften",
+      "url": "https://philpapers.org/rec/FICNS-9",
+      "philpapers_id": "FICNS",
+      "snippet": "This version begins with the most determinate &quot;point of view,&quot; that of ethical willing, understood as one of the higher &quot;schemata&quot; of the absolute&#x27;s appearance, from which Fichte deduces the additional moments of knowing.",
+      "page_age": null,
+      "extra_snippets": [
+        "Die Wissenschaftslehre von 1812 - die letzte, die Fichte vollstandig vorgetragen hat - wird der Forschung erstmals in zuverlassiger Form vorgelegt. In ihr deduziert Fichte vom hochsten bestimmten 'Blick' aus, dem des sittlichen Wollens als einem der hoheren 'Schemata' der Erscheinung des Absoluten, die weiteren Momente des Wissens.",
+        "Die Rechtslehre von 1812 wird ausschliesslich nach der Handschrift wiedergegeben. Drei nicht exakt zu datierende Texte zeigen Fichtes Reaktion auf die Zeitereignisse (u.a. Napoleons Kontributionsforderungen an den preussischen Staat). Ausserdem stellt der Philosoph grundsatzliche Uberlegungen auch auf volkswirtschaftlichem Gebiet an (Bewertung landwirtschaftlicher Guter, Geldwerttheorie).",
+        "This version begins with the most determinate \"point of view,\" that of ethical willing, understood as one of the higher \"schemata\" of the absolute's appearance, from which Fichte deduces the additional moments of knowing.",
+        "The texts of the 1812 Doctrine of Right [Rechtslehre] and the 1812 Doctrine of Ethics [Sittenlehre] published here are based entirely on the lecture manuscripts and incorporate nothing from previously published texts based upon other sources. -- Three additional texts, none of which can be precisely dated, illustrate Fichte's reaction to events of the day, such as Napoleon's demand for reparations from Prussia."
+      ]
+    },
+    {
+      "title": "Robert B. Pippin, Fichte's Contribution in Fichte and Contemporary Philosophy",
+      "url": "https://philpapers.org/rec/PIPFCI",
+      "philpapers_id": "PIPFCI",
+      "snippet": "How To Make an Idealist: Fichte&#x27;s Refutation of Dogmatism and the Problem of the Starting Point of the Wissenschaftslehre in Fichte and Contemporary Philosophy.Daniel Breazeale - 1988 - Philosophical Forum 19 (2):97-123 \u00b7 Forum on Robert B. Pippin, &quot;After the beautiful&quot;.R. B. Pippin, M. Farina, ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Robert B. Pippin"
+        }
+      ],
+      "extra_snippets": [
+        "How To Make an Idealist: Fichte's Refutation of Dogmatism and the Problem of the Starting Point of the Wissenschaftslehre in Fichte and Contemporary Philosophy.Daniel Breazeale - 1988 - Philosophical Forum 19 (2):97-123.",
+        "Fichte's Separation Thesis.Nedim Nomer - 2013 - Philosophical Forum 44 (3):233-254.",
+        "Fichte's Contribution.Robert B.",
+        "Fichte and Philosophical Method in Fichte and Contemporary Philosophy.Walter E."
+      ]
+    },
+    {
+      "title": "B. Allen, Foundations of Transcendental Philosophy, Johann Fichte, ed. and trans. Daniel Breazeale",
+      "url": "https://philpapers.org/rec/ALLFOT-2",
+      "philpapers_id": "ALLFOT",
+      "snippet": "Review of Johann Gottlieb Fichte, G\u00fcnter Z\u00f6ller (tr.), Daniel Breazeale (tr.), System of Ethics.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. Allen"
+        }
+      ],
+      "extra_snippets": [
+        "Foundation of the Entire Wissenschaftslehre and Related Writings (1794-95), by Johann Gottlieb Fichte, ed. and trans. Daniel Breazeale.",
+        "FICHTEANA: Review of J.G. Fichte Research 23 (2023).David W.",
+        "Johann Gottlieb Fichte, \"Foundations of Transcendental Philosophy \".",
+        "Review of Johann Gottlieb Fichte, G\u00fcnter Z\u00f6ller (tr.), Daniel Breazeale (tr.), System of Ethics."
+      ]
+    },
+    {
+      "title": "Zu unserem Fichte-Bildnis. - Bruno Bauch",
+      "url": "https://philpapers.org/rec/BAUZUF",
+      "philpapers_id": "BAUZUF",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": null
+    },
+    {
+      "title": "Patrick Hassan, Striving as Suffering: Schopenhauer\u2019s A Priori Argument for Pessimism",
+      "url": "https://philpapers.org/rec/HASSAS-11",
+      "philpapers_id": "HASSAS",
+      "snippet": "This paper aims to clarify Schopenhauer\u2019s a priori argument for pessimism and, to an extent, rescue it from standard objections in secondary literature. I argue that if we separate out the ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Patrick Hassan"
+        }
+      ]
+    },
+    {
+      "title": "Jakob Friedrich Fries (ed.), Reinhold, Fichte Und Schelling",
+      "url": "https://philpapers.org/rec/FRIRFU",
+      "philpapers_id": "FRIRFU",
+      "snippet": "JACOB F. FRIES, &quot;S\u00e4mtliche Schriften. Nach den Ausgaben letzter Hand zusammengestellt, eingeleitet und mit einem Fries-Lexikon versehen&quot; von G. K\u00d6NIG-L. GELDSETZER. Band 24 , &quot;Reinhold, Fichte und Schelling sowie weitere polemische Schriften aus den Jahren 1803-1847&quot;.",
+      "page_age": null,
+      "extra_snippets": [
+        "Activity and ground: Fichte, Schelling, and Hegel.George Joseph Seidel - 1976 - New York: G.",
+        "Grandi interpreti di Kant: Fichte e Schelling.Pasquale Salvucci - 1984 - Urbino: distribuzione, Edizioni QuattroVenti.",
+        "Fichte und Schelling oder: \u00dcber die Grenze menschlichen Wissens.Lore H\u00fchn - 1994 - J.B.",
+        "Der deutsche Idealismus: eine Einf\u00fchrung in die Philosophie von Fichte, Hegel und Schelling.Gerhard Gamm - 1997"
+      ]
+    }
+  ],
+  "count": 14,
+  "errors": []
+}

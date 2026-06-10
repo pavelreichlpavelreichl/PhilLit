@@ -1,0 +1,159 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte Atheismusstreit divine plan', limit=25
+[search_openalex.py] Retrieved 4 papers...
+[search_openalex.py] Search complete: 4 papers found
+[search_openalex.py] Cached results (cache key: openalex_6f27fdec806dd35a)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte Atheismusstreit divine plan",
+  "results": [
+    {
+      "openalex_id": "W2499459646",
+      "doi": "10.1515/9783110324341-008",
+      "title": "What Does it Mean to Orient Oneself in Thinking?",
+      "authors": [
+        {
+          "name": "Koeddermann, Achim D.",
+          "openalex_id": ""
+        },
+        {
+          "name": "Cannon, Nancy",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-15",
+      "abstract": "\u201cOrientation\u201d is the perennial task of any university or college education. Without providing tools of orientation, the university fails. The American university follows the tutorial concept of Oxford as paradigm. Large undergraduate classes from Harvard to Oneonta seem to undercut the concept of such personalized forms of orientation. However, modern society needs the educational ideal as formulated by Immanuel Kant: \"Enlightenment\" as escape from media- or \"self inflicted tutelage\"(WA). The SUNY Board of Trustees, in adopting the resolution requiring assessment of student information management and critical thinking skills, seems to aspire to Kant\u2019s ideal. The place of reference for orientation logically remains the library, physically or virtually. With guiding help, critical readers are able to orient themselves and others by referring to relevant sources without blindly following opinions.",
+      "cited_by_count": 8,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/FERWDI-2.pdf"
+      },
+      "topics": [
+        "Religious Education and Schools",
+        "Education and Islamic Studies",
+        "Religion, Spirituality, and Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2499459646"
+    },
+    {
+      "openalex_id": "W3175715567",
+      "doi": "10.82308/8132",
+      "title": "F.H. Jacobi's \"On divine things and their revelation.\" A study and translation",
+      "authors": [
+        {
+          "name": "Paolo Livieri",
+          "openalex_id": "A5008881130",
+          "orcid": "https://orcid.org/0000-0003-2606-3950"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "This dissertation presents the first English translation, together with commentary, of F.H. Jacobi\u00b4s On Divine Things and their Revelation (1811; henceforth, Divine Things). This work marked for Jacobi the emancipation of rational thinking from the bounds set to it by the Enlightenment in matters of religion. Jacobi\u2019s goal was to develop a new definition of rationality. And this is a goal that he sought to achieve indirectly by drawing from different but consonant sources. The intention of this dissertation is twofold: to examine Jacobi\u2019s efforts at introducing a new form of rationality; to make explicit the limits of this rationality inasmuch as Jacobi succeeded in defining it.In general, my analysis shows that, while Jacobi relies heavily on Kant\u2019s doctrine of postulates to lay out his position, his considered concept of rationality seeks to distance itself from the Kantian transcendental mode of thinking \u2013 indeed, to distance itself from the entire tradition of modern philosophy. Nevertheless, since Jacobi still operates within the frameworks of thought typical of the Enlightenment, despite his opposition to it, his thought is ultimately continuous with it.More specifically, I demonstrate that reason for Jacobi is properly defined, not by the act of postulating, but the act of perceiving things which are truly external to the perceiving of them. This perceiving, whether reason- or sense-based, is intuitive. Jacobi recognizes, of course, that the perceiving itself, and even more so the system of conceptual representations based on it, is a subjective product. It is the undue interest in this subjective aspect of cognition that obscures the objective apprehension of reality that reason (as redefined by Jacobi) otherwise houses, and thus gives rise to at times useful, but always illusory, representations of reality. Jacobi\u2019s Divine Things is the manifesto of a new realism. This is a realism, however, that in order to be true to itself requires according to Jacobi the assent to divine things. Where for Kant rational theology can be only the product of subjective postulation, for Jacobi it is rather where realism is rather achieved. In this, while countering Kant, Jacobi still operates within the terms of a problematic as set by him",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship@McGill (McGill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.mcgill.ca/concern/theses/hd76s456j"
+      },
+      "topics": [
+        "Historical and Linguistic Studies",
+        "Reformation and Early Modern Christianity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3175715567"
+    },
+    {
+      "openalex_id": "W4378594107",
+      "doi": "10.30965/9783657790432_004",
+      "title": "Commentaries",
+      "authors": [
+        {
+          "name": "Adam Mickiewicz",
+          "openalex_id": "A5108627561"
+        },
+        {
+          "name": "Jerzy Fie\u0107ko",
+          "openalex_id": "A5008180968",
+          "orcid": "https://orcid.org/0000-0002-3678-7189"
+        },
+        {
+          "name": "Jaspreet Singh Boparai",
+          "openalex_id": "A5063089387"
+        },
+        {
+          "name": "Mateusz Str\u00f3\u017cy\u0144ski",
+          "openalex_id": "A5039339538",
+          "orcid": "https://orcid.org/0000-0002-1881-8965"
+        },
+        {
+          "name": "Jaspreet Singh Boparai",
+          "openalex_id": "A5063089387"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-05-04",
+      "abstract": "Also \"faith\" (die Glaube) in Jacobi's vocabulary does not signify the Christian faith in God or His revelation, but, primarily, a sort of direct intuition of reality:How can we strive for certainty unless we are already acquainted with certainty in advance, and how can we be acquainted with it except through something that we already discern with certainty?This leads to the concept of an immediate certainty, which not only needs no proof, but excludes all proofs absolutely, and is simply and solely the representation itself agreeing with the thing being represented.Conviction by proofs is certainty at second hand.Proofs are only indications of similarity to a thing of which we are certain.The conviction that they generate originates in comparison, and can never be quite secure and perfect.But if every assent to truth not derived from rational grounds is faith, then conviction based on rational grounds must itself derive from faith, and must receive its force from faith alone.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/book/9783657790432/BP000010.pdf"
+      },
+      "topics": [
+        "Philosophy and Theoretical Science",
+        "Historical Philosophy and Science",
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4378594107"
+    },
+    {
+      "openalex_id": "W2478337511",
+      "doi": null,
+      "title": "\"Surely all this is not without meaning\" : Melvilles Moby-Dick",
+      "authors": [
+        {
+          "name": "Vegard Gundersen",
+          "openalex_id": "A5017785392",
+          "orcid": "https://orcid.org/0000-0003-3337-2479"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "I denne oppgaven, \u201dSurely all this not without meaning\u201d, en linje hentet fra Moby-Dicks \u00e5pningskapittel, \u201cLoomings\u201d, vil enkelte sider av Melvilles klassiker fra 1851 bli belyst og vurdert. Naturligvis er det ikke mulig innenfor rammen av en slik oppgave \u00e5 ta for seg alle aspekter en skulle \u00f8nske, det vil i h\u00f8y grad dreie seg om et skj\u00f8nnsomt utvalg som synes s\u00e6rlig relevant innenfor en id\u00e9historisk tanketradisjon. Noen konklusjoner av original og endegyldig karakter b\u00f8r heller ikke leseren forvente, men av og til kan det hende at teksten, rent tilfeldig kanskje eller med noen grad av overlegg, kommer over enkelte forbindelser sjelden utforsket i sekund\u00e6rlitteraturen. En relativt etterrettelig omgang med det omfattende tekstkorpus av sekund\u00e6rlitteratur synes \u00e5 v\u00e6re et mer beskjedent og overkommelig m\u00e5l enn \u00e5 skulle komme opp med noen grensesprengende konklusjoner.\\nInnenfor den stoiske filosofi finnes et begrep om det uferdige univers. Skapelsen er ikke avsluttet, den er snarere en virksom, kumulativ arbeidsform som aldri kan h\u00e5pe p\u00e5 noen endelig ferdigstillelse. I kapittel 42 beretter bokens forteller Ishmael om denne arbeidsform: \u201cFor small erections may be finished by their first architects; grand ones, true ones, ever leave the copestone to posterity. God keep me from ever completing anything\u201d. N\u00e5 er ikke denne tekst sitert for \u00e5 unnskylde de strukturelle feil og mangler som eventuelt hefter ved denne oppgaven; fattig er det menneske hvis forr\u00e5d av bortforklaringer best\u00e5r av litter\u00e6re referanser, den er snarere sitert for \u00e5 komme p\u00e5 sporet av tekstens kjerne, dens \u201dLogos Spermatikos\u201d (eng. seminal logos, fr\u00f8, s\u00e6d). Dette begrep stammer, som nevnt, fra stoisk filosofi og betegner det stoisk transcendentes tilstedev\u00e6relse i alt v\u00e6rende. \u201dLogos Spermatikos\u201d er et dynamisk begrep, en entelechie, det vil si alt v\u00e6rende streber mot en helhet, det er det opprinnelige fr\u00f8 i det v\u00e6rende som bestemmer denne utvikling. Et slikt begrep er naturligvis fremmed for nytidens bestemmelse av det v\u00e6rende i atskilte ontologiske deler, dette kartesianske verdensbildet preger ogs\u00e5 Moby-Dick. Det kan allikevel pekes p\u00e5 enkelte trekk som synes relevante med hensyn til et slikt begrep, ogs\u00e5 p\u00e5 en hvalfanger skute p\u00e5 midten av 1850-tallet. Den stoiske tanke om et uferdig univers kan knyttes til Nicholas av Cusanus` oppfatning av skapelsen verdil\u00f8se karakter. \u201d[T]he pure \u201dmeaning of the idea cannot be given as a particular existent, and simple existence does not itself possess an ideal significance, a permanent sense, or value content\u201d\u201d.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Duo Research Archive (University of Oslo)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10852/25100"
+      },
+      "topics": [
+        "Shakespeare, Adaptation, and Literary Criticism",
+        "American and British Literature Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2478337511"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/0020174X.2011.574998
+[verify_paper.py] DOI verified: Hegel's Critique of Fichte in the 1802/3 Essay on ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/0020174X.2011.574998"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/0020174x.2011.574998",
+      "title": "Hegel's Critique of Fichte in the 1802/3 Essay on Natural Right",
+      "authors": [
+        {
+          "family": "Clarke",
+          "given": "James"
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "Inquiry",
+      "volume": "54",
+      "issue": "3",
+      "page": "207-225",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/0020174x.2011.574998"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

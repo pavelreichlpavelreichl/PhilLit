@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5325/JSPECPHIL.28.3.0295
+[verify_paper.py] DOI verified: Fichte in 1804: A Radical Phenomenology of Life? O...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5325/JSPECPHIL.28.3.0295"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5325/jspecphil.28.3.0295",
+      "title": "Fichte in 1804: A Radical Phenomenology of Life? On a Possible Comparison Between the 1804 <i>Wissenschaftslehre</i> and Michel Henry's Phenomenology",
+      "authors": [
+        {
+          "family": "Seyler",
+          "given": "Fr\u00e9d\u00e9ric"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "The Journal of Speculative Philosophy",
+      "volume": "28",
+      "issue": "3",
+      "page": "295-304",
+      "publisher": "The Pennsylvania State University Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5325/jspecphil.28.3.0295"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,1133 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte five epochs world-plan periodization', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_2dfd91bb16dd0861)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte five epochs world-plan periodization",
+  "results": [
+    {
+      "openalex_id": "W1542428943",
+      "doi": null,
+      "title": "Making It Whole: A Victorian Circle and the Shape of Their World",
+      "authors": [
+        {
+          "name": "Diana Postlethwaite",
+          "openalex_id": "A5073596013"
+        }
+      ],
+      "publication_year": 1985,
+      "publication_date": "1985-07-01",
+      "abstract": "Although this book is the product of a long evolutionary process, its origin can be dated with certainty to the day a de cade ago that I left a warehouse sale at the Yale University Press, happily burdened with seven blue-covered volumes: Gordon Haight's edition of The George Eliot Letters.Free from library due dates, I indulged in the luxury of reading them from cover to cover.It was therein that I met the members of this Victorian circle, and began to sense the rich interrela tionships of their world.In the Letters and in his biography, Professor Haight first gave us the historical George Eliot; his meticulous scholarship has been a continuing inspiration to me.If Gordon Haight introduced me to the facts, J. Hillis Miller introduced me to the theories.My gratitude to him for stimulating my interest in the Victorians, and for his support and advice in my early researches.Thanks are also due to Elisabeth Helsinger for her helpful reading of the manuscript, and to Robert Richards for encour agement at a crucial juncture.My greatest academic debt is un questionably to my students.As I have taught them, they have taught me; time and time again, they have sustained me emo tionally as well",
+      "cited_by_count": 50,
+      "type": "book",
+      "source": {
+        "name": "The Knowledge Bank (The Ohio State University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1811/24673"
+      },
+      "topics": [
+        "Australian History and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1542428943"
+    },
+    {
+      "openalex_id": "W2999189319",
+      "doi": "10.21638/spbu17.2019.207",
+      "title": "Fichte and Hegel: Critics of the Enlightenment",
+      "authors": [
+        {
+          "name": "Jacinto Rivera de Rosales",
+          "openalex_id": "A5045880201",
+          "orcid": "https://orcid.org/0000-0001-6808-0463",
+          "institutions": [
+            "National University of Distance Education"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "\u00ab\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430. \u0424\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u043e\u043b\u043e\u0433\u0438\u044f\u00bb \u2014 \u043d\u0430\u0443\u0447\u043d\u043e-\u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0446\u0435\u043d\u0437\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b, \u043e\u0431\u043e\u0431\u0449\u0430\u044e\u0449\u0438\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0443\u0447\u0435\u043d\u044b\u0445 \u0432\u0441\u0435\u0433\u043e \u043c\u0438\u0440\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0441\u043a\u0438\u0445 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d \u2014 \u043e\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438, \u0442\u0435\u043e\u0440\u0438\u0438 \u043f\u043e\u0437\u043d\u0430\u043d\u0438\u044f, \u043b\u043e\u0433\u0438\u043a\u0438, \u044d\u0442\u0438\u043a\u0438, \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438, \u044d\u0441\u0442\u0435\u0442\u0438\u043a\u0438, \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438, \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u0440\u0435\u043b\u0438\u0433\u0438\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u043e\u043b\u043e\u0433\u0438\u0438, \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u0438 \u043f\u0440\u0430\u0432\u0430.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vestnik of Saint Petersburg University Philosophy and Conflict Studies",
+        "type": "journal",
+        "issn": [
+          "2541-9382",
+          "2542-2278"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://philosophyjournal.spbu.ru/article/download/6192/4910"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2999189319"
+    },
+    {
+      "openalex_id": "W2081843146",
+      "doi": "10.1159/000343478",
+      "title": "Guidelines for the Recording and Evaluation of Pharmaco-EEG Data in Man: The International Pharmaco-EEG Society (IPEG)",
+      "authors": [
+        {
+          "name": "Marc Jobert",
+          "openalex_id": "A5053749075",
+          "orcid": "https://orcid.org/0000-0003-4549-3892"
+        },
+        {
+          "name": "Frederick J. Wilson",
+          "openalex_id": "A5007350183",
+          "orcid": "https://orcid.org/0000-0002-5572-6058",
+          "institutions": [
+            "Pfizer (United Kingdom)"
+          ]
+        },
+        {
+          "name": "G.S.F. Ruigt",
+          "openalex_id": "A5108480623"
+        },
+        {
+          "name": "Martin Brunovsk\u00fd",
+          "openalex_id": "A5077855950",
+          "orcid": "https://orcid.org/0000-0002-2483-0848",
+          "institutions": [
+            "Charles University"
+          ]
+        },
+        {
+          "name": "Leslie S. Prichep",
+          "openalex_id": "A5068413136"
+        },
+        {
+          "name": "Wilhelmus Drinkenburg",
+          "openalex_id": "A5050085256",
+          "orcid": "https://orcid.org/0000-0002-1095-7995",
+          "institutions": [
+            "Janssen (Belgium)"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "The International Pharmaco-EEG Society (IPEG) presents guidelines summarising the requirements for the recording and computerised evaluation of pharmaco-sleep data in man. Over the past years, technical and data-processing methods have advanced steadily, thus enhancing data quality and expanding the palette of sleep assessment tools that can be used to investigate the activity of drugs on the central nervous system (CNS), determine the time course of effects and pharmacodynamic properties of novel therapeutics, hence enabling the study of the pharmacokinetic/pharmacodynamic relationship, and evaluate the CNS penetration or toxicity of compounds. However, despite the presence of robust guidelines on the scoring of polysomnography -recordings, a review of the literature reveals inconsistent -aspects in the operating procedures from one study to another. While this fact does not invalidate results, the lack of standardisation constitutes a regrettable shortcoming, especially in the context of drug development programmes. The present guidelines are intended to assist investigators, who are using pharmaco-sleep measures in clinical research, in an effort to provide clear and concise recommendations and thereby to standardise methodology and facilitate comparability of data across laboratories.",
+      "cited_by_count": 187,
+      "type": "review",
+      "source": {
+        "name": "Neuropsychobiology",
+        "type": "journal",
+        "issn": [
+          "0302-282X",
+          "1423-0224"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.karger.com/Article/Pdf/343478"
+      },
+      "topics": [
+        "Epilepsy research and treatment",
+        "EEG and Brain-Computer Interfaces",
+        "Receptor Mechanisms and Signaling"
+      ],
+      "referenced_works_count": 429,
+      "url": "https://openalex.org/W2081843146"
+    },
+    {
+      "openalex_id": "W1684888166",
+      "doi": "10.26530/oapen_377572",
+      "title": "Bakhtin\u2019s Theory of the Literary Chronotope: Reflections, Applications, Perspectives",
+      "authors": [
+        {
+          "name": "Nele Bemong",
+          "openalex_id": "A5089554416"
+        },
+        {
+          "name": "Pieter Borghart",
+          "openalex_id": "A5027362175"
+        },
+        {
+          "name": "Michel De Dobbeleer",
+          "openalex_id": "A5072676693",
+          "orcid": "https://orcid.org/0000-0001-8846-9978"
+        },
+        {
+          "name": "Kristoffel Demoen",
+          "openalex_id": "A5075337392",
+          "orcid": "https://orcid.org/0000-0003-3831-6329"
+        },
+        {
+          "name": "Koen De Temmerman",
+          "openalex_id": "A5053621288",
+          "orcid": "https://orcid.org/0000-0001-7943-8299"
+        },
+        {
+          "name": "Bart Keunen",
+          "openalex_id": "A5111366801"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This edited volume is the first scholarly tome exclusively dedicated to Mikhail Bakhtin\u2019s theory of the literary chronotope. This concept, initially developed in the 1930s and used as a frame of reference throughout Bakhtin\u2019s own writings, has been highly influential in literary studies. After an extensive introduction that serves as a \u2018state of the art\u2019, the volume is divided into four main parts: Philosophical Reflections, Relevance of the Chronotope for Literary History, Chronotopical Readings and Some Perspectives for Literary Theory. These thematic categories contain contributions by well-established Bakhtin specialists such as Gary Saul Morson and Michael Holquist, as well as a number of essays by scholars who have published on this subject before. Together the papers in this volume explore the implications of Bakhtin\u2019s concept of the chronotope for a variety of theoretical topics such as literary imagination, polysystem theory and literary adaptation; for modern views on literary history ranging from the hellenistic romance to nineteenth-century realism; and for analyses of well-known novelists and poets as diverse as Milton, Fielding, Dickinson, Dostoevsky, Papadiamandis and DeLillo.",
+      "cited_by_count": 234,
+      "type": "book",
+      "source": {
+        "name": "Academia Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/34655/1/377572.pdf"
+      },
+      "topics": [
+        "Russian Literature and Bakhtin Studies",
+        "Borges, Kipling, and Jewish Identity",
+        "Linguistics and Education Research"
+      ],
+      "referenced_works_count": 178,
+      "url": "https://openalex.org/W1684888166"
+    },
+    {
+      "openalex_id": "W1982248423",
+      "doi": "10.2307/20039654",
+      "title": "Nationalism: The Nature and Evolution of an Idea",
+      "authors": [
+        {
+          "name": "Edward L. Morse",
+          "openalex_id": "A5032665823"
+        },
+        {
+          "name": "Eugene Kamenka",
+          "openalex_id": "A5000298293"
+        },
+        {
+          "name": "John H. Herz",
+          "openalex_id": "A5052551085"
+        },
+        {
+          "name": "Daniel Th\u00fcrer",
+          "openalex_id": "A5053459388"
+        },
+        {
+          "name": "Louis L. Snyder",
+          "openalex_id": "A5112789187"
+        }
+      ],
+      "publication_year": 1977,
+      "publication_date": "1977-01-01",
+      "abstract": "In the two centuries since the French Revolution, political nationalism has become a force of tremendous importance in the modern world. It is also an extremely complex one. It helps hold together the historical events of the nineteenth and twentieth centuries, showing them to be part of a continuing crisis. It has brought the histories of modern Asia, Africa and the Pacific into relation with European history, and made them part of universal history and politics. It can be, and has been, democratic or authoritarian, forward-looking or backward-looking, socialist or reactionary. The lectures collected here, presented by some of the leading thinkers in the field, discuss nationalism in Europe and Asia in all its complexity. They will be of vital interest not only to students of history and politics but to all those who seek to understand the contemporary world.",
+      "cited_by_count": 105,
+      "type": "article",
+      "source": {
+        "name": "Foreign Affairs",
+        "type": "journal",
+        "issn": [
+          "0015-7120",
+          "2327-7793"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://openresearch-repository.anu.edu.au/bitstreams/c0a6748a-c4a1-45b0-b117-f99446815804/download"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1982248423"
+    },
+    {
+      "openalex_id": "W2937026838",
+      "doi": "10.12795/araucaria.2019.i41.04",
+      "title": "Morality and State in the Fichtean Political Philosophy",
+      "authors": [
+        {
+          "name": "H\u00e9ctor \u00d3scar Arrese Igor",
+          "openalex_id": "A5066437467",
+          "orcid": "https://orcid.org/0000-0001-8773-5357"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society and state. From a synchronic viewpoint, Fichte cannot solve the problem of the control of political power because he has to draw on the assumption of a virtuous ephorate. This assumption is not consistent with the Fichtean ideal of a philosophy of right completely independent from moral considerations. Thus, the control of government is possible only if at least a group of citizens can go beyond the mere rational egoism. This new temporal conception of the state leads Fichte to think that the problems of consistency of his theory of Jena are unavoidable, given that a society integrated by egoist individuals cannot be sustained. However, his later philosophy of history enables Fichte to state the inexorable annihilation of this type of community and gives place to an ensuing epoch, when citizens are not self-interested anymore.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Araucaria",
+        "type": "journal",
+        "issn": [
+          "1575-6823",
+          "2340-2199"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.12795/araucaria.2019.i41.04"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical Ethics and Theory",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2937026838"
+    },
+    {
+      "openalex_id": "W2785838009",
+      "doi": null,
+      "title": "Who Needs the Book? Copyright in the Late Print Epoch",
+      "authors": [
+        {
+          "name": "Alicja Pal\u0119cka",
+          "openalex_id": "A5072525755",
+          "orcid": "https://orcid.org/0000-0002-0703-0953"
+        },
+        {
+          "name": "Maciej Jakubowiak",
+          "openalex_id": "A5068248142"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-29",
+      "abstract": "Arguments presented by supporters of strengthening and expanding copyright protection are usually based on the assumption that it would serve the interests of the artists, allowing them to draw more profit from their work. This is the position taken, for instance, by ZAIKS (the Polish Association of Authors and Composers), one of the oldest and most active organizations of collective copyright management: \u201cZAIKS strives to protect the rights of Polish artists as true creators of Polish cultu...",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Industrias Culturais (Universidade de Coimbra)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://journals.openedition.org/td/pdf/10666"
+      },
+      "topics": [
+        "Historical and Linguistic Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2785838009"
+    },
+    {
+      "openalex_id": "W4320156515",
+      "doi": "10.19181/conf.978-5-89697-406-2.2022.35",
+      "title": "God and the Possible Worlds. Some Considerations of a Byzantinist Upon Konstantin Frolov\u2019s Essays on Analytical Metaphysics",
+      "authors": [
+        {
+          "name": "Urals Mussorgsky State Conservatoire",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dmitry I. Makarov",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": ":",
+      "cited_by_count": 4,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://dx.doi.org/10.19181/conf.978-5-89697-406-2.2022.35"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Byzantine Studies and History",
+        "Historical, Religious, and Philosophical Studies"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W4320156515"
+    },
+    {
+      "openalex_id": "W3011856986",
+      "doi": "10.1016/j.clinph.2020.03.003",
+      "title": "Early diagnosis of Alzheimer\u2019s disease: the role of biomarkers including advanced EEG signal analysis. Report from the IFCN-sponsored panel of experts",
+      "authors": [
+        {
+          "name": "Paolo Maria Rossini",
+          "openalex_id": "A5035394476",
+          "orcid": "https://orcid.org/0000-0003-2665-534X",
+          "institutions": [
+            "IRCCS Ospedale San Raffaele",
+            "Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele"
+          ]
+        },
+        {
+          "name": "Riccardo Di Iorio",
+          "openalex_id": "A5102854449",
+          "orcid": "https://orcid.org/0000-0002-8913-2151",
+          "institutions": [
+            "Agostino Gemelli University Polyclinic",
+            "Istituti di Ricovero e Cura a Carattere Scientifico"
+          ]
+        },
+        {
+          "name": "F. Vecchio",
+          "openalex_id": "",
+          "institutions": [
+            "Istituti di Ricovero e Cura a Carattere Scientifico",
+            "Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele"
+          ]
+        },
+        {
+          "name": "Maria Anfossi",
+          "openalex_id": "A5010938652",
+          "orcid": "https://orcid.org/0000-0001-7810-8634"
+        },
+        {
+          "name": "Claudio Babiloni",
+          "openalex_id": "A5024471384",
+          "orcid": "https://orcid.org/0000-0002-5245-9839",
+          "institutions": [
+            "Universit\u00e0 degli studi di Cassino e del Lazio Meridionale",
+            "Istituti di Ricovero e Cura a Carattere Scientifico",
+            "Sapienza University of Rome"
+          ]
+        },
+        {
+          "name": "Marco Bozzali",
+          "openalex_id": "A5078205854",
+          "orcid": "https://orcid.org/0000-0002-0568-2026",
+          "institutions": [
+            "Brighton and Sussex Medical School",
+            "University of Sussex",
+            "Fondazione Santa Lucia",
+            "Istituti di Ricovero e Cura a Carattere Scientifico"
+          ]
+        },
+        {
+          "name": "Amalia C. Bruni",
+          "openalex_id": "A5059411860",
+          "orcid": "https://orcid.org/0000-0003-3471-3343"
+        },
+        {
+          "name": "Stefano F. Cappa",
+          "openalex_id": "A5020179909",
+          "orcid": "https://orcid.org/0000-0003-1003-3925",
+          "institutions": [
+            "Istituto Universitario di Studi Superiori di Pavia",
+            "Centro San Giovanni di Dio Fatebenefratelli",
+            "Istituti di Ricovero e Cura a Carattere Scientifico"
+          ]
+        },
+        {
+          "name": "Javier Escudero",
+          "openalex_id": "A5060254662",
+          "orcid": "https://orcid.org/0000-0002-2105-8725",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Francisco J. Fraga",
+          "openalex_id": "A5000085110",
+          "orcid": "https://orcid.org/0000-0002-4895-807X",
+          "institutions": [
+            "Universidade Federal do ABC"
+          ]
+        },
+        {
+          "name": "Pant\u00e9leimon Giannakopoulos",
+          "openalex_id": "A5009763387",
+          "orcid": "https://orcid.org/0000-0003-4624-7386",
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Bahar G\u00fcntekin",
+          "openalex_id": "A5067788005",
+          "orcid": "https://orcid.org/0000-0002-0860-0524",
+          "institutions": [
+            "Istanbul Medipol University"
+          ]
+        },
+        {
+          "name": "Giancarlo Logroscino",
+          "openalex_id": "A5047104019",
+          "orcid": "https://orcid.org/0000-0003-0423-3242",
+          "institutions": [
+            "University of Bari Aldo Moro"
+          ]
+        },
+        {
+          "name": "Camillo Marra",
+          "openalex_id": "A5057463057",
+          "orcid": "https://orcid.org/0000-0003-3994-4044",
+          "institutions": [
+            "Universit\u00e0 Cattolica del Sacro Cuore"
+          ]
+        },
+        {
+          "name": "Francesca Miraglia",
+          "openalex_id": "A5085761147",
+          "orcid": "https://orcid.org/0000-0002-4642-3952",
+          "institutions": [
+            "Istituti di Ricovero e Cura a Carattere Scientifico",
+            "Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele"
+          ]
+        },
+        {
+          "name": "Francesco Panza",
+          "openalex_id": "A5049018008",
+          "orcid": "https://orcid.org/0000-0002-7220-0656",
+          "institutions": [
+            "University of Bari Aldo Moro"
+          ]
+        },
+        {
+          "name": "Franca Tecchio",
+          "openalex_id": "A5047252819",
+          "orcid": "https://orcid.org/0000-0002-1325-5059",
+          "institutions": [
+            "National Research Council",
+            "Institute of Cognitive Sciences and Technologies"
+          ]
+        },
+        {
+          "name": "\u00c1lvaro Pascual\u2010Leone",
+          "openalex_id": "A5056623917",
+          "orcid": "https://orcid.org/0000-0001-8975-0382",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Berenson Allen Center for Noninvasive Brain Stimulation"
+          ]
+        },
+        {
+          "name": "Bruno Dubois",
+          "openalex_id": "A5108138196",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Inserm",
+            "Sorbonne Universit\u00e9",
+            "Piti\u00e9-Salp\u00eatri\u00e8re Hospital",
+            "Institut du Cerveau"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-12",
+      "abstract": null,
+      "cited_by_count": 236,
+      "type": "review",
+      "source": {
+        "name": "Clinical Neurophysiology",
+        "type": "journal",
+        "issn": [
+          "1388-2457",
+          "1872-8952"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/9a1e0349-9004-4bb1-94b4-2da4c1f33a71"
+      },
+      "topics": [
+        "Functional Brain Connectivity Studies",
+        "Alzheimer's disease research and treatments",
+        "Dementia and Cognitive Impairment Research"
+      ],
+      "referenced_works_count": 389,
+      "url": "https://openalex.org/W3011856986"
+    },
+    {
+      "openalex_id": "W2214679601",
+      "doi": null,
+      "title": "Cultural code concept in contemporary world.",
+      "authors": [
+        {
+          "name": "Alexander Alexandrovich Shestakov",
+          "openalex_id": "A5080670509"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-05-30",
+      "abstract": "Cultural code - a term, which describes a self-actualized human mentality - a unity of value orientations, socio-normative establishments (routines, rituals, heroes, symbols), fundamental features of characteristics specific to some nation, or human grouping. In scientific circles this term is introduced by a Russian philosopher K. M. Kantor. Ref: Kantor K. M., \"History against progress\", M., 1991. This research will attempt to reveal cultural code\" parameters upon personal, group and international levels. De-coding is based upon analysis of contemporary theories comparison.The following objectives have been achieved in the research: conduct of the comparative analysis of contemporary theories in global cultural discourse; operationalization of empirical parameters of cultural code\" in the changing system of global world's cultural discourse; an evaluation line for practical implementation of cultural concept in policy planning of affairs with culture involvement have been underlined; a scientific contribution to the social science research with intellectual investment in cultural theory.An empirical concept of cultural code\" model has been operationalized upon three perceptional levels in order to perceive modern social reality better and in pursuit of a higher explanatory power. A structure of cultural code\" was presented as a scheme upon personal, group and international levels.Finally, globalization tendencies have been underlined, as they do have reasonable effects upon cultures. It has been known that a universal cultural code\" is desired, though the implementation of this project is an ambiguous task so far.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Bergen Open Research Archive (BORA) (University of Bergen)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1956/2861"
+      },
+      "topics": [
+        "International Student and Expatriate Challenges",
+        "Globalization and Cultural Identity",
+        "Higher Education Governance and Development"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2214679601"
+    },
+    {
+      "openalex_id": "W615601904",
+      "doi": "10.1515/9783110255065",
+      "title": "Languages of Science in the Eighteenth Century",
+      "authors": [
+        {
+          "name": "Britt\u2010Louise Gunnarsson",
+          "openalex_id": "A5044789771",
+          "orcid": "https://orcid.org/0000-0002-0584-833X"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-10-15",
+      "abstract": "The eighteenth century is an important period both in the history of science and in the history of languages. In this volume, seventeen authors explore, from a variety of angles, the construction of a scientific language and discourse. The chapters explore the forming of scientific communities, the emergence of new languages of science, the spread of scientific ideas, and the development of scientific writing.",
+      "cited_by_count": 43,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110255065/pdf"
+      },
+      "topics": [
+        "Lexicography and Language Studies"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W615601904"
+    },
+    {
+      "openalex_id": "W1603011375",
+      "doi": "10.2307/j.ctt183gzx9",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        },
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. logging, pulping and manufacturing processes are expected to conform to the environmental standards of the country of origin.",
+      "cited_by_count": 126,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/45623/1/625231.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W1603011375"
+    },
+    {
+      "openalex_id": "W3201877524",
+      "doi": "10.20944/preprints202109.0514.v1",
+      "title": "Anthropocene: Does the New Geological Age push towards a Metamorphosis of the World",
+      "authors": [
+        {
+          "name": "Jordi Ortega",
+          "openalex_id": "A5038605773",
+          "orcid": "https://orcid.org/0000-0002-1239-3943",
+          "institutions": [
+            "Universitat de Barcelona",
+            "Universitat Polit\u00e8cnica de Catalunya"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-30",
+      "abstract": "The Anthropocene has created a new cartography. Various disciplines and discourses overlap each other. Two fields of knowledge: geology and anthropology are unified in one single concept. The Axial Age separated everyday practices from an unbiased and objective view of the world. Romanticism, in the nineteenth century, challenged the separation between the natural sciences and the sciences of the spirit. Paul J. Crutzen and Eugene Stoermer had two distinct parts; a first establishes \"a period of time\" the second an \"epistemic tool\". This paper is intended to illustrate the epistemological dimension of the Anthropocene. The Anthropocene defines the present geological epoch as dominated by humans. Eduard Suess, Antonio Stopani, Teilhard de Chardin, Vladimir Vernadsky etc., a century ago, anticipated the concept of Anthropocene. \"No&amp;ouml;sphere\" is a term from the \"world of thought\". The hypothesis of an earth as a living organism, which is inspired by J.W. Goethe's \"Naturwissenschaft\", allows two disciplines to be inte-grated into one term: geology and anthropology. We have atmospheric phenomena that are in-compressible without presupposing life. The Anthropocene modifies the foundations of our vi-sion of the world. In the Gaia Hypothesis we find the same roots as in the Anthropocene concept: Goethe, Vernadky, etc. The concepts of symbiogenesis, homeostasis, etc., allow us to formulate new questions. This paper analyzes the reconfiguration of relations between the earth and all its inhabitants. It is, for the social sciences, a challenge: a metamorphosis of our vision of the world is taking place.",
+      "cited_by_count": 1,
+      "type": "preprint",
+      "source": {
+        "name": "Preprints.org",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.preprints.org/manuscript/202109.0514/v1/download"
+      },
+      "topics": [
+        "Earth Systems and Cosmic Evolution"
+      ],
+      "referenced_works_count": 90,
+      "url": "https://openalex.org/W3201877524"
+    },
+    {
+      "openalex_id": "W133742502",
+      "doi": null,
+      "title": "The University and the State: A Study into Global Transformations",
+      "authors": [
+        {
+          "name": "Marek Kwiek",
+          "openalex_id": "A5026675514",
+          "orcid": "https://orcid.org/0000-0001-7953-1063"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "This book argues that the current renegotiation of the postwar social contract concerning the welfare state in Europe is being accompanied by the renegotiation of a smaller-scale modern social pact between the university and the nation-state. Current transformations to the state under the pressures of globalization will not leave the university unaffected, and consequently it is useful to discuss the university and its future in the context of the state. In the new global order, against the odds, universities are striving to maintain their pivotal role in society. Their role as&#13;\\nengines of economic growth and contributors to economic competitiveness between increasingly knowledge-driven economies is being widely acknowledged. But it is a radical reformulation of their traditional social roles. The main reasons for current transformations of the university&#13;\\ninclude globalization pressures on nation-states and their public services, the end of the \u00abGolden age\u00bb of the Keynesian welfare state, and the emergence of knowledge-based societies and knowledge-driven economies. Therefore the university can no longer be discussed solely in traditional, relatively self-contained disciplinary contexts. Here the university is seen from a variety of perspectives and through the lens of a&#13;\\nwide range of disciplines (mainly educational sciences, political economy, sociology, political sciences, and philosophy). Contents&#13;\\nContents: The University in a Global Age - The University Between the State and the Market - The Idea of the University Revisited (the German Context) - The University and the Nation-State: the Impact of Global Pressures - The University and the Welfare State - Globalization, the Welfare State, and the Future of Democracy - The University and the New European Educational and Research Policies.",
+      "cited_by_count": 69,
+      "type": "book",
+      "source": {
+        "name": "Repozytorium Uniwersytetu im. Adama Mickiewicza (Adam Mickiewicz University in Pozna\u0144)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10593/9818"
+      },
+      "topics": [
+        "Higher Education Governance and Development",
+        "University Challenges and Reforms",
+        "Global Educational Policies and Reforms"
+      ],
+      "referenced_works_count": 328,
+      "url": "https://openalex.org/W133742502"
+    },
+    {
+      "openalex_id": "W4213299615",
+      "doi": "10.3390/socsci11020068",
+      "title": "How Anthropocene Might Save the World: Metamorphosis",
+      "authors": [
+        {
+          "name": "Jordi Ortega",
+          "openalex_id": "A5038605773",
+          "orcid": "https://orcid.org/0000-0002-1239-3943",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Catalunya"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-11",
+      "abstract": "The Anthropocene has created a new cartography. It moves between the rejection of scientific disciplines, overcoming dualism and a change of coordinates with which to interpret the world. The Anthropocene unites two fields of knowledge: geology and anthropology. The \u201cAxial Age\u201d divides daily practices (the World of life) and the objective view of nature (the World of science). The Anthropocene\u201d by Paul J. Crutzen and Eugene Stoermer has two distinct parts; the first establishes \u201ca period of time\u201d, and the second establishes an \u201cepistemic tool\u201d. This paper is intended to illustrate the epistemological dimension of the Anthropocene. Eduard Suess, Antonio Stopani, Pierre Teilhard de Chardin, Vladimir Vernadsky, etc., anticipated the concept of the Anthropocene a century ago. The hypothesis of the earth as a \u201cliving organism\u201d is inspired by the Goethean Science or Naturwissenschaft of Johann Wolfgang von Goethe. It reinforces the character of \u201crupture\u201d that the Anthropocene has. The Gaia Hypothesis, which is built from elements of Earth science systems, sees the pressing need for a global system and to overcome the barriers between disciplines. The Anthropocene allows both ancient quarrels and the roots of philosophical thought to be reviewed. The metamorphosis linked to the Anthropocene represents the interplay between \u201ccollapse\u201d and \u201cawakening\u201d. Focus on the objectivity of the \u201cprimary effects\u201d\u2014the \u201cpublic bads\u201d\u2014leads to the imminent ecological apocalypse. If we focus on \u201csecondary effects\u201d, we observe the metamorphosis of \u201cpublic bads\u201d into \u201cpublic goods\u201d. The \u201cgood\u201d hides behind the \u201cevil\u201d. We are not at the end of Civilization; we are before new beginnings, new rules, new structures. The Anthropocene could save the world thanks to the metamorphosis of our consciousness of the world.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Social Sciences",
+        "type": "journal",
+        "issn": [
+          "2076-0760"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-0760/11/2/68/pdf?version=1645599028"
+      },
+      "topics": [
+        "Earth Systems and Cosmic Evolution",
+        "Space Science and Extraterrestrial Life",
+        "Climate Change and Geoengineering"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W4213299615"
+    },
+    {
+      "openalex_id": "W3086083296",
+      "doi": "10.3846/jau.2020.13053",
+      "title": "ARCHITECTURAL MEMORY AND FORMS OF ITS EXISTENCE",
+      "authors": [
+        {
+          "name": "\u041e\u043b\u0435\u043d\u0430 \u0420\u0435\u043c\u0456\u0437\u043e\u0432\u0430",
+          "openalex_id": "A5083367595",
+          "orcid": "https://orcid.org/0000-0002-5187-4598",
+          "institutions": [
+            "Kharkiv National University of Construction and Architecture"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-14",
+      "abstract": "The article attempts to highlight the traces of memory in the theory, history and practice of architecture. The subject of research is the existing forms of memory in architecture. It is traditionally accepted that the \u201chistory of architecture\u201d as a science is the main repository of knowledge about the evolution of architecture. Facts and artifacts, descriptions of monuments and cities are retained in it. The article emphasizes that the traditional \u201chistory of architectural objects\u201d is not the only form of memory. Another equally important and complicated aspect of the architectural memory is detected during the decoding of the evolution of project activity and its language. Analysis of the evolution of architecture allowed us to differentiate the epochs in which historical thinking prevails: the Renaissance, Romanticism, Eclecticism, Art Deco, Postmodernism. They are characterized by such ways of thinking as dialogical, historical and typological, historical and associative. They are opposed to design approaches in which abstract thinking dominates (Art Nouveau and Modernism). The article shows that the concept of architectural memory has many shades and manifests itself in a variety of different forms of professional consciousness. As historical knowledge, memory exists in such forms as: a chronological description, science of history, evolutionary studies, catalog of styles, museum, archive. In designing and its language, memory is represented in such forms as canon, dialogue with bygone era, norm, architectural fantasy, remembrance, historical association, reconstruction, restoration and others. It is shown that the most important way of storing and transferring information is the architectural language and compositional logic. Postmodern consciousness raised the problem of loss of memory and the development of architectural language and communication of culture.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Journal of Architecture and Urbanism",
+        "type": "journal",
+        "issn": [
+          "2029-7947",
+          "2029-7955"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.vgtu.lt/index.php/JAU/article/download/13053/10133"
+      },
+      "topics": [
+        "Visual Culture and Art Theory",
+        "Cultural Heritage Management and Preservation",
+        "Architecture, Modernity, and Design"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W3086083296"
+    },
+    {
+      "openalex_id": "W1604046460",
+      "doi": "10.15779/z386m0x",
+      "title": "Hegelian Reflections on Unilateral Action in the World Trading System",
+      "authors": [
+        {
+          "name": "Raj Bhala",
+          "openalex_id": "A5069010399",
+          "orcid": "https://orcid.org/0000-0003-0142-4334"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-01-01",
+      "abstract": "In two years of travel for the Clinton administration in Asia, Europe, and Latin America, I have found foreign leaders' most recurrent concern to be that America is moving away from its historically strong support for the multilateral trading system.Rather than embrace the new World Trade Organization (WTO) and bring all its trade disputes before that body, the United States, they charge, is trying to resolve its problems through bilateral agreements at best or unilateral fiat at worst.This substitution of the law of the jungle for established international rules, the critics say, encourages unbridled mercantilism, protectionism, and heightened political tension between countries, weakening global trade.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Berkeley journal of international law",
+        "type": "journal",
+        "issn": [
+          "1085-5718"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarship.law.berkeley.edu/bjil/vol15/iss2/1"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic and Social Issues",
+        "Economic Theory and Institutions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1604046460"
+    },
+    {
+      "openalex_id": "W2133409124",
+      "doi": "10.3389/fnins.2012.00054",
+      "title": "Why some people discount more than others: baseline activation in the dorsal PFC mediates the link between COMT genotype and impatient choice",
+      "authors": [
+        {
+          "name": "Lorena R. R. Gianotti",
+          "openalex_id": "A5059029107",
+          "orcid": "https://orcid.org/0000-0002-5283-7684",
+          "institutions": [
+            "University of Basel"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Individuals differ widely in how steeply they discount future rewards. The sources of these stable individual differences in delay discounting (DD) are largely unknown. One candidate is the COMT Val158Met polymorphism, known to modulate prefrontal dopamine levels and affect DD. To identify possible neural mechanisms by which this polymorphism may contribute to stable individual DD differences, we measured 73 participants' neural baseline activation using resting electroencephalogram (EEG). Such neural baseline activation measures are highly heritable and stable over time, thus an ideal endophenotype candidate to explain how genes may influence behavior via individual differences in neural function. After EEG-recording, participants made a series of incentive-compatible intertemporal choices to determine the steepness of their DD. We found that COMT significantly affected DD and that this effect was mediated by baseline activation level in the left dorsal prefrontal cortex (DPFC): (i) COMT had a significant effect on DD such that the number of Val alleles was positively correlated with steeper DD (higher numbers of Val alleles means greater COMT activity and thus lower dopamine levels). (ii) A whole-brain search identified a cluster in left DPFC where baseline activation was correlated with DD; lower activation was associated with steeper DD. (iii) COMT had a significant effect on the baseline activation level in this left DPFC cluster such that a higher number of Val alleles was associated with lower baseline activation. (iv) The effect of COMT on DD was explained by the mediating effect of neural baseline activation in the left DPFC cluster. Our study thus establishes baseline activation level in left DPFC as salient neural signature in the form of an endophenotype that mediates the link between COMT and DD.",
+      "cited_by_count": 58,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-453X",
+          "1662-4548"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnins.2012.00054/pdf"
+      },
+      "topics": [
+        "Neural and Behavioral Psychology Studies",
+        "Decision-Making and Behavioral Economics",
+        "Behavioral Health and Interventions"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2133409124"
+    },
+    {
+      "openalex_id": "W2308223862",
+      "doi": null,
+      "title": "The creativity of nature: The genesis of Schelling's Naturphilosophie, 1775--1799",
+      "authors": [
+        {
+          "name": "Ryan J. Foster",
+          "openalex_id": "A5074466210"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "The Naturphilosophie of Friedrich Wilhelm Joseph Schelling (1775-1854) has been neglected in the Anglophone world for over 200 years, but his detractors are wrong in insisting that his system represented a disguised mysticism and a rejection of empirical science. Although Schelling studied theology at the famous Tubingen seminary, he dedicated his life to philosophy by 1794, eventually turning to an intensive study of the natural sciences. By 1799, he had developed a systematic Naturphilosophie which harvested the discoveries of eighteenth century science in order to solve the philosophical problems left behind by Immanuel Kant and Johann Gottlieb Fichte. Schelling relentlessly fought against the notion that nature is inert. Instead, he stressed its vibrancy, its activity, and ultimately its creativity. By reconstructing Schelling's intellectual development, we not only gain a new appreciation for his thought, but we also see aspects of his Naturphilosophie which are deeply sympathetic, and perhaps even useful in the twenty-first century.",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": {
+        "name": "Rice Digital Scholarship Archive (Rice University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1911/61779"
+      },
+      "topics": [
+        "Scientific and Historical Analyses"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2308223862"
+    },
+    {
+      "openalex_id": "W2737965334",
+      "doi": "10.1145/1267047.1276155",
+      "title": "Higher education, globalisation and the knowledge economy",
+      "authors": [
+        {
+          "name": "Michael A. Peters",
+          "openalex_id": "A5090163591",
+          "orcid": "https://orcid.org/0000-0002-1482-2975"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-05-01",
+      "abstract": "The liberal university belongs to the past. The inescapable question now is whether the university will become the locus of integration or of confrontation. In both cases grave dangers may threaten the creation of new knowledge.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Ubiquity",
+        "type": "journal",
+        "issn": [
+          "1530-2180"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/1267047.1276155"
+      },
+      "topics": [
+        "Higher Education Governance and Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2737965334"
+    },
+    {
+      "openalex_id": "W2184042768",
+      "doi": "10.21240/mpaed/24/2014.09.30.x",
+      "title": "A Brief History of the Lecture: A Multi-Media Analysis",
+      "authors": [
+        {
+          "name": "Norm Friesen",
+          "openalex_id": "A5081856278",
+          "orcid": "https://orcid.org/0000-0002-7810-7129",
+          "institutions": [
+            "Boise State University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-30",
+      "abstract": "The lecture has been much maligned as a pedagogical form. It has been denigrated as a \u00abhot \u200emedium\u00bb that has long been \u00absuperseded\u00bb by the cooler dialogical and televisual forms. Yet the lecture \u200epersists and even flourishes today in the form of the podcast, the TED Talk, Kahn Academy and the \u00absmart\u00bb \u200electure hall (outfitted with audio, video and student feedback technologies). This persistence \u200eshould lead us to re-evaluate both the lecture and the role of the media that have been related to it over time. This paper examines the lecture as a site of intersecting media, as \u00aba site where differences between media are negotiated\u00bb as these media \u200eevolve (Franzel 2010). This study shows the lecture as bridging oral \u200ecommunication with writing and newer media technologies, rather than as being superseded \u200eby newer electronic and digital forms. The result is a remarkably adaptable and robust form \u200ethat combines textual record and ephemeral event. It is that is capable of addressing a range of \u200edifferent demands and circumstances, both in terms of classroom pragmatics and more abstractly, of the circulation of knowledge itself. The Web, which \u200ebrings multiple media together with new and established forms and genres, presents fertile \u200egrounds for the continuation and revitalization of the lecture as a dominant pedagogical form.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "MedienP\u00e4dagogik Zeitschrift f\u00fcr Theorie und Praxis der Medienbildung",
+        "type": "journal",
+        "issn": [
+          "1424-3636"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.medienpaed.com/article/download/167/167"
+      },
+      "topics": [
+        "Radio, Podcasts, and Digital Media",
+        "Reflective Practices in Education",
+        "Wikis in Education and Collaboration"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W2184042768"
+    },
+    {
+      "openalex_id": "W4318711095",
+      "doi": "10.19181/conf.978-5-89697-406-2.2022.31",
+      "title": "Between the Allegoresis and Literal Interpretation of the Book of Genesis: Exegetical Method of John Philoponus in the Treatise \u201con the Creation of the World\u201d",
+      "authors": [
+        {
+          "name": "Oleg N. Nogovitsin",
+          "openalex_id": "A5050916313",
+          "orcid": "https://orcid.org/0000-0002-0989-7921"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.19181/conf.978-5-89697-406-2.2022.31"
+      },
+      "topics": [
+        "Historical, Religious, and Philosophical Studies",
+        "Biblical Studies and Interpretation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4318711095"
+    },
+    {
+      "openalex_id": "W1951115295",
+      "doi": "10.11647/obp.0036",
+      "title": "On History: Introduction to World History (1831); Opening Address at the Faculty of Letters, 9 January 1834; Preface to History of France(1869)",
+      "authors": [
+        {
+          "name": "Jules Michelet",
+          "openalex_id": "A5091315249",
+          "institutions": [
+            "Institute for Advanced Study"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-10-01",
+      "abstract": "One of the great Romantic historians, Jules Michelet served as a model and inspiration for the founders of the influential Annales school in France. This volume, consisting of three programmatic essays by Michelet with an introduction by Lionel Gossman, offers Anglophone historians a sense of this important historian\u2019s worldview and the values underlying all his historiographical work. Taken together, the three texts can be read as a kind of manifesto of Romantic historiography, laying out a grand vision of history, what it means, why it matters, and why it is important for historians to have a lively sense of it.",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": {
+        "name": "Open Book Publishers",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.11647/obp.0036"
+      },
+      "topics": [
+        "History, Culture, and Diplomacy",
+        "Globalization and Cultural Identity"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W1951115295"
+    },
+    {
+      "openalex_id": "W3178451904",
+      "doi": "10.47905/matgip.2021.22.2.010",
+      "title": "LEGAL PROTECTION OF ANIMALS IN IRAN: FROM THE AVESTA TO THE BILL ON PROTECTION OF ANIMALS",
+      "authors": [
+        {
+          "name": "\u0412 \u0411 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f",
+          "openalex_id": "A5037988871"
+        },
+        {
+          "name": "Faridun Z. Zavurbekov",
+          "openalex_id": "A5047427298",
+          "orcid": "https://orcid.org/0000-0001-5532-6620"
+        },
+        {
+          "name": "\u042f.\u0412. \u0411\u0435\u0437\u043d\u043e\u0441\u043e\u0432\u0430",
+          "openalex_id": "A5077351562"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-25",
+      "abstract": "\u0410\u0432\u0442\u043e\u0440\u044b \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0433\u043e \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u0418\u0440\u0430\u043d, \u043e\u043f\u0438\u0440\u0430\u044f\u0441\u044c \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u00ab\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445\u00bb. \u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u044e\u0442\u0441\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0441 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438, \u043f\u0440\u0438\u0441\u0443\u0449\u0438\u0435 \u0438\u0440\u0430\u043d\u0446\u0430\u043c \u0432 \u0434\u0440\u0435\u0432\u043d\u0438\u0439 \u043f\u0435\u0440\u0438\u043e\u0434 \u0438\u0445 \u0438\u0441\u0442\u043e\u0440\u0438\u0438. \u0410\u0432\u0442\u043e\u0440\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u044e\u0442 \u043d\u043e\u0440\u043c\u044b \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u0438 \u00ab\u0410\u0432\u0435\u0441\u0442\u044b\u00bb, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0437\u0430 \u043f\u0440\u0438\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u0434\u0430 \u0436\u0438\u0437\u043d\u0438 \u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044e \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438 \u0441 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c \u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0433\u043e \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0444\u0435\u0440\u044b \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0432 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u0418\u0440\u0430\u043d. Annotation. The authors consider the problems of legal regulation of animal protection in the modern Republic of Iran, based on the data provided by the organization \"World Animal Protection\". The article examines the traditions of animal treatment inherent in the Iranians in the ancient period of their history. The authors analyze the norms of the holy book \"Avesta\", regulating responsibility for causing harm to the life and health of animals, draw parallels with the current state of legal regulation of this sphere of public relations in the Republic of Iran.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "\u0422\u0435\u043e\u0440\u0438\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u0438 \u043f\u0440\u0430\u0432\u0430",
+        "type": "journal",
+        "issn": [
+          "2500-0837",
+          "2687-0363"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.47905/matgip.2021.22.2.010"
+      },
+      "topics": [
+        "Economic Sanctions and International Relations"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W3178451904"
+    },
+    {
+      "openalex_id": "W4211121854",
+      "doi": "10.5962/bhl.title.55285",
+      "title": "Haeckel, his life and work,",
+      "authors": [
+        {
+          "name": "Wilhelm B\u00f6lsche",
+          "openalex_id": "A5075239636"
+        },
+        {
+          "name": "Wilhelm B\u00f6lsche",
+          "openalex_id": "A5075239636"
+        },
+        {
+          "name": "Joseph McCabe",
+          "openalex_id": "A5087102452"
+        },
+        {
+          "name": "Joseph McCabe",
+          "openalex_id": "A5087102452"
+        }
+      ],
+      "publication_year": 1906,
+      "publication_date": "1906-01-01",
+      "abstract": "Darwin, and Challenger), four doctorates (Berlin, Jena, Edinburgh, and Cambridge), and about eighty diplomas from so many universities and academic bodies.",
+      "cited_by_count": 43,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.biodiversitylibrary.org/itempdf/115946"
+      },
+      "topics": [
+        "Alexander von Humboldt Studies",
+        "Marine Invertebrate Physiology and Ecology",
+        "History of Science and Natural History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4211121854"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

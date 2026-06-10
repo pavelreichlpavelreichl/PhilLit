@@ -1,0 +1,37 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "20c8a6d7129e3cf7729384232902bb10dcf111ba",
+      "title": "Fichte on the Vocation of the Scholar and the (Mis)use of History",
+      "authors": [
+        {
+          "name": "D. James",
+          "authorId": "145884422"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20c8a6d7129e3cf7729384232902bb10dcf111ba",
+      "venue": "",
+      "journal": {
+        "name": "Review of Metaphysics",
+        "pages": "539",
+        "volume": "63"
+      },
+      "publicationTypes": null,
+      "_queryId": "20c8a6d7129e3cf7729384232902bb10dcf111ba"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

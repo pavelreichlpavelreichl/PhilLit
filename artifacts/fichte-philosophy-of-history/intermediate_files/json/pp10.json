@@ -1,0 +1,324 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Rockmore Breazeale After Jena Fichte later philosophy', limit=20
+[search_philpapers.py] Retrieved 19 entries...
+[search_philpapers.py] Search complete: 19 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Rockmore Breazeale After Jena Fichte later philosophy",
+  "results": [
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), New essays on Fichte's later Jena Wissenschaftslehre",
+      "url": "https://philpapers.org/rec/BRENEO-2",
+      "philpapers_id": "BRENEO",
+      "snippet": "After Jena: New Essays on Fichte&#x27;s Later Philosophy.Tom Rockmore &amp; Daniel Breazeale (eds.) - 2008 - Evanston, Ill.: Northwestern University Press.",
+      "page_age": null,
+      "extra_snippets": [
+        "After Jena: New Essays on Fichte's Later Philosophy.Tom Rockmore & Daniel Breazeale (eds.) - 2008 - Evanston, Ill.: Northwestern University Press.",
+        "New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "The philosophical thought of J. G. Fichte, particularly his later work, is at the very center of the paradigm shift under way in the field of German idealism. Crucial to this reassessment is Fichte's _Wissenschaftslehre nova methodo_ of 1796 to 1799, the manuscript at the heart of this essay colleciton and an articulation of the philosopher's _Wissenschaftslehre,_ or overall system of philosophy, which he discussed in lectures at the University of Jena.",
+        "Idealism and Objectivity: Understanding Fichte\u2019s Jena Project.Wayne Martin - 1997 - Stanford University Press. Added to PP 2009-01-28 Downloads 29 (#1,275,243) 6 months 5 (#1,594,994) ... Agency and Self\u2010Sufficiency in Fichte's Ethics.Michelle Kosch - 2015 - Philosophy and Phenomenological Research 91 (2):348-380. Philosophy and \u201cthe method of fictions\u201d: Maimon's proposal and its critics.Daniel Breazeale - 2018 - European Journal of Philosophy 26 (2):702-716."
+      ]
+    },
+    {
+      "title": "Johannes Brachtendorf, The notion of Being in Fichte's late philosophy",
+      "url": "https://philpapers.org/rec/BRATNO-3",
+      "philpapers_id": "BRATNO",
+      "snippet": "After Jena: Fichte&#x27;s Religionslehre.Yolanda Estes - 2008 - In Tom Rockmore &amp; Daniel Breazeale, After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Johannes Brachtendorf"
+        }
+      ],
+      "extra_snippets": [
+        "After Jena: Fichte's Religionslehre.Yolanda Estes - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Fichte's reaction to Schelling's identity philosophy in 1806.Michael Vater - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Toward or away from Schelling? on the thematic shift in Fichte's later philosophy.Steven Hoeltzel - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Structures of imagination in Fichte's Wissenschaftslehre 1794-95 and 1804.Violetta L. Waibel - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), New essays in Fichte's Foundation of the entire doctrine of scientific knowledge",
+      "url": "https://philpapers.org/rec/BRENEI",
+      "philpapers_id": "BRENEI",
+      "snippet": "Fichte\u2019s method of philosophical experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2024 - Archiv f\u00fcr Geschichte der Philosophie 106. Fichte-Studien 49 (2021) - The Enigma of Fichte\u2019s First Principles.David W. Wood (ed.) - 2021 - Boston: Johann Gottlieb Fichte, Imagination and Reflection: Intersubjectivity and Fichte\u2019s Grundlage of 1794.Joachim Widmann - 1982 \u00b7 The Deduction of Intersubjectivity in Fichte&#x27;s Grundlage des Naturrechts&#x27;.Klaus Brinkmann - 2002 - In Daniel Breazeale &amp; Tom Rockmore, New essays on Fichte&#x27;s later Jena Wissenschaftslehre.",
+      "page_age": null,
+      "extra_snippets": [
+        "Fichte\u2019s method of philosophical experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2024 - Archiv f\u00fcr Geschichte der Philosophie 106. Fichte-Studien 49 (2021) - The Enigma of Fichte\u2019s First Principles.David W. Wood (ed.) - 2021 - Boston: Johann Gottlieb Fichte, Imagination and Reflection: Intersubjectivity and Fichte\u2019s Grundlage of 1794.Joachim Widmann - 1982 \u00b7 The Deduction of Intersubjectivity in Fichte's Grundlage des Naturrechts'.Klaus Brinkmann - 2002 - In Daniel Breazeale & Tom Rockmore, New essays on Fichte's later Jena Wissenschaftslehre.",
+        "This collection of 13 essays on the philosophy of Johann Gottlieb Fichte is the first volume in English to focus upon Fichte's most celebrated and influential philosophical text, his Grundlage der gesamten Wissenschaftslehre (\"Foundation of the Entire Doctrine of Scientific Knowledge\").",
+        "Fichte's Grundlage is an audaciously original effort to recast the Kantian philosophy into a full-blown system of \"transcendental idealism.\" Rejecting all reference to \"things in themselves,\" Fichte described his work as \"the first philosophy of human freedom\" and as a faithful expression of the true \"spirit\" of Kant's critical philosophy.",
+        "Most of the essays in this collection address specific themes and problems in the context of the Grundlage, such as imagination, time, representation, reflection, deduction, and transcendental methodology. Others examine the relationship of Fichte's philosophy to Kant's and the influence of the Grundlage upon such philosophers as Jacobi, Schelling, and Hegel."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Fichte, Marx, and the German Philosophical Tradition",
+      "url": "https://philpapers.org/rec/BREFMA-3",
+      "philpapers_id": "BREFMA",
+      "snippet": "After Jena: New Essays on Fichte&#x27;s Later Philosophy.Tom Rockmore &amp; Daniel Breazeale (eds.) - 2008 - Northwestern University Press.",
+      "page_age": null,
+      "extra_snippets": [
+        "Tom Rockmore: Fichte, Marx and the German philosophical Tradition. [REVIEW]J. Schreiter - 1983 - Deutsche Zeitschrift f\u00fcr Philosophie 31 (4):506. Fichte, Marx, and the German Philosophical Tradition.Steven Crowell - 1983 - International Philosophical Quarterly 23 (3):338-340. Marx Via Feuerbach: Species-Being Revisited.Jacob M. Held - 2009 - Idealistic Studies 39 (1-3):137-148. New Essays on Fichte's Later Jena Wissenschaftslehre.Daniel Breazeale & Tom Rockmore (eds.)",
+        "ROCKMORE, Tom, Fichte, Marx, and the German Philosophical TraditionROCKMORE, Tom, Fichte, Marx, and the German Philosophical Tradition.Jean Grondin - 1983 - Laval Th\u00e9ologique et Philosophique 39 (3):377-379.",
+        "Fichte, Marx, and the German Philosophical Tradition. [REVIEW]G. C. - 1981 - Review of Metaphysics 34 (4):801-803. Tom Rockmore, \"Fichte, Marx and the German Philosophical Tradition\".",
+        "Fichte Marx and the German Philosophical Tradtiion.Tom Rockmore - 1980 - Southern Illinois University Press."
+      ]
+    },
+    {
+      "title": "Andrew Fiala, Fichte and the Ursprache",
+      "url": "https://philpapers.org/rec/FIAFAT",
+      "philpapers_id": "FIAFAT",
+      "snippet": "Fichte on knowledge, practice, and history.Tom Rockmore - 2008 - In Tom Rockmore &amp; Daniel Breazeale, After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andrew Fiala"
+        }
+      ],
+      "extra_snippets": [
+        "Thinking and willing in the later Fichte.Gunter Zoller - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Fichte on knowledge, practice, and history.Tom Rockmore - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "After Jena: Fichte's Religionslehre.Yolanda Estes - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "The notion of Being in Fichte's late philosophy.Johannes Brachtendorf - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy."
+      ]
+    },
+    {
+      "title": "Tom Rockmore, Fichte's Antifoundationalism, Intellectual Intuition, and Who One Is",
+      "url": "https://philpapers.org/rec/ROCFAI",
+      "philpapers_id": "ROCFAI",
+      "snippet": "Review of New Essays on Fichte&#x27;s Later Jena Wissenschaftslehre by Daniel Breazeale and Tom Rockmore.Michael Vater - unknown \u00b7 ROCKMORE, Tom, Fichte, Marx, and the German philosophical TraditionROCKMORE, Tom, Fichte, Marx, and the German philosophical Tradition.Jean Grondin - 1983 - Laval Th\u00e9ologique et Philosophique 39 (3):377-379.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "Tom Rockmore and Daniel Breazeale, eds., Rights, Bodies and Recognition: New Essays on Fichte's.M. Kolkman - 2007 - Philosophy in Review 27 (5):373. New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "Review of New Essays on Fichte's Later Jena Wissenschaftslehre by Daniel Breazeale and Tom Rockmore.Michael Vater - unknown \u00b7 ROCKMORE, Tom, Fichte, Marx, and the German philosophical TraditionROCKMORE, Tom, Fichte, Marx, and the German philosophical Tradition.Jean Grondin - 1983 - Laval Th\u00e9ologique et Philosophique 39 (3):377-379.",
+        "Daniel Breazeale and Tom Rockmore , Fichte: Historical Contexts/Contemporary Controversies, Humanities Press: New Jersey, 1994, pp vi + 271.Ronnie Mather - 1996 - Hegel Bulletin 17 (2):27-30. Added to PP 2014-01-29 Downloads 1 (#2,321,147) 6 months 1 (#2,271,538) ... Sorry, there are not enough data points to plot this chart. How can I increase my downloads? ... Recensi\u00f3n p\u00f3stuma al escrito de la Diferencia entre los sistemas de filosof\u00eda de Fichte y Schelling del Prof.",
+        "In Tom Rockmore & Daniel Breazeale, New perspectives on Fichte. Atlantic Highlands, N.J.: Humanities Press."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Fichte's Conception of Philosophy as a \"Pragmatic History of the Human Mind\" and the Contributions of Kant, Platner, and Maimon",
+      "url": "https://philpapers.org/rec/DANFCO",
+      "philpapers_id": "DANFCO",
+      "snippet": "New Essays on Fichte&#x27;s Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        }
+      ],
+      "extra_snippets": [
+        "New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "Fichte's Addresses to the German Nation Reconsidered ed. by Daniel Breazeale and Tom Rockmore.F.",
+        "Daniel Breazeale, ed. and trans., \"Fichte: Early Philosophical Writings\".Frederick Neuhouser - 1990 - Journal of the History of Philosophy 28 (4):624. Added to PP 2010-08-10 Downloads 96 (#338,890) 6 months 19 (#676,148) ... Fichte\u2019s method of philosophical experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2024 - Archiv f\u00fcr Geschichte der Philosophie 106. Fichte\u2019s Method of Philosophical Experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2025 - Archiv f\u00fcr Geschichte der Philosophie 107 (3):534-566.",
+        "Thinking Through the Wissenschaftslehre: Themes from Fichte\u2019s Early Philosophy by Daniel Breazeale. [REVIEW]Matthew C."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), Fichte's Addresses to the German Nation Reconsidered",
+      "url": "https://philpapers.org/rec/BREFAT-4",
+      "philpapers_id": "BREFAT",
+      "snippet": "Review of Daniel Breazeale (ed.), Tom Rockmore (ed.), New Essays on Fichte&#x27;s Later Jena Wissenschaftslehre. [REVIEW]Michael Vater - 2004 - Notre Dame Philosophical Reviews 2004 (2).",
+      "page_age": null,
+      "extra_snippets": [
+        "Tom Rockmore and Daniel Breazeale, eds., Rights, Bodies and Recognition: New Essays on Fichte's.M. Kolkman - 2007 - Philosophy in Review 27 (5):373. New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "Review of Daniel Breazeale (ed.), Tom Rockmore (ed.), New Essays on Fichte's Later Jena Wissenschaftslehre. [REVIEW]Michael Vater - 2004 - Notre Dame Philosophical Reviews 2004 (2).",
+        "Essays on one of Fichte's best known and most controversial works. One of J. G. Fichte\u2019s best-known works, Addresses to the German Nation is based on a series of speeches he ...",
+        "Daniel Breazeale is Professor of Philosophy and Distinguished Professor of Arts and Sciences at the University of Kentucky. Tom Rockmore is Humanities Chair Professor and Professor of Philosophy at Peking University, China. Both have authored, edited, and translated many books. Together, they are the coeditors of Fichte\u2019s Vocation of Man: New Interpretive and Critical Essays, also published by SUNY Press."
+      ]
+    },
+    {
+      "title": "Tom Rockmore, Fichte on knowledge, practice, and history",
+      "url": "https://philpapers.org/rec/ROCFOK",
+      "philpapers_id": "ROCFOK",
+      "snippet": "The Logic of Historical Truth&quot;: History and Individuality in Fichte&#x27;s Later Philosophy of History.Angelica Nuzzo - 2008 - In Daniel Breazeale &amp; Tom Rockmore (eds.), After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "New Essays in Fichte's Foundation of the Entire Doctrine of Scientific Knowledge.Daniel Breazeale & Tom Rockmore (eds.) - 2001 - Humanity Books. Fichte's Intersubjective I.Allen W. Wood - 2006 - Inquiry: An Interdisciplinary Journal of Philosophy 49 (1):62 \u2013 79.",
+        "Home | New books and articles | Bibliographies | Philosophy journals | Discussions | Article Index | About PhilPapers | API | Contact us | Code of conduct"
+      ]
+    },
+    {
+      "title": "Daniel Breazeale & Tom Rockmore (eds.), Fichte's Vocation of Man: New Interpretive and Critical Essays",
+      "url": "https://philpapers.org/rec/BREFVO",
+      "philpapers_id": "BREFVO",
+      "snippet": "Review of Daniel Breazeale (ed.), Tom Rockmore (ed.), New Essays on Fichte&#x27;s Later Jena Wissenschaftslehre. [REVIEW]Michael Vater - 2004 - Notre Dame Philosophical Reviews 2004 (2).",
+      "page_age": null,
+      "extra_snippets": [
+        "Tom Rockmore and Daniel Breazeale, eds., Rights, Bodies and Recognition: New Essays on Fichte's.M. Kolkman - 2007 - Philosophy in Review 27 (5):373. New Essays on Fichte's Later Jena Wissenschaftslehre, eds Daniel Breazeale and Tom Rockmore.Iain Hamilton Grant - 2004 - Journal of the British Society for Phenomenology 35 (3):324-326.",
+        "Review of Daniel Breazeale (ed.), Tom Rockmore (ed.), New Essays on Fichte's Later Jena Wissenschaftslehre. [REVIEW]Michael Vater - 2004 - Notre Dame Philosophical Reviews 2004 (2).",
+        "Fichte's Addresses to the German Nation Reconsidered.Daniel Breazeale & Tom Rockmore (eds.) - 2016 - SUNY Press. Review of New Essays on Fichte's Later Jena Wissenschaftslehre by Daniel Breazeale and Tom Rockmore.Michael Vater - unknown",
+        "_New perspectives on Fichte\u2019s best known and most popular work._"
+      ]
+    },
+    {
+      "title": "Gunter Zoller, Thinking and willing in the later Fichte",
+      "url": "https://philpapers.org/rec/ZOLTAW",
+      "philpapers_id": "ZOLTAW",
+      "snippet": "Fichte on knowledge, practice, and history.Tom Rockmore - 2008 - In Tom Rockmore &amp; Daniel Breazeale (eds.), After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gunter Zoller"
+        }
+      ],
+      "extra_snippets": [
+        "Fichte and the Ursprache.Andrew Fiala - 2008 - In Tom Rockmore & Daniel Breazeale (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "Fichte on knowledge, practice, and history.Tom Rockmore - 2008 - In Tom Rockmore & Daniel Breazeale (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "After Jena: Fichte's Religionslehre.Yolanda Estes - 2008 - In Tom Rockmore & Daniel Breazeale (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "Toward or away from Schelling? on the thematic shift in Fichte's later philosophy.Steven Hoeltzel - 2008 - In Tom Rockmore & Daniel Breazeale (eds.), After Jena: New Essays on Fichte's Later Philosophy."
+      ]
+    },
+    {
+      "title": "Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Life-World, Philosophy and the Other: Husserl and Fichte",
+      "url": "https://philpapers.org/rec/WAILPA",
+      "philpapers_id": "WAILPA",
+      "snippet": "Tom Rockmore and Daniel Breazeale, eds., Rights, Bodies and Recognition: New Essays on Fichte&#x27;s.M. Kolkman - 2007 - Philosophy in Review 27 (5):373. Review of New Essays on Fichte&#x27;s Later Jena Wissenschaftslehre by Daniel Breazeale and Tom Rockmore.Michael Vater - unknown",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Violetta L. Waibel"
+        },
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        },
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "In Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 141-166 (2010) ... This article has no associated abstract. (fix it) ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Life-World, Philosophy and the Other: Husserl and Fichte.Robert R.",
+        "Williams - 2010 - In Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 141-166. Violetta L. Waibel, H\u00f6lderlin und Fichte 1794-1800 , Paderborn, Ferdinand Sch\u00f6ningh, 2000, 384 pp. Violetta L. Waibel, H\u00f6lderlin und Fichte 1794-1800 , Paderborn, Ferdinand Sch\u00f6ningh, 2000, 384 pp.Manuel Roy - 2001 - Philosophiques 28 (1):233-235.",
+        "Daniel Breazeale and Tom Rockmore , Fichte: Historical Contexts/Contemporary Controversies, Humanities Press: New Jersey, 1994, pp vi + 271.Ronnie Mather - 1996 - Hegel Bulletin 17 (2):27-30. Tom Rockmore, \"Fichte, Marx and the German Philosophical Tradition\".",
+        "Mit Kant \u00fcber Kant hinaus, Begriff und Konkretion. Beitr\u00e4ge zur Gegenwart der klassischen deutschen Philosophie, edited by Violetta L. Waibel.Michael Boch - 2023 - Fichte-Studien 52 (2):655-665. Fichte\u2019s Vocation of Man: New Interpretive and Critical Essays by Daniel Breazeale and Tom Rockmore."
+      ]
+    },
+    {
+      "title": "Tom Rockmore & Daniel Breazeale (eds.), Fichte and Transcendental Philosophy",
+      "url": "https://philpapers.org/rec/ROCFAT",
+      "philpapers_id": "ROCFAT",
+      "snippet": "Tom Rockmore \u00b7 Duquesne University \u00b7 Daniel Breazeale \u00b7 University of Kentucky \u00b7 Fichte on Human Rights.Esther Neuhann - 2024 - Fichte-Studien 53 (1):225-258. Rejecting the Plea for Modesty. Kant\u2019s Truth-Directed Transcendental Argument Based on Self-Consciousness of Our Own Existence.Roberto Hor\u00e1cio de S\u00e1 Pereira - 2022 - Studies in Transcendental Philosophy 3 (3). Immanence in Schelling and Hegel in the Jena Period.Paolo Diego Bubbio &amp; Daniele Fulvi - 2022 - Southern Journal of Philosophy 60 (3):353-387.",
+      "page_age": null,
+      "extra_snippets": [
+        "Tom Rockmore \u00b7 Duquesne University \u00b7 Daniel Breazeale \u00b7 University of Kentucky \u00b7 Fichte on Human Rights.Esther Neuhann - 2024 - Fichte-Studien 53 (1):225-258. Rejecting the Plea for Modesty. Kant\u2019s Truth-Directed Transcendental Argument Based on Self-Consciousness of Our Own Existence.Roberto Hor\u00e1cio de S\u00e1 Pereira - 2022 - Studies in Transcendental Philosophy 3 (3). Immanence in Schelling and Hegel in the Jena Period.Paolo Diego Bubbio & Daniele Fulvi - 2022 - Southern Journal of Philosophy 60 (3):353-387.",
+        "Johann Gottlieb Fichte is a widely known transcendental philosopher and obviously a thinker of the first rank. Yet contemporary interest in and evaluation of \"transcendental philosophy\" as well as the precise meaning of the terms and its relation to \"transcendental method\" remains unclear.",
+        "A \u201capercep\u00e3o transcendental\u201d kantiana frente ao eu puro fichteano: do criticismo ao idealismo alem\u00e3o / The Transcendental Apperception of Kantians in Front of the \u201cPure I\u201d of Fichtean From Criticism to German Idealism.M. R. Gomes - 2019 - Alamedas 7:213-223. All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism (review).Daniel Breazeale - 2007 - Journal of the History of Philosophy 45 (4):665-667.",
+        "Popular method : on truth and falsehood in Fichte's transcendental philosophy.Ge\u0300unter Ze\u0300oller \u00b7 Self-determination and immediate self-consciousness in the Jena Wissenschaftslehre.Jeffery Kinlaw"
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Why Fichte Now?",
+      "url": "https://philpapers.org/rec/BREWFN-2",
+      "philpapers_id": "BREWFN",
+      "snippet": "Daniel Breazeale, ed. and trans., &quot;Philosophy and Truth: Selections from Nietzsche&#x27;s Notebooks of the Early 1870s&quot;.Graham Parkes - 1992 - Journal of the History of Philosophy 30 (1):147. Added to PP 2009-01-28 Downloads 116 (#265,440) 6 months 20 (#632,363) ... The vocation of postmodern man : why Fichte now? again?Arnold Farr - 2013 - In Daniel Breazeale &amp; Tom Rockmore, Fichte&#x27;s Vocation of Man: New Interpretive and Critical Essays.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        }
+      ],
+      "extra_snippets": [
+        "The vocation of postmodern man : why Fichte now? again?Arnold Farr - 2013 - In Daniel Breazeale & Tom Rockmore, Fichte's Vocation of Man: New Interpretive and Critical Essays. Albany: State University of New York Press. pp. 285-299. Daniel Breazeale, Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy.",
+        "Daniel Breazeale, ed. and trans., \"Fichte: Early Philosophical Writings\".Frederick Neuhouser - 1990 - Journal of the History of Philosophy 28 (4):624. FICHTEANA: Review of J.G. Fichte Research 23 (2023).David W. Wood, Kienhow Goh, Daniel Breazeale & Gesa Wellmann (eds.) - 2023 - FICHTEANA: Review of J.G. Fichte Research. Daniel Breazeale and Tom Rockmore , Fichte: Historical Contexts/Contemporary Controversies, Humanities Press: New Jersey, 1994, pp vi + 271.Ronnie Mather - 1996 - Hegel Bulletin 17 (2):27-30.",
+        "Thinking Through the Wissenschaftslehre: Themes From Fichte's Early Philosophy.Daniel Breazeale - 2013 - Oxford: Oxford University Press. Fichte\u2019s Vocation of Man: New Interpretive and Critical Essays by Daniel Breazeale and Tom Rockmore.",
+        "Daniel Breazeale, ed. and trans., \"Philosophy and Truth: Selections from Nietzsche's Notebooks of the Early 1870s\".Graham Parkes - 1992 - Journal of the History of Philosophy 30 (1):147. Added to PP 2009-01-28 Downloads 116 (#265,440) 6 months 20 (#632,363) ... The vocation of postmodern man : why Fichte now? again?Arnold Farr - 2013 - In Daniel Breazeale & Tom Rockmore, Fichte's Vocation of Man: New Interpretive and Critical Essays."
+      ]
+    },
+    {
+      "title": "Kevin Zanelotti, How not to read Fichte's Anweisung zum seligen Leben (1806): against the mystical reading",
+      "url": "https://philpapers.org/rec/ZANHNT",
+      "philpapers_id": "ZANHNT",
+      "snippet": "In Daniel Breazeale &amp; Tom Rockmore (eds.), After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": "2009-01-28T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Kevin Zanelotti"
+        }
+      ],
+      "extra_snippets": [
+        "Fichte's Reaction to Schelling's Identity Philosophy in 1806.Michael Vater - 2008 - In Daniel Breazeale & Tom Rockmore (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "Fichte's Conception of the System of Philosophy in Die Anweisung Zum Seligen Leben.Ernst-Otto Onnasch - 2008 - In Daniel Breazeale & Tom Rockmore (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "Fichte: Early Philosophical Writings.Johann Gottlieb Fichte - 1988 - Cornell University Press.",
+        "Das Begreifen des Unbegreiflichen, Philosophie und Religion bei Johann Gottlieb Fichte 1800-1806 (review).Dorothea Wildenburg - 2000 - Journal of the History of Philosophy 38 (2):288-290."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Introductions to the Wissenschaftslehre and Other Writings (1797-1800)",
+      "url": "https://philpapers.org/rec/FICITT-2",
+      "philpapers_id": "FICITT",
+      "snippet": "These selections provide a brief but comprehensive introduction to Fichte\u2019s philosophical system and his place in the history of German Idealism. In addition to some of Fichte\u2019s most influential texts, such as the First and Second Introductions to the Wissenschaftslehre and The Basis of Our Belief in a Divine Governance of the World, Breazeale has translated, for the first time into English, several other writings from the same period, including Attempt at a New Presentation of the Wissenschaftslehre, Other short essays, including Fichte\u2019s replies to the charge of atheism, extend the discussions of the Introductions and respond to criticisms.",
+      "page_age": null,
+      "extra_snippets": [
+        "These selections provide a brief but comprehensive introduction to Fichte\u2019s philosophical system and his place in the history of German Idealism. In addition to some of Fichte\u2019s most influential texts, such as the First and Second Introductions to the Wissenschaftslehre and The Basis of Our Belief in a Divine Governance of the World, Breazeale has translated, for the first time into English, several other writings from the same period, including Attempt at a New Presentation of the Wissenschaftslehre, Other short essays, including Fichte\u2019s replies to the charge of atheism, extend the discussions of the Introductions and respond to criticisms.",
+        "Fichte's fictions revisited.Benjamin D. Crowe - 2008 - Inquiry: An Interdisciplinary Journal of Philosophy 51 (3):268 \u2013 287. Fichte in Berlin: the 1804 Wissenschaftslehre.Matthew Nini - 2024 - Chicago: McGill-Queen's University Press. New essays on Fichte's later Jena Wissenschaftslehre.Daniel Breazeale & Tom Rockmore (eds.)",
+        "Breazeale\u2019s substantial Introduction supplies the context needed for a sound appreciation of Fichte\u2019s enterprise and achievement.",
+        "J. G. Fichte's Foundations of the Entire Wissenschaftslehre and Related Writings, 1794\u201395 by J. G. Fichte.Isabelle Thomas-Fogiel - 2023 - Journal of the History of Philosophy 61 (2):334-336."
+      ]
+    },
+    {
+      "title": "T. Rockmore, V. Waibel, D. Breazeale (ed.), Fichte and the Phenomenological Tradition",
+      "url": "https://philpapers.org/rec/FAT",
+      "philpapers_id": "FAT",
+      "snippet": "The Theory of Meaning and the Advent of the Infinite.Isabelle Thomas-Fogiel - 2010 - In Violetta L. Waibel, Daniel Breazeale &amp; Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 327-340. Life-World, Philosophy and the Other: Husserl and Fichte.Robert R.",
+      "page_age": null,
+      "extra_snippets": [
+        "Waibel, Daniel Breazeale & Tom Rockmore \u00b7 Fichte\u2019s Phenomenology of Religious Consciousness. (pages 57-70)Anthony N. Perovich \u00b7 Phenomenologies of Intersubjectivity: Fichte between Hegel and Husserl. (pages 97-118)Angelica Nuzzo \u00b7 Tendency, Drive, Objectiveness. The Fichtean Doctrine and the Husserlian Perspective. (pages 119-140)Federico Ferraguto \u00b7 Life-World, Philosophy and the Other: Husserl and Fichte.",
+        "The Theory of Meaning and the Advent of the Infinite.Isabelle Thomas-Fogiel - 2010 - In Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 327-340. Life-World, Philosophy and the Other: Husserl and Fichte.Robert R.",
+        "Williams - 2010 - In Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 141-166. Added to PP 2010-10-29 Downloads 1 (#2,090,329) 6 months 1 (#2,007,079) ... Sorry, there are not enough data points to plot this chart. How can I increase my downloads? L\u2019absolu et ses images. Les \u00ab philosophies de l\u2019immanence \u00bb de Fichte et de Michel Henry.Roberto Formisano - 2022 - Fichte-Studien 51 (2):342-362.",
+        "Introduction. (pages 1-10)Violetta L. Waibel, Daniel Breazeale & Tom Rockmore \u00b7 On Fichte and Phenomenology. (pages 11-24)Violetta L."
+      ]
+    },
+    {
+      "title": "Violetta L. Waibel, Daniel Breazeale & Tom Rockmore (eds.), Fichte and the Phenomenological Tradition",
+      "url": "https://philpapers.org/rec/WAIFAT",
+      "philpapers_id": "WAIFAT",
+      "snippet": "... This volume is a collection of previously unpublished papers dealing with the neglected &quot;phenomenological&quot; dimension of the philosophy of Johann Gottlieb Fichte, which it compares and contrasts to the phenomenology of his contemporary Georg ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Violetta L. Waibel, Daniel Breazeale & Tom Rockmore (eds.) ... This volume is a collection of previously unpublished papers dealing with the neglected \"phenomenological\" dimension of the philosophy of Johann Gottlieb Fichte, which it compares and contrasts to the phenomenology of his contemporary Georg Wilhelm Friedrich Hegel and to that of Edmund Husserl and his 20th century followers.",
+        "Fichte and the Phenomenological Tradition.Violetta L. Waibel, Daniel Breazeale & Tom Rockmore (eds.) - 2010 - Berlin, New York: De Gruyter."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Fichte: Early Philosophical Writings",
+      "url": "https://philpapers.org/rec/BREFEP",
+      "philpapers_id": "BREFEP",
+      "snippet": "Fichte: Early Philosophical Writings. [REVIEW]Tom Rockmore - 1992 - Philosophical Review 101 (2):396-398. Daniel Breazeale, ed. and trans., &quot;Fichte: Early Philosophical Writings&quot;.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        }
+      ],
+      "extra_snippets": [
+        "Daniel Breazeale, Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy. Reviewed by. [REVIEW]Michael Nance - 2018 - Philosophy in Review 38 (1):8-10. Review of Johann Gottlieb Fichte, G\u00fcnter Z\u00f6ller (tr.), Daniel Breazeale (tr.), System of Ethics.",
+        "FICHTEANA: Review of J.G. Fichte Research 23 (2023).David W. Wood, Kienhow Goh, Daniel Breazeale & Gesa Wellmann (eds.) - 2023",
+        "FICHTEANA: Review of J.G. Fichte Research 22 (2022).David W. Wood, Kienhow Goh & Daniel Breazeale (eds.) - 2022",
+        "Foundation of the Entire Wissenschaftslehre and Related Writings (1794-95), by Johann Gottlieb Fichte, ed. and trans. Daniel Breazeale."
+      ]
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

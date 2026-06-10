@@ -1,0 +1,45 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte Grundzuge gegenwartigen Zeitalters epochs reason', limit=25
+[search_openalex.py] Retrieved 1 papers...
+[search_openalex.py] Search complete: 1 papers found
+[search_openalex.py] Cached results (cache key: openalex_ccc6f98c9034582c)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte Grundzuge gegenwartigen Zeitalters epochs reason",
+  "results": [
+    {
+      "openalex_id": "W2307936379",
+      "doi": "10.14288/1.0101866",
+      "title": "Romanticism and the \"dissociation of sensibility\"; a study of Charles Baudelaire and T.S. Eliot",
+      "authors": [
+        {
+          "name": "Angelika Maria Maeser",
+          "openalex_id": "A5084136450"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "This study attempts to determine what is the basic feature of Romanticism and in what relation to it Charles Baudelaire and T. S. Eliot stand. Since few terms are as misunderstood and as weighed down with numerous and contradictory meanings as Romanticism, this thesis begins by trying to \"reconstruct the Romantic situation\" and turns to its major aesthetician, Friedrich Schlegel, in order to discover in what the revolutionary new outlook consisted. The fundamental characteristic of Romanticism, that which distinguishes it from all other literary and cultural movements, is here maintained to be the awareness of fragmentation, of division, and of chaos. The great important realization of Romanticism was of the modern world's and man's fragmentation and disunity in contrast to the wholeness and order of the distant past. The task which it assigned itself was to strive for a reintegration of the severed forces \u2014 Spirit and Nature \u2014 in a new synthesis that would, in turn, create a new man and a new world. In seeking to achieve this harmony, Romanticism turned to symbol, myth, and religion. Two of the most important and influential poets of the modern age, Baudelaire and Eliot, were deeply entrenched in the Romantic Weltanschauung and tradition, although while the former was consciously and progressively so, the. latter was an unconscious and reactionary Romantic. Both poets continue that tradition by virtue of their essential awareness of the duality of man or, in Eliot's phrase, of the \"dissociation of sensibility\". The two fundamental principles of life and art, Spirit and Nature, are continually operative in their work and strive for harmony in their conflict. The conclusion to which this thesis comes, however, is that neither poet fully realized the Romantic goal: the harmony of Spirit and Nature. The two forces co-habit in their verse, but never surpass conflict in a higher third synthesis. The reason for this failure, it is maintained, is their misunderstanding of Nature. Both poets were hostile to and biased against Nature, preferring the exclusiveness of the Spirit. As a result, Baudelaire sought the way of transformation of Nature and Eliot the way of sublimation of Nature. With Eliot Romanticism came to a dead end, disavowing itself consciously yet tormented by its ever-pressing vision of the fragmentariness of man and art. Eliot, sought to heal the Romantic agony in a way which was not unorthodox for Romantics \u2014 conversion and conservatism. But the dilemma which the Romantic vision reveals so clearly \u2014 the dissociation of Spirit and Nature \u2014 has not thus been solved for modern man. This thesis maintains that Nature must be re-examined and re-understood for poetry to receive a new lease on life in our day. Only thereby will Romanticism once again find a new opening for creation.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/33885"
+      },
+      "topics": [
+        "French Literature and Poetry",
+        "Poetry Analysis and Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2307936379"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

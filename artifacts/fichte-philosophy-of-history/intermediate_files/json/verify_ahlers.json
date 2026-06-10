@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/IDSTUDIES20033313
+[verify_paper.py] DOI verified: Vitalism and System...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/IDSTUDIES20033313"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/idstudies20033313",
+      "title": "Vitalism and System",
+      "authors": [
+        {
+          "family": "Ahlers",
+          "given": "Rolf"
+        },
+        {
+          "family": "Philosophy Documentation Center",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "Idealistic Studies",
+      "volume": "33",
+      "issue": "1",
+      "page": "83-113",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/idstudies20033313"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

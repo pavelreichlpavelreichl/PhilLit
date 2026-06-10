@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4000/15e9p
+[verify_paper.py] DOI verified: Fichte on Trial. The Atheist, the Nihilist, the De...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4000/15e9p"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4000/15e9p",
+      "title": "Fichte on Trial. The Atheist, the Nihilist, the Democrat",
+      "authors": [
+        {
+          "family": "Scarfia",
+          "given": "Lucas Dami\u00e1n"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Revista de Estud(i)os sobre Fichte",
+      "volume": "29",
+      "issue": "",
+      "page": "",
+      "publisher": "OpenEdition",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4000/15e9p"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

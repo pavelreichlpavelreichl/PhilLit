@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1111/NANA.12002
+[verify_paper.py] DOI verified: <scp>F</scp>ichte and the <scp>G</scp>erman Idiom:...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/NANA.12002"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/nana.12002",
+      "title": "<scp>F</scp>ichte and the <scp>G</scp>erman Idiom: the Metaphysics of the <i><scp>A</scp>ddresses to the <scp>G</scp>erman <scp>N</scp>ation</i>",
+      "authors": [
+        {
+          "family": "Keohane",
+          "given": "Ois\u00edn"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Nations and Nationalism",
+      "volume": "19",
+      "issue": "2",
+      "page": "317-336",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/nana.12002"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

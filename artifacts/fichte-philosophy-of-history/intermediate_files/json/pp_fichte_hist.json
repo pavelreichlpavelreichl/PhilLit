@@ -1,0 +1,310 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte historicism forerunner', limit=20
+[search_philpapers.py] Retrieved 19 entries...
+[search_philpapers.py] Search complete: 19 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte historicism forerunner",
+  "results": [
+    {
+      "title": "Audrey Borowski, Friedrich Meinecke's Historism or the Defeat of German Historicism",
+      "url": "https://philpapers.org/rec/BORFMH",
+      "philpapers_id": "BORFMH",
+      "snippet": "The Ideological Valences of Twentieth-Century Historicism.Pietro Rossi - 1975 - History and Theory 14 (4):15. A \u201cforerunner\u201d Of Meinecke?Fulvio Tessitore - 2008 - Archivio di Storia Della Cultura 21.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Audrey Borowski"
+        }
+      ],
+      "extra_snippets": [
+        "Karl Lo\u0308with's Historicization of Historicism.Bruno Godefroy - 2021 - In Herman Paul & Adriaan van Veldhuizen, Historicism: a travelling concept.",
+        "Historicism through the Lens of Anti-Historicism: The Case of Modern Jewish History.David N. Myers - 2021 - In Herman Paul & Adriaan van Veldhuizen, Historicism: a travelling concept.",
+        "The Specter of Historicism: A Discourse of Fear.Herman Paul - 2021 - In Herman Paul & Adriaan van Veldhuizen, Historicism: a travelling concept.",
+        "Historicism as a Modern Theological Problem.Gary Dorrien - 2021 - In Herman Paul & Adriaan van Veldhuizen, Historicism: a travelling concept."
+      ]
+    },
+    {
+      "title": "Servanne Jollivet, L'historisme en question: ge\u0301ne\u0301alogie, de\u0301bats et re\u0301ception: 1800-1930",
+      "url": "https://philpapers.org/rec/JOLLEQ",
+      "philpapers_id": "JOLLEQ",
+      "snippet": "Fichte: id\u00e9alisme, politique et histoire : actes du colloque organis\u00e9 par le Centre Alpin de Philosophie Allemande.Jean-Marie Lardic &amp; Myriam Bienenstock - 2003 - Librairie Philosophique J Vrin.",
+      "page_age": null,
+      "extra_snippets": [
+        "Port\u00e9e par une histoire mouvement\u00e9e, la notion d\u2019historisme (historicisme) constitue une voie d\u2019entr\u00e9e privil\u00e9gi\u00e9e pour \u00e9clairer la r\u00e9flexivit\u00e9 nouvelle qui affecte en profondeur la philosophie et, plus g\u00e9n\u00e9ralement, les sciences humaines au cours des deux derniers si\u00e8cles.",
+        "Historicism History.",
+        "Fichte: id\u00e9alisme, politique et histoire : actes du colloque organis\u00e9 par le Centre Alpin de Philosophie Allemande.Jean-Marie Lardic & Myriam Bienenstock - 2003 - Librairie Philosophique J Vrin."
+      ]
+    },
+    {
+      "title": "Roberta Picardi, The \u201cGuiding Thread\u201d of Universal History: Kant\u2019s Legacy in Fichte\u2019s Philosophy of History",
+      "url": "https://philpapers.org/rec/PICTGT",
+      "philpapers_id": "PICTGT",
+      "snippet": "Kant and Fichte on \u201cUniversal History\u201d.Manfred K\u00fchn - 2014 - In Fred Rush &amp; J\u00fcrgen Stolzenberg (eds.), Geschichte/History. De Gruyter. pp. 37-53 \u00b7 Answering Aenesidemus: Schulze&#x27;s Attack on Reinholdian Representationalism and its Importance for Fichte.James Messina - 2011 - Journal of ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Roberta Picardi"
+        }
+      ],
+      "extra_snippets": [
+        "Answering Aenesidemus: Schulze's Attack on Reinholdian Representationalism and its Importance for Fichte.James Messina - 2011 - Journal of the History of Philosophy 49 (3):339-369.",
+        "Kant, Fichte, and the Legacy of Transcendental Idealism.Halla Kim & Steven Hoeltzel (eds.) - 2014 - Lexington Books.",
+        "The Fate of Reason: German Philosophy From Kant to Fichte.Frederick C.",
+        "Fichte's Transcendental Theology.Benjamin D."
+      ]
+    },
+    {
+      "title": "Frederick C. Beiser, The German Historicist Tradition",
+      "url": "https://philpapers.org/rec/BEITGH-2",
+      "philpapers_id": "BEITGH",
+      "snippet": "This is the first history in English of German historicism, the intellectual tradition which holds that history is the key to understanding all human values, beliefs and actions. Beiser surveys the ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Baltas, Aristides. Peeling Potatoes or Grinding Lenses: Spinoza and Young Wittgenstein Converse on Immanence and Its Logic (Pittsburgh: University of Pittsburgh Press, 2012). Beiser, Frederick C. The German Historicist Tradition (Oxford: Oxford University Press, 2011).",
+        "The German Historicist Tradition, by Frederick C. Beiser.M. N.",
+        "Frederick Beiser , The German Historicist Tradition .",
+        "R\u00fcsen\u2019s Legacy of Synthetic Historicism.Juan L."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Fichte, early philosophical writings",
+      "url": "https://philpapers.org/rec/FICFEP",
+      "philpapers_id": "FICFEP",
+      "snippet": "Johann Gottlieb Fichte.Wilhelm Jacobs - 1986 - Tijdschrift Voor Filosofie 48 (4):643-643. Added to PP 2009-01-28 Downloads 45 (#1,008,542) 6 months 4 (#1,807,735) Historical graph of downloads \u00b7 How can I increase my downloads? Idealism and Facticity: Kant\u2019s Grounding of Metaphysics and Fichte\u2019s Challenge.Jens Pier - 2024 - International Journal of Philosophical Studies 32 (5):538\u2013562.",
+      "page_age": null,
+      "extra_snippets": [
+        "Johann Gottlieb Fichte.Wilhelm Jacobs - 1986 - Tijdschrift Voor Filosofie 48 (4):643-643. Added to PP 2009-01-28 Downloads 45 (#1,008,542) 6 months 4 (#1,807,735) Historical graph of downloads \u00b7 How can I increase my downloads? Idealism and Facticity: Kant\u2019s Grounding of Metaphysics and Fichte\u2019s Challenge.Jens Pier - 2024 - International Journal of Philosophical Studies 32 (5):538\u2013562.",
+        "Daniel Breazeale, ed. and trans., \"Fichte: Early Philosophical Writings\".Frederick Neuhouser - 1990 - Journal of the History of Philosophy 28 (4):624.",
+        "Idealism and Objectivity: Understanding Fichte\u2019s Jena Project.Wayne Martin - 1997 - Stanford University Press.",
+        "Johann Gottlieb Fichte.Heinrich Weinel - 1914 - Protestantischer Schriftenvertreib."
+      ]
+    },
+    {
+      "title": "Frank Ankersmit, The Necessity of Historicism",
+      "url": "https://philpapers.org/rec/ANKTNO",
+      "philpapers_id": "ANKTNO",
+      "snippet": "Rankean historicism is ordinarily seen nowadays as an outdated nineteenth century fashion and that we could not possibly tolerate in our modern intellectual homes. In opposition to this common wisdom I ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Frank Ankersmit"
+        }
+      ],
+      "extra_snippets": [
+        "Rankean historicism is ordinarily seen nowadays as an outdated nineteenth century fashion and that we could not possibly tolerate in our modern intellectual homes. In opposition to this common wisdom I argue that historicism - i.e. the claim that the nature of a thing is to be found in is history - is no less true for all writing of history as it was in the days of Ranke.",
+        "I shall argue my untimely thesis by focusing on the historian's language and by insisting that all the claims made by historicists such as Ranke make eminently sense if read as claim not about objects having existed in the past itself but about the language used by historians in their attempt to account for the past.",
+        "Rereading De Republica: Popular Philosophy and Historicism.Matthew Fox - 2024 - In Andree Hahmann & Michael Vazquez, Cicero as Philosopher: New Perspectives on His Philosophy and Its Legacy. Berlin, Boston: De Gruyter.",
+        "A collapse of trust: Reconceptualizing the crisis of historicism.Herman Paul - 2008 - Journal of the Philosophy of History 2 (1):63-82."
+      ]
+    },
+    {
+      "title": "Anna Voci, Before Meinecke: A Reply and a Counter-reply",
+      "url": "https://philpapers.org/rec/VOCBMA",
+      "philpapers_id": "VOCBMA",
+      "snippet": "Voci\u2019s assertion according by which K. Hillebrand should be seen as a precursor of Meinecke \u2013 who doesn\u2019t cite him \u2013 in defining the outline of the origins of historicism, is discussed by Voci and Tessitore in these two notes ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... A \u201cforerunner\u201d Of Meinecke?Fulvio Tessitore - 2008 - Archivio di Storia Della Cultura 21.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Anna Voci"
+        }
+      ],
+      "extra_snippets": [
+        "Voci\u2019s assertion according by which K. Hillebrand should be seen as a precursor of Meinecke \u2013 who doesn\u2019t cite him \u2013 in defining the outline of the origins of historicism, is discussed by Voci and Tessitore in these two notes ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... A \u201cforerunner\u201d Of Meinecke?Fulvio Tessitore - 2008 - Archivio di Storia Della Cultura 21.",
+        "The heteroclite empire of the history of culture and the historicism of individuality: the \u00abarchivio di storia della cultura\u00bb from 1988 al 2005.Edoardo Massimilla - 2006 - Archivio di Storia Della Cultura 19."
+      ]
+    },
+    {
+      "title": "Daniel Fulda, Historicism as a Cultural Pattern: Practising a Mode of Thought",
+      "url": "https://philpapers.org/rec/FULHAA",
+      "philpapers_id": "FULHAA",
+      "snippet": "Historicism has been considered to be a basic thought-pattern of modernity since Troeltsch, Meinecke and Koselleck; defining Historicism as a cultural pattern can help to explain its long-term effectiveness and its continuing productivity to ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Fulda"
+        }
+      ],
+      "extra_snippets": [
+        "What is the basis for the enormous success of Historicism? In my paper I attempt to answer this question by deploying the concept of the cultural pattern. A 'cultural pattern' may be defined as the connection of concepts and practices which have gained a relative perpetuity through cultural habitualization.",
+        "A cultural pattern according to this definition has a relative stability and an observable effect over a long period of time, but which is simultaneously liable to permanent actualization and adaption. Historicism has been considered to be a basic thought-pattern of modernity since Troeltsch, Meinecke and Koselleck; defining Historicism as a cultural pattern can help to explain its long-term effectiveness and its continuing productivity to the present day"
+      ]
+    },
+    {
+      "title": "Ernst Troeltsch, Historicism and its problems: the logical problem of the philosophy of history",
+      "url": "https://philpapers.org/rec/TROHAI-2",
+      "philpapers_id": "TROHAI",
+      "snippet": "In this volume, Ernst Troeltsch embraces historical relativity while rejecting historical relativism, and thereby provides a model for the philosophy of history. The volume remains as relevant as it was in ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Historicit\u00e9 et foi chr\u00e9tienne: une lecture du th\u00e9ologien Ernst Troeltsch.Alfred Dumais - 1995 - Sainte-Foy [Qu\u00e9bec] : Presses de l'Universit\u00e9 Laval.",
+        "Ernst Troeltsch and the problem of the historical absolute.Michael A.",
+        "Notes.Wesley Morris - 2015 - In Toward a New Historicism. Princeton: Princeton University Press.",
+        "Towards a Theology of History: A Metaphysical Approach to Resolving the Problem of Historical Relativism.Jill Schaeffer - 1999 - Dissertation, Graduate Theological Union"
+      ]
+    },
+    {
+      "title": "Andrew Reynolds, What is historicism?",
+      "url": "https://philpapers.org/rec/REYWIH",
+      "philpapers_id": "REYWIH",
+      "snippet": "\u201cHistoricism\u201d has become a ubiquitous and equivocal term. A classification is given here of five separate uses of the term currently in vogue, each provided with a unique qualifying adjective to ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andrew Reynolds"
+        }
+      ],
+      "extra_snippets": [
+        "I then offer a few objections to some of the more radical conclusions which have been drawn by proponents of a specific version of historicism, one associated with \u201cpostmodernism \u201c. The positions of Rorty and Putnam are contrasted as examples of strong and weak degrees of historicism, respectively.",
+        "What socio-historicism and naturalism can learn from one another.Istvan Danka - 2017 - Human Affairs 27 (3):333-343.",
+        "Introduction: The Concept and Context of Historicism.Frederick C. Beiser - 2011 - In The German historicist tradition. New York: Oxford University Press.",
+        "Historicism: a travelling concept.Herman Paul & Adriaan van Veldhuizen (eds.) - 2021 - London ; New York: Bloomsbury Academic."
+      ]
+    },
+    {
+      "title": "David M. Rasmussen, Rights--The New Quarrel between the Ancients and the Moderns",
+      "url": "https://philpapers.org/rec/RASRNQ",
+      "philpapers_id": "RASRNQ",
+      "snippet": "The thesis put forward by Luc Ferry in this book is the following: &quot;If Heidegger&#x27;s deconstruction of metaphysics and Strauss&#x27;s critique of historicism are incontrovertible, and if, despite everything, we refuse to conclude that a &#x27;return to the ancients&#x27; is in order... we must take up the challenge of showing how modernity may criticize itself and thus refrain from yielding to the wiles of metaphysics&quot;. It is a substantial thesis--not entirely original, but well-argued, with an interesting exegesis of Fichte&#x27;s theory of rights.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "David M. Rasmussen"
+        }
+      ],
+      "extra_snippets": [
+        "The thesis put forward by Luc Ferry in this book is the following: \"If Heidegger's deconstruction of metaphysics and Strauss's critique of historicism are incontrovertible, and if, despite everything, we refuse to conclude that a 'return to the ancients' is in order... we must take up the challenge of showing how modernity may criticize itself and thus refrain from yielding to the wiles of metaphysics\". It is a substantial thesis--not entirely original, but well-argued, with an interesting exegesis of Fichte's theory of rights.",
+        "Fichte\u2019s Critique of Rousseau.James A."
+      ]
+    },
+    {
+      "title": "Pavel Reichl, The Role of First Principles in Fichte\u2019s Philosophy of History",
+      "url": "https://philpapers.org/rec/REITRO-38",
+      "philpapers_id": "REITRO",
+      "snippet": "In this article, I explore the role of the first principle in Fichte\u2019s philosophy of history and assess the extent to which its introduction is able to resolve problems in the philosophies of history of his predecessors. Particularly, I focus on Fichte\u2019s response to the question of how history can be grasped in a systematic manner for the purposes of theoretical cognition.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Pavel Reichl"
+        }
+      ],
+      "extra_snippets": [
+        "In this article, I explore the role of the first principle in Fichte\u2019s philosophy of history and assess the extent to which its introduction is able to resolve problems in the philosophies of history of his predecessors. Particularly, I focus on Fichte\u2019s response to the question of how history can be grasped in a systematic manner for the purposes of theoretical cognition.",
+        "The First Principle of the Wissenschaftslehre and the Logical Principle of Identity.Esma Kayar - 2021 - Fichte-Studien 49 (1):161-176. Added to PP 2021-11-05 Downloads 74 (#621,213) 6 months 23 (#272,122) Historical graph of downloads \u00b7 How can I increase my downloads?",
+        "I argue that while Fichte is able to resolve the tension between Herder\u2019s pluralism and Kant\u2019s chiliasm in an innovative manner, the deployment of his first principle is ultimately unsuccessful in establishing historiography on a firmer scientific foundation.",
+        "Fichte\u2019s First Principle of Right.Michael Nance - 2021 - Fichte-Studien 49 (1):248-266."
+      ]
+    },
+    {
+      "title": "Christoph Asmuth, Das Begreifen des Unbegreiflichen: Philosophie und Religion bei Johann Gottlieb Fichte 1800-1806",
+      "url": "https://philpapers.org/rec/ASMDBD",
+      "philpapers_id": "ASMDBD",
+      "snippet": "Ausgehend von der Unterscheidung von Wissenschaft und Popularitat beiJ. G. Fichte und seinen Zeitgenossen schlagt die Studie einen Bogen zu der fundamentalen Unterscheidung von Wissen und Leben. Dabei werden Fichtes Theorie ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Schiller und Fichte: die Unterscheidung des Menschen von sich selbst als Thema der philosophischen Aufgabe im Denken der Freiheit des Selbstbewusstseins.Gerald Meier - 1993 - Peter Lang Gmbh, Internationaler Verlag Der Wissenschaften. Added to PP 2015-02-02 Downloads 13 (#1,648,330) 6 months 3 (#1,707,631) Historical graph of downloads \u00b7",
+        "G. Fichte und seinen Zeitgenossen schlagt die Studie einen Bogen zu der fundamentalen Unterscheidung von Wissen und Leben. Dabei werden Fichtes Theorie der Liebe, seine Stellung zum Christentum, seine Sprachphilosophie sowie die Wissenschaftslehre selbst erortert.",
+        "Anschliessend kommt der Kontrast zur Position Schellings zur Sprache.'Der Verfasser hat die Grundphilosophie Fichtes zwischen 1800 und 1806 ausgezeichnet nachbeschrieben und dargestellt [.] und bereitet damit den schwierigen, aber lohnenden Gedanken Fichtes den Boden.",
+        "Das Begreifen des Unbegreiflichen: Philosophie und Religion bei Johann Gottlieb Fichte 1800\u20131806. Spekulation und Erfahrung. Texte und Untersuchungen zum Deutschen Idealismus Abteilung II: Untersuchungen Band 41."
+      ]
+    },
+    {
+      "title": "Herman Paul & Adriaan van Veldhuizen (eds.), Historicism: a travelling concept",
+      "url": "https://philpapers.org/rec/PAUHAT",
+      "philpapers_id": "PAUHAT",
+      "snippet": "Focusing on the &quot;travels&quot; that historicism made, this volume uses historicism as a prism for exploring connections between disciplines and intellectual traditions usually studied in isolation from each other.",
+      "page_age": null,
+      "extra_snippets": [
+        "Throughout the twentieth century, scholars, artists and politicians have accused each other of \"historicism.\" But what exactly did this mean? Judging by existing scholarship, the answers varied enormously. Like many other \"isms,\" historicism could mean nearly everything, to the point of becoming meaningless.",
+        "Yet the questions remain: What made generations of scholars throughout the humanities and social sciences worry about historicism? Why did even musicians and members of parliament warn against historicism? And what explains this remarkable career of the term across generations, fields, regions, and languages?",
+        "Focusing on the \"travels\" that historicism made, this volume uses historicism as a prism for exploring connections between disciplines and intellectual traditions usually studied in isolation from each other.",
+        "It shows how generations of sociologists, theologians, and historians tried to avoid pitfalls associated with historicism and explains why the term was heavily charged with emotions like anxiety, anger, and worry."
+      ]
+    },
+    {
+      "title": "Tuula-Maria Mokko, Pentti Renvallin historianka\u0308sitys: historismin luomaa paradigmaa murtamassa",
+      "url": "https://philpapers.org/rec/MOKPRH",
+      "philpapers_id": "MOKPRH",
+      "snippet": "A \u201cforerunner\u201d Of Meinecke?Fulvio Tessitore - 2008 - Archivio di Storia Della Cultura 21.",
+      "page_age": null,
+      "extra_snippets": [
+        "A \u201cforerunner\u201d Of Meinecke?Fulvio Tessitore - 2008 - Archivio di Storia Della Cultura 21."
+      ]
+    },
+    {
+      "title": "Fernando Esposito, Historicizing historicism: Reinhart Koselleck and the periodization of modernity",
+      "url": "https://philpapers.org/rec/ESPHHR",
+      "philpapers_id": "ESPHHR",
+      "snippet": "Starting from J. Fabian\u2019s critique of anthropology and its study of the \u2018primitive\u2019 Other, Fernando Esposito discusses R. Koselleck\u2019s work as a critique of historical practice, not least the practice of periodization. While often understood as \u2018merely\u2019 a contribution to the question of temporalities, Koselleck actually aimed to develop a new way of writing and understanding history.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Fernando Esposito"
+        }
+      ],
+      "extra_snippets": [
+        "Starting from J. Fabian\u2019s critique of anthropology and its study of the \u2018primitive\u2019 Other, Fernando Esposito discusses R. Koselleck\u2019s work as a critique of historical practice, not least the practice of periodization. While often understood as \u2018merely\u2019 a contribution to the question of temporalities, Koselleck actually aimed to develop a new way of writing and understanding history.",
+        "Seen in this light, his work on historical time is really about a fundamental theoretical reorientation of the discipline. This fundamental reinvention of history was the central problem Koselleck wrestled with.",
+        "Based on his personal experience of the Third Reich and the Second World War, he came to the conviction that history had no meaning and no goal, and therefore undertook a historicization of historicism, i.e. a re-evaluation of the way history had been written up to his own times.",
+        "It was catalyzed by his intention to debunk an unhistorical understanding of history and to replace it with a self-reflective, truly historicist historicism, a metahistory reflecting upon the \u2018conditions of possible histories\u2019."
+      ]
+    },
+    {
+      "title": "Wesley Morris, Toward a New Historicism",
+      "url": "https://philpapers.org/rec/MORTAN-9",
+      "philpapers_id": "MORTAN",
+      "snippet": "Preface.Wesley Morris - 1972 - In Toward a New Historicism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Wesley Morris"
+        }
+      ],
+      "extra_snippets": [
+        "Chapter XI. Toward a New Historicism.Wesley Morris - 1972 - In Toward a New Historicism. Wiley-Blackwell.",
+        "Preface.Wesley Morris - 1972 - In Toward a New Historicism.",
+        "Contents.Wesley Morris - 2015 - In Toward a New Historicism.",
+        "Frontmatter.Wesley Morris - 2015 - In Toward a New Historicism."
+      ]
+    },
+    {
+      "title": "Violetta L. Waibel, Daniel Breazeale & Tom Rockmore (eds.), Fichte and the Phenomenological Tradition",
+      "url": "https://philpapers.org/rec/WAIFAT",
+      "philpapers_id": "WAIFAT",
+      "snippet": "This volume is a collection of ... which it compares and contrasts to the phenomenology of his contemporary Georg Wilhelm Friedrich Hegel and to that of Edmund Husserl and his 20th century followers....",
+      "page_age": null,
+      "extra_snippets": [
+        "This volume is a collection of previously unpublished papers dealing with the neglected \"phenomenological\" dimension of the philosophy of Johann Gottlieb Fichte, which it compares and contrasts to the phenomenology of his contemporary Georg Wilhelm Friedrich Hegel and to that of Edmund Husserl and his 20th century followers.",
+        "Fichte and the Phenomenological Tradition.T. Rockmore , V. Waibel, D. Breazeale (ed.) - 2010 - Berlin, New York: De Gruyter. Added to PP 2014-01-11 Downloads 75 (#478,538) 6 months 48 (#160,197) Historical graph of downloads \u00b7 How can I increase my downloads?",
+        "Issues discussed include: phenomenological method, self-consciousness, intersubjectivity, temporality, intentionality, mind and body, and the drives. In addition to Fichte, authors discussed include: Hegel, Brentano, Husserl, Heidegger, Sartre, Levinas, and Ricur.",
+        "On Fichte and Phenomenology."
+      ]
+    },
+    {
+      "title": "T. Rockmore, V. Waibel, D. Breazeale (ed.), Fichte and the Phenomenological Tradition",
+      "url": "https://philpapers.org/rec/FAT",
+      "philpapers_id": "FAT",
+      "snippet": "Reduction or Revelation? Fichte and the Question of Phenomenology. (pages 41-56)Violetta L.",
+      "page_age": null,
+      "extra_snippets": [
+        "Life-World, Philosophy and the Other: Husserl and Fichte.Robert R. Williams - 2010 - In Violetta L. Waibel, Daniel Breazeale & Tom Rockmore, Fichte and the Phenomenological Tradition. Berlin, New York: de Gruyter. pp. 141-166. Added to PP 2010-10-29 Downloads 1 (#2,090,329) 6 months 1 (#2,007,079) Historical graph of downloads \u00b7",
+        "On Fichte and Phenomenology. (pages 11-24)Violetta L.",
+        "The Concept of Phenomenology in Fichte\u2019s Wissenschaftslehre of 1804/II. (pages 25-40)Violetta L.",
+        "Reduction or Revelation? Fichte and the Question of Phenomenology. (pages 41-56)Violetta L."
+      ]
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

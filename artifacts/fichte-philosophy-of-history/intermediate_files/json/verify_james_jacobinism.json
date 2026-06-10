@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1016/j.histeuroideas.2007.11.004"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1016/j.histeuroideas.2007.11.004",
+      "title": "Fichte's Jacobinism",
+      "authors": [
+        {
+          "family": "James",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2008,
+      "container_title": "History of European Ideas",
+      "volume": "34",
+      "issue": "1",
+      "page": "104-115",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1016/j.histeuroideas.2007.11.004"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

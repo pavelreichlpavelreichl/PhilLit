@@ -1,0 +1,883 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: johann-fichte
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Johann Gottlieb Fichte
+{
+  "status": "success",
+  "source": "sep",
+  "query": "johann-fichte",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/johann-fichte/",
+      "entry_name": "johann-fichte",
+      "title": "Johann Gottlieb Fichte",
+      "preamble": "Inspired by his reading of Kant, Johann Gottlieb Fichte\n(1762\u20131814) developed during the final decade of the eighteenth\ncentury a radically revised and rigorously systematic version of\ntranscendental idealism, which he called Wissenschaftslehre (\u201cDoctrine of Scientific Knowledge\u201d). Perhaps the most\ncharacteristic, as well as most controversial, feature of the Wissenschaftslehre (at least in its earlier and most\ninfluential version) is Fichte\u2019s effort to ground his entire\nsystem upon the bare concept of subjectivity, or, as Fichte expressed\nit, the \u201cpure I.\u201d During his career at the University of\nJena (1794\u20131799) Fichte erected upon this foundation an\nelaborate transcendental system that embraced the philosophy of\nscience, ethics, philosophy of law or \u201cright.\u201d and\nphilosophy of religion.",
+      "bibliography": [
+        {
+          "raw": "Johann Gottlieb Fichtes nachgelassene Werke , 3 volumes,\nI. H. Fichte (ed.), Bonn: Adolph-Marcus, 1834-35.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Johann Gottlieb Fichtes s\u00e4mmtliche Werke , 8 volumes,\nI. H. Fichte (ed.), Berlin: Veit, 1845\u201346. [Taken together, these\n11 volumes, edited by Fichte\u2019s son, constituted the first\nattempt at a complete edition of his works and are still widely cited\nand reprinted, most recently by de Gruyter, under the title Fichtes Werke .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "J. G. Fichte: Gesamtausgabe der Bayerischen Akademie der\nWissenschaften , 42 volumes, Erich Fuchs, Reinhard Lauth, Hans\nJacobs, and Hans Gliwitzky (eds.), Stuttgart-Bad Cannstatt: Frommann,\n1964-2012. [Organized into four separate series\u2014writings\npublished by Fichte, unpublished writings, correspondence, and student\nlecture transcripts\u2014this monumental critical edition supersedes\nall earlier editions.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Versuch einer Kritik aller Offenbarung , 1792; 2nd ed.,\n1793. Attempt at a Critique of All Revelation , trans. Garrett\nGreen, New York: Cambridge University Press, 1978 .",
+          "parsed": {
+            "authors": [
+              "Versuch einer Kritik aller Offenbarung"
+            ],
+            "year": "1792",
+            "title": "Versuch einer Kritik aller Offenbarung , 1792; 2nd ed.,\n1793. Attempt at a Critique of All Revelation , trans. Garrett\nGreen, New York: Cambridge University Press, 1978 ."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Attempt at a Critique of All Revelation , trans. Garrett\nGreen, New York: Cambridge University Press, 1978 .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Beitrag zur Berichtigung der Urteile des Publikums \u00fcber\ndie franz\u00f6sische Revolution , 1793. Contribution to the Correction of the Public's Judgment on the\nFrench Revolution , trans. Jeffrey Church and anna Marisa\nSch\u00f6n. Albany: State University of New York Press, 2021.",
+          "parsed": {
+            "authors": [
+              "Beitrag zur Berichtigung der Urteile des Publikums \u00fcber\ndie franz\u00f6sische Revolution"
+            ],
+            "year": "1793",
+            "title": "Beitrag zur Berichtigung der Urteile des Publikums \u00fcber\ndie franz\u00f6sische Revolution , 1793. Contribution to the Correction of the Public's Judgment on the\nFrench Revolution , trans. Jeffrey Church and anna Marisa\nSch\u00f6n. Albany: State University of New York Press, 2021."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Contribution to the Correction of the Public's Judgment on the\nFrench Revolution , trans. Jeffrey Church and anna Marisa\nSch\u00f6n. Albany: State University of New York Press, 2021.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Rezension:] Leonard Creuzer, Skeptische Betrachatungen\n\u00fcber die Freiheit des Willens mit Hinsicht auf die neuestenh\nTheoreien dieselben , 1793. \u201cCreuzer Review,\u201d trans. Daniel Breazeale, The Philosophical\nForum 32 (2001): 289\u201396.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cCreuzer Review,\u201d trans. Daniel Breazeale, The Philosophical\nForum 32 (2001): 289\u201396.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Rezension: Friedrich Heinrich Gebhard, Ueber die sittliche\nG\u00fcte aus uninteresssirtem Wohlwollen , 1793. \u201cGebhard Review,\u201d trans. Daniel Breazeale, The Philosophical\nForum 32 (2001): 297\u2013310),",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cGebhard Review,\u201d trans. Daniel Breazeale, The Philosophical\nForum 32 (2001): 297\u2013310),",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Rezension:] Aenesidemus , 1794. \u201c Aenesidemus Review.\u201d In Fichte: Early\nPhilosophical Writings (= EPW ), trans. and ed. Daniel\nBreazeale, Ithaca: Cornell University Press, 1988, 2nd ed., 1993.",
+          "parsed": {
+            "authors": [
+              "[Rezension:] Aenesidemus , 1794. \u201c Aenesidemus Review.\u201d In Fichte: Early\nPhilosophical Writings (= EPW ), trans.",
+              "ed. Daniel\nBreazeale, Ithaca: Cornell University Press"
+            ],
+            "year": "1988",
+            "title": "2nd ed.",
+            "publisher": "1993"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u201c Aenesidemus Review.\u201d In Fichte: Early\nPhilosophical Writings (= EPW ), trans. and ed. Daniel\nBreazeale, Ithaca: Cornell University Press, 1988, 2nd ed., 1993.",
+          "parsed": {
+            "authors": [
+              "\u201c Aenesidemus Review.\u201d In Fichte: Early\nPhilosophical Writings (= EPW ), trans.",
+              "ed. Daniel\nBreazeale, Ithaca: Cornell University Press"
+            ],
+            "year": "1988",
+            "title": "2nd ed.",
+            "publisher": "1993"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Zuricher Vorlesungen \u00fcber den Begriff der\nWissenschaftslehre , 1794 . \u201cThe Zurich Wissenschaftslehre,\u201d trans. Daniel Breazeale,\nin Fichte, Foundation of the Entire Wissenschaftslehre and Related\nWritings (1794\u201395). ed. and trans. Daniel Breazeale. Oxford:\nOxford University Press, 2021 (hencefore = FWL)",
+          "parsed": {
+            "authors": [
+              "Zuricher Vorlesungen \u00fcber den Begriff der\nWissenschaftslehre"
+            ],
+            "year": "1794",
+            "title": "Zuricher Vorlesungen \u00fcber den Begriff der\nWissenschaftslehre , 1794 . \u201cThe Zurich Wissenschaftslehre,\u201d trans. Daniel Breazeale,\nin Fichte, Foundation of the Entire Wissenschaftslehre and Related\nWritings (1794\u201395). ed. and trans. Daniel Breazeale. Oxford:\nOxford University Press, 2021 (hencefore = FWL)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u201cThe Zurich Wissenschaftslehre,\u201d trans. Daniel Breazeale,\nin Fichte, Foundation of the Entire Wissenschaftslehre and Related\nWritings (1794\u201395). ed. and trans. Daniel Breazeale. Oxford:\nOxford University Press, 2021 (hencefore = FWL)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ueber den Begriff der Wissenschaftslehre , 1794, 2nd ed.\n1798. Concerning the Concept of the Wissenschaftslehre , trans.\nBreazeale, in EPW . Rev. version in",
+          "parsed": {
+            "authors": [
+              "Ueber den Begriff der Wissenschaftslehre"
+            ],
+            "year": "1794",
+            "title": "Ueber den Begriff der Wissenschaftslehre , 1794, 2nd ed.\n1798. Concerning the Concept of the Wissenschaftslehre , trans.\nBreazeale, in EPW . Rev. version in"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Concerning the Concept of the Wissenschaftslehre , trans.\nBreazeale, in EPW . Rev. version in",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Einige Vorlesungen \u00fcber die Bestimmung des\nGelehrten , 1794. Some Lectures Concerning the Scholar\u2019s Vocation ,\ntrans. Breazeale, in EPW .",
+          "parsed": {
+            "authors": [
+              "Einige Vorlesungen \u00fcber die Bestimmung des\nGelehrten"
+            ],
+            "year": "1794",
+            "title": "Einige Vorlesungen \u00fcber die Bestimmung des\nGelehrten , 1794. Some Lectures Concerning the Scholar\u2019s Vocation ,\ntrans. Breazeale, in EPW ."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Some Lectures Concerning the Scholar\u2019s Vocation ,\ntrans. Breazeale, in EPW .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Grundlage der gesamten Wissenschaftslehre , 1794/95; 2nd\nedn. 1802; Foundation of the Entire Wissenschaftslehre , trans.\nBreazeale, in FWL. Science of Knowledge , trans. Peter Heath. In Fichte:\nScience of Knowledge (Wissenschaftslehre) , ed. Peter Heath and\nJohn Lachs, New York: Appleton-Century-Crofts, 1970; 2nd ed.,\nCambridge: Cambridge University Press, 1982 (= SK ).",
+          "parsed": {
+            "authors": [
+              "Grundlage der gesamten Wissenschaftslehre"
+            ],
+            "year": "1794",
+            "title": "Grundlage der gesamten Wissenschaftslehre , 1794/95; 2nd\nedn. 1802; Foundation of the Entire Wissenschaftslehre , trans.\nBreazeale, in FWL. Science of Knowledge , trans. Peter Heath. In Fichte:\nScience of Knowledge (Wissenschaftslehre) , ed. Peter Heath and\nJohn Lachs, New York: Appleton-Century-Crofts, 1970; 2nd ed.,\nCambridge: Cambridge University Press, 1982 (= SK )."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Foundation of the Entire Wissenschaftslehre , trans.\nBreazeale, in FWL.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Science of Knowledge , trans. Peter Heath. In Fichte:\nScience of Knowledge (Wissenschaftslehre) , ed. Peter Heath and\nJohn Lachs, New York: Appleton-Century-Crofts, 1970; 2nd ed.,\nCambridge: Cambridge University Press, 1982 (= SK ).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Grundri\u00df des Eigenth\u00fcmlichen der Wissenschaftslehre\nin R\u00fccksicht auf das theoretische Verm\u00f6gen , 1795. Outline of the Distinctive Character of the Wissenschaftslehre\nwith respect to the Theoretical Faculty , trans. Breazeale, in EPW; rev. version in FWL.",
+          "parsed": {
+            "authors": [
+              "Grundri\u00df des Eigenth\u00fcmlichen der Wissenschaftslehre\nin R\u00fccksicht auf das theoretische Verm\u00f6gen"
+            ],
+            "year": "1795",
+            "title": "Grundri\u00df des Eigenth\u00fcmlichen der Wissenschaftslehre\nin R\u00fccksicht auf das theoretische Verm\u00f6gen , 1795. Outline of the Distinctive Character of the Wissenschaftslehre\nwith respect to the Theoretical Faculty , trans. Breazeale, in EPW; rev. version in FWL."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Outline of the Distinctive Character of the Wissenschaftslehre\nwith respect to the Theoretical Faculty , trans. Breazeale, in EPW; rev. version in FWL.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Von der Sprachf\u00e4higkeit und dem Ursprung der\nSprache , 1795. \u201cOn the Linguistic Capacity and the Origin of\nLanguage,\u201d trans. Jerry Surber, in Language and German\nIdealism: Fichte\u2019s Linguistic Philosophy , New Jersey:\nHumanities Press, 1996, pp. 119\u201345.",
+          "parsed": {
+            "authors": [
+              "Von der Sprachf\u00e4higkeit und dem Ursprung der\nSprache"
+            ],
+            "year": "1795",
+            "title": "Von der Sprachf\u00e4higkeit und dem Ursprung der\nSprache , 1795. \u201cOn the Linguistic Capacity and the Origin of\nLanguage,\u201d trans. Jerry Surber, in Language and German\nIdealism: Fichte\u2019s Linguistic Philosophy , New Jersey:\nHumanities Press, 1996, pp. 119\u201345."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u201cOn the Linguistic Capacity and the Origin of\nLanguage,\u201d trans. Jerry Surber, in Language and German\nIdealism: Fichte\u2019s Linguistic Philosophy , New Jersey:\nHumanities Press, 1996, pp. 119\u201345.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wissenschaftslehre nova methodo , 1796\u20131799. Foundations of Transcendental Philosophy (Wissenschaftslehre)\nnova methodo , trans. and ed. Daniel Breazeale, Ithaca: Cornell\nUniversity Press, 1992.",
+          "parsed": {
+            "authors": [
+              "Wissenschaftslehre nova methodo"
+            ],
+            "year": "1796",
+            "title": "Wissenschaftslehre nova methodo , 1796\u20131799. Foundations of Transcendental Philosophy (Wissenschaftslehre)\nnova methodo , trans. and ed. Daniel Breazeale, Ithaca: Cornell\nUniversity Press, 1992."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Foundations of Transcendental Philosophy (Wissenschaftslehre)\nnova methodo , trans. and ed. Daniel Breazeale, Ithaca: Cornell\nUniversity Press, 1992.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[Rezension:] Kant, Zum ewigen Frieden: Ein philosophisher\nEntwurf , 1796. \u201cReview of Kant, Perpetual Peace,\u201d trans. Daniel\nBreazeale, The Philosophical Forum 32 (2001): 311\u201321.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cReview of Kant, Perpetual Peace,\u201d trans. Daniel\nBreazeale, The Philosophical Forum 32 (2001): 311\u201321.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Grundlage des Naturrechts nach Principien der\nWissenschaftslehre , 1796/97. Foundations of Natural Right , ed. Frederick Neuhouser,\ntrans. Michael Baur, Cambridge: Cambridge University Press, 2000.",
+          "parsed": {
+            "authors": [
+              "Grundlage des Naturrechts nach Principien der\nWissenschaftslehre"
+            ],
+            "year": "1796",
+            "title": "Grundlage des Naturrechts nach Principien der\nWissenschaftslehre , 1796/97. Foundations of Natural Right , ed. Frederick Neuhouser,\ntrans. Michael Baur, Cambridge: Cambridge University Press, 2000."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Foundations of Natural Right , ed. Frederick Neuhouser,\ntrans. Michael Baur, Cambridge: Cambridge University Press, 2000.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Versuch einer neuen Darstellung der Wissenschaftslehre: \u201cErste\u201d und \u201cZweite Einleitung,\u201d 1797;\n\u201cErste Capitel,\u201d 1798. Attempt at a New Presentation of the Wissenschaftslehre .\nIn Introductions to the Wissenschaftslehre and Other Writings\n(1797\u20131800) [henceforth = IWL ], ed. and trans.\nDaniel Breazeale, Indianapolis: Hackett, 1994. \u201cFirst and Second Introductions to The Science of\nKnowledge \u201d, trans. Peter Heath, in SK.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Attempt at a New Presentation of the Wissenschaftslehre .\nIn Introductions to the Wissenschaftslehre and Other Writings\n(1797\u20131800) [henceforth = IWL ], ed. and trans.\nDaniel Breazeale, Indianapolis: Hackett, 1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cFirst and Second Introductions to The Science of\nKnowledge \u201d, trans. Peter Heath, in SK.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Das System der Sittenlehre nach den Principien der\nWissenschaftslehre , 1798. The System of Ethics in accordance with the Principles of the\nWissenschaftslehre , ed. and trans. Daniel Breazeale and\nG\u00fcnter Z\u00f6ller, Cambridge: Cambridge University Press,\n2005.",
+          "parsed": {
+            "authors": [
+              "Das System der Sittenlehre nach den Principien der\nWissenschaftslehre"
+            ],
+            "year": "1798",
+            "title": "Das System der Sittenlehre nach den Principien der\nWissenschaftslehre , 1798. The System of Ethics in accordance with the Principles of the\nWissenschaftslehre , ed. and trans. Daniel Breazeale and\nG\u00fcnter Z\u00f6ller, Cambridge: Cambridge University Press,\n2005."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "The System of Ethics in accordance with the Principles of the\nWissenschaftslehre , ed. and trans. Daniel Breazeale and\nG\u00fcnter Z\u00f6ller, Cambridge: Cambridge University Press,\n2005.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ueber den Grund unsers Glaubens an eine g\u00f6ttliche\nWeltregierung , 1798. \u201cOn the Basis of our Belief in a Divine Governance of the\nWorld,\u201d trans. Breazeale, in IWL .",
+          "parsed": {
+            "authors": [
+              "Ueber den Grund unsers Glaubens an eine g\u00f6ttliche\nWeltregierung"
+            ],
+            "year": "1798",
+            "title": "Ueber den Grund unsers Glaubens an eine g\u00f6ttliche\nWeltregierung , 1798. \u201cOn the Basis of our Belief in a Divine Governance of the\nWorld,\u201d trans. Breazeale, in IWL ."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u201cOn the Basis of our Belief in a Divine Governance of the\nWorld,\u201d trans. Breazeale, in IWL .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "J. G. Fichte\u2019s D. Phil. Doctors und Ordentlichen\nProfessors zu Jena Appelation an das Publikum \u00fcber die durch ein\nKurf. S\u00e4chs. Confiscationsresccript ihm Beigemessenen\nAtheistischen Aeusserungen , 1799, J. G. Fichte: Appeal to the Public , trans. Curtis Bowman,\nin J. G. Fichte and the Atheism Dispute (1798\u20131800 , ed.\nYolanda Estes and Curtis Bowman, Burlington, VT: Ashgate, 2010, pp.\n85\u2013125.",
+          "parsed": {
+            "authors": [
+              "J. G. Fichte\u2019s D. Phil. Doctors und Ordentlichen\nProfessors zu Jena Appelation an das Publikum \u00fcber die durch ein\nKurf. S\u00e4chs. Confiscationsresccript ihm Beigemessenen\nAtheistischen Aeusserungen"
+            ],
+            "year": "1799",
+            "title": "J. G. Fichte\u2019s D. Phil. Doctors und Ordentlichen\nProfessors zu Jena Appelation an das Publikum \u00fcber die durch ein\nKurf. S\u00e4chs. Confiscationsresccript ihm Beigemessenen\nAtheistischen Aeusserungen , 1799, J. G. Fichte: Appeal to the Public , trans. Curtis Bowman,\nin J. G. Fichte and the Atheism Dispute (1798\u20131800 , ed.\nYolanda Estes and Curtis Bowman, Burlington, VT: Ashgate, 2010, pp.\n85\u2013125."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "J. G. Fichte: Appeal to the Public , trans. Curtis Bowman,\nin J. G. Fichte and the Atheism Dispute (1798\u20131800 , ed.\nYolanda Estes and Curtis Bowman, Burlington, VT: Ashgate, 2010, pp.\n85\u2013125.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Der Herausgeber des Philosophischen Journals gerichtliche\nVerantwortungschriften gegen die Anglage des Atheisums , 1799. J. G. Fichte: Juridical Defense , trans. Curtis Bowman, in J. F. Fichte and the Atheism Dispute , pp. 145\u2013204.",
+          "parsed": {
+            "authors": [
+              "Der Herausgeber des Philosophischen Journals gerichtliche\nVerantwortungschriften gegen die Anglage des Atheisums"
+            ],
+            "year": "1799",
+            "title": "Der Herausgeber des Philosophischen Journals gerichtliche\nVerantwortungschriften gegen die Anglage des Atheisums , 1799. J. G. Fichte: Juridical Defense , trans. Curtis Bowman, in J. F. Fichte and the Atheism Dispute , pp. 145\u2013204."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "J. G. Fichte: Juridical Defense , trans. Curtis Bowman, in J. F. Fichte and the Atheism Dispute , pp. 145\u2013204.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Aus einem Privatschreiben , 1800. \u201cFrom a Private Letter,\u201d trans. Breazeale, in IWL .",
+          "parsed": {
+            "authors": [
+              "Aus einem Privatschreiben"
+            ],
+            "year": "1800",
+            "title": "Aus einem Privatschreiben , 1800. \u201cFrom a Private Letter,\u201d trans. Breazeale, in IWL ."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u201cFrom a Private Letter,\u201d trans. Breazeale, in IWL .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Die Bestimmung des Menschen , 1800. The Vocation of Man , trans. Peter Preuss, Indianapolis:\nHackett, 1987.",
+          "parsed": {
+            "authors": [
+              "Die Bestimmung des Menschen"
+            ],
+            "year": "1800",
+            "title": "Die Bestimmung des Menschen , 1800. The Vocation of Man , trans. Peter Preuss, Indianapolis:\nHackett, 1987."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "The Vocation of Man , trans. Peter Preuss, Indianapolis:\nHackett, 1987.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Der geschlossene Handelstaat , 1800. The Closed Commercial State , trans. Anthony Curtis Adler,\nAlbany, SUNY Press, 2012.",
+          "parsed": {
+            "authors": [
+              "Der geschlossene Handelstaat"
+            ],
+            "year": "1800",
+            "title": "Der geschlossene Handelstaat , 1800. The Closed Commercial State , trans. Anthony Curtis Adler,\nAlbany, SUNY Press, 2012."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "The Closed Commercial State , trans. Anthony Curtis Adler,\nAlbany, SUNY Press, 2012.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sonnenklarer Bericht an das gr\u00f6\u00dfere Publikum\n\u00fcber das eigentliche Wesen der neuesten Philosophie. Ein Versuch,\ndie Leser zum Verstehen zu zwingen , 1801. A Crystal Clear Report to the General Public Concerning the\nActual Essence of the Newest Philosophy: An Attempt to Force the\nReader to Understand , trans. John Botterman and William Rash, in Philosophy of German Idealism , ed. Ernst Behler, New York:\nContinuum, 1987.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "A Crystal Clear Report to the General Public Concerning the\nActual Essence of the Newest Philosophy: An Attempt to Force the\nReader to Understand , trans. John Botterman and William Rash, in Philosophy of German Idealism , ed. Ernst Behler, New York:\nContinuum, 1987.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Neue Darstellung der Wissenschaftslehre (1800). New\nVersion of the Wissenschaftslehre , 1800, Partial translation by David Wood, in The Philosopical Rupture\nbetween Fichte and Schelling: Selected Texts and Correspondence\n(1800\u20131802) , trans. and ed. Michael G. Vater and David W.\nWood, Albany, Albany, Suny Press, 2012.",
+          "parsed": {
+            "authors": [
+              "Neue Darstellung der Wissenschaftslehre (1800). New\nVersion of the Wissenschaftslehre"
+            ],
+            "year": "1800",
+            "title": "Neue Darstellung der Wissenschaftslehre (1800). New\nVersion of the Wissenschaftslehre , 1800, Partial translation by David Wood, in The Philosopical Rupture\nbetween Fichte and Schelling: Selected Texts and Correspondence\n(1800\u20131802) , trans. and ed. Michael G. Vater and David W.\nWood, Albany, Albany, Suny Press, 2012."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Partial translation by David Wood, in The Philosopical Rupture\nbetween Fichte and Schelling: Selected Texts and Correspondence\n(1800\u20131802) , trans. and ed. Michael G. Vater and David W.\nWood, Albany, Albany, Suny Press, 2012.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wissenschaftlehre 1804 , second series, 1804. The Science of Knowing: Fichte\u2019s 1804 Lectures on the\nWissenschaftslehre , trans. Walter E. Wright, Albany: State\nUniversity of New York Press, 2005.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Science of Knowing: Fichte\u2019s 1804 Lectures on the\nWissenschaftslehre , trans. Walter E. Wright, Albany: State\nUniversity of New York Press, 2005.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Der Grundz\u00fcge des gegew\u00e4rtigen Zeitalters ,\n1806. The Characteristics of the Present Age , in The\nPopular Works of Johann Gottlieb Fichte [henceforth = PWF ], trans. William Smith, ed. and with an introduction by\nDaniel Breazeale, Bristol, England: Thoemes Press, 1999. [These\ntranslations were original published between 1848 and 1889.]",
+          "parsed": {
+            "authors": [
+              "Der Grundz\u00fcge des gegew\u00e4rtigen Zeitalters"
+            ],
+            "year": "1806",
+            "title": "Der Grundz\u00fcge des gegew\u00e4rtigen Zeitalters ,\n1806. The Characteristics of the Present Age , in The\nPopular Works of Johann Gottlieb Fichte [henceforth = PWF ], trans. William Smith, ed. and with an introduction by\nDaniel Breazeale, Bristol, England: Thoemes Press, 1999. [These\ntranslations were original published between 1848 and 1889.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "The Characteristics of the Present Age , in The\nPopular Works of Johann Gottlieb Fichte [henceforth = PWF ], trans. William Smith, ed. and with an introduction by\nDaniel Breazeale, Bristol, England: Thoemes Press, 1999. [These\ntranslations were original published between 1848 and 1889.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u00dcber des Wesen des Gelehrten, und seine Erscheinungen im\nGebiete der Freiheit (1806). On The Nature of the Scholar and Its Manifestations ,\ntrans. Smith, in PWF .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "On The Nature of the Scholar and Its Manifestations ,\ntrans. Smith, in PWF .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Die Anweisung zum sieligen Leben, oder auch die\nReligionslehre , 1806. The Way Towards the Blessed Life; or, the Doctrine of\nReligion , trans. Smith, in PWF .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "The Way Towards the Blessed Life; or, the Doctrine of\nReligion , trans. Smith, in PWF .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Reden an die deutsche Nation (1808). Addresses to the German Nation , trans. Gregory Moore,\nCambridge: Cambridge University Press, 2008. Adresses to the German Nation , trans. Isaac Nakhimovsky,\nBela Kapossy, and Keith Tribe, Indianapolis, IN: Hackett, 2013.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Addresses to the German Nation , trans. Gregory Moore,\nCambridge: Cambridge University Press, 2008.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Adresses to the German Nation , trans. Isaac Nakhimovsky,\nBela Kapossy, and Keith Tribe, Indianapolis, IN: Hackett, 2013.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Die Wissenschaftslehre, in ihrem allgemeinen Umrisse\ndargestellt , 1810. \u201cThe Science of Knowledge in its General Outline,\u201d\ntrans. Walter E. Wright, Idealistic Studies , 6 (1976):\n106\u2013117.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cThe Science of Knowledge in its General Outline,\u201d\ntrans. Walter E. Wright, Idealistic Studies , 6 (1976):\n106\u2013117.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sittenlehre 1812 , 1812. Lectures on the Theory of Ethics (1812) , trans. Benjamin\nD. Crowe, Albany: SUNY Press, 2015,",
+          "parsed": {
+            "authors": [
+              "Sittenlehre 1812"
+            ],
+            "year": "1812",
+            "title": "Sittenlehre 1812 , 1812. Lectures on the Theory of Ethics (1812) , trans. Benjamin\nD. Crowe, Albany: SUNY Press, 2015,"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Lectures on the Theory of Ethics (1812) , trans. Benjamin\nD. Crowe, Albany: SUNY Press, 2015,",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Briefwechsel , 1790\u20131802. See the selections from\nFichte\u2019s correspondence from 1792\u20131799, trans. Breazeale,\nin EPW and the selections from his 1800\u20131801 correspondence with\nSchelling, trans. Wood, in The Philosophical Rupture between\nFichte and Schelling .",
+          "parsed": {
+            "authors": [
+              "Briefwechsel"
+            ],
+            "year": "1790",
+            "title": "Briefwechsel , 1790\u20131802. See the selections from\nFichte\u2019s correspondence from 1792\u20131799, trans. Breazeale,\nin EPW and the selections from his 1800\u20131801 correspondence with\nSchelling, trans. Wood, in The Philosophical Rupture between\nFichte and Schelling ."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Adamson, Robert, 1881, Fichte , Edinburgh: Blackwood.\n[Though woefully out of date, this remains the only full-scale\ntreatment of Fichte in English.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bacin, Stefano and Owen Ware (eds.), 2021, Fichte's System of\nEthics: A Critical Guide , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Baumanns, Peter, 1974, Fichtes Wissenschaftslehre. Probleme\nihres Anfangs , Bonn: Bouvier. [Useful exposition of various ways\nof interpreting the starting point of the first Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1990, J. G. Fichte: Kritische\nGesammtdarstellung seiner Philosophie , Freiburg: Alber. [A\ncritical overview of Fichte\u2019s philosophical development and\nanalysis of his system, concentrating upon the Jena period.]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1990",
+            "title": "\u2013\u2013\u2013, 1990, J. G. Fichte: Kritische\nGesammtdarstellung seiner Philosophie , Freiburg: Alber. [A\ncritical overview of Fichte\u2019s philosophical development and\nanalysis of his system, concentrating upon the Jena period.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Baumgartner, Michael and Jacobs, Wilhelm G., 1968, J. G.\nFichte: Bibliographie , Stuttgart-Bad Cannstatt: Frommann. [A\ncomplete bibliography. Supplemented by Doy\u00e9\u2019s\nbibliography.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Breazeale, Daniel, 2013, Thinking Through the\nWissenschaftslehre: Themes from Fichte\u2019s Early Philosophy ,\nOxford, Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Breazeale, Daniel and Rockmore, Tom (eds.), 1993, Fichte:\nHistorical Context/Contemporary Controversies , Atlantic\nHighlands: Humanities. [A collection of essays on various aspects of\nFichte\u2019s philosophy. Includes a complete bibliography of works\nin English by and about Fichte.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1996, New Perspectives on Fichte ,\nAtlantic Highlands, N.J.: Humanities Press. [More essays on various\nthemes from Fichte\u2019s early philosophy.]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1996",
+            "title": "\u2013\u2013\u2013, 1996, New Perspectives on Fichte ,\nAtlantic Highlands, N.J.: Humanities Press. [More essays on various\nthemes from Fichte\u2019s early philosophy.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2001, New Essays on Fichte\u2019s\nFoundation of the Entire Doctrine of Scientific Knowledge ,\nAmherst, NY: Humanity Books.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2001",
+            "title": "\u2013\u2013\u2013, 2001, New Essays on Fichte\u2019s\nFoundation of the Entire Doctrine of Scientific Knowledge ,\nAmherst, NY: Humanity Books."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, New Essays on Fichte\u2019s\nLater Jena Wissenschaftslehre , Evanston, IL: Northwestern\nUniversity Press. [A collection of essays on the Wissenschaftslehre nova methodo , Foundation of Natural\nRight , System of Ethics , and Atheism Controversy.]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, New Essays on Fichte\u2019s\nLater Jena Wissenschaftslehre , Evanston, IL: Northwestern\nUniversity Press. [A collection of essays on the Wissenschaftslehre nova methodo , Foundation of Natural\nRight , System of Ethics , and Atheism Controversy.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, Bodies, Rights, and Recognition:\nNew Essays on Fichte\u2019s Foundations of Natural Right ,\nAltdershot: Ashgate.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, Bodies, Rights, and Recognition:\nNew Essays on Fichte\u2019s Foundations of Natural Right ,\nAltdershot: Ashgate."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008, After Jena: New Essays on\nFichte\u2019s Later Philosophy , Evanston, IL: Northwestern\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008, After Jena: New Essays on\nFichte\u2019s Later Philosophy , Evanston, IL: Northwestern\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, Fichte, German Idealism, and\nEarly Romanticism , Amsterdam: Rodopi.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, Fichte, German Idealism, and\nEarly Romanticism , Amsterdam: Rodopi."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, Fichte\u2019s Vocation of Man:\nNew Interpretative and Critical Essays , Albany, SUNY Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, Fichte\u2019s Vocation of Man:\nNew Interpretative and Critical Essays , Albany, SUNY Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2016, Fichte\u2019s Addresses to the\nGerman Nation, Reconsidered , Albany, SUNY Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2016",
+            "title": "\u2013\u2013\u2013, 2016, Fichte\u2019s Addresses to the\nGerman Nation, Reconsidered , Albany, SUNY Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Breazeale, Daniel, Rockmore, Tom, and Waibel, Violetta (eds.),\n2010, Fichte and the Phenomenological Tradition , Berlin: de\nGruyter.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bykova, Marina F. (ed.), 2020, The Bloomsbury Handbook of\nFichte , London: Bloomsbury Academic.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Class, Wolfgang and Soller, Alois K., 2004, Kommentar zu\nFichtes Grundlage der gesamtem Wissenschaftslehre , Amsterdam:\nRodopi. [A line-by-line commentary.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Doy\u00e9, Sabine (ed.), 1993, J. G. Fichte-Bibliographie\n(1969\u20131991) , Amsterdam and Atlanta: Editions Rodopi. [An\nessential supplement to the bibliography by Baumgartner and\nJacobs.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gueroult, Martial, 1930, L\u2019evolution et la structure de\nla doctrine de la science chez Fichte , 2 volumes, Paris:\nSoci\u00e9t\u00e9 de l\u2019\u00e9dition. [A pioneering\ndevelopmental study of the Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Everett, Charles Caroll, 1884, Fichte\u2019s Science of\nKnowledge: A Critical Exposition , Chicago: Griggs.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cFichte and Contemporary Philosophy,\u201d special issue of Philosophical Forum , 19 (2\u20133) (1988).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fuchs, Erich (ed.), 1978\u20131992, J. G. Fichte im\nGespr\u00e4ch: Berichte der Zeitgenossen , 6 volumes,\nStuttgart-Bad Cannstatt: Frommann. [An encyclopedic collection of\ncontemporary reports on Fichte and his writings. An invaluable\nresearch tool.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gottlieb, Gabriel (ed.), 2016, Fichte\u2019s Foundations of\nNatural Right: A Critical Guide , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Henrich, Dieter, 1967, Fichtes urspr\u00fcngliche\nEinsicht , Frankfurt am Main: Klostermann; trans. David\nLachterman, \u201cFichte\u2019s Original Insight,\u201d Contemporary German Philosophy , 1 (1982): 15\u201352. [An\ninfluential reading of Fichte\u2019s alleged movement beyond a\n\u201creflective theory of consciousness.\u201d]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hoeltel, Steven (ed.), 2012, The Palgrave Fichte\nHandbook , Cham: Palgrave-Macmillan, 2019.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jacobs, Wilhelm G., 2012, Johann Gottlieb Fichte: Eine\nBiographie , Berlin, Insel.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "James, David, 2010, Fichte\u2019s Social and Political\nPhilosophy: Property and Value , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "James, David and G\u00fcnter Z\u00f6ller (eds.), 2016, The\nCambridge Companion to Fichte , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Janke, Wolfgang, 1970, Fichte: Sein und\nReflexion\u2014Grundlagen der kritischen Vernunft , Berlin: de\nGruyter. [A hermeneutic-Heideggerian reading of Fichte, with an\nemphasis upon the later writings.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kosch, Michelle, 2018, Fichte's Ethics , Oxford: Oxford\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "K\u00fchn, Manfred, 2012, Johann Gottlieb Fichte: Ein\ndeutscher Philosoph , Munich, C.H. Beck.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lauth, Reinhard, 1987, Hegel vor der Wissenschaftslehre ,\nStuttgart: Steiner-Verlag. [A vigorous and convincing defense of\nFichte against Hegel\u2019s criticisms.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1984, Die transzendentale Naturlehre\nFichtes nach den Prinzipien der Wissenschaftslehre , Hamburg:\nMeiner. [A masterful exposition of Fichte\u2019s transcendental\napproach to the philosophy of nature.]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1984",
+            "title": "\u2013\u2013\u2013, 1984, Die transzendentale Naturlehre\nFichtes nach den Prinzipien der Wissenschaftslehre , Hamburg:\nMeiner. [A masterful exposition of Fichte\u2019s transcendental\napproach to the philosophy of nature.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1989, Transzendentale\nEntwicklungslinien von Descartes bis zu Marx und Dostojewski ,\nHamburg: Meiner. [A collection of essays, most of them on Fichte, by\nthe leading Fichte scholar of the age.]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1989",
+            "title": "\u2013\u2013\u2013, 1989, Transzendentale\nEntwicklungslinien von Descartes bis zu Marx und Dostojewski ,\nHamburg: Meiner. [A collection of essays, most of them on Fichte, by\nthe leading Fichte scholar of the age.]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "La Vopa, Anthony J., 2001, Fichte. The Self and the Calling of\nPhilosophy, 1762\u20131799 , Cambridge: Cambridge University\nPress. [Sophisticated partial biography which tries to connect\nFichte\u2019s philosophy to his life.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00e9on, Xavier, 1922\u201327, Fichte et son temps ,\n3 volumes, Paris: Armand Colin.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Martin, Wayne M., 1997, Idealism and Objectivity:\nUnderstanding Fichte\u2019s Jena Project , Stanford, CA: Stanford\nUniversity Press. [An bracing, critical interpretation of the project\nof the early Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nakhimovsky, Isaac, 2011, The Closed Commercial State:\nPerpetual Peace and Commercial Society from Rousseau to Fichte ,\nPrinceton: Princeton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Neuhouser, Frederick, 1990, Fichte\u2019s Theory of\nSubjectivity , Cambridge: Cambridge University Press. [A fine\nexample of a contemporary appropriation of Fichte\u2019s thought and\nof an analytically sensitive exposition of the same.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u201cNew Studies in the Philosophy of Fichte,\u201d special\nissue of Idealistic Studies , 6 (2) (1979). [A collection of\nessays on Fichte in English.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Oesterreich, Peter L and Helmut Traub, 2006. Der ganze Fichte:\nDie popul\u00e4re wissenschaftliche und metaphilosophische\nErschlie\u00dfung der Welt , Stuttgart: Kohlhammer.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pareyson, Luigi, 1976, Fichte. Il sistema della\nlibert\u00e0 , 2nd edition, Milan: Mursia. [Along with\nPhilonenko\u2019s similarly titled book, Pareyson\u2019s exposition\nof the early system as a \u201csystem of freedom\u201d is one of the\nmost influential works on Fichte of the post-war period.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Philonenko, Alexis, 1966, La libert\u00e9 humaine dans la\nphilosophie de Fichte , Paris: Vrin; 2nd edition, 1980. [A very\noriginal and influential study of Fichte\u2019s early philosophy,\ninterpreted as a \u201cphilosophy of human finitude.\u201d\nEssential.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Radrizzani, Ives, 1993, Vers la fondation de\nl\u2019intersubjectivit\u00e9 chez Fichte: des Prinzipes \u00e0\nla Nova Methodo , Paris: Vrin. [Argues for the continuity of\nFichte\u2019s development within the Jena period and for the\ncentrality therein of the Wissenschaftslehre nova\nmethodo .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Renaut, Alain, 1986, Le syst\u00e8me du droit: Philosophie\net droit dans la pens\u00e9e de Fichte , Paris: Presses\nUniversitaires de France. [A powerful reading of the Foundation of\nNatural Right , which argues that political philosophy is the\nkeystone of the Jena Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rockmore, Tom, 1980, Fichte, Marx, and the German\nPhilosophical Tradition , Carbondale: Southern Illinois University\nPress. [One of the first successful effort in English to liberate\nFichte\u2019s philosophy from the shadow of Hegel.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sch\u00e4fer, Rainer, 2006, Johann Gottlieb Fichtes \u201cGrundlage\nder gesamten Wissenschaftslehre\u201d von 1794 , Darmstadt:\nWissenschaftliche Buchgesellschaft.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Schwabe, Ulrich, 2007, Individuelles und Transindividuelles\nIch. Die Selbstindividutation reiner Subjectivit\u00e4t und Fichtes\nWissenschaftslehre , Paderborn, Ferdinand Sch\u00f6ningh.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Scribner, Scott, 2010, Matters of Spirit: J. G. Fichte and the\nTechnological Imagination , Albany: State University of New York\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Seidel, George J., 1993, Fichte\u2019s Wissenschaftslehre on\n1794: A Commentary on Part I , Lafayette: Purdue University Press.\n[An elementary introduction to the early system. Written with the\nbeginning student in mind.]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thomas-Fogiel, Isabelle, 2000, Critique de la\nrepr\u00e9sentation: Etude sur Fichte , Paris: Vrin.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ware, Owen, 2020, Fichte's Moral Philosophy , Oxford:\nOxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wood, Allen W., 2016, Fichte\u2019s Ethical Thought ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "Wood, Allen W."
+            ],
+            "year": "2016",
+            "title": "Fichte\u2019s Ethical Thought ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Wood, David. W., 2011, \u201cMathesis of the Mind\u201d: A\nStudy of Fichte\u2019s Wissenschaftslehre and Geometry ,\nAmstersdam: Rodopi.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wundt, Max, 1929, Fichte-Forschungen , Stuttgart:\nFrommann. [Another pioneering study of the development of\nFichte\u2019s thought, with an emphasis upon the different\n\u201cspirits\u201d of the various versions of the Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Z\u00f6ller, G\u00fcnter, 1998, Fichte\u2019s Transcendental\nPhilosophy: The Original Duplicity of Intelligence and Will ,\nCambridge: Cambridge University Press. [A well-informed and\nstimulating analysis of several central themes from the early Wissenschaftslehre .]",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ],
+      "sections": {
+        "1": {
+          "id": "1",
+          "title": "Life and Work",
+          "content": "Fichte was born May 19, 1762 in the village of Rammenau in the\nOberlausitz area of Saxony. He was the eldest son in a family of poor\nand pious ribbon weavers. His extraordinary intellectual talent soon\nbrought him to the attention of a local baron, who sponsored his\neducation, first in the home of a local pastor, then at the famous\nPforta boarding school, and finally at the universities of Jena and\nLeipzig. With the death of his patron, Fichte was forced to\ndiscontinue his studies and seek his livelihood as a private tutor, a\nprofession he quickly came to detest. Following a lengthy sojourn in Zurich, were he met his future wife,\nJohanna Rahn, Fichte returned to Leipzig with the intention of\npursuing a literary career. When his projects failed, he was again\nforced to survive as a tutor. It was in this capacity that he began\ngiving lessons on the Kantian philosophy in the summer of 1790. This\nfirst encounter with Kant\u2019s writings produced what Fichte\nhimself described as a \u201crevolution\u201d in his manner of\nthinking. Whereas he had formally been torn between, on the one hand,\na practical commitment to the moral improvement of humanity and, on\nthe other, a theoretical commitment to \u201cintelligible\nfatalism,\u201d he found in the Critical philosophy a way of\nreconciling his \u201chead\u201d and \u201cheart\u201d in a system\nthat could meet the highest intellectual standards without requiring\nhim to sacrifice his belief in human freedom. Fichte eventually made his way to K\u00f6nigsberg, where he lived for\na few months. After a disappointing interview with Kant, he resolved\nto demonstrate his mastery of the latter\u2019s philosophy by writing\na treatise on a theme as yet unaddressed by Kant: namely, the question\nof the compatibility of the Critical philosophy with any concept of\ndivine revelation. In a few weeks Fichte composed a remarkable\nmanuscript in which he concluded that the only revelation consistent\nwith the Critical philosophy is the moral law itself. Kant was\nsufficiently impressed by the talent of this unknown and impoverished\nyoung man to offer to arrange for the publication of Fichte\u2019s\nmanuscript, which was published by Kant\u2019s own publisher in 1792\nunder the title Attempt at a Critique of All Revelation . The\nfirst edition of this work, however, for reasons that have never been\nsatisfactorily explained, appeared without the author\u2019s name and\npreface and was quickly and widely hailed as a work by Kant himself.\nWhen the true identity of its author was revealed, Fichte was\nimmediately catapulted from total obscurity to philosophical\ncelebrity. Meanwhile, Fichte was once again employed as a private tutor, this\ntime on an estate near Danzig, where he wrote several, anonymously\npublished political tracts. The first of these was published in 1793\nwith the provocative title Reclamation of the Freedom of Thought\nfrom the Princes of Europe, who have hitherto Suppressed it . In\nthe summer of 1793 Fichte returned to Zurich where he married his\nfianc\u00e9 and oversaw the publication of the first two\ninstallments of his spirited Contribution to the Rectification of\nthe Public\u2019s Judgment of the French Revolution (1793 and\n1794). In this work he not only defended the principles (if not all\nthe practices) of the French revolutionaries, but also attempted to\noutline his own democratic view of legitimate state authority and\ninsisted on the right of revolution. Despite the fact that these\npolitical writings were published anonymously, the author\u2019s\nidentity was widely known, and Fichte thereby acquired a reputation,\nnot wholly deserved, as a radical \u201cJacobin.\u201d Following the completion of these projects, Fichte devoted his time in\nZurich to rethinking and revising his own philosophical position.\nWhile maintaining his allegiance to the new Critical or Kantian\nphilosophy, Fichte was powerfully impressed by the efforts of K. L.\nReinhold to provide the Critical philosophy with a new, more secure\n\u201cfoundation\u201d and to base the entire system upon a single\n\u201cfirst principle.\u201d At the same time, he became acquainted\nwith the works of two authors who were engaged in skeptical attacks\nupon the philosophies of both Kant and Reinhold: Solomon Maimon and G.\nE. Schulze (\u201cAenesidemus\u201d). It was the need to respond to\nthe sharp criticisms of these authors that eventually led Fichte to\nconstruct his own, unique version of transcendental idealism, for\nwhich, in the spring of 1794, he eventually coined the name Wissenschaftslehre (\u201cDoctrine of Science\u201d or\n\u201cTheory of Scientific Knowledge\u201d). During the winter of\n1793/94 he composed a long manuscript, \u201cPrivate Mediations on\nElementary Philosophy/Pracical Philosophy,\u201d in which worked out\nsome of the fundamental features of his new system. In Feburary and\nMarch of 1794 he gave a series of private lectures on his conception\nof philosophy before a small circle of influential clerics and\nintellectuals in Zurich. It was at this moment that he received an invitation to assume the\nrecently vacated chair of Critical Philosophy at the University of\nJena, which was rapidly emerging as the capital of the new German\nphilosophy. Fichte arrived in Jena in May of 1794, and enjoyed\ntremendous popular success there for the next six years, during which\ntime he laid the foundations and developed the first systematic\narticulations of his new system. Even as he was engaged in this\nimmense theoretical labor, he also tried to address a larger, popular\naudience and also threw himself into various practical efforts to\nreform university life. As one bemused colleague observed, \u201chis\nis a restless spirit; he thirsts for some opportunity to act in the\nworld. Fichte wants to employ his philosophy to guide the spirit of\nhis age.\u201d Indeed, a passionate desire to \u201chave an\neffect\u201d upon his own age remained a central feature of\nFichte\u2019s character, most notably expressed a decade later in his\ncelebrated Addresses to the German Nation , delivered in\nBerlin in 1806 during the French occupation. In Jena, this same desire\nis reflected in the enormously popular series of public lectures on\n\u201cMorality for Scholars,\u201d which he began to deliver\nimmediately upon his arrival in Jena. The first five of these lectures\nwere published in 1794 under the title Some Lectures concerning\nthe Scholar\u2019s Vocation . Though Fichte has already hinted at his new philosophical position in\nhis 1794 review of G. E. Schulze\u2019s Aenesidemus , the\nfirst full-scale public announcement of the same came in a short\nmanifesto that he published as a means of introducing himself to his\nnew students and colleagues at Jena and attracting listeners to his\nlectures. (As an \u201cextraordinary professor,\u201d Fichte was\nlargely dependent upon fees paid by students attending his\n\u201cprivate\u201d lectures.) This manifesto, Concerning the\nConcept of the Wissenschaftslehre (1794), articulated some of the\nbasic ideas of the new philosophy, but it mainly focused upon\nquestions of systematic form and the relationship between philosophy\nand its proper object (the necessary actions of the human mind). Fichte\u2019s first truly systematic work was his Foundation of\nthe Entire Wissenschaftslehre (1794/95). As the title implies,\nthis work, which remains to this day Fichte\u2019s best-known\nphilosophical treatise, was not meant to be a presentation of his\nentire system, but only of the rudiments or first principles of the\nsame. In fact, Fichte had not originally intended to publish this work\nat all, which was written less than a year after his first tentative\nefforts to articulate for himself his new conception of transcendental\nphilosophy. The Foundation was originally intended to be\ndistributed, in fascicles, to students attending his private lectures\nduring his first two semesters at Jena, where the printed sheets could\nbe subjected to analysis and questions and supplemented with oral\nexplanations. Because of the great interest in Fichte\u2019s new\nphilosophy, however, he soon authorized a public edition of the same,\nin two volumes. Parts I and II of the Foundation were\npublished in 1794 and Part II in 1795. In 1795 he also published a\nsubstantial supplement to the Foundation , under the title Outline of the Distinctive Character of the Wissenschaftslehre\nwith Respect to the Theoretical Faculty . The title pages of all\nthree of these publications, however, still stipulated that they were\nintended only as \u201ca manuscript for the use of his\nlisteners.\u201d (When, in 1802, Fichte issued a second, one-volume\nedition of the Foundation and Outline , in 1801, this\nsubtitle was dropped.) Dissatisfied with many features of his initial presentation of the\n\u201cfoundational\u201d portion of his system and shocked by the\nvirtually universal misunderstanding of his published Foundation , Fichte immediately set to work on an entirely new\nexposition of the same, which he repeated three times in his private\nlectures on \u201cThe Foundations of Transcendental Philosophy\n( Wissenschaftslehre) nova methodo \u201d (1796/76, 1797/98,\n1798/99). Though he intended to revise these lectures for serial\npublication under the title An Attempt a New Presentation of the\nWissenschaftslehre in the Philosophisches Journal einer\nGesellschaft Teutscher Gelehrten , of which he himself was by then\nco-editor, only the two Introductions to and the first chapter of this\n\u201cNew Presentation\u201d ever appeared (1797/98). Even as he was thoroughly revising his presentation of the\nfoundational portion of his system, Fichte was simultaneously engaged\nin elaborating the various subdivisions or systematic branches of the\nsame. As was his custom, he did this first in his private lectures and\nthen in published texts based upon the same. The first such extension\nwas into the realm of philosophy of law and social philosophy, which\nresulted in the publication Foundations of Natural Right in\naccordance with the Principles of the Wissenschaftslehre (published in two volumes in 1796 and 1797). The second extension was\ninto the realm of moral philosophy, which resulted in the publication\nof the System of Ethics in accordance with the Principles of the\nWissenschaftslehre (1798). Fichte then planned to extend his\nsystem into the realm of philosophy of religion. Indeed, he announced\nlectures on this topic for the Spring Semester of 1799, but before he\ncould commence these lectures, his career at Jena had come to an\nabrupt and unhappy conclusion in the wake of the so-called\n\u201cAtheism Controversy\u201d of 1798/99. In 1798 Fichte published in his Philosophical Journal a brief\nessay \u201cOn the Basis of Our Belief in a Divine Governance of the\nWorld,\u201d in which he attempted to sketch some of his preliminary\nideas on the topic indicated in the title and simultaneously to give\nthe first clear public hint of the character of a philosophy of\nreligion \u201cin accordance with the principles of the Wissenschaftslehre .\u201d The occasion for this essay was\nanother essay, published in the same issue of the Philosophical\nJournal , by K. L. Forberg. As it happened, these two essays\nprovoked an anonymous author to publish a pamphlet charging the\nauthors of both essays with atheism and demanding Fichte\u2019s\ndismissal from his post at Jena. The matter quickly escalated into a\nmajor public controversy which eventually led to the official\nsuppression of the offending issue of the journal and to public\nthreats by various German princes to prevent their students from\nenrolling at the University of Jena. The crisis produced by these\nactions and the growing number of publications for and against\nFichte\u2014which included an intemperate Appeal to the\nPublic by Fichte himself (1799), as well as a more thoughtful\nresponse entitled \u201cFrom a Private Letter\u201d\n(1799)\u2014eventually provoked F. H. Jacobi to publish his famous\n\u201copen letter\u201d to Fichte, in which he equated philosophy in\ngeneral and Fichte\u2019s transcendental philosophy in particular\nwith \u201cnihilism.\u201d As the public controversy unfolded,\nFichte badly miscalculated his own position and was finally forced to\nresign his position at Jena and to flee to Berlin, where he arrived in\nthe summer of 1799. At this point, the Prussian capital had no university of its own, and\nFichte was forced to support himself by giving private tutorials and\nlectures on the Wissenschaftslehre and by a new flurry of\nliterary production, increasingly aimed at a large, popular audience.\nThe first of these \u201cpopular\u201d writings was a brilliant\npresentation of some of the characteristic doctrines and conclusions\nof Fichte\u2019s system, with a strong emphasis upon the moral and\nreligious character of the same. This work, The Vocation of\nMan (1800), which is perhaps Fichte\u2019s greatest literary\nachievements, was intended as an indirect response to Jacobi\u2019s\npublic repudiation of the Wissenschaftslehre . That same year\nalso saw the publication of a typically bold foray into political\neconomy, The Closed Commercial State , in which Fichte\npropounds a curious blend of socialist political ideas and autarkic\neconomic principles. Defending his philosophy against misunderstanding\nremained, however, Fichte\u2019s chief concern during this period, as\nis evidenced by the more direct response to Jacobi contained in his\npoignantly titled Sun-Clear Report to the Public at Large\nconcerning the Actual Character of the latest Philosophy: An Attempt\nto Force the Reader to Understand (1801). At the same time that he was addressing the public in this manner,\nFichte was becoming ever more deeply engrossed in efforts to rethink\nand to rearticulate the very foundations of his system, beginning with\nhis private lectures on the Wissenschaftslehre of 1801/2, and\nculminating in the three, radically new versions of the same produced\nduring the year 1804. Indeed, he continued to produce new versions of\nthe Wissenschaftslehre right up until his death, delivering\nnew versions of his system in 1805, 1807, 1810, 1811, 1812, 1813, and\n1814 (though the last two versions were cut short, the first by the\nwar with France and the second by Fichte\u2019s death). However, with\nthe single exception of the extraordinarily condensed (and\nextraordinarily opaque) Presentation of the General Outlines of\nthe Wissenschaftslehre (1810), none of these later versions of\nthe Wissenschaftslehre was published during Fichte\u2019s\nlifetime. Some of them appeared, in severely edited form, in the\ncollection of Fichte\u2019s Works published by his son\nseveral decades following his death, but most of them are only now\nbeing published for the first time in the critical edition of\nFichte\u2019s writings produced by the Bavarian Academy of the\nSciences. It appears that Fichte was so discouraged by the public\nreception of the first, 1794/95 presentation of the foundation of his\nsystem that he concluded that it was prudent to limit future new\npresentations of the same to the lecture hall and seminar room, where\nhe could elicit reactions and objections from his listeners and\nrespond immediately with the requisite corrections and clarifications.\nBe that as it may, Fichte never stopped trying to refine his\nphilosophical insights and to revise his systematic presentation of\nthe same. Thus there are more than a dozen different full-scale\npresentations or versions of the Wissenschaftslehre , most of\nwhich were written after his departure from Jena. \u201cThe Wissenschaftslehre \u201d is not the name of a book; it is\nthe name of a system of philosophy , one capable of being\nexpounded in a variety of different ways. Despite the striking\ndifferences between the earlier and later versions of his lectures on\nthe foundations of his system, Fichte always insisted that the\n\u201cspirit\u201d of the same remained unaltered\u2014a claim that\ncontinues to be challenged and debated by Fichte scholars. In 1805 Fichte spend a semester as a professor at the University of\nErlangen, but returned to Berlin in the fall of that year. The next\nyear, 1806, he published in rapid succession three popular and\nwell-received books, all of which were based upon earlier series of\npublic lectures that he had delivered in Berlin: On the Essence of\nthe Scholar (a reworking of some of the same themes first\naddressed in the similarly titled lectures of 1794); The\nCharacteristics of the Present Age (an attempt to show the\nimplications of his \u201csystem of freedom\u201d for a speculative\nphilosophy of history); and Guide to the Blessed Life, or the\nDoctrine of Religion (an eloquent and somewhat mystically tinged\ntreatise on the relationship between transcendental philosophy and\ngenuine religion). Taken together, these three \u201cpopular\u201d\nworks are remarkable blends of speculative profundity and rhetorical\neloquence. When the French army of occupation entered Berlin in 1806, Fichte\njoined the Prussian government in exile in K\u00f6nigsberg, where he\ndelivered yet another course of lectures on the Wissenschaftslehre and wrote an important short book on Machiavelli as Author (1807), which defends a form of Realpolitik that at least appears to contrast quite starkly\nwith the liberalism and political idealism of Fichte\u2019s earlier\npolitical writings. Fichte soon returned to occupied Berlin, however,\nwhere, in the winter of 1807/8, he delivered his celebrated Addresses to the German Nation (published in 1808). Though\nthese lectures later obtained a place of dubious honor as founding\ndocuments in the history of German nationalism, they are mainly\nconcerned with the issue of national identity (and particularly with\nthe relationship between language and nationality) and the question of\nnational education (which is the main topic of the work)\u2014both of\nwhich are understood by Fichte as means toward a larger, cosmopolitan\nend. Fichte had always had a lively interest in pedagogical issues and\nassumed a leading role in planning the new Prussian university to be\nestablished in Berlin (though his own detailed plans for the same were\neventually rejected in favor of those put forward by Wilhelm von\nHumboldt). When the new university finally opened in 1810, Fichte was\nthe first head of the philosophical faculty as well as the first\nelected rector of the university. His final years saw no diminishment\nin the pace either of his public activity or of his philosophical\nefforts. He continued to produce new lectures on the foundations and\nfirst principles of his system, as well as new introductory lectures\non philosophy in general (\u201cLogic and Philosophy\u201d [1812]\nand \u201cThe Facts of Consciousness\u201d [1813]), political\nphilosophy (\u201cSystem of the Doctrine of Right\u201d [1812] and\n\u201cDoctrine of the State\u201d [1813]) and ethics (\u201cSystem\nof Ethical Theory\u201d [1812]). As presaged perhaps by his earlier\nbook on Machiavelli, these late forays into the domain of practical\nphilosophy betray a darker view of human nature and defend a more\nauthoritarian view of the state than anything to be found in\nFichte\u2019s earlier writings on these subject. In 1813 Fichte canceled his lectures so that his students could enlist\nin the \u201cWar of Liberation\u201d against Napoleon, of which\nFichte himself proved to be an indirect casualty. From his wife, who\nwas serving as a volunteer nurse in a Berlin military hospital, he\ncontracted a fatal infection of which he died on January 29, 1814.\nAlmost to the moment of his death he continued his lifelong efforts to\nrethink and to re-examine the basic foundations and systematic\nimplications of his philosophy, as is rather poignantly reflected in\nthe remarkable philosophical \u201cDiary\u201d in which he recorded\nhis thoughts during this final period."
+        },
+        "2": {
+          "id": "2",
+          "title": "Fichte\u2019s Philosophical Project",
+          "content": "The primary task of Fichte\u2019s system of philosophy (the Wissenschaftslehre ) is to reconcile freedom with necessity,\nor, more specifically, to explain how freely willing, morally\nresponsible agents can at the same time be considered part of a world\nof causally conditioned material objects in space and time.\nFichte\u2019s strategy for answering this question\u2014at least in\nhis early writings, which are the ones upon which his historical\nreputation as a philosopher has (at least until recently) been\ngrounded and hence are the ones to be expounded here\u2014was to\nbegin simply with the ungrounded assertion of the subjective\nspontaneity and freedom (infinity) of the I and then to proceed to a\ntranscendental derivation of objective necessity and limitation\n(finitude) as a condition necessary for the possibility of the former.\nThis is the meaning of his description, in his \u201cFirst\nIntroduction to the Wissenschaftslehre ,\u201d of\nphilosophy\u2019s task as that of \u201cdisplaying the foundation of\nexperience\u201d or \u201cexplaining the basis of the system of\nrepresentations accompanied by a feeling of necessity.\u201d Fichte\nderived this conception of the task and strategy of philosophy from\nhis study of Kant, and no matter how far his own system seemed to\ndiverge from \u201cthe letter\u201d of the Critical philosophy,\nFichte always maintained that it remained true to \u201cthe\nspirit\u201d of the same. Central to this \u201cspirit,\u201d for\nFichte, is an uncompromising insistence upon the practical certainty\nof human freedom and a thoroughgoing commitment to the task of\nproviding a transcendental account of ordinary experience that could\nexplain the objectivity and necessity of theoretical reason\n(cognition) in a manner consistent with the practical affirmation of\nhuman liberty. Though Fichte attributed the discovery of this task to\nKant, he believed that it was first accomplished successfully only in\nthe Wissenschaftslehre , which he therefore described as the\nfirst \u201csystem of human freedom.\u201d In an effort to clarify the task and method of transcendental\nphilosophy, Fichte insisted upon the sharp distinction between the\n\u201cstandpoint\u201d of natural consciousness (which it is the\ntask of philosophy to \u201cderive,\u201d and hence to\n\u201cexplain\u201d) and that of transcendental reflection, which is\nthe standpoint required of the philosopher. He thus insisted that\nthere is no conflict between transcendental idealism and the\ncommonsense realism of everyday life. On the contrary, the whole point\nof the former is to demonstrate the necessity and unavailability of\nthe latter. However \u201cKantian\u201d in spirit Fichte\u2019s enterprise\nmight have been, he was at the same time all too keenly aware of what\nhe considered to be certain glaring weaknesses and inadequacies in\nKant\u2019s own execution of this project. Taking to heart the\ncriticisms of such contemporaries as F. H. Jacobi, Salomon Maimon, and\nG. E. Schulze, Fichte propounded a radically revised version of the\nCritical philosophy. First of all, he argued that the very concept of\na \u201cthing in itself,\u201d understood as a mind-independent,\nexternal \u201ccause\u201d of sensations, is indefensible on\nCritical grounds. In addition, he maintained that Kant\u2019s denial\nof the possibility of \u201cintellectual intuition,\u201d though\ncertainly justified as a denial of the possibility of any non-sensory\nawareness of external objects, is nevertheless difficult to reconcile\nwith certain other Kantian doctrines regarding the I\u2019s immediate\npresence to itself both as a (theoretically) cognizing subject (the\ndoctrine of the transcendental apperception) and as a (practically)\nstriving moral agent (the doctrine of the categorical imperative). His study of the writings of K. L. Reinhold convinced Fichte that the\nsystematic unity of the Critical philosophy\u2014specifically, the\nunity of theoretical and practical reason, of the First and Second Critiques \u2014was insufficiently evident in Kant\u2019s\nown presentation of his philosophy and that the most promising way to\ndisplay the unity in question would be to provide both theoretical and\npractical philosophy with a common foundation. The first task for\nphilosophy, Fichte therefore concluded, is to discover a single,\nself-evident starting point or first principle from which one could\nthen somehow \u201cderive\u201d both theoretical and practical\nphilosophy, which is to say, our experience of ourselves as finite\ncognizers and as finite agents. Not only would such a strategy\nguarantee the systematic unity of philosophy itself, but, more\nimportantly, it would also display what Kant hinted at but never\ndemonstrated: viz., the underlying unity of reason itself. Since it is a central task of philosophy, so construed, to establish\nthe very possibility of any knowledge or science\n( Wissenschaft ) whatsoever, Fichte proposed to replace the\ndisputed term \u201cphilosophy\u201d (or \u201clove of\nwisdom\u201d) with the new term Wissenschaftslehre or\n\u2018Theory of Science\u2019\u2014a name intended to highlight the\ndistinctively \u201csecond order\u201d character of philosophical\nreflection. Though Fichte\u2019s proposal never caught on as a\ngeneral name for what was once called \u201cphilosophy,\u201d it did\nbecome the universally acknowledged name for his own distinctive\nversion of transcendental idealism. Here again, it is important to\nkeep in mind that \u201c Wissenschaftslehre \u201d is not the\nname of any particular Fichtean treatise, but is instead the general\nname for his entire system or project\u2014an allegedly\nall-encompassing system that consists of a number of interrelated\nparts or systematic subdisciplines and an overarching project that\ncould and would be expounded in a series of radically different\npresentations, employing a bewildering variety of systematic\nvocabularies."
+        },
+        "3": {
+          "id": "3",
+          "title": "The Starting Point of the JenaWissenschaftslehre",
+          "content": "In order to construct any genuine philosophy of freedom, maintained\nFichte, the reality of freedom itself must simply be presupposed and\nthus treated as an incontrovertible \u201cfact of reason\u201d in\nthe Kantian sense. This, of course, is not to deny the possibility of\nraising skeptical, theoretically grounded objections to such claims;\non the contrary, it was the very impossibility of any theoretically\nsatisfactory refutation of skepticism concerning the reality of\nfreedom that led Fichte to affirm the inescapable \u201cprimacy of\nthe practical\u201d with respect to the selection of one\u2019s\nphilosophical starting point. To the extent that any proposed first principle of philosophy is\nsupposed to be the first principle of all knowledge and hence of all\nargument, it clearly cannot be derived from any higher principle and\nhence cannot be established by any sort of reasoning. Furthermore,\nFichte maintained that there are two and only two possible starting\npoints for the philosophical project of \u201cexplaining\u201d\nexperience: namely, the concept of pure selfhood (which Fichte\nassociated with pure freedom) and that of pure thinghood (which Fichte\nassociated with utter necessity)\u2014neither of which can be\nwarranted, qua philosophical starting point, by a direct appeal to\nexperience, and each of which can be arrived at only by a\nself-conscious act of philosophical abstraction from ordinary\nexperience (within which freedom and necessity, subject and object,\nare invariably joined as well as distinguished). The two rival philosophical strategies made possible by these opposed\nstarting points are unforgettably limned by Fichte in his two 1797\n\u201cIntroductions to the Wissenschaftslehre ,\u201d in\nwhich he characterizes the sort of philosophy that begins with the\npure I as \u201cidealism\u201d and that which begins with the thing\nin itself as \u201cdogmatism.\u201d Since, according to\nFichte\u2019s earlier argument in Concerning the Concept of the\nWissenschaftslehre , a unified system of philosophy can have one\nand only one first principle, and since there are two and only two\npossible first principles, then it follows that no \u201cmixed\u201d\nsystem of idealism/dogmatism is possible. Moreover, since dogmatism,\nas understood by Fichte, unavoidably implies a strict form of\ndeterminism or \u201cintelligible fatalism,\u201d whereas idealism\nis, from the start, committed to the reality of human freedom, it is\nalso practically impossible to reach any sort of\n\u201ccompromise\u201d between two such radically opposed\nsystems. Though Fichte conceded that neither dogmatism nor idealism could\ndirectly refute its opposite and thus recognized that the choice\nbetween philosophical starting points could never be resolved on\npurely theoretical grounds, he nevertheless denied that any dogmatic\nsystem, that is to say, any system that commences with the concept of\nsheer objectivity, could ever succeed in accomplishing what was\nrequired of all philosophy. Dogmatism, he argued, could never provide\na transcendental deduction of ordinary consciousness, for, in order to\naccomplish this, it would have to make an illicit leap from the realm\nof \u201cthings\u201d to that of mental events or\n\u201crepresentations\u201d [ Vorstellungen ]. Idealism, in\ncontrast, at least when correctly understood as the kind of Critical\nidealism that demonstrates that the intellect itself must operate in\naccordance with certain necessary laws, can\u2014at least in\nprinciple\u2014accomplish the prescribed task of philosophy and\nexplain our experience of objects (\u201crepresentations accompanied\nby a feeling of necessity\u201d) in terms of the necessary operations\nof the intellect itself, and thus without having to make an illicit\nappeal to things in themselves. To be sure, one cannot decide in\nadvance whether or not any such deduction of experience from the mere\nconcept of free self-consciousness is actually possible.\nThis, Fichte conceded, is something that can be decided only after the\nconstruction of the system in question. Until then, it remains a mere hypothesis that the principle of human freedom, for all of\nits practical certainty, is also the proper starting point for a\ntranscendental account of objective experience. It must be granted that the truth of the Wissenschaftslehre\u2019s starting point cannot be\nestablished by any philosophical means, including its utility as a\nphilosophical first principle. On the contrary\u2014and this is one\nof Fichte\u2019s most characteristic and controversial\nclaims\u2014one already has to be convinced, on wholly\nextra-philosophical grounds, of the reality of one\u2019s own freedom before one can enter into the chain of deductions and\narguments that constitute the Wissenschaftslehre . This is the\nmeaning of Fichte\u2019s oft-cited assertion that \u201cthe kind of\nphilosophy one chooses depends upon the kind of person one is.\u201d\nThe only compelling reason why the transcendental idealist comes to a\nstop with\u2014and thus begins his system with\u2014the proposition\nthat \u201cthe I freely posits itself\u201d is therefore not because\nhe is unable to entertain theoretical doubts on this score nor because\nhe is simply unable to continue the process of reflective abstraction.\nInstead, he appeals to a principle eloquently expressed by Fichte in\nhis essay \u201cOn the Basis of Our Belief in a Moral Governance of\nthe World,\u201d namely: \u201cI cannot go beyond this standpoint\nbecause I am not permitted to do so.\u201d It is precisely because\nthe categorical imperative is in this way invoked to secure the first\nprinciple of his entire system that Fichte felt entitled to make the\nrather startling claim that the Wissenschaftslehre is the\nonly system of philosophy that \u201caccords with duty.\u201d"
+        }
+      }
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

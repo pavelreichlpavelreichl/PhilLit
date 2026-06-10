@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fichte reappraisal Kant cosmopolitan right...' author=James year=2010
+[verify_paper.py] Paper found: Fichte's reappraisal of Kant's theory of cosmopoli... (score: 33.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fichte reappraisal Kant cosmopolitan right",
+    "author": "James",
+    "year": 2010
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1016/j.histeuroideas.2009.07.003",
+      "title": "Fichte's reappraisal of Kant's theory of cosmopolitan right",
+      "authors": [
+        {
+          "family": "James",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2010,
+      "container_title": "History of European Ideas",
+      "volume": "36",
+      "issue": "1",
+      "page": "61-70",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1016/j.histeuroideas.2009.07.003",
+      "score": 33.37202
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

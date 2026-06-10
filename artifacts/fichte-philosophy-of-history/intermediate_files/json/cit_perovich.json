@@ -1,0 +1,37 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: On the Mysticism of Fichte’s The Way Towards the B...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 0 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "150b5fb0bcff0d6e706cd2d428c28314cac8e8cc",
+  "results": [
+    {
+      "paper": {
+        "paperId": "150b5fb0bcff0d6e706cd2d428c28314cac8e8cc",
+        "title": "On the Mysticism of Fichte\u2019s The Way Towards the Blessed Life",
+        "authors": [
+          {
+            "name": "Anthony N. Perovich",
+            "authorId": "115182436"
+          }
+        ],
+        "year": 2006,
+        "abstract": null,
+        "citationCount": 5,
+        "doi": "10.5840/IDSTUDIES20063619",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/150b5fb0bcff0d6e706cd2d428c28314cac8e8cc",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

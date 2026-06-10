@@ -1,0 +1,251 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte Atheismusstreit divine governance world', limit=25
+[search_openalex.py] Retrieved 7 papers...
+[search_openalex.py] Search complete: 7 papers found
+[search_openalex.py] Cached results (cache key: openalex_aee216dea0704fac)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte Atheismusstreit divine governance world",
+  "results": [
+    {
+      "openalex_id": "W2782739783",
+      "doi": "10.1007/978-1-137-33475-6_19",
+      "title": "Transcendental Idealism and Theistic Commitment in Fichte",
+      "authors": [
+        {
+          "name": "Steven Hoeltzel",
+          "openalex_id": "A5041770099"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "What does Fichte's philosophy, especially in writings relating to the \"atheism dispute [Atheismusstreit]\" (1798\u20131800), actually say about the intellectual basis and philosophical tenability of theistic belief? Fichte found himself at odds with his own audience on exactly this issue,1 and puzzlement on this point persists to this day. In 1798, he published the chapter \"On the Basis of Our Belief in a Divine Governance of the World.\" This text's derivation of pre-philosophical religious conviction from ineluctable acts of ideation, coupled with its identification of God with the moral world order, can give the impression (and prompted the objection) that Fichte philosophically accounts for belief in God in a way that proves to be completely corrosive of any genuinely theistic commitment. And his attempts to rebut that objection, especially in Book III of 1800's The Vocation of Man (hereafter, \"VM III\"), depict and defend properly philosophical belief in a supreme being in a way that has perplexed and divided scholars right down to the present, and so seriously as to raise doubts about how well we have understood the essential content of his Jena-era transcendental idealism \u2014 from which, according to Fichte himself, The Vocation of Man does not radically depart.2",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Kantian Philosophy and Modern Interpretations",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2782739783"
+    },
+    {
+      "openalex_id": "W4392231717",
+      "doi": "10.3390/rel15030302",
+      "title": "Johann Gottlieb Fichte and Protestant Theology",
+      "authors": [
+        {
+          "name": "Folkart Wittekind",
+          "openalex_id": "A5047668913",
+          "institutions": [
+            "University of Bonn"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-28",
+      "abstract": "Johann Gottlieb Fichte\u2019s thinking is part of the Sattelzeit, in which the foundation for the modern use of important concepts is laid. The stages of Fichte\u2019s philosophy and his various theories of religion and Christianity reflect attempts to determine the function of religion in a modern society. Important is the philosophical foundation of religion, which is transformed from a moral theology based on Kant to a unified theory of the philosophy of mind. Fichte thus offers an alternative to Hegel and Schelling. This alternative has only been taken up in Protestant theology at a small number of points, but all the more intensively.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/15/3/302/pdf?version=1709131301"
+      },
+      "topics": [
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4392231717"
+    },
+    {
+      "openalex_id": "W4411814731",
+      "doi": "10.1163/18795811_04401004",
+      "title": "Das G\u00f6ttliche. Der Atheismusstreit und die Wende im Denken Fichtes",
+      "authors": [
+        {
+          "name": "Jacinto Rivera de Rosales",
+          "openalex_id": "A5118717154"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-01",
+      "abstract": "The question of God or the Divine has essential influenced the development of Fichtian thinking and guided it from transcendental I as the first principle in the Jena period to absolute being or God and his absolute phenomenon or manifestation. The turning point came with the so-called atheism dispute due to his article \u00bbOn the Ground of our Belief in a divine World-Governance\u00ab (Fall 1798), which caused him so much trouble. In this article, Fichte defended the idea that the divine is not a substance or object, not a person, so no theistic God, but the moral order \u2013 a notion that could not be accepted by the Christian Church. The criticism that he is either atheist or pantheist or nihilist or a merely subjective thinker has greatly hit him and changed his horizon of thought in line with the new more religious spirit of his cultural environment.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Fichte-Studien",
+        "type": "journal",
+        "issn": [
+          "0925-0166",
+          "1879-5811"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Historical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4411814731"
+    },
+    {
+      "openalex_id": "W2499459646",
+      "doi": "10.1515/9783110324341-008",
+      "title": "What Does it Mean to Orient Oneself in Thinking?",
+      "authors": [
+        {
+          "name": "Koeddermann, Achim D.",
+          "openalex_id": ""
+        },
+        {
+          "name": "Cannon, Nancy",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-15",
+      "abstract": "\u201cOrientation\u201d is the perennial task of any university or college education. Without providing tools of orientation, the university fails. The American university follows the tutorial concept of Oxford as paradigm. Large undergraduate classes from Harvard to Oneonta seem to undercut the concept of such personalized forms of orientation. However, modern society needs the educational ideal as formulated by Immanuel Kant: \"Enlightenment\" as escape from media- or \"self inflicted tutelage\"(WA). The SUNY Board of Trustees, in adopting the resolution requiring assessment of student information management and critical thinking skills, seems to aspire to Kant\u2019s ideal. The place of reference for orientation logically remains the library, physically or virtually. With guiding help, critical readers are able to orient themselves and others by referring to relevant sources without blindly following opinions.",
+      "cited_by_count": 8,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/FERWDI-2.pdf"
+      },
+      "topics": [
+        "Religious Education and Schools",
+        "Education and Islamic Studies",
+        "Religion, Spirituality, and Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2499459646"
+    },
+    {
+      "openalex_id": "W2759285759",
+      "doi": "10.1515/9783110498615-002",
+      "title": "Kant\u2019s Practical Postulates and the Development of German Idealism",
+      "authors": [
+        {
+          "name": "Sebastian Gardner",
+          "openalex_id": "A5054084391",
+          "orcid": "https://orcid.org/0000-0003-3066-5903",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-23",
+      "abstract": "Kant\u2019s moral theology was a subject of intense debate in the early reception of Kant\u2019s philosophy. At the same time, Kant\u2019s notion of practical postulation held considerable interest for Fichte, Schelling, and Hegel. What I seek to show is the systematic connection of these two facts: examination of the ways in which Kant\u2019s postulates of pure practical reason exposed the Kantian system to criticism sheds light, I argue, on some of the fundamental moves made by the German Idealists in their transformation of Kant\u2019s philosophy.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/1560555/8/Gardner_%5B9783110498615%20-%20German%20Idealism%20Today%5D%20Kants%20Practical%20Postulates%20and%20the%20Development%20of%20German%20Idealism.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2759285759"
+    },
+    {
+      "openalex_id": "W3175715567",
+      "doi": "10.82308/8132",
+      "title": "F.H. Jacobi's \"On divine things and their revelation.\" A study and translation",
+      "authors": [
+        {
+          "name": "Paolo Livieri",
+          "openalex_id": "A5008881130",
+          "orcid": "https://orcid.org/0000-0003-2606-3950"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "This dissertation presents the first English translation, together with commentary, of F.H. Jacobi\u00b4s On Divine Things and their Revelation (1811; henceforth, Divine Things). This work marked for Jacobi the emancipation of rational thinking from the bounds set to it by the Enlightenment in matters of religion. Jacobi\u2019s goal was to develop a new definition of rationality. And this is a goal that he sought to achieve indirectly by drawing from different but consonant sources. The intention of this dissertation is twofold: to examine Jacobi\u2019s efforts at introducing a new form of rationality; to make explicit the limits of this rationality inasmuch as Jacobi succeeded in defining it.In general, my analysis shows that, while Jacobi relies heavily on Kant\u2019s doctrine of postulates to lay out his position, his considered concept of rationality seeks to distance itself from the Kantian transcendental mode of thinking \u2013 indeed, to distance itself from the entire tradition of modern philosophy. Nevertheless, since Jacobi still operates within the frameworks of thought typical of the Enlightenment, despite his opposition to it, his thought is ultimately continuous with it.More specifically, I demonstrate that reason for Jacobi is properly defined, not by the act of postulating, but the act of perceiving things which are truly external to the perceiving of them. This perceiving, whether reason- or sense-based, is intuitive. Jacobi recognizes, of course, that the perceiving itself, and even more so the system of conceptual representations based on it, is a subjective product. It is the undue interest in this subjective aspect of cognition that obscures the objective apprehension of reality that reason (as redefined by Jacobi) otherwise houses, and thus gives rise to at times useful, but always illusory, representations of reality. Jacobi\u2019s Divine Things is the manifesto of a new realism. This is a realism, however, that in order to be true to itself requires according to Jacobi the assent to divine things. Where for Kant rational theology can be only the product of subjective postulation, for Jacobi it is rather where realism is rather achieved. In this, while countering Kant, Jacobi still operates within the terms of a problematic as set by him",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship@McGill (McGill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.mcgill.ca/concern/theses/hd76s456j"
+      },
+      "topics": [
+        "Historical and Linguistic Studies",
+        "Reformation and Early Modern Christianity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3175715567"
+    },
+    {
+      "openalex_id": "W1601352510",
+      "doi": "10.12775/szhf.2010.013",
+      "title": "Johanna Gottlieba Fichtego uzasadnienie wiary w moralny porz\u0105dek \u015bwiata",
+      "authors": [
+        {
+          "name": "Tomasz Kup\u015b",
+          "openalex_id": "A5026443854",
+          "orcid": "https://orcid.org/0000-0001-6773-1180"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-12-30",
+      "abstract": "Answering the question about the grounds of our belief in the Providence Fichte clearly refers to the results of Kantian philosophy, according to which there are no (speculative) arguments of divine governance over the world. For the author of Theory of Knowledge the premise in such an argument should be the experience of sensual world. The error of the criticized arguments is deriving \u201cthe other\u201d world as the justification and ground of the existence of \u201cthis\u201d world, though this apparent knowledge was itself derived from a reverse argumentation, based on a peculiar experience of the world (of its order or beauty). Johann Gottlieb Fichte\u2019s essay \u00dcber den Grund unseres Glaubens an eine g\u00f6ttliche Weltregierung, which was designed as a polemic with Friedrich Karl Forberg, was the reason for the Fichte\u2019s atheism controversy.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Studia z Historii Filozofii",
+        "type": "journal",
+        "issn": [
+          "2083-1978",
+          "2391-775X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://apcz.umk.pl/szhf/article/download/szhf.2010.013/118"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Nietzsche, Schopenhauer, and Hegel",
+        "Philosophical and Historical Studies"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W1601352510"
+    }
+  ],
+  "count": 7,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.21464/sp40202
+[verify_paper.py] DOI verified: Correspondences Between Fichte’s Worldviews and Wo...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.21464/sp40202"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.21464/sp40202",
+      "title": "Correspondences Between Fichte\u2019s Worldviews and World Ages Based on the Fivefold Synthesis of WL-1804-II",
+      "authors": [
+        {
+          "family": "Rueda Garrido",
+          "given": "Daniel"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Synthesis philosophica",
+      "volume": "40",
+      "issue": "2",
+      "page": "205-223",
+      "publisher": "Croatian Philosophical Society (Hrvatsko filozofsko drustvo)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.21464/sp40202"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

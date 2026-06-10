@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3280/SF2014-004005
+[verify_paper.py] DOI verified: Being and the life of consciousness in Fichte's la...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3280/SF2014-004005"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3280/sf2014-004005",
+      "title": "Being and the life of consciousness in Fichte's late philosophy (1810/1811)",
+      "authors": [
+        {
+          "family": "Klotz",
+          "given": "Christian"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "RIVISTA DI STORIA DELLA FILOSOFIA",
+      "volume": "",
+      "issue": "4",
+      "page": "639-647",
+      "publisher": "Franco Angeli",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3280/sf2014-004005"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

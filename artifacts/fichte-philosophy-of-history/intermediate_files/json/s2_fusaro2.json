@@ -1,0 +1,18 @@
+[s2_search.py] Searching Semantic Scholar: 'Fusaro Fichte Grundzuge historische Erfahrung Geschichtsphilosophie', limit=20
+[s2_search.py] Rate limited, backing off (attempt 1/5)...
+[s2_search.py] Retrying after 1.5s backoff...
+[s2_search.py] Found 0 papers total
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "Fusaro Fichte Grundzuge historische Erfahrung Geschichtsphilosophie",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Fusaro Fichte science of knowledge historical experience Grundzuge', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_ebe2c4e4152611ea)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Fusaro Fichte science of knowledge historical experience Grundzuge",
+  "results": [
+    {
+      "paperId": "b55d7a709f6042b32ca717947124899aad4d5100",
+      "title": "Science of knowledge and historical experience",
+      "authors": [
+        {
+          "name": "D. Fusaro",
+          "authorId": "31076811"
+        }
+      ],
+      "year": 2016,
+      "abstract": "This paper sets out as its objective the exploration of some of the key passages and most relevant theoretical plexuses of the Grundzuge des gegenwartigen Zeitalters (1806) by Johann Gottlieb Fichte devoted to the theme of historical narrative and, more generally, of historiography. In particular, we will first of all aim to show the specific status of Historie. Secondly, we will try to outline the differences that Grundzuge establishes between the functions of Wissenschaftslehrer and those of Historiker, in an attempt to show, at the same time, the nexus linking the two and the activities they perform.",
+      "citationCount": 0,
+      "doi": "10.15633/SS.1767",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b55d7a709f6042b32ca717947124899aad4d5100",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "37-63",
+        "volume": "15"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

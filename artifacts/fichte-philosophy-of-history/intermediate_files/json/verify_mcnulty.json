@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Transcendental Philosophy Intersubjectivity Mutual...' author=McNulty year=2016
+[verify_paper.py] Paper found: Transcendental Philosophy and Intersubjectivity: M... (score: 69.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Transcendental Philosophy Intersubjectivity Mutual Recognition Fichte Foundations Natural Right",
+    "author": "McNulty",
+    "year": 2016
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/ejop.12131",
+      "title": "Transcendental Philosophy and Intersubjectivity: Mutual Recognition as a Condition for the Possibility of Self\u2010Consciousness in Sections 1\u20133 of Fichte's Foundations of Natural Right",
+      "authors": [
+        {
+          "family": "McNulty",
+          "given": "Jacob"
+        }
+      ],
+      "editors": [],
+      "year": 2016,
+      "container_title": "European Journal of Philosophy",
+      "volume": "24",
+      "issue": "4",
+      "page": "788-810",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1111/ejop.12131",
+      "score": 69.1517
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

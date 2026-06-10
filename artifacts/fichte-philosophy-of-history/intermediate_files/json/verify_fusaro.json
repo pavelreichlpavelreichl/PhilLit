@@ -1,0 +1,16 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1416/76692"
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "DOI 10.1416/76692 not found in CrossRef",
+      "recoverable": false
+    }
+  ]
+}

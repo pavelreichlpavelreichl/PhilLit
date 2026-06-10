@@ -1,0 +1,95 @@
+[s2_search.py] Searching Semantic Scholar: 'Fichte Weltplan teleology world plan epochs' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 3/3 papers...
+[s2_search.py] Search complete: 3 papers found
+[s2_search.py] Cached results (cache key: s2_f67c6357ddf7f83f)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Fichte Weltplan teleology world plan epochs",
+  "results": [
+    {
+      "paperId": "712d4b113e2f84aac8dcdec69b64446249d5e51a",
+      "title": "Facticity of the science on business organization",
+      "authors": [
+        {
+          "name": "Udk",
+          "authorId": "66176864"
+        },
+        {
+          "name": "V. Nikoli\u0107",
+          "authorId": "148308026"
+        },
+        {
+          "name": "Misha Kulic",
+          "authorId": "2170200145"
+        },
+        {
+          "name": "J. Cvijanovi\u0107",
+          "authorId": "92794885"
+        },
+        {
+          "name": "D. Stojanovi\u0107",
+          "authorId": "145647432"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/712d4b113e2f84aac8dcdec69b64446249d5e51a",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "67c8a73c7ad388af60b70e45103eea064b932ac1",
+      "title": "The Darwinian revolution as a knowledge reorganization",
+      "authors": [
+        {
+          "name": "S. Zacharias",
+          "authorId": "92085566"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.18452/17145",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/67c8a73c7ad388af60b70e45103eea064b932ac1",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "6e351eb20e02b5d40f6cb4e6ff8188236f2ab036",
+      "title": "Kant, Hegel, and Husserl on the Nature of Historical Knowledge",
+      "authors": [
+        {
+          "name": "Constantin Gh Ion",
+          "authorId": "115076737"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6e351eb20e02b5d40f6cb4e6ff8188236f2ab036",
+      "venue": "",
+      "journal": {
+        "name": "Linguistic and Philosophical Investigations",
+        "pages": "13",
+        "volume": "14"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

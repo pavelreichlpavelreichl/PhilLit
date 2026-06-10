@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/09608780801969183
+[verify_paper.py] DOI verified: Revisionism and religion in Fichte's Jena<i>Wissen...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/09608780801969183"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09608780801969183",
+      "title": "Revisionism and religion in Fichte's Jena<i>Wissenschaftslehre</i>",
+      "authors": [
+        {
+          "family": "Crowe",
+          "given": "Benjamin D."
+        }
+      ],
+      "editors": [],
+      "year": 2008,
+      "container_title": "British Journal for the History of Philosophy",
+      "volume": "16",
+      "issue": "2",
+      "page": "371-392",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/09608780801969183"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

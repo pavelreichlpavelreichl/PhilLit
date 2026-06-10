@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.24310/CONTRASTESCONTRASTES.V19I3.1102
+[verify_paper.py] DOI verified: Fichte: del Yo puro al saber absoluto (1798-1802)...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.24310/CONTRASTESCONTRASTES.V19I3.1102"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.24310/contrastescontrastes.v19i3.1102",
+      "title": "Fichte: del Yo puro al saber absoluto (1798-1802)",
+      "authors": [
+        {
+          "family": "Rivera de Rosales",
+          "given": "Jacinto"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Contrastes. Revista Internacional de Filosof\u00eda",
+      "volume": "19",
+      "issue": "3",
+      "page": "",
+      "publisher": "Malaga University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.24310/contrastescontrastes.v19i3.1102"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

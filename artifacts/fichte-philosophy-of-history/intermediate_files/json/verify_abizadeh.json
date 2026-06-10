@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Was Fichte An Ethnic Nationalist...' author=Abizadeh year=2005
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Was Fichte An Ethnic Nationalist",
+    "author": "Abizadeh",
+    "year": 2005
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (29.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

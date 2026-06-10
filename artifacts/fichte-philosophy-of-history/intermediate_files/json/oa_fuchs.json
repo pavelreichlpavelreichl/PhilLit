@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fuchs Fichte founder german nationalism Reden deutsche Nation",
+  "results": [
+    {
+      "openalex_id": "W37908369",
+      "doi": "10.3389/fimmu.2023.1268196",
+      "title": "The Presence of the Past: Culture, Opinion and Identity in Germany",
+      "authors": [
+        {
+          "name": "Konrad H. Jarausch",
+          "openalex_id": "A5005313112"
+        },
+        {
+          "name": "Hinrich C. Seeba",
+          "openalex_id": "A5005625541"
+        },
+        {
+          "name": "David P. Conradt",
+          "openalex_id": "A5067713442"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-10-01",
+      "abstract": "In many infectious diseases, the pathogen-induced inflammatory response could result in protective immunity that should be regulated to prevent tissue damage and death. In fact, in <i>Trypanosoma cruzi</i> infection, the innate immune and the inflammatory response should be perfectly controlled to avoid significant lesions and death. Here, we investigate the role of Blimp-1 expression in T cells in resistance to <i>T. cruzi</i> infection. Therefore, using mice with Blimp-1 deficiency in T cells (CKO) we determined its role in the controlling parasites growth and lesions during the acute phase of infection. Infection of mice with Blimp-1 ablation in T cells resulted failure the cytotoxic CD8<sup>+</sup> T cells and in marked Th1-mediated inflammation, high IFN-\u03b3 and TNF production, and activation of inflammatory monocyte. Interestingly, despite high nitric-oxide synthase activation (NOS-2), parasitemia and mortality in CKO mice were increased compared with infected WT mice. Furthermore, infected-CKO mice exhibited hepatic lesions characteristic of steatosis, with significant AST and ALT activity. Mechanistically, Blimp-1 signaling in T cells induces cytotoxic CD8<sup>+</sup> T cell activation and restricts parasite replication. In contrast, Blimp-1 represses the Th1 response, leading to a decreased monocyte activation, less NOS-2 activation, and, consequently preventing hepatic damage and dysfunction. These data demonstrate that <i>T. cruzi</i>-induced disease is multifactorial and that the increased IFN-\u03b3, NO production, and dysfunction of CD8<sup>+</sup> T cells contribute to host death. These findings have important implications for the design of potential vaccines against Chagas disease.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Immunology",
+        "type": "journal",
+        "issn": [
+          "1664-3224"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/2027.42/51316"
+      },
+      "topics": [
+        "Sociology and Education Studies",
+        "European history and politics"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W37908369"
+    },
+    {
+      "openalex_id": "W2466167772",
+      "doi": "10.1057/9781137011749_1",
+      "title": "The Riddles of Monism: An Introductory Essay",
+      "authors": [
+        {
+          "name": "Todd H. Weir",
+          "openalex_id": "A5077872001",
+          "orcid": "https://orcid.org/0000-0002-2840-2736"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Recent developments in the cognitive sciences point to a convergence, for some a clash, of the humanities and natural science. In 2004, a group of leading neurobiologists published a manifesto in the German journal Gehirn und Geist (Brain and Mind), claiming that advances in their discipline meant that it was poised to tackle the problems of consciousness and free will. In the growing field of evolutionary psychology, the leading research question \"what is the evolutionary good of God?\" indicates that religion has been subsumed under the explanatory framework of Darwinian natural selection.1 In the humanities, meanwhile, some scholars are looking to the physiology of affective response to support new theories of emotions, subjectivity, and cognition, while others have argued that historical inquiry needs to extend its reach beyond written and archaeological sources and examine the brain itself as an evolving social product, where the \"features of culture\" have been \"wired in human physiology.\"2 As they cross over the disciplinary boundaries of natural science and the humanities, these varied scholarly endeavors represent a common challenge to the Cartesian conception of mind and body as essentially separate domains. Against dualistic understandings of human reality, they seek to analyze nature and culture from a single vantage point. Philosophically, this stance is called monism.3KeywordsNatural SciencePopular ScienceRacial HygieneState ChurchMonistic ElementThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+      "cited_by_count": 24,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan US eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/9781137011749_1.pdf"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2466167772"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

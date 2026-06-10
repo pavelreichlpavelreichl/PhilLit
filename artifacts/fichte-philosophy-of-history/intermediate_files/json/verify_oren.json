@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.14746/tim.2025.39.2.13
+[verify_paper.py] DOI verified: Maimon and Fichte on the Impossibility of Philosop...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.14746/tim.2025.39.2.13"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.14746/tim.2025.39.2.13",
+      "title": "Maimon and Fichte on the Impossibility of Philosophical Atheism",
+      "authors": [
+        {
+          "family": "Oren",
+          "given": "Yady"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Teologia i Moralno\u015b\u0107",
+      "volume": "20",
+      "issue": "2(39)",
+      "page": "167-175",
+      "publisher": "Adam Mickiewicz University Poznan",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.14746/tim.2025.39.2.13"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

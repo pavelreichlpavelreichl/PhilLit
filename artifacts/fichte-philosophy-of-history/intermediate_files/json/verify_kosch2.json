@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Individuality and Rights Fichte Ethics...' author=Kosch year=2017
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Individuality and Rights Fichte Ethics",
+    "author": "Kosch",
+    "year": 2017
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (26.9) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "9ac53314859d52892d6f3b122e1db09d9d088e6b",
+      "title": "Correspondences Between Fichte\u2019s Worldviews and World Ages Based on the Fivefold Synthesis of WL-1804-II",
+      "authors": [
+        {
+          "name": "Daniel Rueda Garrido",
+          "authorId": "2394777210"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Na temelju peterostruke sinteze Fichteova Wissenschaftslehre-1804-II ispitujem implicitnu logi\u010dku nu\u017enost i svjetsko-planskih epoha i svjetonazora u dvama djelima post-jenskoga razdoblja, u kojima Fichte nastoji objasniti povijest \u010dovje\u010danstva iz a priori plana (Die Grundz\u00fcge des gegenw\u00e4rtigen Zeitalters) te povijest svijesti u njezinu usponu prema vi\u0161em svjetonazoru (Die Anweisung zum seligen Leben). Svrha je ovoga teksta trostruka: (1) provjeriti odnos izme- \u0111u peterostruke sinteze i svjetonazora; (2) provjeriti odnos izme\u0111u peterostruke sinteze i epoha svjetskoga plana; te (3) provjeriti odnos izme\u0111u to\u010daka 1 i 2. Naravno, postoje ranija istra\u017eivanja koja razmatraju oba djela zasebno, no nijedno ne uspostavlja preciznu korelaciju izme\u0111u svjetonazora i svjetsko-planskih epoha. Ovaj \u010dlanak nastoji popuniti tu prazninu.",
+      "citationCount": 0,
+      "doi": "10.21464/sp40202",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9ac53314859d52892d6f3b122e1db09d9d088e6b",
+      "venue": "Synthesis philosophica",
+      "journal": {
+        "name": "Synthesis philosophica"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.21464/sp40202"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/9789004319820_011
+[verify_paper.py] DOI verified: Entweder Gott oder Nichts – Nihilismus und transze...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/9789004319820_011"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/9789004319820_011",
+      "title": "Entweder Gott oder Nichts \u2013 Nihilismus und transzendentaler Idealismus",
+      "authors": [
+        {
+          "family": "Gaspar",
+          "given": "Francisco Prata"
+        }
+      ],
+      "editors": [],
+      "year": 2016,
+      "container_title": "Fichte und seine Zeit",
+      "volume": "",
+      "issue": "",
+      "page": "158-171",
+      "publisher": "BRILL",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/9789004319820_011"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

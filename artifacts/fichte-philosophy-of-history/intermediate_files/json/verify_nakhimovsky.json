@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Closed Commercial State Perpetual Peace Commercial...' author=Nakhimovsky year=2011
+[verify_paper.py] Paper found: The Closed Commercial State... (score: 113.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Closed Commercial State Perpetual Peace Commercial Society Rousseau Fichte",
+    "author": "Nakhimovsky",
+    "year": 2011
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.23943/princeton/9780691148946.001.0001",
+      "title": "The Closed Commercial State",
+      "authors": [
+        {
+          "family": "Nakhimovsky",
+          "given": "Isaac"
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Princeton University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.23943/princeton/9780691148946.001.0001",
+      "score": 113.79627
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,57 @@
+[s2_search.py] Searching Semantic Scholar: 'Fichte Jena Berlin continuity rupture' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_c12321c2c3d3bda0)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Fichte Jena Berlin continuity rupture",
+  "results": [
+    {
+      "paperId": "aeb42f56905231692c64bf510fa3b3c5cb9cde77",
+      "title": "Facticity and Genesis: Tracking Fichte\u2019s Method in the Berlin Wissenschaftslehre",
+      "authors": [
+        {
+          "name": "G. Bruno",
+          "authorId": "144618839"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The concept of facticity denotes conditions of experience whose necessity is not logical yet whose contingency is not empirical. Although often associated with Heidegger, Fichte coins \u2018facticity\u2019 in his Berlin period to refer to the conclusion of Kant\u2019s metaphysical deduction of the categories, which he argues leaves it a contingent matter that we have the conditions of experience that we do. Such rhapsodic or factical conditions, he argues, must follow necessarily, independent of empirical givenness, from the I through a process of \u2018genesis.\u2019 I reconstruct Fichte\u2019s argument by (1) tracing the origin of his neologism, (2) presenting his Jena critique of Kant\u2019s rhapsodic appeal to the forms of judgment, and (3) illustrating the Jena period\u2019s continuity with the Berlin period\u2019s genetic method, while noting a methodological shift whereby Fichte directs his critique against his own doctrine of intellectual intuition in order to eliminate its \u2018factical terms.\u2019",
+      "citationCount": 4,
+      "doi": "10.1163/9789004459793_010",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/aeb42f56905231692c64bf510fa3b3c5cb9cde77",
+      "venue": "The Enigma of Fichte\u2019s First Principles",
+      "journal": {
+        "name": "The Enigma of Fichte\u2019s First Principles"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "76fc04a9158200f13ccbe45ac091e8d24f0f2315",
+      "title": "Transcendental philosophy and atheism",
+      "authors": [
+        {
+          "name": "Wayne Martin",
+          "authorId": "144803923"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1111/J.1468-0378.2007.00271.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/76fc04a9158200f13ccbe45ac091e8d24f0f2315",
+      "venue": "",
+      "journal": {
+        "name": "European Journal of Philosophy",
+        "pages": "109-130",
+        "volume": "16"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

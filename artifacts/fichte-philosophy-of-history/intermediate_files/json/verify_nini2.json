@@ -1,0 +1,18 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.15160/2038-1034/2230
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "doi": "10.15160/2038-1034/2230"
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "DOI 10.15160/2038-1034/2230 not found in CrossRef",
+      "recoverable": false
+    }
+  ]
+}

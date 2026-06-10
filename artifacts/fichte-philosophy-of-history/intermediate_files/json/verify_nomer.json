@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fichte and the idea of liberal socialism...' author=Nomer
+[verify_paper.py] Paper found: Fichte and the Idea of Liberal Socialism*... (score: 58.1)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fichte and the idea of liberal socialism",
+    "author": "Nomer"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/j.1467-9760.2005.00213.x",
+      "title": "Fichte and the Idea of Liberal Socialism*",
+      "authors": [
+        {
+          "family": "Nomer",
+          "given": "Nedim"
+        }
+      ],
+      "editors": [],
+      "year": 2005,
+      "container_title": "Journal of Political Philosophy",
+      "volume": "13",
+      "issue": "1",
+      "page": "53-73",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1111/j.1467-9760.2005.00213.x",
+      "score": 58.081337
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

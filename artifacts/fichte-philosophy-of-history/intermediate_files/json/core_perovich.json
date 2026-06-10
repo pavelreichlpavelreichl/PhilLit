@@ -1,0 +1,48 @@
+[search_core.py] Searching CORE: 'Fichte mysticism blessed life Perovich', limit=20
+[search_core.py] Retrieved 2/3 papers...
+[search_core.py] Search complete: 2 papers found
+{
+  "status": "success",
+  "source": "core",
+  "query": "Fichte mysticism blessed life Perovich",
+  "results": [
+    {
+      "core_id": "133476164",
+      "doi": null,
+      "title": "Fichte's theory of free will",
+      "authors": [
+        {
+          "name": "Phillips, Rory Lawrence"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Fichte\u2019s account of free will is at the heart of his philosophy. However, there exists no full-length attempt to come to an understanding of what Fichte\u2019s account is, and what it implies. I will therefore present Fichte\u2019s views on freedom as they appear in his major work, the 1798 System of Ethics, supported by a variety of other important texts. I will give an exegesis of Fichte\u2019s arguments, trying primarily to display the arguments clearly, but also offering some reconstructive remarks and defences of Fichte\u2019s views against various challenges. I then move on to think about issues connected with free will, mainly the issues of how evil actions are possible, the connections between free will and time, and the causation at play in free will. I conclude that Fichte has a coherent account of strong libertarian freedom, that has significant relation to his views not only on self-consciousness but also on the realm of nature, as well as God",
+      "publisher": "UCL (University College London)",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/346619047.pdf",
+      "source_url": "https://discovery.ucl.ac.uk/10111562/1/Fichte%27s%20Theory%20of%20Free%20Will.pdf",
+      "language": "en",
+      "document_type": null
+    },
+    {
+      "core_id": "19708327",
+      "doi": null,
+      "title": "Energeia, nous and non-discursive thinking in Aristotle.",
+      "authors": [
+        {
+          "name": "Erkizan, Hatice Nur"
+        }
+      ],
+      "year": 1997,
+      "abstract": "SIGLEAvailable from British Library Document Supply Centre-DSC:DXN020316 / BLDSC - British Library Document Supply CentreGBUnited Kingdo",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/33133341.pdf",
+      "source_url": null,
+      "language": null,
+      "document_type": "thesis"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

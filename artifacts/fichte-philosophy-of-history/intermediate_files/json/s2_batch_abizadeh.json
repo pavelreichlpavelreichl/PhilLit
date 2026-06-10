@@ -1,0 +1,37 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "61a859eb4465c6771c8691687e00355376aa3016",
+      "title": "Nationalism and the mind",
+      "authors": [
+        {
+          "name": "Liah Greenfeld",
+          "authorId": "8102550"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 35,
+      "doi": "10.1111/J.1354-5078.2005.00207.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/61a859eb4465c6771c8691687e00355376aa3016",
+      "venue": "",
+      "journal": {
+        "name": "Nations and Nationalism",
+        "pages": "325-341",
+        "volume": "11"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1111/j.1354-5078.2005.00207.x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

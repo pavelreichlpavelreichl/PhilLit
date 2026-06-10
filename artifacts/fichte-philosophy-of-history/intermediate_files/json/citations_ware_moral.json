@@ -1,0 +1,37 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Fichte's Moral Philosophy...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 0 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "217403084e1547ac9dc4dcc6a78dcf534c0b655c",
+  "results": [
+    {
+      "paper": {
+        "paperId": "217403084e1547ac9dc4dcc6a78dcf534c0b655c",
+        "title": "Fichte's Moral Philosophy",
+        "authors": [
+          {
+            "name": "Owen Ware",
+            "authorId": "2089828880"
+          }
+        ],
+        "year": 2020,
+        "abstract": "This book develops and defends a new interpretation of Fichte\u2019s moral philosophy as an ethics of wholeness. While virtually forgotten for most of the twentieth century, Fichte\u2019s System of Ethics (1798) is now recognized by scholars as a masterpiece in the history of post-Kantian philosophy and a key text for understanding the work of later German idealist thinkers. This book provides a careful examination of the intellectual context in which Fichte\u2019s moral philosophy evolved and of the specific arguments he offers in response to Kant and his immediate successors. A distinctive feature of the study is a focus on the foundational concepts of Fichte\u2019s ethics\u2014freedom, morality, feeling, conscience, community\u2014and their connection to his novel but largely misunderstood theory of drives. By way of conclusion, the book shows that what appears to be two conflicting commitments in Fichte\u2019s ethics, a commitment to the feelings of one\u2019s conscience and a commitment to engage in open dialogue with others, are two aspects of his theory of moral perfection. The result is a fresh understanding of Fichte\u2019s System of Ethics as offering a compelling resolution to the personal and interpersonal dimensions of moral life.",
+        "citationCount": 8,
+        "doi": "10.1093/oso/9780190086596.001.0001",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/217403084e1547ac9dc4dcc6a78dcf534c0b655c",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

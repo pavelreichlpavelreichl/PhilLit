@@ -1,0 +1,37 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Das Göttliche. Der Atheismusstreit und die Wende i...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 0 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "11bbb2ab31b6acb3d0ec2697ca845e038261b607",
+  "results": [
+    {
+      "paper": {
+        "paperId": "11bbb2ab31b6acb3d0ec2697ca845e038261b607",
+        "title": "Das G\u00f6ttliche. Der Atheismusstreit und die Wende im Denken Fichtes",
+        "authors": [
+          {
+            "name": "J. Rosales",
+            "authorId": "116446974"
+          }
+        ],
+        "year": 2017,
+        "abstract": "The question of God or the Divine has essential influenced the development of Fichtian thinking and guided it from transcendental I as the first principle in the Jena period to absolute being or God and his absolute phenomenon or manifestation. The turning point came with the so-called atheism dispute due to his article \u00bbOn the Ground of our Belief in a divine World-Governance\u00ab (Fall 1798), which caused him so much trouble. In this article, Fichte defended the idea that the divine is not a substance or object, not a person, so no theistic God, but the moral order \u2013 a notion that could not be accepted by the Christian Church. The criticism that he is either atheist or pantheist or nihilist or a merely subjective thinker has greatly hit him and changed his horizon of thought in line with the new more religious spirit of his cultural environment.",
+        "citationCount": 1,
+        "doi": "10.5840/FICHTE2017445",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/11bbb2ab31b6acb3d0ec2697ca845e038261b607",
+        "venue": "Fichte-Studien"
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,38 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Rate limited, backing off (attempt 1/5)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "f5b2a85367356fd03390b3210571698e4290e408",
+      "title": "Was Fichte an ethnic nationalist? on cultural nationalism and its double",
+      "authors": [
+        {
+          "name": "A. Abizadeh",
+          "authorId": "114250117"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 53,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f5b2a85367356fd03390b3210571698e4290e408",
+      "venue": "",
+      "journal": {
+        "name": "History of Political Thought",
+        "pages": "334-3589",
+        "volume": "26"
+      },
+      "publicationTypes": null,
+      "_queryId": "f5b2a85367356fd03390b3210571698e4290e408"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

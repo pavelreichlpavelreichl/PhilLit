@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/9789004336674_017
+[verify_paper.py] DOI verified: »Wir alle werden im Egoismus erzeugt und geboren…«...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/9789004336674_017"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/9789004336674_017",
+      "title": "\u00bbWir alle werden im Egoismus erzeugt und geboren\u2026\u00ab: Fichtes Grundzu\u0308ge des gegenw\u00e4rtigen Zeitalters als Selbstreflexive Kritik der Moderne",
+      "authors": [
+        {
+          "family": "Kloc-Konko\u0142owicz",
+          "given": "Jakub"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Fichte und seine Zeit",
+      "volume": "",
+      "issue": "",
+      "page": "234-254",
+      "publisher": "BRILL",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/9789004336674_017"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

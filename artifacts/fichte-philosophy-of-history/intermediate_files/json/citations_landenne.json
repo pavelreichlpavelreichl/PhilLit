@@ -1,0 +1,36 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Speculation and Freedom in the Philosophy of Histo...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "0e25945febf872355b067586ce43ffa894788d65",
+  "results": [
+    {
+      "paper": {
+        "paperId": "0e25945febf872355b067586ce43ffa894788d65",
+        "title": "Speculation and Freedom in the Philosophy of History in the Characteristics of the Present Age by J. G. Fichte (1804-1805)",
+        "authors": [
+          {
+            "name": "Quentin Landenne",
+            "authorId": "2094677957"
+          }
+        ],
+        "year": 2009,
+        "abstract": null,
+        "citationCount": 0,
+        "doi": null,
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/0e25945febf872355b067586ce43ffa894788d65",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [],
+      "references_count": 0,
+      "citations_count": 0
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

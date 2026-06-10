@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.12775/SZHF.2010.013
+[verify_paper.py] DOI verified: Johanna Gottlieba Fichtego uzasadnienie wiary w mo...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.12775/SZHF.2010.013"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.12775/szhf.2010.013",
+      "title": "Johanna Gottlieba Fichtego uzasadnienie wiary w moralny porz\u0105dek \u015bwiata",
+      "authors": [
+        {
+          "family": "Kup\u015b",
+          "given": "Tomasz"
+        }
+      ],
+      "editors": [],
+      "year": 2010,
+      "container_title": "Studia z Historii Filozofii",
+      "volume": "",
+      "issue": "1",
+      "page": "203",
+      "publisher": "Uniwersytet Mikolaja Kopernika/Nicolaus Copernicus University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.12775/szhf.2010.013"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

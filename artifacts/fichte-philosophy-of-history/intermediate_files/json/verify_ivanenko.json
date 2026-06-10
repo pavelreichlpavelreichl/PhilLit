@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.21638/spbu28.2021.306
+[verify_paper.py] DOI verified: The “absolute I” and the “absolute” in the philoso...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.21638/spbu28.2021.306"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.21638/spbu28.2021.306",
+      "title": "The \u201cabsolute I\u201d and the \u201cabsolute\u201d in the philosophy of Johann Gottlieb Fichte",
+      "authors": [
+        {
+          "family": "St. Petersburg State University",
+          "given": ""
+        },
+        {
+          "family": "Ivanenko",
+          "given": "Anton A."
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Issues of Theology",
+      "volume": "3",
+      "issue": "3",
+      "page": "384-399",
+      "publisher": "Saint Petersburg State University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.21638/spbu28.2021.306"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

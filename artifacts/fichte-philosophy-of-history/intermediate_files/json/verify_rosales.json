@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/FICHTE2017445
+[verify_paper.py] DOI verified: Das Göttliche. Der Atheismusstreit und die Wende i...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/FICHTE2017445"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/fichte2017445",
+      "title": "Das G\u00f6ttliche. Der Atheismusstreit und die Wende im Denken Fichtes",
+      "authors": [
+        {
+          "family": "Rivera de Rosales",
+          "given": "Jacinto"
+        },
+        {
+          "family": "Brill Rodopi",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Fichte-Studien",
+      "volume": "44",
+      "issue": "",
+      "page": "31-48",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/fichte2017445"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

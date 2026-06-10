@@ -1,0 +1,145 @@
+[search_openalex.py] Searching OpenAlex: 'Fichte Grundzuge epochs history freedom' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 4 papers...
+[search_openalex.py] Search complete: 4 papers found
+[search_openalex.py] Cached results (cache key: openalex_6ef4d25291f31805)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Fichte Grundzuge epochs history freedom",
+  "results": [
+    {
+      "openalex_id": "W4417151322",
+      "doi": "10.1080/0048721x.2025.2588267",
+      "title": "Forging \u2018worldview\u2019 in modern culture wars: the global history of a religious-secular concept",
+      "authors": [
+        {
+          "name": "Todd H. Weir",
+          "openalex_id": "A5077872001",
+          "orcid": "https://orcid.org/0000-0002-2840-2736",
+          "institutions": [
+            "University of Groningen"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-12-09",
+      "abstract": "This article follows the global career of the concept of \u2018worldview\u2019 from 1790 to the present, from its origin in German Idealism to its translation and transposition to the UK, the Netherlands, and North and South America. By integrating conceptual history within a sociological model based on apologetics, the article explores the formative power of culture wars in the intellectual and religious life of the past two centuries. It argues that within this apologetic framework different social movements\u2013comprised of scientific secularists, orthodox Christians, liberal skeptics, followers of political ideologies, or indigenous activists\u2013coalesced around divergent definitions of worldview. Worldview helped structure their movements, while providing a means for understanding and counteracting opponents. The apologetics of worldview offers a new approach to the joint history of the secular and religious and provides essential findings for scholars now using worldview and related concepts, such as ontology, for social scientific analysis.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Religion",
+        "type": "journal",
+        "issn": [
+          "0048-721X",
+          "1096-1151"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1080/0048721x.2025.2588267"
+      },
+      "topics": [
+        "Globalization, Historical Perspectives, and International Relations",
+        "Religion and Society Interactions",
+        "Religious, Philosophical, and Educational Studies"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W4417151322"
+    },
+    {
+      "openalex_id": "W1699830502",
+      "doi": null,
+      "title": "Kurt Riezler's Grundzuge der Weltpolitik in der Gegenwart: A Case Study of German Political Philosophy",
+      "authors": [
+        {
+          "name": "Bryce Jeffrey Havens",
+          "openalex_id": "A5054591303"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-08-24",
+      "abstract": "ABSTRACT&#13;\\nKURT RIEZLER???S GRUNDZ??GE DER WELTPOLITIK IN DER GEGENWART:&#13;\\nA CASE STUDY OF GERMAN POLITICAL PHILOSOPHY&#13;\\nby&#13;\\n?? Bryce Jeffrey Havens&#13;\\nMaster of Arts in History&#13;\\nCalifornia State University, Chico&#13;\\nSpring 2011&#13;\\nThis thesis offers a thorough examination of Kurt Riezler???s 1914 work Grundz??ge der Weltpolitik in der Gegenwart (The Fundamental Features of Contemporary World Politics). Riezler was both a classically trained philosopher and the personal secretary to German Chancellor Theobald von Bethmann-Hollweg from 1909 to 1917. His work Grundz??ge der Weltpolitik, published shortly before the outbreak of the First World War, was his most significant contribution to the field of political philosophy. Given Riezler???s position as a philosopher and politician, his work offers a unique insight into the world of German intellectual and political history during the early years of the twentieth century. The book has yet to be translated into English and is in need of careful examination by both historians and political scientists.&#13;\\nA proper study of Grundz??ge der Weltpolitik in der Gegenwart requires both an assessment of Riezler???s philosophy and an inspection of the historical context in which it&#13;\\nwas written. As a political theorist, Riezler was heavily influenced by the great minds in the traditions of German philosophy and history such as Georg Wilhelm Friedrich Hegel, Johann Gottlieb Fichte, and Leopold von Ranke. He conceived of politics as an ongoing struggle between two forces, one national and one cosmopolitan. These forces contended with one another during the organic process of growth and expansion of the nation-state, which Riezler believed was the culmination of human history. Given the historical context in which it was written, Grundz??ge der Weltpolitik offers many unique insights into the prevailing ideas that occupied early twentieth century German politics and philosophy such as: cosmopolitanism, nationalism, the growth of the German Empire, the role of culture and economics in the development of nation-states, and the likelihood of war in a world of contending Great Powers. As a philosopher-politician, Riezler offers a traditional, philosophical treatise, but one that was uniquely shaped by his time serving as secretary and confidant to the Chancellor.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "CSUN ScholarWorks (California State University, Northridge)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10211.3/10211.4_306"
+      },
+      "topics": [
+        "Hannah Arendt's Political Philosophy",
+        "Critical Theory and Philosophy",
+        "German legal, social, and political studies"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W1699830502"
+    },
+    {
+      "openalex_id": "W4410788465",
+      "doi": "10.5922/0207-6918-2025-1",
+      "title": null,
+      "authors": [],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": ": ( 07, S. 578),",
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "Kantian journal",
+        "type": "journal",
+        "issn": [
+          "0207-6918",
+          "2310-3701"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.kantiana.ru/upload/uf/cf3/ht6uf1dvbs6nm1ktf9il6qbufd4g5pte/Kant_2025_1_\u0410.pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4410788465"
+    },
+    {
+      "openalex_id": "W2307936379",
+      "doi": "10.14288/1.0101866",
+      "title": "Romanticism and the \"dissociation of sensibility\"; a study of Charles Baudelaire and T.S. Eliot",
+      "authors": [
+        {
+          "name": "Angelika Maria Maeser",
+          "openalex_id": "A5084136450"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "This study attempts to determine what is the basic feature of Romanticism and in what relation to it Charles Baudelaire and T. S. Eliot stand. Since few terms are as misunderstood and as weighed down with numerous and contradictory meanings as Romanticism, this thesis begins by trying to \"reconstruct the Romantic situation\" and turns to its major aesthetician, Friedrich Schlegel, in order to discover in what the revolutionary new outlook consisted. The fundamental characteristic of Romanticism, that which distinguishes it from all other literary and cultural movements, is here maintained to be the awareness of fragmentation, of division, and of chaos. The great important realization of Romanticism was of the modern world's and man's fragmentation and disunity in contrast to the wholeness and order of the distant past. The task which it assigned itself was to strive for a reintegration of the severed forces \u2014 Spirit and Nature \u2014 in a new synthesis that would, in turn, create a new man and a new world. In seeking to achieve this harmony, Romanticism turned to symbol, myth, and religion. Two of the most important and influential poets of the modern age, Baudelaire and Eliot, were deeply entrenched in the Romantic Weltanschauung and tradition, although while the former was consciously and progressively so, the. latter was an unconscious and reactionary Romantic. Both poets continue that tradition by virtue of their essential awareness of the duality of man or, in Eliot's phrase, of the \"dissociation of sensibility\". The two fundamental principles of life and art, Spirit and Nature, are continually operative in their work and strive for harmony in their conflict. The conclusion to which this thesis comes, however, is that neither poet fully realized the Romantic goal: the harmony of Spirit and Nature. The two forces co-habit in their verse, but never surpass conflict in a higher third synthesis. The reason for this failure, it is maintained, is their misunderstanding of Nature. Both poets were hostile to and biased against Nature, preferring the exclusiveness of the Spirit. As a result, Baudelaire sought the way of transformation of Nature and Eliot the way of sublimation of Nature. With Eliot Romanticism came to a dead end, disavowing itself consciously yet tormented by its ever-pressing vision of the fragmentariness of man and art. Eliot, sought to heal the Romantic agony in a way which was not unorthodox for Romantics \u2014 conversion and conservatism. But the dilemma which the Romantic vision reveals so clearly \u2014 the dissociation of Spirit and Nature \u2014 has not thus been solved for modern man. This thesis maintains that Nature must be re-examined and re-understood for poetry to receive a new lease on life in our day. Only thereby will Romanticism once again find a new opening for creation.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/33885"
+      },
+      "topics": [
+        "French Literature and Poetry",
+        "Poetry Analysis and Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2307936379"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

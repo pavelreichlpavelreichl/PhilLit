@@ -1,0 +1,332 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Fichte philosophy of history', limit=20
+[search_philpapers.py] Retrieved 19 entries...
+[search_philpapers.py] Search complete: 19 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Fichte philosophy of history",
+  "results": [
+    {
+      "title": "Pavel Reichl, The Role of First Principles in Fichte\u2019s Philosophy of History",
+      "url": "https://philpapers.org/rec/REITRO-38",
+      "philpapers_id": "REITRO",
+      "snippet": "In this article, I explore the role of the first principle in Fichte\u2019s philosophy of history and assess the extent to which its introduction is able to resolve problems in the philosophies of history of his predecessors. Particularly, I focus on Fichte\u2019s response to the question of how history can be grasped in a systematic manner for the purposes of theoretical cognition.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Pavel Reichl"
+        }
+      ],
+      "extra_snippets": [
+        "In this article, I explore the role of the first principle in Fichte\u2019s philosophy of history and assess the extent to which its introduction is able to resolve problems in the philosophies of history of his predecessors. Particularly, I focus on Fichte\u2019s response to the question of how history can be grasped in a systematic manner for the purposes of theoretical cognition.",
+        "I argue that while Fichte is able to resolve the tension between Herder\u2019s pluralism and Kant\u2019s chiliasm in an innovative manner, the deployment of his first principle is ultimately unsuccessful in establishing historiography on a firmer scientific foundation. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fichte\u2019s First Principle of Right.Michael Nance - 2021 - Fichte-Studien 49 (1):248-266. Difference within Identity? Fichte\u2019s Reevaluation of the First Principle of Philosophy in \u00a75 of the Foundation of the Entire Wissenschaftslehre.Philipp Schwab - 2021 - Fichte-Studien 49 (1):94-118.",
+        "The First Principle of the Wissenschaftslehre and the Logical Principle of Identity.Esma Kayar - 2021 - Fichte-Studien 49 (1):161-176. Added to PP 2021-11-05 Downloads 74 (#621,213) 6 months 23 (#272,122) ... Kant's a priori history of metaphysics: Systematicity, progress, and the ends of reason.Pavel Reichl - 2020 - European Journal of Philosophy 29 (4):811-826.",
+        "From Being Reflexive to Absolute Reflection \u2013 Fichte\u2019s Original Insight Reconsidered.Stefan Schick - 2021 - Fichte-Studien 49 (1):139-160. Justifying the Self-Evident.Mike Stange - 2021 - Idealistic Studies 51 (3):211-254. Why Is the First Principle of the Grundlage der gesamten Wissenschaftslehre Foundational for Fichte\u2019s Entire Wissenschaftslehre?Alexander Schnell - 2021 - Fichte-Studien 49 (1):79-93."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Fichte's Conception of Philosophy as a \"Pragmatic History of the Human Mind\" and the Contributions of Kant, Platner, and Maimon",
+      "url": "https://philpapers.org/rec/DANFCO",
+      "philpapers_id": "DANFCO",
+      "snippet": "Fichte\u2019s Method of Philosophical Experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2025 - Archiv f\u00fcr Geschichte der Philosophie 107 (3):534-566. Fichte&#x27;s Metaphilosophy.Michael Lewin - 2025 - Fichte-Studien 54 (1):25-49. Making history philosophical: Kant, Maimon, and the evolution of the historiography of philosophy in the critical period.Pavel Reichl - 2020 - British Journal for the History of Philosophy 28 (3):463-482.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        }
+      ],
+      "extra_snippets": [
+        "Daniel Breazeale, Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy. Reviewed by. [REVIEW]Michael Nance - 2018 - Philosophy in Review 38 (1):8-10. Fichte's Addresses to the German Nation Reconsidered ed. by Daniel Breazeale and Tom Rockmore.F. Scott Scribner - 2017 - Journal of the History of Philosophy 55 (3):548-549.",
+        "Fichte\u2019s Method of Philosophical Experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2025 - Archiv f\u00fcr Geschichte der Philosophie 107 (3):534-566. Fichte's Metaphilosophy.Michael Lewin - 2025 - Fichte-Studien 54 (1):25-49. Making history philosophical: Kant, Maimon, and the evolution of the historiography of philosophy in the critical period.Pavel Reichl - 2020 - British Journal for the History of Philosophy 28 (3):463-482.",
+        "A Missing Link Between Kant and Fichte: Ernst Platner\u2019s Role in the Genesis of Fichte\u2019s Genetic Method.Luis Fellipe Garcia - 2025 - Journal of the History of Philosophy 63 (3):429-452.",
+        "Thinking Through the Wissenschaftslehre: Themes from Fichte\u2019s Early Philosophy by Daniel Breazeale. [REVIEW]Matthew C. Altman - 2015 - Journal of the History of Philosophy 53 (1):164-165."
+      ]
+    },
+    {
+      "title": "Roberta Picardi, The \u201cGuiding Thread\u201d of Universal History: Kant\u2019s Legacy in Fichte\u2019s Philosophy of History",
+      "url": "https://philpapers.org/rec/PICTGT",
+      "philpapers_id": "PICTGT",
+      "snippet": "La Idea de Europa En Fichte.Salvi Turr\u00f3 - 2013 - Anales Del Seminario de Historia de la Filosof\u00eda 30 (1):107-135. Fortschritt und Vernunft: Zur Geschichtsphilosophie Kants.Pauline Kleingeld - 1995 - K\u00f6nigshausen und Neumann. Fichte&#x27;s Conception of Philosophy as a &quot;Pragmatic History of the Human Mind&quot; and the Contributions of Kant, Platner, and Maimon.Daniel Breazeale - 2001 - Journal of the History of Ideas 62 (4):685-703.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Roberta Picardi"
+        }
+      ],
+      "extra_snippets": [
+        "In Margit Ruffing, Claudio La Rocca, Alfredo Ferrarin & Stefano Bacin (eds.), Kant Und Die Philosophie in Weltb\u00fcrgerlicher Absicht: Akten des Xi. Kant-Kongresses 2010. De Gruyter. pp. 817-830 (2013) Copy TEX \u00b7 This article has no associated abstract. (fix it) ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Kant and Fichte on \u201cUniversal History\u201d.Manfred K\u00fchn - 2014 - In Fred Rush & J\u00fcrgen Stolzenberg (eds.), Geschichte/History.",
+        "The Metaphysics of History - A New Turn in Kant's Criticism.? Bel\u00e1s - 2000 - Filozofia 55:229-241. Kant, Fichte, and the Legacy of Transcendental Idealism.Halla Kim & Steven Hoeltzel (eds.) - 2014 - Lexington Books. The Fate of Reason: German Philosophy From Kant to Fichte.Frederick C.",
+        "Fichte's Transcendental Theology.Benjamin D. Crowe - 2010 - Archiv f\u00fcr Geschichte der Philosophie 92 (1):68-88. On History.Immanuel Kant - 1963 - Indianapolis: Bobbs-Merrill.",
+        "La Idea de Europa En Fichte.Salvi Turr\u00f3 - 2013 - Anales Del Seminario de Historia de la Filosof\u00eda 30 (1):107-135. Fortschritt und Vernunft: Zur Geschichtsphilosophie Kants.Pauline Kleingeld - 1995 - K\u00f6nigshausen und Neumann. Fichte's Conception of Philosophy as a \"Pragmatic History of the Human Mind\" and the Contributions of Kant, Platner, and Maimon.Daniel Breazeale - 2001 - Journal of the History of Ideas 62 (4):685-703."
+      ]
+    },
+    {
+      "title": "Dietmar Hu\u0308bner, Die Geschichtsphilosophie des deutschen Idealismus: Kant - Fichte - Schelling - Hegel",
+      "url": "https://philpapers.org/rec/HBNDGD",
+      "philpapers_id": "HBNDGD",
+      "snippet": "He explains Kant&#x27;s regulative idea on advancement, Fichte&#x27;s model of the development of reason in five main eras, Schelling&#x27;s three steps in the absolute, speculative and revelation and Hegel&#x27;s historical conception of a comprehensive Weltgeist. The most important opposing positions to an idealistic philosophy of history are described in the final chapter - reaching from new Kantianism, hermeneutics and science theory to the recent narratological approaches.",
+      "page_age": null,
+      "extra_snippets": [
+        "Beginning with the Enlightenment the historical is viewed as a philosophic topic. Through German Idealism it is emphatically placed at the centre of attention. The idealistic perspective on history was important for further development. The author presents the integral components of Kant's, Fichte's, Schelling's and Hegel's philosophy of history.",
+        "He explains Kant's regulative idea on advancement, Fichte's model of the development of reason in five main eras, Schelling's three steps in the absolute, speculative and revelation and Hegel's historical conception of a comprehensive Weltgeist. The most important opposing positions to an idealistic philosophy of history are described in the final chapter - reaching from new Kantianism, hermeneutics and science theory to the recent narratological approaches.",
+        "Das Buch stellt die Hauptaspekte der Geschichtsphilosophie bei Kant, Fichte, Schelling und Hegel dar. Dabei wird besonderes Augenmerk darauf gelegt, wie diese Geschichtsentwurfe in die jeweilige philosophische Gesamtarchitektur der vier Autoren eingebettet sind. Zudem werden die wichtigsten Gegenpositionen zur idealistischen Geschichtssicht skizziert - von der Historikerschule und dem Neukantianismus uber die Hermeneutik und die Wissenschaftstheorie bis hin zu den narratologischen Ansatzen der jungeren Zeit.",
+        "History Philosophy. Idealism, German ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Dietmar H\u00fcbner: Die Geschichtsphilosophie des deutschen Idealismus. Kant \u2013 Fichte \u2013 Schelling \u2013 Hegel.Thorsten Paprotny - 2011 - Philosophischer Literaturanzeiger 64 (3):240-244."
+      ]
+    },
+    {
+      "title": "David James, Fichte's Social and Political Philosophy: Property and Virtue",
+      "url": "https://philpapers.org/rec/JAMFSA-4",
+      "philpapers_id": "JAMFSA",
+      "snippet": "These themes provide the basis for a discussion of such issues as what it means to guarantee the freedom of all the citizens of a state, the problem of unequal relations of economic dependence between states, and the differences and connections between the legal and political sphere of right and morality. James also relates Fichte&#x27;s central social and political ideas to those of other important figures in the history of philosophy, including Locke, Kant and Hegel, as well as to the radical phase of the French Revolution.",
+      "page_age": null,
+      "extra_snippets": [
+        "These themes provide the basis for a discussion of such issues as what it means to guarantee the freedom of all the citizens of a state, the problem of unequal relations of economic dependence between states, and the differences and connections between the legal and political sphere of right and morality. James also relates Fichte's central social and political ideas to those of other important figures in the history of philosophy, including Locke, Kant and Hegel, as well as to the radical phase of the French Revolution.",
+        "Property and economic planning in Fichte's contractualism.Michael Nance - 2019 - European Journal of Philosophy 27 (3):643-660. Fichte's Republic: Idealism, History and Nationalism.David James - 2015 - United Kingdom: Cambridge University Press.",
+        "Fichte's Social and Political Philosophy: Property and Virtue.Dan Breazeale - 2012 - British Journal for the History of Philosophy 20 (2):417-420.",
+        "Edward Wilmot Blyden and Fichte\u2019s Nationalist Philosophy of History.Zeyad El Nabolsy - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):117-131."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Fichte, early philosophical writings",
+      "url": "https://philpapers.org/rec/FICFEP",
+      "philpapers_id": "FICFEP",
+      "snippet": "Nothing more or less than logic: General logic, transcendental philosophy, and Kant&#x27;s repudiation of Fichte&#x27;s Wissenschaftslehre.Wayne M. Martin - 2003 - Topoi 22 (1):29-39. Is Hegel&#x27;s Master\u2013Slave Dialectic a Refutation of Solipsism?Robert Stern - 2012 - British Journal for the History of ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Nothing more or less than logic: General logic, transcendental philosophy, and Kant's repudiation of Fichte's Wissenschaftslehre.Wayne M. Martin - 2003 - Topoi 22 (1):29-39. Is Hegel's Master\u2013Slave Dialectic a Refutation of Solipsism?Robert Stern - 2012 - British Journal for the History of Philosophy 20 (2):333-361.",
+        "Daniel Breazeale, ed. and trans., \"Fichte: Early Philosophical Writings\".Frederick Neuhouser - 1990 - Journal of the History of Philosophy 28 (4):624.",
+        "Behind him lay more than a decade of employment as an ... ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fichte: Early Philosophical Writings.",
+        "Johann Gottlieb Fichte.Curtis Bowman - 2001 - Internet Encyclopedia of Philosophy."
+      ]
+    },
+    {
+      "title": "Hector Oscar Arrese Igor, Morality and State in the Fichtean Political Philosophy",
+      "url": "https://philpapers.org/rec/IGOMAS",
+      "philpapers_id": "IGOMAS",
+      "snippet": "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society ...",
+      "page_age": "2019-06-07T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Hector Oscar Arrese Igor"
+        }
+      ],
+      "extra_snippets": [
+        "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society and state. From a synchronic viewpoint, Fichte cannot solve the problem of the control of political power because he has to draw on the assumption of a virtuous ephorate.",
+        "This new temporal conception of the state leads Fichte to think that the problems of consistency of his theory of Jena are unavoidable, given that a society integrated by egoist individuals cannot be sustained. However, his later philosophy of history enables Fichte to state the inexorable annihilation of this type of community and gives place to an ensuing epoch, when citizens are not self-interested anymore.",
+        "People, Nation, State: The Ground in Fichte\u2019s Addresses.Mariano Gaudio - 2021 - Comparative and Continental Philosophy 13 (1):75-87. Ethics and Politics of Freedom: Johann Gottlieb Fichte's Theory of Rights.Nedim Nami Nomer - 2003 - Dissertation, Columbia University",
+        "Nationale Erziehung und sittliche Bestimmung.Alois K. Soller - 1990 - Fichte-Studien 2 (1):89-110. ... Home | New books and articles | Bibliographies | Philosophy journals | About PhilPapers | API | Contact us | Code of conduct"
+      ]
+    },
+    {
+      "title": "Frederick Neuhouser & Michael Baur (eds.), Foundations of Natural Right",
+      "url": "https://philpapers.org/rec/NEUFON",
+      "philpapers_id": "NEUFON",
+      "snippet": "In the history of philosophy, Fichte&#x27;s thought marks a crucial transitional stage between Kant and post-Kantian philosophy. Fichte radicalized Kant&#x27;s thought by arguing that human freedom, not external reality, must be ...",
+      "page_age": null,
+      "extra_snippets": [
+        "This volume offers a complete translation of the work into English, by Michael Baur, together with an introduction by Frederick Neuhouser that sets it in its philosophical and historical context. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Foundations of natural right: according to the principles of the Wissenschaftslehre.Johann Gottlieb Fichte - 2000 - New York: Cambridge University Press.",
+        "Rights, Bodies, Recognition: New Essays on Fichte\u2019s Foundations of Natural Right.Tom Rockmore & Daniel Breazeale (eds.) - 2006 - Routledge. Foundations of Natural Right according to the Principles of the Wissenschaftslehre (review).Daniel Breazeale - 2001 - Journal of the History of Philosophy 39 (2):305-306.",
+        "Fichte's Foundations of Natural Right: A Critical Guide ed. by Gabriel Gottlieb. [REVIEW]Steven Hoeltzel - 2018 - Journal of the History of Philosophy 56 (3):569-570.",
+        "The Lex Permissiva and the Source of Natural Right in Kant\u2019s Metaphysics of Morals and Fichte\u2019s Foundations of Natural Right.Murray Skees - 2009 - International Philosophical Quarterly 49 (3):375-398."
+      ]
+    },
+    {
+      "title": "Isabelle Thomas-Fogiel, J. G. Fichte's Foundations of the Entire Wissenschaftslehre and Related Writings, 1794\u201395 by J. G. Fichte",
+      "url": "https://philpapers.org/rec/THOJGF",
+      "philpapers_id": "THOJGF",
+      "snippet": "With this book, English-speaking ... first philosophy. The precision and clarity of this translation will, if not &quot;force the reader to understand,&quot; to use a well-known title of Fichte, at least help the reader to appreciate one of the culminating points of idealism.But there is much more to this edition than a precise, fluent, and illuminating translation. It includes, first, an introduction of about one hundred pages that details Fichte&#x27;s bibliographical, historical, and philosophical ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Isabelle Thomas-Fogiel"
+        }
+      ],
+      "extra_snippets": [
+        "With this book, English-speaking readers thus have at their disposal, [End Page 334] in a single volume, some of the most fundamental writings of Fichte's first philosophy. The precision and clarity of this translation will, if not \"force the reader to understand,\" to use a well-known title of Fichte, at least help the reader to appreciate one of the culminating points of idealism.But there is much more to this edition than a precise, fluent, and illuminating translation. It includes, first, an introduction of about one hundred pages that details Fichte's bibliographical, historical, and philosophical journey; then, endnotes that clarify certain moments of the text by placing them in their context, identifying the opponents targeted by Fichte, and restoring the debates of the time; lastly, a German-English and English-German glossary and an index.",
+        "It is a considerable work, the fruit of a lifetime of research, which will introduce many beginners to Fichte's philosophy and at the same time renew many specialist debates. And it is undoubtedly a strength of this edition that it can be read at several levels, by the beginner as well as by the most experienced researcher.As this review cannot deal with all the rich analyses in Breazeale's introduction, I will give just a few examples. Breazeale first endeavors to reconstruct the genesis of Fichte's questioning. Indeed, the work of the historian of philosophy\u2014as R.",
+        "In lieu of an abstract, here is a brief excerpt of the content:Reviewed by:J. G. Fichte's Foundations of the Entire Wissenschaftslehre and Related Writings, 1794\u201395 by J. G. FichteIsabelle Thomas-FogielJ. G. ...",
+        "So, what question or problem was the source of his philosophy that he felt the need to rename WL? Fichte's initial problem was that of the foundation of transcendental idealism. The criticisms of skeptics like Gottlob E. Schulze (also known as \"Aenesidemus\") or Salomon Maimon had revealed the inadequacy of the foundations laid down by both Kant and Reinhold. As Fichte says and Breazeale reminds us, \"The system has to be rebuilt\" (4)."
+      ]
+    },
+    {
+      "title": "Johannes Brachtendorf, The notion of Being in Fichte's late philosophy",
+      "url": "https://philpapers.org/rec/BRATNO-3",
+      "philpapers_id": "BRATNO",
+      "snippet": "Fichte&#x27;s reaction to Schelling&#x27;s identity philosophy in 1806.Michael Vater - 2008 - In Tom Rockmore &amp; Daniel Breazeale, After Jena: New Essays on Fichte&#x27;s Later Philosophy. Evanston, Ill.: The logic of historical truth&quot;: history and individuality in Fichte&#x27;s later philosophy of history.Angelica ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Johannes Brachtendorf"
+        }
+      ],
+      "extra_snippets": [
+        "Fichte's reaction to Schelling's identity philosophy in 1806.Michael Vater - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy. Evanston, Ill.: The logic of historical truth\": history and individuality in Fichte's later philosophy of history.Angelica Nuzzo - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Reality & Thought, Earth & World in Fichte.Carlos A. Segovia - 2023 - Fichte-Studien 52 (1):256-282. ... No references found. ... Home | New books and articles | Bibliographies | Philosophy journals | About PhilPapers | API | Contact us | Code of conduct",
+        "After Jena: Fichte's Religionslehre.Yolanda Estes - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy.",
+        "Toward or away from Schelling? on the thematic shift in Fichte's later philosophy.Steven Hoeltzel - 2008 - In Tom Rockmore & Daniel Breazeale, After Jena: New Essays on Fichte's Later Philosophy."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Fichte: Early Philosophical Writings",
+      "url": "https://philpapers.org/rec/BREFEP",
+      "philpapers_id": "BREFEP",
+      "snippet": "Foundations of Transcendental Philosophy, Johann Fichte, ed. and trans. Daniel Breazeale. [REVIEW]B. Allen - 1994 - History of European Ideas 18:820-820.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Breazeale"
+        }
+      ],
+      "extra_snippets": [
+        "Foundations of Transcendental Philosophy, Johann Fichte, ed. and trans. Daniel Breazeale. [REVIEW]B. Allen - 1994 - History of European Ideas 18:820-820.",
+        "Daniel Breazeale, Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy. Reviewed by. [REVIEW]Michael Nance - 2018 - Philosophy in Review 38 (1):8-10. Review of Johann Gottlieb Fichte, G\u00fcnter Z\u00f6ller (tr.), Daniel Breazeale (tr.), System of Ethics.",
+        "Foundation of the Entire Wissenschaftslehre and Related Writings (1794-95), by Johann Gottlieb Fichte, ed. and trans. Daniel Breazeale. [REVIEW]G\u00f6nter Z\u00fcller - 2021 - Mind 132 (528):1142-1150. Review of Immanuel Kant,'Perpetual Peace, a Philosophical Sketch'(Konigsburg, Nocolovius, 1759)(Translated by Daniel Breazeale).",
+        "[REVIEW]Christian Lotz - 2006 - Notre Dame Philosophical Reviews 2006 (11). FICHTEANA: Review of J.G. Fichte Research 23 (2023).David W."
+      ]
+    },
+    {
+      "title": "D. James, Fichte's republicanism: Education, philosophy and the bonds of reason",
+      "url": "https://philpapers.org/rec/JAMFRE",
+      "philpapers_id": "JAMFRE",
+      "snippet": "However, by identifying the laws of pure reason as the bonds that unite themembers of a future German republic in the way that he does, Fichte ends up reducing ethical acts to a matter of necessity rather than freedom ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fichte&#x27;s Republic: Idealism, History and Nationalism.David James - 2015 - United Kingdom: Cambridge University Press. From the Jena period to the Reden: Philosophical and historical developments.Michelle Kosch - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):70-81.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "D. James"
+        }
+      ],
+      "extra_snippets": [
+        "However, by identifying the laws of pure reason as the bonds that unite themembers of a future German republic in the way that he does, Fichte ends up reducing ethical acts to a matter of necessity rather than freedom ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fichte's Republic: Idealism, History and Nationalism.David James - 2015 - United Kingdom: Cambridge University Press. From the Jena period to the Reden: Philosophical and historical developments.Michelle Kosch - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):70-81.",
+        "Fichte: A Sytem of Freedom? Biographical-philosophical Reflections.Erich Fuchs - 2011 - Idealistic Studies 41 (1-2):113-123. Fichte's Addresses to the German Nation Reconsidered ed. by Daniel Breazeale and Tom Rockmore.F. Scott Scribner - 2017 - Journal of the History of Philosophy 55 (3):548-549.",
+        "Fichte\u2019s Addresses to the German Nation and the Philosopher as Guide.Tom Rockmore - 2016 - In Daniel Breazeale & Tom Rockmore, Fichte's Addresses to the German Nation Reconsidered. SUNY Press. pp. 243-260. Addresses to the German nation.Nedim Nomer - 2010 - History of Political Thought 31 (4):710-712.",
+        "Edward Wilmot Blyden and Fichte\u2019s Nationalist Philosophy of History.Zeyad El Nabolsy - 2025 - Deutsche Zeitschrift f\u00fcr Philosophie 73 (1):117-131."
+      ]
+    },
+    {
+      "title": "Gu\u0308nter Zo\u0308ller, Fichte\u2019s Transcendental Philosophy: The Original Duplicity of Intelligence and Will",
+      "url": "https://philpapers.org/rec/ZLLFTP-3",
+      "philpapers_id": "ZLLFTP",
+      "snippet": "At the center of that body of work stands Fichte&#x27;s attempt to integrate the theories of volition and cognition into a unified but complex &#x27;system of freedom&#x27;. The focus of this book is the intricate interplay between thinking and willing in the birth of experience out of the spirit of freedom. Combining incomparable erudition, sensitive readings of some of the most difficult of philosophical texts, clarity in exposition and an acute awareness of historical ...",
+      "page_age": null,
+      "extra_snippets": [
+        "At the center of that body of work stands Fichte's attempt to integrate the theories of volition and cognition into a unified but complex 'system of freedom'. The focus of this book is the intricate interplay between thinking and willing in the birth of experience out of the spirit of freedom. Combining incomparable erudition, sensitive readings of some of the most difficult of philosophical texts, clarity in exposition and an acute awareness of historical context this book takes its place as the ideal introduction to Fichte's thought.",
+        "Fichte's Transcendental Philosophy: The Original Duplicity of Intelligence and Will (review).Daniel Breazeale - 1999 - Journal of the History of Philosophy 37 (2):374-376.",
+        "This is the first book in English on the major works of the German philosopher Johann Gottlieb Fichte. It examines the transcendental theory of self and world from the writings of ...",
+        "Rush Jr - 2000 - Review of Metaphysics 53 (4):967-968. G\u00fcnter Z\u00f6ller, Fichte's Transcendental Philosophy: The Original Duplicity of Intelligence and Will , pp."
+      ]
+    },
+    {
+      "title": "Tom Rockmore, Fichte on knowledge, practice, and history",
+      "url": "https://philpapers.org/rec/ROCFOK",
+      "philpapers_id": "ROCFOK",
+      "snippet": "The Logic of Historical Truth&quot;: History and Individuality in Fichte&#x27;s Later Philosophy of History.Angelica Nuzzo - 2008 - In Daniel Breazeale &amp; Tom Rockmore (eds.), After Jena: New Essays on Fichte&#x27;s Later Philosophy.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "The Logic of Historical Truth\": History and Individuality in Fichte's Later Philosophy of History.Angelica Nuzzo - 2008 - In Daniel Breazeale & Tom Rockmore (eds.), After Jena: New Essays on Fichte's Later Philosophy.",
+        "Answering Aenesidemus: Schulze's Attack on Reinholdian Representationalism and its Importance for Fichte.James Messina - 2011 - Journal of the History of Philosophy 49 (3):339-369.",
+        "In Daniel Breazeale & Tom Rockmore (eds.), After Jena: New Essays on Fichte's Later Philosophy. Northwestern University Press (2008) ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University's proxy server Configure custom proxy (use this if your affiliation does not provide a proxy) ... Sign in / register and customize your OpenURL resolver.. ... No references found. ... No citations found. ... New Essays in Fichte's Foundation of the Entire Doctrine of Scientific Knowledge.Daniel Breazeale & Tom Rockmore (eds.)",
+        "Fichte's Intersubjective I.Allen W. Wood - 2006 - Inquiry: An Interdisciplinary Journal of Philosophy 49 (1):62 \u2013 79."
+      ]
+    },
+    {
+      "title": "David James, Fichte on the Vocation of the Scholar and the (Mis)use of History",
+      "url": "https://philpapers.org/rec/JAMFOT",
+      "philpapers_id": "JAMFOT",
+      "snippet": "This role concerns the task of furthering human culture and progress, which Fichte considers to be a moral duty for the scholar. In these lectures, Fichte also outlined the capabilities and knowledge that the scholar needs in order to be able to fulfill the task in question, including the possession of historical knowledge.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "David James"
+        }
+      ],
+      "extra_snippets": [
+        "The political theology of Fichte\u2019s Staatslehre: immanence and transcendence.David James - 2016 - British Journal for the History of Philosophy 24 (6):1157-1175.",
+        "In his early Some Lectures concerning the Scholar\u2019s Vocation, J. G. Fichte developed an account of the social role of the scholar. This role concerns the task of furthering human culture ...",
+        "Fichte's Social Division of Labour and its Relation to his Idealism.David James - forthcoming - European Journal of Philosophy:e13069.",
+        "This role concerns the task of furthering human culture and progress, which Fichte considers to be a moral duty for the scholar. In these lectures, Fichte also outlined the capabilities and knowledge that the scholar needs in order to be able to fulfill the task in question, including the possession of historical knowledge."
+      ]
+    },
+    {
+      "title": "Michael Nance, Fichte\u2019s First Principle of Right",
+      "url": "https://philpapers.org/rec/NANFFP",
+      "philpapers_id": "NANFFP",
+      "snippet": "The Role of First Principles in Fichte\u2019s Philosophy of History.Pavel Reichl - 2021 - Fichte-Studien 49:288-308.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Michael Nance"
+        }
+      ],
+      "extra_snippets": [
+        "The Role of First Principles in Fichte\u2019s Philosophy of History.Pavel Reichl - 2021 - Fichte-Studien 49:288-308.",
+        "This paper addresses the following questions: what is Fichte\u2019s first principle of right, how does he argue for it, and how does it function as the first principle of his substantive political theory?",
+        "Property and economic planning in Fichte's contractualism.Michael Nance - 2019 - European Journal of Philosophy 27 (3):643-660. General Logic and the Foundational Demonstration of the First Principle in Fichte\u2019s Eigene Meditationen and Early Wissenschaftslehre.David Sommer - 2021 - Fichte-Studien 49 (1):32-58.",
+        "Individuality and Rights in Fichte's Ethics.Michelle Kosch - 2017 - Philosophers' Imprint 17."
+      ]
+    },
+    {
+      "title": "Johann Gottlieb Fichte, Introductions to the Wissenschaftslehre and Other Writings (1797-1800)",
+      "url": "https://philpapers.org/rec/FICITT-2",
+      "philpapers_id": "FICITT",
+      "snippet": "These selections provide a brief but comprehensive introduction to Fichte\u2019s philosophical system and his place in the history of German Idealism. In addition to some of Fichte\u2019s most influential texts, such ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Fichte\u2019s Transcendental Philosophy: The Original Duplicity of Intelligence and Will.Gu\u0308nter Zo\u0308ller - 1998 - New York: Cambridge University Press. J. G. Fichte's Foundations of the Entire Wissenschaftslehre and Related Writings, 1794\u201395 by J. G. Fichte.Isabelle Thomas-Fogiel - 2023 - Journal of the History of Philosophy 61 (2):334-336.",
+        "Idealism and Facticity: Kant\u2019s Grounding of Metaphysics and Fichte\u2019s Challenge.Jens Pier - 2024 - International Journal of Philosophical Studies 32 (5):538\u2013562. From Being to Acting: Kant and Fichte on Intellectual Intuition.G. Anthony Bruno - 2022 - British Journal for the History of Philosophy 31 (4):762-783.",
+        "Fichte's Wissenschaftslehre of 1794 a Commentary on Part 1.George J. Seidel & Johann Gottlieb Fichte - 1993 - Purdue University Press. Added to PP 2017-02-23 Downloads 44 (#1,026,361) 6 months 12 (#798,388) ... Metametaphysical Monism, Dualism, Pluralism, and Holism in the German Idealist Tradition.G. Anthony Bruno - 2024 - International Journal of Philosophical Studies 32 (5):640-654.",
+        "Fichte's fictions revisited.Benjamin D. Crowe - 2008 - Inquiry: An Interdisciplinary Journal of Philosophy 51 (3):268 \u2013 287."
+      ]
+    },
+    {
+      "title": "Daniel Breazeale, Thinking Through the Wissenschaftslehre: Themes From Fichte's Early Philosophy",
+      "url": "https://philpapers.org/rec/BRETTT",
+      "philpapers_id": "BRETTT",
+      "snippet": "Thinking Through the Wissenschaftslehre: Themes from Fichte\u2019s Early Philosophy by Daniel Breazeale. [REVIEW]Matthew C. Altman - 2015 - Journal of the History of Philosophy 53 (1):164-165.",
+      "page_age": null,
+      "extra_snippets": [
+        "Fichte\u2019s method of philosophical experimentation in the Grundlage der gesamten Wissenschaftslehre.Jelscha Schmid - 2024 - Archiv f\u00fcr Geschichte der Philosophie 106. Added to PP 2014-01-26 Downloads 113 (#392,838) 6 months 25 (#364,128) ... From Being to Acting: Kant and Fichte on Intellectual Intuition.G. Anthony Bruno - 2022 - British Journal for the History of Philosophy 31 (4):762-783.",
+        "Salomon Maimon's Life; or, the History of the Imagining I.Nicholas Lawrence - 2026 - Dissertation, S\u00f6dert\u00f6rn University \u00b7 Freedom immediately after Kant.Owen Ware - 2019 - European Journal of Philosophy 27 (4):865-881. Fichte\u2019s Normative Ethics: Deontological or Teleological?Owen Ware - 2018 - Mind 127 (506):565-584.",
+        "Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy.James A. Clarke - 2015 - British Journal for the History of Philosophy 23 (5):1006-1009.",
+        "Thinking Through the Wissenschaftslehre: Themes from Fichte\u2019s Early Philosophy by Daniel Breazeale. [REVIEW]Matthew C. Altman - 2015 - Journal of the History of Philosophy 53 (1):164-165."
+      ]
+    },
+    {
+      "title": "Peter Baumanns, Johann Gottlieb Fichte. Complete Works. Vol. III, 3",
+      "url": "https://philpapers.org/rec/BAUJGF-10",
+      "philpapers_id": "BAUJGF",
+      "snippet": "Upload a copy of this work Papers currently archived: 117,083 ... Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Johann Gottlieb Fichte. Complete Works. Vol. II, 3. [REVIEW]Peter Baumanns - 1972 - Philosophy and History 5 (2):144-146.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Peter Baumanns"
+        }
+      ],
+      "extra_snippets": [
+        "Upload a copy of this work Papers currently archived: 117,083 ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Johann Gottlieb Fichte. Complete Works. Vol. II, 3. [REVIEW]Peter Baumanns - 1972 - Philosophy and History 5 (2):144-146.",
+        "Johann Gottlieb Fichte. Lecture Notes Vol. 1. [REVIEW]Peter Baumanns - 1979 - Philosophy and History 12 (1):30-32. Johann Gottlieb Fichte. Doctrine of Knowledge (1805). From the Unpublished Works.",
+        "Johann Gottlieb Fichte. Reason and Freedom. [REVIEW]Otto Spear - 1970 - Philosophy and History 3 (1):46-49. Added to PP 2011-01-09 Downloads 82 (#478,494) 6 months 14 (#559,307) ... No citations found. ... No references found. ... Home | New books and articles | Bibliographies | Philosophy journals | About PhilPapers | API | Contact us | Code of conduct",
+        "Johann Gottlieb Fichte. Complete Works. Vol. I, 4 Works 1797\u20131798, Vol. III, 2 Correspondence 1793\u20131795. [REVIEW]Peter Baumanns - 1971 - Philosophy and History 4 (2):148-151."
+      ]
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

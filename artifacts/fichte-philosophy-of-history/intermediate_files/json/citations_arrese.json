@@ -1,0 +1,66 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Morality and State in the Fichtean Political Philo...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Retrieved 0 references
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 1 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "680167e5f60d4a6e76f2835bf795348bbb84c31c",
+  "results": [
+    {
+      "paper": {
+        "paperId": "680167e5f60d4a6e76f2835bf795348bbb84c31c",
+        "title": "Morality and State in the Fichtean Political Philosophy",
+        "authors": [
+          {
+            "name": "H\u00e9ctor \u00d3scar Arrese Igor",
+            "authorId": "116341574"
+          }
+        ],
+        "year": 2019,
+        "abstract": "The philosophy of history of 1804 and 1805 enables Fichte to place his natural right, developed previously at Jena, against a diachronic background. This means that Fichte does not reason merely synchronically from a timeless conception of society and state. From a synchronic viewpoint, Fichte cannot solve the problem of the control of political power because he has to draw on the assumption of a virtuous ephorate. This assumption is not consistent with the Fichtean ideal of a philosophy of right completely independent from moral considerations. Thus, the control of government is possible only if at least a group of citizens can go beyond the mere rational egoism. This new temporal conception of the state leads Fichte to think that the problems of consistency of his theory of Jena are unavoidable, given that a society integrated by egoist individuals cannot be sustained. However, his later philosophy of history enables Fichte to state the inexorable annihilation of this type of community and gives place to an ensuing epoch, when citizens are not self-interested anymore.",
+        "citationCount": 1,
+        "doi": "10.12795/ARAUCARIA.2019.I41.04",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/680167e5f60d4a6e76f2835bf795348bbb84c31c",
+        "venue": "Araucaria"
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "25c808ed3bcf106694a70805f0c9210bac603ff2",
+          "title": "Moral y Derecho. Contradicciones conceptuales en el sistema filoso\u0301fico de Fichte de los an\u0303os de Jena (1794-1799)",
+          "authors": [
+            {
+              "name": "L. Scarfia",
+              "authorId": "2092133108"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.17533/UDEA.EF.N63A03",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/25c808ed3bcf106694a70805f0c9210bac603ff2",
+          "venue": "Estudios de Filosof\u00eda",
+          "isInfluential": true,
+          "contexts": [
+            "Esta ley constri\u00f1e a cada uno a no efectuar una acci\u00f3n contraria al Derecho, y ello porque se impone, tal como Arrese Igor (2019a) denota, no como una fuerza mec\u00e1nica externa a la voluntad sino como una auto-limitaci\u00f3n subjetiva en pos del reconocimiento de la otredad y de s\u00ed, en tanto actividad\u2026",
+            "15 Tambi\u00e9n Arrese Igor (2019c) resalta esta cuesti\u00f3n.",
+            "22 Adem\u00e1s, tal como Arrese Igor (2019b) expone, el propio Fichte advirti\u00f3 semejante problem\u00e1tica en su planteo filos\u00f3fico-pol\u00edtico.",
+            "\u2026educativa que Fichte concibe en el seno del matrimonio y de la familia como instituci\u00f3n natural anterior a la instituci\u00f3n pol\u00edtica \u2014incluso en GNR. Tal como Arrese Igor (2019c) resalta, en este campo la moralidad se eleva como instancia previa y superior respecto del poder coercitivo del Estado."
+          ],
+          "intents": [
+            "background"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

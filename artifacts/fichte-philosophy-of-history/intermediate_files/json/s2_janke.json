@@ -1,0 +1,39 @@
+[s2_search.py] Searching Semantic Scholar: 'Janke Fichte Geschichtsphilosophie Erlangener', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_f9a10a5cfec55833)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Janke Fichte Geschichtsphilosophie Erlangener",
+  "results": [
+    {
+      "paperId": "57fc4ca2ca3ab5c7c81165be02f0b4a789350c6d",
+      "title": "Transzendenz und Existenz : idealistische Grundlagen und moderne Perspektiven des transzendentalen Gedankens : Wolfgang Janke zum 70. Geburtstag",
+      "authors": [
+        {
+          "name": "M. Baum",
+          "authorId": "145028703"
+        },
+        {
+          "name": "K. Hammacher",
+          "authorId": "46387869"
+        }
+      ],
+      "year": 2001,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/57fc4ca2ca3ab5c7c81165be02f0b4a789350c6d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
