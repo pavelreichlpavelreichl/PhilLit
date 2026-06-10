@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Walter Benjamin An Aesthetic of Redemption Wolin 1982' (year=1982-1995), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_734603e1fa5efd4e)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Walter Benjamin An Aesthetic of Redemption Wolin 1982",
+  "results": [
+    {
+      "paperId": "ba0845e66bf8a7c227d79f5bb961794e44e8d4ee",
+      "title": "The Rose of Babylon: Walter Benjamin, Film Theory, and the Technology of Memory",
+      "authors": [
+        {
+          "name": "M. Bullock",
+          "authorId": "49483656"
+        }
+      ],
+      "year": 1988,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.2307/2905202",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ba0845e66bf8a7c227d79f5bb961794e44e8d4ee",
+      "venue": "",
+      "journal": {
+        "name": "Mln",
+        "pages": "1098-1120",
+        "volume": "103"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

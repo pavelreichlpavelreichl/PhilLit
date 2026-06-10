@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Critical Life...' author=Eiland Jennings year=2014
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Critical Life",
+    "author": "Eiland Jennings",
+    "year": 2014
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Author 'Eiland Jennings' not found in result authors",
+      "recoverable": false
+    }
+  ]
+}

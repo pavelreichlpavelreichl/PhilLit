@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/10848770.2019.1681184
+[verify_paper.py] DOI verified: Experience and Infinite Task: Knowledge, Language ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/10848770.2019.1681184"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/10848770.2019.1681184",
+      "title": "Experience and Infinite Task: Knowledge, Language and Messianism in the Philosophy of Walter Benjamin",
+      "authors": [
+        {
+          "family": "Salzani",
+          "given": "Carlo"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "The European Legacy",
+      "volume": "25",
+      "issue": "6",
+      "page": "712-714",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/10848770.2019.1681184"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

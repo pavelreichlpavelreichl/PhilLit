@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3390/REL10010040
+[verify_paper.py] DOI verified: Historiography and Remembrance: On Walter Benjamin...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3390/REL10010040"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3390/rel10010040",
+      "title": "Historiography and Remembrance: On Walter Benjamin\u2019s Concept of Eingedenken",
+      "authors": [
+        {
+          "family": "Bohn",
+          "given": "Charlotte Odilia"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Religions",
+      "volume": "10",
+      "issue": "1",
+      "page": "40",
+      "publisher": "MDPI AG",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3390/rel10010040"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

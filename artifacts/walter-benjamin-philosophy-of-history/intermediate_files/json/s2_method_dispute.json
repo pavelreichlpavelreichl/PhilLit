@@ -1,0 +1,59 @@
+[s2_search.py] Searching Semantic Scholar: 'Adorno Benjamin dialectical images 1935 Paris Arcades method dispute' (year=1990-2025), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_50eecf7d751225c0)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Adorno Benjamin dialectical images 1935 Paris Arcades method dispute",
+  "results": [
+    {
+      "paperId": "29c046b43fa5074f555ffddb4774db0292b39675",
+      "title": "Baudelaire Laboratory. Brief History of a Project by Walter Benjamin",
+      "authors": [
+        {
+          "name": "M. Montanelli",
+          "authorId": "2098994419"
+        }
+      ],
+      "year": 2020,
+      "abstract": "The article intends to retrace, from a historical-philological point of view, the main steps of Walter Benjamin\u2019s unfinished research and works, conducted during his later years, dedicated to Charles Baudelaire. Setting Benjamin\u2019s translation of the Ta-bleaux parisiens as the first result of his interest for the poet, the text delves into the composition process of The Arcades Project, from which the idea of a book on Baudelaire then takes shape. The article examines the crucial stages of this second project\u2019s development through the correspondence between Benjamin and Theodor Adorno and Max Horkheimer especially: from the 1935 expos\u00e9 for The Arcades Project to The Paris of the Second Empire in Baudelaire, to the 1939 essay On some Motifs in Baudelaire. The focus is set, in particular, on the dialectical-constructive method that guides Benjamin in the composition both of the Passagen-Werk as of the Baudelaire-Buch and the essays. Finally, the article looks back over the transmission history of the project on Baudelaire, intimately bound to the one of the Passagenarbeit: the vicissitudes and findings of various manuscripts, of which the complete restitution of the Kritische Gesamtausgabe is soon expected. Therefore, the peculiar relationship between philology and philosophy of Benjamin\u2019s experimental method is then examined further in depth; the configuration of the research object\u2019s monadic structure according to a historical perspective, albeit in the context of a work that remained unfinished.",
+      "citationCount": 0,
+      "doi": "10.13128/AISTHESIS-12087",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/29c046b43fa5074f555ffddb4774db0292b39675",
+      "venue": "Aisthesis. Pratiche, linguaggi e saperi dell\u2019estetico",
+      "journal": {
+        "name": "Aisthesis. Pratiche, linguaggi e saperi dell\u2019estetico"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "1d3358af37136a15cf37cfea8d43f73ce239b535",
+      "title": "Aesthetic Taste, Kitsch, and the Years",
+      "authors": [
+        {
+          "name": "Ruth Hoberman",
+          "authorId": "69519046"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1d3358af37136a15cf37cfea8d43f73ce239b535",
+      "venue": "",
+      "journal": {
+        "name": "Woolf Studies Annual",
+        "pages": "77",
+        "volume": "11"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

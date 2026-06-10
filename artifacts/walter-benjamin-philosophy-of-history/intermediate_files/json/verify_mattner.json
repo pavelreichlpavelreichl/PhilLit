@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Hannah Arendt Transatlantic Walter Benjamin...' author=Mattner year=2023
+[verify_paper.py] Paper found: Hannah Arendt’s Transatlantic Walter Benjamin... (score: 53.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Hannah Arendt Transatlantic Walter Benjamin",
+    "author": "Mattner",
+    "year": 2023
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00168890.2023.2232513",
+      "title": "Hannah Arendt\u2019s Transatlantic Walter Benjamin",
+      "authors": [
+        {
+          "family": "Mattner",
+          "given": "Cosima"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "The Germanic Review: Literature, Culture, Theory",
+      "volume": "98",
+      "issue": "3",
+      "page": "301-314",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1080/00168890.2023.2232513",
+      "score": 53.233994
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

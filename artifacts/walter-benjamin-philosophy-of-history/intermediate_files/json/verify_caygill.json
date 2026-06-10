@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/ccol0521793297.005"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/ccol0521793297.005",
+      "title": "Walter Benjamin\u2019s concept of cultural history",
+      "authors": [
+        {
+          "family": "Caygill",
+          "given": "Howard"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "The Cambridge Companion to Walter Benjamin",
+      "volume": "",
+      "issue": "",
+      "page": "73-96",
+      "publisher": "Cambridge University Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/ccol0521793297.005"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

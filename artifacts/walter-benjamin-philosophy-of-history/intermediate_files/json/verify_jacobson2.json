@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Metaphysics Profane Political Theology Walter Benj...' author=Jacobson year=2003
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Metaphysics Profane Political Theology Walter Benjamin Gershom Scholem",
+    "author": "Jacobson",
+    "year": 2003
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (20.7) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

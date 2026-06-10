@@ -1,0 +1,31 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5860/choice.44-0872
+[verify_paper.py] DOI verified: Fire alarm: reading Walter Benjamin's On the conce...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5860/choice.44-0872"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5860/choice.44-0872",
+      "title": "Fire alarm: reading Walter Benjamin's On the concept of history",
+      "authors": [],
+      "editors": [],
+      "year": 2006,
+      "container_title": "Choice Reviews Online",
+      "volume": "44",
+      "issue": "02",
+      "page": "44-0872-44-0872",
+      "publisher": "American Library Association",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5860/choice.44-0872"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

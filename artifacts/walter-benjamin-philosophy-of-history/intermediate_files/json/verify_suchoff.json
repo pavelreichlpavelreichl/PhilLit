@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1353/SHO.0.0237
+[verify_paper.py] DOI verified: Dark Images, Secret Hints: Benjamin, Scholem, Moli...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1353/SHO.0.0237"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1353/sho.0.0237",
+      "title": "Dark Images, Secret Hints: Benjamin, Scholem, Molitor and the Jewish Tradition (review)",
+      "authors": [
+        {
+          "family": "Suchoff",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "Shofar: An Interdisciplinary Journal of Jewish Studies",
+      "volume": "27",
+      "issue": "2",
+      "page": "159-161",
+      "publisher": "Project MUSE",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1353/sho.0.0237"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

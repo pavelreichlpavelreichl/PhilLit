@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.18800/ARETE.201802.006
+[verify_paper.py] DOI verified: La memoria involuntaria: Marcel Proust y el descub...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.18800/ARETE.201802.006"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.18800/arete.201802.006",
+      "title": "La memoria involuntaria: Marcel Proust y el descubrimiento po\u00e9tico del interior. Un an\u00e1lisis desde la perspectiva filos\u00f3fica de Walter Benjamin",
+      "authors": [
+        {
+          "family": "Llorens",
+          "given": "Mar\u00eda"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Aret\u00e9",
+      "volume": "30",
+      "issue": "2",
+      "page": "305-331",
+      "publisher": "Sistema de Bibliotecas PUCP",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.18800/arete.201802.006"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

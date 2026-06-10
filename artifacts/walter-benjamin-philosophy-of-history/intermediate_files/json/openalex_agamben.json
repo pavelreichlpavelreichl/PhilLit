@@ -1,0 +1,928 @@
+[search_openalex.py] Searching OpenAlex: 'Agamben Benjamin time of the rest messianic remnant' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_f9cfca4176999454)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Agamben Benjamin time of the rest messianic remnant",
+  "results": [
+    {
+      "openalex_id": "W4241533837",
+      "doi": "10.1017/s1745855206040014",
+      "title": "Biopower Today",
+      "authors": [
+        {
+          "name": "Paul Rabinow",
+          "openalex_id": "A5007815171",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Nikolas Rose",
+          "openalex_id": "A5068377598",
+          "orcid": "https://orcid.org/0000-0003-4007-5077",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-06-01",
+      "abstract": null,
+      "cited_by_count": 1002,
+      "type": "article",
+      "source": {
+        "name": "BioSocieties",
+        "type": "journal",
+        "issn": [
+          "1745-8552",
+          "1745-8560"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1017/S1745855206040014.pdf"
+      },
+      "topics": [
+        "Foucault, Power, and Ethics",
+        "Political Theology and Sovereignty",
+        "Global Security and Public Health"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W4241533837"
+    },
+    {
+      "openalex_id": "W607095771",
+      "doi": "10.1515/9780748676224",
+      "title": "Agamben and Politics: A Critical Introduction",
+      "authors": [
+        {
+          "name": "Sergei Prozorov",
+          "openalex_id": "A5070085436",
+          "orcid": "https://orcid.org/0000-0003-0731-0557"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-22",
+      "abstract": "A critical introduction to Giorgio Agamben's political thought that highlights its affirmative dimensionGBS_insertPreviewButtonPopup(['ISBN:9780748676200','ISBN:9780748676217','ISBN:9780748676224','ISBN:9780748676248']);Tracing how the logic of inoperativity works in the domains of language, law, history and humanity, Agamben and Politics systematically introduces the fundamental concepts of Agamben's political thought and a critically interprets his insights in the wider context of contemporary philosophy.Agamben's commentators and critics tend to focus on his powerful critique of the Western political tradition in the Homo Sacer series. But this narrow focus serves to obscure the overall structure of Agamben's political thought, which is neither negative nor critical but affirmative. Sergei Prozorov brings out the affirmative mood of Agamben's political thought, focusing on the concept of inoperativity, which has been central to Agamben's work from his earliest writings.Key FeaturesThe first critical introduction to focus on Agamben's political thoughtShows Agamben's political thought to be primarily affirmative rather than criticalReads Agamben's politics in the context of his first philosophical works on ontology and ethicsCovers all of Agamben's published work, introducing the full variety of themes and concepts he addresses",
+      "cited_by_count": 40,
+      "type": "book",
+      "source": {
+        "name": "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+        "type": "journal",
+        "issn": [
+          "0784-1272",
+          "1459-7780"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10138/233421"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Hannah Arendt's Political Philosophy",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W607095771"
+    },
+    {
+      "openalex_id": "W4300964842",
+      "doi": "10.4337/9781803921402.00014",
+      "title": "The coming community: Agambens vision of messianic politics",
+      "authors": [
+        {
+          "name": "Oliver W. Lembcke",
+          "openalex_id": "A5068392979",
+          "orcid": "https://orcid.org/0000-0002-1937-0664"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-15",
+      "abstract": "Agamben is well known for his homo sacer project and the 'dark' concept of biopolitics \u2013 dark due to the fatal connection between politics and law. Is there a moment of utopia encapsulated in this dystopian vision? This contribution tries to answer this question. For this purpose, it elaborates on the concepts of biopolitics. It also presents Agamben's other, less-known 'light' concept of politics, 'true politics', free of any 'nomos', law or sovereignty. This concept relates to his idea of a 'coming society' and borrows heavily from the idea of messianism. This contribution understands Agamben's messianic references, especially to Benjamin's pure violence, as an invitation to reconstruct the different elements of true politics and integrate them into a broader scheme of utopian thinking with the help of Levitas's understanding of 'utopia as method'.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "Edward Elgar Publishing eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.elgaronline.com/downloadpdf/book/9781803921402/book-part-9781803921402-14.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Foucault, Power, and Ethics",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W4300964842"
+    },
+    {
+      "openalex_id": "W4254198840",
+      "doi": "10.1515/9783110597745-036",
+      "title": "The Testament of Time \u2013 The Apocalypse of John and the recapitulatio of Time according to Giorgio Agamben",
+      "authors": [
+        {
+          "name": "Kurt Appel",
+          "openalex_id": "A5058810275",
+          "orcid": "https://orcid.org/0000-0003-2040-6094"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-20",
+      "abstract": "Giorgio Agamben is one of the most widely received and most important philosophers of our time. His philosophy can be understood as a continuation of Foucault's archaeology of knowledge. Accordingly, Agamben analyses the genesis of the essential occidental concepts, categories and constellations in the context of their political and noetic significance for the present age. Similar to Foucault, this endeavour includes an impetus that is critical of knowledge and society. Beyond Foucault, Agamben systematically deals with not only the influence of religious categories on the constitution of occidental power but also its subversive potential. Among Agamben's writings, his Homo Sacer project 1 , most of which has been translated into English by now, and his book The Time that Remains (Il tempo che resta) 2 deserve special mention. In Il tempo che resta, Agamben particularly investigates apocalyptic thought and the correspondent concepts of time on the basis of an interpretation of Paul's Epistle to the Romans. Both aspects are key to a critique of systems of power and their structures of representation. This text also focusses on these questions. The first part of the article provides a definition of the position of current concepts of time, while the second traces key categories of Agamben, who responds to today's virtualisations with the concept of messianity. The third part will attempt to confront Agamben's change of perspective, which rests on observations from the Bible, wherein the problem of a critical vision of historical superpowers and their representation systems becomes the decisive criterion for an apocalypticisation of history.",
+      "cited_by_count": 2,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110597745-036/pdf"
+      },
+      "topics": [
+        "Violence, Religion, and Philosophy",
+        "Political Theology and Sovereignty",
+        "Media, Religion, Digital Communication"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4254198840"
+    },
+    {
+      "openalex_id": "W2165562216",
+      "doi": "10.4067/s0718-090x2006000200008",
+      "title": "NATALITY AND BIOPOLITICS IN HANNAH ARENDT",
+      "authors": [
+        {
+          "name": "Miguel Vatter",
+          "openalex_id": "A5065902445",
+          "orcid": "https://orcid.org/0000-0003-2384-8920",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica de Chile"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "This essay discusses the genesis of Arendt's concept of natality, and the reasons that led her to claim natality as a fundamental concept of political thought. The essay argues against the widespread thesis that Arendt took her idea of natality from Heidegger's existential analysis of human life. It argues, instead, that Arendt's account of natality should be situated within the discourse of bio-politics, and that it is based on a conception of life that is anti-Heideggerian. Arendt's political thought is a species of bio-politics that counters totalitarianism on its own terrain, namely, by identifying what in life poses a resistance to the totalitarian project of attaining total domination over life.",
+      "cited_by_count": 92,
+      "type": "article",
+      "source": {
+        "name": "Revista de ciencia poli\u0301tica",
+        "type": "journal",
+        "issn": [
+          "0716-1417",
+          "0718-090X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.scielo.cl/pdf/revcipol/v26n2/art08.pdf"
+      },
+      "topics": [
+        "Hannah Arendt's Political Philosophy",
+        "Political Theology and Sovereignty",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W2165562216"
+    },
+    {
+      "openalex_id": "W2149099223",
+      "doi": "10.1215/01903659-2008-011",
+      "title": "<i>Homo Profanus</i>: Giorgio Agamben's Profane Philosophy",
+      "authors": [
+        {
+          "name": "Leland de la Durantaye",
+          "openalex_id": "A5111898561"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-08-01",
+      "abstract": "Giorgio Agamben's work first achieved international recognition\u2014and notoriety\u2014through his study of the sacred in Homo Sacer. This recognition and notoriety grew with the subsequent installments in this still ongoing series, Remnants of Auschwitz (Homo Sacer III), State of Exception (Homo Sacer II.1), and The Kingdom and the Glory (Homo Sacer II.2). Agamben's recent work, Profanations, is, however, not a part of that series. As its title indicates, it turns from the sacred to the profane, and in so doing reveals the most profound intentions of Agamben's philosophy. Agamben's naming the profane rather than the sacred in the title of this work does not, however, represent a turn to a new topic. Beginning with his first books in the 1970s, he has shown himself deeply interested in the idea of the profane, in significant part through terms and concepts employed by Walter Benjamin such as \u201cprofane illumination\u201d and \u201cthe order of the profane.\u201d In his Homo Sacer project, this idea of the profane has followed Agamben's studies of the sacred like a shadow. With this new work, however, it has moved to the center of his reflections and in doing offers his reader a glimpse of hitherto unseen elements in his personal trajectory, his philosophical vocation, and his political project. The works in the Homo Sacer series have compellingly and persuasively argued that the creating of sacred and sovereign states of exception has often been responsible for the dire states of political affairs we find ourselves in. Profanations seeks to offer a solution.",
+      "cited_by_count": 18,
+      "type": "article",
+      "source": {
+        "name": "boundary 2",
+        "type": "journal",
+        "issn": [
+          "0190-3659",
+          "1527-2141"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/boundary-2/article-pdf/35/3/27/231778/b2035-03-02DurantayeFpp.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Hannah Arendt's Political Philosophy",
+        "Violence, Religion, and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2149099223"
+    },
+    {
+      "openalex_id": "W2760295066",
+      "doi": "10.22459/ahr.50.2011.08",
+      "title": "Managing Love and Death at the Zoo: The Biopolitics of Endangered Species Preservation",
+      "authors": [
+        {
+          "name": "Matthew Chrulew",
+          "openalex_id": "A5091490695",
+          "orcid": "https://orcid.org/0000-0002-6044-2383"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-05-01",
+      "abstract": null,
+      "cited_by_count": 119,
+      "type": "article",
+      "source": {
+        "name": "Australian Humanities Review",
+        "type": "journal",
+        "issn": [
+          "1325-8338",
+          "1835-8063"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.22459/ahr.50.2011.08"
+      },
+      "topics": [
+        "Geographies of human-animal interactions",
+        "Animal and Plant Science Education"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W2760295066"
+    },
+    {
+      "openalex_id": "W200163720",
+      "doi": null,
+      "title": "Expensive Shit: Aesthetic Economies of Waste in Postcolonial Africa",
+      "authors": [
+        {
+          "name": "Sarah L. Lincoln",
+          "openalex_id": "A5022327993"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-07-03",
+      "abstract": "&lt;p&gt;This dissertation proposes a reading of postcolonial African literature in light of the continent's continued status as a \"remnant\" of globalization--a waste product, trash heap, disposable raw material, and degraded offcut of the processes that have so greatly enriched, dignified and beautified their beneficiaries. The \"excremental\" vision of African authors, poets and filmmakers reflects their critical consciousness of the imbalances and injustices that characterize African societies and polities under pressure from monetized capitalism and domestic corruption. The figure of superfluity, excess, destruction or extravagance--concepts gathered together under the sign of \"waste\"--is a central thematic, symbolic, and formal feature of many postcolonial African works, and I suggest that literature functions in this context to document, critique, and offer alternatives to the culture of waste that predominates in political and social life on the continent. &lt;/p&gt;&lt;p&gt;The argument covers a range of geographical and historical ground, from the \"excremental\" preoccupations and stylistics of early postcolonial African fiction, to contemporary South Africa, where political anxieties about the relative superfluity of entire populations to the project of neoliberal development are articulated through the aesthetic challenges of representing the past while remaining open to productive futurity. Through chapters on excremental literature and the politics of allegory; corruption, debt and economy in Senegalese film; magical realism and inflation in Nigeria; and recycling and aesthetics in transitional South Africa, I argue for a reading of postcolonial African fiction as a mode of political ecology, an aesthetics that draws its energies directly from the problem of waste management figured in the works. &lt;/p&gt;&lt;p&gt;Drawing on theoretical perspectives from Walter Benjamin and postcolonial marxism to poststructuralist literary philosophy, the \"new economic criticism,\" and psychoanalysis, I investigate how African artists themselves make sense of the continent's increasing superfluity to the global economy, its role only as \"la poubelle\"--the world's trash heap--where toxic waste and excess capital alike are sent to die.&lt;/p&gt;",
+      "cited_by_count": 24,
+      "type": "dissertation",
+      "source": {
+        "name": "DukeSpace (Duke University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10161/696"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "South African History and Culture",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W200163720"
+    },
+    {
+      "openalex_id": "W2010602660",
+      "doi": "10.4102/hts.v66i1.426",
+      "title": "Holistic redemptive pastoral ministry in the fragmented transit hall of existence",
+      "authors": [
+        {
+          "name": "Johann-Albrecht Meylahn",
+          "openalex_id": "A5027437888",
+          "orcid": "https://orcid.org/0000-0003-1460-9338",
+          "institutions": [
+            "University of Pretoria"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-02-19",
+      "abstract": "The grand narratives have all but gone \u2013 what is left are numerous narratives, each addressing a certain aspect of our lives; there is a different narrative for our professional lives, another for our family lives, for our social lives and yet another for our spiritual lives. We find ourselves in this \u2018transit hall\u2019, forever changing flights or trains, depending on which narrative sphere we are entering or leaving. In each narrative we take on a different character, defined and shaped by the specificities of that narrative. Thus, \u2018transition\u2019 in the sense of change can no longer be understood as only linear, but as constant and multidimensional. With the use of Lacan\u2019s discourse theory, this fragmented existence will be unpacked and a redemptive alternative sought.This paper is an attempt to address this multi-narrative existence without imposing yet another grand narrative. Thus it focuses on offering a narrative space that is, (1) holistic, in the sense that it addresses all the different narratives, (2) pastoral, in that it addresses the person and (3) redemptive, in that it offers something new, meaningful and hopeful. Such a narrative space moves the church from its \u2018ghetto mindset\u2019, where traditions and values are maintained, to being fully open and vulnerable to the present reality, whilst yearning for the Messianic to reveal an alternative future.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "HTS Teologiese Studies / Theological Studies",
+        "type": "journal",
+        "issn": [
+          "0259-9422",
+          "2072-8050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://hts.org.za/index.php/hts/article/download/426/903"
+      },
+      "topics": [
+        "Theological Perspectives and Practices",
+        "Biblical Studies and Interpretation",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2010602660"
+    },
+    {
+      "openalex_id": "W1964598961",
+      "doi": "10.1163/22116257-00202006",
+      "title": "The \u2018Right\u2019 Side of the Law. State of Siege and the Rise of Fascism in Interwar Romania",
+      "authors": [
+        {
+          "name": "Cosmin Cercel",
+          "openalex_id": "A5031421372",
+          "orcid": "https://orcid.org/0000-0002-7327-0568",
+          "institutions": [
+            "University of Nottingham"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "The aim of this article is to problematize one of the most audacious tenets of the new consensus, namely the revolutionary character of fascism, by linking together the experience of the state of siege and the emergence of the fascist movement in interwar Romania. It tries to do so by drawing on the philosophical underpinnings of the paradigm of the state of exception developed by Giorgio Agamben and Walter Benjamin\u2019s critique of law and violence. In a first part my aim is to present the main arguments espoused in defending the view according to which fascist movements were professing an authentic revolutionary radical politics. Secondly, I will turn towards legal critique and to the work of Giorgio Agamben in order to build a topography of the relation between law and the force of state. In a third part I will focus on the uses and the historical meaning of the state of siege in post-First World War Romania. This article argues that the emergence of the fascist movement in Romania is an event strongly embedded in the political, legal and symbolic dynamics entailed by the state of exception rather than the expression of a revolutionary thrust.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Fascism",
+        "type": "journal",
+        "issn": [
+          "2211-6249",
+          "2211-6257"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/journals/fasc/2/2/article-p205_6.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Walter Benjamin Studies Compilation",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W1964598961"
+    },
+    {
+      "openalex_id": "W2466042249",
+      "doi": "10.14746/prt.2015.3.0",
+      "title": "Wprowadzenie: teologia jako krytyka",
+      "authors": [
+        {
+          "name": "Miko\u0142aj Ratajczak",
+          "openalex_id": "A5048069779",
+          "orcid": "https://orcid.org/0000-0003-1813-2952",
+          "institutions": [
+            "Institute of Philosophy and Sociology"
+          ]
+        },
+        {
+          "name": "Rafa\u0142 Zawisza",
+          "openalex_id": "A5019526983",
+          "orcid": "https://orcid.org/0000-0002-8771-1408",
+          "institutions": [
+            "Institute of Human Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-21",
+      "abstract": "This is an introduction to the issue of \u201cTheoretical Practice\u201d (\u201cPraktyka Teoretyczna\u201d), entitled \u201cEconomic Theologies\u201d (no. 3, 2015), edited by Miko\u0142aj Ratajczak and Rafa\u0142 Zawisza. It contains contextual explanation of the theoretical field projected by the Italian philosopher Giorgio Agamben, namely a critique of the economic theology elaborated on the basis of early Christian theological debates concerning the concept of divine \u201coikonomia\u201d. The introduction also includes short summaries of the articles, translations and reviews collected in the issue.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Praktyka Teoretyczna",
+        "type": "journal",
+        "issn": [
+          "2081-8130"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://pressto.amu.edu.pl/index.php/prt/article/download/5408/5496"
+      },
+      "topics": [
+        "Education and Cultural Studies"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2466042249"
+    },
+    {
+      "openalex_id": "W2235296836",
+      "doi": null,
+      "title": "Paul, Christ and Time: An Investigation of Apocalyptic and Salvation-Historical Themes in the Undisputed Pauline Epistles",
+      "authors": [
+        {
+          "name": "Anton John Rose",
+          "openalex_id": "A5037092841"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This thesis examines the subjects of history and time in the undisputed Pauline epistles, with reference to ongoing debates between apocalyptic readings of Paul, which emphasise the radical invasiveness of the Christ event, and salvation-historical readings, which emphasise continuity between the Christ event and Israel\u00e2\u0080\u0099s history. Current disagreements between prominent Pauline scholars such as J.L. Martyn and N.T. Wright can be traced back to similar debates in twentieth century New Testament scholarship, and the work of Rudolf Bultmann, Oscar Cullmann, and Ernst K\u00c3\u00a4semann, in particular.&#13;\\n&#13;\\nOne broad area of agreement between apocalyptic and salvation-historical readings of Paul is the way in which they consider history in terms of chronologically-successive periods of time, and understand the significance of the Christ event in terms of its fixed place in this scheme. This thesis examines four key Pauline texts: 1 Corinthians 10, 2 Corinthians 3, Galatians 3-4, and Romans 9-11, arguing that neither apocalyptic or salvation-historical understandings can fully account for significant features of these texts. Instead, I argue that the work of Walter Benjamin and Karl Barth offers useful ways of thinking about history and time, allowing for a more cohesive reading of these texts. In particular, Barth\u00e2\u0080\u0099s claim that the Christ event is in history but not of history provides a way of considering the Christ event as both a concrete, historical occurrence, part of Israel\u00e2\u0080\u0099s history, and an event which is not dependent upon or limited to that history. &#13;\\n",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Durham e-Theses (Durham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etheses.durham.ac.uk/id/eprint/11351/1/Rose%2C_Anton_-_Paul%2C_Christ_and_Time._An_Investigation_of_Apocalyptic_and_Salvation-Historical_Themes_in_the_Undisputed_Pauline_Epistles.pdf"
+      },
+      "topics": [
+        "Biblical Studies and Interpretation",
+        "Theology and Canon Law Studies",
+        "Religion, Theology, History, Judaism, Christianity"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W2235296836"
+    },
+    {
+      "openalex_id": "W4206911617",
+      "doi": "10.5334/bcp",
+      "title": "Monstrous Liminality; Or, The Uncanny Strangers of Secularized Modernity",
+      "authors": [
+        {
+          "name": "Robert G. Beghetto",
+          "openalex_id": "A5017164412",
+          "orcid": "https://orcid.org/0000-0001-8048-4698",
+          "institutions": [
+            "York University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-24",
+      "abstract": "This book examines the transformation of the figure of the stranger in the literature of the modern age in terms of liminality. As a \u2018spectral monster\u2019 that has a paradoxical and liminal relationship to both the sacred and the secular, the figure of the modern stranger has played a role in both adapting and shaping a culturally determined understanding of the self and the other. With the advent of modernity, the stranger, the monster, and the spectre became interconnected. Haunting the edges of reason while also being absorbed into \u2018normal\u2019 society, all three, together with the cyborg, manifest the vulnerability of an age that is fearful of the return of the repressed. Yet these figures can also become re-appropriated as positive symbols, able to navigate between the dangerous and chaotic elements that threaten society while serving as precarious and ironic symbols of hope or sustainability. The book shows the explanatory potential of focusing on the resacralizing \u2013 in a paradoxical and liminal manner \u2013 of traditionally sacred concepts such as \u2018messianic\u2019 time and the \u2018utopian,\u2019 and the conflicts that emerged as a result of secularized modernity\u2019s denial of its own hybridization. This approach to modern literature shows how the modern stranger, a figure that is both paradoxically immersed and removed from society, deals with the dangers of failing to be re-assimilated into mainstream society and is caught in a fixed or permanent state of liminality, a state that can ultimately lead to boredom, alienation, nihilism, and failure. These \u2018monstrous\u2019 aspects of liminality can also be rewarding in that traversing difficult and paradoxical avenues they confront both traditional and contemporary viewpoints, enabling new and fresh perspectives suspended between imagination and reality, past and future, nature and artificial. In many ways, the modern stranger as a figure of literature and the cultural imagination has become more complicated and challenging in the (post)modern contemporary age, both clashing with and encompassing people who go beyond simply the psychological or even spiritual inability to blend in and out of society. However, while the stranger may be altering once again the defining or essentializing the figure could result in the creation of other sets of binaries, and thereby dissolve the purpose and productiveness of both strangeness and liminality. The intention of \u201cMonstrous Liminality\u201d is to trace the liminal sphere located between the secular and sacred that has characterized modernity itself. This space has consequently altered the makeup of the stranger from something external, into a figure far more liminal, which is forced to traverse this uncanny space in an attempt to find new meanings for an age that is struggling to maintain any.",
+      "cited_by_count": 6,
+      "type": "book",
+      "source": {
+        "name": "Ubiquity Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.5334/bcp"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 256,
+      "url": "https://openalex.org/W4206911617"
+    },
+    {
+      "openalex_id": "W3164377563",
+      "doi": "10.5871/jba/009s2.127",
+      "title": "Liberal international criminal law and legal memory: deconstructing the production of witness memories at the International Criminal Tribunal for Rwanda",
+      "authors": [
+        {
+          "name": "Benjamin Thorne",
+          "openalex_id": "A5016326817"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "International criminal tribunals and courts, such as the International Criminal Tribunal for Rwanda (ICTR), are commonly understood within legal transitional justice scholarship as the primary response to mass human rights violations, not only in addressing impunity, but also in uncovering the truth of what happened and why. This conceptually orientated article aims to deconstruct legal witnessing and memory production at the ICTR in order to critique claims in legal scholarship that international criminal institutions are able to produce a collective memory of mass rights violations. Specifically, the article proposes an original conceptual framework using insights from critical theory, Giorgio Agamben (witness) and Paul Ricoeur (memory), which it is argued extends our understanding of the scope, and limitations, of liberal Western criminal institutions\ufffd (in)ability to make sense of past atrocities.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Journal of the British Academy",
+        "type": "journal",
+        "issn": [
+          "2052-7217"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.thebritishacademy.ac.uk/documents/3318/JBA-9s2-07-Thorne.pdf"
+      },
+      "topics": [
+        "Historical and Contemporary Political Dynamics",
+        "International Law and Human Rights",
+        "Political Theology and Sovereignty"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W3164377563"
+    },
+    {
+      "openalex_id": "W172842279",
+      "doi": "10.1515/9780748643950-008",
+      "title": "6. Colonial Sovereignty, Forms of Life and Liminal Beings in South Africa",
+      "authors": [
+        {
+          "name": "Stewart Motha",
+          "openalex_id": "A5036322183"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-11",
+      "abstract": "Book synopsis: Svirsky and Bignall assemble leading figures to explore the rich philosophical linkages and the political concerns shared by Agamben and postcolonial theory. Agamben's theories of the 'state of exception' and 'bare life' are situated in critical relation to the existence of these phenomena in the colonial/postcolonial world.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Edinburgh University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.bbk.ac.uk/id/eprint/4626/1/4626.pdf"
+      },
+      "topics": [
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W172842279"
+    },
+    {
+      "openalex_id": "W4379792391",
+      "doi": "10.1353/cul.2016.a617382",
+      "title": "Writing Lines: Agamben Contra Nietzsche",
+      "authors": [
+        {
+          "name": "Jenny Doussan",
+          "openalex_id": "A5056678573"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-01",
+      "abstract": "Writing LinesAgamben Contra Nietzsche Jenny Doussan (bio) R\u00e9p\u00e9titions is the name that Paul \u00c9luard gives to one of his collections of poetry, for whose frontispiece Max Ernst has drawn four small boys. They turn their backs to the reader, to their teacher and his desk as well, and look out over a balustrade where a balloon hangs in the air. A giant pencil rests on the windowsill. The repetition of childhood experience gives us pause: when we were little, there was as yet no agonized protest against the world of our parents. As children in the midst of the world, we showed ourselves superior. When we reach for the banal, we take hold of the good along with it\u2014the good that is there (open your eyes) right before you. \u2014Walter Benjamin, Dream Kitsch In his 1988 foreword to Infancy and History: The Destruction of Experience, Giorgio Agamben declares, \u201cIn both my written and unwritten books, I have stubbornly pursued only one train of thought: what is the meaning of \u2018there is language\u2019; what is the meaning of \u2018I speak\u2019?\u201d (2007, 6). There is no cause to doubt the philosopher\u2019s word, when from infancy to testimony, his work across the decades indicates a clear engagement with the enunciative. But, what of that other facet of language, the inscriptive\u2014that is, what of writing? In a radio interview that the philosopher gave in 2004, he commented that \u201cwanting to write is the desire to experience potentiality\u201d (de La Durantaye, 2\u20133). Agamben\u2019s disposition toward writing, however, is more ambiguous than this sentiment may suggest, as is indicated by his sometimes emphatic and sometimes ambiguous stance on Friedrich Nietzsche\u2019s eternal recurrence of the same, to which he has sometimes referred in relation to the inscriptive. For instance, in a passing remark at the end of another interview that he gave to the S\u00fcddeutsche Zeitung in that same year, Agamben commented that he stands \u201cwith Benjamin, who said, the eternal return is like the punishment of detention, the sentence [End Page 114] in school in which one had to copy the same sentence a thousand times\u201d (Raulff, 614). Compare this assessment of the eternal return to that in his 1982 essay titled \u201cBenjamin and the Demonic: Happiness and Historical Redemption.\u201d Therein, by contrast, Agamben qualifies Benjamin\u2019s reading of the eternal return that \u201cperhaps unjustly\u201d sees in it \u201cthe punishment given to schoolchildren that consists in having to copy out the same text countless times,\u201d by noting the German-Jewish thinker\u2019s recognition of its revolutionary possibility for \u201c[exasperating] mythic repetition to the point of finally bringing it to a halt\u201d (1999b, 155). Click for larger view View full resolution Figure 1. Frontispiece of R\u00e9p\u00e9titions, 1922, by Paul \u00c9luard, with illustrations by Max Ernst. Typ 915.22.3605, Houghton Library, Harvard University. Nevertheless, Agamben elsewhere addresses the eternal return with no apparent reference to writing, as in its mention in \u201cMarginal Notes on Commentaries on the Society of the Spectacle\u201d (1990), in which he cites it as an example of \u201cthe messianic shift that integrally changes the world, leaving it, at the same time, almost intact\u201d (2000, 79), while in Remnants of Auschwitz: The Witness and the Archive (1998) it shares its temporal status with the camp (1999c, 99\u2013103). These are but a few of the varied references to the eternal return in his corpus that range from affirmative to condemnatory. What precisely is at stake here? Is Agamben\u2019s fluctuating position on the eternal return simply a matter of \u201ca move away from the line drawn by one treasured thinker in the direction of a line drawn by another\u201d in the difficult endeavor of \u201cdeveloping a philosophy of potentiality able to come to terms with the past,\u201d as one critic has argued (de La Durantaye, 323)?1 [End Page 115] Is the Strafe des Nachsitzens, the punishment of writing lines that Benjamin refers to, thus merely an expedient analogy rather than an indicator of the particularity of writing to Agamben\u2019s determination of Nietzsche\u2019s concept? Even if one were to accept the hypothesis that in Remnants of Auschwitz Agamben rereads the...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Cultural Critique",
+        "type": "journal",
+        "issn": [
+          "0882-4371",
+          "1460-2458"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Psychoanalysis and Social Critique",
+        "German Literature and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4379792391"
+    },
+    {
+      "openalex_id": "W1917203000",
+      "doi": "10.13025/20182",
+      "title": "The Threshold and the Topos of the Remnant: Giorgio Agamben",
+      "authors": [
+        {
+          "name": "Paolo Bartoloni",
+          "openalex_id": "A5031559980",
+          "orcid": "https://orcid.org/0000-0003-4892-4328"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-04-01",
+      "abstract": "In this article I will follow Agamben as he conceptualises the space of the threshold. The next section will be devoted to investigating Agamben's reading of Paul, with particular attention to hope and love. I will show how Paul's novel understanding of hope leads Agamben to propose an experience of life the productivity of which is not based on the possession and conceptualisation of work as norm. In the section following I will develop my study by relating Agamben's discussion of the threshold and the remnant with broader Western philosophical and literary concerns, including those marking the work of Bataille, Blanchot, Heidegger and Kojve. Particular attention will be devoted to distinguishing between Bataille's 'unemployed negativity' and Blanchot's 'neuter',and the possible influence they might have had on Agamben's interrogation of the threshold.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Arrow@dit (Dublin Institute of Technology)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10379/1476"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Foucault, Power, and Ethics",
+        "Populism, Right-Wing Movements"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1917203000"
+    },
+    {
+      "openalex_id": "W2284495239",
+      "doi": null,
+      "title": "Translating Troy: Provincial Politics in Alliterative Romance",
+      "authors": [
+        {
+          "name": "Alex Mueller",
+          "openalex_id": "A5067426415",
+          "orcid": "https://orcid.org/0000-0002-7699-7447"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-04-20",
+      "abstract": "Translating destruction into alliterative romance -- Genealogy : Trojan historiography in England -- War : reviving Troy -- Violence : the corporeal terror of the Roman Empire -- Heraldry : Arthur's Roman dragon -- Territory : the Trojan provinces of Britain -- Conclusion. Alliterating England.",
+      "cited_by_count": 47,
+      "type": "book",
+      "source": {
+        "name": "The Knowledge Bank (The Ohio State University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1811/54437"
+      },
+      "topics": [
+        "Classical Antiquity Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2284495239"
+    },
+    {
+      "openalex_id": "W2894824064",
+      "doi": "10.21983/p3.0052.1.00",
+      "title": "Staying Alive: A Survival Manual for the Liberal Arts",
+      "authors": [
+        {
+          "name": "Louise O. Fradenburg",
+          "openalex_id": "A5035008420"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-10-22",
+      "abstract": "Staying Alive: A Survival Manual for the Liberal Arts fiercely defends the liberal arts in and from an age of neoliberal capital and techno-corporatization run amok, arguing that the public university\u2019s purpose is not vocational training, but rather the cultivation of what Fradenburg calls \u201cartfulness,\u201d including the art of making knowledge. In addition to sustained critical and creative thinking, the humanities develop the mind\u2019s capacities for real-time improvisational communication and interpretation, without which we can neither thrive nor survive. Humanist pedagogy and research use play, experimentation and intersubjective exchange to foster forms of artfulness critical to the future of our species. From perception to reality-testing to concept-formation and logic, the arts and humanities teach us to see, hear and respond more keenly, and to imagine, or \u201cmodel,\u201d new futures and possibilities. Innovation of all kinds, technological or artistic, depends on the enhancement of the skills proper to staying alive",
+      "cited_by_count": 32,
+      "type": "book",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/25565/1/1004530.pdf"
+      },
+      "topics": [
+        "University Challenges and Reforms",
+        "Posthumanist Ethics and Activism",
+        "Digital Education and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2894824064"
+    },
+    {
+      "openalex_id": "W2801871472",
+      "doi": "10.1177/0191453718769455",
+      "title": "\u201cAlready/Not Yet\u201d",
+      "authors": [
+        {
+          "name": "Vassilios Paipais",
+          "openalex_id": "A5078440907",
+          "orcid": "https://orcid.org/0000-0001-5564-3597",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-17",
+      "abstract": "This paper interrogates some prominent post-Marxist engagements with St Paul\u2019s messianism by reading them in the theological context of the anti-historicist revival of Pauline eschatology in the twentieth century. In both readings, the means through which the critique of historicism is delivered is the revival of the eschatological core of Paul\u2019s proclamation. Paul is read as inaugurating a \u201cnew world\u201d of freedom, love and redemptive hope as opposed to the \u201cold world\u201d of oppression, sorrow, death and despair. And yet, it is exactly in such an apocalyptic reading of Pauline eschatology that both philosophical and theological critiques of historicism, despite protestations to the contrary, remain prisoners to the aporias of a historicist temporality. The symptom of the philosophers\u2019 residual parasitism on historicism is expressed as antinomian negativism, while in the case of the theologians it can take the form of a self-assured Church triumphalism.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Social Criticism",
+        "type": "journal",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research-repository.st-andrews.ac.uk/bitstream/10023/13230/1/Paipais_2018_PhSC_AlreadyNotYet_AAM.pdf"
+      },
+      "topics": [
+        "Theology and Philosophy of Evil",
+        "Violence, Religion, and Philosophy",
+        "Biblical Studies and Interpretation"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2801871472"
+    },
+    {
+      "openalex_id": "W2311803315",
+      "doi": "10.18297/etd/1427",
+      "title": "Messianic light : utopian discourse in the work of Theodor W. Adorno, Luce Irigaray and Giorgio Agamben.",
+      "authors": [
+        {
+          "name": "Heather Thiessen",
+          "openalex_id": "A5112060582"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "What is the idea that \"utopia\" names? How can discourse represent that idea? Setting aside temporarily deeper problems with the idea of representation, and focusing on how a complex philosophical discourse might approach the problem of conveying or representing a large, only fairly precise, and important idea is the question of this dissertation. It ultimately answers that question obliquely, by focusing on the way the utopian discourse present in the work of three late 20th century philosophers, Theodor W. Adorno, Luce Irigaray, and Giorgio Agamben, addresses a subject position that can be named a \"subject of possibility.\" How this subject of possibility might relate to the possibilities for transcendence located in the material world that is the stage for utopian imagination is another area of the study's investigation. The dissertation introduces the question with a look at the problems associated with utopia. It considers utopian discourse in select works of each of these thinkers, paying attention to dystopian context, identification of style and language, subject-object considerations, and the discursive treatment of space and time. In particular, it traces the theme of messianic expectation, in a loose secular sense, through this discourse. Finally, it links the way the messianic theme provides content to the idea of utopia present in this discourse. It claims that the messianic idea thematizes a materialist interpretation of transcendence and metaphysical experience that is developed in the work of each of these authors. That is, these authors locate the metaphysical moment necessary for the idea of utopia in the transcendent relation of the material subject to the subject of language and thought; in its concrete difference from that subject. This materialist moment provides a base for a non-representational and transformative approach to utopian imagination and perhaps even utopian practice, by linking the idea of \"utopia\" to a nonlinguistic understanding of the negation of suffering.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2426&context=etd"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Philosophy, Ethics, and Existentialism",
+        "Utopian, Dystopian, and Speculative Fiction"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W2311803315"
+    },
+    {
+      "openalex_id": "W2230270621",
+      "doi": null,
+      "title": "Milton, early modern culture, and the poetics of messianic time",
+      "authors": [
+        {
+          "name": "Jennifer McKim",
+          "openalex_id": "A5022153026"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "Despite recent scholarship, critics have yet to offer a sustained, interdisciplinary interpretation of John Milton's engagement with millennial ideas that takes into equal account the historical context of seventeenth-century religious and political controversy, the ways in which the pending apocalypse transformed how people imagined and experienced time, and how we see evidence of this cultural shift in Milton's poetry. This dissertation opens new possibilities of understanding Milton's relation to apocalyptic belief in the Revolutionary and Restoration era through an investigation of how millennial thinking cut across a variety of discourses including theology, politics, and science. At its most basic level, my dissertation argues the seventeenth-century anticipation of the apocalypse fundamentally altered the way people imagined time; this new way of conceptualizing temporality changed early modern religious beliefs, conceptions of history, the scientific imagination, and practices of reading philosophy, politics, and literature. My project proposes that the poetry of Milton helps us better understand these extensive cultural transformations. I explore this new understanding of time that is both reflective of discursive changes in the seventeenth century as well as characteristic of Milton's aesthetics, by offering an understanding of Milton's relationship with millennial ideas and their constitutive temporal structure. I argue that, in response to the inevitable and immanent \"end of time\" suggested by seventeenth-century apocalyptic temporality, Milton's poetry creates an alternative temporality, opening up an experience of time that is not necessarily unidirectional, closed, and speeding towards its end. I suggest that this different experience of time can best be understood through the framework of a temporality explored by contemporary philosophers Walter Benjamin, Jacques Derrida, and Giorgio Agamben--messianic time. Put in its most basic terms, messianic time is a way of thinking about temporality differently, of calling into question our narratives of how time and history function. The messianic invites us to interrogate the notions of closure, certainty, and inevitability that are implicit in our linear, apocalyptic notion of time. Milton's texts continually constitute the possibility of a messianic temporality that can be read as a response to changing conceptions of time in the seventeenth century, millennial anticipation, and the belief that the apocalypse was close at hand. Entering a recent critical conversation regarding Milton's engagement with millennial and apocalyptic thinking, I suggest that we can understand this involvement through the alternative temporality his poetry creates. Each chapter of this dissertation fuses a formalist close reading of the temporality and uncertainties opened up by generic revisions, literary allusions, and rhetorical devices in Milton's poetry with a reading of how ideologically-conflicting interpretations of millennial time are articulated in the text and are reflective of contemporary discourse. I demonstrate how messianic time functions in each text and I prove the importance of this experience as it relates to historical and ideological questions about the millennium. This dissertation contributes to an ongoing conversation regarding how political, religious, scientific, and aesthetic texts are interconnected, and explores the plurality of Milton's ideological positions as they emerge out of the ambivalence and tension in the language of his poetry. In my reading, Milton's texts articulate a way of being in the world--both structural (created through language) and historical (tied to seventeenth-century millennial thinking)--that suggests uncertainty is the condition of knowledge and truth.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "TUScholarShare (Temple University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/20.500.12613/3266"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "German Literature and Culture Studies",
+        "Poetry Analysis and Criticism"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W2230270621"
+    },
+    {
+      "openalex_id": "W3209481375",
+      "doi": "10.5040/9781350133600",
+      "title": "Rethinking Philosophy for Children",
+      "authors": [
+        {
+          "name": "Tyson E. Lewis",
+          "openalex_id": "A5055024406",
+          "orcid": "https://orcid.org/0000-0002-4303-752X",
+          "institutions": [
+            "Hobart and William Smith Colleges",
+            "University of Richmond",
+            "University of California, Los Angeles",
+            "Bury College",
+            "Goucher College",
+            "Bloomsbury Publishing (United Kingdom)",
+            "The Ohio State University",
+            "Singapore Management University"
+          ]
+        },
+        {
+          "name": "Igor Jasinski",
+          "openalex_id": "A5079659265",
+          "orcid": "https://orcid.org/0000-0002-5018-9994"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "<JATS1:p>This book is available as open access through the Bloomsbury Open programme and is available on www.bloomsburycollections.com.</JATS1:p> <JATS1:p>By utilizing the philosophy of Giorgio Agamben, the authors propose a radical reconceptualization of the practice known as Philosophy for Children (P4C) that focuses on the experience of one\u2019s potentiality to speak rather than the development of specific skills or types of speaking. 'Philosophy for Infancy' (P4I) emerges as a non-instrumental educational practice that does not dictate what to say or how to say it but rather focuses on the potentiality to say something. In the process of developing P4I, the authors address a long-standing question concerning the politics of education. Instead of education as a means to a pre-defined political end (citizenship education, for example) or education as an end in itself (divorced from political concerns), the authors argue that the non-instrumental approach to potentiality is the embodiment of an equally non-instrumental political community that is itself always in potential. P4I is intended to work within the procedural framework offered by the P4C-program and recognizes a latent potentiality in the practice that allows for a common use of language. Throughout the theoretical discussion, the authors offer practical applications and excerpts of children\u2019s dialogue to provide anchoring points for classroom teachers.</JATS1:p>",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": {
+        "name": "Bloomsbury Publishing Plc eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.bloomsburycollections.com/book/rethinking-philosophy-for-children-agamben-and-education-as-pure-means.pdf?dl"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Ethics and Legal Issues in Pediatric Healthcare",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 73,
+      "url": "https://openalex.org/W3209481375"
+    },
+    {
+      "openalex_id": "W3044651737",
+      "doi": "10.14746/prt2020.2.3",
+      "title": "Gleaning on the Shores of Politics. Commoning as the New Philosophy of Praxis",
+      "authors": [
+        {
+          "name": "\u0141ukasz Moll",
+          "openalex_id": "A5083312327",
+          "orcid": "https://orcid.org/0000-0002-2251-9351",
+          "institutions": [
+            "University of Wroc\u0142aw"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-15",
+      "abstract": "The article joins the recent discussion, led by theorists of the commons, on the meaning of \u201ccommoning\u201d. It proposes to recognize as the main feature of the practice of commoning the capacity to reproduce the autonomy of plebeian life-worlds that could possibly lead to a post-capitalist future. The identification of commoning as the activity of marginal subjectivities is presented here with the example of gleaning. This traditional activity of the poor is re-examined in the article as an ambiguous practice that escapes the binaries of activity and passivity, positivity and negativity, production and reproduction. Gleaning, with its reproductive capacities, serves as a model for commoning, understood as the new philosophy of praxis, which is much needed in the times of ecological catastrophe and the broken connection between labour and care. The history of struggles around gleaning and the commons, and the figures of the poor female harvester (glaneuse) and urban ragpicker (chiffonier) are recalled in the article in order to recognize the much devaluated potential of commoning to interrupt the history of blind productivism and, together with reclaiming the commons, to also reclaim our future.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Praktyka Teoretyczna",
+        "type": "journal",
+        "issn": [
+          "2081-8130"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://pressto.amu.edu.pl/index.php/prt/article/download/23786/22225"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W3044651737"
+    },
+    {
+      "openalex_id": "W2175268340",
+      "doi": "10.1080/0969725x.2014.920632",
+      "title": "THE PROFANATION OF REVELATION",
+      "authors": [
+        {
+          "name": "Colby Dickinson",
+          "openalex_id": "A5032967608",
+          "orcid": "https://orcid.org/0000-0002-9019-6013",
+          "institutions": [
+            "Loyola University Chicago"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-02",
+      "abstract": "This essay seeks to articulate the many implications which Giorgio Agamben's work holds for theology. It aims, therefore, to examine his (re)conceptualizations of language in light of particular historical glosses on the \u201cname of God\u201d and the nature of the \u201cmystical,\u201d as well as to highlight the political task of profanation, one of his most central concepts, in relation to the logos said to embody humanity's \u201creligious\u201d quest to find its Voice. As such, we see how he challenges those standard (ontotheological) notions of transcendence which have been consistently aligned with various historical forms of sovereignty. In addition, I intend to present his redefinition of revelation as solely the unveiling of the \u201cname of God\u201d as the fact of our linguistic being, a movement from the transcendent divine realm to the merely human world before us. By proceeding in this manner, this essay tries to close in on one of the largest theological implications contained within Agamben's work: the establishment of an ontology that could only be described as a form of \u201cabsolute\u201d immanence, an espousal of some form of pantheism (or perhaps panentheism) yet to be more fully pronounced within his writings.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Angelaki",
+        "type": "journal",
+        "issn": [
+          "0969-725X",
+          "1469-2899"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ecommons.luc.edu/theology_facpubs/6"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Violence, Religion, and Philosophy",
+        "Religion and Society in Latin America"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W2175268340"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

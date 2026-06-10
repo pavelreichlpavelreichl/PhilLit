@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Marxism Modernism Historical Study Lukacs Brecht B...' author=Lunn year=1982
+[verify_paper.py] Paper found: Marxism and Modernism: An Historical Study of Luka... (score: 73.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Marxism Modernism Historical Study Lukacs Brecht Benjamin",
+    "author": "Lunn",
+    "year": 1982
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/1904900",
+      "title": "Marxism and Modernism: An Historical Study of Lukacs, Brecht, Benjamin, and Adorno",
+      "authors": [
+        {
+          "family": "Seigel",
+          "given": "Jerrold"
+        },
+        {
+          "family": "Lunn",
+          "given": "Eugene"
+        }
+      ],
+      "editors": [],
+      "year": 1983,
+      "container_title": "The American Historical Review",
+      "volume": "88",
+      "issue": "5",
+      "page": "1245",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/1904900",
+      "score": 73.42949
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

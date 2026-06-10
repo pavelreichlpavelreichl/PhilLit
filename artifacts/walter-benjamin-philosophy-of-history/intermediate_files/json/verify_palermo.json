@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3989/ISEGORIA.2011.I45.743
+[verify_paper.py] DOI verified: El hilo sutil de la rememoración. Felicidad y rede...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3989/ISEGORIA.2011.I45.743"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3989/isegoria.2011.i45.743",
+      "title": "El hilo sutil de la rememoraci\u00f3n. Felicidad y redenci\u00f3n hist\u00f3rica en la obra de Walter Benjamin",
+      "authors": [
+        {
+          "family": "Palermo",
+          "given": "Sandra Viviana"
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "Isegor\u00eda",
+      "volume": "",
+      "issue": "45",
+      "page": "575-594",
+      "publisher": "Editorial CSIC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3989/isegoria.2011.i45.743"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

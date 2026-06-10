@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Critical Life...' author=Eiland year=2014
+[verify_paper.py] Paper found: A Life of Walter Benjamin... (score: 49.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Critical Life",
+    "author": "Eiland",
+    "year": 2014
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4159/9780674726208",
+      "title": "A Life of Walter Benjamin",
+      "authors": [
+        {
+          "family": "Eiland",
+          "given": "Howard"
+        },
+        {
+          "family": "Jennings",
+          "given": "Michael W."
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Harvard University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4159/9780674726208",
+      "score": 49.487206
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

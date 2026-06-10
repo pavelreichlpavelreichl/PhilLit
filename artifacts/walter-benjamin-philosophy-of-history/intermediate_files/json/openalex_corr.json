@@ -1,0 +1,657 @@
+[search_openalex.py] Searching OpenAlex: 'Adorno Benjamin complete correspondence 1928 1940' (year=1990-2005), limit=25
+[search_openalex.py] Retrieved 17 papers...
+[search_openalex.py] Search complete: 17 papers found
+[search_openalex.py] Cached results (cache key: openalex_ba14948705fb6175)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Adorno Benjamin complete correspondence 1928 1940",
+  "results": [
+    {
+      "openalex_id": "W2048527905",
+      "doi": "10.2307/40156213",
+      "title": "The Complete Correspondence, 1928-1940",
+      "authors": [
+        {
+          "name": "David S. Gross",
+          "openalex_id": "A5113997669"
+        },
+        {
+          "name": "Theodor W. Adorno",
+          "openalex_id": "A5112755778"
+        },
+        {
+          "name": "Walter Benjam\u00edn",
+          "openalex_id": "A5053088793",
+          "orcid": "https://orcid.org/0000-0003-0282-8605"
+        },
+        {
+          "name": "Henri Lonitz",
+          "openalex_id": "A5026930441"
+        },
+        {
+          "name": "Nicholas Walker",
+          "openalex_id": "A5006115440"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "The correspondence between Walter Benjamin and Theodor Adorno, which appears here for the first time in its entirety in English translation, must rank among the most significant to have come down to us from that notable age of barbarism, the twentieth century. Benjamin and Adorno formed a uniquely powerful pair. Benjamin, riddle-like in his personality and given to tactical evasion, and Adorno, full of his own importance, alternately support and compete with each other throughout the correspondence, until its imminent tragic end becomes apparent to both writers. Each had met his match, and happily, in the other. This book is the story of an elective affinity. Adorno was the only person who managed to sustain an intimate intellectual relationship with Benjamin for nearly twenty years. No one else, not even Gershom Scholem, coaxed so much out of Benjamin. The more than one hundred letters in this book will allow readers to trace the developing character of Benjamin's and Adorno's attitudes toward each other and toward their many friends. When this book appeared in German, it caused a sensation because it includes passages previously excised from other German editions of the letters--passages in which the two friends celebrate their own intimacy with frank remarks about other people. Ideas presented elliptically in the theoretical writings are set forth here with much greater clarity. Not least, the letters provide material crucial for understanding the genesis of Benjamin's Arcades Project.",
+      "cited_by_count": 368,
+      "type": "article",
+      "source": {
+        "name": "World Literature Today",
+        "type": "journal",
+        "issn": [
+          "0196-3570",
+          "1945-8134"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2048527905"
+    },
+    {
+      "openalex_id": "W2067677439",
+      "doi": "10.1002/jhbs.10037",
+      "title": "Theodor W. Adorno and Walter Benjamin: The complete correspondence, 1928\u20131940",
+      "authors": [
+        {
+          "name": "Andrew R. Aisenberg",
+          "openalex_id": "A5043798317",
+          "institutions": [
+            "Scripps College"
+          ]
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-09-01",
+      "abstract": null,
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of the Behavioral Sciences",
+        "type": "journal",
+        "issn": [
+          "0022-5061",
+          "1520-6696"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Radio, Podcasts, and Digital Media"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2067677439"
+    },
+    {
+      "openalex_id": "W1515285618",
+      "doi": null,
+      "title": "Review of Benjamin and Adorno, The Complete Correspondence 1928-1940",
+      "authors": [
+        {
+          "name": "Mark Jackson",
+          "openalex_id": "A5091223251",
+          "orcid": "https://orcid.org/0000-0002-2852-8929",
+          "institutions": [
+            "Grantmakers for Effective Organizations"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-04-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Bristol Research (University of Bristol)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Critical Theory and Philosophy",
+        "Cultural Studies and Postmodernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1515285618"
+    },
+    {
+      "openalex_id": "W248197209",
+      "doi": null,
+      "title": "Theodor W. Adorno and Walter Benjamin , The Complete Correspondence 1928-1940 . Reviewed by",
+      "authors": [
+        {
+          "name": "Mark Jackson",
+          "openalex_id": "A5091223251",
+          "orcid": "https://orcid.org/0000-0002-2852-8929",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-04-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W248197209"
+    },
+    {
+      "openalex_id": "W2495890948",
+      "doi": "10.1017/s0263523200007990",
+      "title": "The Complete Correspondence 1928-1940, Theodor Adorno and Walter Benjamin (Cambridge, MA: Harvard University Press, 2001), pp. 392. ISBN 0674006895.",
+      "authors": [
+        {
+          "name": "John Glassford",
+          "openalex_id": "A5091613005",
+          "institutions": [
+            "Angelo State University"
+          ]
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Bulletin of the Hegel Society of Great Britain",
+        "type": "journal",
+        "issn": [
+          "0263-5232",
+          "2396-8176"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2495890948"
+    },
+    {
+      "openalex_id": "W2159217145",
+      "doi": "10.7202/008561ar",
+      "title": "Divine Words, Cramped Actions: Walter Benjamin \u2015 an Unlikely Icon in Translation Studies",
+      "authors": [
+        {
+          "name": "Janet Sanders",
+          "openalex_id": "A5088679061",
+          "orcid": "https://orcid.org/0000-0003-1935-1356",
+          "institutions": [
+            "Hudson Institute",
+            "Dawson College"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-07-27",
+      "abstract": "For the last half century Walter Benjamin has had almost legendary status in the world of translation studies. Scholars have been fascinated by the ideas in The Task of the Translator , but almost none has looked at how\u2014or even whether\u2014Benjamin actualized his philosophy, either in his own practice of translation or in his criticism of translations by others. This is the purpose of the present article.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "TTR traduction terminologie r\u00e9daction",
+        "type": "journal",
+        "issn": [
+          "0835-8443",
+          "1708-2188"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/ttr/2003-v16-n1-ttr709/008561ar.pdf"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2159217145"
+    },
+    {
+      "openalex_id": "W1979094791",
+      "doi": "10.1080/13534640500264289",
+      "title": "Fossil Fuel Culture",
+      "authors": [
+        {
+          "name": "Nigel Tubbs",
+          "openalex_id": "A5061294809",
+          "orcid": "https://orcid.org/0000-0003-1292-1950"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-10-01",
+      "abstract": "Click to increase image sizeClick to decrease image size Notes 1. Theodor Adorno, \u2018Why Philosophy?\u2019 in Critical Theory: The Essential Readings, ed. by David Ingram and Julia Simon\u2010Ingram (New York: Paragram House, 1991), p.28. 2. Peter McLaren, Revolutionary Multiculturalism: Pedagogies of Dissent for the New Millennium (Oxford: Westview Press), p.14. 3. G.W.F. Hegel, Lectures on the Philosophy of Religion, Vol. 1, ed. by Peter Hodgson, (Berkeley: University of California Press, 1984), p.452. 4. G.W.F. Hegel, The Philosophy of History, (New York: Dover Publications, 1956), p.417. 5. G.W.F. Hegel, The Philosophy of History, p.68. 6. I have explored this double relation in much greater detail as philosophy's higher education. See Nigel Tubbs, Philosophy's Higher Education (Dordrecht: Kluwer, 2004). It is also the philosophical insight underpinning my study of the philosophy of the teacher; see Nigel Tubbs, Philosophy of the Teacher (Oxford: Blackwell, 2005 \u2013 forthcoming). 7. Strictly speaking, although there can be a critical philosophy of fascism, fascism itself is not philosophical. 8. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment (London: Verso Books, 1979), p.126. 9. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.127. 10. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.137. 11. Theodor W. Adorno and Walter Benjamin, The Complete Correspondence 1928\u20131940, ed. by Henri Lonitz, trans. Nicholas Walker (Cambridge: Polity Press, 1999), p.130. 12. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.155. 13. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.155. 14. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.154. 15. Walter Benjamin, The Origin of German Tragic Drama (London: Verso, 1985), p.81. 16. Gillian Rose, Judaism and Modernity (Oxford: Blackwell, 1993), p.196. This article is also reprinted in The Actuality of Walter Benjamin, ed. by Laura Marcus and Lynda Nead (London: Lawrence and Wishart, 1998), pp.85\u2013117. 17. Walter Benjamin, The Origin of German Tragic Drama, p.230. 18. Walter Benjamin, Illuminations (London: Fontana, 1992), p.235. 19. Gillian Rose, Mourning Becomes the Law (Cambridge: Cambridge University Press, 1996), p.45. 20. Gillian Rose, Mourning Becomes the Law, p.47. 21. Gillian Rose, Mourning Becomes the Law, p.47. 22. Gillian Rose, Mourning Becomes the Law, p.47. 23. Gillian Rose, Mourning Becomes the Law, p.41. 24. Gillian Rose, Mourning Becomes the Law, p.62. 25. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.xv. 26. Theodor Adorno, The Culture Industry (London: Routledge, 1991), ed. by J. M. Bernstein, p.159. 27. Walter Benjamin, The Origin of German Tragic Drama, p.166. 28. The term \u2018post\u2010structuralism\u2019, in fetishizing the abstract dualism of base and superstructure, is no less a suppression of culture. 29. Theodor Adorno, The Culture Industry, p.159. 30. Theodor Adorno, The Culture Industry, p.55. 31. Theodor Adorno, The Culture Industry, p.55. 32. Theodor Adorno, The Culture Industry, p.58. 33. Theodor Adorno, The Culture Industry, p.62. 34. Theodor Adorno, The Culture Industry, pp.62\u20133. 35. Theodor Adorno, The Culture Industry, p.87. 36. This is a charge that Rose makes of Marxism in the final chapter of Hegel Contra Sociology (London: Athlone Press, 1981). 37. Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment, p.xv. 38. A case can also be made that for Benjamin representation is the form and the content of the transcendental and the speculative relation of philosophical experience. See, for example, Howard Caygill, The Colour of Experience (London: Routledge, 1998), Chapter 1. 39. Theodor Adorno, The Jargon of Authenticity (Evanston, IL: Northwestern University Press, 1973), p.11. 40. Theodor Adorno, The Jargon of Authenticity, p.12. 41. Gillian Rose, Mourning Becomes the Law, p.55. 42. Gillian Rose, Mourning Becomes the Law, p.55. 43. Gillian Rose, Mourning Becomes the Law, p.41. 44. Gillian Rose, Mourning Becomes the Law, p.56. 45. Gillian Rose, Mourning Becomes the Law, p.56. 46. Gillian Rose, Mourning Becomes the Law, p.56. 47. Theodor Adorno, The Jargon of Authenticity, p.26. 48. Theodor Adorno, The Jargon of Authenticity, p.3. 49. Theodor Adorno, The Jargon of Authenticity, p.5. 50. Gillian Rose, Mourning Becomes the Law, p.55. 51. Theodor Adorno, The Jargon of Authenticity, p.21. 52. Theodor Adorno, The Jargon of Authenticity, p.13. 53. Theodor Adorno, The Jargon of Authenticity, p.21. 54. Gillian Rose, Mourning Becomes the Law, p.62. 55. Theodor Adorno, The Culture Industry, p.171. 56. Theodor Adorno, The Culture Industry, p.174. 57. Gillian Rose, Mourning Becomes the Law, p.62. 58. Gillian Rose, Mourning Becomes the Law, p.61. 59. Walter Benjamin, Illuminations, p.229.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Parallax",
+        "type": "journal",
+        "issn": [
+          "1353-4645",
+          "1460-700X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1979094791"
+    },
+    {
+      "openalex_id": "W4232171809",
+      "doi": "10.1080/1084877032000166368",
+      "title": "Almost Nothing Has Made Everything Well Again?",
+      "authors": [],
+      "publication_year": 2003,
+      "publication_date": "2003-12-01",
+      "abstract": "Abstract Theodor W. Adorno and Walter Benjamin: The Complete Correspondence 1928-1940. Edited by Henri Lonitz, translated by Nicholas Walker (Cambridge, MA: Harvard University Press, 1999), x _ 383 pp. $42.00.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "The European Legacy",
+        "type": "journal",
+        "issn": [
+          "1084-8770",
+          "1470-1316"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4232171809"
+    },
+    {
+      "openalex_id": "W2054329659",
+      "doi": "10.1002/(sici)1520-6696(199821)34:2<221::aid-jhbs31>3.0.co;2-u",
+      "title": "The placebo effect: An interdisciplinary exploration",
+      "authors": [
+        {
+          "name": "Mark D. Sullivan",
+          "openalex_id": "A5069369295",
+          "orcid": "https://orcid.org/0000-0002-4396-6038",
+          "institutions": [
+            "University of Washington"
+          ]
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": null,
+      "cited_by_count": 70,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of the Behavioral Sciences",
+        "type": "journal",
+        "issn": [
+          "0022-5061",
+          "1520-6696"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291520-6696%28199821%2934%3A2%3C221%3A%3AAID-JHBS31%3E3.0.CO%3B2-U"
+      },
+      "topics": [
+        "Pain Management and Placebo Effect"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2054329659"
+    },
+    {
+      "openalex_id": "W2749482827",
+      "doi": "10.31390/gradschool_dissertations.2351",
+      "title": "Alban Berg's filmic music: intentions and extensions of the Film Music Interlude in the Opera Lula",
+      "authors": [
+        {
+          "name": "Melissa Ursula Dawn Goldsmith",
+          "openalex_id": "A5048833975",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-11-19",
+      "abstract": "The music composed to accompany the film in Berg\u2019s Opera Lulu--the \u201cFilm Music Interlude\u201d (FMI)--is the subject of this study. Although this is film music, and Berg wrote his own Film Music Scenario, scholars have ignored writings about film theory and film music in their historical and analytical treatments of the FMI. How do writings about film theory and film music apply to the analysis and exploration of historical and social contexts of the FMI, and what musical and extramusical intentions and extensions can be drawn from the FMI? Some answers come to light while exploring sources containing Berg\u2019s correspondence with Schoenberg, Adorno, and Morgenstern as well as the biographies on Berg by Morgenstern and Erich Alban Berg. Other answers emerge through the analysis of filmic aspects of the FMI and from selecting and examining exceptional ideas found in writings about film theory and film music (from the early 1920s to 1937) as well as reviews about the FMI at the world premiere of the opera. Chapter 1 provides a serial analysis of the FMI as a self-contained piece, focusing on the palindromic musical structure, Berg\u2019s serial procedures and use of liquidation, and the dramatic meaning. Chapter 2 examines how Berg employs characteristically cinematic techniques (dissolves, wipes, and graphic matches) in the FMI\u2019s music. Chapter 3 explores early writings about film theory and film music by, among others, Bal\u00e1zs, Musil, Arnheim, London, Schoenberg,and Adorno and how their ideas apply to the FMI. Chapter 4 investigates and presents for the first time translations of selected passages from the reviews of the 1937 premiere by, among others, David, List, Milhaud, Peyser, Reich, and Schuh. Berg\u2019s intellectual milieu included writers on film theory and film music and while composing the FMI he was interested in film and its potential for the New Music. The most important conclusions are that the FMI is filmic music, Berg employed an editing style for his putative montage, the FMI\u2019s fictional film can be classified as a crime film, and the FMI at its premiere received more positive and neutral reviews than negative ones.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=3350&context=gradschool_dissertations"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Cinema and Media Studies",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 292,
+      "url": "https://openalex.org/W2749482827"
+    },
+    {
+      "openalex_id": "W2115526763",
+      "doi": "10.1017/s0960777300004641",
+      "title": "Ulbricht and the Intellectuals",
+      "authors": [
+        {
+          "name": "John Connelly",
+          "openalex_id": "A5108339072"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-11-01",
+      "abstract": "Khrushchev's secret speech of February 1956 threw the moral and political world of East Central Europe's intellectuals into turmoil. One of the most secure belief systems ever devised was suddenly revealed to be the ideological justification for crimes of a massive scale. Several generations of Communists groped for orientation, and radical change seemed inevitable. East Germany's intellectuals were no exception in their expectations and desires for change. Students of the GDR have always understood 1956 as one of formidable intellectual challenge to the Ulbricht regime, and the opening of SED and Stasi archives has strengthened this view, revealing an unrest that pervaded the ranks of students, writers, teachers, and much of the Party cadre.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Contemporary European History",
+        "type": "journal",
+        "issn": [
+          "0960-7773",
+          "1469-2171"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/05738F7FEEC91324D777C564DD5BCF08/S0960777300004641a.pdf/div-class-title-ulbricht-and-the-intellectuals-div.pdf"
+      },
+      "topics": [
+        "German History and Society",
+        "European history and politics",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W2115526763"
+    },
+    {
+      "openalex_id": "W2038568129",
+      "doi": "10.1080/1360481042000313545",
+      "title": "Recording industrial landscapes",
+      "authors": [
+        {
+          "name": "Anna L. Bowman",
+          "openalex_id": "A5001517015",
+          "orcid": "https://orcid.org/0000-0002-3287-1949",
+          "institutions": [
+            "IIT@MIT"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-12-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "City",
+        "type": "journal",
+        "issn": [
+          "1360-4813",
+          "1470-3629"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/1360481042000313545?download=true"
+      },
+      "topics": [
+        "Cultural Industries and Urban Development",
+        "Urban Planning and Governance",
+        "Global Urban Networks and Dynamics"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2038568129"
+    },
+    {
+      "openalex_id": "W642786814",
+      "doi": "10.31390/gradschool_disstheses.5446",
+      "title": "Musical Invention and Poetry in the Late Vocal Works of Anton Webern.",
+      "authors": [
+        {
+          "name": "Melanie Kronick",
+          "openalex_id": "A5098247451",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "From the time of his composition of Op. 23 (1933-34) until his death, Anton Webern composed a series of important twelve-tone vocal works whose texts are drawn exclusively from the poetry of Hildegard Jone. Yet Webern scholars typically ignore the texts of these works when analyzing the scores in which the poems are embedded. My discussion shows, however, that Webern made important musical choices as a result of the poetic content of his texts. While Jone's poems are plentiful in metaphors of natural phenomena and images from German romantic poetry, I argue that they are concerned as much with poetic interpretation and expression as with spring, flower, and sky. In fact, Webern's texts that seem most evocative of seasonal regeneration and fruition of plants can easily be read as meditations on artistic creativity. Thus, Webern's texts refer to the musical compositions of which they are a part: this self-reference deliberately calls attention to Webern's music as \"compositions-in-progress.\". The pieces I consider are those that most palpably demonstrate the self-referential aspects of Webern's late vocal music and are representative genres as well: the Klavierlied (Op. 23/1 and Op. 23/2), the orchestral Lied (Op. 29/2), the single-movement cantata (Op. 26), and the cantata chorus with soloist and orchestra (Op. 29/3). These works are closely examined in terms of their musico-poetic relations, and they are discussed within the contexts of Jone's literary concerns and of the intellectual friendship between poet and composer.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=6445&context=gradschool_disstheses"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Weber, Simmel, Sociological Theory",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W642786814"
+    },
+    {
+      "openalex_id": "W167388166",
+      "doi": null,
+      "title": "Overlapping montage: a comparative study of mainstream film and moving-image installations",
+      "authors": [
+        {
+          "name": "Orla Ryan",
+          "openalex_id": "A5086254850",
+          "orcid": "https://orcid.org/0000-0001-9276-8997"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "This dissertation develops a discussion on the need for a comparative approach to the study of film and moving- image installations. It addresses the lack of critical attention given to moving-image installations within film studies generally and academic teaching programmes in particular. The development of a comparative approach requires researching a number of interlinking and independent fields of study such as film studies, art history/criticism, photography, literary theory, critical theory, anthropology and philosophy. While arguing against traditional disciplinary boundaries, the discussion critiques the accepted articulations of current interdisciplinary approaches.&#13;\\n&#13;\\nThe dissertation discusses how an expanded field of comparative film studies needs to concern itself with both diachronic and synchronic axes, requiring a longer historical framework to analyse shifts in technologies of representation and related theories of subjectivity within particular capitalist formations. It is argued that this type of comparative model elaborates a more critically productive and conceptually expansive discussion of cultural products, whether they are mainstream film or moving-image installations. As such it aligns itself with an awareness of the political importance of history, memory and personal experience.&#13;\\n&#13;\\nThe theoretical ground for a comparative approach is developed through exploring montage and fragmentation. While articulating the significance of theories of fragmentation to discussions of modernity and modernism, the thesis foregrounds the significance of understanding all cultural production as \u00e2\u0080\u0098montages\u00e2\u0080\u0099 - as elaborations of a number of competing discourses, both when they are made and when they are read. A reconceptualization of montage as a dominant component in cultural meaning making moves away from montage as an aesthetics of form. Rather than understanding film and moving-image installations as rigidly delineated objects, they are explored through hybridity and overlap, for example through the multiple scopic regimes, which shape and form them. In this enterprise, the significance of an anthropological materialist\u00e2\u0080\u0099 approach to cinema and moving-image installations is articulated as a means of developing a critical cognitive engagement with our varied cultural and ever changing social environment.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Dublin City University Open Access Institutional Repository (Dublin City University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://doras.dcu.ie/18201/"
+      },
+      "topics": [
+        "Cinema and Media Studies",
+        "Cultural Industries and Urban Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W167388166"
+    },
+    {
+      "openalex_id": "W4230976223",
+      "doi": "10.1017/s0020859000000067",
+      "title": "Bibliography",
+      "authors": [
+        {
+          "name": "Abella n",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jose El",
+          "openalex_id": ""
+        },
+        {
+          "name": "Klaus Schroeder",
+          "openalex_id": ""
+        },
+        {
+          "name": "Mitarb",
+          "openalex_id": ""
+        },
+        {
+          "name": "Steffen Von",
+          "openalex_id": ""
+        },
+        {
+          "name": "Alisch",
+          "openalex_id": ""
+        },
+        {
+          "name": "Christina Bewley",
+          "openalex_id": ""
+        },
+        {
+          "name": "David Bewley",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-04-01",
+      "abstract": "During the Second Republic, Spanish philosophy reached a higher level than at any point since the Golden Age. This was attributable to a development that began with the generation",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BEA27BCA3D0798ECDD914573D6256897/S0020859000000067a.pdf/div-class-title-bibliography-div.pdf"
+      },
+      "topics": [
+        "World Wars: History, Literature, and Impact",
+        "Human auditory perception and evaluation",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W4230976223"
+    },
+    {
+      "openalex_id": "W7138899444",
+      "doi": "10.58698/stm-sjm.v74.40600",
+      "title": "The place and value of Middle Music",
+      "authors": [
+        {
+          "name": "Olle Edstr\u00f6m",
+          "openalex_id": "A5045051155"
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-11-30",
+      "abstract": "-",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Svensk tidskrift f\u00f6r musikforskning / Swedish Journal of Music Research",
+        "type": "journal",
+        "issn": [
+          "0081-9816",
+          "2002-021X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://publicera.kb.se/stm-sjm/article/download/40600/29512"
+      },
+      "topics": [
+        "Diverse Musicological Studies",
+        "Musicology and Musical Analysis",
+        "Diverse Music Education Insights"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7138899444"
+    },
+    {
+      "openalex_id": "W834874842",
+      "doi": null,
+      "title": "Values in life and literature : a comparative reading of the depiction of disintegration, insecurity and uncertainty in selected novels by Thomas Mann, William Faulkner and Thomas Pynchon",
+      "authors": [
+        {
+          "name": "Magdalena Friedericke Wilke",
+          "openalex_id": "A5041754717"
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-06-01",
+      "abstract": "The reading of selected literary texts in this thesis traces&#13;\\nthe changes from a divinely ordered world of stability&#13;\\n(Thomas Mann's Bud&lt;lenbrooks) to surroundings characterized&#13;\\nby insecurity (William Faulkner's The Sound and the Fury) to&#13;\\nan unstable environment giving rise to largely futile attempts&#13;\\nat finding answers to seemingly illogical questions&#13;\\n(Thomas Pynchon's The Crying of Lot 49). As a product of the&#13;\\naccelerated speed of technological progression and the information&#13;\\nrevolution in the twentieth century, man is more&#13;\\noften than not incapable of adjusting to changed circumstances&#13;\\nin a seemingly hostile environment. Indeed, instability&#13;\\nand unpredictability are external factors determining&#13;\\nthe sense of insecurity and uncertainty characterising&#13;\\nthe 'world' depicted in the literary texts under consideration.&#13;\\nFor this reason judicious use will be made of&#13;\\nphilosophical and psychoanalytical concepts, based, amongst&#13;\\nothers, on Nietzschean and Freudian theories, to explain the&#13;\\ndisintegration of families, the anguish experienced by individuals&#13;\\nor, indeed, the shifting identities informing the&#13;\\nportrayal of character in selected literary texts.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Unisa Institutional Repository (University of South Africa)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10500/16482"
+      },
+      "topics": [
+        "Literary Theory and Cultural Hermeneutics",
+        "Media, Communication, and Education",
+        "Themes in Literature Analysis"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W834874842"
+    }
+  ],
+  "count": 17,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/9789004260047_005
+[verify_paper.py] DOI verified: Memory, Modernity, Repetition: Walter Benjamin’s E...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/9789004260047_005"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/9789004260047_005",
+      "title": "Memory, Modernity, Repetition: Walter Benjamin\u2019s Ethico-Political History",
+      "authors": [
+        {
+          "family": "Chowdhury",
+          "given": "Aniruddha"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Post-deconstructive Subjectivity and History",
+      "volume": "",
+      "issue": "",
+      "page": "85-118",
+      "publisher": "BRILL",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/9789004260047_005"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

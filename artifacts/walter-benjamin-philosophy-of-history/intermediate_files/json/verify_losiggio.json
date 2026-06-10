@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.15304/AG.37.2.4171
+[verify_paper.py] DOI verified: El problema de la subjetividad en la obra de Walte...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.15304/AG.37.2.4171"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.15304/ag.37.2.4171",
+      "title": "El problema de la subjetividad en la obra de Walter Benjamin: consciencia y rememoraci\u00f3n",
+      "authors": [
+        {
+          "family": "Losiggio",
+          "given": "Daniela"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Agora: papeles de Filosof\u00eda",
+      "volume": "37",
+      "issue": "2",
+      "page": "",
+      "publisher": "Universidad de Santiago de Compostela",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.15304/ag.37.2.4171"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Benjamin Profane Uses of Theology Invisible Organo...' author=Khatib year=2019
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Benjamin Profane Uses of Theology Invisible Organon",
+    "author": "Khatib",
+    "year": 2019
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (27.2) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

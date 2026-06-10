@@ -1,0 +1,107 @@
+[s2_search.py] Searching Semantic Scholar: 'Benjamin Blanqui eternal recurrence nihilism profane' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 4/4 papers...
+[s2_search.py] Search complete: 4 papers found
+[s2_search.py] Cached results (cache key: s2_4b5b7554005f2b88)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Benjamin Blanqui eternal recurrence nihilism profane",
+  "results": [
+    {
+      "paperId": "2b062bfa80e430b549167299950763afb2a5608a",
+      "title": "Messianic Nihilism in Gothic Horror : Walter Benjamin with",
+      "authors": [
+        {
+          "name": "Mary",
+          "authorId": "2052828674"
+        },
+        {
+          "name": "Shelley",
+          "authorId": "119221016"
+        },
+        {
+          "name": "E. Poe",
+          "authorId": "118914842"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2b062bfa80e430b549167299950763afb2a5608a",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b061454a47f219de34da52977b7b26d24dd9c11e",
+      "title": "Messianic Nihilism in Gothic Horror: Walter Benjamin with Shelley and Poe",
+      "authors": [
+        {
+          "name": "Ursula de Leeuw",
+          "authorId": "134821178"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.26180/5C11D5E25B25A",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b061454a47f219de34da52977b7b26d24dd9c11e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d0c003557293be5654eaf091020f2b2e37af84ed",
+      "title": "\u201eDas Neue und Immergleiche\u201c. Benjamin, Nietzsche und die ewige Wiederkehr",
+      "authors": [
+        {
+          "name": "Marco Brusotti",
+          "authorId": "72631474"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1515/nietzstu-2017-0123",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d0c003557293be5654eaf091020f2b2e37af84ed",
+      "venue": "",
+      "journal": {
+        "name": "Nietzsche-Studien",
+        "pages": "254 - 283",
+        "volume": "46"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "080f41cdc8926a5767b6ad311caeb7e56fde876f",
+      "title": "Giorgio Agamben: A Critical Introduction",
+      "authors": [
+        {
+          "name": "Leland de la Durantaye",
+          "authorId": "82452873"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 148,
+      "doi": "10.5860/choice.47-1796",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/080f41cdc8926a5767b6ad311caeb7e56fde876f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

@@ -1,0 +1,918 @@
+[search_openalex.py] Searching OpenAlex: 'Raz-Krakotzkin Benjamin Scholem Zionism', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_a69b8ccf4e7438f3)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Raz-Krakotzkin Benjamin Scholem Zionism",
+  "results": [
+    {
+      "openalex_id": "W848602560",
+      "doi": null,
+      "title": "The clash of identities - discourse, politics, and morality in the exchange of letters between Hannah Arendt and Gershom Scholem",
+      "authors": [
+        {
+          "name": "D\u00e1vid Kaposi",
+          "openalex_id": "A5058633331",
+          "orcid": "https://orcid.org/0000-0001-9910-0172"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "A Doctoral Thesis. Submitted in partial fulfilment of the requirements for the award of Doctor of Philosophy of Loughborough University.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Loughborough University Institutional Repository (Loughborough University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.lboro.ac.uk/2134/13852"
+      },
+      "topics": [
+        "Language, Discourse, Communication Strategies",
+        "Rhetoric and Communication Studies",
+        "Russian Literature and Bakhtin Studies"
+      ],
+      "referenced_works_count": 201,
+      "url": "https://openalex.org/W848602560"
+    },
+    {
+      "openalex_id": "W4405742279",
+      "doi": "10.17131/milel.1576905",
+      "title": "The Concept of Time and the Future Perception of Zionism Based on the Messianic Doctrine: Forcing God into the Golden Age",
+      "authors": [
+        {
+          "name": "Semiha Karahan",
+          "openalex_id": "A5050377045",
+          "orcid": "https://orcid.org/0000-0002-5105-5736",
+          "institutions": [
+            "Istanbul University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-24",
+      "abstract": "The doctrine of the Messiah in Judaism is a fundamental tenet of faith and the central pillar of Jewish eschatology. The belief that the Messiah will come in the end times to deliver the Jewish people has profoundly influenced Jewish sociology, psychology, and politics. In Jewish theology, time is linear and limited to 6,000 years, which also corresponds to the Hebrew calendar. This concept of finite time, combined with Messianic belief, has shaped the Jewish perspective on history and instilled a deep significance in the calendar. The Hebrew calendar illuminates both the Jewish past and, through the Messianic doctrine, their anticipated future. Jews believe they once experienced a golden age under the Kingdom of David and will live through a similar golden age in the future with the arrival of the Messiah, a descendant of David. Throughout the diaspora, Jews have awaited the Messiah, placing their hopes in this promise. By the 19th century, Zionism emerged, offering Jews the promise of redemption. Taking on aspects of the Messiah's role, Zionism provided a path of salvation through immigration to Palestine and the establishment of a Jewish state. Except for Religious Zionism, Zionists generally avoided aligning their ideology with Messianic beliefs. However, Religious Zionism framed itself as part of the Messianic deliverance. As Zionism achieved its objectives in Palestine, Religious Zionism began to radicalize, giving rise to Messianic Zionism. Messianic Zionism is apocalyptic, militant, radical, Kabbalistic, war-oriented, and aims to accelerate the end by interpreting contemporary events as the fulfillment of prophecies. Radical Messianic Zionists, believing that all prophecies must be fulfilled by human action for the Davidic Messiah to arrive, use mystical calculations to assert that the end is near. As a result, they pressure the State of Israel to engage in bloodshed and initiate war, seeing these actions not as choices but as essential conditions for Messianic Zionism.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Milel ve nihal",
+        "type": "journal",
+        "issn": [
+          "1304-5482",
+          "2564-6478"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.17131/milel.1576905"
+      },
+      "topics": [
+        "Biblical Studies and Interpretation"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W4405742279"
+    },
+    {
+      "openalex_id": "W4319734509",
+      "doi": "10.1017/s0017816023000068",
+      "title": "How Jewish Orthodoxy Became a State: Isaac Breuer and the Invention of the Statist Theocracy",
+      "authors": [
+        {
+          "name": "Itamar Ben Ami",
+          "openalex_id": "A5021775235",
+          "institutions": [
+            "Hebrew University of Jerusalem"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "Abstract This article traces the incorporation of the modern state and the notion of sovereignty into Jewish Orthodox thought, culminating in the idea that the role of Orthodoxy is to establish a statist theocracy. Unlike narratives that emphasize the continuation of theocratic thought from ancient to modern Judaism on the one hand, and the relationship between religious Zionism and contemporary forms of Jewish theocracy on the other, my research reveals a fundamentally anti-Zionist, ultra-Orthodox layer in the doctrine of statist theocracy, through a novel reading of the early writings of one of the leaders of Agudath Israel, Isaac Breuer (1883\u20131946). During the 1920s, Breuer coined terms such as Gottesstaat and Torastaat , which informed broader theocratic discussions into the 1930s. The article examines the intellectual history of this discourse and the grammar of this doctrine, identifying in it ultra-Orthodox reasoning such as an aversion to secularism and modern nationalism, resistance to a redemptive, kookian philosophy of history, and adherence to the \u201cRule of Torah.\u201d",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Harvard Theological Review",
+        "type": "journal",
+        "issn": [
+          "0017-8160",
+          "1475-4517"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A49010B61AAFB7CA99074EF47D2D7FF/S0017816023000068a.pdf/div-class-title-how-jewish-orthodoxy-became-a-state-isaac-breuer-and-the-invention-of-the-statist-theocracy-div.pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Religion, Theology, History, Judaism, Christianity",
+        "Religion and Society Interactions"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W4319734509"
+    },
+    {
+      "openalex_id": "W4391924967",
+      "doi": "10.3390/rel15020250",
+      "title": "Back to Exile: Current Jewish Critiques of the Jewish State",
+      "authors": [
+        {
+          "name": "Elad Lapidot",
+          "openalex_id": "A5046305866",
+          "orcid": "https://orcid.org/0000-0002-8174-1139",
+          "institutions": [
+            "Universit\u00e9 de Lille"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-19",
+      "abstract": "This article reviews recent books by Jewish thinkers that critique the idea of a Jewish state from the perspective of Jewish exile. It outlines two main approaches. The first, secular approach, rejects the Jewish state in favor of a secular state, seeing Judaism itself as the problem, whether arising from biblical violence or collective identity. The second, post-secular approach, rejects the Jewish state as secular, and finds resources in Jewish tradition for an alternative political vision centered on exile, understood as resistance to sovereignty and violence. This article argues that Jewish opposition to the Jewish state aims to limit sovereignty, integrate Jews into the Middle East space, and recover an exilic Jewish tradition of social ethics and pluralism. The idea of exile thus provides resources for envisioning decolonization and coexistence in Israel\u2013Palestine.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/15/2/250/pdf?version=1708389636"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Middle East Politics and Society",
+        "Middle East and Rwanda Conflicts"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W4391924967"
+    },
+    {
+      "openalex_id": "W2896808031",
+      "doi": "10.14746/prt.2017.4.7",
+      "title": "W\u0119ze\u0142 palesty\u0144ski. \"Nowy antysemityzm\", islamofobia i pytanie o nie-islamofobiczn\u0105 Europ\u0119",
+      "authors": [
+        {
+          "name": "Monika Bobako",
+          "openalex_id": "A5031792301",
+          "orcid": "https://orcid.org/0000-0001-8509-8139"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-10-08",
+      "abstract": "Europejska historia dwudziestego wieku doprowadzi\u0142a do tego, \u017ce \u017bydzi i Arabowie, a tak\u017ce \u017cydzi i muzu\u0142manie, znale\u017ali si\u0119 w sytuacji konfliktu, kt\u00f3ry ma charakter zar\u00f3wno polityczny, jak i quasi-metafizyczny. Cele artyku\u0142u to analiza wp\u0142ywu, jaki konflikt ten wywar\u0142 na postrzeganie antysemityzmu i islamofobii, oraz pokazanie islamofobicznych implikacji dyskursu, w ramach kt\u00f3rego funkcjonuje kategoria \u201enowego antysemityzmu\u201d (zw\u0142aszcza w wariancie rozwijanym przez Alaina Finkielkrauta). G\u0142\u00f3wna teza tekstu g\u0142osi, \u017ce zar\u00f3wno walka przeciwko antysemityzmowi i islamofobii, jak i przeciwko \u0142\u0105cz\u0105cemu je w pewnych okoliczno\u015bciach mechanizmowi negatywnego sprz\u0119\u017cenia zwrotnego, wymaga nie tylko przeciwstawienia si\u0119 uprzedzeniom anty\u017cydowskim i antymuzu\u0142ma\u0144skim, ale tak\u017ce g\u0142\u0119bokiego, krytycznego przemy\u015blenia koncepcji europejsko\u015bci, kt\u00f3re le\u017c\u0105 u ich podstaw. Wed\u0142ug autorki dobrym punktem wyj\u015bcia mo\u017ce by\u0107 postkolonialne odczytanie \u017cydowskiej tradycji intelektualnej, proponowane m.in. przez Amnona Raz-Krakotzkina, kt\u00f3re skupia si\u0119 na figurze \u017byda mizrahijskiego.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Praktyka Teoretyczna",
+        "type": "journal",
+        "issn": [
+          "2081-8130"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://pressto.amu.edu.pl/index.php/prt/article/download/15226/14982"
+      },
+      "topics": [
+        "European Politics and Security",
+        "Central European Literary Studies",
+        "Polish-Jewish Holocaust Memory Studies"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W2896808031"
+    },
+    {
+      "openalex_id": "W4254958360",
+      "doi": "10.1215/00104124-2325086",
+      "title": "Introduction",
+      "authors": [
+        {
+          "name": "Michael Allan",
+          "openalex_id": "A5098315115"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-08-23",
+      "abstract": "T hiS SPecial iSSUe considers the place of religion and secularism in the field of literary study. The authors draw from anthropology, history, philosophy, and law, and all share in a common effort to take the category of religion seriously-not necessarily as a term with a fixed descriptive meaning, but as a category that nonetheless has implications for what we do when we read. The six essays trace the interactions of religion, literature, and secularism at distinct historical moments-ranging from early modern Spain to the nineteenth-century United States and interwar Germany and Palestine. They also chart how literature inflects the sensibilities, behaviors, and attitudes of readers. Spanning regions, languages, and methods, the issue bridges questions about reading secularism with critical reflections on the disciplines undergirding its textual traditions.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Comparative Literature",
+        "type": "journal",
+        "issn": [
+          "0010-4124",
+          "1945-8517"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/comparative-literature/article-pdf/65/3/257/399328/CLJ653_01Allan_Fpp.pdf"
+      },
+      "topics": [
+        "Religion and Society Interactions",
+        "Study and Philosophy of Religion"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W4254958360"
+    },
+    {
+      "openalex_id": "W4400524765",
+      "doi": "10.1080/2373566x.2024.2356800",
+      "title": "The Redemption of Berlin\u2019s Memory Landscapes: Yael Bartana\u2019s <i>Malka Germania</i>",
+      "authors": [
+        {
+          "name": "Adam Lundberg",
+          "openalex_id": "A5010155993",
+          "orcid": "https://orcid.org/0000-0002-5283-7246",
+          "institutions": [
+            "Uppsala University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-11",
+      "abstract": "This article delves into the work of contemporary visual artist Yael Bartana, focusing on her recent artwork, the monumental video work Malka Germania (2021). Amidst the constant struggle over politics, commemoration, and territoriality in Berlin's memory landscape, Bartana's art emerges as a critical and thought-provoking intervention. By leaning on interviews with the artist, observations from exhibitions, as well as a thorough analysis of the video work itself, I propose an interpretation of Malka Germania as a radical rethinking of Berlin's memory landscapes. I argue that the work not only reframes struggles over memory, but also materialises them as territorial struggles.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "GeoHumanities",
+        "type": "journal",
+        "issn": [
+          "2373-566X",
+          "2373-5678"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/2373566X.2024.2356800?needAccess=true"
+      },
+      "topics": [
+        "German Colonialism and Identity Studies",
+        "Literature and Cultural Memory",
+        "German History and Society"
+      ],
+      "referenced_works_count": 80,
+      "url": "https://openalex.org/W4400524765"
+    },
+    {
+      "openalex_id": "W4293059545",
+      "doi": "10.3390/rel13070601",
+      "title": "The Dialectics of Feeling: Hugo Bergman\u2019s and Gershom Scholem\u2019s Political Theologies of Zionism",
+      "authors": [
+        {
+          "name": "Orr Scharf",
+          "openalex_id": "A5069216316",
+          "orcid": "https://orcid.org/0000-0002-0520-7110",
+          "institutions": [
+            "University of Haifa"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-28",
+      "abstract": "The current article has several aims. First, it seeks to underscore the importance of Hugo Bergman\u2019s and Gershom Scholem\u2019s late critiques of Zionism, and to argue that they should be understood as politico-theological commentaries on the Israeli political reality in which they lived. Second, it argues for the relevance of approaching these critiques through the theoretical prism of political theology. Third, it aims to chart the overlaps and differences between the Bergmanesque and Scholemian theological interpretations of Zionism by charting their common premises and differences. I argue that the former derive from their shared view of Zionism as a religious project, and the latter derive from their arrival at polar conclusions: Bergman seeking a positive potential; Scholem identifying a destructive potential. Hence, their political theologies of Zionism are understood as a \u201cdialectic of feeling\u201d.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/13/7/601/pdf?version=1658475526"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Kierkegaardian Philosophy and Influence",
+        "Jewish and Middle Eastern Studies"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4293059545"
+    },
+    {
+      "openalex_id": "W4393246917",
+      "doi": null,
+      "title": "From the margins to the center : religious-nationalism in the Israeli-Palestinian conflict : a comparative approach",
+      "authors": [
+        {
+          "name": "Eran Tzidkiyahu",
+          "openalex_id": "A5076338639"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-13",
+      "abstract": "Cette th\u00e8se examine par une approche comparative le glissement parall\u00e8le op\u00e9r\u00e9 depuis les ann\u00e9es 1990 par les mouvements nationaux-religieux isra\u00e9lo-juif et palestinien-musulman, depuis les marges politiques et sociales vers le centre. Des deux c\u00f4t\u00e9s, l'opposition au processus de paix et aux compromis territoriaux et id\u00e9ologiques est \u00e0 la source de ce changement. Ce travail examine cette transformation, de ses racines historiques et id\u00e9ologiques jusqu'\u00e0 ses manifestations institutionnelles et politiques, par une analyse de son discours contemporain.Dans la premi\u00e8re partie du travail, le chapitre 1 \u00e9tablit une infrastructure th\u00e9orique sur le nationalisme religieux fort (SRN), une forme de nationalisme religieux dans laquelle les deux \u00e9l\u00e9ments sont \u00e9gaux, entrelac\u00e9s et interd\u00e9pendants. Dans le chapitre 2, la th\u00e9orie du SRN est appliqu\u00e9e au cas isra\u00e9lo-palestinien. Sont mis en \u00e9vidence \u00e0 la fois le r\u00f4le particulier du SRN dans le discours national dominant, et sa centralit\u00e9 dans le conflit.La deuxi\u00e8me partie traite du passage des marges vers l'h\u00e9g\u00e9monie \u00e0 travers le processus de politisation et d'institutionnalisation. Il comprend deux chapitres, l'un examinant le Hamas et l'autre le sionisme religieux, avec une r\u00e9f\u00e9rence comparative au chapitre pr\u00e9c\u00e9dent.La troisi\u00e8me partie illustre comment le SRN atteint l'h\u00e9g\u00e9monie par une dialectique de discours id\u00e9ologique. Le sionisme religieux et le Hamas ont tous deux r\u00e9ussi \u00e0 occuper le devant de la sc\u00e8ne en posant une vision id\u00e9ologique globale du monde, et ces visions interagissent. Les interlocuteurs \u00e9tudi\u00e9s sont des membres clerg\u00e9 nationaliste religieux juif et musulman, des intellectuels publics et des hommes politiques.",
+      "cited_by_count": 1,
+      "type": "preprint",
+      "source": {
+        "name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://theses.hal.science/tel-03592841/document"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4393246917"
+    },
+    {
+      "openalex_id": "W4231727129",
+      "doi": "10.1353/hbr.1999.0039",
+      "title": "Periodicals and Collected Essays",
+      "authors": [
+        {
+          "name": "David K. Marcus",
+          "openalex_id": "A5020498557",
+          "orcid": "https://orcid.org/0000-0001-5590-7142"
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-01-01",
+      "abstract": "PERIODICALS AND COLLECTED ESSAYS compiled by David Marcus MODERN HEBREW LITERATURE. Volumes 20-21 (l998). Part One: Dialogues Between Writers. Yoram Kaniuk and Etgar Keret, ''The Writing Probably Derives from Some Brain Defect in Us:' pp. 4-8; A. B. Yehoshua and Dorit Rabinyan, \"A Five-Part Interview with A. B. Yehoshua,\" pp. 9-13; Natan Zach and Nissim Calderon, \"Fragments,\" pp. 14-17; Uri Orlev and Nava Semel, \"Telling the Life Story of Death,\" pp. 18-23. Part Two: Fifty Years: Hebrew Literature Then and Now. Excerpts from stories, novels, and poems. . 1. \"Feel for the Landscape,\" pp. 23-29. Moshe Shamir, He Walked in the Fields; Nava Semel, Night Games; Nathan Yonathan, We Had It All; Hava Pinchas-Cohen, A Different Countenance. 2. \"Love:' pp. 30-35. Sholomo Nitzan, Togetherness; Tsruya Shalev, Love Life; T. Carmi, Our Youthful Laughter; Tamir Greenberg, On the Balcony. 3. \"Childhood,\" pp. 36~2. Nissim Aloni, Shmiel; !tamar Levy, Morgana. Morgana; Hezy Leskly, I'm Six Years Old. Out on a Walk with My Parents. Saturday Afternoon; Yehuda Amichai, When I was a Child. 4. \"Between the Kibbutz and the City,\" pp. 42~8. Aharon Megged, Moshaioff and Son; Dorit Abusch, Fallen Man; Ozer Rabin, The Kibbutz. Village-of-the-Heart; Ronit Leibermensh, Women Booze in Tel Aviv. 5. \"Holocaust,\" pp. 49-53. Yonat and Alexander Sened, Between the Living and the Dead; Etgar Keret, Shoes; Dvora Amir, Memory of a Description; Amir Gilboa, Isaac. 6. \"War,\" pp. 54-59. S. Yizhar, The Days ofZiklag; Gid Nevo, So Far; Haim Gouri, Prayer; Amir Or, Attention! 7. \"Immigrant Absorption,\" pp. 60-70. Hanoch Barlov, Each One Had Six Wings; Leah Aini, Image; Ben-Zion Tomer, Immigrant Housing; Eitan N. Glass, A Poem. 8. \"Social Critique,\" pp. 71-77. Benjamin Tammuz, The Life of Elyakum; Orly Castel-Bloom, Where am I; A. Hillel, The Banquet; Ronny Someck, Handcuffs. Street Poem. Plus an editorial by Gerson Shaked and nine book reviews. Hebrew Studies 40 (1999) 406 Periodicals and Collected Essays AGENDAS FOR THE STUDY OF MIDRASH IN THE TWENTY\u00b7 FIRST CENTURY. Marc Lee Raphael, ed. pp. 136. Williamsburg, VA: The College of William and Mary, 1999. Paper, $11.00. Alan T. Levenson, \"Agendas for the Study of Midrash in the TwentyFirst Century: Introduction,\" pp. 1-3; Steven D. Fraade, '''Comparative Midrash' Revisited: The Case of the Dead Sea Scrolls and Rabbinic Midrash,\" pp. 4-17; David J. Halperin, \"Origen and Seder Eliyahu: A Meeting of Midrashic Trajectories?\" pp. 1~2; Lewis M. Barth, \"Is Every Medieval Hebrew Manuscript a New Composition? The Case of Pirqe Rabbi Eliezer,\" pp. 43-62; Dvora E. Weisberg, \"Men Imagining Women Imagining God: Gender Issues in Classical Midrash,\" pp. 63-83; Marc Bregman, \"Seeing With the Sages: Midrash as Visualization in the Legends of the Aqedah,\" pp. 84-100; David H. Richter, \"Farewell, My Concubine: The Difficult, the Stubborn, and the Outrage of Gibeah,\" pp. 101-122; Alan T. Levenson, \"Christian Author, Jewish Book? Methods and Sources in Thomas Mann's Joseph,\" pp. 123-136. JEWISH STUDIES: JOURNAL OF THE WORLD UNION OF JEWISH STUDIES. Volume 38 (1998). English Section. The Centennial of the First Zionist Congress. Shmuel Noah Eisenstadt, \"Did Zionism Bring the Jews Back to History?\" pp. 9*30 *; Arthur Hertzberg, \"The Meaning of Zionism for the Diaspora,\" pp. 31*-42*; Israel Kolatt, \"Political Zionism and the Entrance of the Jews into History,\" pp. 43*-56*; Ekkehard Stegemann, \"The Sudden Appearance of the Jews in 'Secular History': Zionism and Christianity,\" pp. 57*-72*; Miroslav Hroch, \"Zionism as a European National Movement,\" pp. 73*-83*. Computers in Jewish Studies. Ellis Weinberger, \"Remote Access to the Cambridge Genizah Collections: Facsimiles and Subject-based Data,\" pp. 85*-89*. Hebrew Section. The Twelfth World Congress of Jewish Studies. Menachem Elon, \"Opening Remarks,\" pp. 7-13; Gershon Shaked, \"Jerusalem in Hebrew Literature,\" pp. 15-32; Eliezer Schweid, \"The State of the Jewish People 50 Years After the Holocaust and the Revival,\" pp. 33-39. Hebrew Studies 40 (1999) 407 Periodicals and Collected Essays The History ofJewish Studies and the Ideologies ofIts Founders. Moshe Idel, \"The Function of Symbols in G. G. Scholem,\" pp. 43-72; Amnon Raz-Krakotzkin, '''Without Regard for External Considerations'-The...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Hebrew studies",
+        "type": "journal",
+        "issn": [
+          "0146-4094",
+          "2158-1681"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American Jewish Fiction Analysis",
+        "Jewish and Middle Eastern Studies",
+        "Borges, Kipling, and Jewish Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4231727129"
+    },
+    {
+      "openalex_id": "W2735155470",
+      "doi": null,
+      "title": "Narrative and Belonging: The Politics of Ambiguity, The Jewish State, and the Thought of Edward Said and Hannah Arendt",
+      "authors": [
+        {
+          "name": "Jacob Bessen",
+          "openalex_id": "A5039878251"
+        },
+        {
+          "name": "Jacob Bessen",
+          "openalex_id": "A5039878251"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "At the core of this thesis, I examine the difficulties of giving an account of oneself in modern associational life. By integrating the theory and political activism of both Edward Said and Hannah Arendt, I follow the Zionist response to European antisemitism and the Palestinian responses to Jewish settler colonialism. Both parties struggle against their ambiguous presence within local and regional hegemonic social taxonomy, and within the world order. Contemporarily, this struggle takes place in the protracted conflict between Israeli and local Arab groups, which has been managed through violence and objectification, as opposed to allowing the dynamism and reconfiguration of political subjectivities. In their later writings, Arendt and Said respond to the violence and resentment that arises from the form of the nation-state by prescribing, and arguably practicing, an understanding of politics where the \u201cother\u201d is constitutive of the \u201cself.\u201d By seeing this relation of alternity as the contemporary heir to diasporic Judaism and Jewish cosmopolitanism, I argue that this project holds the historical traction to reinvigorate the future beyond static and growing violence and dispossession.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "HIMALAYA",
+        "type": "journal",
+        "issn": [
+          "1935-2212",
+          "2471-3716"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.macalester.edu/intlstudies_honors/23"
+      },
+      "topics": [
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2735155470"
+    },
+    {
+      "openalex_id": "W3120040644",
+      "doi": null,
+      "title": "Routes of Displacement: The Representation of Exile between Germany, Turkey, Palestine, and Israel",
+      "authors": [
+        {
+          "name": "Ethan Pack",
+          "openalex_id": "A5085404385"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This dissertation focuses on the figure of Jewish exile since the rise of Zionism. My research proposes a unique configuration of German, Turkish, Israeli, and Palestinian contexts, one that sheds new light on the challenge of representing minority subjectivity during moments of collective displacement. I argue that displacement is not only an experience, but also a structure of representation. My study begins by examining the representation of Jewish belonging at the turn of the century, when the German-Ottoman imperial alliance provided a potential framework for the immigration of European Jews to Palestine. The aesthetic possibilities that ultimately crystallize in Israeli and Palestinian literature, I assert, are inseparable from the imaginary of Jewish displacement in fin de si\u00ef\u00bf\u00bdcle Germany and Turkey. \\tGermany, Turkey, and Israel each occupy a space of intense critical focus in Comparative Literature. Beginning with Edward Said, scholars have called the discipline\u00e2\u0080\u0099s attention to a cohort of German-speaking Jewish academics who fled to Istanbul during the Nazi years. From this canonical moment in the emergence of Comparative Literature, Erich Auerbach\u00e2\u0080\u0099s composition of Mimesis: The Representation of Reality in Western Literature, and his work on Weltliteratur (or \u00e2\u0080\u009cworld literature\u00e2\u0080\u009d), have emerged as prominent models for the discipline\u00e2\u0080\u0099s self-conception. The achievements of German-Jewish intellectuals in Turkey would later reinforce notions of \u00e2\u0080\u009cexilic\u00e2\u0080\u009d critique as a practice of heroic opposition to nationalist chauvinism. \\tThese assessments could be enriched, however, by situating the very possibility of Auerbach in Istanbul within the political programs and cultural imaginaries that immediately preceded, and in fact enabled, the German-Jewish scholars\u00e2\u0080\u0099 remarkable refuge in Istanbul. My project begins the story of German-Jewish literature and aesthetics a generation earlier. I propose a comparative framework that juxtaposes the Zionist leader Theodor Herzl\u00e2\u0080\u0099s five visits to fin de si\u00ef\u00bf\u00bdcle Constantinople with the German-Jewish scholars, such as Erich Auerbach, who found refuge from the Nazis in Turkey a generation later. I assert that the very production of Mimesis is a vital part of the story of the representation of European Jewish exile \u00e2\u0080\u0093 perhaps inseparable from the story of Zionism in the early 20th century. Through close readings of Herzl\u00e2\u0080\u0099s wide- ranging corpus of literature, I conclude that this exilic position \u00e2\u0080\u0093 one who identifies with and yet (must) live beyond the settled location of the native \u00e2\u0080\u0093 was an irreducible feature of Herzl\u00e2\u0080\u0099s Zionism. Mimesis, as the re-presentation (making present, again, elsewhere) of European reality and subjectivity, becomes an essential analytical tool for understanding the relationship between Jewish belonging and exile.\\tMy dissertation then turns to literary works written in the aftermath of the 1948 partition of Palestine and creation of Israel. I discuss the portrayal of Palestinian exile by two of the most canonical Hebrew authors from the period, the poet Nathan Alterman and the novelist S. Yizhar. My readings explore changes in the representation of exile at the moment when its simultaneous creation and negation comes to define two national communities. The dissertation\u00e2\u0080\u0099s final chapter presents an original, comparative analysis of poetry written by Dahlia Ravikovich and Mahmoud Darwish. Through recourse to what I term the visionary prophetic modes of Hebrew and Arabic literature, these authors re-open the literary significations of exile to pre-modern traditions of Jewish and Islamic exegesis, liturgy, and history. I assert that their poetics \u00e2\u0080\u0093 attuned to the semiotic displacements between vision and text \u00e2\u0080\u0093 unravel the political discourses of national belonging generated by the failed partition of Israel and Palestine. These alternative modalities of representation re-envision the nature of belonging in a post-colonial world. I contend that the study of Israeli and Palestinian literature cannot be extricated from broader inquiries into the representation of migration and flight across Europe, North Africa, and the Middle East.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/9k44z6b0"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Literature and Cultural Memory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3120040644"
+    },
+    {
+      "openalex_id": "W4387100932",
+      "doi": "10.3390/rel14101239",
+      "title": "Like Giants Sitting on the Dwarf\u2019s Shoulders: Religious Anarchism and the Making of Modern Zionist Historiography",
+      "authors": [
+        {
+          "name": "Yossef Schwartz",
+          "openalex_id": "A5054390034",
+          "institutions": [
+            "Tel Aviv University",
+            "Schechter Institute of Jewish Studies"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-26",
+      "abstract": "German and Central European Jews shaped many primary Jewish responses to modernity. The religious renewal, or the alleged \u201cJewish Renaissance\u201d among German Jews in the first decades of the 20th century, offers a radical encounter with tradition as part of Jewish modernism. In this paper, I aim to examine a group of revolutionary young intellectual anarchists, striving for a new religious excitement free of the traditional binding part of established religions. In various forms, religiosity became the only possible way of radical political thinking, a kind of antinomian liberation theology. In the absence of traditional communal ties of orthodox praxis and systematic theological speculation, these political intellectuals turn to historical discourse as their leading theological super-structure. Their critique of modernism was merged into a nostalgic rethinking of pre-modern religious forms and cultural patterns. The Zionists among them contributed much to the ammunition of the sacred covenant of Land, Blood, disrespect toward any form of legal normativity, and solid messianic expectation. This fatal combination is responsible for many disturbing elements in the contemporary Israeli public sphere.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/14/10/1239/pdf?version=1695738106"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Jewish and Middle Eastern Studies",
+        "German legal, social, and political studies"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W4387100932"
+    },
+    {
+      "openalex_id": "W4410886733",
+      "doi": "10.5325/pir.2.2.0006",
+      "title": "\u201cEvery New Synagogue Is Both a Religious and a Security Fortress\u201d: Synagogues in Israeli Urban Internal Frontiers as Symbols of Sovereignty",
+      "authors": [
+        {
+          "name": "David Borabeck",
+          "openalex_id": "A5117770307",
+          "orcid": "https://orcid.org/0000-0002-3553-2459",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "Abstract This article focuses on synagogues in the urban internal frontier in Israel following the Nakba/1948 war. After the war, several initiations were held to demonstrate sovereignty in these urban spheres. Among these initiatives were the establishment of new synagogues by the Ministry of Religious Affairs. Two significant features were highlighted in these synagogues\u2014their architectural design and their location. Synagogues were built in monumental dimensions and located in locations where they would overshadow other religious buildings and extract Israeli surveillance over Palestinian presence and memory. The synagogues, as the communities that gathered around them, were harnessed into the Zionist colonial policy and served as national-sovereign agents. This phenomenon is demonstrated through spatial historical analysis of several urban frontiers, thus pointing out the implications of this shift in various contexts. These examples demonstrate the shift in the synagogue\u2019s role within Jewish society and theology\u2014from places of worship and longevity to the destroyed Temple to symbols of Jewish sovereignty. Additionally, these initiations shed light on the ambivalence of Religious-Zionist agents toward Mizrahi Jews, an ambivalence that shifted from viewing them as frontier communities to negating their religiosity as one that cannot be regarded as a proper Israeli religiosity.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Palestine/Israel Review",
+        "type": "journal",
+        "issn": [
+          "2834-4324",
+          "2834-4332"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://scholarlypublishingcollective.org/psup/pir/article-pdf/doi/10.5325/pir.2.2.0006/2276220/pir.2.2.0006.pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Middle East Politics and Society",
+        "Middle East and Rwanda Conflicts"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W4410886733"
+    },
+    {
+      "openalex_id": "W2943254627",
+      "doi": null,
+      "title": "Genealogies of Survival: Christianity, Judaism, Sovereignty",
+      "authors": [
+        {
+          "name": "Adam Y. Stern",
+          "openalex_id": "A5082875393",
+          "orcid": "https://orcid.org/0000-0002-7379-2905"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-03",
+      "abstract": "This dissertation attends to survival as a notion of critical historical urgency. It begins with the observation that survival is a foundational but largely unexamined theme within the field of Jewish Studies, arguing that the absence of sustained reflection on this question confirms the politics of a scholarly tradition that has frequently made \u201cJewish survival\u201d its defining project. Over the course of five chapters, it explores this problem by turning to canonical figures in modern Jewish thought: Hannah Arendt, Walter Benjamin, Franz Rosenzweig, and Sigmund Freud. In each case, its goal is to demonstrate that these writers\u2014so often taken to be exemplary Jewish voices of the discourse on Jewish survival\u2014actually inscribe the notion of survival within the theological-political and biopolitical history of Latin Christianity. Specifically, this study claims that modern, secular representations of survival perpetuate and expand upon older discussions concerning Christ\u2019s mystical body, his crucifixion and resurrection, as well as his subjectivity and sovereignty. At the same time, it continually returns to the issue of Jewish survival in order to show how it translates a parallel legacy of Christian interest in the mystical body of Israel. \\nBy making survival a matter of Jewish-Christian difference (or the Judeo-Christian), this dissertation also intervenes directly in contemporary debates about secularism, secularization, and the history of the comparative term \u201creligion.\u201d Following a scholarly tradition that has emerged from Jacques Derrida\u2019s work on globalatinization, it pays particular attention to the role of Latin Christianity in the globalization of these terms and divisions. Survival, this dissertation suggests, can act as a cipher for a set of transformations that do not offer an exit from Christianity so much as they extend and occlude its continuing dominance. In addition, the linguistic emphasis of the phrase globalatinization announces the final element of this inquiry into survival, which looks to the contingencies of translation as a way of particularizing a concept often taken to be a universal. This means that the genealogy of survival can only proceed as an investigation into the differences produced and disseminated through a history of translation, as it has made its way from Rome (Latin) to Europe (English, French, German) and to the United States (English). Against this background, this study narrates a broader story about how the language of survival, the figure of the survivor, and the image of Jewish survival have come to dominate the post-war period in Europe, America, and beyond.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:37944960"
+      },
+      "topics": [
+        "Religion and Society Interactions",
+        "Middle East Politics and Society",
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2943254627"
+    },
+    {
+      "openalex_id": "W2343629477",
+      "doi": "10.14263/2330-2976.1170",
+      "title": "Adding Insult to Injury: Zionist Cultural Colonialism. In response to Gish Amit\u2019s E\u1e33s libris: his\u1e6doryah shel gezel, shimur \u1e7fe-nikus ba-Sifriyah ha-le\u02bcumit bi-Yerushalayim (Ex Libris: Chronicles of Theft, Preservation, and Appropriating at the Jewish National Library). Yerushalayim: Mekhon \u1e7ean Lir bi-Yerushalayim, 2014. 220 p., 79 New Israeli Shekel. ISBN 9789650207069. [Hebrew]",
+      "authors": [
+        {
+          "name": "Zeev Gries",
+          "openalex_id": "A5025388754",
+          "institutions": [
+            "Ben-Gurion University of the Negev"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-04-26",
+      "abstract": "The review essay claims that no books plunder was initiated by the National and University Library in Jerusalem, neither with regard to the books of European Jewry found after World War II, nor with regard to the Palestinian books abandoned during the 1948 war, or the Yemenite Jewish books not claimed after their arrival as cargo without owners to Israel. The essay is a translated and annotated version of Zeev Gries's talk, given in Hebrew at a literary evening in the Van Leer Jerusalem Institute (February 12, 2015), on the occasion of the publication of Gish Amit's book.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Judaica librarianship",
+        "type": "journal",
+        "issn": [
+          "0739-5086",
+          "2330-2976"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ajlpublishing.org/index.php/jl/article/download/471/461"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Archaeological Research and Protection",
+        "Archaeology and Historical Studies"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2343629477"
+    },
+    {
+      "openalex_id": "W4408873912",
+      "doi": "10.70190/jq.i82.p130",
+      "title": "Beyond the Boundaries of \u201cThe Land of the Deer\u201d: R. Binyamin between Jewish and Arab Geographies, and the Critique of the Zionist- Colonial Connection",
+      "authors": [
+        {
+          "name": "Avi-ram Tzoreff",
+          "openalex_id": "A5074222931",
+          "orcid": "https://orcid.org/0000-0003-1099-3459"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-20",
+      "abstract": "Muhammad Roshan Akhtar, the editor of the English edition of the Palestinian newspaper Filastin, called for the establishment of an Arab federation, considering Jews to be an integral part of a political community whose territory sprawled \"from Basra to Jaffa.\"Akhtar's article met with an enthusiastic response from",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Jerusalem Quarterly",
+        "type": "journal",
+        "issn": [
+          "2521-9731",
+          "2521-974X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.palestine-studies.org/sites/default/files/jq-articles/Beyond%20the%20Boundaries%20of%20The%20Land%20of%20the%20Deer.pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4408873912"
+    },
+    {
+      "openalex_id": "W3105536911",
+      "doi": null,
+      "title": "Contemporary Mizrahi Authors and The Limits of the Postsecular \u201cMasorti\u201d Response to Jewish National Sovereignty",
+      "authors": [
+        {
+          "name": "Noa Bar",
+          "openalex_id": "A5055685716",
+          "orcid": "https://orcid.org/0000-0002-2993-6668"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This dissertation demonstrates how the work of three contemporary Mizrahi authors (Haviva Pedaya, Albert Swissa, and Dvir Tzur) challenges the postsecular framing of Mizrahi Jewish practice as masortiyut (\u201ctraditionism\u201d), which refers to the flexible form of Jewish observance associated with Arab-Jews in Israel/Palestine. Postsecular critics have mobilized this position to challenge the terms of Jewish national sovereignty. This study claims that, while these writers refuse \u201cmasortiyut\u201d as a coherent subject position, they extend certain of its challenges by reconsidering the interaction of the secular and the theological with regard to the nationalist narrative of return entailed in Shivat Tzion (\u201cthe return to Zion\u201d). By means of an allusive engagement with mystical texts, these authors reconceive of exile as a reparative condition rather than as a defective state. They replace a notion of static \u201creturn\u201d with a \u201cWandering East\u201d which potentially reorients the Jewish presence in the Middle East away from a relationship of strict identity with the geopolitical territory of Israel.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/9jn3m74j"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Jewish Identity and Society",
+        "Middle East Politics and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3105536911"
+    },
+    {
+      "openalex_id": "W1596770831",
+      "doi": "10.4000/yod.681",
+      "title": "La philosophie isra\u00e9lienne face \u00e0 la guerre",
+      "authors": [
+        {
+          "name": "Asher Salah",
+          "openalex_id": "A5109335316"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This essay examines the ways in which Israeli philosophy has approached the question of war. Because of the influence of the neo-Kantian pacifism on the first generation of Israeli philosophers, it is only in the aftermath of the 1982 Lebanon war that a punctual reflection on issues of military ethics develops (as for instance in Weiler\u2019s and Casher\u2019s thought). The problem of the peculiarity of Israel\u2019s wars, however, has been the focus of other Israel thinkers only in the light of the relationship between State and religion (as in Leibowitz and Margalit) as well as between the civil society and the political institutions (as in Adi Ophir). In conclusion and in spite of its unquestionable originality, Israeli philosophy differs from other Western intellectual traditions only in the fact that it has generally avoided the question of war at the expense of other issues perceived as more urgent.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Yod",
+        "type": "journal",
+        "issn": [
+          "0338-9316",
+          "2261-0200"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.openedition.org/yod/pdf/681"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Middle East Politics and Society",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W1596770831"
+    },
+    {
+      "openalex_id": "W2065860386",
+      "doi": "10.3917/rfsp.595.0895",
+      "title": "Dark times",
+      "authors": [
+        {
+          "name": "Enzo Traverso",
+          "openalex_id": "A5070721923",
+          "orcid": "https://orcid.org/0000-0001-7557-8235",
+          "institutions": [
+            "Princeton University",
+            "Institut d'Etudes Politiques de Paris"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-12-16",
+      "abstract": "R\u00e9sum\u00e9 Hannah Arendt d\u00e9couvre la politique en 1933, suite \u00e0 l \u2018av\u00e8nement du nazisme en Allemagne. Le point de d\u00e9part de sa pens\u00e9e politique est une r\u00e9flexion sur la figure du \u00ab paria \u00bb, qu \u2018elle interpr\u00e8te comme un \u00eatre humain sans droits et sans \u00c9tat ( stateless ). Pendant la guerre, cette r\u00e9flexion va nourrir sa th\u00e9orie du totalitarisme comme syst\u00e8me de pouvoir destructeur de la politique. \u00c0 partir des ann\u00e9es 1950, au centre de sa pens\u00e9e se trouve en revanche le concept d \u2018espace public, l \u2018antith\u00e8se du totalitarisme, qu \u2018elle d\u00e9finit en renouvelant la tradition du r\u00e9publicanisme atlantique. Cet article essaie de montrer la force et les limites d \u2018une pens\u00e9e politique \u00e9labor\u00e9e au prisme de la \u00ab question juive \u00bb : d \u2018une part, une conception de la politique comme sph\u00e8re de la visibilit\u00e9 et de la participation, antith\u00e8se de l \u2018\u00ab acosmisme \u00bb du paria ; d \u2018autre part, le refus de voir l \u2018oppression sociale comme un obstacle \u00e0 la construction d \u2018une notion r\u00e9publicaine de la citoyennet\u00e9.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Revue fran\u00e7aise de science politique",
+        "type": "journal",
+        "issn": [
+          "0035-2950",
+          "1950-6686"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cairn.info/load_pdf.php?ID_ARTICLE=RFSP_595_0895&download=1"
+      },
+      "topics": [
+        "Political and Social Issues",
+        "French Historical and Cultural Studies",
+        "Historical Studies and Socio-cultural Analysis"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2065860386"
+    },
+    {
+      "openalex_id": "W7131375420",
+      "doi": "10.22613/zfpp/12.2.12",
+      "title": "Migration als epistemische Figur",
+      "authors": [
+        {
+          "name": "Frederek Musall",
+          "openalex_id": "A5027034034"
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-02-06",
+      "abstract": "Der Aufsatz entwickelt Migration als epistemische Figur: als Denkform, in der Erkenntnis im \u00dcbergang entsteht. Ein Raster aus Exil, Migration, Diaspora und Dislokation beschreibt, wie Ort, Sprache, Zugeh\u00f6rigkeit und Verantwortung Wissensformen bedingen. J\u00fcdisches Denken dient als Resonanzraum, weil es sich an Schwellen zwischen Geographien, Sprachen, Textpraktiken und politischen Ordnungen ausbildet. Vielstimmigkeit erscheint dabei als epistemisches Verfahren: im Kommentar, im Streit, im Wiederlesen. Genealogische Lekt\u00fcren verfolgen diese Figur durch rabbinische Texttopologien, in denen Bindung nach dem Verlust des kultischen Zentrums in Auslegung \u00fcbergeht: Schrift wird zum Raum, Interpretation zur Praxis, Text zur Topologie. Mittelalterliche und fr\u00fchneuzeitliche Konstellationen zeigen Migration als Sprach- und \u00dcbersetzungsereignis: Begriffe wandern zwischen Hebr\u00e4isch, Arabisch und Latein, und mit jeder \u00dcbertragung verschieben sich die Grenzen des Denkbaren. Aufkl\u00e4rung und Moderne markieren Felder prek\u00e4rer Vermittlung, in denen Universalit\u00e4t, Partikularit\u00e4t und politische Zugeh\u00f6rigkeit einander unter Druck setzen; moderne Philosophie und rabbinische Stimmen profilieren daraus eine Ethik der Aufmerksamkeit, in der Fragilit\u00e4t zur Erkenntnisform wird. Die Shoah bildet eine kritische Schwelle von Sprache und Zeugenschaft. Sie radikalisiert die Frage nach Urteilskraft dort, wo \u00fcberlieferte Vokabulare besch\u00e4digt sind und Erinnerung ethischen Druck aus\u00fcbt: Sprechen bleibt notwendig und bleibt exponiert, weil jede Formgebung die Gewalt der Geschichte ber\u00fchrt. In der politischen Gegenwart erscheint Israel als Pr\u00fcfstein, an dem Schutz, Zugeh\u00f6rigkeit und universale Geltungsanspr\u00fcche kollidieren. \u00dcber diese Szenen hinweg wird Migration als Strukturprinzip von Erkenntnis und praktischer Vernunft sichtbar: Identit\u00e4t als relationale Passage, Autorit\u00e4t als ausgehandelte Wiederholung, Verantwortung als Vollzug. Ein Post-Scriptum nach dem 7. Oktober 2023 \u00f6ffnet die Frage \u201eWohin?\u201c erneut und pr\u00fcft die Figur unter Bedingungen prek\u00e4rer Sicherheit und umk\u00e4mpfter Zugeh\u00f6rigkeit.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Zeitschrift f\u00fcr Praktische Philosophie",
+        "type": "journal",
+        "issn": [
+          "2409-9961"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.praktische-philosophie.org/zfpp/article/download/705/579"
+      },
+      "topics": [
+        "German legal, social, and political studies",
+        "German Colonialism and Identity Studies",
+        "Religion, Theology, and Education"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7131375420"
+    },
+    {
+      "openalex_id": "W4406993107",
+      "doi": "10.1515/9781478093046-012",
+      "title": "BIBLIOGRAPHY",
+      "authors": [
+        {
+          "name": "Jennifer Lynn Kelly",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-12-31",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/9781478093046-012/pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4406993107"
+    },
+    {
+      "openalex_id": "W1767908553",
+      "doi": "10.3917/parde.044.0175",
+      "title": "\u00ab\u00a0The Same Soil, the Same People\u00a0\u00bb\u00a0?",
+      "authors": [
+        {
+          "name": "St\u00e9phane Dufoix",
+          "openalex_id": "A5028252931",
+          "orcid": "https://orcid.org/0000-0002-4938-3810",
+          "institutions": [
+            "Universit\u00e9 Paris Nanterre",
+            "Centre d\u2019histoire sociale des mondes contemporains"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-06-01",
+      "abstract": "et de quelque manire que ce soit, est interdite sauf accord pralable et crit de l'diteur, en dehors des cas prvus par la lgislation en vigueur en France. Il est prcis que son stockage dans une base de donnes est galement interdit.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Pard\u00e8s",
+        "type": "journal",
+        "issn": [
+          "0295-5652",
+          "2271-1880"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cairn.info/load_pdf.php?ID_ARTICLE=PARDE_044_0175&download=1"
+      },
+      "topics": [
+        "French Urban and Social Studies",
+        "Migration, Identity, and Health",
+        "Environmental law and policy"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W1767908553"
+    },
+    {
+      "openalex_id": "W2234137738",
+      "doi": "10.82308/17456",
+      "title": "Israeli warring foreign policy and the writing of identity: the case of Operation Cast Lead",
+      "authors": [
+        {
+          "name": "Fran\u00e7ois-Xavier Plasse-Couture",
+          "openalex_id": "A5066938316"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The purpose of the present thesis is to investigate how socially embeddedinterpretations of Israeli identity influence Israel's warring foreign policy towardsPalestinians and conversely, how this warring foreign policy contributes tosecuring and stabilizing the underlying identity narratives of the dominant Israelinational identity. Based on an interpretative Critical Discourse Analysis (CDA)framework which adopts a Foucauldian conceptualization of discourse as socialpractice, this thesis argues that today's dominant Israeli discourse of identityprovides the interpretative framework for enabling and legitimizing the formulationof a warring foreign policy. It further contends that this formulation is pivotal tothe cultural governance of the Israeli state by reproducing the dominant Israelipolitical identity and dismissing alternative Israeli and Jewish subjectivities. Thecase under study is the 2008 Gaza War, bearing the Israeli code name OperationCast Lead. Borrowing from a CDA maxim which insists that analysis should bemultimodal, this thesis takes the \u201caesthetic turn\u201d and provides a reading of theIsraeli film Waltz with Bashir (2008), showing how this popular cultural productionmay provide alternative critical discursive narratives about the Self and the Other,that may offer a challenge to war-as-policy.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship@McGill (McGill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.mcgill.ca/concern/theses/bg257j81x"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Middle East Politics and Society",
+        "Globalization and Cultural Identity"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W2234137738"
+    },
+    {
+      "openalex_id": "W2911859499",
+      "doi": null,
+      "title": "Dialogical Apologetics: Leo Baeck and the Task of Jewish Philosophy",
+      "authors": [
+        {
+          "name": "Yaniv Feller",
+          "openalex_id": "A5088887188",
+          "orcid": "https://orcid.org/0000-0002-7990-7531"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-01",
+      "abstract": "Leo Baeck (1873-1956) is widely regarded as a symbol of German Jewry. Though numerous institutions have been named after him, Baeck\u2019s writings are hardly read nowadays and he is not considered a source of inspiration for Jewish philosophy or a thinker of relevance for contemporary discussions. Moving away from earlier hagiographical accounts, this study argues for Baeck\u2019s ongoing significance for both Jewish thought and the study of religion more broadly. I contend that with Baeck we can think about Jewish philosophy not as a quest for authenticity, but as a process of coming to terms with the challenge of the other and developing new questions for one\u2019s own self-understanding. I term this process dialogical apologetics and show that Baeck is part of this long and important tradition in Jewish thought, which includes Josephus, Judah Halevi, and Nahmanides. Furthermore, Baeck\u2019s contribution to the study of religion lies in his writings on the concept of essence, a question central in his own time that is too often neglected in contemporary scholarly discussions. Baeck does not simply privilege the essence of Judaism over the essence of Christianity; instead, he changes the terms of the debate and rejects an understanding of essence as an unchanging core in favor of a developmental concept. Finally, Baeck identified the spiritual crisis of Protestantism early on in Weimar Republic, and vigorously rejected suggestions\u2014very much alive today\u2014to remove the Old Testament from the Christian canon. In his theopolitics, Baeck developed a scholarly and theological language to counter what he saw as the political dangers of Marcionite Christianity. Taken as a whole, this study therefore contributes not only to a better understanding of Baeck\u2019s thought, but also to a discussion about the tasks of Jewish philosophy and the study of religion.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "TSpace",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/994926d0-c107-4c53-9a62-9007e2d889f1/download"
+      },
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Biblical Studies and Interpretation",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 99,
+      "url": "https://openalex.org/W2911859499"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

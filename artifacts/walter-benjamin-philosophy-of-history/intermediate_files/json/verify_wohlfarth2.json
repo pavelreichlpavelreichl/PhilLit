@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Messianic Idea...' author=Wohlfarth
+[verify_paper.py] Paper found: Walter Benjamin and the Idea of a Technological Er... (score: 43.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Messianic Idea",
+    "author": "Wohlfarth"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/9789004334168_006",
+      "title": "Walter Benjamin and the Idea of a Technological Eros. A tentative reading of Zum Planetarium",
+      "authors": [
+        {
+          "family": "Wohlfarth",
+          "given": "Irving"
+        }
+      ],
+      "editors": [],
+      "year": 2002,
+      "container_title": "Perception and Experience in Modernity",
+      "volume": "",
+      "issue": "",
+      "page": "65-109",
+      "publisher": "BRILL",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1163/9789004334168_006",
+      "score": 43.409332
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

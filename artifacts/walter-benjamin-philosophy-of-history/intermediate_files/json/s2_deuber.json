@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Deuber-Mankowsky image happiness messianic power Cohen Benjamin Paul', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_ad57ec9fca378201)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Deuber-Mankowsky image happiness messianic power Cohen Benjamin Paul",
+  "results": [
+    {
+      "paperId": "01685c19a864eff6bf2bb95b702627e85642bcdd",
+      "title": "The Image of Happiness We Harbor: The Messianic Power of Weakness in Cohen, Benjamin, and Paul",
+      "authors": [
+        {
+          "name": "Astrid Deuber-Mankowsky",
+          "authorId": "1409506861"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": "10.1215/0094033X-2008-013",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/01685c19a864eff6bf2bb95b702627e85642bcdd",
+      "venue": "",
+      "journal": {
+        "name": "New German Critique",
+        "pages": "57-69",
+        "volume": "35"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

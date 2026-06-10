@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='On the Right Side of the Barricades Walter Benjami...' author=Raz-Krakotzkin year=2013
+[verify_paper.py] Paper found: “On the Right Side of the Barricades”: Walter Benj... (score: 112.7)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "On the Right Side of the Barricades Walter Benjamin Gershom Scholem Zionism",
+    "author": "Raz-Krakotzkin",
+    "year": 2013
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1215/00104124-2325140",
+      "title": "\u201cOn the Right Side of the Barricades\u201d: Walter Benjamin, Gershom Scholem, and Zionism",
+      "authors": [
+        {
+          "family": "Raz-Krakotzkin",
+          "given": "Amnon"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Comparative Literature",
+      "volume": "65",
+      "issue": "3",
+      "page": "363-381",
+      "publisher": "Duke University Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1215/00104124-2325140",
+      "score": 112.68471
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

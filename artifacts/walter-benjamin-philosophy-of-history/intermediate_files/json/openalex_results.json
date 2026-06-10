@@ -1,0 +1,1873 @@
+[search_openalex.py] Searching OpenAlex: 'Benjamin On the Concept of History' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_d477763d9fcb86ad)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Benjamin On the Concept of History",
+  "results": [
+    {
+      "openalex_id": "W2157853130",
+      "doi": "10.1080/02643290442000310",
+      "title": "The Brain's concepts: the role of the Sensory-motor system in conceptual knowledge",
+      "authors": [
+        {
+          "name": "Vittorio Gallese",
+          "openalex_id": "A5057046897",
+          "orcid": "https://orcid.org/0000-0003-4815-3607",
+          "institutions": [
+            "University of Parma"
+          ]
+        },
+        {
+          "name": "George Lakoff",
+          "openalex_id": "A5000829187",
+          "orcid": "https://orcid.org/0000-0002-8972-2856",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-11",
+      "abstract": "Concepts are the elementary units of reason and linguistic meaning. They are conventional and relatively stable. As such, they must somehow be the result of neural activity in the brain. The questions are: Where? and How? A common philosophical position is that all concepts-even concepts about action and perception-are symbolic and abstract, and therefore must be implemented outside the brain's sensory-motor system. We will argue against this position using (1) neuroscientific evidence; (2) results from neural computation; and (3) results about the nature of concepts from cognitive linguistics. We will propose that the sensory-motor system has the right kind of structure to characterise both sensory-motor and more abstract concepts. Central to this picture are the neural theory of language and the theory of cogs, according to which, brain structures in the sensory-motor regions are exploited to characterise the so-called \"abstract\" concepts that constitute the meanings of grammatical constructions and general inference patterns.",
+      "cited_by_count": 2693,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Neuropsychology",
+        "type": "journal",
+        "issn": [
+          "0264-3294",
+          "1464-0627"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt5tp6p0dv/qt5tp6p0dv.pdf?t=npqhfa"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Language, Metaphor, and Cognition",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 181,
+      "url": "https://openalex.org/W2157853130"
+    },
+    {
+      "openalex_id": "W2593901133",
+      "doi": "10.5281/zenodo.18178944",
+      "title": "Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism",
+      "authors": [
+        {
+          "name": "Jason W. Moore",
+          "openalex_id": "A5010995435",
+          "orcid": "https://orcid.org/0000-0002-7237-9895"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "(Uploaded by Plazi for the IPBES Invasive Alien Species Assessment) No abstract provided.",
+      "cited_by_count": 1823,
+      "type": "article",
+      "source": {
+        "name": "The Open Repository - Binghamton (Binghamton University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://orb.binghamton.edu/sociology_fac/1"
+      },
+      "topics": [
+        "American Environmental and Regional History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2593901133"
+    },
+    {
+      "openalex_id": "W77668098",
+      "doi": null,
+      "title": "Walter Benjamin: Selected Writings, Volume 4: On the Concept of History, Writings 1938-1940",
+      "authors": [
+        {
+          "name": "Howard Eiland",
+          "openalex_id": "A5011553311"
+        },
+        {
+          "name": "Michael R. Jennings",
+          "openalex_id": "A5049051360",
+          "orcid": "https://orcid.org/0000-0003-3270-0805"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": null,
+      "cited_by_count": 24,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W77668098"
+    },
+    {
+      "openalex_id": "W561604429",
+      "doi": "10.5860/choice.44-0872",
+      "title": "Fire alarm: reading Walter Benjamin's On the concept of history",
+      "authors": [
+        {
+          "name": "L\u00f6wy, Michael 1938-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Turner, Chris",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-10-01",
+      "abstract": "Revolutionary critic of the philosophy of progress, nostalgic of the past yet dreaming of the future, romantic partisan of materialism...Walter Benjamin is in every sense of the word an unclassifiable philosopher. His essay was written in a state of urgency, as he attempted to escape the Gestapo in 1940, before finally committing suicide. Michael Lowy argues that it remains one of the most important philosophical and political writings of the twentieth century, in this scrupulous, clear and fascinating examination. Looking in detail at Benjamin's celebrated but often mysterious text, and restoring the philosophical, theological and political context, Lowy highlights the complex relationship between redemption and revolution in Benjamin's philosophy of history.",
+      "cited_by_count": 328,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W561604429"
+    },
+    {
+      "openalex_id": "W3122420217",
+      "doi": "10.1016/j.jfineco.2005.10.007",
+      "title": "Firms\u2019 histories and their capital structures\u2606",
+      "authors": [
+        {
+          "name": "Ayla Kayhan",
+          "openalex_id": "A5083193614",
+          "institutions": [
+            "Louisiana State University"
+          ]
+        },
+        {
+          "name": "Sheridan Titman",
+          "openalex_id": "A5011644728",
+          "orcid": "https://orcid.org/0000-0002-0935-7394",
+          "institutions": [
+            "The University of Texas at Austin"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-09-13",
+      "abstract": null,
+      "cited_by_count": 833,
+      "type": "article",
+      "source": {
+        "name": "Journal of Financial Economics",
+        "type": "journal",
+        "issn": [
+          "0304-405X",
+          "1879-2774"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0304405X06001437"
+      },
+      "topics": [
+        "Corporate Finance and Governance",
+        "Banking stability, regulation, efficiency",
+        "Capital Investment and Risk Analysis"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W3122420217"
+    },
+    {
+      "openalex_id": "W1576773109",
+      "doi": "10.5860/choice.41-6013",
+      "title": "Service quality: research perspectives",
+      "authors": [],
+      "publication_year": 2004,
+      "publication_date": "2004-06-01",
+      "abstract": "Service Quality: Research Perspectives presents a comprehensive overview and analysis of the field and its research, including its growth, emerging trends, and debates. Authors Benjamin Schneider and Susan S. White cover the diverse conceptual and empirical approaches that characterize thinking and research on service quality, especially service delivery. It introduces the concept of service and the important ways service production can differ from goods production. It also presents a history of the concept of product quality and the emergence of concern for service quality",
+      "cited_by_count": 266,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Customer Service Quality and Loyalty"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1576773109"
+    },
+    {
+      "openalex_id": "W113345069",
+      "doi": "10.26530/oapen_626982",
+      "title": "Memory : Histories, Theories, Debates",
+      "authors": [
+        {
+          "name": "Susannah Radstone",
+          "openalex_id": "A5034596438",
+          "orcid": "https://orcid.org/0000-0002-1830-9917",
+          "institutions": [
+            "University of East London"
+          ]
+        },
+        {
+          "name": "Bill Schwarz",
+          "openalex_id": "A5039994117",
+          "institutions": [
+            "Universidad de Londres"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "The volume reconstructs the work of the great philosophical and literary figures of the last two centuries who recast the concept of memory and brought it into the forefront of the modernist and postmodernist imagination\u2014among them, Bergson, Halbwachs, Freud, Proust, Benjamin, Adorno, Derrida, and Deleuze. Drawing on recent advances in the sciences and in the humanities, the contributors address the question of how memory works, highlighting transactions between the interiority of subjective memory and the larger fields of public or collective memory.",
+      "cited_by_count": 250,
+      "type": "book",
+      "source": {
+        "name": "Fordham University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.26530/oapen_626982"
+      },
+      "topics": [
+        "Memory, Trauma, and Commemoration",
+        "South African History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W113345069"
+    },
+    {
+      "openalex_id": "W4211134764",
+      "doi": "10.1353/book.66748",
+      "title": "Memory Histories, Theories, Debates",
+      "authors": [],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "The volume reconstructs the work of the great philosophical and literary figures of the last two centuries who recast the concept of memory and brought it into the forefront of the modernist and postmodernist imagination\u2014among them, Bergson, Halbwachs, Freud, Proust, Benjamin, Adorno, Derrida, and Deleuze. Drawing on recent advances in the sciences and in the humanities, the contributors address the question of how memory works, highlighting transactions between the interiority of subjective memory and the larger fields of public or collective memory.",
+      "cited_by_count": 242,
+      "type": "book",
+      "source": {
+        "name": "Fordham University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1353/book.66748"
+      },
+      "topics": [
+        "Educator Training and Historical Pedagogy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4211134764"
+    },
+    {
+      "openalex_id": "W4300999981",
+      "doi": "10.1515/9780804764070",
+      "title": "Potentialities",
+      "authors": [
+        {
+          "name": "Giorgio Agamben",
+          "openalex_id": "A5002043944"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "This book collects fifteen major philosophical essays written over a period of more than twenty years by acclaimed Italian philosopher Giorgio Agamben. The volume opens with an introduction in which the editor situates Agamben's work with respect to both the history of philosophy and contemporary European thought. The essays that follow articulate a series of theoretical confrontations with privileged figures in the history of philosophy, politics, and criticism, from Plato to Spinoza, Aristotle to Deleuze, Carl Schmitt to Benjamin, Hegel to Aby Warburg, and Heidegger to Derrida. Three fundamental concepts organize the collection as a whole: language, in the sense not of particular statements but rather the very taking place of speech, the pure fact of language's existence; history, as it appears from a perspective in which tradition, transmission, and memory reach their messianic fulfillment; and potentiality, understood as a fundamental problem of metaphysics, ethics, and the philosophy of language. All these topics converge in the final part of the book, in which Agamben offers an extensive reading of Melville's short story \"Bartleby the Scrivener\" as a work that puts potentiality and actuality, possibility and reality, in an altogether new light.",
+      "cited_by_count": 341,
+      "type": "book",
+      "source": {
+        "name": "Stanford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Hannah Arendt's Political Philosophy",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4300999981"
+    },
+    {
+      "openalex_id": "W568263534",
+      "doi": "10.5860/choice.42-0820",
+      "title": "The Cambridge companion to Walter Benjamin",
+      "authors": [],
+      "publication_year": 2004,
+      "publication_date": "2004-10-01",
+      "abstract": "List of contributors List of abbreviations and short titles Chronology Introduction: reading Benjamin David S. Ferris 1. Walter Benjamin and the European avant-garde Michael Jennings 2. Art forms Jan Mieszkowski 3. Language and mimesis in Walter Benjamin's work Beatrice Hanssen 4. Walter Benjamin's concept of cultural history Howard Caygill 5. Benjamin's modernity Andrew Benjamin 6. Benjamin and psychoanalysis Sarah Ley Roff 7. Benjamin and the ambiguities of Romanticism Rebecca Comay 8. Body politics: Benjamin's dialectical materialism between Brecht and the Frankfurt School Rainer Nagele 9. Method and time: Benjamin's dialectical images Max Pensky 10. Benjamin's phantasmagoria: the Arcades Project Margaret Cohen 11. Acts of self-portraiture: Benjamin's confessional and literary writings Gerhard Richter Guide to further reading Index.",
+      "cited_by_count": 60,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Literature, Culture, and Criticism",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W568263534"
+    },
+    {
+      "openalex_id": "W248472135",
+      "doi": "10.1080/09672567.2016.1192842",
+      "title": "Secular stagnation: The history of a macroeconomic heresy",
+      "authors": [
+        {
+          "name": "Roger E. Backhouse",
+          "openalex_id": "A5068970882",
+          "orcid": "https://orcid.org/0000-0003-2393-6517",
+          "institutions": [
+            "Russian State Agrarian Correspondence University"
+          ]
+        },
+        {
+          "name": "Mauro Boianovsky",
+          "openalex_id": "A5053707111",
+          "orcid": "https://orcid.org/0000-0002-6874-7624",
+          "institutions": [
+            "Universidade de Bras\u00edlia",
+            "Russian State Agrarian Correspondence University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-02",
+      "abstract": "The paper presents a history of the concept of \u201csecular stagnation\u201d, from Alvin Hansen in the 1930s and 1940s to its recent revival by Larry Summers. We examine Hansen's ideas and those of young economists associated with him, notably Evsey Domar, Everett Hagen, Benjamin Higgins, Alan Sweezy, and Paul Samuelson, who were the economists who kept the doctrine alive in the 1950s and to whom Summers and others taking up the idea recently turned. Their ideas are contrasted with the theories of stagnation associated with Josef Steindl and Joseph Schumpeter. It is a label for a historical thesis about the American economy, which, initially seen as distinct from Keynes General Theory, came to be seen as a theoretical proposition based on Keynesian theory. It is argued that the idea of secular stagnation had a political dimension, connected to the New Deal and the Cold War and changing conceptions of economic maturity.",
+      "cited_by_count": 109,
+      "type": "article",
+      "source": {
+        "name": "European Journal of the History of Economic Thought",
+        "type": "journal",
+        "issn": [
+          "0967-2567",
+          "1469-5936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09672567.2016.1192842?needAccess=true"
+      },
+      "topics": [
+        "Economic Theory and Policy",
+        "Economic Theory and Institutions",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 129,
+      "url": "https://openalex.org/W248472135"
+    },
+    {
+      "openalex_id": "W2039426677",
+      "doi": "10.1598/rrq.44.4.7",
+      "title": "Literacy and Identity: Examining the Metaphors in History and Contemporary Research",
+      "authors": [
+        {
+          "name": "Elizabeth Birr Moje",
+          "openalex_id": "A5013350199",
+          "orcid": "https://orcid.org/0000-0001-5813-8078",
+          "institutions": [
+            "Queensland University of Technology",
+            "University of Michigan",
+            "Michigan United"
+          ]
+        },
+        {
+          "name": "Allan Luke",
+          "openalex_id": "A5113464784",
+          "institutions": [
+            "Queensland University of Technology",
+            "University of Michigan"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-10-01",
+      "abstract": "ABSTRACT In this review, the authors interrogate the recent identity turn in literacy studies by asking, How do particular views of identity shape how researchers think about literacy and, conversely, how does the view of literacy taken by a researcher shape meanings made about identity? To address this question, the authors review various ways of conceptualizing identity by using five metaphors for identity documented in the identity literature: Identity as (a) difference, (b) sense of self/subjectivity, (c) mind or consciousness, (d) narrative, and (e) position. Few literacy studies acknowledge this range of perspectives on and views for conceptualizing identity, and yet, subtle differences in identity theories have widely different implications for how one thinks about both how literacy matters to identity and how identity matters to literacy. They offer this review to encourage more theorizing of both literacy and identity as social practices and, most important, of how the two breathe life into each other. \u062a\u0644\u062e\u064a\u0635 \u0627\u0644\u0628\u062d\u062b:\u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629 \u064a\u0633\u062a\u062c\u0648\u0628 \u0627\u0644\u0645\u0624\u0644\u0641\u0648\u0646 \u0627\u0646\u0639\u0637\u0627\u0641 \u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u0645\u0624\u062e\u0631 \u0641\u064a \u062f\u0631\u0627\u0633\u0627\u062a \u062a\u0639\u0644\u064a\u0645 \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0628\u0637\u0631\u062d \u0627\u0644\u0633\u0624\u0627\u0644: \u0643\u064a\u0641 \u062a\u0634\u0643\u0644 \u0648\u062c\u0647\u0627\u062a \u0646\u0638\u0631 \u0645\u0639\u064a\u0646\u0629 \u0645\u0646 \u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u064a \u064a\u0641\u0643\u0631 \u0641\u064a\u0647\u0627 \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0639\u0646 \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0648\u0639\u0644\u0649 \u0646\u0642\u064a\u0636 \u0645\u0646 \u0630\u0644\u0643\u060c \u0643\u064a\u0641 \u062a\u0634\u0643\u0644 \u0648\u062c\u0647\u0629 \u0627\u0644\u0646\u0638\u0631 \u0647\u0630\u0647 \u0645\u0646 \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0627\u0644\u0645\u0623\u062e\u0648\u0630\u0629 \u0645\u0646 \u0628\u0627\u062d\u062b \u0645\u0627 \u0627\u0644\u0645\u0639\u0627\u0646\u064a \u0639\u0646 \u0627\u0644\u0647\u0648\u064a\u0629. \u0648\u0645\u0646 \u0623\u062c\u0644 \u0645\u0639\u0627\u0644\u062c\u0629 \u0647\u0630\u0627 \u0627\u0644\u0633\u0624\u0627\u0644\u060c \u064a\u0631\u0627\u062c\u0639 \u0627\u0644\u0645\u0624\u0644\u0641\u0648\u0646 \u0637\u0631\u0642\u0627\u064b \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u062a\u0635\u0648\u0631 \u0627\u0644\u0647\u0648\u064a\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u062e\u0645\u0633\u0629 \u062a\u0639\u0627\u0628\u064a\u0631 \u0645\u062c\u0627\u0632\u064a\u0629 \u0644\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u0645\u0633\u062c\u0644\u0629 \u0641\u064a \u0623\u062f\u0628 \u0627\u0644\u0647\u0648\u064a\u0629 \u0648\u0647\u064a: \u0627\u0644\u0647\u0648\u064a\u0629 \u0643\u0640 (\u0627) \u0627\u0644\u0627\u062e\u062a\u0644\u0627\u0641 \u0648(\u0628) \u062d\u0627\u0633\u0629 \u0627\u0644\u0646\u0641\u0633/\u0627\u0644\u0645\u0648\u0636\u0648\u0639\u064a\u0629 \u0648(\u062c) \u0627\u0644\u0630\u0647\u0646 \u0623\u0648 \u0627\u0644\u0648\u0639\u064a \u0648(\u062f) \u0627\u0644\u0646\u062b\u0631 \u0648(\u064a) \u0627\u0644\u0645\u0648\u0642\u0641. \u0648\u064a\u0639\u062a\u0631\u0641 \u0642\u0644\u064a\u0644 \u0645\u0646 \u062f\u0631\u0627\u0633\u0627\u062a \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0628\u0645\u062f\u0649 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u062a\u0638\u0631 \u0639\u0646 \u062a\u0635\u0648\u0631 \u0627\u0644\u0647\u0648\u064a\u0629 \u0648\u0645\u0639 \u0630\u0644\u0643 \u0641\u0623\u0646 \u0627\u062e\u062a\u0644\u0627\u0641\u0627\u062a \u062f\u0642\u064a\u0642\u0629 \u0641\u064a \u0646\u0638\u0631\u064a\u0627\u062a \u0647\u0648\u064a\u0629 \u0644\u0647\u0627 \u0623\u0639\u0642\u0627\u0628 \u0645\u062e\u062a\u0644\u0641\u0629 \u0628\u0634\u0623\u0646 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u064a \u064a\u0641\u0643\u0631 \u0627\u0644\u0645\u0631\u0621 \u0641\u064a\u0647\u0627 \u0639\u0646 \u0623\u0647\u0645\u064a\u0629 \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0644\u0644\u0647\u0648\u064a\u0629 \u0648\u0627\u0644\u0639\u0643\u0633 \u0623\u064a \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0647\u0648\u064a\u0629 \u0644\u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629. \u0648\u064a\u0642\u062f\u0645\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629 \u0644\u062a\u0634\u062c\u064a\u0639 \u062a\u0646\u0638\u064a\u0631 \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0648\u0627\u0644\u0647\u0648\u064a\u0629 \u0643\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0623\u0647\u0645 \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u064a \u064a\u064f\u0646\u064e\u0641\u0651\u0650\u0633 \u0641\u064a\u0647\u0627 \u0643\u0644\u0627\u0647\u0645\u0627 \u0627\u0644\u062d\u064a\u0627\u0629 \u0641\u064a \u0627\u0644\u0622\u062e\u0631. \u5728\u672c\u8bc4\u8bba\u4e2d\uff0c\u4f5c\u8005\u5c31\u8fd1\u4eca\u8bfb\u5199\u6587\u5316\u7814\u7a76\u4e2d\u4e4b\u8eab\u4efd\u8ba4\u540c\u8f6c\u5411\u73b0\u8c61\u63d0\u51fa\u4ee5\u4e0b\u4e24\u4e2a\u95ee\u9898\uff1a\u67d0\u4e9b\u7279\u6b8a\u7684\u8eab\u4efd\u8ba4\u540c\u89c2\u70b9\u5982\u4f55\u5851\u9020\u7814\u7a76\u4eba\u5458\u5bf9\u8bfb\u5199\u6587\u5316\u7684\u60f3\u6cd5\uff1f\u53cd\u8fc7\u6765\u8bf4\uff0c\u7814\u7a76\u4eba\u5458\u5bf9\u8bfb\u5199\u6587\u5316\u6240\u6301\u7684\u89c2\u70b9\u53c8\u5982\u4f55\u5851\u9020\u8eab\u4efd\u8ba4\u540c\u7684\u610f\u4e49\uff1f\u4e3a\u56de\u7b54\u8fd9\u4e24\u4e2a\u95ee\u9898\uff0c\u4f5c\u8005\u63a2\u7a76\u6709\u5173\u8eab\u4efd\u8ba4\u540c\u7684\u6587\u732e\uff0c\u5e76\u4f7f\u7528\u4e94\u79cd\u9690\u55bb\u6765\u5f52\u7eb3\u51fa\u6587\u732e\u4e2d\u4e94\u79cd\u8eab\u4efd\u8ba4\u540c\u6982\u5ff5\u5316\u7684\u65b9\u5f0f\uff1a\u8eab\u4efd\u8ba4\u540c\u5c31\u662f\uff1a\u5dee\u5f02\u3001\u81ea\u6211\u2215\u4e3b\u4f53\u611f\u89c9\u3001\u610f\u6216\u610f\u8bc6\u3001\u53d9\u8ff0\u3001\u5b9a\u4f4d\u3002\u5f88\u5c11\u6709\u5173\u8bfb\u5199\u6587\u5316\u7684\u7814\u7a76\u627f\u8ba4\u6709\u8fd9\u4e00\u7cfb\u5217\u7684\u8eab\u4efd\u8ba4\u540c\u89c2\u70b9\u53ca\u8eab\u4efd\u8ba4\u540c\u6982\u5ff5\u5316\u7684\u770b\u6cd5\u3002\u7136\u800c\uff0c\u5404\u8eab\u4efd\u8ba4\u540c\u7406\u8bba\u4e4b\u95f4\u7684\u5fae\u5999\u5dee\u5f02\uff0c\u5374\u5bf9\u6211\u4eec\u8003\u91cf\u8bfb\u5199\u6587\u5316\u4e0e\u8eab\u4efd\u8ba4\u540c\u5bf9\u5f7c\u6b64\u4e4b\u91cd\u8981\u6027\u8fd9\u4e9b\u95ee\u9898\u4e0a\u5e26\u6765\u6781\u4e0d\u4e00\u6837\u7684\u542f\u793a\u3002\u672c\u8bc4\u8bba\u65e8\u5728\u9f13\u52b1\u66f4\u591a\u6709\u5173\u89c6\u8bfb\u5199\u6587\u5316\u4e0e\u8eab\u4efd\u8ba4\u540c\u4e3a\u793e\u4f1a\u5b9e\u8df5\u7684\u7406\u8bba\u7814\u7a76\uff0c\u5c24\u5176\u81f3\u4e3a\u91cd\u8981\u7684\uff0c\u662f\u6709\u5173\u8fd9\u4e24\u8005\u5982\u4f55\u4e3a\u5f7c\u6b64\u8d4b\u4e88\u751f\u673a\u7684\u7406\u8bba\u7814\u7a76\u3002 Dans cette revue de question, les auteurs examinent le r\u00e9cent changement d'identit\u00e9 dans les \u00e9tudes de litt\u00e9ratie en se demandant comment des conceptions particuli\u00e8res de l'identit\u00e9 fa\u00e7onnent la fa\u00e7on dont les chercheurs consid\u00e8rent l'identit\u00e9 et, r\u00e9ciproquement, comment la conception de la litt\u00e9ratie qu'adopte un chercheur fa\u00e7onne la fa\u00e7on dont il con\u00e7oit l'identit\u00e9. Pour traiter cette question, les auteurs passent en revue diff\u00e9rentes fa\u00e7ons de conceptualiser l'identit\u00e9 en utilisant cinq m\u00e9taphores de l'identit\u00e9 que l'on peut trouver dans la litt\u00e9rature sur l'identit\u00e9: l'identit\u00e9 comme (a) diff\u00e9rence, (b) sentiment de soi/subjectivit\u00e9, (c) esprit ou conscience, (d) narration, et (e) position. Quelques \u00e9tudes de litt\u00e9ratie reconnaissent cet ensemble de perspectives et de fa\u00e7ons de concevoir l'identit\u00e9, et cependant de subtiles diff\u00e9rences dans les th\u00e9ories de l'identit\u00e9 ont d'importantes cons\u00e9quences sur la fa\u00e7on dont on consid\u00e8re \u00e0 la fois de quelle fa\u00e7on la litt\u00e9ratie importe \u00e0 l'identit\u00e9 et la fa\u00e7on dont l'identit\u00e9 importe \u00e0 la litt\u00e9ratie. Les auteurs pr\u00e9sentent cette revue afin d'inciter \u00e0 plus de th\u00e9orisations \u00e0 la fois de la litt\u00e9ratie et de l'identit\u00e9 comme pratiques sociales et, ce qui est le plus important, de quelle fa\u00e7on l'une et l'autre se nourrissent l'une de l'autre. \u0410\u0432\u0442\u043e\u0440\u043e\u0432 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0437\u043e\u0440\u0430 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u044e\u0442 \u043d\u0430\u043c\u0435\u0442\u0438\u0432\u0448\u0438\u0435\u0441\u044f \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0432 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438, \u0430 \u0438\u043c\u0435\u043d\u043d\u043e \u2013 \u043f\u043e\u0432\u043e\u0440\u043e\u0442 \u043a \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u043c \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438. \u041e\u043d\u0438 \u0437\u0430\u0434\u0430\u044e\u0442\u0441\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c\u0438: \u041a\u0430\u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0431 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u0444\u043e\u0440\u043c\u0438\u0440\u0443\u044e\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u043e \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438? \u0418, \u043d\u0430\u043e\u0431\u043e\u0440\u043e\u0442, \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u043e\u0433\u043e \u0438\u043b\u0438 \u0438\u043d\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u043e \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442 \u0435\u0433\u043e \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438? \u0427\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0441 \u044d\u0442\u0438\u043c\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c\u0438, \u0430\u0432\u0442\u043e\u0440\u044b \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u043f\u0443\u0442\u0438 \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043f\u044f\u0442\u0438 \u043c\u0435\u0442\u0430\u0444\u043e\u0440, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0432 \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438, \u0430 \u0438\u043c\u0435\u043d\u043d\u043e: \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u043a\u0430\u043a (\u0430) \u0438\u043d\u0430\u043a\u043e\u0441\u0442\u044c, (\u0431) \u043e\u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0441\u0430\u043c\u043e\u0441\u0442\u0438/ \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438, (\u0432) \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0438\u043b\u0438 \u0440\u0430\u0437\u0443\u043c, (\u0433) \u043d\u0430\u0440\u0440\u0430\u0442\u0438\u0432, (\u0434) \u043f\u043e\u0437\u0438\u0446\u0438\u044f. \u041b\u0438\u0448\u044c \u0432 \u043d\u0435\u043c\u043d\u043e\u0433\u0438\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u0437\u043d\u0430\u0435\u0442\u0441\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0435 \u044d\u0442\u043e\u0433\u043e \u043d\u0430\u0431\u043e\u0440\u0430 \u0440\u0430\u043a\u0443\u0440\u0441\u043e\u0432 \u0434\u043b\u044f \u043e\u0441\u043c\u044b\u0441\u043b\u0435\u043d\u0438\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0434\u0430\u0436\u0435 \u0432\u0435\u0441\u044c\u043c\u0430 \u0442\u043e\u043d\u043a\u0438\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u0438\u044f \u0432 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u043e\u0431 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u0432\u043b\u0438\u044f\u044e\u0442 \u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e \u0432\u0437\u0430\u0438\u043c\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f\u0445 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438. \u0426\u0435\u043b\u044c \u0441\u0442\u0430\u0442\u044c\u0438 \u2013 \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0430\u0432\u0442\u043e\u0440\u043e\u0432\u2010\u0442\u0435\u043e\u0440\u0435\u0442\u0438\u043a\u043e\u0432 \u043a \u044d\u0442\u043e\u0439 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0445 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430\u043c \u0438, \u0447\u0442\u043e \u0441\u0430\u043c\u043e\u0435 \u0432\u0430\u0436\u043d\u043e\u0435, \u0438\u0445 \u0432\u0437\u0430\u0438\u043c\u043e\u043e\u0431\u0443\u0441\u043b\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438. En esta rese\u00f1a, los autores cuestionan el reciente giro hacia la identidad en los estudios de competencias pregunt\u00e1ndose c\u00f3mo es que las perspectivas individuales de identidad afectan la forma en que los investigadores piensan sobre el aprendizaje y, a la inversa, c\u00f3mo es el sentido de la identidad afectado por la perspectiva que los investigadores adoptan sobre el aprendizaje. Para contestar esta pregunta, los autores repasan varias maneras de conceptualizar la identidad usando cinco met\u00e1foras que han sido documentadas en la literatura sobre la identidad: La identidad como (a) diferencia, (b) el sentido del ser/la subjetividad, (c) la mente o el estar consciente, (d) la narrativa, y (e) la posici\u00f3n. Pocos estudios literarios reconocen esta gama de perspectivas sobre el concepto de la identidad, y sin embargo, diferencias sutiles en teor\u00edas sobre la identidad tienen implicaciones muy diferentes para la forma de pensar sobre tanto la importancia del aprendizaje a la identidad como la importancia de la identidad al aprendizaje. Ofrecen esta rese\u00f1a para incentivar m\u00e1s teor\u00edas sobre la ense\u00f1anza y la identidad como pr\u00e1cticas sociales y, aun m\u00e1s importante, sobre c\u00f3mo ambas se complementan",
+      "cited_by_count": 434,
+      "type": "article",
+      "source": {
+        "name": "Reading Research Quarterly",
+        "type": "journal",
+        "issn": [
+          "0034-0553",
+          "1936-2722"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1598/RRQ.44.4.7"
+      },
+      "topics": [
+        "Multilingual Education and Policy",
+        "Educator Training and Historical Pedagogy",
+        "Literacy, Media, and Education"
+      ],
+      "referenced_works_count": 158,
+      "url": "https://openalex.org/W2039426677"
+    },
+    {
+      "openalex_id": "W1968117629",
+      "doi": "10.1080/10427710050025411",
+      "title": "The History of the Concept of Transaction Costs: Neglected Aspects",
+      "authors": [
+        {
+          "name": "Matthias Klaes",
+          "openalex_id": "A5073119781",
+          "orcid": "https://orcid.org/0000-0003-1636-1612"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-06-01",
+      "abstract": "According to the folk history of transaction costs, the concept is due to a seminal article by Ronald H. Coase, written in the 1930s. Failing to provide an operational framework, Coase's article was neglected for a long time, or so the story continues. In the 1970s, after the limits of the Arrow-Debreu paradigm had become obvious, several authors, including Oliver E. Williamson, Kenneth J. Arrow, Armen A. Alchian, and Harold Demsetz, took up the notion of transaction costs and turned it into a useful analytical tool. Partly responsible for this sudden upsurge of interest was an article by Coase in which he allegedly proposed the now famous \u201cCoase Theorem.\u201d",
+      "cited_by_count": 100,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Economic Thought",
+        "type": "journal",
+        "issn": [
+          "1053-8372",
+          "1469-9656"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/67FF26DF50949AEB55181823B574FBAD/S1053837200006441a.pdf/div-class-title-the-history-of-the-concept-of-transaction-costs-neglected-aspects-div.pdf"
+      },
+      "topics": [
+        "Economic theories and models",
+        "Economic Theory and Institutions",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 104,
+      "url": "https://openalex.org/W1968117629"
+    },
+    {
+      "openalex_id": "W4380685454",
+      "doi": "10.3390/app13127082",
+      "title": "Re-Thinking Data Strategy and Integration for Artificial Intelligence: Concepts, Opportunities, and Challenges",
+      "authors": [
+        {
+          "name": "Abdulaziz Aldoseri",
+          "openalex_id": "A5053777601",
+          "orcid": "https://orcid.org/0009-0003-4367-0450",
+          "institutions": [
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "Khalifa N. Al\u2010Khalifa",
+          "openalex_id": "A5111995971",
+          "institutions": [
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "A.M.S. Hamouda",
+          "openalex_id": "A5029670996",
+          "orcid": "https://orcid.org/0000-0001-8022-4319",
+          "institutions": [
+            "Qatar University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-13",
+      "abstract": "The use of artificial intelligence (AI) is becoming more prevalent across industries such as healthcare, finance, and transportation. Artificial intelligence is based on the analysis of large datasets and requires a continuous supply of high-quality data. However, using data for AI is not without challenges. This paper comprehensively reviews and critically examines the challenges of using data for AI, including data quality, data volume, privacy and security, bias and fairness, interpretability and explainability, ethical concerns, and technical expertise and skills. This paper examines these challenges in detail and offers recommendations on how companies and organizations can address them. By understanding and addressing these challenges, organizations can harness the power of AI to make smarter decisions and gain competitive advantage in the digital age. It is expected, since this review article provides and discusses various strategies for data challenges for AI over the last decade, that it will be very helpful to the scientific research community to create new and novel ideas to rethink our approaches to data strategies for AI.",
+      "cited_by_count": 587,
+      "type": "article",
+      "source": {
+        "name": "Applied Sciences",
+        "type": "journal",
+        "issn": [
+          "2076-3417"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-3417/13/12/7082/pdf?version=1686659661"
+      },
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "referenced_works_count": 132,
+      "url": "https://openalex.org/W4380685454"
+    },
+    {
+      "openalex_id": "W3091443497",
+      "doi": "10.1016/s0140-6736(20)32032-8",
+      "title": "Reckoning with histories of medical racism and violence in the USA",
+      "authors": [
+        {
+          "name": "Ayah Nuriddin",
+          "openalex_id": "A5037593011",
+          "institutions": [
+            "Johns Hopkins University",
+            "Johns Hopkins Medicine"
+          ]
+        },
+        {
+          "name": "Graham Mooney",
+          "openalex_id": "A5016037596",
+          "orcid": "https://orcid.org/0000-0001-7775-9558",
+          "institutions": [
+            "Johns Hopkins University",
+            "Johns Hopkins Medicine"
+          ]
+        },
+        {
+          "name": "Alexandre White",
+          "openalex_id": "A5067564121",
+          "orcid": "https://orcid.org/0000-0002-5296-6072",
+          "institutions": [
+            "Johns Hopkins Medicine",
+            "Johns Hopkins University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-01",
+      "abstract": null,
+      "cited_by_count": 216,
+      "type": "article",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S0140673620320328/pdf"
+      },
+      "topics": [
+        "Public Health Policies and Education",
+        "Health and Conflict Studies",
+        "Racial and Ethnic Identity Research"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W3091443497"
+    },
+    {
+      "openalex_id": "W1505555850",
+      "doi": "10.1017/ccol0521793297.005",
+      "title": "Walter Benjamin\u2019s concept of cultural history",
+      "authors": [
+        {
+          "name": "Howard Caygill",
+          "openalex_id": "A5065942428",
+          "orcid": "https://orcid.org/0000-0002-7194-3853",
+          "institutions": [
+            "University of Colorado Boulder",
+            "University of Colorado System"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-03-25",
+      "abstract": "There is no document of culture that is not at the same time a document of barbarism.Walter Benjamin, \"Theses on the Philosophy of History\"",
+      "cited_by_count": 60,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Critical Theory and Philosophy",
+        "Cultural Studies and Postmodernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1505555850"
+    },
+    {
+      "openalex_id": "W2896661241",
+      "doi": "10.1080/01419870.2018.1527937",
+      "title": "Racialization: a defense of the concept",
+      "authors": [
+        {
+          "name": "Adam Hochman",
+          "openalex_id": "A5091666497",
+          "orcid": "https://orcid.org/0000-0002-4106-839X",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-10-17",
+      "abstract": "This paper defends the concept of racialization against its critics. As the concept has become increasingly popular, questions about its meaning and value have been raised, and a backlash against its use has occurred. I argue that when \u201cracialization\u201d is properly understood, criticisms of the concept are unsuccessful. I defend a definition of racialization and identify its companion concept, \u201cracialized group.\u201d Racialization is often used as a synonym for \u201cracial formation.\u201d I argue that this is a mistake. Racial formation theory is committed to racial ontology, but racialization is best understood as the process through which racialized \u2013 rather than racial \u2013 groups are formed. \u201cRacialization\u201d plays a unique role in the conceptual landscape, and it is a key concept for race eliminativists and anti-realists about race.",
+      "cited_by_count": 250,
+      "type": "article",
+      "source": {
+        "name": "Ethnic and Racial Studies",
+        "type": "journal",
+        "issn": [
+          "0141-9870",
+          "1466-4356"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/HOCRAD.pdf"
+      },
+      "topics": [
+        "Race, Genetics, and Society",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 53,
+      "url": "https://openalex.org/W2896661241"
+    },
+    {
+      "openalex_id": "W2086494849",
+      "doi": "10.1353/jhi.0.0054",
+      "title": "Place and the \"Spatial Turn\" in Geography and in History",
+      "authors": [
+        {
+          "name": "Charles Withers",
+          "openalex_id": "A5016745911",
+          "orcid": "https://orcid.org/0000-0001-5219-5653"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-10-01",
+      "abstract": "the network society'' 2 ), but also the idea that the modern world has become 1 ''Time-Space Convergence'' is the decrease in the friction of distance between places, most commonly though changes in travel times: see Donald Janelle, ''Global Interdependence and its Consequences,'' in Collapsing Space and Time: Geographic",
+      "cited_by_count": 295,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Ideas",
+        "type": "journal",
+        "issn": [
+          "0022-5037",
+          "1086-3222"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/article/361795/pdf"
+      },
+      "topics": [
+        "Historical Geography and Geographical Thought",
+        "Scottish History and National Identity",
+        "History of Science and Natural History"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W2086494849"
+    },
+    {
+      "openalex_id": "W3089805074",
+      "doi": "10.3389/fimmu.2020.583077",
+      "title": "Emerging Concepts and Technologies in Vaccine Development",
+      "authors": [
+        {
+          "name": "Morgan Brisse",
+          "openalex_id": "A5043684544",
+          "orcid": "https://orcid.org/0000-0002-7040-4495",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Sophia M. Vrba",
+          "openalex_id": "A5065467567",
+          "orcid": "https://orcid.org/0000-0003-1679-8240",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Natalie M. Kirk",
+          "openalex_id": "A5041248598",
+          "orcid": "https://orcid.org/0000-0003-1958-4045",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Yuying Liang",
+          "openalex_id": "A5053021453",
+          "orcid": "https://orcid.org/0000-0001-6002-6868",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Hinh Ly",
+          "openalex_id": "A5055155264",
+          "orcid": "https://orcid.org/0000-0001-8271-2033",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-30",
+      "abstract": "Despite the success of vaccination to greatly mitigate or eliminate threat of diseases caused by pathogens, there are still known diseases and emerging pathogens for which the development of successful vaccines against them is inherently difficult. In addition, vaccine development for people with compromised immunity and other pre-existing medical conditions has remained a major challenge. Besides the traditional inactivated or live attenuated, virus-vectored and subunit vaccines, emerging non-viral vaccine technologies, such as viral-like particle and nanoparticle vaccines, DNA/RNA vaccines, and rational vaccine design, offer innovative approaches to address existing challenges of vaccine development. They have also significantly advanced our understanding of vaccine immunology and can guide future vaccine development for many diseases, including rapidly emerging infectious diseases, such as COVID-19, and diseases that have not traditionally been addressed by vaccination, such as cancers and substance abuse. This review provides an integrative discussion of new non-viral vaccine development technologies and their use to address the most fundamental and ongoing challenges of vaccine development.",
+      "cited_by_count": 321,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Immunology",
+        "type": "journal",
+        "issn": [
+          "1664-3224"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.583077/pdf"
+      },
+      "topics": [
+        "SARS-CoV-2 and COVID-19 Research",
+        "Immunotherapy and Immune Responses",
+        "vaccines and immunoinformatics approaches"
+      ],
+      "referenced_works_count": 290,
+      "url": "https://openalex.org/W3089805074"
+    },
+    {
+      "openalex_id": "W2340679371",
+      "doi": "10.1093/qje/qjx030",
+      "title": "The Global Distribution of Economic Activity: Nature, History, and the Role of Trade1",
+      "authors": [
+        {
+          "name": "J. Vernon Henderson",
+          "openalex_id": "A5036094575",
+          "orcid": "https://orcid.org/0000-0002-0985-9415",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        },
+        {
+          "name": "Tim Squires",
+          "openalex_id": "A5113777227",
+          "institutions": [
+            "Amazon (Germany)"
+          ]
+        },
+        {
+          "name": "Adam Storeygard",
+          "openalex_id": "A5000409190",
+          "orcid": "https://orcid.org/0009-0001-1525-1043",
+          "institutions": [
+            "Tufts University"
+          ]
+        },
+        {
+          "name": "David Weil",
+          "openalex_id": "A5018872515",
+          "orcid": "https://orcid.org/0000-0002-1092-6056",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "Brown University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-08",
+      "abstract": "We explore the role of natural characteristics in determining the worldwide spatial distribution of economic activity, as proxied by lights at night, observed across 240,000 grid cells. A parsimonious set of 24 physical geography attributes explains 47% of worldwide variation and 35% of within-country variation in lights. We divide geographic characteristics into two groups, those primarily important for agriculture and those primarily important for trade, and confront a puzzle. In examining within-country variation in lights, among countries that developed early, agricultural variables incrementally explain over 6 times as much variation in lights as do trade variables, while among late developing countries the ratio is only about 1.5, even though the latter group is far more dependent on agriculture. Correspondingly, the marginal effects of agricultural variables as a group on lights are larger in absolute value, and those for trade smaller, for early developers than for late developers. We show that this apparent puzzle is explained by persistence and the differential timing of technological shocks in the two sets of countries. For early developers, structural transformation due to rising agricultural productivity began when transport costs were still high, so cities were localized in agricultural regions. When transport costs fell, these agglomerations persisted. In late-developing countries, transport costs fell before structural transformation. To exploit urban scale economies, manufacturing agglomerated in relatively few, often coastal, locations. Consistent with this explanation, countries that developed earlier are more spatially equal in their distribution of education and economic activity than late developers.",
+      "cited_by_count": 386,
+      "type": "article",
+      "source": {
+        "name": "The Quarterly Journal of Economics",
+        "type": "journal",
+        "issn": [
+          "0033-5533",
+          "1531-4650"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/qje/article-pdf/133/1/357/30636491/qjx030.pdf"
+      },
+      "topics": [
+        "Regional Economics and Spatial Analysis",
+        "Impact of Light on Environment and Health",
+        "Land Use and Ecosystem Services"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2340679371"
+    },
+    {
+      "openalex_id": "W4293212596",
+      "doi": "10.3847/1538-4357/ac7c74",
+      "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package",
+      "authors": [
+        {
+          "name": "Adrian M. Price-Whelan",
+          "openalex_id": "A5051357815",
+          "orcid": "https://orcid.org/0000-0003-0872-7098"
+        },
+        {
+          "name": "LIM, Pey Lian",
+          "openalex_id": "",
+          "institutions": [
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "A. Zonca",
+          "openalex_id": "A5016271660",
+          "orcid": "https://orcid.org/0000-0001-6841-1058",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "STARKMAN, Nathaniel",
+          "openalex_id": "",
+          "institutions": [
+            "University of Illinois Urbana-Champaign"
+          ]
+        },
+        {
+          "name": "BRADLEY, Larry",
+          "openalex_id": "",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "SHUPE, David L.",
+          "openalex_id": "",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Aarya A. Patil",
+          "openalex_id": "A5034024724",
+          "orcid": "https://orcid.org/0000-0002-7626-506X",
+          "institutions": [
+            "California Institute of Technology",
+            "Infrared Processing and Analysis Center"
+          ]
+        },
+        {
+          "name": "L\u00eda Corrales",
+          "openalex_id": "A5000623273",
+          "orcid": "https://orcid.org/0000-0002-5466-3817",
+          "institutions": [
+            "University of Toronto",
+            "Canadian Institute for Theoretical Astrophysics"
+          ]
+        },
+        {
+          "name": "C. E. Brasseur",
+          "openalex_id": "A5066601915",
+          "orcid": "https://orcid.org/0000-0002-9314-960X",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Maximilian N\u00f6the",
+          "openalex_id": "A5108664690",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Axel Donath",
+          "openalex_id": "A5087561903",
+          "orcid": "https://orcid.org/0000-0003-4568-7005",
+          "institutions": [
+            "TU Dortmund University"
+          ]
+        },
+        {
+          "name": "Erik Tollerud",
+          "openalex_id": "A5083524651",
+          "orcid": "https://orcid.org/0000-0002-9599-310X",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Brett M. Morris",
+          "openalex_id": "A5022671363",
+          "orcid": "https://orcid.org/0000-0003-2528-3409",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Adam Ginsburg",
+          "openalex_id": "A5039093835",
+          "orcid": "https://orcid.org/0000-0001-6431-9633",
+          "institutions": [
+            "University of Bern"
+          ]
+        },
+        {
+          "name": "Eero Vaher",
+          "openalex_id": "A5020747884",
+          "orcid": "https://orcid.org/0000-0001-8736-1762",
+          "institutions": [
+            "University of Florida"
+          ]
+        },
+        {
+          "name": "Benjamin Alan Weaver",
+          "openalex_id": "A5031952490",
+          "orcid": "https://orcid.org/0000-0003-3687-3463",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "James Tocknell",
+          "openalex_id": "A5071260466",
+          "orcid": "https://orcid.org/0000-0001-6637-6922",
+          "institutions": [
+            "NSF NOIRLab"
+          ]
+        },
+        {
+          "name": "William Brian Jamieson",
+          "openalex_id": "A5030465114",
+          "orcid": "https://orcid.org/0000-0001-5976-4492",
+          "institutions": [
+            "Australian Astronomical Observatory",
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "M. H. van Kerkwijk",
+          "openalex_id": "A5031567163",
+          "orcid": "https://orcid.org/0000-0002-5830-8505",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Thomas Robitaille",
+          "openalex_id": "A5014651763",
+          "orcid": "https://orcid.org/0000-0002-8642-1329",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Bruce Merry",
+          "openalex_id": "A5076076977"
+        },
+        {
+          "name": "Matteo Bachetti",
+          "openalex_id": "A5073598248",
+          "orcid": "https://orcid.org/0000-0002-4576-9337",
+          "institutions": [
+            "South African Radio Astronomy Observatory"
+          ]
+        },
+        {
+          "name": "Hans Moritz G\u00fcnther",
+          "openalex_id": "A5046850653",
+          "orcid": "https://orcid.org/0000-0003-4243-2840",
+          "institutions": [
+            "Osservatorio Astronomico di Cagliari",
+            "National Institute for Astrophysics"
+          ]
+        },
+        {
+          "name": "Thomas L. Aldcroft",
+          "openalex_id": "A5085224854",
+          "institutions": [
+            "Kavli Institute for Particle Astrophysics and Cosmology"
+          ]
+        },
+        {
+          "name": "Jaime A. Alvarado-Montes",
+          "openalex_id": "A5067922714",
+          "orcid": "https://orcid.org/0000-0003-0353-9741",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Anne M. Archibald",
+          "openalex_id": "A5030889135",
+          "orcid": "https://orcid.org/0000-0003-0638-3340",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Attila B\u00f3di",
+          "openalex_id": "A5085923546",
+          "orcid": "https://orcid.org/0000-0002-8585-4544",
+          "institutions": [
+            "Newcastle University"
+          ]
+        },
+        {
+          "name": "Shreyas Bapat",
+          "openalex_id": "A5017171558",
+          "orcid": "https://orcid.org/0000-0002-0870-4665",
+          "institutions": [
+            "Konkoly Observatory",
+            "HUN-REN Research Centre for Astronomy and Earth Sciences"
+          ]
+        },
+        {
+          "name": "Geert Barentsen",
+          "openalex_id": "A5000264188",
+          "orcid": "https://orcid.org/0000-0002-3306-3484",
+          "institutions": [
+            "Indian Institute of Technology Mandi"
+          ]
+        },
+        {
+          "name": "Juanjo Baz\u00e1n",
+          "openalex_id": "A5031599145",
+          "orcid": "https://orcid.org/0000-0001-7699-3983",
+          "institutions": [
+            "Bay Area Environmental Research Institute"
+          ]
+        },
+        {
+          "name": "Manish Biswas",
+          "openalex_id": "A5020881985",
+          "institutions": [
+            "Centro de Astrobiolog\u00eda"
+          ]
+        },
+        {
+          "name": "M. Boquien",
+          "openalex_id": "A5010717725",
+          "orcid": "https://orcid.org/0000-0003-0946-6176",
+          "institutions": [
+            "Savitribai Phule Pune University"
+          ]
+        },
+        {
+          "name": "D. J. Burke",
+          "openalex_id": "A5035705826",
+          "orcid": "https://orcid.org/0000-0003-4428-7835",
+          "institutions": [
+            "Universidad de Antofagasta"
+          ]
+        },
+        {
+          "name": "Daria Cara",
+          "openalex_id": "A5089860122",
+          "orcid": "https://orcid.org/0000-0003-3833-1668",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Mihai Cara",
+          "openalex_id": "A5035352659",
+          "orcid": "https://orcid.org/0000-0002-9294-6551",
+          "institutions": [
+            "Wake Forest University"
+          ]
+        },
+        {
+          "name": "Kyle E. Conroy",
+          "openalex_id": "A5004542944",
+          "orcid": "https://orcid.org/0000-0002-5442-8550",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Simon Conseil",
+          "openalex_id": "A5038234856",
+          "orcid": "https://orcid.org/0000-0002-3657-4191",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Matthew Craig",
+          "openalex_id": "A5057373916",
+          "orcid": "https://orcid.org/0000-0001-7988-8919",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Aix-Marseille Universit\u00e9"
+          ]
+        },
+        {
+          "name": "R. Cross",
+          "openalex_id": "A5010958238",
+          "orcid": "https://orcid.org/0000-0003-0081-8024",
+          "institutions": [
+            "Minnesota State University Moorhead"
+          ]
+        },
+        {
+          "name": "Kelle L. Cruz",
+          "openalex_id": "A5068180255",
+          "orcid": "https://orcid.org/0000-0002-1821-0650"
+        },
+        {
+          "name": "D'EUGENIO, Francesco",
+          "openalex_id": "",
+          "institutions": [
+            "American Museum of Natural History",
+            "Hunter College",
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "Nadia Dencheva",
+          "openalex_id": "A5068990455",
+          "orcid": "https://orcid.org/0000-0002-5686-9632",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Hadrien A. R. Devillepoix",
+          "openalex_id": "A5070439585",
+          "orcid": "https://orcid.org/0000-0001-9226-1870",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "J. P. Dietrich",
+          "openalex_id": "A5107656958",
+          "orcid": "https://orcid.org/0000-0002-8134-9591",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Arthur Eigenbrot",
+          "openalex_id": "A5014303427",
+          "orcid": "https://orcid.org/0000-0003-0810-4368",
+          "institutions": [
+            "Stuttgart Observatory"
+          ]
+        },
+        {
+          "name": "T. Erben",
+          "openalex_id": "A5109151725",
+          "orcid": "https://orcid.org/0000-0001-6135-4070",
+          "institutions": [
+            "National Solar Observatory"
+          ]
+        },
+        {
+          "name": "Leonardo Ferreira",
+          "openalex_id": "A5101533423",
+          "orcid": "https://orcid.org/0000-0002-8919-079X",
+          "institutions": [
+            "University of Bonn"
+          ]
+        },
+        {
+          "name": "Daniel Foreman-Mackey",
+          "openalex_id": "A5043101946",
+          "orcid": "https://orcid.org/0000-0002-9328-5652",
+          "institutions": [
+            "University of Nottingham"
+          ]
+        },
+        {
+          "name": "Ryan Fox",
+          "openalex_id": "A5088884457",
+          "institutions": [
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "Nabil Freij",
+          "openalex_id": "A5000262389",
+          "orcid": "https://orcid.org/0000-0002-6253-082X"
+        },
+        {
+          "name": "Suyog Garg",
+          "openalex_id": "A5086440543",
+          "orcid": "https://orcid.org/0000-0002-2309-9731",
+          "institutions": [
+            "Lockheed Martin (United States)",
+            "Bay Area Environmental Research Institute"
+          ]
+        },
+        {
+          "name": "Robel Geda",
+          "openalex_id": "A5084133449",
+          "orcid": "https://orcid.org/0000-0003-1509-9966",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Lauren Glattly",
+          "openalex_id": "A5021871047",
+          "institutions": [
+            "Princeton University"
+          ]
+        },
+        {
+          "name": "Yash Gondhalekar",
+          "openalex_id": "A5001770976",
+          "orcid": "https://orcid.org/0000-0002-6646-4225"
+        },
+        {
+          "name": "Karl D. Gordon",
+          "openalex_id": "A5051018099",
+          "orcid": "https://orcid.org/0000-0001-5340-6774",
+          "institutions": [
+            "Birla Institute of Technology and Science, Pilani - Goa Campus"
+          ]
+        },
+        {
+          "name": "David Grant",
+          "openalex_id": "A5002553861",
+          "orcid": "https://orcid.org/0000-0001-5878-618X",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "P. Greenfield",
+          "openalex_id": "A5052341993",
+          "orcid": "https://orcid.org/0000-0003-2269-0551",
+          "institutions": [
+            "University of Bristol",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Austen Groener",
+          "openalex_id": "A5033727646",
+          "orcid": "https://orcid.org/0000-0002-6508-2938",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "S. Guest",
+          "openalex_id": "A5107346417",
+          "institutions": [
+            "Drexel University"
+          ]
+        },
+        {
+          "name": "S. Gurovich",
+          "openalex_id": "A5008022587",
+          "orcid": "https://orcid.org/0000-0001-5848-4077",
+          "institutions": [
+            "Rutherford Appleton Laboratory"
+          ]
+        },
+        {
+          "name": "R. Handberg",
+          "openalex_id": "A5040554874",
+          "orcid": "https://orcid.org/0000-0001-8725-4502",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "Instituto de Astronom\u00eda Te\u00f3rica y Experimental",
+            "Argentine National Observatory"
+          ]
+        },
+        {
+          "name": "Akeem Hart",
+          "openalex_id": "A5069597275",
+          "orcid": "https://orcid.org/0000-0002-8138-1479",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Zac Hatfield-Dodds",
+          "openalex_id": "A5070402589",
+          "orcid": "https://orcid.org/0000-0002-8646-8362"
+        },
+        {
+          "name": "D. Homeier",
+          "openalex_id": "A5042540132",
+          "orcid": "https://orcid.org/0000-0002-8546-9128",
+          "institutions": [
+            "Australian National University"
+          ]
+        },
+        {
+          "name": "G. Hosseinzadeh",
+          "openalex_id": "A5041269121",
+          "orcid": "https://orcid.org/0000-0002-0832-2974"
+        },
+        {
+          "name": "Tim Jenness",
+          "openalex_id": "A5059513243",
+          "orcid": "https://orcid.org/0000-0001-5982-167X",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Craig Jones",
+          "openalex_id": "A5018714925",
+          "orcid": "https://orcid.org/0000-0002-0629-3006",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "P. Joseph",
+          "openalex_id": "A5016252483",
+          "orcid": "https://orcid.org/0000-0003-1409-1903",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "J. Bryce Kalmbach",
+          "openalex_id": "A5042922015",
+          "orcid": "https://orcid.org/0000-0002-6825-5283",
+          "institutions": [
+            "Indian Institute of Astrophysics",
+            "Christ University"
+          ]
+        },
+        {
+          "name": "E. Karamehmetoglu",
+          "openalex_id": "A5068884480",
+          "orcid": "https://orcid.org/0000-0001-6209-838X",
+          "institutions": [
+            "University of Washington",
+            "City University of Seattle"
+          ]
+        },
+        {
+          "name": "Miko\u0142aj Ka\u0142uszy\u0144ski",
+          "openalex_id": "A5089870524",
+          "orcid": "https://orcid.org/0000-0003-0109-5833",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Michael S. P. Kelley",
+          "openalex_id": "A5019575780",
+          "orcid": "https://orcid.org/0000-0002-6702-7676",
+          "institutions": [
+            "Nicolaus Copernicus Astronomical Center",
+            "Polish Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Nicholas S. Kern",
+          "openalex_id": "A5046214946",
+          "orcid": "https://orcid.org/0000-0002-8211-1892",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Wolfgang Kerzendorf",
+          "openalex_id": "A5002576957",
+          "orcid": "https://orcid.org/0000-0002-0479-7235",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Eric W. Koch",
+          "openalex_id": "A5082507738",
+          "orcid": "https://orcid.org/0000-0001-9605-780X",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Shankar Kulumani",
+          "openalex_id": "A5085903009",
+          "orcid": "https://orcid.org/0000-0002-7822-0471",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Antony Lee",
+          "openalex_id": "A5082768249",
+          "orcid": "https://orcid.org/0000-0003-2193-5369",
+          "institutions": [
+            "Johns Hopkins University Applied Physics Laboratory"
+          ]
+        },
+        {
+          "name": "Chun Ly",
+          "openalex_id": "A5075263706",
+          "orcid": "https://orcid.org/0000-0002-4245-2318",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 de Bordeaux",
+            "Laboratoire Photonique, Num\u00e9rique et Nanosciences"
+          ]
+        },
+        {
+          "name": "Zhiyuan Ma",
+          "openalex_id": "A5081053737",
+          "orcid": "https://orcid.org/0000-0003-3270-6844",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "C. D. MacBride",
+          "openalex_id": "A5089411259",
+          "orcid": "https://orcid.org/0000-0002-9901-8723",
+          "institutions": [
+            "University of Massachusetts Amherst"
+          ]
+        },
+        {
+          "name": "Jakob M. Maljaars",
+          "openalex_id": "A5074836380",
+          "orcid": "https://orcid.org/0000-0001-8100-9514",
+          "institutions": [
+            "Queen's University Belfast"
+          ]
+        },
+        {
+          "name": "Demitri Muna",
+          "openalex_id": "A5067904028",
+          "orcid": "https://orcid.org/0000-0002-1631-4114",
+          "institutions": [
+            "Science and Technology Corporation (Netherlands)"
+          ]
+        },
+        {
+          "name": "Nicholas A. Murphy",
+          "openalex_id": "A5060645832",
+          "orcid": "https://orcid.org/0000-0001-6628-8033",
+          "institutions": [
+            "The University of Texas at San Antonio"
+          ]
+        },
+        {
+          "name": "Henrik Norman",
+          "openalex_id": "A5077163602",
+          "orcid": "https://orcid.org/0000-0003-4189-3450",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "O'STEEN, Richard",
+          "openalex_id": ""
+        },
+        {
+          "name": "Kyle A. Oman",
+          "openalex_id": "A5080205649",
+          "orcid": "https://orcid.org/0000-0001-9857-7788",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Camilla Pacifici",
+          "openalex_id": "A5010480309",
+          "orcid": "https://orcid.org/0000-0003-4196-0617",
+          "institutions": [
+            "Durham University"
+          ]
+        },
+        {
+          "name": "S. Pascual",
+          "openalex_id": "A5087875567",
+          "orcid": "https://orcid.org/0000-0002-9351-6051",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "J. Pascual-Granado",
+          "openalex_id": "A5075026705",
+          "orcid": "https://orcid.org/0000-0003-0139-6951",
+          "institutions": [
+            "Universidad Complutense de Madrid"
+          ]
+        },
+        {
+          "name": "Rohit R. Patil",
+          "openalex_id": "A5020849160",
+          "institutions": [
+            "Instituto de Astrof\u00edsica de Andaluc\u00eda"
+          ]
+        },
+        {
+          "name": "G. I. Perren",
+          "openalex_id": "A5052681164",
+          "orcid": "https://orcid.org/0000-0002-1852-9653",
+          "institutions": [
+            "Syracuse University"
+          ]
+        },
+        {
+          "name": "T. E. Pickering",
+          "openalex_id": "A5065399568",
+          "orcid": "https://orcid.org/0000-0002-9427-5448",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "Instituto de Astrof\u00edsica de La Plata"
+          ]
+        },
+        {
+          "name": "RASTOGI, Tanuj",
+          "openalex_id": "",
+          "institutions": [
+            "TMT Observatory"
+          ]
+        },
+        {
+          "name": "Benjamin R. Roulston",
+          "openalex_id": "A5013140812",
+          "orcid": "https://orcid.org/0000-0002-9453-7735"
+        },
+        {
+          "name": "Daniel F. Ryan",
+          "openalex_id": "A5065976494",
+          "orcid": "https://orcid.org/0000-0001-8661-3825",
+          "institutions": [
+            "Boston University",
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "E. S. Rykoff",
+          "openalex_id": "A5045308614",
+          "orcid": "https://orcid.org/0000-0001-9376-3135",
+          "institutions": [
+            "American University",
+            "FHNW University of Applied Sciences and Arts Northwestern Switzerland"
+          ]
+        },
+        {
+          "name": "J. Sabater",
+          "openalex_id": "A5004450883",
+          "orcid": "https://orcid.org/0000-0003-1149-6294",
+          "institutions": [
+            "SLAC National Accelerator Laboratory"
+          ]
+        },
+        {
+          "name": "Parikshit Sakurikar",
+          "openalex_id": "A5061448327",
+          "orcid": "https://orcid.org/0000-0002-9523-5640",
+          "institutions": [
+            "Royal Observatory",
+            "UK Astronomy Technology Centre"
+          ]
+        },
+        {
+          "name": "J. Salgado",
+          "openalex_id": "A5087836750",
+          "orcid": "https://orcid.org/0000-0002-3680-4364",
+          "institutions": [
+            "International Institute of Information Technology, Hyderabad"
+          ]
+        },
+        {
+          "name": "Aniket Sanghi",
+          "openalex_id": "A5010712700",
+          "orcid": "https://orcid.org/0000-0002-1838-4757",
+          "institutions": [
+            "SKA Observatory"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Full list of authors: Price-Whelan, Adrian M.; Lim, Pey Lian; Earl, Nicholas; Starkman, Nathaniel; Bradley, Larry; Shupe, David L.; Patil, Aarya A.; Corrales, Lia; Brasseur, C. E.; Noethe, Maximilian; Donath, Axel; Tollerud, Erik; Morris, Brett M.; Ginsburg, Adam; Vaher, Eero; Weaver, Benjamin A.; Tocknell, James; Jamieson, William; van Kerkwijk, Marten H.; Robitaille, Thomas P.; Merry, Bruce; Bachetti, Matteo; Gunther, H. Moritz; Aldcroft, Thomas L.; Alvarado-Montes, Jaime A.; Archibald, Anne M.; Bodi, Attila; Bapat, Shreyas; Barentsen, Geert; Bazan, Juanjo; Biswas, Manish; Boquien, Mederic; Burke, D. J.; Cara, Daria; Cara, Mihai; Conroy, Kyle E.; Conseil, Simon; Craig, Matthew W.; Cross, Robert M.; Cruz, Kelle L.; D'Eugenio, Francesco; Dencheva, Nadia; Devillepoix, Hadrien A. R.; Dietrich, Jorg P.; Eigenbrot, Arthur Davis; Erben, Thomas; Ferreira, Leonardo; Foreman-Mackey, Daniel; Fox, Ryan; Freij, Nabil; Garg, Suyog; Geda, Robel; Glattly, Lauren; Gondhalekar, Yash; Gordon, Karl D.; Grant, David; Greenfield, Perry; Groener, Austen M.; Guest, Steve; Gurovich, Sebastian; Handberg, Rasmus; Hart, Akeem; Hatfield-Dodds, Zac; Homeier, Derek; Hosseinzadeh, Griffin; Jenness, Tim; Jones, Craig K.; Joseph, Prajwel; Kalmbach, J. Bryce; Karamehmetoglu, Emir; Kaluszynski, Mikolaj; Kelley, Michael S. P.; Kern, Nicholas; Kerzendorf, Wolfgang E.; Koch, Eric W.; Kulumani, Shankar; Lee, Antony; Ly, Chun; Ma, Zhiyuan; MacBride, Conor; Maljaars, Jakob M.; Muna, Demitri; Murphy, N. A.; Norman, Henrik; O'Steen, Richard; Oman, Kyle A.; Pacifici, Camilla; Pascual, Sergio; Pascual-Granado, J.; Patil, Rohit R.; Perren, Gabriel, I; Pickering, Timothy E.; Rastogi, Tanuj; Roulston, Benjamin R.; Ryan, Daniel F.; Rykoff, Eli S.; Sabater, Jose; Sakurikar, Parikshit; Salgado, Jesus; Sanghi, Aniket; Saunders, Nicholas; Savchenko, Volodymyr; Schwardt, Ludwig; Seifert-Eckert, Michael; Shih, Albert Y.; Jain, Anany Shrey; Shukla, Gyanendra; Sick, Jonathan; Simpson, Chris; Singanamalla, Sudheesh; Singer, Leo P.; Singhal, Jaladh; Sinha, Manodeep; Sipocz, Brigitta M.; Spitler, Lee R.; Stansby, David; Streicher, Ole; Sumak, Jani; Swinbank, John D.; Taranu, Dan S.; Tewary, Nikita; Tremblay, Grant R.; De Val-Borro, Miguel; Vasovic, Zlatan; Van Kooten, Samuel J.; Verma, Shresth; Cardoso, Jose Vinicius de Miranda; Williams, Peter K. G.; Wilson, Tom J.; Winkel, Benjamin; Wood-Vasey, W. M.; Xue, Rui; Yoachim, Peter; Zhang, Chen; Zonca, Andrea; Astropy Project Contributors; TARDIS Collaboration; Astropy Coordination Comm.--This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "cited_by_count": 4533,
+      "type": "article",
+      "source": {
+        "name": "Research Portal (Queen's University Belfast)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.qub.ac.uk/en/publications/fd0be0d9-bac4-4be0-a926-db4b8f6143e4"
+      },
+      "topics": [
+        "Gamma-ray bursts and supernovae",
+        "Astronomy and Astrophysical Research",
+        "Particle Detector Development and Performance"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W4293212596"
+    },
+    {
+      "openalex_id": "W2785381275",
+      "doi": "10.1017/s1740022817000262",
+      "title": "Discussion: the futures of global history",
+      "authors": [
+        {
+          "name": "Richard Drayton",
+          "openalex_id": "A5068410144",
+          "orcid": "https://orcid.org/0000-0002-9811-8765",
+          "institutions": [
+            "King's College London"
+          ]
+        },
+        {
+          "name": "David Motadel",
+          "openalex_id": "A5085934593",
+          "orcid": "https://orcid.org/0000-0002-2218-618X",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-02-14",
+      "abstract": "Abstract Global history has come under attack. It is charged with neglecting national history and the \u2018small spaces\u2019 of the past, with being an elite globalist project made irrelevant by the anti-globalist politics of our age, with focusing exclusively on mobile people and things, and with becoming dangerously hegemonic. This article demonstrates that global history is intertwined with the histories of the nation and the local, individuals, outsiders, and subalterns, and small and isolated places. Moreover, global history has directly addressed immobility and resistances to flow, and remains relatively weak in the discipline, versus the persistent dominance everywhere of national history. The article offers a new short history of the rise of the contemporary idiom of global history, and a prospect for a future in which scholars may find, through collaboration, alternatives to the European weights and measures of the past, and to the dominance of Anglophone historians. It argues that we should no more reverse the \u2018global turn\u2019 than we should return history\u2019s gaze only to propertied white men. Rather than a retreat from global history, we need it more than ever to fight against myths of imperial and national pasts, which often underpin nationalist populisms.",
+      "cited_by_count": 221,
+      "type": "article",
+      "source": {
+        "name": "Journal of Global History",
+        "type": "journal",
+        "issn": [
+          "1740-0228",
+          "1740-0236"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/36C53116D551E0B47E42865EC8DE0C41/S1740022817000262a.pdf/div-class-title-discussion-the-futures-of-global-history-div.pdf"
+      },
+      "topics": [
+        "Australian History and Society",
+        "Colonial History and Postcolonial Studies",
+        "Philippine History and Culture"
+      ],
+      "referenced_works_count": 180,
+      "url": "https://openalex.org/W2785381275"
+    },
+    {
+      "openalex_id": "W2087125616",
+      "doi": "10.1098/rstb.2013.0293",
+      "title": "Semiotic diversity in utterance production and the concept of \u2018language\u2019",
+      "authors": [
+        {
+          "name": "Adam Kendon",
+          "openalex_id": "A5089942020",
+          "institutions": [
+            "University College London",
+            "University of Pennsylvania"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-08-04",
+      "abstract": "Sign language descriptions that use an analytic model borrowed from spoken language structural linguistics have proved to be not fully appropriate. Pictorial and action-like modes of expression are integral to how signed utterances are constructed and to how they work. However, observation shows that speakers likewise use kinesic and vocal expressions that are not accommodated by spoken language structural linguistic models, including pictorial and action-like modes of expression. These, also, are integral to how speaker utterances in face-to-face interaction are constructed and to how they work. Accordingly, the object of linguistic inquiry should be revised, so that it comprises not only an account of the formal abstract systems that utterances make use of, but also an account of how the semiotically diverse resources that all languaging individuals use are organized in relation to one another. Both language as an abstract system and languaging should be the concern of linguistics.",
+      "cited_by_count": 251,
+      "type": "review",
+      "source": {
+        "name": "Philosophical Transactions of the Royal Society B Biological Sciences",
+        "type": "journal",
+        "issn": [
+          "0962-8436",
+          "1471-2970"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2013.0293"
+      },
+      "topics": [
+        "Hearing Impairment and Communication",
+        "Language, Discourse, Communication Strategies",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2087125616"
+    },
+    {
+      "openalex_id": "W2332830290",
+      "doi": "10.1177/2397002215626895",
+      "title": "The Serial Verb Construction: Comparative Concept and Cross-linguistic Generalizations",
+      "authors": [
+        {
+          "name": "Mart\u00edn Haspelmath",
+          "openalex_id": "A5072247317",
+          "orcid": "https://orcid.org/0000-0003-2100-8493",
+          "institutions": [
+            "Max Planck Institute for the Science of Human History"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-04-01",
+      "abstract": "Since the 1970s, serial verb constructions (SVCs) have been discussed widely in African, Oceanic and many other languages throughout the world.This article gives an overview of the most important generalizations about SVCs that have been proposed and that do seem to hold if a sufficiently restrictive definition of the concept is adopted.The main problem with the earlier comparative literature is that the notion of an SVC has not been delimited clearly, and/or has been formulated in much too wide terms.As a result, some linguists have despaired of finding a coherent cross-linguistic concept of SVC.For example, one scholar asked 'Are there any universal defining properties of serial verb constructions?Probably not . ..'.These problems can be seen as a result of the confusion between comparative concepts and natural kinds: Serial verb constructions have (most often implicitly) been regarded as natural kinds (universal categories), so that phenomena in additional languages were regarded as SVCs even when they had somewhat different properties.This procedure inevitably leads to a fuzzy and very broad understanding of the concept, with a prototype (or 'canonical') structure that does not allow falsifiable claims.Here I propose a narrow definition of SVC and formulate 10 universals that are apparently true of all serial verb constructions in this narrow sense.The claim that these are universally true of (narrowly defined) serial verb constructions is based on a thorough reading of the comparative and theoretical literature, not on a systematic sample of language-the latter would not have been practical, because SVCs are rarely described in sufficient detail in descriptive grammars.No attempt is made at explaining these generalizations in the present article, but I claim that we finally have a good idea of what it is that needs to be explained in a general way.",
+      "cited_by_count": 296,
+      "type": "article",
+      "source": {
+        "name": "Language and Linguistics \u8a9e\u8a00\u66a8\u8a9e\u8a00\u5b78",
+        "type": "journal",
+        "issn": [
+          "1606-822X",
+          "2309-5067"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/11858/00-001M-0000-002C-644B-F"
+      },
+      "topics": [
+        "Syntax, Semantics, Linguistic Variation",
+        "Linguistic Variation and Morphology",
+        "Language, Discourse, Communication Strategies"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W2332830290"
+    },
+    {
+      "openalex_id": "W2287564955",
+      "doi": "10.1086/681980",
+      "title": "History of Science and History of Philologies",
+      "authors": [
+        {
+          "name": "Lorraine Daston",
+          "openalex_id": "A5059333899",
+          "orcid": "https://orcid.org/0000-0002-0372-4747",
+          "institutions": [
+            "Max Planck Institute for the History of Science"
+          ]
+        },
+        {
+          "name": "Glenn W. Most",
+          "openalex_id": "A5043609233",
+          "institutions": [
+            "Scuola Normale Superiore"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-01",
+      "abstract": "While both the sciences and the humanities, as currently defined, may be too heterogeneous to be encompassed within a unified historical framework, there is good reason to believe that the history of science and the history of philologies both have much to gain by joining forces. This collaboration has already yielded striking results in the case of the history of science and humanist learning in early modern Europe. This essay argues that first, philology and at least some of the sciences (e.g., astronomy) remained intertwined in consequential ways well into the modern period in Western cultures; and second, widening the scope of inquiry to include other philological traditions in non-Western cultures offers rich possibilities for a comparative history of learned practices. The focus on practices is key; by shifting the emphasis from what is studied to how it is studied, deep commonalities emerge among disciplines--and intellectual traditions--now classified as disparate.",
+      "cited_by_count": 132,
+      "type": "article",
+      "source": {
+        "name": "Isis",
+        "type": "journal",
+        "issn": [
+          "0021-1753",
+          "1545-6994"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/21.11116/0000-0003-6596-2"
+      },
+      "topics": [
+        "History of Science and Natural History",
+        "History and Developments in Astronomy",
+        "Historical and Literary Studies"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W2287564955"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

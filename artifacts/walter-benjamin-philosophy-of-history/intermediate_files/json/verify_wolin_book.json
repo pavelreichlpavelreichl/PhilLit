@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin An Aesthetic of Redemption...' author=Wolin year=1982
+[verify_paper.py] Paper found: Walter Benjamin: An Aesthetic of Redemption.... (score: 54.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin An Aesthetic of Redemption",
+    "author": "Wolin",
+    "year": 1982
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2906080",
+      "title": "Walter Benjamin: An Aesthetic of Redemption.",
+      "authors": [
+        {
+          "family": "Ulansey",
+          "given": "Leah"
+        },
+        {
+          "family": "Wolin",
+          "given": "Richard"
+        }
+      ],
+      "editors": [],
+      "year": 1983,
+      "container_title": "MLN",
+      "volume": "98",
+      "issue": "5",
+      "page": "1319",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/2906080",
+      "score": 54.389572
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

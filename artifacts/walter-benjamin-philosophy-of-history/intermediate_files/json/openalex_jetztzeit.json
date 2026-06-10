@@ -1,0 +1,920 @@
+[search_openalex.py] Searching OpenAlex: 'Benjamin now-time Jetztzeit recognizability dialectical image' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_81e88e513f69332f)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Benjamin now-time Jetztzeit recognizability dialectical image",
+  "results": [
+    {
+      "openalex_id": "W2737011105",
+      "doi": "10.1177/1350508417725592",
+      "title": "Ideologies of time: How elite corporate actors engage the future",
+      "authors": [
+        {
+          "name": "Christina Berg Johansen",
+          "openalex_id": "A5023312357",
+          "orcid": "https://orcid.org/0000-0002-3681-5717",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        },
+        {
+          "name": "Christian De Cock",
+          "openalex_id": "A5081426102",
+          "orcid": "https://orcid.org/0000-0002-8152-1523",
+          "institutions": [
+            "University of Essex"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-18",
+      "abstract": "Our article deals with how elite corporate actors in a Western capitalist-democratic society conceive of and prepare for the future. Paying attention to how senior officers of 10 important Danish companies make sense of the future will help us to identify how particular temporal narratives are ideologically marked. This ideological dimension offers a common sense frame that is structured around a perceived inevitability of capitalism, a market economy as the basic organizational structure of the social and economic order, and an assumption of confident access to the future. Managers envisage their organization\u2019s future and make plans for organizational action in a space where \u2018business as usual\u2019 reigns, and there is little engagement with the future as fundamentally open \u2013 as a time-yet-to-come. In using a conceptual lens inspired by the work of Fredric Jameson, we first explore the details of this presentism and a particular colonization of the future and then linger over small disruptions in the narratives of our interviewees which point to what escapes or jars their common sense frame, explore the implicit meanings they assign to their agency and also find clues and traces of temporal actions and strategies in their narratives that point to a subtly different engagement with time.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Organization",
+        "type": "journal",
+        "issn": [
+          "1350-5084",
+          "1461-7323"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.cbs.dk/en/publications/e42000b2-1131-4b55-817b-18574226c39f"
+      },
+      "topics": [
+        "Management and Organizational Studies"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2737011105"
+    },
+    {
+      "openalex_id": "W2226530004",
+      "doi": null,
+      "title": "Squaring the Cultural Circle: Dialectical Approaches to Reading Cultural Memory",
+      "authors": [
+        {
+          "name": "Solibakke Ivan Karl",
+          "openalex_id": "A5082203840",
+          "institutions": [
+            "Syracuse University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-10-01",
+      "abstract": "Dialectical Images and Cultural MemoryThe true picture of the past flits by.The past can be seized only as an image which flashes up at the instant when it can be recognized and is never seen again.[]For every image of the past that is not recognized by the present as one of its own concerns threatens to disappear irretrievably.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Syracuse University Libraries (Syracuse University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://surface.syr.edu/lll/10"
+      },
+      "topics": [
+        "Philippine History and Culture",
+        "Visual Culture and Art Theory",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2226530004"
+    },
+    {
+      "openalex_id": "W2735391466",
+      "doi": "10.13128/aisthesis-20914",
+      "title": "The Organization of Pessimism: Profane Illumination and Anthropological Materialism in Walter Benjamin",
+      "authors": [
+        {
+          "name": "Ricardo Ibarluc\u00eda",
+          "openalex_id": "A5014840935",
+          "orcid": "https://orcid.org/0000-0003-3542-5212",
+          "institutions": [
+            "Universidad Nacional de San Mart\u00edn"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-09",
+      "abstract": "This paper explores Walter Benjamin\u2019s relationship with French Surrealism from sources rarely studied or practically unknown until now. First, I will set out the direct link between the theses on \u201cprofane illumination\u201d and the \u201corganization of pessimism\u201d in Der S\u00fcrrealismus. Die letzte Momentaufnahme der europ\u00e4ischen Intelligenz, and various texts by Pierre Naville, one of the most active figures in the Surrealist movement between 1925 and 1929. Second, I will consider Benjamin\u2019s commentaries in Pariser Passagen <i> and convolute \u201cS\u201d of the Passagen-Werk about Surrealist writings and Martin Heidegger\u2019s Sein und Zeit, flagging up the implications of this confrontation for Benjamin\u2019s ideas of secularization of mysticism and messianism. Lastly, I will seek to refine the meaning of Benjamin\u2019s \u201canthropological materialism\u201d and its relevance to those sections of the Passagenarbeit that are dedicated to the evolution of social movements since the French Revolution. </i>",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Americanae (AECID Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11336/76976"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Schopenhauer and Stefan Zweig",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2735391466"
+    },
+    {
+      "openalex_id": "W1847948182",
+      "doi": "10.9760/mupoa/9780719061387",
+      "title": "The new aestheticism",
+      "authors": [
+        {
+          "name": "John J. Joughin",
+          "openalex_id": "A5074132211"
+        },
+        {
+          "name": "Simon Malpas",
+          "openalex_id": "A5082907955"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "The rise of literary theory spawned the rise of anti-aestheticism, so that even for cultural theorists, discussions concerning aesthetics were often carried out in a critical shorthand that failed to engage with the particularity of the work of art, much less the specificities of aesthetic experience. This book introduces the notion of a new aestheticism - 'new' insofar as it identifies a turn taken by a number of important contemporary thinkers towards the idea that focussing on the specifically aesthetic impact of a work of art or literature has the potential to open radically different ways of thinking about identity, politics and culture. The appearance of a new aestheticism at a moment that is often termed 'post-theoretical' is a direct index of the extent to which, as 'theory' now enters a more reflective phase, there is an increased willingness among critics and philosophers to consider the ways in which literary and cultural theory often overlooked key aspects of its reliance on philosophical aesthetics. With its impressive array of contributors, The new aestheticism will be of particular interest to students and scholars of literature, philosophy and cultural studies.",
+      "cited_by_count": 54,
+      "type": "book",
+      "source": {
+        "name": "Manchester University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.9760/mupoa/9780719061387"
+      },
+      "topics": [
+        "Crime and Detective Fiction Studies",
+        "Contemporary Literature and Criticism",
+        "Shakespeare, Adaptation, and Literary Criticism"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W1847948182"
+    },
+    {
+      "openalex_id": "W3018651404",
+      "doi": "10.1215/21599785-8221542",
+      "title": "History and the Lesser Death",
+      "authors": [
+        {
+          "name": "Omnia El Shakry",
+          "openalex_id": "A5024608765"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-01",
+      "abstract": "In \u201cTheses,\u201d section iii, the collective reflects upon the interconnected practice of critical theory and history. \u201cCritical historians . . . recognize that they are psychically, epistemologically, ethically, and politically implicated in their objects of study. . . . Psychically, historians should acknowledge and try to work through, rather than simply act out, their unconscious investments in their material. . . . Ethically, historians bear a responsibility toward\u2014are in some way answerable to\u2014the actors and ideas, as well as their legacies and afterlives, being analyzed\u201d (iii.6).What, then, is the role of ethics within the writing of history? And how might our ethics be connected to the psychic stakes we hold in our objects of study? As historians, what is our responsibility to the dead in our present historical moment of danger, what Sigmund Freud termed \u201cthe times on war and death\u201d (273)? In cultivating an ethics of listening to, and learning to speak with, the dead, how can we attend to the gravitas of this encounter, in which we are inherently implicated, both consciously and unconsciously?In our encounter with the dead across time and space, we could be said to inhabit the space of the barzakh\u2014a liminal zone or an isthmus. Such an isthmus was conceptualized by the medieval mystic Ibn al-\u02bfArabi (1165\u20131240) as a space between the existent and the nonexistent, the known and the unknown, \u201cwhich is neither the one nor the other but which possesses the power (quwwa) of both\u201d (qtd. in Chittick, Sufi Path 118). Separating the living and the dead, death and resurrection, the corporeal and the spiritual, the barzakh is the domain of the imagination and the imaginal world. All humans partake of this imaginal world, and it is most manifest in the realm of sleep and the dream, an imaginal realm of being known as the lesser death (Chittick, Self-Disclosure 338\u201339).Writing history may be conceptualized as just such a realm of the lesser death, in which a communication with the beyond of life takes place. In the minor traditions of modern historiography, the ethico-theological implications of writing history have been emphasized and connected to the critique of historicism. Within Walter Benjamin\u2019s critique of historicism, the open-endedness of a messianic eschatological future in which \u201cevery second of time was the strait gate though which the Messiah might enter\u201d (264) afforded the critical historian the opportunity to recognize \u201cthe sign of a Messianic cessation of happening, or, put differently, a revolutionary chance in the fight for the oppressed past . . . in order to blast a specific era out of the homogeneous course of history\u201d (263).We might imagine Benjamin\u2019s cessation, the caesura of the present in which the critical historian is writing history, \u201cin which time stands still and has come to a stop\u201d (262) as analogous to the space of the barzakh. Dwelling in the caesura between past and present would not be possible were it not for what Benjamin termed the \u201chere-and-now\u201d (Jetztzeit) of history. The past, both of the individual and the collectivity, appears not as a frozen inheritance, nor as a disruption of the present, but as a liminal encounter with death itself, which takes place in the Jetztzeit, in which we confront our own finitude and the \u201cwork of death.\u201d The critical historian \u201cestablishes a conception of the present as the \u2018time of the now\u2019 which is shot through with chips of Messianic time\u201d (263).Such an eschatological orientation of the historian should not surprise us. One need only be reminded of Karl L\u00f6with, for whom the modern philosophy of history and the historical consciousness of the Judeo-Christian Occident was \u201cindeed, determined by an eschatological motivation, from Isaiah to Marx, from Augustine to Hegel, and from Joachim to Schelling\u201d (18). Within this view of history, he noted, \u201cthe past is a promise to the future; consequently, the interpretation of the past becomes a prophecy in reverse, demonstrating the past as a meaningful \u2018preparation\u2019 for the future\u201d (L\u00f6with 6). Crucially, such a view resonates as well with the ethical orientation of psychoanalysis. In his Seminar on Ethics, Jacques Lacan proposed an experimental ethical orientation toward the Last Judgment, conceiving ethics as \u201cthe relationship between action and the desire that inhabits it\u201d (313).1 Such an ethical encounter could only be thought through in relation to the Last Judgment and it stood in explicit contrast to any notion of ethics structured by commonplace understandings of the Good.Lacanian psychoanalysis places ethics at the core of man\u2019s relationship to the Good, as an unconscious dialectical relationship between the subject and the law mediated through enjoyment (jouissance). And yet within Lacan\u2019s framework the Good is not imagined as the moral universe of general values (neither \u201cthe moral \u2018ought\u2019 of the superego\u201d nor the Kantian categorical imperative), but rather a positive orientation toward what lies beyond the formal law, an \u201cantimoralistic ethics\u201d (De Kesel 50\u201351). For Lacan, ethics referred to the \u201cparadoxical possibility that one can consciously confront oneself with the domain in which one usually disappears, namely the domain of the \u2018thing,\u2019 of jouissance\u201d (De Kesel 267). Thus conceptualized, ethics requires a turn away from \u201cthe service of goods\u201d (Lacan, Seminar 313)\u2014from the instrumental, the self-preservative, in short from the moral and material economy of modern humanity as we know it to be confined \u201cto the most formidable social hell\u201d (Lacan, \u201cAggressiveness\u201d 101).If ethics entails an orientation to our desires and \u201cin the end desire is desire for death and for nothing,\u201d then the \u201cLacanian \u2018thing\u2019 names this stubborn kind of \u2018nothing.\u2019 . . . It is the \u2018nothing\u2019 that would survive us even if we satisfied our (death) desire with the entire world\u201d (De Kesel 101). Is this not the destruction of the world which we are now witnessing? Das Ding precisely as a nothing \u201cwhich would survive us even if we satisfied our (death) desire with the entire world.\u201d Preserving this distance, bringing it into view, encircling it; highlighting the modalities in which other traditions have brought this abyss, this gap or b\u00e9ance, into view is the purview of psychoanalysis, theology, and by extension, one might argue, critical history.If the task of the critical historian, in Benjamin\u2019s words, is \u201cto seize hold of a memory as it flashes up at a moment of danger,\u201d then it is only by contemplating our own disappearance, or stated differently, our own death, within a moment of danger that the historian can seize the past \u201cas an image which flashes up at the instant when it can be recognized and is never seen again. . . . For every image of the past that is not recognized by the present as one of its own concerns threatens to disappear irretrievably\u201d (255). In encountering our own disappearance and the deathliness of our drive in the realm of the lesser death we confront the deadly enjoyment of our catastrophic times, confronting das Ding as a radical evil around which we must keep our distance and yet ethically orient ourselves. It is in this impossible space where humans confront the excess of their drives that a meaningful historical knowledge might be created. \u25a0",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "History of the Present",
+        "type": "journal",
+        "issn": [
+          "2159-9785",
+          "2159-9793"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W3018651404"
+    },
+    {
+      "openalex_id": "W2022944587",
+      "doi": "10.1215/10679847-9-2-287",
+      "title": "Spectral Times: The Ghost Film As Historical Allegory",
+      "authors": [
+        {
+          "name": "Bliss Cua Lim",
+          "openalex_id": "A5001731298"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-05-01",
+      "abstract": "Ghosts call our calendars into question. The temporality of haunting, through which events and people return from the limits of time and mortality, differs sharply from the modern concept of a linear, progressive, universal time. The hauntings recounted by ghost narratives are not merely instances of the past reasserting itself in a stable present, as is usually assumed; on the contrary, the ghostly return of traumatic events precisely troubles the boundaries of past, present, and future, and cannot be written back to the complacency of a homogeneous, empty time. There is a tension involved in films that use ghost stories as a provocation to historical consciousness. Ghost films that are also historical allegories make incongruous use of the vocabulary of the supernatural to articulate historical injustice, referring to \u201csocial reality\u201d by recourse to the undead. Such ghost narratives productively explore the dissonance between modernity\u2019s disenchanted time and the spectral temporality of haunting in which the presumed boundaries between past, present, and future are shown to be shockingly permeable. In Rouge [Yanzhi Kou] (dir. Stanley Kwan, 1987) and Haplos [Caress] (dir. Antonio Jose \u201cButch\u201d Perez, 1982), ghostly women embody a strong notion of spatiotemporal nonsynchronism\u2014the existence of noncontemporaneous aspects of social life that cannot be fully translated into modernity\u2019s disenchanted time. The ghost narratives in Rouge and Haplos function as an allegorical frame in which an almost-forgotten history becomes newly meaningful as a kind of haunting or ghostly return. These ghost films draw from their respective cultural discourses in order to vivify the \u201cpresent\u2019s\u201d accountability to the concerns of the \u201cpast,\u201d and in so doing call into question the ways in which modern homogeneous time conceives of those very temporal categories.",
+      "cited_by_count": 59,
+      "type": "article",
+      "source": {
+        "name": "positions asia critique",
+        "type": "journal",
+        "issn": [
+          "1067-9847",
+          "1527-8271"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/positions/article-pdf/9/2/287/461515/02-Lim.pdf"
+      },
+      "topics": [
+        "Gothic Literature and Media Analysis",
+        "Crime and Detective Fiction Studies",
+        "Shakespeare, Adaptation, and Literary Criticism"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2022944587"
+    },
+    {
+      "openalex_id": "W2800085539",
+      "doi": "10.22215/etd/2016-11453",
+      "title": "Walter Benjamin and Kitsch Politics in the Phantasmagorical Age",
+      "authors": [
+        {
+          "name": "Aysegul Ergul",
+          "openalex_id": "A5077120580",
+          "institutions": [
+            "Carleton University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "In this dissertation I explore the relationship between politics, aesthetics, culture and technology by (re)thinking and (re)conceptualizing the concept of kitsch as a theoretical construct in order to investigate the dream-worlds of Europe which sprang at the intersection of liberalism, social democracy and capitalism. I argue that the unexplored potentialities of kitsch, as a concept, reside in the analysis of the dream-worlds, which have been occupying the social and political imaginaries of Western individuals, communities and institutions since the disenchantment of the world. My methodological approach is built on Benjamin's notion of historical materialism. Thus, I engage with the historical object(s) (e.g., arcades, fashion, technological reproductions etc.) not as \"object(s) of experience\" but as a \"participant(s) in historical experience\" (Caygill 2004, 90). Challenging the progressive notion of history, I argue that within the objective impenetrability of commodity fetishism a \"sur-real\" world of fetishized images -that is, kitsch -emerges, alienated from the individual and the collective, yet constituting and shaping them. By mapping out the implications of this \"sur-real\" world on \"the political,\" the collective (un)conscious and action, I conclude that alternative politics could arise from the unsettling interpretations of the reified and symbolic expressions of this same \"sur-real\" world, paving a path for new political imaginaries.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://repository.library.carleton.ca/downloads/736665352"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Cinema and Media Studies"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W2800085539"
+    },
+    {
+      "openalex_id": "W2177010071",
+      "doi": "10.1086/648526",
+      "title": "The Schmittian Messiah in Agamben's<i>The Time That Remains</i>",
+      "authors": [
+        {
+          "name": "Brian Britt",
+          "openalex_id": "A5024671178"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-12-21",
+      "abstract": "the New Testament writings attributed to Paul have much to say on contemporary debates over politics and religious tradition. 1 Unlike other thinkers who have turned to Paul at moments of crisis and innovation, Badiou, Z iz ek, and Agamben neither write as theologians nor profess Christianity. In what some have called our postsecular present, religious tradition has become a serious category of analysis in circles of political and cultural theory for the first time. Taking the measure of this new intellectual trend calls for careful readings of books on the subject, among the most interesting of which is Agamben's The Time That Remains, a series of seminar lectures (given in Paris, Verona, and Berkeley during 1998 -99) that explores the influence of Paul's letters on messianic thought. Weaving in and out of the Greek text of Romans, other New Testament texts, and numerous works of modern political and cultural theory, Agamben argues that Paul's letters represent the \"fundamental messianic text for the Western tradition\" (T, p. 1).",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Critical Inquiry",
+        "type": "journal",
+        "issn": [
+          "0093-1896",
+          "1539-7858"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/648526"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Hannah Arendt's Political Philosophy",
+        "Franz Kafka Literary Studies"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2177010071"
+    },
+    {
+      "openalex_id": "W3091147109",
+      "doi": "10.3390/rel11100504",
+      "title": "Theology of Revolution: In Ali Shari\u2019ati and Walter Benjamin\u2019s Political Thought",
+      "authors": [
+        {
+          "name": "Mina Khanlarzadeh",
+          "openalex_id": "A5050833837",
+          "orcid": "https://orcid.org/0000-0002-3138-4428",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-01",
+      "abstract": "In this paper, I offer a comparative analysis of the political thoughts of twentieth century Iranian revolutionary thinker and sociologist Ali Shari\u2019ati (1933\u20131977) and German-Jewish philosopher Walter Benjamin (1892\u20131940). Despite their conspicuously independent historical-theoretical trajectories, both Shari\u2019ati and Benjamin engaged with theology and Marxism to create theological\u2013political conceptions of the revolution of the oppressed. Shari\u2019ati re-interpreted and re-animated Shia history from the angle of contemporary concerns to theorize a revolution against all forms of domination. In comparison, Benjamin fused Marxism with Jewish theology in his call to seize the possibilities of past failed revolutions in the present. Both Shari\u2019ati and Benjamin conceptualized an active messianism led by each generation, eliminating the wait for the return of a messiah. As a result, each present moment takes on a messianic potential; the present plays an essential role to both thinkers. Past was also essential to both, because theology (through remembrance) had made the past sufferings incomplete to them. Both thinkers viewed past sufferings as an integral part of present struggles for justice in the form of remembrance (or y\u0101d or zekr for Shari\u2019ati, and Zekher for Benjamin). I explore the ways Shari\u2019ati and Benjamin theorized the role of the past in the present, remembrance, and messianism to create a dialectical relation between theology and Marxism to reciprocally transform and compliment both of them.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/11/10/504/pdf?version=1601546481"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Jewish and Middle Eastern Studies",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W3091147109"
+    },
+    {
+      "openalex_id": "W2685655430",
+      "doi": "10.21476/pp.2017.31161",
+      "title": "In Our Hands: An Ethics of Gestural Response-ability. Rebecca Schneider in conversation with Lucia Ruprecht",
+      "authors": [
+        {
+          "name": "Rebecca Schneider",
+          "openalex_id": "A5069595220",
+          "orcid": "https://orcid.org/0000-0002-8496-4178",
+          "institutions": [
+            "John Brown University"
+          ]
+        },
+        {
+          "name": "Lucia Ruprecht",
+          "openalex_id": "A5054429770",
+          "institutions": [
+            "Emmanuel College - Massachusetts",
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-25",
+      "abstract": "The following conversation aims to trace the role of gesture and gestural thinking in Rebecca Schneider\ufffds work, and to tease out the specific gestural ethics which arises in her writings. In particular, Schneider thinks about the politics of citation and reiteration for an ethics of call and response that emerges in the gesture of the hail. Both predicated upon a fundamentally ethical relationality and susceptible to ideological investment, the hail epitomises the operations of the \ufffdboth/and\ufffd\ufffda logic of conjunction that structures and punctuates the history of thinking on gesture from the classic Brechtian tactic in which performance both replays and counters conditions of subjugation to Alexander Weheliye\ufffds reclamation of this tactic for black and critical ethnic studies. The gesture of the hail will lead us, then, to the gesture of protest in the Black Lives Matter movement. The hands that are held up in the air both replay (and respond to) the standard pose of surrender in the face of police authority and call for a future that might be different. Schneider\ufffds ethics of response-ability thus rethinks relationality as something that always already anticipates and perpetually reinaugurates possibilities for response.",
+      "cited_by_count": 60,
+      "type": "article",
+      "source": {
+        "name": "Performance Philosophy",
+        "type": "journal",
+        "issn": [
+          "2057-7176",
+          "2947-5589"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.performancephilosophy.org/journal/article/download/161/173"
+      },
+      "topics": [
+        "Posthumanist Ethics and Activism",
+        "Theatre and Performance Studies",
+        "Spatial and Cultural Studies"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2685655430"
+    },
+    {
+      "openalex_id": "W4386769042",
+      "doi": "10.1007/978-3-031-35469-4_26-1",
+      "title": "Walter Benjamin",
+      "authors": [
+        {
+          "name": "Michael Jopling",
+          "openalex_id": "A5060587396",
+          "orcid": "https://orcid.org/0000-0002-2720-5650",
+          "institutions": [
+            "University of Brighton"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cris.brighton.ac.uk/ws/files/41950599/Encyclopedia_PDSE_Walter_Benjamin_accepted_1_.pdf"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4386769042"
+    },
+    {
+      "openalex_id": "W2163009771",
+      "doi": null,
+      "title": "The Relationship of Canon and Messiah: The Convergence of Jan Assmann and Walter Benjamin on a Theory of Monotheistic Canon",
+      "authors": [
+        {
+          "name": "Colby Dickinson",
+          "openalex_id": "A5032967608",
+          "orcid": "https://orcid.org/0000-0002-9019-6013"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-04-20",
+      "abstract": "This paper focuses upon the relationship between the German Egyptologist Jan Assmann and the German-Jewish late modern literary critic Walter Benjamin as regards the movement from canons to messianic forces. It therefore traces the evolution in Assmann\u2019s thought from issues surrounding the processes of canonization to his development of a form of \u2018weak thought\u2019 in relation to religious violence before then turning to Benjamin\u2019s portrayal of a \u2018weak messianic force\u2019 moving through history which is only conceivable in close proximity to a scriptural legacy and a divine (or \u2018pure\u2019) violence, as he saw it. Additionally, this essay draws a line connecting the work of each in order to solidify the structure and function of the monotheistic canon as being not only at the heart of western civilization, but also at the heart of all cultural transmissions today. That is, the formal elements at work in the canonical-messianic relationship are universally applicable for all identity formation of modern subjectivities, whether political, cultural or religious, insofar as the entire realm of representations appears to be governed by a canonical sense of normativity. A closer inspection then of how these elements were brought together in their original religious context might therefore better enable us to discern the effects which canons have upon the construction of identities in a globalized world today.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Loyola eCommons (Loyola University Chicago)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1017&context=theology_facpubs"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Political Theology and Sovereignty",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 59,
+      "url": "https://openalex.org/W2163009771"
+    },
+    {
+      "openalex_id": "W2275039107",
+      "doi": "10.1215/08992363-3325064",
+      "title": "History without Chronology",
+      "authors": [
+        {
+          "name": "Stefan Tanaka",
+          "openalex_id": "A5035896387",
+          "orcid": "https://orcid.org/0000-0003-0046-5097",
+          "institutions": [
+            "University of California San Diego"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-02",
+      "abstract": "This essay calls for historians to move beyond chronological time in the writing and understanding of history. It first shows that chronology and modern history are historical, not natural, and then offers some simple correctives, such as recognizing different timescales and writing histories using the dating system of that place or object. It then suggests that we invert the relation between stasis and mobility so that we do not unwittingly use anachronistic categories and considers how historians, by forgoing chronology, can be more precise and complex about questions of change. Finally, it invokes provocations from Norbert Elias and Michel Serres that call for new frameworks for thinking about history and pasts.",
+      "cited_by_count": 35,
+      "type": "article",
+      "source": {
+        "name": "Public Culture",
+        "type": "journal",
+        "issn": [
+          "0899-2363",
+          "1527-8018"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/37747/1/9781643150048.pdf"
+      },
+      "topics": [
+        "Sociology and Norbert Elias",
+        "Anthropological Studies and Insights",
+        "European Political History Analysis"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W2275039107"
+    },
+    {
+      "openalex_id": "W2908659663",
+      "doi": "10.13128/aisthesis-23419",
+      "title": "Walter Benjamin and the Principle of Repetition",
+      "authors": [
+        {
+          "name": "Marina Montanelli",
+          "openalex_id": "A5075346375",
+          "orcid": "https://orcid.org/0000-0002-2968-7323",
+          "institutions": [
+            "Florence (Netherlands)"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-09",
+      "abstract": "The following essay aims to analyze the problem of repetition in the reflection of Walter Benjamin. Showing first of all how this concept, singularly neglected by critics, is the unexpected centre towards which the philosopher\u2019s entire reflection converges, thus offering a new reading of his entire production. All the vast domains of Benjamin\u2019s speculation are thoroughly rethought starting from this idea, revealing how what is at stake is a more articulated movement of the eternal recurrence of the same, which characterizes mythical temporality. A movement that has to do with the constitution of the human and which indeed exhibits an intimate link between repetition and innovation, repetition and the constructive principle. Another intention of this text is therefore to carry out an in depth analysis of this connection, to question the nature of such a gesture, both repetitive and differential, and its relationship with the recurrence of the ever self-same, therefore with the possible way out of the myth.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Florence Research (University of Florence)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://oajournals.fupress.net/index.php/aisthesis/article/view/982"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2908659663"
+    },
+    {
+      "openalex_id": "W74377262",
+      "doi": null,
+      "title": "Faust on film: Walter Benjamin and the cinematic ontology of Goethe\u2019s Faust 2",
+      "authors": [
+        {
+          "name": "Matthew Charles",
+          "openalex_id": "A5061992298",
+          "orcid": "https://orcid.org/0000-0001-9657-3935"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-03-01",
+      "abstract": "Isn't it an affront to Goethe to make a film of Faust, and isn't there a world of difference between the poem Faust and the film Faust?Yes, certainly.But, again, isn't there a whole world of difference between a bad film of Faust and a good one?Walter Benjamin, Arcades Project (N1a, 4",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Research Repository (Kingston University London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.radicalphilosophy.com/article/faust-on-film"
+      },
+      "topics": [
+        "German Literature and Culture Studies",
+        "Cinema and Media Studies",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W74377262"
+    },
+    {
+      "openalex_id": "W2345504236",
+      "doi": "10.13128/aisthesis-18241",
+      "title": "\u201cIntermittency: the differential of time and the integral of space. The intensive spatiality of the Monad, the Apokatastasis and the Messianic World in Benjamin's latest thinking\u201d",
+      "authors": [
+        {
+          "name": "Fabrizio Desideri",
+          "openalex_id": "A5023625482",
+          "orcid": "https://orcid.org/0000-0003-1254-1835"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-09",
+      "abstract": "The main topic of my paper concerns the theological-philosophical nexus between the intensive and qualitative spatiality of the Monad and the Origenian idea of Apokatastasis as a nexus that can clarify Benjamin's latest idea of the Messianic World. The first step will be, therefore, to explain (1) Benjamin's use of the Origenian notion of Apokatastasis in his Essay on Leskov and in the Passagenwerk. Secondly, I will discuss (2) how and to what extent such use is relevant for Benjamin's idea of Messianism. Thirdly, I will propose (3) the thesis that, for Benjamin, a messianic idea of time implies a monadological idea of space. In this regard, the relationship between continuity and discontinuity, which is crucial to understand the late Benjamin's idea of history, must be understood precisely as a dialectical relationship that involves not only time but also space. (4 ) The figure of intermittence \u2013 as we shall see \u2013 expresses in the most suitable way the intertwining of space and time as dialectically and messianicaly oriented. This sequence of logical steps and critical considerations will shed light on the true nature of Benjamin's idea of dialectics and on its relationship to the idea of the totality. The real term of confrontation of Benjamin's late philosophy (from the Passagenwerk to the Theses on the concept of history) does not concern, therefore, Heidegger, but Hegel. In the light of this confrontation, Heidegger's Being and Time is already in pieces. It is as it were \u2013 we can say \u2013 behind Benjamin's movement of thought.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doaj.org/article/49bb668dcb4348fca9e8263b6bf20e15"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "French Literature and Critical Theory",
+        "Literature, Culture, and Criticism"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2345504236"
+    },
+    {
+      "openalex_id": "W3041317316",
+      "doi": "10.6084/m9.figshare.12424547",
+      "title": "Arnold Hauser, Walter Benjamin and the mythologization of history",
+      "authors": [
+        {
+          "name": "C\u00e9sar Salda\u00f1a Puerto",
+          "openalex_id": "A5084209295",
+          "orcid": "https://orcid.org/0000-0001-6408-052X"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "There are conspicuous parallelisms \u2014and symmetries\u2014 between the scholarly fates of Walter Benjamin and Arnold Hauser. While the first failed to attain any sort of success during his lifetime, the latter\u2019s instant widespread diffusion went hand in hand with an ambiguous academic reception. However, if Benjamin posthumously grew to become a major author, Hauser remained an outsider, whose figure has faded and re-emerged with dubious fortune. In spite of opposite lucks, both authors were marked by a strong anti-positivistic attitude which sought to establish a distinct methodology for the social sciences, striving to understand the present through art criticism. Departing from broad considerations of their philosophical backgrounds, this paper will further illustrate their similarities and differences by examining shared accusations that weight on them: their controversial forms of Marxism point to a conception of art criticism that handles historical narrative as myths, rendering their methods close to psychoanalytical dream interpretation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Figshare",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://figshare.com/articles/Arnold_Hauser_Walter_Benjamin_and_the_mythologization_of_history/12424547"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3041317316"
+    },
+    {
+      "openalex_id": "W3005834626",
+      "doi": "10.13128/aisthesis-10744",
+      "title": "Hamlet or Europe and the end of modern Trauerspiel. On some shakespearians motifs in Walter Benjamin",
+      "authors": [
+        {
+          "name": "Fabrizio Desideri",
+          "openalex_id": "A5023625482",
+          "orcid": "https://orcid.org/0000-0003-1254-1835"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Hamlet\u00e2\u0080\u0099s character sets, under different shapes and extents, the benchmark against which a large part of the European philosophy of the very long \u00c2\u00abshort twentieth-century\u00c2\u00bb behind us has had to measure. In the name of Hamlet as the most enigmatic among Shakespeare\u00e2\u0080\u0099s creatures, even Europe, its spirit and destiny, is identified, according to the well-known claim by Paul Valery. Common trait to a big part of these interpretations \u00e2\u0080\u0093 from the juvenile works of Pavel Florenskij and Lev S. Vygotskij (respectively written in 1905 and 1915) to Carl Schmitt\u00e2\u0080\u0099s Hamlet oder Ekuba. Der Einbruch der Zeit in das Spiel (1956) \u00e2\u0080\u0093 is offered by the detection, in Hamlet\u00e2\u0080\u0099s figure, of the contradiction inherent to an epochal transition: the time of an unresolved passage between two ages that only knows the endless pain of an \u00e2\u0080\u009cinterim\u00e2\u0080\u009d. My paper concerns the possibility to interpret Hamlet\u00e2\u0080\u0099s time as the time of an \u00e2\u0080\u009cinterim\u00e2\u0080\u009d in light of Benjamin\u00e2\u0080\u0099s claims about Shakespeare\u00e2\u0080\u0099s drama contained in his book on the German Trauerspiel. While Florenskij interprets Hamlet\u00e2\u0080\u0099s time as tragic and the figure of Hamlet as a tragic one, in my essay - moving from some observations on the \" Hamlet Problem \" by the young Franz Rosenzweig - I consider the original Benjaminian thesis about the character and the drama of Hamlet as the end of the modern Trauerspiel. Starting from a statement by Theodor Adorno in the famed Hornberger Brief to Benjamin of August 2, 1935, I outline, therefore, how Benjamin characterizes the figure of Hamlet. This, from his early writings on the relationship between tragedy and Trauerspiel up to the great book on the Origin of the German Trauerspiel. In the frame of Benjamin\u00e2\u0080\u0099s interpretation, exactly by virtue of its distance from the thesis on the duality of tragedy (evoked by Florenskij\u00e2\u0080\u0099s interpretation as well as other ones), the Shakespearian theatrum of consciousness, paradigmatically represented in the figure of Hamlet and in the intimately dialectic character of his drama, is accounted for as necessary correlate of the Cartesian\u00e2\u0080\u0099s theatrum of consciousness. From a theoretical point of view, the Benjaminian characterization of Hamlet's figure reveals, therefore, something of the nature of modern consciousness and of consciousness in general in relation to the problem of truth and its representation. Hence the end of modern Trauerspiel coincides with the original incompleteness of its time. Consequently, I also claim Hamlet's dramatic figure to represent the aporetic characters of modern politics. This contrasts the thesis of Carl Schmitt who (in direct controversy with Benjamin) speaks, instead, of the Shakespearean drama as an expression of a pre-modern barbaric time.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Florence Research (University of Florence)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2158/1180797"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "German Literature and Culture Studies",
+        "Literature and Cultural Memory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3005834626"
+    },
+    {
+      "openalex_id": "W2072455676",
+      "doi": "10.12697/sss.2014.42.1.01",
+      "title": "Lotmanian explosion: From peripheral space to dislocated time",
+      "authors": [
+        {
+          "name": "Soo Hwan Kim",
+          "openalex_id": "A5049263804",
+          "orcid": "https://orcid.org/0000-0001-5213-9213",
+          "institutions": [
+            "Hankuk University of Foreign Studies"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-26",
+      "abstract": "The problem of the \u201cshift\u201d in Lotmanian thought in his last period (the so-called Lotmanian explosion) still remains a subject of controversy for those who are interested in the scholarly heritage of Lotman. Besides explanations pointing out the \u201ccircumstantial\u201d factors (for example, the historical context or influence from other thinkers) which brought about changes in Lotman\u2019s views, it is important to identify a dimension of substantial \u201cinternal\u201d changes which took place in the theoretical system itself. Regarding the essential changes relating to the concept of explosion as a movement from a \u2018spatial\u2019, more specifically \u2018centre-periphery\u2019 model to a \u2018temporal\u2019, namely \u2018dislocated time\u2019 model, the present article will focus on revealing the theoretical implication of this movement. The concept of explosion as an exceptional moment of \u2018time out of joint\u2019 was an active alternative to a theoretical breakthrough which was introduced in the process of overcoming the limitations of a previous \u2018spatial\u2019 model.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Sign Systems Studies",
+        "type": "journal",
+        "issn": [
+          "1406-4243",
+          "1736-7409"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://ojs.utlib.ee/index.php/sss/article/download/SSS.2014.42.1.01/10668"
+      },
+      "topics": [
+        "Slime Mold and Myxomycetes Research"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2072455676"
+    },
+    {
+      "openalex_id": "W2562352300",
+      "doi": "10.4000/am.573",
+      "title": "Casting a Picture",
+      "authors": [
+        {
+          "name": "Cat Moir",
+          "openalex_id": "A5003897626",
+          "orcid": "https://orcid.org/0000-0002-2573-4030",
+          "institutions": [
+            "University of Concepci\u00f3n",
+            "Berlin University of the Arts"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Drawing on Walter Benjamin\u2019s concept of the dialectical image, this paper reads Ernst Bloch\u2019s utopian Heimat figure as poetically staging the temporal dialectics of materialist history. Bloch combines romantic, messianic and materialist temporalities in a critique of the modern progress narrative, which inscribes historicity in the mere next-ness of each now. The continued oppression, exploitation and alienation of human beings under conditions of modern capitalism stands as testimony to the falseness of this assumption. Far from the simplistic teleology with which materialist theories of history in general, and Bloch\u2019s in particular, have so often been identified, utopia as Heimat sets up a complex spatiotemporal matrix which fixes the present as the locus of possibility of transformative action. Only by activating the unfulfilled claims of the past in the interest of a more just future can human beings occupy utopia: that is the meaning which I argue Bloch\u2019s Heimat image brings to bear on contemporary materialist thought and practice.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Anthropology & Materialism",
+        "type": "journal",
+        "issn": [
+          "2364-0480"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.openedition.org/am/pdf/573"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Walter Benjamin Studies Compilation",
+        "Political Theology and Sovereignty"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W2562352300"
+    },
+    {
+      "openalex_id": "W3204436012",
+      "doi": "10.46827/ejsss.v7i1.1154",
+      "title": "THE ANGEL OF HISTORY AND THE RUINS OF PARIS: WALTER BENJAMIN IN FRANCE OR THE PROGRESS AS CATASTROPHE",
+      "authors": [
+        {
+          "name": "Emma Barrett Fiedler",
+          "openalex_id": "A5011807478"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-22",
+      "abstract": "If Walter Benjamin's writings have been mostly interpreted in the fields of art and literature critique, we would like here to take his philosophy of history more seriously, despite its acknowledged lack of unity (Habermas 1988: 32) and systematicity (Arendt 1960: 248). Drawing from the well-known allegory of the \u201cAngel\u201d developed in his theses on the concept of history written at the beginning of the Second World War and just before his death in Port-Bou, we will further analyze his genealogical critique of Parisian modernity contained in the Arcades Project, a work undertook more than a decade before, during his exile in France. In echo with the imagination of prospective ruins which florished during the modernization of the French capital after the 1850's, Benjamin's conception of progress, understood as a catastrophe submitting industrial capitalist societies to a permanent \u201cstate of emergency\u201d, is thus combined with the theorization of a \u201cCopernician revolution in the field of historical method\u201d (Benjamin 1999: 348). Beyond Benjamin's phenomenological enterprise of a physiognomy of material modernity, and the romantic and surrealistic sensibility of his \u201canthropological materialism\u201d, his philosophy of progress inscribes itself in a radical paradigm rendering its centrality to the idea of catastrophe (Anders 1972; Dupuy 2004; Stengers 2009), against the accidental role it holds in the principles of precaution and \u201cresponsibility\u201d (Jonas 1979) and in the nowadays dominant paradigm of \u201crisk\u201d (Beck 1986); furthermore, \u201cour\u201d catastrophes would have in a Benjaminian perspective to be diagnosed in the past and the present rather than anticipated for the future. &#x0D; &#x0D; &lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt; Article visualizations:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=\"/-counters-/edu_01/0793/a.php\" alt=\"Hit counter\" /&gt;&lt;/p&gt;",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "European Journal of Social Sciences Studies",
+        "type": "journal",
+        "issn": [
+          "2501-8590"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://oapub.org/soc/index.php/EJSSS/article/download/1154/1740"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W3204436012"
+    },
+    {
+      "openalex_id": "W2237726814",
+      "doi": null,
+      "title": "Rhetoric of the visual : metaphor in a still image",
+      "authors": [
+        {
+          "name": "Kimmo Lehtonen",
+          "openalex_id": "A5111649643"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "unknown accessibility",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Jyv\u00e4skyl\u00e4 University Digital Archive (University of Jyv\u00e4skyl\u00e4)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://urn.fi/URN:ISBN:978-951-39-4547-3"
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2237726814"
+    },
+    {
+      "openalex_id": "W2626662907",
+      "doi": null,
+      "title": "Ahead of its time : historicity, chronopolitics, and the idea of the avant-garde after modernism",
+      "authors": [
+        {
+          "name": "Chrysi Andriani Papaioannou",
+          "openalex_id": "A5008721204"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-30",
+      "abstract": "In its etymology and in popular discourse, the term \u2018avant-garde\u2019 is commonly associated with a future temporality, while in art-historical discourse, it represents a tradition of modernist innovation, periodised as \u2018historical avant-garde\u2019 and \u2018neo-avant-garde\u2019. Since this historical periodisation was first established in the 1950s, the avant-garde\u2019s futurity has been repeatedly disputed, bringing the very notion of an avant-garde into question. This thesis takes as its starting point the predicament of \u2018an avant-garde after the avant-garde\u2019 as a means to investigate the philosophico-political implications of a historical temporality marked by \u2018afterness\u2019. Writing in critical dialogue with scholarship that has articulated the avant-garde as a notion of historical time, the thesis modifies the parameters of this scholarship by foregrounding the category of historicism, and by reformulating the avant-garde as a notion that both resists and inhabits historical periodisation. As a study at the disciplinary intersection of comparative literature and critical theory, 'Ahead of its Time' proceeds via close readings of selected theories of the avant-garde (German literary scholar Peter B\u00fcrger\u2019s foundational Theory of the Avant-Garde in the 1970s; British art theorist John Roberts\u2019 formulation of a \u2018suspensive avant-garde\u2019 in the twenty-first century; and the intellectual debates of the Italian circle Neoavanguardia in the 1960s), while also mobilising the critical resources available in the thought of Walter Benjamin. Through a non-linear, comparativist critical analysis that discusses these theories in, and as, a Benjaminian constellation, the thesis proposes the avant-garde as a relational, indexical category that is constitutively split between historical continuity and historical rupture. In this manner, 'Ahead of its Time' revisits the broader question of mediation between universality and particularity, and by recasting it in temporal terms, it advocates a chronopolitics of singularity, whereby the avant-garde\u2019s split between continuity and rupture also reveals the ethically-necessary relationship between self-determination and contingency.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/PAPAOI.pdf"
+      },
+      "topics": [
+        "Art, Politics, and Modernism",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2626662907"
+    },
+    {
+      "openalex_id": "W2593050901",
+      "doi": "10.4000/am.789",
+      "title": "Where the Past Was, There History Shall Be",
+      "authors": [
+        {
+          "name": "Sami Khatib",
+          "openalex_id": "A5048049510",
+          "orcid": "https://orcid.org/0000-0002-4949-5038",
+          "institutions": [
+            "Berlin University of the Arts"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "As the proverb has it, \u2018tradition is not to preserve the ashes but to pass on the flame\u2019. Taking this image as a starting point, this paper is interested in non-conservative concepts of tradition and (dis)continuity. If the concept of tradition is normally associated with continuity, the concept of tradition poses the question of transmittability. Is there a continuous medium in which narrations, customs, rites or other material practices can be handed down from the past to the present? If the transmittability of tradition is not a given, a commodified object, but subject to historical change, the question of tradition and inheritance is inextricably linked to social and political struggles. The concept of tradition, however, has mostly been theorized by conservative thinkers. In this vein, traditional historical materialism viewed tradition as a counter-progressive retarding force. Walter Benjamin (1940), however, proposed a different concept of historical time and tradition. History is not based on a progressive flow of \u201chomogeneous, empty time\u201d but on disruptive constellations of the present and the past. The past is never fully gone; it can never be fully historicized. The medium in which the present is connected to all lost causes and struggles of those who literally and metaphorically lost their histories is called the \u201ctradition of the oppressed.\u201d Paradoxically, this medium is a discontinuum \u2013 its texture is woven out of struggles, empty-spots and disconnected elements which cannot be represented in one transmittable image or inscribed into one multifaceted yet coherent world-history. If the \u201ctradition of all dead generations weighs like a nightmare on the brains of the living\u201d (Marx), then the tradition of the oppressed will also haunt all attempts to repress it completely and erase its experience in the linear continuum of \u201cvictor\u2019s history.\u201d But how are we to pass on an oppressed tradition? How can the tradition of the oppressed be recalled, actualized and \u201cworked through\u201d?",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Anthropology & Materialism",
+        "type": "journal",
+        "issn": [
+          "2364-0480"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://journals.openedition.org/am/pdf/789"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2593050901"
+    },
+    {
+      "openalex_id": "W4313812006",
+      "doi": "10.26686/wgtn.21837039",
+      "title": "Virtual Fashion: Digital Representations of Materiality and Time",
+      "authors": [
+        {
+          "name": "Tyla Stevenson",
+          "openalex_id": "A5036483540",
+          "orcid": "https://orcid.org/0009-0006-3146-1880",
+          "institutions": [
+            "Victoria University of Wellington"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-09",
+      "abstract": "&lt;p&gt;&lt;strong&gt;This thesis analyses the recent exploration of virtual fashion and how it affects fashion\u2019s conceptual relationship to materiality and time. Virtual fashion is a digital rendering of a garment or accessory designed and sold for virtual spaces such as social media, video games, and metaverses. This research is navigating a novel area of fashion that intersects with new media studies. While previous research provides insight into the economic potential of virtual fashion in commercial spaces, this thesis focuses on the fundamental and metaphysical properties of fashion when represented in virtual spaces.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Walter Benjamin and his work on the Parisian arcades provide a theoretical framework for this thesis due to Benjamin\u2019s specific understanding of fashion, temporal materiality, and the revolutionary potential of material culture. By applying a Benjaminian framework, this project critically examines rhetoric amplified by virtual fashion brands and online fashion reporting to unpack an ideology of progress and investigate virtual fashion\u2019s political potential.&lt;/p&gt; &lt;p&gt;The case study DRESSX is a multi-brand virtual fashion retail boutique. This research examines the website as an object of material culture guided by a methodology incorporating a new materialist walkthrough and applied theory. The research findings suggest that virtual fashion performs many of the same social and cultural roles as material fashion. Additionally, virtual fashion maintains a relationship with time by displaying historical and politically charged design references and demonstrates a connection to materiality through new media hardware and its associated environmental impacts. This study provides a framework to critically engage with virtual fashion\u2019s conceptual and material outcomes as the industry continues to explore the potential of virtual spaces.&lt;/p&gt;",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://openaccess.wgtn.ac.nz/articles/thesis/Virtual_Fashion_Digital_Representations_of_Materiality_and_Time/21837039/1/files/38757219.pdf"
+      },
+      "topics": [
+        "Art, Politics, and Modernism",
+        "Walter Benjamin Studies Compilation",
+        "Fashion and Cultural Textiles"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W4313812006"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

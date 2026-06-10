@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Story Friendship...' author=Scholem
+[verify_paper.py] Paper found: Walter Benjamin... (score: 40.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Story Friendship",
+    "author": "Scholem"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.14375/np.9782251918280",
+      "title": "Walter Benjamin",
+      "authors": [
+        {
+          "family": "Scholem",
+          "given": "Gershom"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Les Belles Lettres",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.14375/np.9782251918280",
+      "score": 40.80202
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,90 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 3 paper(s)...
+[s2_batch.py] Processing 3 responses...
+[s2_batch.py] Found 3 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "3 paper IDs",
+  "results": [
+    {
+      "paperId": "81e0d5c85216208324edd907f17ea2e819846e3c",
+      "title": "Fire Alarm: Reading Walter Benjamin's 'On the Concept of History'",
+      "authors": [
+        {
+          "name": "M. L\u00f6wy",
+          "authorId": "1846283516"
+        },
+        {
+          "name": "Christena L. Turner",
+          "authorId": "32956948"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 176,
+      "doi": "10.5860/choice.44-0872",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81e0d5c85216208324edd907f17ea2e819846e3c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "81e0d5c85216208324edd907f17ea2e819846e3c"
+    },
+    {
+      "paperId": "7a19a85f62276cb4074574725ce6860461728f99",
+      "title": "The Philosophical Discourse of Modernity",
+      "authors": [
+        {
+          "name": "J. Habermas",
+          "authorId": "41210391"
+        }
+      ],
+      "year": 1985,
+      "abstract": null,
+      "citationCount": 1949,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7a19a85f62276cb4074574725ce6860461728f99",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ],
+      "_queryId": "7a19a85f62276cb4074574725ce6860461728f99"
+    },
+    {
+      "paperId": "3ca78146401e43f559c56796b80d20e663516ee3",
+      "title": "Left-wing melancholia today: Overview of a concept",
+      "authors": [
+        {
+          "name": "Filip Brze\u017aniak",
+          "authorId": "2398479596"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The following paper explores the connection between melancholy and the political Left, pro-posing an alternative to the prevailing psychoanalytic model of mourning and melancholia. This alternative conceptualises melancholy as an epistemological, ethical and historiographic attitude. The distinction is established through 1) a critical engagement with the works of Wendy Brown and Jodi Dean, representative of prevailing interpretations of left melancholy, and 2) the exposition and synthesis of writings by various authors, including Jonathan Flatley, Enzo Traverso, Bini Adamczak, Jacques Derrida and Mark Fisher. By reconstructing the in-herent logic in these texts, the paper presents and discusses key characteristics and arguments for a positive form of left melancholy. This exploration encompasses issues of remembrance, temporalities, and the Left\u2019s relationship to defeats, among others.",
+      "citationCount": 0,
+      "doi": "10.24917/20841043.14.1.3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3ca78146401e43f559c56796b80d20e663516ee3",
+      "venue": "Argument : Biannual Philosophical Journal",
+      "journal": {
+        "name": "Argument: Biannual Philosophical Journal"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "_queryId": "3ca78146401e43f559c56796b80d20e663516ee3"
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

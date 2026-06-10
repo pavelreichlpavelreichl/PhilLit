@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1093/acrefore/9780190201098.013.44
+[verify_paper.py] DOI verified: Walter Benjamin and Jewish Radical Culture...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1093/acrefore/9780190201098.013.44"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1093/acrefore/9780190201098.013.44",
+      "title": "Walter Benjamin and Jewish Radical Culture",
+      "authors": [
+        {
+          "family": "L\u00f6wy",
+          "given": "Michael"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Oxford Research Encyclopedia of Literature",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Oxford University PressNew York, NY",
+      "type": "reference-entry",
+      "suggested_bibtex_type": "misc",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1093/acrefore/9780190201098.013.44"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

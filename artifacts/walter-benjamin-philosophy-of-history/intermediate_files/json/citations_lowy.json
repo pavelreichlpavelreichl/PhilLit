@@ -1,0 +1,69 @@
+[s2_citations.py] Connecting to Semantic Scholar API...
+[s2_citations.py] Found paper: Fire Alarm: Reading Walter Benjamin's 'On the Conc...
+[s2_citations.py] Fetching references...
+[s2_citations.py] Fetching citing papers...
+[s2_citations.py] Retrieved 1 citing papers, fetching more...
+[s2_citations.py] Retrieved 1 citing papers
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "81e0d5c85216208324edd907f17ea2e819846e3c",
+  "results": [
+    {
+      "paper": {
+        "paperId": "81e0d5c85216208324edd907f17ea2e819846e3c",
+        "title": "Fire Alarm: Reading Walter Benjamin's 'On the Concept of History'",
+        "authors": [
+          {
+            "name": "M. L\u00f6wy",
+            "authorId": "1846283516"
+          },
+          {
+            "name": "Christena L. Turner",
+            "authorId": "32956948"
+          }
+        ],
+        "year": 2006,
+        "abstract": null,
+        "citationCount": 176,
+        "doi": "10.5860/choice.44-0872",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/81e0d5c85216208324edd907f17ea2e819846e3c",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "f011514726dae051b5ab138dd6ba123976dfa40c",
+          "title": "Multitemporal materialism. History and unconscious memory, between Freud and Benjamin",
+          "authors": [
+            {
+              "name": "Leandro Drivet",
+              "authorId": "2095760675"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.1080/00207578.2020.1772074",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/f011514726dae051b5ab138dd6ba123976dfa40c",
+          "venue": "The International journal of psycho-analysis",
+          "isInfluential": true,
+          "contexts": [
+            "\u201d And L\u00f6wy (2016, 95) writes that, \u201c It is the task of remembrance, in Benjamin \u2019 s work, to build \u2018 constellations \u2019 linking the present and the past.",
+            "\u2026(positivist, mechanistic, economicist, and voluntarist), Benjamin mainly reproached it for its unfounded and complicit optimism in \u201c progress \u201d (see L\u00f6wy 2016, 65 \u2013 67, 85 \u2013 86, 116, and especially the \ufb01 nal chapter, \u201c The Opening Up of History, \u201d 107 \u2013 116; as well as Ibarluc\u00eda 2000, 131).",
+            "Confronted with an identical, seemingly impossible task, L\u00f6wy (2016, 2) concluded that Benjamin \u201c is, in every sense of the word, \u2018 unclassi \ufb01 able \u2019 , \u201d and he reminds us that Hannah Arendt (1968, 10 \u2013 11) had also noted the insu \ufb03 ciency of our ways to describe him, considering him a \u201c man of\u2026",
+            "L\u00f6wy (2016, 20) reports that some considered him to be a historical materi-alist with a fondness for theological metaphors; others, a Jewish theologian with Marxist rhetoric; yet others, an elegant exponent of the vain attempt to reconcile Marxism and Jewish theology.",
+            "\u201c The slain, \u201d he states, \u201c are really slain, \u201d and thus, \u201c If one takes the lack of closure entirely seriously, one has to believe in the Last Judgment \u201d (cited in L\u00f6wy 2016, 31)."
+          ],
+          "intents": []
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

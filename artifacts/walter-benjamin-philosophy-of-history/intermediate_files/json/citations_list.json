@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "28253bb849b4f43f3ceaec2ba4c965344d0538ff",
+  "results": [
+    {
+      "paper": {
+        "paperId": "28253bb849b4f43f3ceaec2ba4c965344d0538ff",
+        "title": "Political Theology and Historical Materialism: Reading Benjamin against Agamben",
+        "authors": [
+          {
+            "name": "Lotte List",
+            "authorId": "2098289364"
+          }
+        ],
+        "year": 2020,
+        "abstract": "Giorgio Agamben\u2019s work on the power of sovereignty has been greatly influential in recent political thought. However, it has also overshadowed the independently original contributions of his two primary theoretical sources, Carl Schmitt and Walter Benjamin. In this article, I argue that Agamben\u2019s political defeatism can be traced back to a double misconception in his reception of these two authors: first a formalistic reduction of Schmitt, and second a Schmittian reduction of Benjamin. Through this reduction to juridical formalism, the radicality of Benjamin\u2019s historical materialist critique is replaced by a messianic nihilism, leading to the colonization of society by the logic of the concentration camp. Though Agamben\u2019s theory of sovereignty and its implications for a positive political project have been contested, this origin of the decline of radical philosophy has not previously undergone a systematic critique.",
+        "citationCount": 8,
+        "doi": "10.1177/0263276420936355",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/28253bb849b4f43f3ceaec2ba4c965344d0538ff",
+        "venue": ""
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "843e96447869a97926d9703038e29e13cf39670f",
+          "title": "A Farewell to Homo Sacer? Sovereign Power and Bare Life in Agamben\u2019s Coronavirus Commentary",
+          "authors": [
+            {
+              "name": "S. Prozorov",
+              "authorId": "14737858"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 15,
+          "doi": "10.1007/s10978-021-09314-x",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/843e96447869a97926d9703038e29e13cf39670f",
+          "venue": "Law and Critique",
+          "isInfluential": true,
+          "contexts": [
+            "\u2026sides with Benjamin in his analysis of the esoteric debate between Benjamin and Schmitt in State of Exception, he ultimately subsumes his insights under the Schmittian concept, so that even chaos and anomie end up reinscribed within the juridical order (Agamben 2005, pp. 56\u201357; see List 2020).",
+            "This reading of the exception seems to us to be rather more appropriate for the coronavirus crisis and other complex emergencies of our time than their interpretation as a conspiracy of state power to realize a state of exception in every aspect of our existence (see List 2020).",
+            "Yet, this formal negation does nothing to question Schmitt\u2019s argument that politics is \u2018all about\u2019 the exception and that the measure of sovereignty is the capacity to decide on the exception that does not pre-exist it (see List 2020)."
+          ],
+          "intents": [
+            "background"
+          ]
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 1
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

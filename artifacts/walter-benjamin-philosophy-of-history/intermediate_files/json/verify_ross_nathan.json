@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/opphil-2020-0006"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/opphil-2020-0006",
+      "title": "Walter Benjamin\u2019s First Philosophy: Towards a Constellational Definition of Experience",
+      "authors": [
+        {
+          "family": "Ross",
+          "given": "Nathan"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Open Philosophy",
+      "volume": "3",
+      "issue": "1",
+      "page": "81-101",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/opphil-2020-0006"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

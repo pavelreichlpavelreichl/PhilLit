@@ -1,0 +1,154 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 6 paper(s)...
+[s2_batch.py] Processing 6 responses...
+[s2_batch.py] Found 6 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "6 paper IDs",
+  "results": [
+    {
+      "paperId": "8968881b391096190b82cffab39ad8b7f411c56f",
+      "title": "Att r\u00e4dda det f\u00f6rg\u00e5ngna : Om Walter Benjamins historiska materialism",
+      "authors": [
+        {
+          "name": "Landfeldt Tim",
+          "authorId": "2095026504"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8968881b391096190b82cffab39ad8b7f411c56f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "8968881b391096190b82cffab39ad8b7f411c56f"
+    },
+    {
+      "paperId": "184b9f54bfc71d5cd159f934660ea5fb6703667e",
+      "title": "Historiography and Remembrance: On Walter Benjamin\u2019s Concept of Eingedenken",
+      "authors": [
+        {
+          "name": "Charlotte Odilia Bohn",
+          "authorId": "115554020"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Engaging with Walter Benjamin\u2019s concept of Eingedenken (remembrance), this article explores the pivotal role that remembrance plays in his attempt to develop a radically new vision of history, temporality, and human agency. Building on his essay \u201cOn Some Motifs in Baudelaire\u201d and on his last written text, \u201cTheses on the Philosophy of History\u201d, it will trace how memory and historiography are brought together in a curious fusion of materialist and messianic thinking. Emerging from a critique of modernity and its ideology of progress that is cast as crisis\u2014the practice of remembrance promises a \u2018way out\u2019. Many of Benjamin\u2019s secular Marxist critics such as Max Horkheimer and Rolf Tiedemann, however, denied the political significance of Eingedenken\u2014dismissing it as theological or banishing it to the realm of aesthetics. Rejecting this critique, I suggest that the radical ethical aspects of Eingedenken can be grasped only once the theological dimension is embraced in its own right and that it is in precisely this blend of materialist and messianic thought that revolutionary hope may be found.",
+      "citationCount": 1,
+      "doi": "10.3390/REL10010040",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/184b9f54bfc71d5cd159f934660ea5fb6703667e",
+      "venue": "Religions",
+      "journal": {
+        "name": "Religions"
+      },
+      "publicationTypes": null,
+      "_queryId": "184b9f54bfc71d5cd159f934660ea5fb6703667e"
+    },
+    {
+      "paperId": "1051f6659b49202f670f0c8626a27e98c35dd119",
+      "title": "El resto escatol\u00f3gico de la Eingedenken benjaminiana",
+      "authors": [
+        {
+          "name": "A. Al\u00edas",
+          "authorId": "35447277"
+        }
+      ],
+      "year": 2023,
+      "abstract": "This essay addresses the conceptualization process of Benjamin\u2019s remembrance [Eingedenken], understood by the German thinker as a critical exercise on an idea of history that, since Hegel, has been assimilated to progress as the guiding principle of modern societies. Thus, by taking different epistemological assumptions, Walter Benjamin seeks in memory a new historical time to come, activated dialectically by certain messianism as an eschatological remainder in the field of a modern secularization.",
+      "citationCount": 0,
+      "doi": "10.37819/revhuman.v18i5.1658",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1051f6659b49202f670f0c8626a27e98c35dd119",
+      "venue": "HUMAN Review International Humanities Review / Revista Internacional de Humanidades",
+      "journal": {
+        "name": "HUMAN REVIEW. International Humanities Review / Revista Internacional De Humanidades"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "1051f6659b49202f670f0c8626a27e98c35dd119"
+    },
+    {
+      "paperId": "126662e593450c3b1462c52cda38a9725e516d0d",
+      "title": "El hilo sutil de la rememoraci\u00f3n. Felicidad y redenci\u00f3n hist\u00f3rica en la obra de Walter Benjamin",
+      "authors": [
+        {
+          "name": "S. Palermo",
+          "authorId": "117753195"
+        }
+      ],
+      "year": 2011,
+      "abstract": "This paper presents an analysis of the structure of the Messianic time that Benjamin tries to think from the point of view of its inextricable connection to the concepts of happiness and redemption. The conceptual route goes from the early writings, in which the constellation happiness-redemption acquires a definite physiognomy \u2014combining with an elegant and specific critique of modernity\u2014 to the thesis Uber den Begriff der Geschichte, in which this constellation is intertwined with the figure of Eingedenken, which determines an important conceptual shift in the theoretical horizon of the author, also representing the specificity and richness of his reflections on time and history.",
+      "citationCount": 1,
+      "doi": "10.3989/ISEGORIA.2011.I45.743",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/126662e593450c3b1462c52cda38a9725e516d0d",
+      "venue": "",
+      "journal": {
+        "name": "Isegoria",
+        "pages": "575-594",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "126662e593450c3b1462c52cda38a9725e516d0d"
+    },
+    {
+      "paperId": "bb19f536bda6fbc269b05700e91355531f71a4bc",
+      "title": "El problema de la subjetividad en la obra de Walter Benjamin: consciencia y rememoraci\u00f3n",
+      "authors": [
+        {
+          "name": "Daniela Losiggio",
+          "authorId": "120695241"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The approach of Benjaminian criticism to the concept of history is linked to a question about the role of the subject and the possibilities for the transformation of the present. In Benjamin\u2019s work, subjectivity is, sometimes, connected to the collective unconscious (through the influence of S. Freud); on other occasions, to the Marxist awareness (through the inheritance of G. Lukacs); finally, to the idea of remembrance (Eingedenken). Studying the early theory of knowledge in Benjamin\u2019s work, we will seek to illuminate the emergence of the concept of \u201cremembrance\u201d in late works. We will argue that this notion contains the problem of subjectivity in the new theoretical context.",
+      "citationCount": 0,
+      "doi": "10.15304/AG.37.2.4171",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bb19f536bda6fbc269b05700e91355531f71a4bc",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "77-98",
+        "volume": "37"
+      },
+      "publicationTypes": null,
+      "_queryId": "bb19f536bda6fbc269b05700e91355531f71a4bc"
+    },
+    {
+      "paperId": "c3dda003d4c71c2c6a7790047a395a4f17ebbf7a",
+      "title": "La memoria involuntaria: Marcel Proust y el descubrimiento po\u00e9tico del interior. Un an\u00e1lisis desde la perspectiva filos\u00f3fica de Walter Benjamin",
+      "authors": [
+        {
+          "name": "M. Llorens",
+          "authorId": "69436755"
+        }
+      ],
+      "year": 2018,
+      "abstract": "\u201cInvoluntary Memory: Marcel Proust and the Poetic Discovery of the Inner Self. An Analysis from the Philosophical Perspective of Walter Benjamin\u201d.\u00a0In this article, we undertake, from the perspective of Walter Benjamin\u2019s philosophical\u00a0work, the phenomenon of involuntary memory discovered by Marcel\u00a0Proust in the writing process \u2013exercise of subjectification\u2013 of In Search of Lost\u00a0Time (1908-1922). In the analysis the following approaches are developed: the\u00a0relation between oblivion and memory (from Sigmund Freud, Henri Bergson and\u00a0Charles Baudelaire), the poetic discovery of involuntary memory (in relation to\u00a0the qualities of profane illumination), the conditions for the revelation of mnemic\u00a0images \u2013images of the inner world\u2013 (the ancient and medieval predecessors and\u00a0the surrealist contemporaries), the recovery of the lost time and of the narration in the novel, and the auratic character of the involuntary memory\u2019s images.",
+      "citationCount": 2,
+      "doi": "10.18800/ARETE.201802.006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c3dda003d4c71c2c6a7790047a395a4f17ebbf7a",
+      "venue": "",
+      "journal": {
+        "name": "Aret\u00e9",
+        "pages": "305-331",
+        "volume": "30"
+      },
+      "publicationTypes": null,
+      "_queryId": "c3dda003d4c71c2c6a7790047a395a4f17ebbf7a"
+    }
+  ],
+  "count": 6,
+  "errors": []
+}

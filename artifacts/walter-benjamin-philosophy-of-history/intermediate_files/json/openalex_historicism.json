@@ -1,0 +1,998 @@
+[search_openalex.py] Searching OpenAlex: 'Benjamin historicism Ranke empathy victor' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_5ee0ae09fc2d9d60)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Benjamin historicism Ranke empathy victor",
+  "results": [
+    {
+      "openalex_id": "W1524492491",
+      "doi": null,
+      "title": "Historicism, Progress, and the Redemptive Constitution",
+      "authors": [
+        {
+          "name": "Amy Kapczynski",
+          "openalex_id": "A5003861362"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "It is frequently said that there is a necessary relationship between constitutionalism and history. As Stephen Griffin has written, \"[c]onstitutional interpretation is always backward-looking ....It draws on the past in order to provide legal authority to the present. Even as it abstracts from historical context, then, constitutional interpretation is dependent on it for its status as law.\" To say this is to make two related claims. The first one is that constitutions have an ineluctable relationship to history, because they arrive to us from the past. The second one is that constitutions always face a question of legitimacy that is also a question of history: How can this text from the past have legitimacy and authority over the people today?3 One foundational question of constitutional interpretation, then, is: How can we provide an account of constitutional meaning that reconciles the historicity of the Constitution with its present day legitimacy? Accepting that we must think historically if we want to think constitutionally, and that we must, when thinking historically, also account for the present day legitimacy of the Constitution, what kind of history should we practice? This Article is concerned with constitutional historiography, which is to say, the question of how theorists, lawyers, and judges elaborate the past in constitutional context. How ought we conceive of and investigate constitutional history and the backward-looking development of meaning that U.S. constitutionalism is based upon? To explore these questions, this Article draws upon the writings of the Frankfurt School theorist Walter Benjamin, who thought a great deal about the concept of history, but little, if at all, about constitutionalism. By exploring Benjamin's concept of history, and his understanding of the three different methodological approaches to history that he postulates-historicism, progressivism, and redemptivism-1 hope to make more visible some of the ways that we think about constitutional history, and some of the effects that these modalities have on our present day constitutional order. My project here is to add to our understanding of constitutional practices, and to make visible the dangers of the most common methodologies through which constitutional thinkers approach the past. One central supposition of this Article-one that I will defend throughout its course-is that our view of history strongly influences our ability to understand and react to the needs of the present.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://digitalcommons.law.yale.edu/fss_papers/3298"
+      },
+      "topics": [
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1524492491"
+    },
+    {
+      "openalex_id": "W2006923347",
+      "doi": "10.1016/j.langsci.2013.08.006",
+      "title": "The ecology of intercultural interaction: timescales, temporal ranges and identity dynamics",
+      "authors": [
+        {
+          "name": "Michiko Uryu",
+          "openalex_id": "A5002720127",
+          "orcid": "https://orcid.org/0000-0002-0774-5107",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Sune Vork Steffensen",
+          "openalex_id": "A5013978323",
+          "orcid": "https://orcid.org/0000-0002-7937-4579",
+          "institutions": [
+            "University of Southern Denmark"
+          ]
+        },
+        {
+          "name": "Claire Kramsch",
+          "openalex_id": "A5061269451",
+          "orcid": "https://orcid.org/0000-0003-3456-099X",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-05",
+      "abstract": null,
+      "cited_by_count": 75,
+      "type": "article",
+      "source": {
+        "name": "Language Sciences",
+        "type": "journal",
+        "issn": [
+          "0388-0001",
+          "1873-5746"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0388000113000892"
+      },
+      "topics": [
+        "Language, Discourse, Communication Strategies",
+        "Linguistic Variation and Morphology",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W2006923347"
+    },
+    {
+      "openalex_id": "W2729688679",
+      "doi": "10.63997/jct.v32i1.692",
+      "title": "Applied Benjamin: Educational Thought, Research and Pedagogy",
+      "authors": [
+        {
+          "name": "Patti Lather",
+          "openalex_id": "A5077701578",
+          "orcid": "https://orcid.org/0000-0001-5449-4972",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        },
+        {
+          "name": "John Kitchens",
+          "openalex_id": "A5068486008",
+          "institutions": [
+            "Colorado State University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-04",
+      "abstract": "Our interest in this essay is how Walter Benjamin might be of use in efforts to shift the imaginary of educational thought, research and pedagogy in the contemporary moment, what might be called \u201capplied Benjamin\u201d (Menninghaus, 1999, p. 200). Within poststructural work in education, Benjamin will be situated as a precursor where he has much to say about a variety of topics: language production and translation; interpretation, allegory and storytelling; image, representations and the \u201caura\u201d; memory, remembrance and narrative; urban modernization and commodification; historical knowledge (truth) and discontinuity; praxis and progress (historical); and \u201cdialectical\u201d images. After a brief introduction to Benjamin, the essay will survey the ways he has been, and might still and yet be put to use in education. We will then unpack the central themes of such application in terms of how his work can be used to articulate a different sort of thought, research and pedagogy in education.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Journal of Curriculum Theorizing",
+        "type": "journal",
+        "issn": [
+          "1942-2563"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journal.jctonline.org/index.php/jct/article/download/692/Lather%20Kitchens"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W2729688679"
+    },
+    {
+      "openalex_id": "W1909262078",
+      "doi": "10.22329/p.v1i1.40",
+      "title": "How Levinas Taught Me to Read Benjamin",
+      "authors": [
+        {
+          "name": "Asher Horowitz",
+          "openalex_id": "A5008661797",
+          "institutions": [
+            "York University"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-11-05",
+      "abstract": "Benjamin's \"Theses on the Philosophy of History\" have been interpreted almost exclusively in relation to Marxist historical materialism and, in that context, inevitably found wanting, misunderstood as the unwelcome intrusion of mystical and voluntarist notions into a rational method of historical explanation. Levinas, although he never mentions Benjamin, nonetheless affords a better clue as to what Benjamin might have been trying to accomplish. The major distinction animating and structuring Levinas's work is that between ethics, or the ethical relation, and ontology, or the disclosure of being. One of the principal ways this distinction is elaborated is in terms of the contrast and conflict between the synchronizable time assumed by the historical memory belonging to the ontological project and the diachrony of the ethical relation, or the non synchronizable time, the posterior anteriority of the memory of radical separation and interiority. The distinction between synchronic temporalization and diachrony can enable a different understanding of the central concept of Benjamin's \"Theses...\", viz. \"empty homogeneous time, and also thereby of the perspective of Benjamin's \"angel of history\" from which the liberatory(non-)activity of the Benjamininan historical materialist follows. What the historical materialist does in allowing the flow of time and thought to be arrested in the grand abridgement of a monadic image is to speak for those Others whose being has been functionalized within universal history.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "PhaenEx",
+        "type": "journal",
+        "issn": [
+          "1911-1576"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://phaenex.uwindsor.ca/index.php/phaenex/article/download/40/108"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W1909262078"
+    },
+    {
+      "openalex_id": "W2003013192",
+      "doi": "10.13185/bu2014.18102",
+      "title": "A Vision of Hell: Walter Benjamin\u2019s Angelus Novus and the Catastrophe of Progress",
+      "authors": [
+        {
+          "name": "Preciosa Regina De Joya",
+          "openalex_id": "A5007981650",
+          "institutions": [
+            "Ateneo de Manila University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-06",
+      "abstract": "Before his untimely death in 1940, the German philosopher Walter Benjamin wrote an essay, entitled \u201cTheses on the Philosophy of History,\u201d marking his recovery from the shock of the Hitler-Stalin non-aggression pact. This study reflects on the philosophical and historical significance of this essay, unraveling Benjamin\u2019s critique of Marxism as a critique of progress. Progress, which the angel of history sees as a storm coming from paradise, has caused a growing pile of rubble of historical blunders and environmental disasters. This uncritical submission to progress, however, can be seen not only in the blind confidence of the communists and the social democrats towards Marxist teleology, but also in historicism, which reduces the writing of history to a form of disaster: a \u201cheaping up of information\u201d that forgets the memory of \u201censlaved ancestors,\u201d thus losing its \u201cweak, Messianic power.\u201d",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Budhi A Journal of Ideas and Culture",
+        "type": "journal",
+        "issn": [
+          "0118-5942",
+          "2243-7886"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.ateneo.edu/ojs/index.php/budhi/article/download/BU2014.18102/1874"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W2003013192"
+    },
+    {
+      "openalex_id": "W3204436012",
+      "doi": "10.46827/ejsss.v7i1.1154",
+      "title": "THE ANGEL OF HISTORY AND THE RUINS OF PARIS: WALTER BENJAMIN IN FRANCE OR THE PROGRESS AS CATASTROPHE",
+      "authors": [
+        {
+          "name": "Emma Barrett Fiedler",
+          "openalex_id": "A5011807478"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-22",
+      "abstract": "If Walter Benjamin's writings have been mostly interpreted in the fields of art and literature critique, we would like here to take his philosophy of history more seriously, despite its acknowledged lack of unity (Habermas 1988: 32) and systematicity (Arendt 1960: 248). Drawing from the well-known allegory of the \u201cAngel\u201d developed in his theses on the concept of history written at the beginning of the Second World War and just before his death in Port-Bou, we will further analyze his genealogical critique of Parisian modernity contained in the Arcades Project, a work undertook more than a decade before, during his exile in France. In echo with the imagination of prospective ruins which florished during the modernization of the French capital after the 1850's, Benjamin's conception of progress, understood as a catastrophe submitting industrial capitalist societies to a permanent \u201cstate of emergency\u201d, is thus combined with the theorization of a \u201cCopernician revolution in the field of historical method\u201d (Benjamin 1999: 348). Beyond Benjamin's phenomenological enterprise of a physiognomy of material modernity, and the romantic and surrealistic sensibility of his \u201canthropological materialism\u201d, his philosophy of progress inscribes itself in a radical paradigm rendering its centrality to the idea of catastrophe (Anders 1972; Dupuy 2004; Stengers 2009), against the accidental role it holds in the principles of precaution and \u201cresponsibility\u201d (Jonas 1979) and in the nowadays dominant paradigm of \u201crisk\u201d (Beck 1986); furthermore, \u201cour\u201d catastrophes would have in a Benjaminian perspective to be diagnosed in the past and the present rather than anticipated for the future. &#x0D; &#x0D; &lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt; Article visualizations:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=\"/-counters-/edu_01/0793/a.php\" alt=\"Hit counter\" /&gt;&lt;/p&gt;",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "European Journal of Social Sciences Studies",
+        "type": "journal",
+        "issn": [
+          "2501-8590"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://oapub.org/soc/index.php/EJSSS/article/download/1154/1740"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W3204436012"
+    },
+    {
+      "openalex_id": "W2909570015",
+      "doi": "10.3390/rel10010040",
+      "title": "Historiography and Remembrance: On Walter Benjamin\u2019s Concept of Eingedenken",
+      "authors": [
+        {
+          "name": "Charlotte Odilia Bohn",
+          "openalex_id": "A5024858494",
+          "institutions": [
+            "Akademie der bildenden K\u00fcnste Wien"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-10",
+      "abstract": "Engaging with Walter Benjamin\u2019s concept of Eingedenken (remembrance), this article explores the pivotal role that remembrance plays in his attempt to develop a radically new vision of history, temporality, and human agency. Building on his essay \u201cOn Some Motifs in Baudelaire\u201d and on his last written text, \u201cTheses on the Philosophy of History\u201d, it will trace how memory and historiography are brought together in a curious fusion of materialist and messianic thinking. Emerging from a critique of modernity and its ideology of progress that is cast as crisis\u2014the practice of remembrance promises a \u2018way out\u2019. Many of Benjamin\u2019s secular Marxist critics such as Max Horkheimer and Rolf Tiedemann, however, denied the political significance of Eingedenken\u2014dismissing it as theological or banishing it to the realm of aesthetics. Rejecting this critique, I suggest that the radical ethical aspects of Eingedenken can be grasped only once the theological dimension is embraced in its own right and that it is in precisely this blend of materialist and messianic thought that revolutionary hope may be found.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/10/1/40/pdf?version=1547090453"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Political Theology and Sovereignty",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2909570015"
+    },
+    {
+      "openalex_id": "W2270848540",
+      "doi": null,
+      "title": "Imperceptible naked-lives and atrocities : forcibly displaced peoples and the Thai-Burmese in-between spaces",
+      "authors": [
+        {
+          "name": "Decha Tangseefa",
+          "openalex_id": "A5044209014",
+          "orcid": "https://orcid.org/0000-0002-0329-6471"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "This study follows the becomingness of the Karens: as an indigenous people, as an ethnic nationality, as an ethnic minority, and as a forcibly displaced people. The questions that guide this dissertation are: What is it like to be forcibly displaced beings, taking flight in, following Walter Benjamin, the real state of exception? How can the Karens transgress those grave conditions, and at what costs? Why has protecting them from the wrongs done to them been, by and large, impossible? Why have their struggles and sufferings not been adequately perceived? As political theory, the dissertation interweaves notions of violence, perceptibility, and protection. The study is also informed by the symbolic and experiential conditions of forcibly displaced Karens along the Thai-Burmese border zones. This study evinces four major issues: firstly, how Karens' forms-of-life have been stripped off and their nakedness revealed by the Burmese and Thai nation-states; secondly, how their struggles and sufferings have been imperceptible because the Karens have been rendered as unqualified political subjects and because we - the peoples who have adequate juridical protections - view the world only from state-centric paradigms, and only hear a single voice, i.e., the univocity of statist discourses; thirdly, how the paradox of perceptibility, where the very power that has attempted to render the Karens' sufferings imperceptible is, willingly or not, the same power that enables them to strengthen their form-of-life as a Karen nation; and, finally, how the forcibly displaced Karens' quotidian lives have not confirmed the glories of the Appadurian ethnoscape. They are not parts of the subjectivities who can freely move in this world. On the contrary, they have often been recognized as the parts that have no parts in the human community. They are \"the exception\" in motion whose lives have been under fire, dreaming passionately of becoming parts of the \"general.\" They have dreamt to live such lives for more than half a century, ever since they officially started their \"revolution\" in 1948. One of the most important arguments, therefore, is that, as forcibly displaced peoples, the Karens are political subjects and not sheer facts of living.",
+      "cited_by_count": 4,
+      "type": "dissertation",
+      "source": {
+        "name": "ScholarSpace (University of Hawaii at Manoa)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10125/3073"
+      },
+      "topics": [
+        "Asian Geopolitics and Ethnography",
+        "Southeast Asian Sociopolitical Studies",
+        "Cambodian History and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2270848540"
+    },
+    {
+      "openalex_id": "W1766315929",
+      "doi": "10.26530/oapen_500288",
+      "title": "The Making of the Humanities, Volume III. The Modern Humanities",
+      "authors": [
+        {
+          "name": "Thijs Weststeijn",
+          "openalex_id": "A5040818477"
+        },
+        {
+          "name": "Jaap Maat",
+          "openalex_id": "A5108417734"
+        },
+        {
+          "name": "Rens Bod",
+          "openalex_id": "A5021400032"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "This comprehensive history of the humanities focuses on the modern period (1850-2000). The contributors, including Floris Cohen, Lorraine Daston and Ingrid Rowland, survey the rise of the humanities in interaction with the natural and social sciences, offering new perspectives on the interaction between disciplines in Europe and Asia and new insights generated by digital humanities.",
+      "cited_by_count": 5,
+      "type": "book",
+      "source": {
+        "name": "Amsterdam University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.26530/oapen_500288"
+      },
+      "topics": [
+        "Digital Humanities and Scholarship"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1766315929"
+    },
+    {
+      "openalex_id": "W4387079587",
+      "doi": "10.1017/9781009306430",
+      "title": "Victorian Engagements with the Bible and Antiquity",
+      "authors": [
+        {
+          "name": "Simon Goldhill",
+          "openalex_id": "",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Simon Goldhill",
+          "openalex_id": "",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Simon Goldhill",
+          "openalex_id": "",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Simon Goldhill",
+          "openalex_id": "",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Suzanne Marchand",
+          "openalex_id": ""
+        },
+        {
+          "name": "Kate Nichols",
+          "openalex_id": ""
+        },
+        {
+          "name": "Caroline Vout",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robert D. Priest",
+          "openalex_id": ""
+        },
+        {
+          "name": "G. A. Bremner",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dorothy M. Figueira",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Ledger-Lomas",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jocelyn Paul Betts",
+          "openalex_id": ""
+        },
+        {
+          "name": "Alison Knight",
+          "openalex_id": ""
+        },
+        {
+          "name": "Laura McCormick Kilbride",
+          "openalex_id": ""
+        },
+        {
+          "name": "Brian Young",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ruth Jackson Ravenscroft",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-28",
+      "abstract": "The nineteenth century was a period in which ideas of history and time were challenged as never before. This is the first book to explore how the study of classical antiquity and the study of the Bible together formed an image of the past which became central to Victorian self-understanding. These specially commissioned, multi-disciplinary essays brilliantly reveal the richness of Victorian thinking about the past and how important these models of antiquity were in the expression of modernity. In an age of progress, cultural anxiety and cultural hope was fuelled by the shock of the old \u2013 new discoveries about the deep past, and new ways of thinking about humanity's place in history. The volume provides a rich and readable feast which will be fundamental to all those seeking a greater understanding of the Victorians, as well as of the reception of classics and the Bible.",
+      "cited_by_count": 3,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://swbplus.bsz-bw.de/bsz1845258088inh.htm"
+      },
+      "topics": [
+        "Biblical Studies and Interpretation",
+        "Religious Tourism and Spaces",
+        "Pentecostalism and Christianity Studies"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W4387079587"
+    },
+    {
+      "openalex_id": "W71822546",
+      "doi": "10.7275/v789-n972",
+      "title": "Living politics by awakening history : a critical approach to Walter Benjamin through Sigmund Freud.",
+      "authors": [
+        {
+          "name": "Alex Betancourt-Serrano",
+          "openalex_id": "A5011241876",
+          "institutions": [
+            "University of Massachusetts Amherst"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-28",
+      "abstract": "The first and second chapters of this dissertation focus on the theoretical relation between dreams, history, and politics in the writings of Walter Benjamin, paying particular attention to The Arcades Project. These chapters are an intervention in contemporary debates whose main concern is the articulation of a historiography that takes into consideration the political climate of its discursive field. Chapters three and four aim at presenting two self-understood leftists approaches to politics. In these chapters I present the limitations of these contemporary approaches when compared to the possibilities that a Benjaminian project offers. More generally, the dissertation seeks to formulate a politics that is attentive and responsive to silenced voices insofar as these can be articulated historically. Hence, in order for such historical articulation to take place the dissertation proposes a philosophy of history that encompasses marginalized subjects. This attempts if is to provide such philosophy of history it has to respect difference critically, and if it aims to provide a political openness to depoliticized subjects, it must do so outside the parameters of liberalism. Hence, I argue only a dialectical approach to the articulation of history and politics can sustain a critical history attentive to historical otherness and a leftist politics that remains outside the sphere of liberalism.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Scholarworks (University of Massachusetts Amherst)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.umass.edu/dissertations_1/2402"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Cultural Studies and Postmodernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W71822546"
+    },
+    {
+      "openalex_id": "W867686337",
+      "doi": null,
+      "title": "Jean Am\u00e9ry And Wolfgang Hildesheimer: Ressentiments, Melancholia, And The West German Public Sphere In The 1960s And 1970s",
+      "authors": [
+        {
+          "name": "Melanie Steiner Sherwood",
+          "openalex_id": "A5010720184"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-31",
+      "abstract": "The dissertation revisits the West German literary scene of the 1960s and 1970s to investigate how two of its Jewish participants, Jean Am\u00e9ry and Wolfgang Hildesheimer, sought to promote ethical responses to the Holocaust. The study incorporates literary analysis and socio-political reflections on the ethics of public life. First, it is an analysis of the relationship between judicial confrontation of the German criminal past, the silence in the wider German cultural sphere in the wake of this confrontation, and the two writers' efforts to expose and address this ethical disconnect (chapter I). Second, it draws attention to two very different modes of reactive affect, ressentiment and melancholia. Through readings of Hildesheimer's novels Tynset (1965) and Masante (1973) in chapters II and III, on the one hand, and Am\u00e9ry's essay \"Ressentiments\" (1966) and the essay-novel Lefeu oder Der Abbruch (1974) in chapters IV and V, on the other, the dissertation analyzes these two modes. Hildesheimer employed a register of ethical writing that articulated the interconnected processes of mourning and melancholia, but unlike recent scholarship that focuses on these categories and valorizes melancholia as source of productive socio-political action, Hildesheimer did not prescribe them as exemplary modes of affective reparation. For Hildesheimer's narrators, mourning the victims of the Holocaust becomes an impossible task that leads to an affective and communicative impasse of permanent melancholia. As Am\u00e9ry conceived ressentiment, it is, in contrast to melancholia, an affect that seeks to engage the wider community. If met with empathetic attention, Am\u00e9ry's affect of ressentiment enables future sociopolitical dialogue between victims and their community. Am\u00e9ry thus argues for the moral superiority of ressentiments as the most appropriate ethical vehicle to redress crimes. By analyzing Am\u00e9ry's philosophy of ressentiments, which challenges the privileged position of melancholia, and by investigating Hildesheimer's approach to and ultimate rejection of melancholia, the dissertation argues for a nuanced understanding of the workings of affects and their ethical repercussions. The dissertation thus contributes to a growing body of international scholarship that elaborates-beyond melancholia and mourning alone-how various affects mediated in literature inform the ethics of public life after the Holocaust.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "eCommons (Cornell University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ecommons.cornell.edu/bitstreams/f140fefa-62cb-493d-a54c-f864af5ece50/download"
+      },
+      "topics": [
+        "European history and politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W867686337"
+    },
+    {
+      "openalex_id": "W2891052240",
+      "doi": "10.7916/d8s19jw6",
+      "title": "Unearthing the Tubers and Shoots of Thought, Talk, and Praxis: A Historiography of Classroom Discourse in Theory and Practice",
+      "authors": [
+        {
+          "name": "Christian George Gregory",
+          "openalex_id": "A5061759407",
+          "orcid": "https://orcid.org/0000-0003-0791-9469"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This dissertation submits as its project a history of dialogue in the classroom, from early recitation practices to the era of the teacher as a \u201csage on the stage,\u201d the subsequent role of a participating observer or \u201cguide on the side,\u201d and more refined teacher roles as well as sharper definitions of discussion and dialogical practices (King, 1993, p. 30). For this research, I adopted a conceptual methodology, using Foucault\u2019s critique and Deleuze and Guattari\u2019s assemblages and rhizomic structures, to inform the mapping and dynamic of the historiography. In terms of practical methodology, I collected over 650 theoretical, empirical, and instructional works related to forms of classroom discourse. By mapping the territory of research on discourse in the English classroom, this work noted trends in the method, manner, and focus of research. Several critical shifts might be suggested regarding theory, research, and practice in relation to dialogue: in practice, first, a shift from quantitative, monological positions to more dialogical, polyphonic stances; and second, from research examining teacher questioning and evaluation to that focused on student responsiveness. In theory and research, this review suggested several noticeable trends in research methods: first, that classroom practice lags behind the theoretical imagining of the dialogical; second, that scholars have increasingly relied on Mikhail Bakhtin\u2019s theories in the pedagogical frames of their research on discourse in the classroom; and third, that scholarship has shown a greater interest in international sites of study. Overall, although scholars have made strides in conceptualizing the dialogical classroom, greater interventionist studies and instructional works are needed to bridge the gap between theory and practice.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Columbia Academic Commons (Columbia University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.7916/d8s19jw6"
+      },
+      "topics": [
+        "Educator Training and Historical Pedagogy",
+        "Literacy, Media, and Education",
+        "Russian Literature and Bakhtin Studies"
+      ],
+      "referenced_works_count": 159,
+      "url": "https://openalex.org/W2891052240"
+    },
+    {
+      "openalex_id": "W2885077480",
+      "doi": "10.4000/jsa.15584",
+      "title": "Modes and moods of \u201cSlave Anast\u00e1cia,\u201d Afro-Brazilian saint",
+      "authors": [
+        {
+          "name": "Paul C. Johnson",
+          "openalex_id": "A5107791791"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Agency activated through exchanges with saints is not simply present or absent. Rather it is emergent, depending on the mode of saints\u2019 material and social configurations, and the mood evoked by a specific saint\u2019s manifestation. In this essay I consider the history of an Afro-Brazilian saint called Slave Anast\u00e1cia, as she signifies with varying social effects for different groups of ethno-racial users. I consider how saints become manifest in a given mode, and educe a particular mood. Mood is inseparable from intangible entities\u2019 \u201cpresence.\u201d In this essay, I leverage such radical disjunctures between the forms of presence generated by the same saint\u2014Anast\u00e1cia as suffering martyr, as serene helpmeet, as erotic object\u2014to reconsider how saints work at the intersection of mode and mood. By paying attention to saints and mood, I seek to worry over-familiar terms like will and agency. Thinking through mood points us toward material conjunctures and emotional resonances whose agency is diffuse but nevertheless generates predispositions to act in certain ways.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Journal de la Soci\u00e9t\u00e9 des Am\u00e9ricanistes",
+        "type": "journal",
+        "issn": [
+          "0037-9174",
+          "1957-7842"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.openedition.org/jsa/pdf/15584"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Caribbean and African Literature and Culture",
+        "Colonialism, slavery, and trade"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2885077480"
+    },
+    {
+      "openalex_id": "W3083616955",
+      "doi": "10.17863/cam.56948",
+      "title": "The head of chief Mkwawa and the transnational history of colonial violence, 1898-2019",
+      "authors": [
+        {
+          "name": "Jeremiah Garsha",
+          "openalex_id": "A5051181072",
+          "orcid": "https://orcid.org/0000-0002-4869-8642"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-01",
+      "abstract": "This dissertation is a history of Chief Mkwawa\u2019s severed head. I explore the historical context by which his head was taken, the shifting terminology which categorised his remains, the international and internal movements of the skull, and the polymorphous quality imposed onto the head through a myriad of perspectives. In this dissertation, I argue that, as an artefact, Mkwawa\u2019s skull shifted in meaning and significance as it transformed from a trophy of colonial conquest to a political tool of colonial governance to a relic and symbol of anticolonial resistance. I map these changes over the long twentieth century (1898 to 2019) in order to historically contextualise the head\u2019s various meanings under divergent narratives. A microhistory of this single object centres this dissertation as I analyse global historical and historiographical debates concerning colonial violence, collection practices, the legacies of empire, and current debates on restitution and repatriation. Drawing upon archival research, oral histories, private diaries, photographs, and site visitations during fieldwork in Europe, the United States, and Tanzania, this dissertation brings a cultural history of materiality to studies of German and British colonialism, postcolonial legitimacy, and transnational repatriation movements. Mkwawa\u2019s head was a symbolic object, severed under systems of violence implicit in empire making. The transition of human remains from a trophy head to a specimen skull documents the weaponisation of anthropology for imperial control. The inclusion of the head in the Treaty of Versailles provided a space to humiliate Germany and contrast its colonial project against British imperial rule\u2019s paternal protection, whilst Britain also seized Germany\u2019s East Africa colony. The eventual repatriation of a skull to Tanganyika in 1954 illuminates the tightening of colonial control under a Cold War context. The anonymous skull\u2019s transformation into Mkwawa\u2019s skull shows the provenance of the skull was less important than the fact that it became recognised as Mkwawa\u2019s. The abandoned intrinsic cultural qualities of the skull emphasised the centrality of colonial collecting as constitutive to the looting and exhibition of colonial artefacts. The continued display of a skull in Tanzania demonstrates the moral challenges colonial legacies pose for successor regimes. Focusing scholarly attention on Mkwawa\u2019s head as a symbolic object, therefore, reveals how processes of meaning and myth-making anchor colonial and postcolonial power projections.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Apollo (University of Cambridge)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.repository.cam.ac.uk/handle/1810/309849"
+      },
+      "topics": [
+        "African history and culture studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3083616955"
+    },
+    {
+      "openalex_id": "W7139467814",
+      "doi": null,
+      "title": "\u0420\u041e\u0417\u041f\u0410\u041a\u0423\u0412\u0410\u041d\u041d\u042f \u0421\u041e\u0426\u0406\u041e\u041b\u041e\u0413\u0406\u0407 \u041d\u0410\u0421\u0418\u041b\u042c\u0421\u0422\u0412\u0410 \u0422\u0410 \u0412\u0406\u0419\u041d\u0418 \u0412\u0410\u041b\u042c\u0422\u0415\u0420\u0410 \u0411\u0415\u041d\u042c\u042f\u041c\u0406\u041d\u0410",
+      "authors": [
+        {
+          "name": "\u041d \u0413\u0440\u0456\u043d\u0444\u0456\u043b\u0434",
+          "openalex_id": "A5129927782"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-07",
+      "abstract": "Conflict, violence and, ultimately, war are central to Walter Benjamin\u2019s sociology of language. Using biblical language, his earlies work shows that after the fall of man, language becomes a vessel to be filled by the usurper, a tool, he uses that bends others to his will, as Satan does in Paradise Lost. Benjamin\u2019s study of German Trauspiels, mourning plays similar to Hamlet and Richard III, leads him to posit that the law and constitutional structures in the Baroque period are of single importance in understanding the role of conflict and violence. In \u201cTowards a Critique of Violence,\u201d Benjamin makes two key arguments. The first is that a workers\u2019 general strike\u201d is a legitimate form of violence and that the state\u2019s response, often military, is not. The second is that the Commandment \u201cThou Shalt Not Kill\u201d is misunderstood because it does not contain a penalty and, secondly, it cannot be a blanket injunction; Jewish law, he notes, allowed for self-defence. His best-known works, \u201cThe Work of Art in the Age of Mechanical Reproduction\u201d and \u201cTheses on the Philosophy of History,\u201d are written after his turn to Marxism associated with the Frankfurt School. In the first, in addition to showing how mechanical reproduction destroys the \u201caura\u201d of art, he is concerned with how Fascist art, such a Leni Riefenstahl\u2019s films glorifying Hitler. These performances are designed to \u201cabsorb\u201d or overawe viewers, making them quiescent, silent participants in the power play that leads to conflict and, ultimately war. Using quasi-religious language, the Theses deconstruct \u201chistoricism,\u201d showing how Rankian history sides with the victors, the Great Men and Women of History at the expense of the ruled. He argues that each generation can redeem the past by \u201cbrushing history against the grain\u201d and using discontinuities to show the violence and conflict that historicists seek to hide.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Series pedagogy",
+        "type": "journal",
+        "issn": [
+          "2311-6382",
+          "2415-3605"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://visnyk-psp.kpi.ua/article/download/285589/279603"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Political Theology and Sovereignty",
+        "Literature and Cultural Memory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7139467814"
+    },
+    {
+      "openalex_id": "W4390281363",
+      "doi": "10.20535/2308-5053.2023.2(58).285589",
+      "title": "UNPACKING WALTER BENJAMIN\u2019S SOCIOLOGY OF VIOLENCE AND WAR",
+      "authors": [
+        {
+          "name": "Nathan M. Greenfield",
+          "openalex_id": "A5050816820",
+          "institutions": [
+            "Kyiv School of Economics",
+            "National Technical University of Ukraine \u201cIgor Sikorsky Kyiv Polytechnic Institute\u201d"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-07",
+      "abstract": "Conflict, violence and, ultimately, war are central to Walter Benjamin\u2019s sociology of language. Using biblical language, his earlies work shows that after the fall of man, language becomes a vessel to be filled by the usurper, a tool, he uses that bends others to his will, as Satan does in Paradise Lost. Benjamin\u2019s study of German Trauspiels, mourning plays similar to Hamlet and Richard III, leads him to posit that the law and constitutional structures in the Baroque period are of single importance in understanding the role of conflict and violence. In \u201cTowards a Critique of Violence,\u201d Benjamin makes two key arguments. The first is that a workers\u2019 general strike\u201d is a legitimate form of violence and that the state\u2019s response, often military, is not. The second is that the Commandment \u201cThou Shalt Not Kill\u201d is misunderstood because it does not contain a penalty and, secondly, it cannot be a blanket injunction; Jewish law, he notes, allowed for self-defence. His best-known works, \u201cThe Work of Art in the Age of Mechanical Reproduction\u201d and \u201cTheses on the Philosophy of History,\u201d are written after his turn to Marxism associated with the Frankfurt School. In the first, in addition to showing how mechanical reproduction destroys the \u201caura\u201d of art, he is concerned with how Fascist art, such a Leni Riefenstahl\u2019s films glorifying Hitler. These performances are designed to \u201cabsorb\u201d or overawe viewers, making them quiescent, silent participants in the power play that leads to conflict and, ultimately war. Using quasi-religious language, the Theses deconstruct \u201chistoricism,\u201d showing how Rankian history sides with the victors, the Great Men and Women of History at the expense of the ruled. He argues that each generation can redeem the past by \u201cbrushing history against the grain\u201d and using discontinuities to show the violence and conflict that historicists seek to hide.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "National Technical University of Ukraine Journal Political science Sociology Law",
+        "type": "journal",
+        "issn": [
+          "2308-5053",
+          "2706-5626"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://visnyk-psp.kpi.ua/article/download/285589/279603"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Psychoanalysis, Philosophy, and Politics",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W4390281363"
+    },
+    {
+      "openalex_id": "W2978723615",
+      "doi": "10.2298/fid1903384c",
+      "title": "Blasting the past: A rereading of Walter Benjamin\u2019s theses on the philosophy of history",
+      "authors": [
+        {
+          "name": "\u017darko Cveji\u0107",
+          "openalex_id": "A5037103063",
+          "institutions": [
+            "Singidunum University",
+            "Faculty of Media"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The text offers a reappraisal of Walter Benjamin?s Theses on the Philosophy of History (?ber den Begriff der Geschichte; ?On the Concept of History?) from the perspective of global politics today and its similarities with the socio-economic and political situation in Europe and the Americas during the 1920s and 30s; more specifically, the impact of crises on the erosion of trust in liberal representative democracy and the concomitant rise of mostly rightwing populist movements and their strongmen leaders, aided to a significant degree by the media, ?old? and ?new? alike. The purpose of the text is to draw lessons from Benjamin?s vision of materialist historiography for our current political predicament.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Filozofija i drustvo",
+        "type": "journal",
+        "issn": [
+          "0353-5738",
+          "2334-8577"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.doiserbia.nb.rs/ft.aspx?id=0353-57381903384C"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Critical Theory and Philosophy",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W2978723615"
+    },
+    {
+      "openalex_id": "W1490903845",
+      "doi": null,
+      "title": "Walter Benjamin's Messianic Politics: Between Marxism and Messianism",
+      "authors": [
+        {
+          "name": "Grant Poettcker",
+          "openalex_id": "A5042860745"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "This thesis explores the messianic politics that Walter Benjamin develops in his \"Theses on the Philosophy of History\" by examining the relationship between historical materialism and theology that he proposes in the first thesis. I therefore begin by examining Benjamin's conception of historical materialism in order to differentiate it from Marx's and to elucidate the way in which Benjamin seeks to reorient proletarian praxis. I argue that Benjamin seeks to solve the proletariat's problems of organization (to which Marx's conception of revolution has given rise) by resituating history and proletarian praxis within the frame of a messianic apocalyptic. I then attempt to reconstruct the major features of this apocalyptic by showing the connections between Benjamin's cryptic theological formulations in the \"Theses\" and the thematically similar formulations scattered throughout some of his other writings (in particular, \"Critique of Violence,\" the \"Theological-Political Fragment,\" and <em>The Origin of German Tragic Drama</em>). I clarify the way in which Benjamin's theological messianism enables him to offer a critique of profane politics that eschews the doctrine of progress which has caused the proletariat to forsake its revolutionary vocation. Furthermore, I show how Benjamin's critique of profane politics also specifies a mode of enactment that is messianic in that it orients the subject to activity which participates in history's coming to fulfillment.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "MacSphere (McMaster University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11375/10582"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Jewish and Middle Eastern Studies",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1490903845"
+    },
+    {
+      "openalex_id": "W2065114277",
+      "doi": "10.1515/pol-2013-0010",
+      "title": "Modifying the Past: Nietzschean Approaches to History",
+      "authors": [
+        {
+          "name": "Riccardo Baldissone",
+          "openalex_id": "A5046709681",
+          "institutions": [
+            "Curtin University",
+            "Singer (United States)",
+            "Birkbeck, University of London"
+          ]
+        },
+        {
+          "name": "Marc de Wilde",
+          "openalex_id": "A5067849045",
+          "orcid": "https://orcid.org/0000-0002-7135-2367"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-25",
+      "abstract": "In the course of the nineteenth century, the new scientific approach to history turned the past into a passive object of knowledge. This approach betrayed a strategy of domination, as it endowed certain interpretations of history with an aura of objectivity, while delegitimizing others as myth. On the contrary, Nietzsche asserted the formative powers of the present, and he argued that the historian had to actively re-create the past and turn it into a meaningful historical narrative. In his view, the meaning of the past depended on the will to transform the present itself. Since the beginning of the twentieth century, other theorists and writers, such as Croce, P\u00e9guy, and later Borges, attempted to reconceptualise the relation between the past and the present. Similarly to Nietzsche, they claimed that historians actively re-create and modify the past. This claim was also shared by Benjamin and Foucault, who emphasized the historians' duty to modify the past by seeking to revive subjugated historical knowledges. The aim of this article is to connect the writings of all these authors in a constellation that points to a shared conviction: that history is not objectively given, but constantly re-created and modified in the present.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "P\u00f3lemos",
+        "type": "journal",
+        "issn": [
+          "2035-5262",
+          "2036-4601"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/modifying-the-past-nietzschean-approaches-to-history(9430dcfb-bca2-41ba-9ea2-a3119f8c6517).html"
+      },
+      "topics": [
+        "Borges, Kipling, and Jewish Identity",
+        "Philosophy, History, and Historiography",
+        "Literature, Magical Realism, Garc\u00eda M\u00e1rquez"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2065114277"
+    },
+    {
+      "openalex_id": "W595544792",
+      "doi": null,
+      "title": "Magic(infra)realism: Jetztzeiten of Believability and Latin American History in Garc\u00eda M\u00e1rquez's Cien a\u00f1os de soledad and Oto\u00f1o del patriarca.",
+      "authors": [
+        {
+          "name": "Katarzyna Jasinski",
+          "openalex_id": "A5079567774"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "This thesis examines the idea of Colombian history as \u2018random coincidence\u2019 in Gabriel Garc\u00eda M\u00e1rquez\u2019s Cien a\u00f1os de soledad and El oto\u00f1o del patriarca. Walter Benjamin\u2019s Theses on the Philosophy of History and Michel Foucault\u2019s Nietzsche, Genealogy, History provide the theoretical framework for the research. This thesis examines magic realism as a way of representing the true invisible past of Latin America. The combination of Foucault\u2019s concept of genealogy, Walter Benjamin\u2019s \u2018messianic historical materialism\u2019 and Garc\u00eda M\u00e1rquez\u2019s \u2018magic realism\u2019 demonstrates that the combination of living and telling produce a Jetztzeit of believability that redeems Latin American history from historicism. By transforming Latin American History into a series of temporal tears, random events and contradictions, CAS and OdP define true History as something that happens behind the scenes of power.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Scholarship@Western (Western University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ir.lib.uwo.ca/etd/1631"
+      },
+      "topics": [
+        "Literature, Magical Realism, Garc\u00eda M\u00e1rquez",
+        "Latin American Literature Studies",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W595544792"
+    },
+    {
+      "openalex_id": "W9779092",
+      "doi": "10.7916/d85t3j5v",
+      "title": "The Foundations of Mozart Scholarship",
+      "authors": [
+        {
+          "name": "Thomas Irvine",
+          "openalex_id": "A5041105372"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "What are the foundations of Mozart scholarship? The \"facts\" -there are many of them, and we are always learning more-of a remarkable composer's short life? Or the meanings we read in that life, and the meanings we experience in the music Mozart left behind? The composer's present jubilee year offers a chance to reflect on these questions. My reflections begin with a polemical call for change in Mozart scholarship proposed more than forty years ago by a young music historian to the skeptical audience of around-table discussion at an international conference. The young scholar, Wolfgang Plath, had just assumed the editorship of the largest Mozart project of his day (and of ours), the Neue Mozart-Ausgabe. The tone of his argument interests me as well as its contents: it was a polemic, designed as much to discredit the position of his opponents as to strengthen his own position. Plath's \"straw man\" was the school of German historiography that dominated writing in history and the history of the arts for more than a century, a school that sought, above all else, to discern meaning in history's ebb and flow. His critique, as we shall see, was as controversial as it was effective; I will argue here that specialist Mozart scholarship today has been shaped in no small part by it. Indeed, the issues Plath raised in making his argument have implications that extend far beyond the narrow confines of Mozart studies.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Columbia Academic Commons (Columbia University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.7916/d85t3j5v"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Historical Influence and Diplomacy",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W9779092"
+    },
+    {
+      "openalex_id": "W1903291983",
+      "doi": "10.12681/eadd/36333",
+      "title": "\u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ad\u03c2 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03c4\u03ad\u03c4\u03b1\u03c1\u03c4\u03bf \u03c4\u03bf\u03c5 20\u03bf\u03c5 \u03b1\u03b9\u03ce\u03bd\u03b1",
+      "authors": [
+        {
+          "name": "\u0391\u03b3\u03b3\u03b5\u03bb\u03b9\u03ba\u03ae \u039a\u03bf\u03c5\u03c6\u03bf\u03cd",
+          "openalex_id": "A5097636339"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-01",
+      "abstract": "\u0397 \u03b4\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03c4\u03bf \u03b5\u03c0\u03af\u03bc\u03b1\u03c7\u03bf \u03b6\u03ae\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03c9\u03c3\u03c3\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1, \u03ad\u03bd\u03b1 \u03b6\u03ae\u03c4\u03b7\u03bc\u03b1 \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03b5 \u03c0\u03b5\u03b4\u03af\u03bf \u03b4\u03b9\u03b1\u03bc\u03b1\u03c7\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03c0\u03b1\u03c1\u03b1\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd, \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03c4\u03ad\u03c4\u03b1\u03c1\u03c4\u03bf \u03c4\u03bf\u03c5 \u03b5\u03b9\u03ba\u03bf\u03c3\u03c4\u03bf\u03cd \u03b1\u03b9\u03ce\u03bd\u03b1. \u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03c0\u03b1\u03c1\u03b1\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03b1\u03b2\u03bf\u03bb\u03ae \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf\u03bd \u03c7\u03ce\u03c1\u03bf \u03c4\u03b7\u03c2 \u03b8\u03b5\u03c9\u03c1\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c4\u03b7\u03c2 \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b1\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03c1\u03cc\u03bb\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1. \u039f\u03b9 \u03ba\u03b1\u03c4\u03b1\u03b2\u03bf\u03bb\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03c4\u03b1\u03b2\u03bf\u03bb\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae\u03c2 \u03b1\u03bd\u03b9\u03c7\u03bd\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b8\u03b5\u03c9\u03c1\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u03bb\u03b2\u03b5\u03c4\u03bf\u03cd \u03b3\u03bb\u03c9\u03c3\u03c3\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 Ferdinand de Saussure, \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c4\u03c1\u03bf\u03c6\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b5 \u03c4\u03bf \u03ba\u03af\u03bd\u03b7\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b3\u03b1\u03bb\u03bb\u03b9\u03ba\u03bf\u03cd \u03b4\u03bf\u03bc\u03b9\u03c3\u03bc\u03bf\u03cd \u03c0\u03bf\u03c5 \u03ad\u03bc\u03b5\u03bb\u03bb\u03b5 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03b4\u03c1\u03b1\u03bc\u03b1\u03c4\u03af\u03c3\u03b5\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b8\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c1\u03cc\u03bb\u03bf \u03c3\u03c4\u03bf \u03b4\u03b9\u03b1\u03bd\u03bf\u03b7\u03c4\u03b9\u03ba\u03cc \u03c3\u03c4\u03b5\u03c1\u03ad\u03c9\u03bc\u03b1, \u03c3\u03c5\u03bc\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03bf\u03bb\u03cc\u03ba\u03bb\u03b7\u03c1\u03c9\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03ba\u03bb\u03ac\u03b4\u03c9\u03bd.\u03a3\u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae \u03b5\u03c1\u03b5\u03c5\u03bd\u03ac\u03c4\u03b1\u03b9 \u03c4\u03bf \u03c6\u03ac\u03c3\u03bc\u03b1 \u03c4\u03c9\u03bd \u03b4\u03b9\u03b1\u03bd\u03bf\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ad\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b4\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03c9\u03c3\u03c3\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1. \u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03ad\u03bc\u03c6\u03b1\u03c3\u03b7 \u03b1\u03c0\u03bf\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03bf\u03cd \u03ba\u03b1\u03b9 \u03b8\u03b5\u03c9\u03c1\u03b7\u03c4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0399\u03c3\u03c4\u03bf\u03c1\u03af\u03b1\u03c2, Hayden White, \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03bf\u03bc\u03ae \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1. \u0397 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03b5\u03c0\u03b9\u03ba\u03b5\u03bd\u03c4\u03c1\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ad\u03c1\u03b3\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b4\u03b5\u03ba\u03b1\u03b5\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 1960 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5, \u03c3\u03c4\u03b7 \u03c3\u03c5\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03b3\u03cd\u03c1\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03c4\u03bf\u03c5. \u03a0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b8\u03b5\u03c9\u03c1\u03b7\u03c4\u03b9\u03ba\u03ae \u03c3\u03c5\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7, \u03c3\u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u03c4\u03bf\u03c5 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03bf \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03c4\u03c9\u03bd \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1, \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03bc\u03b5\u03af\u03b6\u03bf\u03bd\u03b5\u03c2 \u03ac\u03be\u03bf\u03bd\u03b5\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03c5\u03c1\u03b9\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03c3\u03c4\u03b1\u03b8\u03bc\u03bf\u03af \u03c3\u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03bf\u03c7\u03b1\u03c3\u03bc\u03bf\u03cd \u03c4\u03bf\u03c5. \u03a3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2, \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b1\u03c0\u03ae\u03c7\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ad\u03c1\u03b3\u03bf\u03c5 \u03c4\u03bf\u03c5, \u03b7 \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03ae \u03c4\u03bf\u03c5 \u03c3\u03c4\u03b9\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03ad\u03c2, \u03b5\u03bd\u03ce \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b1\u03c0\u03bf\u03c4\u03af\u03bc\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b5\u03b9\u03c3\u03c6\u03bf\u03c1\u03ac\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03c9\u03c3\u03c3\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.didaktorika.gr/eadd/bitstream/10442/36333/1/36333.pdf"
+      },
+      "topics": [
+        "Educator Training and Historical Pedagogy",
+        "Philosophy, History, and Historiography",
+        "Digital Humanities and Scholarship"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1903291983"
+    },
+    {
+      "openalex_id": "W7111471407",
+      "doi": null,
+      "title": "The Fate of the Dead",
+      "authors": [
+        {
+          "name": "Hoerger, Jacob",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "Jacob Hoerger Dissertation Advisor: Michael Rosen The Fate of the Dead Efforts to redress historical injustice have come to the forefront of political contestation around the world. Some believe these efforts constitute an attack on historical figures who were the perpetrators of injustice. The purpose of this dissertation is to argue that, while there may be other grounds to object to redress measures, the worry that they harm past perpetrators is unfounded. To prepare the argument, I examine a line of thinking that emerged in the twentieth century about how it is possible for the living to help and harm the dead victims of past injustice. This involves attempting to manipulate the web of meaning of which both the living and dead are a part in order to change the significance of the suffering of the dead. I draw here on the work of Walter Benjamin and Saidiya Hartman. I leverage their insights to then consider the question of past perpetrators. In response to the objection that past perpetrators are being harmed by the living, some argue that the dead can simply have no effect on the living and that the living can have no effect on the dead. Many contemporary advocates of redress would reject this because, as I have just said, it would curtail living peoples\u2019 ability to attend to dead victims of past injustice. However, once one grants that people in the past can be helped and harmed by the actions of living people, how does one prevent a clash between the will and interests of the dead victims and those of the dead perpetrators? One response is to say that by committing acts of injustice, the dead perpetrators forfeit their claims to be respected by living people. For a variety of reasons, this is unlikely to be persuasive to those who care about the dead perpetrators. To name just one: Given that moral reasoning changes over time, it might strike some as unfair to condemn many for actions and beliefs whose wrongness they could not have known the full extent of at the time. I accept that living people can maintain an attachment to past perpetrators. However, rather than believing that this attachment will reinforce the status quo, I argue that by viewing past perpetrators as capable of redemption, one gains a powerful reason to work to mitigate the negative effects of the dead\u2019s wrongdoing. If past perpetrators were to know what the living now know about their unjust actions, either they would choose for living people to redress their actions on their behalf or they would still insist on their errant ways and truly would forfeit the right for living people to hold fast to them. This argument establishes the general principle that efforts to redress the actions of past perpetrators enhance rather than threaten their legacy. I develop this argument in seven chapters. In Chapter 1, I examine the history of the concept of \u201chistorical injustice\u201d and explain how it is related to the concept of \u201credemption.\u201d In Chapter II, I explain that to fully address the politics of redemption, especially as it pertains to the perpetrators of injustice, it is necessary to move beyond the view that redress efforts are either \u201cmaterial\u201d or \u201csymbolic.\u201d In Chapter III, I turn to the work of Walter Benjamin as inspiration for a theory of how to help the dead. In Chapter IV, I focus on the work of Saidiya Hartman to understand how the dead may be harmed by the living. Both of these thinkers were primarily concerned with addressing the unjust suffering of victims of historical injustice. This is important in its own right. Additionally, I examine how their arguments may be applied to past perpetrators. In Chapter V, I argue that it is possible to believe in the redemption of past perpetrators of injustice in a way that supports rather than hampers efforts to redress their wrongdoing. In Chapter VI, I analyze the notion of \u201cnever again\u201d to show one way in which efforts to redeem past perpetrators can be developed in alignment with attention to past victims. Finally, in Chapter VII, I suggest my argument about past perpetrators opens up an underappreciated view on living peoples\u2019 relationship to the past as a whole, a view I refer to as \u201cleft conservatism.\u201d",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dash.harvard.edu/bitstreams/4cc232c9-5802-4c3f-b8ef-8f4b61038de7/download"
+      },
+      "topics": [
+        "Memory, Trauma, and Commemoration",
+        "Hannah Arendt's Political Philosophy",
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7111471407"
+    },
+    {
+      "openalex_id": "W2294805876",
+      "doi": "10.17615/m2tv-kh90",
+      "title": "Orientation and education: critical constellations in the new millennium",
+      "authors": [
+        {
+          "name": "John Kitchens",
+          "openalex_id": "A5068486008",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-12",
+      "abstract": "Applying concepts from both critical theory and progressive education, this dissertation is a study in curriculum theory. Employing the encompassing metaphor of education as travel, this project describes the dispositions of orientation, disorientation, and misorientation as it investigates pedagogical practices that develop skills necessary for students to navigate their future travels as adults. As such, this describes a spatial curriculum theory that is situated in place and in the everyday lives of students. It investigates various ways students can come to know places, curriculum, and each other through dialogic inquiry. Though the value of \u201cgetting lost\u201d or disoriented is explored, this dissertation is nonetheless largely concerned with how the high school curriculum is preparing students for their future travels as adults (their ability to map and navigate their environments), as well as instilling in them cooperative habits of journeying. All of which runs counter to current test-centered education that misorients students according to an economically competitiveness and material individualism. Critical constellations relate to the students\u2019 exercises in cognitive mapping both their geographic surroundings as well as curricular landscapes. Such constellations also involve a historical understanding of the present as well as politicizing curriculum so that students are addressing issues of power, oppression, social and environmental justice. Finally, it argues for arts integration and particularly performance theory as a means of transformative education and cooperative learning.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cdr.lib.unc.edu/record/uuid:8ffc57ec-1b9b-4a31-9930-731a3bda3f68"
+      },
+      "topics": [
+        "Diverse Education Studies and Reforms",
+        "Critical and Liberation Pedagogy",
+        "Global Educational Policies and Reforms"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2294805876"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

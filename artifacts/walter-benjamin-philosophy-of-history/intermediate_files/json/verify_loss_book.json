@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1353/sub.2003.0061
+[verify_paper.py] DOI verified: Loss: The Politics of Mourning...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1353/sub.2003.0061"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1353/sub.2003.0061",
+      "title": "Loss: The Politics of Mourning",
+      "authors": [
+        {
+          "family": "Mandel",
+          "given": "Naomi"
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "SubStance",
+      "volume": "32",
+      "issue": "3",
+      "page": "175-179",
+      "publisher": "Project MUSE",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1353/sub.2003.0061"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

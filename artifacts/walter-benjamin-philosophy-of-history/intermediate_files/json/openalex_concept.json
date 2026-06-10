@@ -1,0 +1,3889 @@
+[search_openalex.py] Searching OpenAlex: 'Benjamin On the Concept of History theses 2020' (year=2015-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_cbfd6556e39429f8)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Benjamin On the Concept of History theses 2020",
+  "results": [
+    {
+      "openalex_id": "W3005821439",
+      "doi": "10.1088/1361-648x/ab6348",
+      "title": "The 2020 motile active matter roadmap",
+      "authors": [
+        {
+          "name": "Gerhard Gompper",
+          "openalex_id": "A5074338260",
+          "orcid": "https://orcid.org/0000-0002-8904-0986",
+          "institutions": [
+            "Forschungszentrum J\u00fclich"
+          ]
+        },
+        {
+          "name": "Roland G. Winkler",
+          "openalex_id": "A5063337828",
+          "orcid": "https://orcid.org/0000-0002-7513-0796",
+          "institutions": [
+            "Forschungszentrum J\u00fclich",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Thomas Speck",
+          "openalex_id": "A5087571838",
+          "orcid": "https://orcid.org/0000-0002-6357-1180",
+          "institutions": [
+            "Johannes Gutenberg University Mainz",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Alexandre Solon",
+          "openalex_id": "A5064258804",
+          "orcid": "https://orcid.org/0000-0002-0222-1347",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Cesare Nardini",
+          "openalex_id": "A5081322351",
+          "orcid": "https://orcid.org/0000-0002-0466-1418",
+          "institutions": [
+            "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+            "Civilisations Matter",
+            "Service de Physique de l'\u00c9tat Condens\u00e9",
+            "CEA Paris-Saclay"
+          ]
+        },
+        {
+          "name": "Fernando Peruani",
+          "openalex_id": "A5045145690",
+          "orcid": "https://orcid.org/0000-0003-2985-8935",
+          "institutions": [
+            "Universit\u00e9 C\u00f4te d'Azur",
+            "Civilisations Matter",
+            "Observatoire de la C\u00f4te d\u2019Azur"
+          ]
+        },
+        {
+          "name": "Hartmut L\u00f6wen",
+          "openalex_id": "A5028221319",
+          "orcid": "https://orcid.org/0000-0001-5376-8062",
+          "institutions": [
+            "Heinrich Heine University D\u00fcsseldorf"
+          ]
+        },
+        {
+          "name": "Ramin Golestanian",
+          "openalex_id": "A5084685727",
+          "orcid": "https://orcid.org/0000-0002-3149-4002",
+          "institutions": [
+            "University of Oxford",
+            "Max Planck Institute for Dynamics and Self-Organization"
+          ]
+        },
+        {
+          "name": "U. Benjamin Kaupp",
+          "openalex_id": "A5004950209",
+          "orcid": "https://orcid.org/0000-0002-0696-6397",
+          "institutions": [
+            "Center of Advanced European Studies and Research"
+          ]
+        },
+        {
+          "name": "Luis \u00c1lvarez",
+          "openalex_id": "A5027797078",
+          "orcid": "https://orcid.org/0000-0002-1027-2291",
+          "institutions": [
+            "Center of Advanced European Studies and Research",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Thomas Ki\u00f8rboe",
+          "openalex_id": "A5050258245",
+          "orcid": "https://orcid.org/0000-0002-3265-336X",
+          "institutions": [
+            "Civilisations Matter",
+            "Technical University of Denmark"
+          ]
+        },
+        {
+          "name": "Eric Lauga",
+          "openalex_id": "A5003974917",
+          "orcid": "https://orcid.org/0000-0002-8916-2545",
+          "institutions": [
+            "University of Cambridge",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Wilson C. K. Poon",
+          "openalex_id": "A5016090942",
+          "orcid": "https://orcid.org/0000-0003-0760-7940",
+          "institutions": [
+            "Civilisations Matter",
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Antonio DeSimone",
+          "openalex_id": "A5028685695",
+          "orcid": "https://orcid.org/0000-0002-2632-3057",
+          "institutions": [
+            "Scuola Superiore Sant'Anna",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Santiago Mu\u00ed\u00f1os-Land\u00edn",
+          "openalex_id": "A5071847520",
+          "orcid": "https://orcid.org/0000-0002-2493-8891",
+          "institutions": [
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Alexander Fischer",
+          "openalex_id": "A5085229023",
+          "orcid": "https://orcid.org/0000-0001-5353-3036",
+          "institutions": [
+            "Civilisations Matter",
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Nicola Andreas S\u00f6ker",
+          "openalex_id": "A5064096398",
+          "institutions": [
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Frank Cichos",
+          "openalex_id": "A5041718843",
+          "orcid": "https://orcid.org/0000-0002-9803-4975",
+          "institutions": [
+            "Civilisations Matter",
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Raymond Kapral",
+          "openalex_id": "A5041147881",
+          "orcid": "https://orcid.org/0000-0002-4652-645X",
+          "institutions": [
+            "University of Toronto",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Pierre Gaspard",
+          "openalex_id": "A5065368261",
+          "orcid": "https://orcid.org/0000-0003-3804-2110",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        },
+        {
+          "name": "Marisol Ripoll",
+          "openalex_id": "A5000095804",
+          "orcid": "https://orcid.org/0000-0001-9583-067X",
+          "institutions": [
+            "Forschungszentrum J\u00fclich",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Francesc Sagu\u00e9s",
+          "openalex_id": "A5016938143",
+          "orcid": "https://orcid.org/0000-0002-2956-5676",
+          "institutions": [
+            "Civilisations Matter",
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Amin Doostmohammadi",
+          "openalex_id": "A5041692000",
+          "orcid": "https://orcid.org/0000-0002-1116-4268",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        },
+        {
+          "name": "Julia M. Yeomans",
+          "openalex_id": "A5009735478",
+          "orcid": "https://orcid.org/0000-0001-8268-5469",
+          "institutions": [
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Igor S. Aranson",
+          "openalex_id": "A5112082393",
+          "institutions": [
+            "Pennsylvania State University",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Clemens Bechinger",
+          "openalex_id": "A5008724211",
+          "orcid": "https://orcid.org/0000-0002-5496-5268",
+          "institutions": [
+            "University of Konstanz",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Holger Stark",
+          "openalex_id": "A5081941349",
+          "orcid": "https://orcid.org/0000-0002-6388-5390",
+          "institutions": [
+            "Civilisations Matter",
+            "Technische Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Charlotte K. Hemelrijk",
+          "openalex_id": "A5081197069",
+          "orcid": "https://orcid.org/0000-0001-6160-077X",
+          "institutions": [
+            "University of Groningen",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Fran\u00e7ois N\u00e9d\u00e9lec",
+          "openalex_id": "A5087067085",
+          "orcid": "https://orcid.org/0000-0002-8141-5288",
+          "institutions": [
+            "University of Cambridge",
+            "Sainsbury Laboratory",
+            "Civilisations Matter"
+          ]
+        },
+        {
+          "name": "Trinish Sarkar",
+          "openalex_id": "A5053888615",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Thibault Aryaksama",
+          "openalex_id": "A5074619521",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Mathilde Lacroix",
+          "openalex_id": "A5052741113",
+          "orcid": "https://orcid.org/0000-0001-9743-3395",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Guillaume Duclos",
+          "openalex_id": "A5062437337",
+          "orcid": "https://orcid.org/0000-0001-9010-8952",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Victor Yashunsky",
+          "openalex_id": "A5035931522",
+          "orcid": "https://orcid.org/0000-0003-3175-3390",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Pascal Silberzan",
+          "openalex_id": "A5051926579",
+          "orcid": "https://orcid.org/0000-0002-8554-882X",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris Sciences et Lettres",
+            "Sorbonne Universit\u00e9",
+            "Civilisations Matter",
+            "Institut Curie"
+          ]
+        },
+        {
+          "name": "Marino Arroyo",
+          "openalex_id": "A5041927899",
+          "orcid": "https://orcid.org/0000-0003-1647-940X",
+          "institutions": [
+            "Civilisations Matter",
+            "Universitat Polit\u00e8cnica de Catalunya"
+          ]
+        },
+        {
+          "name": "Sohan Kale",
+          "openalex_id": "A5067217022",
+          "orcid": "https://orcid.org/0000-0002-9985-3526",
+          "institutions": [
+            "Civilisations Matter",
+            "Universitat Polit\u00e8cnica de Catalunya"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-14",
+      "abstract": "Activity and autonomous motion are fundamental in living and engineering systems. This has stimulated the new field of 'active matter' in recent years, which focuses on the physical aspects of propulsion mechanisms, and on motility-induced emergent collective behavior of a larger number of identical agents. The scale of agents ranges from nanomotors and microswimmers, to cells, fish, birds, and people. Inspired by biological microswimmers, various designs of autonomous synthetic nano- and micromachines have been proposed. Such machines provide the basis for multifunctional, highly responsive, intelligent (artificial) active materials, which exhibit emergent behavior and the ability to perform tasks in response to external stimuli. A major challenge for understanding and designing active matter is their inherent nonequilibrium nature due to persistent energy consumption, which invalidates equilibrium concepts such as free energy, detailed balance, and time-reversal symmetry. Unraveling, predicting, and controlling the behavior of active matter is a truly interdisciplinary endeavor at the interface of biology, chemistry, ecology, engineering, mathematics, and physics. The vast complexity of phenomena and mechanisms involved in the self-organization and dynamics of motile active matter comprises a major challenge. Hence, to advance, and eventually reach a comprehensive understanding, this important research area requires a concerted, synergetic approach of the various disciplines. The 2020 motile active matter roadmap of Journal of Physics: Condensed Matter addresses the current state of the art of the field and provides guidance for both students as well as established scientists in their efforts to advance this fascinating area.",
+      "cited_by_count": 472,
+      "type": "article",
+      "source": {
+        "name": "Journal of Physics Condensed Matter",
+        "type": "journal",
+        "issn": [
+          "0953-8984",
+          "1361-648X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://iopscience.iop.org/article/10.1088/1361-648X/ab6348/pdf"
+      },
+      "topics": [
+        "Micro and Nano Robotics",
+        "Molecular Communication and Nanonetworks",
+        "Advanced Thermodynamics and Statistical Mechanics"
+      ],
+      "referenced_works_count": 295,
+      "url": "https://openalex.org/W3005821439"
+    },
+    {
+      "openalex_id": "W3091443497",
+      "doi": "10.1016/s0140-6736(20)32032-8",
+      "title": "Reckoning with histories of medical racism and violence in the USA",
+      "authors": [
+        {
+          "name": "Ayah Nuriddin",
+          "openalex_id": "A5037593011",
+          "institutions": [
+            "Johns Hopkins University",
+            "Johns Hopkins Medicine"
+          ]
+        },
+        {
+          "name": "Graham Mooney",
+          "openalex_id": "A5016037596",
+          "orcid": "https://orcid.org/0000-0001-7775-9558",
+          "institutions": [
+            "Johns Hopkins University",
+            "Johns Hopkins Medicine"
+          ]
+        },
+        {
+          "name": "Alexandre White",
+          "openalex_id": "A5067564121",
+          "orcid": "https://orcid.org/0000-0002-5296-6072",
+          "institutions": [
+            "Johns Hopkins Medicine",
+            "Johns Hopkins University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-01",
+      "abstract": null,
+      "cited_by_count": 216,
+      "type": "article",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S0140673620320328/pdf"
+      },
+      "topics": [
+        "Public Health Policies and Education",
+        "Health and Conflict Studies",
+        "Racial and Ethnic Identity Research"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W3091443497"
+    },
+    {
+      "openalex_id": "W4380685454",
+      "doi": "10.3390/app13127082",
+      "title": "Re-Thinking Data Strategy and Integration for Artificial Intelligence: Concepts, Opportunities, and Challenges",
+      "authors": [
+        {
+          "name": "Abdulaziz Aldoseri",
+          "openalex_id": "A5053777601",
+          "orcid": "https://orcid.org/0009-0003-4367-0450",
+          "institutions": [
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "Khalifa N. Al\u2010Khalifa",
+          "openalex_id": "A5111995971",
+          "institutions": [
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "A.M.S. Hamouda",
+          "openalex_id": "A5029670996",
+          "orcid": "https://orcid.org/0000-0001-8022-4319",
+          "institutions": [
+            "Qatar University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-13",
+      "abstract": "The use of artificial intelligence (AI) is becoming more prevalent across industries such as healthcare, finance, and transportation. Artificial intelligence is based on the analysis of large datasets and requires a continuous supply of high-quality data. However, using data for AI is not without challenges. This paper comprehensively reviews and critically examines the challenges of using data for AI, including data quality, data volume, privacy and security, bias and fairness, interpretability and explainability, ethical concerns, and technical expertise and skills. This paper examines these challenges in detail and offers recommendations on how companies and organizations can address them. By understanding and addressing these challenges, organizations can harness the power of AI to make smarter decisions and gain competitive advantage in the digital age. It is expected, since this review article provides and discusses various strategies for data challenges for AI over the last decade, that it will be very helpful to the scientific research community to create new and novel ideas to rethink our approaches to data strategies for AI.",
+      "cited_by_count": 587,
+      "type": "article",
+      "source": {
+        "name": "Applied Sciences",
+        "type": "journal",
+        "issn": [
+          "2076-3417"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-3417/13/12/7082/pdf?version=1686659661"
+      },
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "referenced_works_count": 132,
+      "url": "https://openalex.org/W4380685454"
+    },
+    {
+      "openalex_id": "W4293212596",
+      "doi": "10.3847/1538-4357/ac7c74",
+      "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package",
+      "authors": [
+        {
+          "name": "Adrian M. Price-Whelan",
+          "openalex_id": "A5051357815",
+          "orcid": "https://orcid.org/0000-0003-0872-7098"
+        },
+        {
+          "name": "LIM, Pey Lian",
+          "openalex_id": "",
+          "institutions": [
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "A. Zonca",
+          "openalex_id": "A5016271660",
+          "orcid": "https://orcid.org/0000-0001-6841-1058",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "STARKMAN, Nathaniel",
+          "openalex_id": "",
+          "institutions": [
+            "University of Illinois Urbana-Champaign"
+          ]
+        },
+        {
+          "name": "BRADLEY, Larry",
+          "openalex_id": "",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "SHUPE, David L.",
+          "openalex_id": "",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Aarya A. Patil",
+          "openalex_id": "A5034024724",
+          "orcid": "https://orcid.org/0000-0002-7626-506X",
+          "institutions": [
+            "California Institute of Technology",
+            "Infrared Processing and Analysis Center"
+          ]
+        },
+        {
+          "name": "L\u00eda Corrales",
+          "openalex_id": "A5000623273",
+          "orcid": "https://orcid.org/0000-0002-5466-3817",
+          "institutions": [
+            "University of Toronto",
+            "Canadian Institute for Theoretical Astrophysics"
+          ]
+        },
+        {
+          "name": "C. E. Brasseur",
+          "openalex_id": "A5066601915",
+          "orcid": "https://orcid.org/0000-0002-9314-960X",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Maximilian N\u00f6the",
+          "openalex_id": "A5108664690",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Axel Donath",
+          "openalex_id": "A5087561903",
+          "orcid": "https://orcid.org/0000-0003-4568-7005",
+          "institutions": [
+            "TU Dortmund University"
+          ]
+        },
+        {
+          "name": "Erik Tollerud",
+          "openalex_id": "A5083524651",
+          "orcid": "https://orcid.org/0000-0002-9599-310X",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Brett M. Morris",
+          "openalex_id": "A5022671363",
+          "orcid": "https://orcid.org/0000-0003-2528-3409",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Adam Ginsburg",
+          "openalex_id": "A5039093835",
+          "orcid": "https://orcid.org/0000-0001-6431-9633",
+          "institutions": [
+            "University of Bern"
+          ]
+        },
+        {
+          "name": "Eero Vaher",
+          "openalex_id": "A5020747884",
+          "orcid": "https://orcid.org/0000-0001-8736-1762",
+          "institutions": [
+            "University of Florida"
+          ]
+        },
+        {
+          "name": "Benjamin Alan Weaver",
+          "openalex_id": "A5031952490",
+          "orcid": "https://orcid.org/0000-0003-3687-3463",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "James Tocknell",
+          "openalex_id": "A5071260466",
+          "orcid": "https://orcid.org/0000-0001-6637-6922",
+          "institutions": [
+            "NSF NOIRLab"
+          ]
+        },
+        {
+          "name": "William Brian Jamieson",
+          "openalex_id": "A5030465114",
+          "orcid": "https://orcid.org/0000-0001-5976-4492",
+          "institutions": [
+            "Australian Astronomical Observatory",
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "M. H. van Kerkwijk",
+          "openalex_id": "A5031567163",
+          "orcid": "https://orcid.org/0000-0002-5830-8505",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Thomas Robitaille",
+          "openalex_id": "A5014651763",
+          "orcid": "https://orcid.org/0000-0002-8642-1329",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Bruce Merry",
+          "openalex_id": "A5076076977"
+        },
+        {
+          "name": "Matteo Bachetti",
+          "openalex_id": "A5073598248",
+          "orcid": "https://orcid.org/0000-0002-4576-9337",
+          "institutions": [
+            "South African Radio Astronomy Observatory"
+          ]
+        },
+        {
+          "name": "Hans Moritz G\u00fcnther",
+          "openalex_id": "A5046850653",
+          "orcid": "https://orcid.org/0000-0003-4243-2840",
+          "institutions": [
+            "Osservatorio Astronomico di Cagliari",
+            "National Institute for Astrophysics"
+          ]
+        },
+        {
+          "name": "Thomas L. Aldcroft",
+          "openalex_id": "A5085224854",
+          "institutions": [
+            "Kavli Institute for Particle Astrophysics and Cosmology"
+          ]
+        },
+        {
+          "name": "Jaime A. Alvarado-Montes",
+          "openalex_id": "A5067922714",
+          "orcid": "https://orcid.org/0000-0003-0353-9741",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Anne M. Archibald",
+          "openalex_id": "A5030889135",
+          "orcid": "https://orcid.org/0000-0003-0638-3340",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Attila B\u00f3di",
+          "openalex_id": "A5085923546",
+          "orcid": "https://orcid.org/0000-0002-8585-4544",
+          "institutions": [
+            "Newcastle University"
+          ]
+        },
+        {
+          "name": "Shreyas Bapat",
+          "openalex_id": "A5017171558",
+          "orcid": "https://orcid.org/0000-0002-0870-4665",
+          "institutions": [
+            "Konkoly Observatory",
+            "HUN-REN Research Centre for Astronomy and Earth Sciences"
+          ]
+        },
+        {
+          "name": "Geert Barentsen",
+          "openalex_id": "A5000264188",
+          "orcid": "https://orcid.org/0000-0002-3306-3484",
+          "institutions": [
+            "Indian Institute of Technology Mandi"
+          ]
+        },
+        {
+          "name": "Juanjo Baz\u00e1n",
+          "openalex_id": "A5031599145",
+          "orcid": "https://orcid.org/0000-0001-7699-3983",
+          "institutions": [
+            "Bay Area Environmental Research Institute"
+          ]
+        },
+        {
+          "name": "Manish Biswas",
+          "openalex_id": "A5020881985",
+          "institutions": [
+            "Centro de Astrobiolog\u00eda"
+          ]
+        },
+        {
+          "name": "M. Boquien",
+          "openalex_id": "A5010717725",
+          "orcid": "https://orcid.org/0000-0003-0946-6176",
+          "institutions": [
+            "Savitribai Phule Pune University"
+          ]
+        },
+        {
+          "name": "D. J. Burke",
+          "openalex_id": "A5035705826",
+          "orcid": "https://orcid.org/0000-0003-4428-7835",
+          "institutions": [
+            "Universidad de Antofagasta"
+          ]
+        },
+        {
+          "name": "Daria Cara",
+          "openalex_id": "A5089860122",
+          "orcid": "https://orcid.org/0000-0003-3833-1668",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Mihai Cara",
+          "openalex_id": "A5035352659",
+          "orcid": "https://orcid.org/0000-0002-9294-6551",
+          "institutions": [
+            "Wake Forest University"
+          ]
+        },
+        {
+          "name": "Kyle E. Conroy",
+          "openalex_id": "A5004542944",
+          "orcid": "https://orcid.org/0000-0002-5442-8550",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Simon Conseil",
+          "openalex_id": "A5038234856",
+          "orcid": "https://orcid.org/0000-0002-3657-4191",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Matthew Craig",
+          "openalex_id": "A5057373916",
+          "orcid": "https://orcid.org/0000-0001-7988-8919",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Aix-Marseille Universit\u00e9"
+          ]
+        },
+        {
+          "name": "R. Cross",
+          "openalex_id": "A5010958238",
+          "orcid": "https://orcid.org/0000-0003-0081-8024",
+          "institutions": [
+            "Minnesota State University Moorhead"
+          ]
+        },
+        {
+          "name": "Kelle L. Cruz",
+          "openalex_id": "A5068180255",
+          "orcid": "https://orcid.org/0000-0002-1821-0650"
+        },
+        {
+          "name": "D'EUGENIO, Francesco",
+          "openalex_id": "",
+          "institutions": [
+            "American Museum of Natural History",
+            "Hunter College",
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "Nadia Dencheva",
+          "openalex_id": "A5068990455",
+          "orcid": "https://orcid.org/0000-0002-5686-9632",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Hadrien A. R. Devillepoix",
+          "openalex_id": "A5070439585",
+          "orcid": "https://orcid.org/0000-0001-9226-1870",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "J. P. Dietrich",
+          "openalex_id": "A5107656958",
+          "orcid": "https://orcid.org/0000-0002-8134-9591",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Arthur Eigenbrot",
+          "openalex_id": "A5014303427",
+          "orcid": "https://orcid.org/0000-0003-0810-4368",
+          "institutions": [
+            "Stuttgart Observatory"
+          ]
+        },
+        {
+          "name": "T. Erben",
+          "openalex_id": "A5109151725",
+          "orcid": "https://orcid.org/0000-0001-6135-4070",
+          "institutions": [
+            "National Solar Observatory"
+          ]
+        },
+        {
+          "name": "Leonardo Ferreira",
+          "openalex_id": "A5101533423",
+          "orcid": "https://orcid.org/0000-0002-8919-079X",
+          "institutions": [
+            "University of Bonn"
+          ]
+        },
+        {
+          "name": "Daniel Foreman-Mackey",
+          "openalex_id": "A5043101946",
+          "orcid": "https://orcid.org/0000-0002-9328-5652",
+          "institutions": [
+            "University of Nottingham"
+          ]
+        },
+        {
+          "name": "Ryan Fox",
+          "openalex_id": "A5088884457",
+          "institutions": [
+            "Flatiron Health (United States)",
+            "Flatiron Institute"
+          ]
+        },
+        {
+          "name": "Nabil Freij",
+          "openalex_id": "A5000262389",
+          "orcid": "https://orcid.org/0000-0002-6253-082X"
+        },
+        {
+          "name": "Suyog Garg",
+          "openalex_id": "A5086440543",
+          "orcid": "https://orcid.org/0000-0002-2309-9731",
+          "institutions": [
+            "Lockheed Martin (United States)",
+            "Bay Area Environmental Research Institute"
+          ]
+        },
+        {
+          "name": "Robel Geda",
+          "openalex_id": "A5084133449",
+          "orcid": "https://orcid.org/0000-0003-1509-9966",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Lauren Glattly",
+          "openalex_id": "A5021871047",
+          "institutions": [
+            "Princeton University"
+          ]
+        },
+        {
+          "name": "Yash Gondhalekar",
+          "openalex_id": "A5001770976",
+          "orcid": "https://orcid.org/0000-0002-6646-4225"
+        },
+        {
+          "name": "Karl D. Gordon",
+          "openalex_id": "A5051018099",
+          "orcid": "https://orcid.org/0000-0001-5340-6774",
+          "institutions": [
+            "Birla Institute of Technology and Science, Pilani - Goa Campus"
+          ]
+        },
+        {
+          "name": "David Grant",
+          "openalex_id": "A5002553861",
+          "orcid": "https://orcid.org/0000-0001-5878-618X",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "P. Greenfield",
+          "openalex_id": "A5052341993",
+          "orcid": "https://orcid.org/0000-0003-2269-0551",
+          "institutions": [
+            "University of Bristol",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Austen Groener",
+          "openalex_id": "A5033727646",
+          "orcid": "https://orcid.org/0000-0002-6508-2938",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "S. Guest",
+          "openalex_id": "A5107346417",
+          "institutions": [
+            "Drexel University"
+          ]
+        },
+        {
+          "name": "S. Gurovich",
+          "openalex_id": "A5008022587",
+          "orcid": "https://orcid.org/0000-0001-5848-4077",
+          "institutions": [
+            "Rutherford Appleton Laboratory"
+          ]
+        },
+        {
+          "name": "R. Handberg",
+          "openalex_id": "A5040554874",
+          "orcid": "https://orcid.org/0000-0001-8725-4502",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "Instituto de Astronom\u00eda Te\u00f3rica y Experimental",
+            "Argentine National Observatory"
+          ]
+        },
+        {
+          "name": "Akeem Hart",
+          "openalex_id": "A5069597275",
+          "orcid": "https://orcid.org/0000-0002-8138-1479",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Zac Hatfield-Dodds",
+          "openalex_id": "A5070402589",
+          "orcid": "https://orcid.org/0000-0002-8646-8362"
+        },
+        {
+          "name": "D. Homeier",
+          "openalex_id": "A5042540132",
+          "orcid": "https://orcid.org/0000-0002-8546-9128",
+          "institutions": [
+            "Australian National University"
+          ]
+        },
+        {
+          "name": "G. Hosseinzadeh",
+          "openalex_id": "A5041269121",
+          "orcid": "https://orcid.org/0000-0002-0832-2974"
+        },
+        {
+          "name": "Tim Jenness",
+          "openalex_id": "A5059513243",
+          "orcid": "https://orcid.org/0000-0001-5982-167X",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Craig Jones",
+          "openalex_id": "A5018714925",
+          "orcid": "https://orcid.org/0000-0002-0629-3006",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "P. Joseph",
+          "openalex_id": "A5016252483",
+          "orcid": "https://orcid.org/0000-0003-1409-1903",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "J. Bryce Kalmbach",
+          "openalex_id": "A5042922015",
+          "orcid": "https://orcid.org/0000-0002-6825-5283",
+          "institutions": [
+            "Indian Institute of Astrophysics",
+            "Christ University"
+          ]
+        },
+        {
+          "name": "E. Karamehmetoglu",
+          "openalex_id": "A5068884480",
+          "orcid": "https://orcid.org/0000-0001-6209-838X",
+          "institutions": [
+            "University of Washington",
+            "City University of Seattle"
+          ]
+        },
+        {
+          "name": "Miko\u0142aj Ka\u0142uszy\u0144ski",
+          "openalex_id": "A5089870524",
+          "orcid": "https://orcid.org/0000-0003-0109-5833",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Michael S. P. Kelley",
+          "openalex_id": "A5019575780",
+          "orcid": "https://orcid.org/0000-0002-6702-7676",
+          "institutions": [
+            "Nicolaus Copernicus Astronomical Center",
+            "Polish Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Nicholas S. Kern",
+          "openalex_id": "A5046214946",
+          "orcid": "https://orcid.org/0000-0002-8211-1892",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Wolfgang Kerzendorf",
+          "openalex_id": "A5002576957",
+          "orcid": "https://orcid.org/0000-0002-0479-7235",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Eric W. Koch",
+          "openalex_id": "A5082507738",
+          "orcid": "https://orcid.org/0000-0001-9605-780X",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Shankar Kulumani",
+          "openalex_id": "A5085903009",
+          "orcid": "https://orcid.org/0000-0002-7822-0471",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "Antony Lee",
+          "openalex_id": "A5082768249",
+          "orcid": "https://orcid.org/0000-0003-2193-5369",
+          "institutions": [
+            "Johns Hopkins University Applied Physics Laboratory"
+          ]
+        },
+        {
+          "name": "Chun Ly",
+          "openalex_id": "A5075263706",
+          "orcid": "https://orcid.org/0000-0002-4245-2318",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 de Bordeaux",
+            "Laboratoire Photonique, Num\u00e9rique et Nanosciences"
+          ]
+        },
+        {
+          "name": "Zhiyuan Ma",
+          "openalex_id": "A5081053737",
+          "orcid": "https://orcid.org/0000-0003-3270-6844",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "C. D. MacBride",
+          "openalex_id": "A5089411259",
+          "orcid": "https://orcid.org/0000-0002-9901-8723",
+          "institutions": [
+            "University of Massachusetts Amherst"
+          ]
+        },
+        {
+          "name": "Jakob M. Maljaars",
+          "openalex_id": "A5074836380",
+          "orcid": "https://orcid.org/0000-0001-8100-9514",
+          "institutions": [
+            "Queen's University Belfast"
+          ]
+        },
+        {
+          "name": "Demitri Muna",
+          "openalex_id": "A5067904028",
+          "orcid": "https://orcid.org/0000-0002-1631-4114",
+          "institutions": [
+            "Science and Technology Corporation (Netherlands)"
+          ]
+        },
+        {
+          "name": "Nicholas A. Murphy",
+          "openalex_id": "A5060645832",
+          "orcid": "https://orcid.org/0000-0001-6628-8033",
+          "institutions": [
+            "The University of Texas at San Antonio"
+          ]
+        },
+        {
+          "name": "Henrik Norman",
+          "openalex_id": "A5077163602",
+          "orcid": "https://orcid.org/0000-0003-4189-3450",
+          "institutions": [
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "O'STEEN, Richard",
+          "openalex_id": ""
+        },
+        {
+          "name": "Kyle A. Oman",
+          "openalex_id": "A5080205649",
+          "orcid": "https://orcid.org/0000-0001-9857-7788",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "Camilla Pacifici",
+          "openalex_id": "A5010480309",
+          "orcid": "https://orcid.org/0000-0003-4196-0617",
+          "institutions": [
+            "Durham University"
+          ]
+        },
+        {
+          "name": "S. Pascual",
+          "openalex_id": "A5087875567",
+          "orcid": "https://orcid.org/0000-0002-9351-6051",
+          "institutions": [
+            "Space Telescope Science Institute",
+            "Universit\u00e9 Bourgogne Franche-Comt\u00e9"
+          ]
+        },
+        {
+          "name": "J. Pascual-Granado",
+          "openalex_id": "A5075026705",
+          "orcid": "https://orcid.org/0000-0003-0139-6951",
+          "institutions": [
+            "Universidad Complutense de Madrid"
+          ]
+        },
+        {
+          "name": "Rohit R. Patil",
+          "openalex_id": "A5020849160",
+          "institutions": [
+            "Instituto de Astrof\u00edsica de Andaluc\u00eda"
+          ]
+        },
+        {
+          "name": "G. I. Perren",
+          "openalex_id": "A5052681164",
+          "orcid": "https://orcid.org/0000-0002-1852-9653",
+          "institutions": [
+            "Syracuse University"
+          ]
+        },
+        {
+          "name": "T. E. Pickering",
+          "openalex_id": "A5065399568",
+          "orcid": "https://orcid.org/0000-0002-9427-5448",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "Instituto de Astrof\u00edsica de La Plata"
+          ]
+        },
+        {
+          "name": "RASTOGI, Tanuj",
+          "openalex_id": "",
+          "institutions": [
+            "TMT Observatory"
+          ]
+        },
+        {
+          "name": "Benjamin R. Roulston",
+          "openalex_id": "A5013140812",
+          "orcid": "https://orcid.org/0000-0002-9453-7735"
+        },
+        {
+          "name": "Daniel F. Ryan",
+          "openalex_id": "A5065976494",
+          "orcid": "https://orcid.org/0000-0001-8661-3825",
+          "institutions": [
+            "Boston University",
+            "Center for Astrophysics Harvard & Smithsonian"
+          ]
+        },
+        {
+          "name": "E. S. Rykoff",
+          "openalex_id": "A5045308614",
+          "orcid": "https://orcid.org/0000-0001-9376-3135",
+          "institutions": [
+            "American University",
+            "FHNW University of Applied Sciences and Arts Northwestern Switzerland"
+          ]
+        },
+        {
+          "name": "J. Sabater",
+          "openalex_id": "A5004450883",
+          "orcid": "https://orcid.org/0000-0003-1149-6294",
+          "institutions": [
+            "SLAC National Accelerator Laboratory"
+          ]
+        },
+        {
+          "name": "Parikshit Sakurikar",
+          "openalex_id": "A5061448327",
+          "orcid": "https://orcid.org/0000-0002-9523-5640",
+          "institutions": [
+            "Royal Observatory",
+            "UK Astronomy Technology Centre"
+          ]
+        },
+        {
+          "name": "J. Salgado",
+          "openalex_id": "A5087836750",
+          "orcid": "https://orcid.org/0000-0002-3680-4364",
+          "institutions": [
+            "International Institute of Information Technology, Hyderabad"
+          ]
+        },
+        {
+          "name": "Aniket Sanghi",
+          "openalex_id": "A5010712700",
+          "orcid": "https://orcid.org/0000-0002-1838-4757",
+          "institutions": [
+            "SKA Observatory"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Full list of authors: Price-Whelan, Adrian M.; Lim, Pey Lian; Earl, Nicholas; Starkman, Nathaniel; Bradley, Larry; Shupe, David L.; Patil, Aarya A.; Corrales, Lia; Brasseur, C. E.; Noethe, Maximilian; Donath, Axel; Tollerud, Erik; Morris, Brett M.; Ginsburg, Adam; Vaher, Eero; Weaver, Benjamin A.; Tocknell, James; Jamieson, William; van Kerkwijk, Marten H.; Robitaille, Thomas P.; Merry, Bruce; Bachetti, Matteo; Gunther, H. Moritz; Aldcroft, Thomas L.; Alvarado-Montes, Jaime A.; Archibald, Anne M.; Bodi, Attila; Bapat, Shreyas; Barentsen, Geert; Bazan, Juanjo; Biswas, Manish; Boquien, Mederic; Burke, D. J.; Cara, Daria; Cara, Mihai; Conroy, Kyle E.; Conseil, Simon; Craig, Matthew W.; Cross, Robert M.; Cruz, Kelle L.; D'Eugenio, Francesco; Dencheva, Nadia; Devillepoix, Hadrien A. R.; Dietrich, Jorg P.; Eigenbrot, Arthur Davis; Erben, Thomas; Ferreira, Leonardo; Foreman-Mackey, Daniel; Fox, Ryan; Freij, Nabil; Garg, Suyog; Geda, Robel; Glattly, Lauren; Gondhalekar, Yash; Gordon, Karl D.; Grant, David; Greenfield, Perry; Groener, Austen M.; Guest, Steve; Gurovich, Sebastian; Handberg, Rasmus; Hart, Akeem; Hatfield-Dodds, Zac; Homeier, Derek; Hosseinzadeh, Griffin; Jenness, Tim; Jones, Craig K.; Joseph, Prajwel; Kalmbach, J. Bryce; Karamehmetoglu, Emir; Kaluszynski, Mikolaj; Kelley, Michael S. P.; Kern, Nicholas; Kerzendorf, Wolfgang E.; Koch, Eric W.; Kulumani, Shankar; Lee, Antony; Ly, Chun; Ma, Zhiyuan; MacBride, Conor; Maljaars, Jakob M.; Muna, Demitri; Murphy, N. A.; Norman, Henrik; O'Steen, Richard; Oman, Kyle A.; Pacifici, Camilla; Pascual, Sergio; Pascual-Granado, J.; Patil, Rohit R.; Perren, Gabriel, I; Pickering, Timothy E.; Rastogi, Tanuj; Roulston, Benjamin R.; Ryan, Daniel F.; Rykoff, Eli S.; Sabater, Jose; Sakurikar, Parikshit; Salgado, Jesus; Sanghi, Aniket; Saunders, Nicholas; Savchenko, Volodymyr; Schwardt, Ludwig; Seifert-Eckert, Michael; Shih, Albert Y.; Jain, Anany Shrey; Shukla, Gyanendra; Sick, Jonathan; Simpson, Chris; Singanamalla, Sudheesh; Singer, Leo P.; Singhal, Jaladh; Sinha, Manodeep; Sipocz, Brigitta M.; Spitler, Lee R.; Stansby, David; Streicher, Ole; Sumak, Jani; Swinbank, John D.; Taranu, Dan S.; Tewary, Nikita; Tremblay, Grant R.; De Val-Borro, Miguel; Vasovic, Zlatan; Van Kooten, Samuel J.; Verma, Shresth; Cardoso, Jose Vinicius de Miranda; Williams, Peter K. G.; Wilson, Tom J.; Winkel, Benjamin; Wood-Vasey, W. M.; Xue, Rui; Yoachim, Peter; Zhang, Chen; Zonca, Andrea; Astropy Project Contributors; TARDIS Collaboration; Astropy Coordination Comm.--This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "cited_by_count": 4533,
+      "type": "article",
+      "source": {
+        "name": "Research Portal (Queen's University Belfast)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.qub.ac.uk/en/publications/fd0be0d9-bac4-4be0-a926-db4b8f6143e4"
+      },
+      "topics": [
+        "Gamma-ray bursts and supernovae",
+        "Astronomy and Astrophysical Research",
+        "Particle Detector Development and Performance"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W4293212596"
+    },
+    {
+      "openalex_id": "W3089805074",
+      "doi": "10.3389/fimmu.2020.583077",
+      "title": "Emerging Concepts and Technologies in Vaccine Development",
+      "authors": [
+        {
+          "name": "Morgan Brisse",
+          "openalex_id": "A5043684544",
+          "orcid": "https://orcid.org/0000-0002-7040-4495",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Sophia M. Vrba",
+          "openalex_id": "A5065467567",
+          "orcid": "https://orcid.org/0000-0003-1679-8240",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Natalie M. Kirk",
+          "openalex_id": "A5041248598",
+          "orcid": "https://orcid.org/0000-0003-1958-4045",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Yuying Liang",
+          "openalex_id": "A5053021453",
+          "orcid": "https://orcid.org/0000-0001-6002-6868",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Hinh Ly",
+          "openalex_id": "A5055155264",
+          "orcid": "https://orcid.org/0000-0001-8271-2033",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-30",
+      "abstract": "Despite the success of vaccination to greatly mitigate or eliminate threat of diseases caused by pathogens, there are still known diseases and emerging pathogens for which the development of successful vaccines against them is inherently difficult. In addition, vaccine development for people with compromised immunity and other pre-existing medical conditions has remained a major challenge. Besides the traditional inactivated or live attenuated, virus-vectored and subunit vaccines, emerging non-viral vaccine technologies, such as viral-like particle and nanoparticle vaccines, DNA/RNA vaccines, and rational vaccine design, offer innovative approaches to address existing challenges of vaccine development. They have also significantly advanced our understanding of vaccine immunology and can guide future vaccine development for many diseases, including rapidly emerging infectious diseases, such as COVID-19, and diseases that have not traditionally been addressed by vaccination, such as cancers and substance abuse. This review provides an integrative discussion of new non-viral vaccine development technologies and their use to address the most fundamental and ongoing challenges of vaccine development.",
+      "cited_by_count": 321,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Immunology",
+        "type": "journal",
+        "issn": [
+          "1664-3224"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.583077/pdf"
+      },
+      "topics": [
+        "SARS-CoV-2 and COVID-19 Research",
+        "Immunotherapy and Immune Responses",
+        "vaccines and immunoinformatics approaches"
+      ],
+      "referenced_works_count": 290,
+      "url": "https://openalex.org/W3089805074"
+    },
+    {
+      "openalex_id": "W3201152823",
+      "doi": "10.7759/cureus.18136",
+      "title": "Pandemics Throughout the History",
+      "authors": [
+        {
+          "name": "Shrikanth Sampath",
+          "openalex_id": "A5080874190",
+          "orcid": "https://orcid.org/0009-0009-0057-6281",
+          "institutions": [
+            "Tanta University",
+            "Mayo Clinic in Florida",
+            "Mayo Clinic Health System",
+            "Mayo Clinic in Arizona",
+            "International Baccalaureate",
+            "HCA Healthcare",
+            "Allegheny Health Network",
+            "Southern Hills Medical Center",
+            "Mayo Clinic"
+          ]
+        },
+        {
+          "name": "Anwar Khedr",
+          "openalex_id": "A5081083195",
+          "orcid": "https://orcid.org/0000-0002-2730-3031",
+          "institutions": [
+            "Southern Hills Medical Center",
+            "Tanta University",
+            "Mayo Clinic in Arizona",
+            "Mayo Clinic",
+            "Mayo Clinic Health System",
+            "Allegheny Health Network",
+            "HCA Healthcare",
+            "International Baccalaureate",
+            "Mayo Clinic in Florida"
+          ]
+        },
+        {
+          "name": "Shahraz Qamar",
+          "openalex_id": "A5032463566",
+          "orcid": "https://orcid.org/0000-0002-9097-0443",
+          "institutions": [
+            "HCA Healthcare",
+            "Tanta University",
+            "Allegheny Health Network",
+            "International Baccalaureate",
+            "Mayo Clinic in Arizona",
+            "Mayo Clinic",
+            "Southern Hills Medical Center",
+            "Mayo Clinic Health System",
+            "Mayo Clinic in Florida"
+          ]
+        },
+        {
+          "name": "Aysun Tekin",
+          "openalex_id": "A5037385395",
+          "orcid": "https://orcid.org/0000-0002-1891-2118",
+          "institutions": [
+            "Mayo Clinic Health System",
+            "Tanta University",
+            "Southern Hills Medical Center",
+            "Mayo Clinic",
+            "HCA Healthcare",
+            "Mayo Clinic in Florida",
+            "International Baccalaureate",
+            "Allegheny Health Network",
+            "Mayo Clinic in Arizona"
+          ]
+        },
+        {
+          "name": "Romil Singh",
+          "openalex_id": "A5004022886",
+          "orcid": "https://orcid.org/0000-0003-3777-5670",
+          "institutions": [
+            "Mayo Clinic Health System",
+            "Southern Hills Medical Center",
+            "HCA Healthcare",
+            "Allegheny Health Network",
+            "Mayo Clinic",
+            "International Baccalaureate",
+            "Tanta University",
+            "Mayo Clinic in Florida",
+            "Mayo Clinic in Arizona"
+          ]
+        },
+        {
+          "name": "Ronya Green",
+          "openalex_id": "A5080496913",
+          "institutions": [
+            "Southern Hills Medical Center",
+            "HCA Healthcare",
+            "Mayo Clinic in Florida",
+            "Mayo Clinic Health System",
+            "Tanta University",
+            "Allegheny Health Network",
+            "International Baccalaureate",
+            "Mayo Clinic",
+            "Mayo Clinic in Arizona"
+          ]
+        },
+        {
+          "name": "Rahul Kashyap",
+          "openalex_id": "A5072824454",
+          "orcid": "https://orcid.org/0000-0002-4383-3411",
+          "institutions": [
+            "International Baccalaureate",
+            "Mayo Clinic in Florida",
+            "Southern Hills Medical Center",
+            "Mayo Clinic in Arizona",
+            "Mayo Clinic",
+            "Tanta University",
+            "HCA Healthcare",
+            "Mayo Clinic Health System",
+            "Allegheny Health Network"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-20",
+      "abstract": "As we move amidst the coronavirus disease 2019 (COVID-19) pandemic, we have witnessed tremendous distress, death, and turmoil of everyday life for more than one year now. However, they are not modern phenomena; deadly pandemics have happened throughout recorded history. Pandemics such as the plague, Spanish Flu, HIV, and Ebola caused deaths, destruction of political regimes, as well as financial and psychosocial burdens. However, they sometimes resulted in scientific discoveries. Understanding the mechanism of the emergence of these pandemics is crucial to control any spreading pandemic and prevent the emergence of a potential new one. Public health agencies need to work on improving the countries' pandemic preparedness to prevent any future pandemics. The review article aims to shed light on some of the deadliest pandemics throughout history, information of critical importance for clinicians and researchers.",
+      "cited_by_count": 166,
+      "type": "review",
+      "source": {
+        "name": "Cureus",
+        "type": "journal",
+        "issn": [
+          "2168-8184"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.cureus.com/articles/69273-pandemics-throughout-the-history.pdf"
+      },
+      "topics": [
+        "Zoonotic diseases and public health",
+        "Viral Infections and Outbreaks Research",
+        "Public Health Policies and Education"
+      ],
+      "referenced_works_count": 78,
+      "url": "https://openalex.org/W3201152823"
+    },
+    {
+      "openalex_id": "W2959071814",
+      "doi": "10.1038/s41413-019-0061-z",
+      "title": "Evolving concepts in bone infection: redefining \u201cbiofilm\u201d, \u201cacute vs. chronic osteomyelitis\u201d, \u201cthe immune proteome\u201d and \u201clocal antibiotic therapy\u201d",
+      "authors": [
+        {
+          "name": "Elysia A. Masters",
+          "openalex_id": "A5016127268",
+          "orcid": "https://orcid.org/0000-0002-9981-624X",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Ryan P. Trombetta",
+          "openalex_id": "A5049839849",
+          "orcid": "https://orcid.org/0000-0003-0479-5595",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Karen L. de Mesy Bentley",
+          "openalex_id": "A5002847510",
+          "orcid": "https://orcid.org/0000-0003-0176-1111",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Brendan F. Boyce",
+          "openalex_id": "A5020642963",
+          "orcid": "https://orcid.org/0000-0002-3587-4854",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Ann Gill",
+          "openalex_id": "A5082299150",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Steven R. Gill",
+          "openalex_id": "A5039338085",
+          "orcid": "https://orcid.org/0000-0002-2408-1373",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Kohei Nishitani",
+          "openalex_id": "A5041927729",
+          "orcid": "https://orcid.org/0000-0002-8327-3826",
+          "institutions": [
+            "Kyoto University",
+            "University of Rochester Medical Center",
+            "Kyoto University Hospital"
+          ]
+        },
+        {
+          "name": "Masahiro Ishikawa",
+          "openalex_id": "A5001727346",
+          "orcid": "https://orcid.org/0000-0003-1628-3116",
+          "institutions": [
+            "Kyoto University",
+            "University of Rochester Medical Center",
+            "Kyoto University Hospital"
+          ]
+        },
+        {
+          "name": "Y. Morita",
+          "openalex_id": "A5025704557",
+          "orcid": "https://orcid.org/0000-0001-7674-1815",
+          "institutions": [
+            "Kyoto University",
+            "University of Rochester Medical Center",
+            "Kyoto University Hospital"
+          ]
+        },
+        {
+          "name": "Hiromu Ito",
+          "openalex_id": "A5074384098",
+          "orcid": "https://orcid.org/0000-0002-1827-382X",
+          "institutions": [
+            "Kyoto University",
+            "Kyoto University Hospital"
+          ]
+        },
+        {
+          "name": "Sheila N. Bello\u2010Irizarry",
+          "openalex_id": "A5000616935",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Mark Ninomiya",
+          "openalex_id": "A5091779709",
+          "orcid": "https://orcid.org/0000-0003-3543-4557",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "James D. Brodell",
+          "openalex_id": "A5042692283",
+          "orcid": "https://orcid.org/0000-0001-6969-781X",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Charles C. Lee",
+          "openalex_id": "A5103001505",
+          "orcid": "https://orcid.org/0000-0001-9884-5893",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Stephanie P. Hao",
+          "openalex_id": "A5062272261",
+          "orcid": "https://orcid.org/0000-0002-3760-8234",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Irvin Oh",
+          "openalex_id": "A5007934572",
+          "orcid": "https://orcid.org/0000-0002-2648-5849",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Chao Xie",
+          "openalex_id": "A5008910146",
+          "orcid": "https://orcid.org/0000-0001-6197-2506",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Hani A. Awad",
+          "openalex_id": "A5072046074",
+          "orcid": "https://orcid.org/0000-0003-2197-2610",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "John L. Daiss",
+          "openalex_id": "A5006055711",
+          "orcid": "https://orcid.org/0000-0002-9690-7701",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "John R. Owen",
+          "openalex_id": "A5027378720",
+          "orcid": "https://orcid.org/0000-0003-0253-9555",
+          "institutions": [
+            "Virginia Commonwealth University",
+            "Virginia Commonwealth University Medical Center"
+          ]
+        },
+        {
+          "name": "Stephen L. Kates",
+          "openalex_id": "A5030811681",
+          "orcid": "https://orcid.org/0000-0003-0005-8694",
+          "institutions": [
+            "Virginia Commonwealth University",
+            "Virginia Commonwealth University Medical Center"
+          ]
+        },
+        {
+          "name": "Edward M. Schwarz",
+          "openalex_id": "A5074891524",
+          "orcid": "https://orcid.org/0000-0002-4854-9698",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        },
+        {
+          "name": "Gowrishankar Muthukrishnan",
+          "openalex_id": "A5063402996",
+          "orcid": "https://orcid.org/0000-0001-7521-6154",
+          "institutions": [
+            "University of Rochester Medical Center"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-15",
+      "abstract": "Abstract Osteomyelitis is a devastating disease caused by microbial infection of bone. While the frequency of infection following elective orthopedic surgery is low, rates of reinfection are disturbingly high. Staphylococcus aureus is responsible for the majority of chronic osteomyelitis cases and is often considered to be incurable due to bacterial persistence deep within bone. Unfortunately, there is no consensus on clinical classifications of osteomyelitis and the ensuing treatment algorithm. Given the high patient morbidity, mortality, and economic burden caused by osteomyelitis, it is important to elucidate mechanisms of bone infection to inform novel strategies for prevention and curative treatment. Recent discoveries in this field have identified three distinct reservoirs of bacterial biofilm including: Staphylococcal abscess communities in the local soft tissue and bone marrow, glycocalyx formation on implant hardware and necrotic tissue, and colonization of the osteocyte-lacuno canalicular network (OLCN) of cortical bone. In contrast, S. aureus intracellular persistence in bone cells has not been substantiated in vivo, which challenges this mode of chronic osteomyelitis. There have also been major advances in our understanding of the immune proteome against S. aureus , from clinical studies of serum antibodies and media enriched for newly synthesized antibodies (MENSA), which may provide new opportunities for osteomyelitis diagnosis, prognosis, and vaccine development. Finally, novel therapies such as antimicrobial implant coatings and antibiotic impregnated 3D-printed scaffolds represent promising strategies for preventing and managing this devastating disease. Here, we review these recent advances and highlight translational opportunities towards a cure.",
+      "cited_by_count": 531,
+      "type": "review",
+      "source": {
+        "name": "Bone Research",
+        "type": "journal",
+        "issn": [
+          "2095-4700",
+          "2095-6231"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41413-019-0061-z.pdf"
+      },
+      "topics": [
+        "Orthopedic Infections and Treatments",
+        "Infective Endocarditis Diagnosis and Management",
+        "Infectious Diseases and Tuberculosis"
+      ],
+      "referenced_works_count": 274,
+      "url": "https://openalex.org/W2959071814"
+    },
+    {
+      "openalex_id": "W4311517699",
+      "doi": "10.1002/imt2.66",
+      "title": "Deciphering factors driving soil microbial life\u2010history strategies in restored grasslands",
+      "authors": [
+        {
+          "name": "Yang Yang",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-4545-3252",
+          "institutions": [
+            "Chinese Academy of Sciences",
+            "Shaanxi Institute of Zoology",
+            "Institute of Earth Environment"
+          ]
+        },
+        {
+          "name": "Yanxing Dou",
+          "openalex_id": "A5046356964",
+          "orcid": "https://orcid.org/0000-0002-0348-8289",
+          "institutions": [
+            "Institute of Soil and Water Conservation"
+          ]
+        },
+        {
+          "name": "Baorong Wang",
+          "openalex_id": "A5016581383",
+          "orcid": "https://orcid.org/0000-0001-6435-6063",
+          "institutions": [
+            "Institute of Soil and Water Conservation"
+          ]
+        },
+        {
+          "name": "Zhijing Xue",
+          "openalex_id": "A5052989161",
+          "orcid": "https://orcid.org/0000-0001-8707-8350",
+          "institutions": [
+            "Shaanxi Normal University"
+          ]
+        },
+        {
+          "name": "Yunqiang Wang",
+          "openalex_id": "A5108120969",
+          "orcid": "https://orcid.org/0000-0003-3380-549X",
+          "institutions": [
+            "Chinese Academy of Sciences",
+            "Shaanxi Institute of Zoology",
+            "Institute of Earth Environment"
+          ]
+        },
+        {
+          "name": "Shaoshan An",
+          "openalex_id": "A5102764712",
+          "orcid": "https://orcid.org/0000-0003-3221-9288",
+          "institutions": [
+            "Institute of Soil and Water Conservation"
+          ]
+        },
+        {
+          "name": "Scott X. Chang",
+          "openalex_id": "A5086611360",
+          "orcid": "https://orcid.org/0000-0002-7624-439X",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-04",
+      "abstract": "Abstract In macroecology, the concept of r\u2010 and K\u2010strategy has been widely applied, yet, there have been limited studies on microbial life\u2010history strategies in temperate grasslands using multiple sequencing approaches. Total phospholipid fatty acid (PLFA) analysis, high\u2010throughput meta\u2010genomic sequencing, and GeoChip technologies were used to examine the changes in microbial life\u2010history traits in a chronosequence of restored grasslands (1, 5, 10, 15, 25, and 30 years since restoration). Grassland restoration increased the relative abundances of Actinobacteria, Proteobacteria, and Bacteroidetes but reduced the relative abundances of Acidobacteria, Planctomycetes, and Chloroflexi. PLFA analysis revealed that grassland restoration reduced the fungi:bacteria and Gram\u2010positive:Gram\u2010negative bacteria ratios. Combined with the meta\u2010genomic data, we found that grassland restoration shifted microorganisms from oligotrophic (K\u2010) to copiotrophic (r\u2010) groups, consistent with the increased rRNA operon copy number of the microbial community. Structural equation modeling showed that soil properties positively ( p &lt; 0.05) while plant properties negatively ( p &lt; 0.05) affected microbial life\u2010history traits. We built a framework to highlight the importance of plant and soil properties in driving microbial life\u2010history traits during grassland restoration. Finally, by incorporating meta\u2010genomic and other microbiological data, this study showed that microbial life\u2010history traits support the idea that rRNA operon copy number is a trait that reflects resource availability to soil microorganisms.",
+      "cited_by_count": 287,
+      "type": "article",
+      "source": {
+        "name": "iMeta",
+        "type": "journal",
+        "issn": [
+          "2770-596X",
+          "2770-5986"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.66"
+      },
+      "topics": [
+        "Genomics and Phylogenetic Studies",
+        "Soil Carbon and Nitrogen Dynamics",
+        "Climate change and permafrost"
+      ],
+      "referenced_works_count": 109,
+      "url": "https://openalex.org/W4311517699"
+    },
+    {
+      "openalex_id": "W4385766743",
+      "doi": "10.3390/ai4030034",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts and Challenges in Healthcare",
+      "authors": [
+        {
+          "name": "Tim Hulsen",
+          "openalex_id": "A5048658335",
+          "orcid": "https://orcid.org/0000-0002-0208-8443",
+          "institutions": [
+            "Philips (Netherlands)"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-10",
+      "abstract": "Artificial Intelligence (AI) describes computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Examples of AI techniques are machine learning, neural networks, and deep learning. AI can be applied in many different areas, such as econometrics, biometry, e-commerce, and the automotive industry. In recent years, AI has found its way into healthcare as well, helping doctors make better decisions (\u201cclinical decision support\u201d), localizing tumors in magnetic resonance images, reading and analyzing reports written by radiologists and pathologists, and much more. However, AI has one big risk: it can be perceived as a \u201cblack box\u201d, limiting trust in its reliability, which is a very big issue in an area in which a decision can mean life or death. As a result, the term Explainable Artificial Intelligence (XAI) has been gaining momentum. XAI tries to ensure that AI algorithms (and the resulting decisions) can be understood by humans. In this narrative review, we will have a look at some central concepts in XAI, describe several challenges around XAI in healthcare, and discuss whether it can really help healthcare to advance, for example, by increasing understanding and trust. Finally, alternatives to increase trust in AI are discussed, as well as future research possibilities in the area of XAI.",
+      "cited_by_count": 227,
+      "type": "article",
+      "source": {
+        "name": "AI",
+        "type": "journal",
+        "issn": [
+          "2673-2688"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2673-2688/4/3/34/pdf?version=1691717869"
+      },
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W4385766743"
+    },
+    {
+      "openalex_id": "W3049762527",
+      "doi": "10.3390/ijms21165888",
+      "title": "History of Nonalcoholic Fatty Liver Disease",
+      "authors": [
+        {
+          "name": "Amedeo Lonardo",
+          "openalex_id": "A5083867437",
+          "orcid": "https://orcid.org/0000-0001-9886-0698"
+        },
+        {
+          "name": "Simona Leoni",
+          "openalex_id": "A5101592311",
+          "orcid": "https://orcid.org/0009-0001-4178-4732",
+          "institutions": [
+            "IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola"
+          ]
+        },
+        {
+          "name": "Khalid Alswat",
+          "openalex_id": "A5090751447",
+          "orcid": "https://orcid.org/0000-0002-3521-8523",
+          "institutions": [
+            "King Saud University"
+          ]
+        },
+        {
+          "name": "Yasser Fouad",
+          "openalex_id": "A5023790424",
+          "orcid": "https://orcid.org/0000-0001-7989-5318",
+          "institutions": [
+            "Minia University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-16",
+      "abstract": "Based on the assumption that characterizing the history of a disease will help in improving practice while offering a clue to research, this article aims at reviewing the history of nonalcoholic fatty liver disease (NAFLD) in adults and children. To this end, we address the history of NAFLD histopathology, which begins in 1980 with Ludwig\u2019s seminal studies, although previous studies date back to the 19th century. Moreover, the principal milestones in the definition of genetic NAFLD are summarized. Next, a specific account is given of the evolution, over time, of our understanding of the association of NAFLD with metabolic syndrome, spanning from the outdated concept of \u201cNAFLD as a manifestation of the Metabolic Syndrome\u201d, to the more appropriate consideration that NAFLD has, with metabolic syndrome, a mutual and bi-directional relationship. In addition, we also report on the evolution from first intuitions to more recent studies, supporting NAFLD as an independent risk factor for cardiovascular disease. This association probably has deep roots, going back to ancient Middle Eastern cultures, wherein the liver had a significance similar to that which the heart holds in contemporary society. Conversely, the notions that NAFLD is a forerunner of hepatocellular carcinoma and extra-hepatic cancers is definitely more modern. Interestingly, guidelines issued by hepatological societies have lagged behind the identification of NAFLD by decades. A comparative analysis of these documents defines both shared attitudes (e.g., ultrasonography and lifestyle changes as the first approaches) and diverging key points (e.g., the threshold of alcohol consumption, screening methods, optimal non-invasive assessment of liver fibrosis and drug treatment options). Finally, the principal historical steps in the general, cellular and molecular pathogenesis of NAFLD are reviewed. We conclude that an in-depth understanding of the history of the disease permits us to better comprehend the disease itself, as well as to anticipate the lines of development of future NAFLD research.",
+      "cited_by_count": 140,
+      "type": "review",
+      "source": {
+        "name": "International Journal of Molecular Sciences",
+        "type": "journal",
+        "issn": [
+          "1422-0067",
+          "1661-6596"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1422-0067/21/16/5888/pdf?version=1597570393"
+      },
+      "topics": [
+        "Liver Disease Diagnosis and Treatment",
+        "Diet, Metabolism, and Disease",
+        "Alcohol Consumption and Health Effects"
+      ],
+      "referenced_works_count": 232,
+      "url": "https://openalex.org/W3049762527"
+    },
+    {
+      "openalex_id": "W3021018653",
+      "doi": "10.1113/jp278930",
+      "title": "Mitochondrial lactate metabolism: history and implications for exercise and disease",
+      "authors": [
+        {
+          "name": "Brian Glancy",
+          "openalex_id": "A5086554572",
+          "orcid": "https://orcid.org/0000-0002-8571-244X",
+          "institutions": [
+            "National Institutes of Health",
+            "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+            "National Heart Lung and Blood Institute"
+          ]
+        },
+        {
+          "name": "Daniel A. Kane",
+          "openalex_id": "A5025894045",
+          "institutions": [
+            "St. Francis Xavier University"
+          ]
+        },
+        {
+          "name": "Andreas N. Kavazis",
+          "openalex_id": "A5040993657",
+          "orcid": "https://orcid.org/0000-0002-2535-7490",
+          "institutions": [
+            "Auburn University"
+          ]
+        },
+        {
+          "name": "Matthew L. Goodwin",
+          "openalex_id": "A5035291437",
+          "orcid": "https://orcid.org/0000-0002-8248-8112",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Wayne T. Willis",
+          "openalex_id": "A5046359331",
+          "orcid": "https://orcid.org/0000-0002-1250-2978",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "L. Bruce Gladden",
+          "openalex_id": "A5086956465",
+          "orcid": "https://orcid.org/0000-0001-5193-7440",
+          "institutions": [
+            "Auburn University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-05-02",
+      "abstract": "Abstract Mitochondrial structures were probably observed microscopically in the 1840s, but the idea of oxidative phosphorylation (OXPHOS) within mitochondria did not appear until the 1930s. The foundation for research into energetics arose from Meyerhof's experiments on oxidation of lactate in isolated muscles recovering from electrical contractions in an O 2 atmosphere. Today, we know that mitochondria are actually reticula and that the energy released from electron pairs being passed along the electron transport chain from NADH to O 2 generates a membrane potential and pH gradient of protons that can enter the molecular machine of ATP synthase to resynthesize ATP. Lactate stands at the crossroads of glycolytic and oxidative energy metabolism. Based on reported research and our own modelling in silico , we contend that lactate is not directly oxidized in the mitochondrial matrix. Instead, the interim glycolytic products (pyruvate and NADH) are held in cytosolic equilibrium with the products of the lactate dehydrogenase (LDH) reaction and the intermediates of the malate\u2010aspartate and glycerol 3\u2010phosphate shuttles. This equilibrium supplies the glycolytic products to the mitochondrial matrix for OXPHOS. LDH in the mitochondrial matrix is not compatible with the cytoplasmic/matrix redox gradient; its presence would drain matrix reducing power and substantially dissipate the proton motive force. OXPHOS requires O 2 as the final electron acceptor, but O 2 supply is sufficient in most situations, including exercise and often acute illness. Recent studies suggest that atmospheric normoxia may constitute a cellular hyperoxia in mitochondrial disease. As research proceeds appropriate oxygenation levels should be carefully considered. image",
+      "cited_by_count": 192,
+      "type": "review",
+      "source": {
+        "name": "The Journal of Physiology",
+        "type": "journal",
+        "issn": [
+          "0022-3751",
+          "1469-7793"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://physoc.onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP278930"
+      },
+      "topics": [
+        "Mitochondrial Function and Pathology",
+        "ATP Synthase and ATPases Research",
+        "Adipose Tissue and Metabolism"
+      ],
+      "referenced_works_count": 212,
+      "url": "https://openalex.org/W3021018653"
+    },
+    {
+      "openalex_id": "W4382397550",
+      "doi": "10.1145/3606367",
+      "title": "A Review of the F-Measure: Its History, Properties, Criticism, and Alternatives",
+      "authors": [
+        {
+          "name": "Peter Christen",
+          "openalex_id": "A5022945960",
+          "orcid": "https://orcid.org/0000-0003-3435-2015",
+          "institutions": [
+            "Australian National University"
+          ]
+        },
+        {
+          "name": "David J. Hand",
+          "openalex_id": "A5033380454",
+          "orcid": "https://orcid.org/0000-0002-4649-5622",
+          "institutions": [
+            "Imperial College London"
+          ]
+        },
+        {
+          "name": "Nishadi Kirielle",
+          "openalex_id": "A5066332822",
+          "orcid": "https://orcid.org/0000-0002-6503-0302",
+          "institutions": [
+            "Australian National University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-28",
+      "abstract": "Methods to classify objects into two or more classes are at the core of various disciplines. When a set of objects with their true classes is available, a supervised classifier can be trained and employed to decide if, for example, a new patient has cancer or not. The choice of performance measure is critical in deciding which supervised method to use in any particular classification problem. Different measures can lead to very different choices, so the measure should match the objectives. Many performance measures have been developed, and one of them is the F-measure, the harmonic mean of precision and recall. Originally proposed in information retrieval, the F-measure has gained increasing interest in the context of classification. However, the rationale underlying this measure appears weak, and unlike other measures, it does not have a representational meaning. The use of the harmonic mean also has little theoretical justification. The F-measure also stresses one class, which seems inappropriate for general classification problems. We provide a history of the F-measure and its use in computational disciplines, describe its properties, and discuss criticism about the F-Measure. We conclude with alternatives to the F-measure, and recommendations of how to use it effectively.",
+      "cited_by_count": 202,
+      "type": "review",
+      "source": {
+        "name": "ACM Computing Surveys",
+        "type": "journal",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3606367"
+      },
+      "topics": [
+        "Imbalanced Data Classification Techniques",
+        "Machine Learning and Algorithms",
+        "Text and Document Classification Technologies"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W4382397550"
+    },
+    {
+      "openalex_id": "W3137005130",
+      "doi": "10.31486/toj.19.0105",
+      "title": "A Modern History of Informed Consent and the Role of Key Information",
+      "authors": [
+        {
+          "name": "Lydia Bazzano",
+          "openalex_id": "A5049612047",
+          "orcid": "https://orcid.org/0000-0002-8958-1352",
+          "institutions": [
+            "The University of Queensland",
+            "Ochsner Medical Center"
+          ]
+        },
+        {
+          "name": "Jaquail Durant",
+          "openalex_id": "A5055206611",
+          "institutions": [
+            "Ochsner Medical Center"
+          ]
+        },
+        {
+          "name": "Paula Rhode Brantley",
+          "openalex_id": "A5086132669",
+          "institutions": [
+            "Pennington Biomedical Research Center",
+            "Louisiana State University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "<h3></h3> <b>Background:</b> The concept of informed consent has evolved significantly with regard to both the practice of medicine and research conducted with human volunteers. Yet the process of informed consent used in clinical research and the lengthy consent documents that are difficult to comprehend have been criticized. <b>Methods:</b> We review the history of informed consent as a legal and regulatory concept and the intended impact of the new key information section, a requirement that was introduced in the 2017 revisions to the Common Rule. <b>Results:</b> The key information section is intended to be a concise and focused presentation at the beginning of the informed consent document that facilitates potential participants\u2019 comprehension of the research. However, the lack of regulatory guidance regarding content and length has been problematic. To avoid the risk of noncompliance, many institutions have sought safe harbor by following the limited format guidelines included in the preamble to the revisions to the Common Rule. <b>Conclusion:</b> Research examining formats for the key information section and aids to increasing potential participants\u2019 understanding of a research project should be conducted to ensure that the new regulations achieve the original intent rather than simply lengthening an already lengthy paper document. In addition, the human research protections community should evaluate whether the key information section increases research participants\u2019 understanding of what they will be undertaking in a particular study.",
+      "cited_by_count": 121,
+      "type": "review",
+      "source": {
+        "name": "Ochsner Journal",
+        "type": "journal",
+        "issn": [
+          "1524-5012"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.ochsnerjournal.org/content/ochjnl/21/1/81.full.pdf"
+      },
+      "topics": [
+        "Ethics in Clinical Research",
+        "Ethics in medical practice",
+        "Biomedical Ethics and Regulation"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W3137005130"
+    },
+    {
+      "openalex_id": "W3009673653",
+      "doi": "10.1093/mnras/staa2452",
+      "title": "Kraken reveals itself \u2013 the merger history of the Milky Way reconstructed with the E-MOSAICS simulations",
+      "authors": [
+        {
+          "name": "J. M. Diederik Kruijssen",
+          "openalex_id": "A5037814996",
+          "orcid": "https://orcid.org/0000-0002-8804-0212",
+          "institutions": [
+            "Harvard University",
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "Joel Pfeffer",
+          "openalex_id": "A5060291736",
+          "orcid": "https://orcid.org/0000-0003-3786-8818",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        },
+        {
+          "name": "M\u00e9lanie Chevance",
+          "openalex_id": "A5019278701",
+          "orcid": "https://orcid.org/0000-0002-5635-5180",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "Ana Bonaca",
+          "openalex_id": "A5067549226",
+          "orcid": "https://orcid.org/0000-0002-7846-9787",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Sebastian Trujillo-Gomez",
+          "openalex_id": "A5077721458",
+          "orcid": "https://orcid.org/0000-0003-2482-0049",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "N. Bastian",
+          "openalex_id": "A5086971577",
+          "orcid": "https://orcid.org/0000-0001-5679-4215",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        },
+        {
+          "name": "Marta Reina-Campos",
+          "openalex_id": "A5026741758",
+          "orcid": "https://orcid.org/0000-0002-8556-4280",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "Robert A. Crain",
+          "openalex_id": "A5007574967",
+          "orcid": "https://orcid.org/0000-0001-6258-0344",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        },
+        {
+          "name": "Meghan E Hughes",
+          "openalex_id": "A5061835772",
+          "orcid": "https://orcid.org/0000-0002-0086-3813",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-12",
+      "abstract": "ABSTRACT Globular clusters (GCs) formed when the Milky Way experienced a phase of rapid assembly. We use the wealth of information contained in the Galactic GC population to quantify the properties of the satellite galaxies from which the Milky Way assembled. To achieve this, we train an artificial neural network on the E-MOSAICS cosmological simulations of the co-formation and co-evolution of GCs and their host galaxies. The network uses the ages, metallicities, and orbital properties of GCs that formed in the same progenitor galaxies to predict the stellar masses and accretion redshifts of these progenitors. We apply the network to Galactic GCs associated with five progenitors: Gaia-Enceladus, the Helmi streams, Sequoia, Sagittarius, and the recently discovered \u2018low-energy\u2019 GCs, which provide an excellent match to the predicted properties of the enigmatic galaxy \u2018Kraken\u2019. The five galaxies cover a narrow stellar mass range [M\u22c6 = (0.6\u20134.6) \u00d7 108 M\u2299], but have widely different accretion redshifts ($\\mbox{$z_{\\rm acc}$}=0.57\\!-\\!2.65$). All accretion events represent minor mergers, but Kraken likely represents the most major merger ever experienced by the Milky Way, with stellar and virial mass ratios of $\\mbox{$r_{M_\\star }$}=1$:$31^{+34}_{-16}$ and $\\mbox{$r_{M_{\\rm h}}$}=1$:$7^{+4}_{-2}$, respectively. The progenitors match the z = 0 relation between GC number and halo virial mass, but have elevated specific frequencies, suggesting an evolution with redshift. Even though these progenitors likely were the Milky Way\u2019s most massive accretion events, they contributed a total mass of only log (M\u22c6, tot/M\u2299) = 9.0 \u00b1 0.1, similar to the stellar halo. This implies that the Milky Way grew its stellar mass mostly by in-situ star formation. We conclude by organizing these accretion events into the most detailed reconstruction to date of the Milky Way\u2019s merger tree.",
+      "cited_by_count": 246,
+      "type": "article",
+      "source": {
+        "name": "Monthly Notices of the Royal Astronomical Society",
+        "type": "journal",
+        "issn": [
+          "0035-8711",
+          "1365-2966",
+          "1365-8711"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/2003.01119"
+      },
+      "topics": [
+        "Gamma-ray bursts and supernovae",
+        "Astronomy and Astrophysical Research",
+        "Galaxies: Formation, Evolution, Phenomena"
+      ],
+      "referenced_works_count": 139,
+      "url": "https://openalex.org/W3009673653"
+    },
+    {
+      "openalex_id": "W3185341429",
+      "doi": "10.1145/3560815",
+      "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+      "authors": [
+        {
+          "name": "Pengfei Liu",
+          "openalex_id": "A5100354997",
+          "orcid": "https://orcid.org/0000-0001-9030-1875",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Weizhe Yuan",
+          "openalex_id": "A5055933325",
+          "orcid": "https://orcid.org/0000-0002-6117-9417",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Jinlan Fu",
+          "openalex_id": "A5103097172",
+          "orcid": "https://orcid.org/0000-0002-0370-1238",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Zhengbao Jiang",
+          "openalex_id": "A5043295774",
+          "orcid": "https://orcid.org/0000-0002-0315-6727",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Hiroaki Hayashi",
+          "openalex_id": "A5101850869",
+          "orcid": "https://orcid.org/0000-0002-6875-7443",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Graham Neubig",
+          "openalex_id": "A5068811427",
+          "orcid": "https://orcid.org/0000-0002-2072-3789",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-14",
+      "abstract": "This article surveys and organizes research works in a new paradigm in natural language processing, which we dub \u201cprompt-based learning.\u201d Unlike traditional supervised learning, which trains a model to take in an input x and predict an output y as P ( y|x ), prompt-based learning is based on language models that model the probability of text directly. To use these models to perform prediction tasks, the original input x is modified using a template into a textual string prompt x\u2032 that has some unfilled slots, and then the language model is used to probabilistically fill the unfilled information to obtain a final string x\u0302 , from which the final output y can be derived. This framework is powerful and attractive for a number of reasons: It allows the language model to be pre-trained on massive amounts of raw text, and by defining a new prompting function the model is able to perform few-shot or even zero-shot learning, adapting to new scenarios with few or no labeled data. In this article, we introduce the basics of this promising paradigm, describe a unified set of mathematical notations that can cover a wide variety of existing work, and organize existing work along several dimensions, e.g., the choice of pre-trained language models, prompts, and tuning strategies. To make the field more accessible to interested beginners, we not only make a systematic review of existing works and a highly structured typology of prompt-based concepts but also release other resources, e.g., a website NLPedia\u2013Pretrain including constantly updated survey and paperlist.",
+      "cited_by_count": 3584,
+      "type": "review",
+      "source": {
+        "name": "ACM Computing Surveys",
+        "type": "journal",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3560815"
+      },
+      "topics": [
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Sentiment Analysis and Opinion Mining"
+      ],
+      "referenced_works_count": 120,
+      "url": "https://openalex.org/W3185341429"
+    },
+    {
+      "openalex_id": "W2275204317",
+      "doi": "10.1161/circresaha.115.306301",
+      "title": "Endothelial Cell Dysfunction and the Pathobiology of Atherosclerosis",
+      "authors": [
+        {
+          "name": "Michael A. Gimbrone",
+          "openalex_id": "A5084684343",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Center for Vascular Biology Research"
+          ]
+        },
+        {
+          "name": "Guillermo Garc\u00eda\u2010Carde\u00f1a",
+          "openalex_id": "A5015474261",
+          "orcid": "https://orcid.org/0000-0003-2663-3706",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Center for Vascular Biology Research"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-18",
+      "abstract": "Dysfunction of the endothelial lining of lesion-prone areas of the arterial vasculature is an important contributor to the pathobiology of atherosclerotic cardiovascular disease. Endothelial cell dysfunction, in its broadest sense, encompasses a constellation of various nonadaptive alterations in functional phenotype, which have important implications for the regulation of hemostasis and thrombosis, local vascular tone and redox balance, and the orchestration of acute and chronic inflammatory reactions within the arterial wall. In this review, we trace the evolution of the concept of endothelial cell dysfunction, focusing on recent insights into the cellular and molecular mechanisms that underlie its pivotal roles in atherosclerotic lesion initiation and progression; explore its relationship to classic, as well as more recently defined, clinical risk factors for atherosclerotic cardiovascular disease; consider current approaches to the clinical assessment of endothelial cell dysfunction; and outline some promising new directions for its early detection and treatment.",
+      "cited_by_count": 3361,
+      "type": "review",
+      "source": {
+        "name": "Circulation Research",
+        "type": "journal",
+        "issn": [
+          "0009-7330",
+          "1524-4571"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.115.306301"
+      },
+      "topics": [
+        "Atherosclerosis and Cardiovascular Diseases",
+        "Biomarkers in Disease Mechanisms",
+        "Neutrophil, Myeloperoxidase and Oxidative Mechanisms"
+      ],
+      "referenced_works_count": 243,
+      "url": "https://openalex.org/W2275204317"
+    },
+    {
+      "openalex_id": "W4403688595",
+      "doi": "10.1038/s41579-024-01107-0",
+      "title": "Examining the healthy human microbiome concept",
+      "authors": [
+        {
+          "name": "Raphaela Joos",
+          "openalex_id": "A5040906751",
+          "orcid": "https://orcid.org/0000-0002-8124-7747",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Katy Boucher",
+          "openalex_id": "A5114382352",
+          "orcid": "https://orcid.org/0009-0000-4381-5451",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Aonghus Lavelle",
+          "openalex_id": "A5072505541",
+          "orcid": "https://orcid.org/0000-0002-4461-8596",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Manimozhiyan Arumugam",
+          "openalex_id": "A5058914957",
+          "orcid": "https://orcid.org/0000-0002-0886-9101",
+          "institutions": [
+            "University of Copenhagen",
+            "Novo Nordisk Foundation"
+          ]
+        },
+        {
+          "name": "Martin J. Blaser",
+          "openalex_id": "A5033749053",
+          "orcid": "https://orcid.org/0000-0003-2447-2443",
+          "institutions": [
+            "Rutgers, The State University of New Jersey"
+          ]
+        },
+        {
+          "name": "Marcus J. Claesson",
+          "openalex_id": "A5061467408",
+          "orcid": "https://orcid.org/0000-0002-5712-0623",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Gerard Clarke",
+          "openalex_id": "A5003021083",
+          "orcid": "https://orcid.org/0000-0001-9771-3979",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Paul D. Cotter",
+          "openalex_id": "A5050465932",
+          "orcid": "https://orcid.org/0000-0002-5465-9068",
+          "institutions": [
+            "Teagasc - The Irish Agriculture and Food Development Authority",
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Luisa De Sordi",
+          "openalex_id": "A5007212973",
+          "orcid": "https://orcid.org/0000-0002-3785-550X",
+          "institutions": [
+            "Inserm",
+            "Sorbonne Universit\u00e9",
+            "Centre de Recherche Saint-Antoine"
+          ]
+        },
+        {
+          "name": "Maria Gloria Dom\u00ednguez-Bello",
+          "openalex_id": "A5079040550",
+          "orcid": "https://orcid.org/0000-0002-8879-6159",
+          "institutions": [
+            "Rutgers, The State University of New Jersey"
+          ]
+        },
+        {
+          "name": "Bas E. Dutilh",
+          "openalex_id": "A5084321697",
+          "orcid": "https://orcid.org/0000-0003-2329-7890",
+          "institutions": [
+            "Utrecht University",
+            "Friedrich Schiller University Jena"
+          ]
+        },
+        {
+          "name": "S. Dusko Ehrlich",
+          "openalex_id": "A5108096651",
+          "institutions": [
+            "Universit\u00e9 Paris-Saclay",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Tarini Shankar Ghosh",
+          "openalex_id": "A5064922328",
+          "orcid": "https://orcid.org/0000-0001-9570-0365",
+          "institutions": [
+            "Indraprastha Institute of Information Technology Delhi",
+            "Indian Institute of Technology Delhi"
+          ]
+        },
+        {
+          "name": "Colin Hill",
+          "openalex_id": "A5047441756",
+          "orcid": "https://orcid.org/0000-0002-8527-1445",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Christophe Junot",
+          "openalex_id": "A5091074065",
+          "orcid": "https://orcid.org/0000-0003-0019-6827",
+          "institutions": [
+            "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+            "Universit\u00e9 Paris-Saclay",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+            "CEA Paris-Saclay"
+          ]
+        },
+        {
+          "name": "Leo Lahti",
+          "openalex_id": "A5082648063",
+          "orcid": "https://orcid.org/0000-0001-5537-637X",
+          "institutions": [
+            "University of Turku"
+          ]
+        },
+        {
+          "name": "Trevor D. Lawley",
+          "openalex_id": "A5041987249",
+          "orcid": "https://orcid.org/0000-0002-4805-621X",
+          "institutions": [
+            "Wellcome Sanger Institute"
+          ]
+        },
+        {
+          "name": "Tine Rask Licht",
+          "openalex_id": "A5089513347",
+          "orcid": "https://orcid.org/0000-0002-6399-9574",
+          "institutions": [
+            "Technical University of Denmark"
+          ]
+        },
+        {
+          "name": "Emmanuelle Maguin",
+          "openalex_id": "A5015922130",
+          "orcid": "https://orcid.org/0000-0001-5452-3382",
+          "institutions": [
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "Thulani P. Makhalanyane",
+          "openalex_id": "A5080521235",
+          "orcid": "https://orcid.org/0000-0002-8173-1678",
+          "institutions": [
+            "Stellenbosch University"
+          ]
+        },
+        {
+          "name": "Julian R. Marchesi",
+          "openalex_id": "A5027399260",
+          "orcid": "https://orcid.org/0000-0002-7994-5239",
+          "institutions": [
+            "Imperial College London"
+          ]
+        },
+        {
+          "name": "Jelle Matthijnssens",
+          "openalex_id": "A5042890617",
+          "orcid": "https://orcid.org/0000-0003-1188-9733",
+          "institutions": [
+            "Rega Institute for Medical Research",
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Jeroen Raes",
+          "openalex_id": "A5023078719",
+          "orcid": "https://orcid.org/0000-0002-1337-041X",
+          "institutions": [
+            "Rega Institute for Medical Research",
+            "Vlaams Instituut voor Biotechnologie",
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Jacques Ravel",
+          "openalex_id": "A5053827358",
+          "orcid": "https://orcid.org/0000-0002-0851-2233",
+          "institutions": [
+            "University of Maryland, Baltimore"
+          ]
+        },
+        {
+          "name": "Anne Salonen",
+          "openalex_id": "A5084790417",
+          "orcid": "https://orcid.org/0000-0002-6960-7447",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Pauline D. Scanlan",
+          "openalex_id": "A5066966839",
+          "orcid": "https://orcid.org/0000-0002-6733-9653",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Andrey N. Shkoporov",
+          "openalex_id": "A5005302718",
+          "orcid": "https://orcid.org/0000-0002-5547-8672",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Catherine Stanton",
+          "openalex_id": "A5074717784",
+          "orcid": "https://orcid.org/0000-0002-6724-7011",
+          "institutions": [
+            "Teagasc - The Irish Agriculture and Food Development Authority",
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Ines Thiele",
+          "openalex_id": "A5074725115",
+          "orcid": "https://orcid.org/0000-0002-8071-7110",
+          "institutions": [
+            "Ollscoil na Gaillimhe \u2013 University of Galway",
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Igor Tolstoy",
+          "openalex_id": "A5012827986",
+          "orcid": "https://orcid.org/0009-0005-3854-9562",
+          "institutions": [
+            "National Institutes of Health",
+            "National Center for Biotechnology Information"
+          ]
+        },
+        {
+          "name": "Jens Walter",
+          "openalex_id": "A5060648419",
+          "orcid": "https://orcid.org/0000-0003-1754-172X",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Bo Yang",
+          "openalex_id": "A5041317124",
+          "institutions": [
+            "Jiangnan University",
+            "State Key Laboratory of Food Science and Technology"
+          ]
+        },
+        {
+          "name": "Natalia Yutin",
+          "openalex_id": "A5110723653",
+          "institutions": [
+            "National Institutes of Health",
+            "National Center for Biotechnology Information"
+          ]
+        },
+        {
+          "name": "Alexandra Zhernakova",
+          "openalex_id": "A5107948821",
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213",
+          "institutions": [
+            "Erasmus University Rotterdam"
+          ]
+        },
+        {
+          "name": "Francesco Asnicar",
+          "openalex_id": "",
+          "institutions": [
+            "University of Trento",
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "Athanasios Typas",
+          "openalex_id": "",
+          "institutions": [
+            "University College Cork",
+            "European Molecular Biology Laboratory",
+            "APC Microbiome Institute",
+            "European Molecular Biology Laboratory"
+          ]
+        },
+        {
+          "name": "Fay Betsou",
+          "openalex_id": "",
+          "institutions": [
+            "Institut Pasteur",
+            "Universit\u00e9 Paris Cit\u00e9"
+          ]
+        },
+        {
+          "name": "Herv\u00e9 Blotti\u00e8re",
+          "openalex_id": "",
+          "institutions": [
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+            "PhysioPathologie des Adaptations Nutritionnelles",
+            "Nantes Universit\u00e9"
+          ]
+        },
+        {
+          "name": "Peer Bork",
+          "openalex_id": "",
+          "institutions": [
+            "Max Delbr\u00fcck Center",
+            "University of W\u00fcrzburg",
+            "European Molecular Biology Laboratory"
+          ]
+        },
+        {
+          "name": "Isabelle Boutron",
+          "openalex_id": "",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 Paris Cit\u00e9",
+            "Sorbonne Universit\u00e9",
+            "Universit\u00e9 Sorbonne Paris Nord",
+            "Sorbonne Paris Cit\u00e9",
+            "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+            "H\u00f4tel-Dieu de Paris",
+            "Centre de Recherche \u00c9pid\u00e9miologie et Statistique"
+          ]
+        },
+        {
+          "name": "Federica Carraturo",
+          "openalex_id": "",
+          "institutions": [
+            "University of Naples Federico II"
+          ]
+        },
+        {
+          "name": "Marcus Claesson",
+          "openalex_id": "",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Magali Cordaillat-Simmons",
+          "openalex_id": ""
+        },
+        {
+          "name": "Celine Druart",
+          "openalex_id": ""
+        },
+        {
+          "name": "Alessio Fasano",
+          "openalex_id": "",
+          "institutions": [
+            "Harvard University",
+            "Massachusetts General Hospital",
+            "MaineGeneral Medical Center",
+            "European Biomedical Research Institute of Salerno"
+          ]
+        },
+        {
+          "name": "Yolanda Godoy",
+          "openalex_id": "",
+          "institutions": [
+            "European Foundation for the Study of Chronic Liver Failure"
+          ]
+        },
+        {
+          "name": "Dirk Haller",
+          "openalex_id": "",
+          "institutions": [
+            "Leibniz-Institute for Food Systems Biology at the Technical University of Munich",
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Zahra Hassani",
+          "openalex_id": ""
+        },
+        {
+          "name": "Di\u00ebnty H. M. J. Hazenbrink",
+          "openalex_id": "",
+          "institutions": [
+            "Max Delbr\u00fcck Center",
+            "European Molecular Biology Laboratory",
+            "European Molecular Biology Laboratory"
+          ]
+        },
+        {
+          "name": "Mads Israelsen",
+          "openalex_id": "",
+          "institutions": [
+            "University of Southern Denmark",
+            "Odense University Hospital"
+          ]
+        },
+        {
+          "name": "Anandhi Iyappan",
+          "openalex_id": "",
+          "institutions": [
+            "European Molecular Biology Laboratory",
+            "European Molecular Biology Laboratory"
+          ]
+        },
+        {
+          "name": "Alexander Jarde",
+          "openalex_id": "",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 Paris Cit\u00e9",
+            "Sorbonne Universit\u00e9",
+            "Universit\u00e9 Sorbonne Paris Nord",
+            "Sorbonne Paris Cit\u00e9",
+            "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+            "H\u00f4tel-Dieu de Paris",
+            "Centre de Recherche \u00c9pid\u00e9miologie et Statistique",
+            "University of York"
+          ]
+        },
+        {
+          "name": "Stephan Kampshoff",
+          "openalex_id": "",
+          "institutions": [
+            "European Food Information Council"
+          ]
+        },
+        {
+          "name": "Aleksander Krag",
+          "openalex_id": "",
+          "institutions": [
+            "University of Southern Denmark",
+            "Odense University Hospital"
+          ]
+        },
+        {
+          "name": "Aicha Kriaa",
+          "openalex_id": "",
+          "institutions": [
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "Aonghus Lavelle",
+          "openalex_id": "",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        },
+        {
+          "name": "Amira Metwaly",
+          "openalex_id": "",
+          "institutions": [
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Vitalina Morozova",
+          "openalex_id": "",
+          "institutions": [
+            "University of Copenhagen",
+            "Novo Nordisk Foundation"
+          ]
+        },
+        {
+          "name": "Federica Pinto",
+          "openalex_id": "",
+          "institutions": [
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Nicolas Pons",
+          "openalex_id": "",
+          "institutions": [
+            "Universit\u00e9 Paris-Saclay",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "Pierre-Louis Prost",
+          "openalex_id": ""
+        },
+        {
+          "name": "Philippe Ravaud",
+          "openalex_id": "",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 Paris Cit\u00e9",
+            "Sorbonne Universit\u00e9",
+            "Universit\u00e9 Sorbonne Paris Nord",
+            "Sorbonne Paris Cit\u00e9",
+            "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+            "H\u00f4tel-Dieu de Paris",
+            "Centre de Recherche \u00c9pid\u00e9miologie et Statistique",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Moez Rhimi",
+          "openalex_id": "",
+          "institutions": [
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "Julie Rodriguez",
+          "openalex_id": ""
+        },
+        {
+          "name": "Arjun Sarati",
+          "openalex_id": "",
+          "institutions": [
+            "University of Copenhagen",
+            "Novo Nordisk Foundation"
+          ]
+        },
+        {
+          "name": "Robert Schierwagen",
+          "openalex_id": "",
+          "institutions": [
+            "University of M\u00fcnster",
+            "European Foundation for the Study of Chronic Liver Failure"
+          ]
+        },
+        {
+          "name": "Nicola Segata",
+          "openalex_id": "",
+          "institutions": [
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Debora Serra",
+          "openalex_id": "",
+          "institutions": [
+            "European Food Information Council"
+          ]
+        },
+        {
+          "name": "Jonel Trebicka",
+          "openalex_id": "",
+          "institutions": [
+            "University of M\u00fcnster",
+            "European Foundation for the Study of Chronic Liver Failure"
+          ]
+        },
+        {
+          "name": "Corrado Vecchi",
+          "openalex_id": "",
+          "institutions": [
+            "Harvard University",
+            "Massachusetts General Hospital",
+            "MaineGeneral Medical Center"
+          ]
+        },
+        {
+          "name": "Patrick Veiga",
+          "openalex_id": "",
+          "institutions": [
+            "Universit\u00e9 Paris-Saclay",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+            "Danone (France)"
+          ]
+        },
+        {
+          "name": "Laurence Zitvogel",
+          "openalex_id": "",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 Paris-Saclay",
+            "Institut Gustave Roussy",
+            "La Ligue Contre le Cancer"
+          ]
+        },
+        {
+          "name": "Lisa Derosa",
+          "openalex_id": "",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 Paris-Saclay",
+            "Institut Gustave Roussy",
+            "La Ligue Contre le Cancer"
+          ]
+        },
+        {
+          "name": "Jo\u00ebl Dor\u00e9",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-8756-0718",
+          "institutions": [
+            "AgroParisTech",
+            "Universit\u00e9 Paris-Saclay",
+            "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
+            "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+          ]
+        },
+        {
+          "name": "R. Paul Ross",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0003-4876-8839",
+          "institutions": [
+            "University College Cork",
+            "APC Microbiome Institute"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-10-23",
+      "abstract": null,
+      "cited_by_count": 134,
+      "type": "review",
+      "source": {
+        "name": "Nature Reviews Microbiology",
+        "type": "journal",
+        "issn": [
+          "1740-1526",
+          "1740-1534"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.eur.nl/ws/files/172666905/Examining_the_healthy_human_microbiome_concept.pdf"
+      },
+      "topics": [
+        "Gut microbiota and health",
+        "Diet and metabolism studies",
+        "Clostridium difficile and Clostridium perfringens research"
+      ],
+      "referenced_works_count": 217,
+      "url": "https://openalex.org/W4403688595"
+    },
+    {
+      "openalex_id": "W4382047983",
+      "doi": "10.1093/cvr/cvad095",
+      "title": "Non-alcoholic fatty liver disease: pathophysiological concepts and treatment options",
+      "authors": [
+        {
+          "name": "Christoph Grander",
+          "openalex_id": "A5046705548",
+          "orcid": "https://orcid.org/0000-0003-2971-6224",
+          "institutions": [
+            "Innsbruck Medical University"
+          ]
+        },
+        {
+          "name": "Felix Grabherr",
+          "openalex_id": "A5018258721",
+          "orcid": "https://orcid.org/0000-0001-5731-8253",
+          "institutions": [
+            "Innsbruck Medical University"
+          ]
+        },
+        {
+          "name": "Herbert Tilg",
+          "openalex_id": "A5050626665",
+          "orcid": "https://orcid.org/0000-0002-4235-2579",
+          "institutions": [
+            "Innsbruck Medical University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-26",
+      "abstract": "The prevalence of non-alcoholic fatty liver disease (NAFLD) is continually increasing due to the global obesity epidemic. NAFLD comprises a systemic metabolic disease accompanied frequently by insulin resistance and hepatic and systemic inflammation. Whereas simple hepatic steatosis is the most common disease manifestation, a more progressive disease course characterized by liver fibrosis and inflammation (i.e. non-alcoholic steatohepatitis) is present in 10-20% of affected individuals. NAFLD furthermore progresses in a substantial number of patients towards liver cirrhosis and hepatocellular carcinoma. Whereas this disease now affects almost 25% of the world's population and is mainly observed in obesity and type 2 diabetes, NAFLD also affects lean individuals. Pathophysiology involves lipotoxicity, hepatic immune disturbances accompanied by hepatic insulin resistance, a gut dysbiosis, and commonly hepatic and systemic insulin resistance defining this disorder a prototypic systemic metabolic disorder. Not surprisingly many affected patients have other disease manifestations, and indeed cardiovascular disease, chronic kidney disease, and extrahepatic malignancies are all contributing substantially to patient outcome. Weight loss and lifestyle change reflect the cornerstone of treatment, and several medical treatment options are currently under investigation. The most promising treatment strategies include glucagon-like peptide 1 receptor antagonists, sodium-glucose transporter 2 inhibitors, Fibroblast Growth Factor analogues, Farnesoid X receptor agonists, and peroxisome proliferator-activated receptor agonists. Here, we review epidemiology, pathophysiology, and therapeutic options for NAFLD.",
+      "cited_by_count": 178,
+      "type": "review",
+      "source": {
+        "name": "Cardiovascular Research",
+        "type": "journal",
+        "issn": [
+          "0008-6363",
+          "1755-3245"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/cardiovascres/advance-article-pdf/doi/10.1093/cvr/cvad095/50713068/cvad095.pdf"
+      },
+      "topics": [
+        "Liver Disease Diagnosis and Treatment",
+        "Diet, Metabolism, and Disease",
+        "Endoplasmic Reticulum Stress and Disease"
+      ],
+      "referenced_works_count": 171,
+      "url": "https://openalex.org/W4382047983"
+    },
+    {
+      "openalex_id": "W4293420205",
+      "doi": "10.1515/jwl-2022-0008",
+      "title": "Ecolinguistics: History, today, and tomorrow",
+      "authors": [
+        {
+          "name": "Hermine Penz",
+          "openalex_id": "A5083605690",
+          "orcid": "https://orcid.org/0000-0002-5613-8274",
+          "institutions": [
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Alwin Fill",
+          "openalex_id": "A5053424008",
+          "institutions": [
+            "University of Graz"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-01",
+      "abstract": "Abstract Since the concept of ecology was first applied to language over 50 years ago, the field of ecolinguistics has developed into a thriving branch of linguistics that is more than ever closer to the pressing issues of our time. This article aims to trace the historical development of ecolinguistics, discusses the main trends in current research, and provides a brief projection of potential future developments. The first part includes an overview of research connected to Einar Haugen\u2019s article \u201cEcology of Language\u201d, published in 1972, which focuses on the interaction between languages in multilingual contexts. A large part of the article is then devoted to the role of language in dealing with environmental problems (e.g. aggravating or solving them), which is the biological understanding of ecology in the study of language inspired by Halliday\u2019s 1990 talk \u201cNew Ways of Meaning: The Challenge to Applied Linguistics\u201d. Ecolinguistics will certainly have an interesting future. It will take up topics such as climate change, which surprisingly has largely been excluded from ecolinguistic research until recently. Other topics that need to be dealt with are the negative effects of tourism, the migration of human, plant, and animal populations. Ecolinguists, in the future, will also expand their methodology towards multimodal research and study how non-European languages present the \u2018environment\u2019, or rather \u2018con-vironment\u2019.",
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Journal of World Languages",
+        "type": "journal",
+        "issn": [
+          "2169-8252",
+          "2169-8260"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/jwl-2022-0008/pdf"
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition",
+        "Linguistic research and analysis",
+        "Discourse Analysis in Language Studies"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W4293420205"
+    },
+    {
+      "openalex_id": "W3204732889",
+      "doi": "10.3389/fpsyg.2021.715843",
+      "title": "The Problematic Concept of Native Speaker in Psycholinguistics: Replacing Vague and Harmful Terminology With Inclusive and Accurate Measures",
+      "authors": [
+        {
+          "name": "Lauretta S. P. Cheng",
+          "openalex_id": "A5040846694",
+          "orcid": "https://orcid.org/0000-0003-1992-6594",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Danielle Burgess",
+          "openalex_id": "A5041781810",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Natasha Vernooij",
+          "openalex_id": "A5055706083",
+          "orcid": "https://orcid.org/0000-0002-5559-8455",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Cecilia Sol\u00eds-Barroso",
+          "openalex_id": "A5041650113",
+          "orcid": "https://orcid.org/0000-0003-1308-8120",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Ashley McDermott",
+          "openalex_id": "A5074160961",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Savithry Namboodiripad",
+          "openalex_id": "A5016140588",
+          "orcid": "https://orcid.org/0000-0002-7685-5895",
+          "institutions": [
+            "University of Michigan"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-30",
+      "abstract": "Though the term NATIVE SPEAKER/SIGNER is frequently used in language research, it is inconsistently conceptualized. Factors, such as age, order, and context of acquisition, in addition to social/cultural identity, are often differentially conflated. While the ambiguity and harmful consequences of the term NATIVE SPEAKER have been problematized across disciplines, much of this literature attempts to repurpose the term in order to include and/or exclude certain populations. This paper problematizes NATIVE SPEAKER within psycholinguistics, arguing that the term is both unhelpful to rigorous theory construction and harmful to marginalized populations by reproducing normative assumptions about behavior, experience, and identity. We propose that language researchers avoid NATIVE SPEAKER altogether, and we suggest alternate ways of characterizing language experience/use. The vagueness of NATIVE SPEAKER can create problems in research design (e.g., through systematically excluding certain populations), recruitment (as participants' definitions might diverge from researchers'), and analysis (by distilling continuous factors into under-specified binary categories). This can result in barriers to cross-study comparison, which is particularly concerning for theory construction and replicability. From a research ethics perspective, it matters how participants are characterized and included: Excluding participants based on binary/essentialist conceptualizations of nativeness upholds deficit perspectives toward multilingualism and non-hegemonic modes of language acquisition. Finally, by implicitly assuming the existence of a critical period, NATIVE SPEAKER brings with it theoretical baggage which not all researchers may want to carry. Given the issues above and how 'nativeness' is racialized (particularly in European and North American contexts), we ask that researchers consider carefully whether exclusion of marginalized/minoritized populations is necessary or justified-particularly when NATIVE SPEAKER is used only as a way to achieve linguistic homogeneity. Instead, we urge psycholinguists to explicitly state the specific axes traditionally implied by NATIVENESS that they wish to target. We outline several of these (e.g., order of acquisition, allegiance, and comfort with providing intuitions) and give examples of how to recruit and describe participants while eschewing NATIVE SPEAKER. Shifting away from harmful conventions, such as NATIVE SPEAKER, will not only improve research design and analysis, but also is one way we can co-create a more just and inclusive field.",
+      "cited_by_count": 178,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.715843/pdf"
+      },
+      "topics": [
+        "Multilingual Education and Policy",
+        "Language, Discourse, Communication Strategies",
+        "Language Development and Disorders"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W3204732889"
+    },
+    {
+      "openalex_id": "W3028904203",
+      "doi": "10.1136/bjsports-2020-102261",
+      "title": "Physical activity and health in Chinese children and adolescents: expert consensus statement (2020)",
+      "authors": [
+        {
+          "name": "Peijie Chen",
+          "openalex_id": "A5016035496",
+          "orcid": "https://orcid.org/0000-0003-2075-3133",
+          "institutions": [
+            "Shanghai University of Sport"
+          ]
+        },
+        {
+          "name": "Dengfeng Wang",
+          "openalex_id": "A5101403214",
+          "orcid": "https://orcid.org/0000-0002-1832-1270",
+          "institutions": [
+            "Ministry of Education of the People's Republic of China"
+          ]
+        },
+        {
+          "name": "Hongbing Shen",
+          "openalex_id": "A5001453048",
+          "orcid": "https://orcid.org/0000-0002-2581-5906",
+          "institutions": [
+            "Nanjing Medical University"
+          ]
+        },
+        {
+          "name": "Lijuan Yu",
+          "openalex_id": "A5108206777",
+          "institutions": [
+            "Shanghai Municipal People's Government"
+          ]
+        },
+        {
+          "name": "Qian Gao",
+          "openalex_id": "A5100752245",
+          "orcid": "https://orcid.org/0000-0001-8189-6061",
+          "institutions": [
+            "Nanjing University"
+          ]
+        },
+        {
+          "name": "Lijuan Mao",
+          "openalex_id": "A5039247492",
+          "orcid": "https://orcid.org/0000-0002-3277-6386",
+          "institutions": [
+            "Shanghai Municipal Education Commission"
+          ]
+        },
+        {
+          "name": "Fan Jiang",
+          "openalex_id": "A5012086581",
+          "orcid": "https://orcid.org/0000-0003-0634-101X",
+          "institutions": [
+            "Shanghai Jiao Tong University",
+            "Shanghai Children's Medical Center"
+          ]
+        },
+        {
+          "name": "Yao-Jia Luo",
+          "openalex_id": "A5112533562",
+          "institutions": [
+            "Shenzhen University"
+          ]
+        },
+        {
+          "name": "Minhao Xie",
+          "openalex_id": "A5101878601",
+          "orcid": "https://orcid.org/0000-0001-9943-2839",
+          "institutions": [
+            "General Administration of Sport of China"
+          ]
+        },
+        {
+          "name": "Yong Zhang",
+          "openalex_id": "A5026821828",
+          "orcid": "https://orcid.org/0000-0003-1820-0927",
+          "institutions": [
+            "Tianjin University of Sport"
+          ]
+        },
+        {
+          "name": "Lianshi Feng",
+          "openalex_id": "A5008170479",
+          "orcid": "https://orcid.org/0000-0003-0399-0604",
+          "institutions": [
+            "China Institute of Sport Science"
+          ]
+        },
+        {
+          "name": "Feng Gao",
+          "openalex_id": "A5019944862",
+          "orcid": "https://orcid.org/0000-0002-6987-481X",
+          "institutions": [
+            "Air Force Medical University"
+          ]
+        },
+        {
+          "name": "Yuling Wang",
+          "openalex_id": "A5100726271",
+          "orcid": "https://orcid.org/0000-0002-2079-3568",
+          "institutions": [
+            "Sun Yat-sen University",
+            "Sixth Affiliated Hospital of Sun Yat-sen University"
+          ]
+        },
+        {
+          "name": "Yu Liu",
+          "openalex_id": "A5100345615",
+          "orcid": "https://orcid.org/0000-0001-6253-6132",
+          "institutions": [
+            "Shanghai University of Sport"
+          ]
+        },
+        {
+          "name": "Chunyan Luo",
+          "openalex_id": "A5100554151",
+          "institutions": [
+            "Shanghai Municipal Center For Disease Control Prevention"
+          ]
+        },
+        {
+          "name": "George P. Nassis",
+          "openalex_id": "A5025597244",
+          "orcid": "https://orcid.org/0000-0003-2953-3911",
+          "institutions": [
+            "University of Southern Denmark",
+            "Shanghai University of Sport"
+          ]
+        },
+        {
+          "name": "Peter Krustrup",
+          "openalex_id": "A5060905663",
+          "orcid": "https://orcid.org/0000-0002-1461-9838",
+          "institutions": [
+            "University of Southern Denmark",
+            "Shanghai University of Sport"
+          ]
+        },
+        {
+          "name": "Barbara E. Ainsworth",
+          "openalex_id": "A5059637641",
+          "orcid": "https://orcid.org/0000-0002-4199-692X",
+          "institutions": [
+            "Shanghai University of Sport",
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Peter Harmer",
+          "openalex_id": "A5079541846",
+          "orcid": "https://orcid.org/0000-0001-9794-1920",
+          "institutions": [
+            "Willamette University"
+          ]
+        },
+        {
+          "name": "Fuzhong Li",
+          "openalex_id": "A5080827647",
+          "orcid": "https://orcid.org/0000-0001-6644-4702",
+          "institutions": [
+            "Oregon Research Institute"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-05-29",
+      "abstract": "China is experiencing significant public health challenges related to social and demographic transitions and lifestyle transformations following unprecedented economic reforms four decades ago. Of particular public health concern is the fourfold increase in overweight and obesity rates in the nation\u2019s youth population, coupled with the low prevalence of adolescents meeting recommended levels of physical activity. Improving the overall health of China\u2019s more than 170 million children and adolescents has become a national priority. However, advancing nationwide health initiatives and physical activity promotion in this population has been hampered by the lack of a population-specific and culturally relevant consensus on recommendations for achieving these ends. To address this deficiency and inform policies to achieve Healthy China 2030 goals, a panel of Chinese experts, complemented by international professionals, developed this consensus statement. The consensus was achieved through an iterative process that began with a literature search from electronic databases; in-depth reviews, conducted by a steering committee, of the resulting articles; and panel group evaluations and discussions in the form of email correspondence, conference calls and written communications. Ultimately, the panel agreed on 10 major themes with strong scientific evidence that, in children and adolescents aged 6\u201317, participating in moderate to vigorous physical activities led to multiple positive health outcomes. Our consensus statement also (1) highlights major challenges in promoting physical activity, (2) identifies future research that addresses current knowledge gaps, and (3) provides recommendations for teachers, education experts, parents and policymakers for promoting physical activity among Chinese school-aged children and adolescents. This consensus statement aligns with international efforts to develop global physical activity guidelines to promote physical activity and health and prevent lifestyle-related diseases in children and adolescents. More importantly, it provides a foundation for developing culturally appropriate and effective physical activity interventions, health promotion strategies and policy initiatives to improve the health of Chinese children and adolescents.",
+      "cited_by_count": 213,
+      "type": "article",
+      "source": {
+        "name": "British Journal of Sports Medicine",
+        "type": "journal",
+        "issn": [
+          "0306-3674",
+          "1473-0480"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://bjsm.bmj.com/content/bjsports/54/22/1321.full.pdf"
+      },
+      "topics": [
+        "Physical Activity and Health",
+        "Obesity, Physical Activity, Diet",
+        "Health and Lifestyle Studies"
+      ],
+      "referenced_works_count": 138,
+      "url": "https://openalex.org/W3028904203"
+    },
+    {
+      "openalex_id": "W3092750687",
+      "doi": "10.1016/j.hrthm.2020.10.010",
+      "title": "2020 APHRS/HRS expert consensus statement on the investigation of decedents with sudden unexplained death and patients with sudden cardiac arrest, and of their families",
+      "authors": [
+        {
+          "name": "Martin K. Stiles",
+          "openalex_id": "A5002549918",
+          "orcid": "https://orcid.org/0000-0002-3950-1537",
+          "institutions": [
+            "University of Auckland",
+            "University of Waikato"
+          ]
+        },
+        {
+          "name": "Arthur A.M. Wilde",
+          "openalex_id": "A5002151074",
+          "orcid": "https://orcid.org/0000-0002-0528-0852",
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Dominic J. Abrams",
+          "openalex_id": "A5073512822",
+          "orcid": "https://orcid.org/0000-0001-5266-2805",
+          "institutions": [
+            "Boston Children's Hospital"
+          ]
+        },
+        {
+          "name": "Michael J. Ackerman",
+          "openalex_id": "A5055125250",
+          "orcid": "https://orcid.org/0000-0002-8011-3333",
+          "institutions": [
+            "Mayo Clinic"
+          ]
+        },
+        {
+          "name": "Christine M. Albert",
+          "openalex_id": "A5045787796",
+          "orcid": "https://orcid.org/0000-0002-2081-1121",
+          "institutions": [
+            "Cedars-Sinai Medical Center"
+          ]
+        },
+        {
+          "name": "Elijah R. Behr",
+          "openalex_id": "A5011046385",
+          "orcid": "https://orcid.org/0000-0002-8731-2853",
+          "institutions": [
+            "St George's, University of London",
+            "St George\u2019s University Hospitals NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Sumeet S. Chugh",
+          "openalex_id": "A5002927065",
+          "orcid": "https://orcid.org/0000-0002-4417-5326",
+          "institutions": [
+            "Cedars-Sinai Medical Center"
+          ]
+        },
+        {
+          "name": "Martina C. Cornel",
+          "openalex_id": "A5077726256",
+          "orcid": "https://orcid.org/0000-0002-5397-5544",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Karen Gardner",
+          "openalex_id": "A5068825769",
+          "orcid": "https://orcid.org/0000-0001-9783-3575",
+          "institutions": [
+            "University of Canberra",
+            "UNSW Sydney"
+          ]
+        },
+        {
+          "name": "Jodie Ingles",
+          "openalex_id": "A5072395765",
+          "orcid": "https://orcid.org/0000-0002-4846-7676",
+          "institutions": [
+            "The University of Sydney",
+            "Centenary Institute"
+          ]
+        },
+        {
+          "name": "Cynthia A. James",
+          "openalex_id": "A5087814371",
+          "orcid": "https://orcid.org/0000-0001-8040-4600",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Jyh\u2010Ming Jimmy Juang",
+          "openalex_id": "A5040155445",
+          "orcid": "https://orcid.org/0000-0003-4767-7636",
+          "institutions": [
+            "National Taiwan University Hospital"
+          ]
+        },
+        {
+          "name": "Stefan K\u00e4\u00e4b",
+          "openalex_id": "A5019224180",
+          "orcid": "https://orcid.org/0000-0001-8824-3581",
+          "institutions": [
+            "LMU Klinikum",
+            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          ]
+        },
+        {
+          "name": "Elizabeth S. Kaufman",
+          "openalex_id": "A5001410007",
+          "orcid": "https://orcid.org/0000-0002-7042-0612",
+          "institutions": [
+            "MetroHealth Medical Center",
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "Andrew D. Krahn",
+          "openalex_id": "A5009706863",
+          "orcid": "https://orcid.org/0000-0002-7982-1586",
+          "institutions": [
+            "University of British Columbia"
+          ]
+        },
+        {
+          "name": "Steven A. Lubitz",
+          "openalex_id": "A5042984133",
+          "orcid": "https://orcid.org/0000-0002-9599-4866",
+          "institutions": [
+            "Massachusetts General Hospital"
+          ]
+        },
+        {
+          "name": "Heather MacLeod",
+          "openalex_id": "A5002985055",
+          "orcid": "https://orcid.org/0000-0003-0589-4384"
+        },
+        {
+          "name": "Carlos A. Morillo",
+          "openalex_id": "A5088254871",
+          "orcid": "https://orcid.org/0000-0002-8739-2099",
+          "institutions": [
+            "Libin Cardiovascular Institute of Alberta"
+          ]
+        },
+        {
+          "name": "Koonlawee Nademanee",
+          "openalex_id": "A5079800282",
+          "orcid": "https://orcid.org/0000-0001-8139-0343",
+          "institutions": [
+            "Chulalongkorn University",
+            "Bumrungrad International Hospital"
+          ]
+        },
+        {
+          "name": "Vincent Probst",
+          "openalex_id": "A5001969191",
+          "orcid": "https://orcid.org/0000-0002-5492-8619",
+          "institutions": [
+            "Centre Hospitalier Universitaire de Nantes"
+          ]
+        },
+        {
+          "name": "Elizabeth V. Saarel",
+          "openalex_id": "A5063308182",
+          "orcid": "https://orcid.org/0000-0002-3743-465X",
+          "institutions": [
+            "St. Luke's Hospital",
+            "Cleveland Clinic Lerner College of Medicine",
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "Luciana Sacilotto",
+          "openalex_id": "A5048178623",
+          "orcid": "https://orcid.org/0000-0002-3679-5349",
+          "institutions": [
+            "Universidade de S\u00e3o Paulo"
+          ]
+        },
+        {
+          "name": "Christopher Semsarian",
+          "openalex_id": "A5013795044",
+          "orcid": "https://orcid.org/0000-0001-6441-274X",
+          "institutions": [
+            "The University of Sydney",
+            "Centenary Institute"
+          ]
+        },
+        {
+          "name": "Mary N. Sheppard",
+          "openalex_id": "A5008286454",
+          "orcid": "https://orcid.org/0000-0003-2724-3881",
+          "institutions": [
+            "St George's, University of London",
+            "St George\u2019s University Hospitals NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Wataru Shimizu",
+          "openalex_id": "A5010491253",
+          "orcid": "https://orcid.org/0000-0001-9941-8973",
+          "institutions": [
+            "Nippon Medical School"
+          ]
+        },
+        {
+          "name": "Jonathan R. Skinner",
+          "openalex_id": "A5063648284",
+          "orcid": "https://orcid.org/0000-0002-3653-0412",
+          "institutions": [
+            "Starship Children's Health"
+          ]
+        },
+        {
+          "name": "Jacob Tfelt\u2010Hansen",
+          "openalex_id": "A5107442774",
+          "orcid": "https://orcid.org/0000-0003-3895-9316",
+          "institutions": [
+            "Rigshospitalet"
+          ]
+        },
+        {
+          "name": "Dao Wu Wang",
+          "openalex_id": "A5077512074",
+          "orcid": "https://orcid.org/0000-0003-4193-8399",
+          "institutions": [
+            "Jiangsu Province Hospital",
+            "Nanjing Medical University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-19",
+      "abstract": null,
+      "cited_by_count": 299,
+      "type": "article",
+      "source": {
+        "name": "Heart Rhythm",
+        "type": "journal",
+        "issn": [
+          "1547-5271",
+          "1556-3871"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.heartrhythmjournal.com/article/S154752712030953X/pdf"
+      },
+      "topics": [
+        "Cardiac electrophysiology and arrhythmias",
+        "Cardiac Arrhythmias and Treatments",
+        "Cardiac Arrest and Resuscitation"
+      ],
+      "referenced_works_count": 396,
+      "url": "https://openalex.org/W3092750687"
+    },
+    {
+      "openalex_id": "W4385423139",
+      "doi": "10.1002/sd.2706",
+      "title": "Artificial intelligence for <scp>Sustainable Development Goals</scp>: Bibliometric patterns and concept evolution trajectories",
+      "authors": [
+        {
+          "name": "Aakash Singh",
+          "openalex_id": "A5102891068",
+          "orcid": "https://orcid.org/0000-0002-6213-718X",
+          "institutions": [
+            "Banaras Hindu University"
+          ]
+        },
+        {
+          "name": "Anurag Kanaujia",
+          "openalex_id": "A5089234433",
+          "orcid": "https://orcid.org/0000-0002-5813-7427",
+          "institutions": [
+            "Banaras Hindu University"
+          ]
+        },
+        {
+          "name": "Vivek Kumar Singh",
+          "openalex_id": "A5026129552",
+          "orcid": "https://orcid.org/0000-0002-7348-6545",
+          "institutions": [
+            "Banaras Hindu University"
+          ]
+        },
+        {
+          "name": "Ricardo Vinuesa",
+          "openalex_id": "A5049616413",
+          "orcid": "https://orcid.org/0000-0001-6570-5499",
+          "institutions": [
+            "KTH Royal Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-30",
+      "abstract": "Abstract The development of artificial intelligence (AI) as a field has impacted almost all aspects of human life. More recently it has found a role in addressing developmental challenges, specifically the Sustainable Development Goals (SDGs). However, there are not enough systematic studies on analysis of the role of AI research towards the SDGs. Therefore, this article attempts to bridge this gap by identifying the major bibliometric trends and concept\u2010evolution trajectories in the area of AI applications for sustainable\u2010development goals. The research publication data for the last 20 years in the areas of artificial intelligence, machine learning, deep learning, and so forth, is obtained and computationally analysed using a framework comprising bibliometrics, path analysis and content analysis. The findings show an incremental trend in overall publications on the application of AI for SDGs across the different regions of the world. SDGs 3 (good health &amp; well\u2010being) and 7 (affordable and clean energy) are found as the areas with the most applications of AI. In SDG3, the literature reflects application of AI techniques such as deep learning for precision and personalised medicine while in SDG7, a number of studies have employed AI techniques for the integration of systems for efficient generation of solar power and improving the energy efficiency of a building. Furthermore, SDG 4 (quality education), SDG 13 (climate action), SDG 11 (sustainable cities and communities) and SDG 16 (peace, justice and strong institutions) are the other SDGs where AI approaches and techniques are applied. The analytical results present a detailed insight of application of AI for achieving the SDGs.",
+      "cited_by_count": 175,
+      "type": "article",
+      "source": {
+        "name": "Sustainable Development",
+        "type": "journal",
+        "issn": [
+          "0968-0802",
+          "1099-1719"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.2706"
+      },
+      "topics": [
+        "Smart Cities and Technologies",
+        "Energy, Environment, Economic Growth",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W4385423139"
+    },
+    {
+      "openalex_id": "W3001767529",
+      "doi": "10.1111/1467-8365.12490",
+      "title": "Decolonizing Art History",
+      "authors": [
+        {
+          "name": "Catherine Grant",
+          "openalex_id": "A5053878631",
+          "orcid": "https://orcid.org/0000-0003-2742-1238"
+        },
+        {
+          "name": "Dorothy Price",
+          "openalex_id": "A5001467736"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-22",
+      "abstract": "When, in 2015, students at the University of Cape Town in South Africa demanded the removal of a statue of British colonial and diamond merchant Cecil Rhodes from their campus, they initiated what was to become a global call to 'decolonize the university'. In the same year, students at University College London began to ask the question: why is my curriculum white? Other public sector cultural institutions soon joined the chorus in an overdue acknowledgement that unspoken colonial legacies had for too long upheld and promulgated white privilege. The role of public sculpture as a catalyst for political debate and change has a long tradition within art's histories. It serves to remind us of the centrality of the discipline in promoting and maintaining dominant cultural values; and yet it also enables us to interrogate them as historically located and subject to inevitable temporal mutation. Whilst postcolonial studies and critical race studies have been informing and challenging the shape of art history for several decades, new generations of students, scholars, critics, curators, collectors, artists and audiences are seeking radical re-evaluations of the academy and those cultural institutions who hold themselves up as standard-bearers of our collective cultural heritage. But, what, if anything, is specific about the current moment's demands to reassess how universities, museums, and galleries teach, research, collect and exhibit? How can art historians, curators, collectors, museum directors, artists and writers respond to the call to decolonize art history? How can we draw from the rich legacy of postcolonial, feminist, queer and Marxist perspectives within art history, and what are the new theoretical perspectives that are needed? Writing these questions within the context of the UK, the backdrop of Brexit cannot be ignored, along with the impact of austerity and precarity in the university and museum sectors, and the rise of nationalism and xenophobia in response to both economic and political migration. There is a sense of instability in the political landscape, and conversations are often harder to hear than accusations, condemnation or dismissal. This is coupled with an increasing sense of art history being an embattled discipline, an unnecessary luxury for many students faced with tens of thousands of pounds of student debt. Yet conversely some of the loudest voices in the conversations around decolonizing art and its histories have been from young artists, scholars, curators and students, demanding that the institutions from which they feel excluded start to listen. For many of us working within (and alongside) the discipline of art history, these calls have asked us to reckon with what we do as teachers, scholars and curators. In order to continue this conversation, we have asked a range of art historians, curators and artists",
+      "cited_by_count": 68,
+      "type": "article",
+      "source": {
+        "name": "Art History",
+        "type": "journal",
+        "issn": [
+          "0141-6790",
+          "1467-8365"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8365.12490"
+      },
+      "topics": [
+        "Cultural Industries and Urban Development",
+        "Anthropological Studies and Insights",
+        "Cultural Heritage Management and Preservation"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3001767529"
+    },
+    {
+      "openalex_id": "W3202519863",
+      "doi": "10.1073/pnas.2026347118",
+      "title": "Earth history events shaped the evolution of uneven biodiversity across tropical moist forests",
+      "authors": [
+        {
+          "name": "Oskar Hagen",
+          "openalex_id": "A5072968155",
+          "orcid": "https://orcid.org/0000-0002-7931-6571",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research",
+            "German Centre for Integrative Biodiversity Research",
+            "ETH Zurich"
+          ]
+        },
+        {
+          "name": "Alexander Skeels",
+          "openalex_id": "A5038775948",
+          "orcid": "https://orcid.org/0000-0002-9973-4703",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research",
+            "ETH Zurich"
+          ]
+        },
+        {
+          "name": "Renske E. Onstein",
+          "openalex_id": "A5038022707",
+          "orcid": "https://orcid.org/0000-0002-2295-3510",
+          "institutions": [
+            "German Centre for Integrative Biodiversity Research"
+          ]
+        },
+        {
+          "name": "Walter Jetz",
+          "openalex_id": "A5005036733",
+          "orcid": "https://orcid.org/0000-0002-1971-7277",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Lo\u00efc Pellissier",
+          "openalex_id": "A5064694326",
+          "orcid": "https://orcid.org/0000-0002-2289-8259",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research",
+            "ETH Zurich"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-01",
+      "abstract": "Far from a uniform band, the biodiversity found across Earth's tropical moist forests varies widely between the high diversity of the Neotropics and Indomalaya and the relatively lower diversity of the Afrotropics. Explanations for this variation across different regions, the \"pantropical diversity disparity\" (PDD), remain contentious, due to difficulty teasing apart the effects of contemporary climate and paleoenvironmental history. Here, we assess the ubiquity of the PDD in over 150,000 species of terrestrial plants and vertebrates and investigate the relationship between the present-day climate and patterns of species richness. We then investigate the consequences of paleoenvironmental dynamics on the emergence of biodiversity gradients using a spatially explicit model of diversification coupled with paleoenvironmental and plate tectonic reconstructions. Contemporary climate is insufficient in explaining the PDD; instead, a simple model of diversification and temperature niche evolution coupled with paleoaridity constraints is successful in reproducing the variation in species richness and phylogenetic diversity seen repeatedly among plant and animal taxa, suggesting a prevalent role of paleoenvironmental dynamics in combination with niche conservatism. The model indicates that high biodiversity in Neotropical and Indomalayan moist forests is driven by complex macroevolutionary dynamics associated with mountain uplift. In contrast, lower diversity in Afrotropical forests is associated with lower speciation rates and higher extinction rates driven by sustained aridification over the Cenozoic. Our analyses provide a mechanistic understanding of the emergence of uneven diversity in tropical moist forests across 110 Ma of Earth's history, highlighting the importance of deep-time paleoenvironmental legacies in determining biodiversity patterns.",
+      "cited_by_count": 133,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1073/pnas.2026347118"
+      },
+      "topics": [
+        "Plant and animal studies",
+        "Ecology and Vegetation Dynamics Studies",
+        "Species Distribution and Climate Change"
+      ],
+      "referenced_works_count": 104,
+      "url": "https://openalex.org/W3202519863"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

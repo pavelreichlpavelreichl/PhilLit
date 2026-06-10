@@ -1,0 +1,19 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Messianic Politics Between Marxism...' year=2007
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Messianic Politics Between Marxism Messianism",
+    "year": 2007
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (30.0) below threshold (50)",
+      "recoverable": false
+    }
+  ]
+}

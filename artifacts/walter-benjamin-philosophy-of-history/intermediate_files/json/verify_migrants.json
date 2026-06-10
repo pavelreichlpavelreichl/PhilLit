@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/1462317x.2021.1917223
+[verify_paper.py] DOI verified: Migrants in the profane: critical theory and the q...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/1462317x.2021.1917223"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/1462317x.2021.1917223",
+      "title": "Migrants in the profane: critical theory and the question of secularization",
+      "authors": [
+        {
+          "family": "Simpson",
+          "given": "Sid"
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Political Theology",
+      "volume": "22",
+      "issue": "4",
+      "page": "350-352",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/1462317x.2021.1917223"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

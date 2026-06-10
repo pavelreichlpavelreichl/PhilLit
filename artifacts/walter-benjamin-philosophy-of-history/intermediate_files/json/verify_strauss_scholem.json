@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3390/rel13070618
+[verify_paper.py] DOI verified: Back to the Future: Leo Strauss, Gershom Scholem a...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3390/rel13070618"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3390/rel13070618",
+      "title": "Back to the Future: Leo Strauss, Gershom Scholem and the Restorative Messianic Utopia",
+      "authors": [
+        {
+          "family": "Sawczy\u0144ski",
+          "given": "Piotr"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "Religions",
+      "volume": "13",
+      "issue": "7",
+      "page": "618",
+      "publisher": "MDPI AG",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3390/rel13070618"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

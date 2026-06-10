@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Feldman Not Dialectical Enough Benjamin Adorno autonomous critique' (year=2010-2016), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_edfc84d9a72bc9a0)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Feldman Not Dialectical Enough Benjamin Adorno autonomous critique",
+  "results": [
+    {
+      "paperId": "97126cb097917cdb06a987a764e28064137e41ca",
+      "title": "Not Dialectical Enough: On Benjamin, Adorno, and Autonomous Critique",
+      "authors": [
+        {
+          "name": "K. Feldman",
+          "authorId": "40322665"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 10,
+      "doi": "10.5325/PHILRHET.44.4.0336",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/97126cb097917cdb06a987a764e28064137e41ca",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy & Rhetoric",
+        "pages": "336 - 362",
+        "volume": "44"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

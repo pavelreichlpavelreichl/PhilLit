@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Marx and God with anarchism Walter Benjamin concep...' author=Hirvonen year=2012
+[verify_paper.py] Paper found: Marx and God with anarchism: on Walter Benjamin’s ... (score: 62.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Marx and God with anarchism Walter Benjamin concepts of history",
+    "author": "Hirvonen",
+    "year": 2012
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11007-012-9234-9",
+      "title": "Marx and God with anarchism: on Walter Benjamin\u2019s concepts of history and violence",
+      "authors": [
+        {
+          "family": "Hirvonen",
+          "given": "Ari"
+        }
+      ],
+      "editors": [],
+      "year": 2012,
+      "container_title": "Continental Philosophy Review",
+      "volume": "45",
+      "issue": "4",
+      "page": "519-543",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/s11007-012-9234-9",
+      "score": 62.274895
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

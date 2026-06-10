@@ -1,0 +1,858 @@
+[search_openalex.py] Searching OpenAlex: 'Wendy Brown resisting left melancholy' (year=1995-2005), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_3d32ffab48760f86)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Wendy Brown resisting left melancholy",
+  "results": [
+    {
+      "openalex_id": "W1490887778",
+      "doi": "10.1353/sub.2003.0061",
+      "title": "Loss: The Politics of Mourning",
+      "authors": [
+        {
+          "name": "Naomi Mandel",
+          "openalex_id": "A5061825205",
+          "orcid": "https://orcid.org/0000-0002-1549-0079"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "Illustrations Preface Introduction: Mourning Remains David L. Eng and David Kazanjian I. Bodily Remains Returning the Body without Haunting: Mourning Nai Phi and the End of Revolution in Thailand Rosalind C. Morris Black Mo'nin' Fred Moten Ambiguities of Mourning: Law, Custom, and Testimony of Women before South Africa's Truth and Reconciliation Commission Mark Sanders Catastrophic Mourning Marc Nichanian Between Genocide and Catastrophe David Kazanjian and Marc Nichanian Passing Shadows: Melancholic Nationality and Black Critical Publicity in Pauline E. Hopkins's Of One Blood Dana Luciano Melancholia and Moralism Douglas Crimp II. Spatial Remains The Memory of Hunger David Lloyd Remains to Be Seen: Reading the Works of Dean Sameshima and Khanh Vo Susette Min Mourning Becomes Kitsch: The Aesthetics of Loss in Severo Sarduy's Cobra Vilashini Cooppan Theorizing the Loss of Land: Griqua Land Claims in Southern Africa, 1874--1998 David Johnson Left Melancholy Charity Scribner III. Ideal Remains All Things Shining Kaja Silverman A Dialogue on Racial Melancholia David L. Eng and Shinhee Han Passing Away: The Unspeakable (Losses) of Postapartheid South Africa Yvette Christianse Ways of Not Seeing: (En)gendered Optics in Benjamin, Baudelaire, and Freud Alys Eve Weinbaum Legacies of Trauma, Legacies of Activism: ACT UP's Lesbians Ann Cvetkovich Resisting Left Melancholia Wendy Brown Afterword: After Loss, What Then? Judith Butler Contributors Index",
+      "cited_by_count": 228,
+      "type": "article",
+      "source": {
+        "name": "SubStance",
+        "type": "journal",
+        "issn": [
+          "0049-2426",
+          "1527-2095"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Postcolonial and Cultural Literary Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1490887778"
+    },
+    {
+      "openalex_id": "W4300436728",
+      "doi": "10.18574/nyu/9781479820108.001.0001",
+      "title": "Bending Over Backwards",
+      "authors": [
+        {
+          "name": "Lennard J. Davis",
+          "openalex_id": "A5082954775",
+          "orcid": "https://orcid.org/0000-0002-7234-1600"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-09-01",
+      "abstract": "With the advent of the human genome, cloning, stem-cell research and many other developments in the way we think of the body, disability studies provides an entirely new way of thinking about the body in its relation to politics, the environment, the legal system, and global economies. Bending Over Backwards reexamines issues concerning the relationship between disability and normality in the light of postmodern theory and political activism. Davis takes up homosexuality, the Americans with Disabilities Act, the legal system, the history of science and medicine, eugenics, and genetics. Throughout, he maintains that disability is the prime category of postmodernity because it redefines the body in relation to concepts of normalcy, which underlie the very foundations of democracy and humanistic ideas about the body. Bending Over Backwards argues that disability can become the new prism through which postmodernity examines and defines itself, supplanting the categories of race, class, gender, and sexual orientation.",
+      "cited_by_count": 326,
+      "type": "book",
+      "source": {
+        "name": "New York University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/89360/1/9781479820108_WEB.pdf"
+      },
+      "topics": [
+        "Latin American and Latino Studies"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W4300436728"
+    },
+    {
+      "openalex_id": "W1553682266",
+      "doi": null,
+      "title": "Signatures of the Impossible",
+      "authors": [
+        {
+          "name": "Ranjana Khanna",
+          "openalex_id": "A5089285015"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-03-22",
+      "abstract": "What's in a name?Halley's article takes as its starting point masculine identification in the signature \"Ian Halley.\"But the designation of Ian as a \"masculine\" name perhaps causes one to fall into a trap that Halley has set for readers.Pointing out the \"gender\" of a name, particularly in a language that does not inscribe gender in nouns, adjectives, or past participles, commits a feminist error of always inscribing gender or attributing discrimination along gendered lines to every aspect of living.Gender thus carries the attributes of value.It is from Ian's performative and phantasmatic iteration that Halley engages two writers, Leo Bersani and Duncan Kennedy, who adopt a \"queer\" theoretical position that must, in Halley's view, depart from feminism.Decrying a form of moralism apparently endemic to contemporary feminism, Halley gives a reading of cultural feminism's roots in some of the more radical provocations from MacKinnon and Dworkin, only to underscore how contemporary feminism, for better and for worse, has rejected all that was radical in those already highly problematic positions.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Duke journal of gender law & policy",
+        "type": "journal",
+        "issn": [
+          "1090-1043"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarship.law.duke.edu/djglp/vol11/iss1/5"
+      },
+      "topics": [
+        "Multicultural Socio-Legal Studies",
+        "Law in Society and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1553682266"
+    },
+    {
+      "openalex_id": "W2011716666",
+      "doi": "10.1017/s0025727300063341",
+      "title": "The great experiment: The admission of women students to St Mary's Hospital Medical School, 1916\u20131925",
+      "authors": [
+        {
+          "name": "James Staurt Garner",
+          "openalex_id": "A5113569645",
+          "institutions": [
+            "St Mary's Hospital"
+          ]
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": "The subject of women's entry to the medical profession has received considerable historical attention over the years.1 Parts of the story have acquired an almost mythological quality in recounting the extraordinary perseverance of a few dedicated women, which led to their eventual triumph over the professional self-interest of the male medical cabal in the latter years of the nineteenth century.2 Sometimes these accounts fall short of historical impartiality. For example, one book begins with the declaration \"this book has five heroines\".3 It is admirable that the author nails her colours to the mast with such abandon, but her bias undermines the work in the eyes of more temperate historians. Another describes the tribulations of Sophia Jex-Blake as \"a true battle for liberty against tyranny, for the powers of light against the powers of darkness\".4 Part of the reason for this slant is that some of the first accounts of the period were written by the female protagonists themselves,5 while subsequent work has sometimes been coloured by",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Medical History",
+        "type": "journal",
+        "issn": [
+          "0025-7273",
+          "2048-8343"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/25D8F9887A352E99D5B1C12A0161D9AF/S0025727300063341a.pdf/div-class-title-the-great-experiment-the-admission-of-women-students-to-st-mary-s-hospital-medical-school-1916-1925-div.pdf"
+      },
+      "topics": [
+        "Historical Studies on Reproduction, Gender, Health, and Societal Changes",
+        "Historical Psychiatry and Medical Practices",
+        "Medical History and Innovations"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2011716666"
+    },
+    {
+      "openalex_id": "W2142498372",
+      "doi": null,
+      "title": "Trading Places: From Black Power to Activist to \"Anti-Negro Negro\"",
+      "authors": [
+        {
+          "name": "Alyson Cole",
+          "openalex_id": "A5045646000",
+          "orcid": "https://orcid.org/0000-0002-1911-6092"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-09-01",
+      "abstract": "of Massachusetts at Amherst unanimously demanded that the University remove one of its most distinguished members, Professor Julius Lester.The official reason given for this unprecedented request was that Lester had become an \"anti-Negro-Negro.\" 1 In making this extraordinary demand, Lester's colleagues were reacting to the recent publication of his autobiography.Entitled Loves ong: On Becoming a Jew (1988a), the book tells the story of Lester's conversion to Judaism and details his growing alienation from Black politics.The faculty's lengthy report concluded, \"Professor Lester would be infinitely more comfortable at a different location in the University\" (Lester 1988b, 17-8). 2 Elaborating on the written account, one of the authors pointedly remarked that retaining Lester in Afro-American Studies is \"like having Yassir Arafat teaching in the Jewish Studies Department.\" 3 The University eventually complied with the request and transferred Professor Lester to another department.This bit of",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Latin American Theatre Review (The University of Kansas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://journals.ku.edu/amerstud/article/view/3016"
+      },
+      "topics": [
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2142498372"
+    },
+    {
+      "openalex_id": "W15457651",
+      "doi": "10.17077/2168-569x.1058",
+      "title": "The Haunting: Cultural Studies, Religion, and Alternative Therapies",
+      "authors": [
+        {
+          "name": "Ruth Barcan",
+          "openalex_id": "A5068397318",
+          "orcid": "https://orcid.org/0000-0003-1001-9576",
+          "institutions": [
+            "The University of Sydney"
+          ]
+        },
+        {
+          "name": "Jay Johnston",
+          "openalex_id": "A5008404932",
+          "orcid": "https://orcid.org/0000-0002-8564-2138",
+          "institutions": [
+            "The University of Sydney"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "Dr Ruth Barcan is a Lecturer in the Department of Gender and Cultural Studies at the University of Sydney, Australia. She is the author of Nudity: A Cultural Anatomy (Berg Publishers, 2004) and of numerous articles on feminist cultural studies approaches to the body. She is currently writing a book on alternative therapies for Berg, provisionally entitled The Body and Alternative Therapies: Cultural Practice and the Boundaries of the Senses. Jay Johnston currently works in the Department of Gender and Cultural Studies and the Department of Studies in Religion at the University of Sydney, Australia. She is the author of Angels of Desire: Subtle Subjects, Aesthetics and Ethics (forthcoming, Gnostica: Equinox). Previous publications include J. Johnston and R. Barcan, \u201cSubtle Transformations: Imagining the Body in Alternative Health Practices.\u201d International Journal of Cultural Studies 9.1 (2006): 25-44.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Iowa Journal of Cultural Studies",
+        "type": "journal",
+        "issn": [
+          "2168-569X",
+          "2168-5738"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubs.lib.uiowa.edu/ijcs/article/id/29526/download/pdf/"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Folklore, Mythology, and Literature Studies"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W15457651"
+    },
+    {
+      "openalex_id": "W2795153324",
+      "doi": null,
+      "title": "Reading the personal: Toward a theory and practice of self -narrative in student writing",
+      "authors": [
+        {
+          "name": "Megan Fulwiler",
+          "openalex_id": "A5087296089"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "This dissertation examines students' personal essays as rhetorical projects of self-representation. The debate over the role of personal writing in composition studies has created a binary opposition between a modernist transcendent notion of self and a postmodern discursive subject. As a result, the complex issues of self and representation in student work is often dismissed in favor of what is traditionally called \"academic discourse.\" The concept of \"narrative identity\" provides a way to identify the strategies that student writers use to establish ethos, assert agency, and negotiate codes of belonging within multiple social communities. Chapter 1, \"Situating Personal Writing,\" considers how the key terms of self narrative---self, experience, and voice---have become problematic in light of postmodern theories of the subject. Chapter 2, \"Identity in Autobiographical Writing: A Question of Ethos,\" examines how autobiographical theory, cultural studies, and rhetorical theory offer important insights into the question of the personal. Chapter 3, \"'Poets of their own affairs': (Re)figuring Identity and Agency,\" draws on the work of French cultural critic Michel de Certeau in order to study how writers write out of, and back to, existing models of gendered identity. Chapter 4, \"'On Lies, Secrets, and Silence': Reading/Writing the Family,\" reconsiders the role of family essays as relational narratives that define the self in relation to an \"other.\" Chapter 5, \"Writing Home: Identity, Place, and Rhetorics of Belonging,\" looks at how student writers write about a self in relation to home and community. Chapter 6, \"The Role of Self Narrative in Education,\" places the debate over personal writing within the larger context of education and argues that personal essays can do critical work by providing the necessary space for students to imagine themselves as writers and to compose a relationship between their lives and their education.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "University of New Hampshire Scholars Repository (University of New Hampshire at Manchester)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholars.unh.edu/dissertation/179"
+      },
+      "topics": [
+        "Reflective Practices in Education",
+        "Discourse Analysis in Language Studies",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2795153324"
+    },
+    {
+      "openalex_id": "W290594680",
+      "doi": null,
+      "title": "Lindy Chamberlain: a personal visual response",
+      "authors": [
+        {
+          "name": "Neville Dawson",
+          "openalex_id": "A5063225409"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "This is an artistic response to Mrs Lindy Chamberlain and the drama that engulfed almost a decade of her life. That drama began with the loss of her baby Azaria to a dingo while on a family camping holiday at Uluru in Central Australia in 1980. Two years later she was wrongly convicted of the baby\u2019s murder, and spent the next three-and-a-half years in gaol. Upon her release, she continued to fight to clear her name. Her conviction was finally quashed in 1989.\\nThe Chamberlain drama was part of the almost daily news diet of Australians for some years, and still provokes strong reactions in many today. It was a story with powerful ingredients: the disappearance in the night of a helpless baby, into a remote desert landscape of ancient mythological significance; a contest for credibility between a defiant accused mother and a little understood native species of wild dog; forensic experts evoking horrific images of the baby\u2019s last moments, using only her bloodied clothing but without her body; a co-accused husband and wife who were active members of a minority religious group that was noticeably different to mainstream Australian church denominations; and so on. The paintings discussed here explore the story\u2019s many ongoing resonances and re-engage their viewers with it in new and positive ways.\\nThe thesis comprises 36 works, most of which are acrylic on board or canvas. It includes ten portraits of the predominant personalities in the case, a number of pseudo-portraits (i.e. several reworked media-derived pictures of Lindy Chamberlain and four depictions of the \u2018Dingo Spirit\u2019), and approximately fifteen other related paintings. This documentation explores what influenced these works, including: the facts of the decade-long story; the implications of these facts; the artistic considerations involved, both technical and aesthetic; and some of the artworks, artistic traditions and critical theories about art that influenced the works\u2019 design and execution or might subsequently shed light on their interpretation \u2013 especially the portraiture traditions of Europe and Australia, from the Renaissance to today.\\nThis paper also provides: background material for each painting, a brief workby- work analysis of them, and a short history of their creation and exhibition.\\nThe significance of this body of work is that it contributes to both the Chamberlain story itself and to the development of the role that art and artists play in Australian cultural life. In particular, it demonstrates a compelling social role for portraiture in Australia today. By depicting as a series the major characters and several key moments of an important historical episode, insights can be communicated, responses evoked, and positive social discourse furthered.\\nThe project and its accompanying paper should be understood to insist that no single theory about art or our relationship with it can really render an artistic practice invalid. Rather, critical ideas from both past and present can and should be drawn upon simultaneously to assist in making meaning. This is consistent with the observation that artists and viewers alike appreciate artistic expression on many levels at once.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Research Online (University of Wollongong)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1921&context=theses"
+      },
+      "topics": [
+        "Data Visualization and Analytics",
+        "Color perception and design"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W290594680"
+    },
+    {
+      "openalex_id": "W847178696",
+      "doi": null,
+      "title": "Toni Morrison: Defamiliarization and Metaphor in Song of Solomon and Beloved",
+      "authors": [
+        {
+          "name": "Tolli Vegge",
+          "openalex_id": "A5002241644"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "In my thesis I discuss formal aspects of two novels by Toni Morrison. In Song of Solomon I trace the development of the song and other musical metaphors. The proposition I make is that the gradual construction of the song is a defamiliarization of the process of discovering your history, especially your ancestral roots. This discovery is slowly being made by Milkman Dead who undertakes a quest to find information about his family past. In my introduction I explain the concept of defamiliarization which stems from Russian Formalism. The term represents the way in which literature, and art in general, obliquely and ceremoniously depicts human experience by enstranging objects, events or abstract phenomena in order to slow down the reader\u2019s perception so that he or she will \u201cread\u201d the world more profoundly. I choose to see the song as the main narratological tool in Song of Solomon to achieve this goal. However, other elements contribute in the defamiliarizing process and I also discuss aspects such as naming, the imagery of flight, the symbolic eggs, and the symbolism of bones.\\nIn Beloved, too, a main theme is the characters\u2019 relationship with an often repressed memory (or \u201crememory\u201d). Sethe, the mother of Beloved, has a tree-shaped scar on her back, a cicatrice she got after being whipped as a slave. This tree is symbolically significant in the novel as it occurs in many configurations and contexts. Some scholars see the tree as a metaphorical text which is inscribed on Sethe\u2019s body. Sethe herself cannot see this inscription which is a metaphor for a past she needs to \u201crememory\u201d and acknowledge.\\nIn my conclusion I briefly compare the defamiliarizing metaphors of the two novels. Finally, there is a hope for the future for both Sethe and Milkman, if they will only connect to their respective stories, which are concealed in the tree and in the song.",
+      "cited_by_count": 4,
+      "type": "dissertation",
+      "source": {
+        "name": "Duo Research Archive (University of Oslo)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10852/25163"
+      },
+      "topics": [
+        "Global Maritime and Colonial Histories",
+        "Caribbean history, culture, and politics",
+        "Island Studies and Pacific Affairs"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W847178696"
+    },
+    {
+      "openalex_id": "W2595089685",
+      "doi": null,
+      "title": "A Grievous Necessity: The Subject of Marriage in Transatlantic Modern Women\u2019s Novels\u2014Woolf, Rhys, Fauset, Larsen, and Hurston",
+      "authors": [
+        {
+          "name": "Kristin Czarnecki",
+          "openalex_id": "A5091806722",
+          "orcid": "https://orcid.org/0000-0003-0864-4401",
+          "institutions": [
+            "University of Cincinnati"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "My dissertation analyzes modern women's novels that interrogate the role of marriage in the construction of female identity.Mapping the character of Clarissa in The Voyage Out (1915), \"Mrs.Dalloway's Party\" (1923), and primarily Mrs. Dalloway (1925), I highlight Woolf's conviction that negotiating modernity requires an exploratory yet protected consciousness for married women.Rhys's early novels, Quartet (1929), After Leaving Mr. Mackenzie (1931), Voyage in the Dark (1934), and Good Morning, Midnight (1939), portray women excluded from the rite of marriage in British society.Unable to counter oppressive Victorian mores, her heroines invert the modernist impulse to \"make it new\" and face immutability instead, contrasting with the enforced multiplicity of identity endured by women of color in Fauset's Plum Bun (1929) and Larsen's Quicksand (1928) and Passing (1929).Hurston's last novel, Seraph on the Suwanee (1948), indicts American race and gender relations in the story of a white woman's modification of her identity within an abusive marriage.In each novel, marital crises reflect the experience of becoming \"modern,\" of attaining female selfhood in sexually, socially, and racially complicated milieus.ACKNOWLEDGMENTS I would first like to thank Alison Rieke and Amy Elder for their unfailing support of my work.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "OhioLink ETD Center (Ohio Library and Information Network)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://rave.ohiolink.edu/etdc/view?acc_num=ucin1090786882"
+      },
+      "topics": [
+        "Literature: history, themes, analysis",
+        "Modernist Literature and Criticism",
+        "Irish and British Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2595089685"
+    },
+    {
+      "openalex_id": "W2748607073",
+      "doi": "10.31390/gradschool_dissertations.3388",
+      "title": "Alice's shadow: childhood and agency in Lewis Carroll's photography, illustrations, and Alice texts",
+      "authors": [
+        {
+          "name": "R. Nichole Rougeau",
+          "openalex_id": "A5072262759",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-03-16",
+      "abstract": "The nineteenth century marks the emergence of a new literary market directed at the entertainment of children. However, a dichotomy exists concerning the image of childhood. Adults tended to idolize childhood in literature to reflect on their own lives ignoring the needs of children to possess an identity of their own. Essentially children are shadows of adults. Examinations of the shadows of childhood\u2014children as shadows of adults, children shadowed by adults, the shadows as identifying children, and the shadows children themselves cast\u2014lead to a discussion of agency over childhood. Lewis Carroll, entering this new literary market with his Alice series, identifies the misconceptions of childhood calling attention to the shadowed truth in his photography, illustrations and literature. This dissertation integrates psychological, cultural, visual and linguistic analysis in an effort to create a lens through which we can expand our understanding of children and literature written for and about children. Specifically, Lewis Carroll\u2019s Alice series serves as an exemplary text on which to base discussions of childhood and the child-literary audience in relation to children as muses for poetry, photographic subjects, illustrated figures, and literary characters. Examining eighteenth- and nineteenth-century education manuals as well as the romantic works of William Blake and William Wordsworth, I trace the various forms of shadows used to discuss childhood. I call on the theories of Perry Nodelman, Lev Vygotsky, Benjamin Lee Whorf, and Sigmund Freud to conclude that Carroll uses these shadows to dispel previous notions of children but also to empower the nineteenth-century child in his photography, illustrations, and Alice books. Furthermore, I extend this lens to discuss images of children in the twentieth and twenty-first century texts of J. M. Barrie\u2019s Peter Pan, J.K. Rowling\u2019s Harry Potter books, and Lemony Snicket\u2019s Series of Unfortunate Events series to argue that contemporary literature for children maintains these shadows which cast darkness on harsher realities from which children need to escape.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=4387&context=gradschool_dissertations"
+      },
+      "topics": [
+        "Themes in Literature Analysis"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W2748607073"
+    },
+    {
+      "openalex_id": "W2595728812",
+      "doi": null,
+      "title": "Strategies of Modern Chinese Women Writers' Autobiography",
+      "authors": [
+        {
+          "name": "Jing Wang",
+          "openalex_id": "A5100378363",
+          "orcid": "https://orcid.org/0000-0001-7791-671X",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "In this dissertation I place their autobiographies in the historical and cultural contexts of their writing / translation while engaging in critical analysis and close reading.I treat their texts theoretically",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "OhioLink ETD Center (Ohio Library and Information Network)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://rave.ohiolink.edu/etdc/view?acc_num=osu1392046947"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Japanese History and Culture",
+        "Asian Culture and Media Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2595728812"
+    },
+    {
+      "openalex_id": "W3125588396",
+      "doi": null,
+      "title": "Owning Enlightenment: Proprietary Spirituality in the 'New Age' Marketplace",
+      "authors": [
+        {
+          "name": "Walter Effross",
+          "openalex_id": "A5008933789",
+          "institutions": [
+            "Trinity College",
+            "American University",
+            "Washington College"
+          ]
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "This article analyzes recent attempts made by the Arica Institute, the Church of Scientology, and Star's Edge - reaching, in each case, the relevant Circuit Court of Appeals - to apply intellectual property law to prevent the unauthorized dissemination of their spiritual teachings and techniques. As the article details, such concerns have been raised in connection with a wide range of traditional and modern practices, including Zen, Kabbalah, Yoga, Sufism, Christian Science, est, Reiki, the Gurdjieff Work, A Course in Miracles, and Transcendental Meditation. The article draws on a variety of primary sources, including trial transcripts, appellate pleadings, Web sites, confidentiality agreements, rare publications by and about these groups, and an interview conducted with Arica's founder. It identifies and evaluates ten justifications for spiritual secrecy, including the claim that individuals prematurely exposed to advanced texts and techniques (or to misinterpretations of them) might suffer spiritual and psychological harm. Also discussed in this context are: special concerns of authorship, fair use, trade secret law, and the First Amendment, particularly in the era of the Internet; parallels to secrecy and malpractice issues in the psychotherapeutic professions; the patentability and copyrightability of meditative movements; and the protection of spiritual materials as traditional knowledge.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "eYLS (Yale Law School)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.law.buffalo.edu/cgi/viewcontent.cgi?article=1297&context=buffalolawreview"
+      },
+      "topics": [
+        "Legal Systems and Judicial Processes",
+        "Religious Studies and Spiritual Practices",
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3125588396"
+    },
+    {
+      "openalex_id": "W811903453",
+      "doi": null,
+      "title": "Barring the Nursery Window: Narrator Intrusion and Separation Anxiety in Children\u2019s Literature",
+      "authors": [
+        {
+          "name": "Mary Alice Dwiggins",
+          "openalex_id": "A5079169319"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-01-01",
+      "abstract": "This thesis examines the effects of the various degrees of narrative intrusion within the genre of children's fantasy literature addressing the theme of separation. The primary texts include the Grimm Brother's folk tale, \"Hansel and Gretel,\" Maurice Sendak's picture books Where the Wild Things Are, Outside Over There and Dear Mili, and finally ends with J. M. Barrie's novel Peter Pan. In examining these texts there emerge three distinct levels or types of narrative. The first type of narrative is zero degree where little narrator intrusion enters the text. The author does not exist as a persona; thus readers may freely work out solutions for separation anxiety within the space of fantasy. In the second type of narrative, adult narration becomes more intrusive. There seems to be a socializing intent on the part of the narrator to control the reader's interpretation of the text by using culturally encoded sets of moral or psychological symbols. Where illustrations enter the text, they may shade the meaning of the text to emphasize and de-emphasize portions of the story in ways not necessarily intended by the author. Illustrations thus reveal anxieties over separation that the illustrator himself seems to have experienced. The third type of narrative reveals the highest degree of intrusion. The author/narrator becomes another figure in the struggle over separation as he gains control of the mother figure and the story itself. The resolution of separation anxiety is obscured and indefinite. The first chapter of this discussion compares the Grimm Brother's manuscript version of the tale ''Hansel and Gretel\" to the fifth revision of the same tale, and discusses the subtle effects of narrator intrusion as it moves away from \"degree zero.\" The second chapter expands on this idea by exposing the subtle effects illustrations have on texts with zero degree intrusion and those with much intrusion. It explores Maurice Sendak's Where the Wild Things Are and Outside Over There, and Wilhelm Grimm's tale Dear Mili also illustrated by Maurice Sendak. The final chapter deals with the self-conscious narrator in J. M. Barrie's Peter Pan. Throughout these texts, as narrator intrusion increases, adult anxiety over separation becomes manifested in the narrative structure. Characters' actions may show the return to mother, but the adult author, through various embodiements of his intrusive narrator, may tell the reader that separation may not really be resolved. Thus the belief of the possibility of escape through fantasy is taken away from the reader.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Collective Bargaining in the Academy",
+        "type": "journal",
+        "issn": [
+          "1941-8043"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://thekeep.eiu.edu/cgi/viewcontent.cgi?article=2827&context=theses"
+      },
+      "topics": [
+        "Themes in Literature Analysis",
+        "Digital Storytelling and Education",
+        "Comics and Graphic Narratives"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W811903453"
+    },
+    {
+      "openalex_id": "W2602034907",
+      "doi": null,
+      "title": "Black And White (Book Review)",
+      "authors": [
+        {
+          "name": "Anthony V. Alfieri",
+          "openalex_id": "A5032881461",
+          "orcid": "https://orcid.org/0009-0009-0808-3764"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-01-01",
+      "abstract": "Frank Valdes employs the term \"Black/White paradigm\" to describe the limitations of traditional CRT analysis in deconstructing the dimensions of race and race-based subordination in a multi-cultural society.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1215&context=fac_articles"
+      },
+      "topics": [
+        "Critical Race Theory in Education",
+        "Latin American and Latino Studies",
+        "Caribbean history, culture, and politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2602034907"
+    },
+    {
+      "openalex_id": "W1543960083",
+      "doi": null,
+      "title": "Andr\u00e9 Gide and the Lost Boys",
+      "authors": [
+        {
+          "name": "Naomi Segal",
+          "openalex_id": "A5087164462",
+          "orcid": "https://orcid.org/0000-0002-9837-5016"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-07-01",
+      "abstract": "I want to begin with four quotations, which will, I hope, set the scene.The first is from a novel by J. M. Barrie called The Little White Bird, published in 1902 and containing in its central section a first version of what became the play and novel Peter Pan.A crusty bachelor secretly befriends a young couple and becomes attached to their little son David, whom he wants to borrow from them. Q 1When you release David's hand he is immediately lost like an arrow from the bow.No sooner do you cast eyes on him than you are thinking of birds.It is difficult to believe that he walks to the Kensington Gardens; he always seems to have alighted there: and were I to scatter crumbs I opine he would come and peck.[] David knows that all children in our part of London were once birds in the Kensington Gardens; and that the reason there are bars on nursery windows and a tall fender by the fire is because very little people sometimes forget that they have no longer wings, and try to fly away through the window or up the chimney.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "SAS-Space (University of London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://sas-space.sas.ac.uk/50/1/SEGAL%20e-repos%20Nov%2006%20%27Andr%C3%A9%20Gide%20and%20the%20Lost%20Boys%27.pdf"
+      },
+      "topics": [
+        "French Literature and Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1543960083"
+    },
+    {
+      "openalex_id": "W7133084998",
+      "doi": null,
+      "title": "&quot;Out of all this beauty something must come&quot;, Chaucer&apos;s place in Ezra Pound&apos;s &quot;Pisan Cantos&quot;",
+      "authors": [
+        {
+          "name": "Andrew Wallace",
+          "openalex_id": "A5127560797"
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": "grantor: University of Toronto",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "TSpace",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/2c1e2e5d-175d-414b-a550-0df8ad23108e/download"
+      },
+      "topics": [
+        "Poetry Analysis and Criticism",
+        "Modernist Literature and Criticism",
+        "American and British Literature Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7133084998"
+    },
+    {
+      "openalex_id": "W2206251505",
+      "doi": null,
+      "title": "Class Struggle and the 'Community of Families': The 1992 Dispute at Associated Pulp and Paper Mills",
+      "authors": [
+        {
+          "name": "Robert Tierney",
+          "openalex_id": "A5086909633",
+          "orcid": "https://orcid.org/0000-0003-4713-9803"
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-12-01",
+      "abstract": "The 1992 dispute at Associated Pulp and Paper Mills in Burnie, Tasmania, provides a useful case study of how the spouses of a predominantly male workforce can become heavily involved in class struggle. Women in unpaid work played an important and creative role in organising peaceful picketing and in securing a high degree of morale between and within families. This study also examines an obscure kind of involvement by the spouses of men in class struggle: the mobilisation against domestic violence. It considers why this apparently unique form of class and gender action took place and reflects on the implications for union strategies in periods of industrial conflict.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "NOVA (University of Newcastle Australia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1959.13/1048415"
+      },
+      "topics": [
+        "Labor Movements and Unions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2206251505"
+    },
+    {
+      "openalex_id": "W835535425",
+      "doi": null,
+      "title": "Such a Deal of Wonder: Structures of Feeling and Performances of The Winter's Tale from 1981 to 2002",
+      "authors": [
+        {
+          "name": "Elizabeth Marie Burt",
+          "openalex_id": "A5000997929"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "Structures of feeling represent the interaction between personal lived experience and fixed social values and meanings, which are found in interpretations of works of art. Studying various interpretations of any play in performance can provide a point of access into a culture because the choices made in the production can be compared to each other and to the written text and then reveal how the theatrical company views particular issues within their own time period. This study looks at productions of The Winter's Tale between 1981 and 2002 at the National Theatre and the Royal Shakespeare Company. Using numerous versions of this play not only increases the depth of our understanding of the play but also reveals how the actors and directors interact with British culture. Each production reveals a director's vision for the production as well as his or her own experience within the culture. Some issues and ideas that are reflected in these interpretations include both optimism and cynicism with regard to the political situation and public figures, an increase in spectacle, and secularization.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "ScholarsArchive  (Brigham Young University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarsarchive.byu.edu/etd/577"
+      },
+      "topics": [
+        "Theatre and Performance Studies",
+        "Theater, Performance, and Music History",
+        "Musicology and Musical Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W835535425"
+    },
+    {
+      "openalex_id": "W752660129",
+      "doi": null,
+      "title": "Scepticism and Metaphilosophy",
+      "authors": [
+        {
+          "name": "Derek Danny Smith",
+          "openalex_id": "A5061088766"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-06-01",
+      "abstract": "Scepticism, taken as a challenge to the possibility of justifying knowledge claims in general, has a history perhaps as long and varied as attempts to construct positive theories of knowledge. The relation that holds between scepticism and the rest of epistemology is often assumed to be straightforwardly adversarial. However, in light of the widespread \"end or transformation\" debate within epistemology in recent decades, the proliferation of sophisticated scholarship concerning scepticism and justification may be taken as a prima facie endorsement of the continuing vitality of traditional epistemology. The publication in 1984 of Barry Stroud's The Significance of Philosophical Scepticism, focused interest in the epistemological community on the burden of specifically modem (global, post-Cartesian, external world) scepticism. However, during the overlapping two decades since Significance, the influence of Richard Rorty's work (particularly Philosophy and the Mirror of Nature published in 1979) has led to a growing suspicion that epistemology has neither a stable nor defensible mandate. In this thesis, I try to connect the two discussions in a novel way, by arguing that the metaphilosophical problems arising from the stalemate I diagnose in the vibrant contemporary scepticism debate does not suggest that epistemology as a discipline is robustly healthy. I characterize metaphilosophical issues as a cluster of concerns involving the methodology, nature, aim, self image and criteria of satisfaction of doing philosophy. Most generally, metaphilosophy is a philosophical exploration of the nature of philosophy; more specifically, it deals with the expectations and aspirations of inquiry. David Hume is rightly remembered as a thoughtful exponent of the power of sceptical reasoning. More recently, he has been recognized for his influential attempt to develop a naturalistic theory of belief that serves to explain how we form and tenaciously cling to our most deeply held beliefs-despite our inability to rationally justify them. I contend that there are metaphilosophical lessons to be learned from Hume's struggle to maintain and defend the theoretical invulnerability of scepticism, despite his evident discomfort adjusting to the potential consequences of such a position. Michael Williams has been an insightful critic of the \"pessimism\" that he detects in the work of Stroud and \"the New Humeans.\" I outline the major issues in his exchange with Stroud, and evaluate the strengths of each position. I also argue that Williams' \"contextualism\" fails to rescue epistemology in any substantial way from the fundamental sceptical challenges that can be raised. For each of the central philosophers under consideration (David Hume, Barry Stroud, and Michael Williams), I construct an account of what I call their criteria of satisfaction. The specific classification of particular criteria is much less important here than the metaphilosophical lesson that I extract from the nature of the frequent clashes between different epistemologist's favoured criteria. Into the contemporary debate about modem scepticism, I introduce ancient sceptical concerns like the \"problem of the criterion\" and the Five Modes of Agrippa, which serve to illustrate the importance of long-standing sceptical metaphilosophical considerations for this discussion. I contend that these ancient problems can help clarify the nature of the contemporary stalement in the debate about modem scepticism. Even if epistemologists become dissatisfied with what they take to be the criteria of satisfaction of the traditional project, motivating the adoption of revised criteria of satisfaction will still encounter grave difficulties. Finally, I discuss possible morals to be drawn from the wider metaphilosophical concerns. I ultimately argue that the remarkably active state of contemporary literature about scepticism should not be mistaken as a straightforward positive indicator of the continued health of philosophical theories of knowledge. To the contrary, an examination of the metaphilosophical issues surrounding scepticism reveals even more urgent problems with the inherent variability and instability of epistemic criteria of satisfaction. An exploration of these issues threatens to lead if not to metaphilosophical scepticism, then at least to a thorough reevaluation of the nature and self-image of the epistemological project.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "MacSphere (McMaster University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11375/15813"
+      },
+      "topics": [
+        "Classical Philosophy and Thought",
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W752660129"
+    },
+    {
+      "openalex_id": "W640446617",
+      "doi": null,
+      "title": "Temperate and bloody nightingales: Derek Mahon's 'The Hudson Letter'",
+      "authors": [
+        {
+          "name": "Leslie Pearsall",
+          "openalex_id": "A5032081951"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-12-01",
+      "abstract": "s interest in the verse letter as a vehicle for informal reflection on larger themes showed itself early in his career, and in his first experiments -'Beyond Howth Head ' (1972) and 'The Sea in Winter' (1978) -with Auden's 'Letter to Lord Byron' (1936) and 'New Year Letter' (1940) as his models, he carved out an epistolary style that allowed him to be formal and relaxed, witty and profound, serious yet conversationally at ease, all within the same compass.Writing from the Yaddo artist's colony in upstate New York, he returned to the form in 1990 with 'The Yaddo Letter' 1 ) , a belated attempt by a divorced father to rebuild the bridges between himself and his teenaged children (to whom it is addressed), and one of the most painfully personal things he has ever published.Indeed, unlike in the earlier verse letters, he goes little out of his way to accommodate its second tier of readers, and in its skirting of selfpity and detailing of his failures as a father, the poem retains much of the feeling of a private letter.However, its publication was probably no afterthought (Mahon warns his children that he is thinking of reading it to a wider audience in its final lines).And if its self-revelatory candour seems a radical departure from the tightly-reined reticence we had come to expect of him, it is clearly of a piece with the greater personal openness that marks his recent work.In this respect it shares ground with its companion piece in The Hudson Letter volume, for the guilt, self-doubts and anxieties that surface in this less than successful poem anticipate the quasi-autobiographical mode of self-representation Mahon adopts for its title poem.'The Hudson Letter' (1995), spanning forty-four verse pages and eighteen sections, is his longest and by far his most ambitious venture in the epistolary genre.The approach is once more introspective, at times painfully so, but though there is some overlap with the earlier let-1) 'The Yaddo Letter' and 'The Hudson Letter' appear respectively on pp.27-31 and 35-77 of The Hudson",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Institutional Repositories DataBase (IRDB)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hju.repo.nii.ac.jp/record/805/files/ronsyu52pearsall.pdf"
+      },
+      "topics": [
+        "Irish and British Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W640446617"
+    },
+    {
+      "openalex_id": "W1778285173",
+      "doi": null,
+      "title": "'The enchanted garden': a changing image in children's literature",
+      "authors": [
+        {
+          "name": "Catherine Beck",
+          "openalex_id": "A5029076225",
+          "orcid": "https://orcid.org/0000-0002-4339-2388"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "This study is a historico-cultural examination of the role of the garden in literature written for children between 1850 and 2000.\\nThe garden is considered from two perspectives - as a setting for children's play, and as a cultural symbol that changes over time to reflect social concerns.\\nThe central assumption of this thesis is that the garden may be considered as a symbol of childhood itself. My main concern is to investigate the nature of the construct of childhood as evidenced in texts written at different periods, focussing on what it might have meant to be a child at those times. In doing so, I frequently have cause to contrast these definitions of \u2018childhood\u2019 with each other, and with contemporary ones.\\nThe notion of the garden suggests to me a series of \u2018structural oppositions\u2019 (Rose, 1984), such as innocence/experience, civilisation/nature, home/away, enclosure/exposure; all of which are typical concerns of literature in general, and, arguably, particularly significant themes in children's literature and thus pertinent to its study. I suggest that the garden as a common setting for children's literature also acts as a meeting-place, or compromise, for some of these pairings.\\nSince children are generally subject to adults, I consider that some of these oppositions can be regarded in terms of power and control. The thesis emphasises the \u2018constructedness\u2019 of such oppositions, in order to demonstrate the mythological - and often adult-serving - nature of much thinking about childhood.\\nI explore texts as diverse as Barrie's Peter Pan (1911) and Pullman's His Dark Materials (1995-2000) in order to illustrate changes in the mythology of childhood, and in the deployment of the icon of the child in the garden. The study concludes with a detailed exploration of Pearce's Tom's Midnight Garden (1958), which I believe expresses many symbolic meanings of the garden image in a particularly convincing way, with considerable artistic and emotional integrity.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "UPT. Syiah Kuala University Library (Syiah Kuala University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.nottingham.ac.uk/11235/1/401548.pdf"
+      },
+      "topics": [
+        "Themes in Literature Analysis",
+        "Folklore, Mythology, and Literature Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1778285173"
+    },
+    {
+      "openalex_id": "W2609910563",
+      "doi": "10.31390/gradschool_disstheses.7399",
+      "title": "Kate Chopin's Contribution to Realism and Naturalism: Reconsiderations of W. D. Howells, Maupassant, and Flaubert.",
+      "authors": [
+        {
+          "name": "Jean Witherow",
+          "openalex_id": "A5038371986",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "No one has previously undertaken a detailed examination of Kate Chopin's documented intertextuality with writers such as W. D. Howells, Hamlin Garland, Maupassant, and Flaubert. My purpose is to examine Chopin's works in the context of writers with whom she interacts and so to reveal her impact on the development of literary realism and naturalism. My study reveals that, though her mature writing eliminates sentimentalism, she never abandons romance elements residual from her youth. Her typically subjective narrator removes narrative authority, intensifies our involvement with characters, and validates the marginalized voice. Darwin and the philosophers temper her Catholicism, yet she maintains a sense of the divine and perennial nature of the force of love. Her acknowledgement of the influence of other writers reveals her sense of continuity as a means of understanding our selves. In Chopin's first novel, At Fault, she borrows a subplot of Howells's A Modern Instance to respond to the idealism Howells inveighs against even as his novel upholds it. From Howells's perspective, love as the basis for action is illusory and ideal. Chopin, understanding love as inherently human rather than as an ideal or abstract concept, critiques Howells's notion that, lacking love, the ideal of marriage should be upheld. Appreciating Maupassant's freedom of expression, Chopin departed from American models and responded instead to his stories. Richard Fusco reveals in detail how Chopin emulated Maupassant's structures. Within those structures, she more efficiently expresses the force of love in her stories. We can use Fusco's schema to examine Chopin's conscious dialogic engagement as she focuses not on Maupassant's larger concerns with an uncaring bourgeoisie, but on narrower concerns, typically within the female consciousness. Chopin finally returns to the novel form with The Awakening, a reconsideration of Flaubert's Madame Bovary. Emma Bovary experiences no awakening, retaining romantic misconceptions. Edna awakens to the need to escape temporal limitations. Chopin pleads for the romantic vision and the necessity of understanding one's inner reality. Under the influence of these writers, Chopin demonstrates continuity, forms a link between French and American realism and naturalism, and contributes to the movement toward \"soft\" naturalism.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=8398&context=gradschool_disstheses"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Literary, Cultural, Historical Analysis",
+        "Literature, Musicology, and Cultural Analysis"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W2609910563"
+    },
+    {
+      "openalex_id": "W60173932",
+      "doi": null,
+      "title": "Reversed perspectives : a re-examination of the later novels of William Wilkie Collins",
+      "authors": [
+        {
+          "name": "Sally Poulson",
+          "openalex_id": "A5047126153"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-04-01",
+      "abstract": "Although a considerable amount of research has been done on Collins's sensation fiction, very little&#13;\\ncritical attention has been paid to his later novels. Of those critics who have chosen to consider his&#13;\\npost-1870 fiction, the majority have dismissed it as so inferior to his early works as to be best&#13;\\npassed over as quickly as possible. Some feel that, without Dickens to guide his pen, Collins was&#13;\\nmcapable of writing anything worth reading; others suspect that the influence of Charles Reade was&#13;\\nas detrimental to Collins's talent as Dickens's had been beneficial; yet more deCided that laudanum&#13;\\nhad fogged both his mind and his literary imagination. The purpose of this thesis is to refute these&#13;\\nclaims, and to establish that Collins's later works remain of great interest from both a literary and a&#13;\\nsocial point of view.&#13;\\nThe thesis is divided into seven sections-an Apology, an Introduction, four chapters, and a&#13;\\nconclusion.&#13;\\nThe Apology sets out to examine the modern hostility towards the novels written in the last two&#13;\\ndecades of his life, and to show how this frequently varies from contemporary opinion. As I do not&#13;\\nascribe to the theory that Collins's novels reveal a steady decline over the years, I have chosen not&#13;\\nto adopt a chronological examination of his works, but rather a thematic one, which illustrates the&#13;\\nconsistency of his philosophy.&#13;\\nThe Introduction attempts to show that the difference between what is popularly called Collins's&#13;\\n'sensation' fiction and his 'thesis' novels is not so hard and fast as has often been maintained. It&#13;\\nalso introduces the ideas which will be developed throughout the thesis, namely that, by the&#13;\\nsublation of many of the binary oppositions we have come to connect with Victorian literaturemasculine/&#13;\\nfeminine, good/evil, hero/villain-Collins's works provide a reversed perspective on his&#13;\\nsociety.&#13;\\nChapter 1, 'Good Girls', conSiders Heart and Science (1883), The Two Destinies (1876), and Man and&#13;\\nWife (1870). The second half of the nineteenth century was, for women, a time of upheaval; the&#13;\\nAngel in the House had been superseded by her more dynamic and independent sister, whose&#13;\\ninadequacy as a role-model was a frequent theme in much of the literature of the time. Whilst&#13;\\nsociety was attempting to maintain the status quo by demanding that men be men and women&#13;\\nsubservient, these three novels stand out as defying-or, at least, ridiculing-convention on almost&#13;\\nall gender-related levels.&#13;\\nChapter 2, 'Fallen Women', concentrates upon The Evil Genius (1886), The New Magdalen (1873), and&#13;\\nThe Fallen Leaves (1879). Collins was not the only author to deal with the subject of women who&#13;\\ntransgressed the moral code, but he was one of the few who had the courage to stand by his fallen&#13;\\nwomen until the end. Rather than sentencing them to a penitential death, he allows them, reformed&#13;\\nand unsullied by their previous degradation, to marry and reclaim their place in society. Moreover,&#13;\\nhe also shows that it is frequently those representatives of respectable society whose actions and&#13;\\nattitudes are much more at fault than those of the women they choose to censure.&#13;\\nChapter 3, 'Wicked Creatures', is a long chapter which analyses '[ Say No' (1884), Blind Love (1890),&#13;\\nThe Legacy of Cain (1888), and Jezebel's Daughter (1880). Collins's deep-seated belief in the duality&#13;\\nof human nature, which has already been suggested in the previous chapters, is here more fully&#13;\\nexplored. Just as his 'heroines' have been seen to defy their conventional roles, rising gracefully&#13;\\nabove the tribulations of pregnancy, prostitution, and persecution, so too do his villainesses flout&#13;\\nthe rules by which such wicked creatures should more properly be governed. His household devils&#13;\\nare no more wholly demonic than his domestic angels are wholly sublime.&#13;\\nChapter 4, 'Other Men', discusses Poor Miss Finch (1872), The Black Robe (1881), and The Law and The&#13;\\nLady (1875). Not only were women expected by contemporary society to comply with an ideal, but&#13;\\nmen also found themselves being exhorted to conform to an active and dominant masculine&#13;\\narchetype. The novels examined in this chapter shows the consequences of the failure to live up to&#13;\\nthese frequently impossible standards. Rather than adhere to the binary oppositions of&#13;\\nselfless/selfish, wise/foolish, strong/weak, Collins presents his reader with composite figures who&#13;\\nare, perhaps, truer to human nature than literature usually allows.&#13;\\nThe ConclUSion draws together the threads of the previous chapters. It also looks at Collins as a&#13;\\nnineteenth-century writer with surprisingly modern ideas, and examines Collins's literary legacy,&#13;\\nwhich is more usually to be found in the field of popular fiction.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Warwick Research Archive Portal (University of Warwick)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://wrap.warwick.ac.uk/51480/1/WRAP_THESIS_Poulson_2000.pdf"
+      },
+      "topics": [
+        "Literature, Film, and Journalism Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W60173932"
+    },
+    {
+      "openalex_id": "W4248032802",
+      "doi": "10.24124/2000/bpgub165",
+      "title": "Representations of community in Toni Morrison's fiction",
+      "authors": [
+        {
+          "name": "Darlene Rose Shatford",
+          "openalex_id": "A5043177610",
+          "institutions": [
+            "University of Northern British Columbia"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "In this thesis, I propose a study of Toni Morrison's novels with attention to her fictional representations of African-American communities. I demonstrate how she contests constructions of a homogeneous American communal identity through representations of diverse African-American experiences. Further, I examine the processes of communal identification depicted in her work. Some literary critics have analyzed Morrison's representations of community as either a hindrance or a help in the development of individual characters. But, because Morrison's communities are situated in different regions and decades, and formed under different circumstances, my study of her novels involves an exploration into how, why, and where these communities are formed with attention to space, place, history, and function. I argue that the communal spaces, places, and identities in the novels The Bluest Eye, Sula, and Paradise are constructed by, and out of, social interactions. I also demonstrate how communal identity is a process, not a product, and how it is consistently and continually subject to the forces of history, culture, and power. This particular perspective on identity demands an acknowledgment of the past and how it informs the present, but it also demands a recognition of the ways in which communities are constructed relationally. I also explore the significance of history, memory, and storytelling in Jazz, Tar Baby, and Beloved. I point to how these elements are vital to processes of healing and how they are important to the survival of her varied communities.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://unbc.arcabc.ca/islandora/object/unbc%3A16687/datastream/PDF/view"
+      },
+      "topics": [
+        "Latin American and Latino Studies",
+        "Race, History, and American Society",
+        "Rhetoric and Communication Studies"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W4248032802"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

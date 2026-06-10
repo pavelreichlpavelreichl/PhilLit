@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Consciousness-Raising or Rescuing Critique...' author=Habermas year=1983
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Consciousness-Raising or Rescuing Critique",
+    "author": "Habermas",
+    "year": 1983
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (26.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/40156213
+[verify_paper.py] DOI verified: The Complete Correspondence, 1928-1940...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/40156213"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/40156213",
+      "title": "The Complete Correspondence, 1928-1940",
+      "authors": [
+        {
+          "family": "Gross",
+          "given": "David S."
+        },
+        {
+          "family": "Adorno",
+          "given": "Theodor W."
+        },
+        {
+          "family": "Benjamin",
+          "given": "Walter"
+        },
+        {
+          "family": "Lonitz",
+          "given": "Henri"
+        },
+        {
+          "family": "Walker",
+          "given": "Nicholas"
+        }
+      ],
+      "editors": [],
+      "year": 2000,
+      "container_title": "World Literature Today",
+      "volume": "74",
+      "issue": "4",
+      "page": "857",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/40156213"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

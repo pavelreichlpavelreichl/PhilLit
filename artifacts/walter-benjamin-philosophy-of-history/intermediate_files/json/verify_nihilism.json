@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Messianic Nihilism Benjamin...' author=Hirvonen year=2018
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Messianic Nihilism Benjamin",
+    "author": "Hirvonen",
+    "year": 2018
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

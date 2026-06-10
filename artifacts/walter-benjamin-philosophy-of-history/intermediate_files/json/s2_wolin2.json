@@ -1,0 +1,40 @@
+[s2_search.py] Searching Semantic Scholar: 'Richard Wolin Walter Benjamin aesthetics politics messianism terms cultural criticism' (year=1980-2025), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_2fec5a99f35baaf3)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Richard Wolin Walter Benjamin aesthetics politics messianism terms cultural criticism",
+  "results": [
+    {
+      "paperId": "c479ee28b8c6ac571200e6316ee2010963d91961",
+      "title": "The Heidegger Controversy: A Critical Reader",
+      "authors": [
+        {
+          "name": "R. Wolin",
+          "authorId": "46344218"
+        },
+        {
+          "name": "M. Heidegger",
+          "authorId": "52398400"
+        }
+      ],
+      "year": 1994,
+      "abstract": null,
+      "citationCount": 238,
+      "doi": "10.2307/1432507",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c479ee28b8c6ac571200e6316ee2010963d91961",
+      "venue": "",
+      "journal": {
+        "name": "German Studies Review",
+        "pages": "415",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Desideri monad apokatastasis messianic world Benjamin' (field=Philosophy), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_253e3448f61e117d)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Desideri monad apokatastasis messianic world Benjamin",
+  "results": [
+    {
+      "paperId": "88e1d5865acbd115cbd6f72006d7a73a7e6683d7",
+      "title": "\u201cIntermittency: the differential of time and the integral of space. The intensive spatiality of the Monad, the Apokatastasis and the Messianic World in Benjamin's latest thinking\u201d",
+      "authors": [
+        {
+          "name": "F. Desideri",
+          "authorId": "2058556849"
+        }
+      ],
+      "year": 2016,
+      "abstract": "The main topic of my paper concerns the theological-philosophical nexus between the intensive and qualitative spatiality of the Monad and the Origenian idea of Apokatastasis as a nexus that can clarify Benjamin's latest idea of the Messianic World. The first step will be, therefore, to explain (1) Benjamin's use of the Origenian notion of Apokatastasis in his Essay on Leskov and in the Passagenwerk. Secondly, I will discuss (2) how and to what extent such use is relevant for Benjamin's idea of Messianism. Thirdly, I will propose (3) the thesis that, for Benjamin, a messianic idea of time implies a monadological idea of space. In this regard, the relationship between continuity and discontinuity, which is crucial to understand the late Benjamin's idea of history, must be understood precisely as a dialectical relationship that involves not only time but also space. (4 ) The figure of intermittence \u2013 as we shall see \u2013 expresses in the most suitable way the intertwining of space and time as dialectically and \u00a0messianicaly oriented. This sequence of logical steps and critical considerations will shed light on the true nature of Benjamin's idea of dialectics and on its relationship to the idea of the totality. The real term of confrontation of Benjamin's late philosophy (from the Passagenwerk to the Theses on the concept of history) does not concern, therefore, Heidegger, but Hegel. In the light of this confrontation, Heidegger's Being and Time is already in pieces. It is as it were \u2013 we can say \u2013 behind Benjamin's movement of thought.",
+      "citationCount": 2,
+      "doi": "10.13128/AISTHESIS-18241",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/88e1d5865acbd115cbd6f72006d7a73a7e6683d7",
+      "venue": "Aisthesis. Pratiche, linguaggi e saperi dell\u2019estetico",
+      "journal": {
+        "name": "Aisthesis. Pratiche, linguaggi e saperi dell\u2019estetico"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

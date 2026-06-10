@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Historical Materialism or Political Messianism An ...' author=Tiedemann year=1983
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Historical Materialism or Political Messianism An Interpretation of the Theses On the Concept of History",
+    "author": "Tiedemann",
+    "year": 1983
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (21.1) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

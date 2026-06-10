@@ -1,0 +1,645 @@
+[search_openalex.py] Searching OpenAlex: 'Habermas Philosophical Political Profiles Benjamin 1983' (year=1980-1990), limit=25
+[search_openalex.py] Retrieved 7 papers...
+[search_openalex.py] Search complete: 7 papers found
+[search_openalex.py] Cached results (cache key: openalex_1340a2dec7fe1393)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Habermas Philosophical Political Profiles Benjamin 1983",
+  "results": [
+    {
+      "openalex_id": "W2065965577",
+      "doi": "10.1086/229066",
+      "title": "The Normative Foundations of Emancipatory Theory: Evolutionary Versus Pragmatic Perspectives",
+      "authors": [
+        {
+          "name": "Robert J. Antonio",
+          "openalex_id": "A5032536828",
+          "orcid": "https://orcid.org/0000-0001-9617-5881",
+          "institutions": [
+            "University of Kansas"
+          ]
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-01-01",
+      "abstract": "From the start, emancipatory theory has been plagued by contradictory and incompletely elaborated normative underpinnings that weaken its sociological and ethical credibility. Jurgen Habermas, the leading contemporary critical theorist, has attempted to address this problem in an extensive reconstruction of the theories of Marx and Weber that appropriates elements of American pragmatist thought. Yet he resorts to an evolutionary normative argument that undermines the sociological powers of the two classical theories and contradicts the pragmatists' historical approach to values. This essay explains the significance of Habermasian theory for the emancipatory tradition, analyzes certain problems of the theory, and argues that an expanded dialogue with American pragmatism would strengthen both its sociological and its normative dimensions. Though the explicit focus is on the emancipatory tradition, the essay raises broader critical questions about pseudohistorical, normative justification in general sociological theory.",
+      "cited_by_count": 62,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Sociology",
+        "type": "journal",
+        "issn": [
+          "0002-9602",
+          "1537-5390"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/229066"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Weber, Simmel, Sociological Theory",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 112,
+      "url": "https://openalex.org/W2065965577"
+    },
+    {
+      "openalex_id": "W1980915670",
+      "doi": "10.1017/s0020859000009469",
+      "title": "Tyranny, Work and Politics: The 1818 Strike Wave in the English Cotton District",
+      "authors": [
+        {
+          "name": "Robert G. Hall",
+          "openalex_id": "A5108482662",
+          "orcid": "https://orcid.org/0000-0001-8556-5016"
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-12-01",
+      "abstract": "SUMMARY Critics of E. P. Thompson have questioned his emphasis on the ties between radicalism and trade unionism in early nineteenth-century England; historians have likewise described the 1818 strikes as simple wage disputes in which the radicals played a negligible role. This essay challenges these assumptions about the 1818 strikes and radicalism. In the summer of 1818, when a wide range of grievances touched off the strike wave, the radicals rallied to the side of the trades and sometimes served as leaders of the strikes; that summer the radicals and striking trades also drew upon and contributed to a shared repertoire of old and new tactics and forms of action.",
+      "cited_by_count": 17,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CAAEC3B9B200726AEEE551BE0A2419B9/S0020859000009469a.pdf/div-class-title-tyranny-work-and-politics-the-1818-strike-wave-in-the-english-cotton-district-a-href-fn01-ref-type-fn-a-div.pdf"
+      },
+      "topics": [
+        "Historical Economic and Social Studies",
+        "Labor Movements and Unions"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W1980915670"
+    },
+    {
+      "openalex_id": "W36895788",
+      "doi": "10.25959/23235833",
+      "title": "Elite democracy: Political competition and voter opinion in the 2010 Australian Federal election",
+      "authors": [
+        {
+          "name": "Christopher P. Jones",
+          "openalex_id": "A5036209131",
+          "orcid": "https://orcid.org/0000-0001-6633-9494"
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-07-01",
+      "abstract": "This research investigates the voter-leader nexus by examining the extent to which public opinion mirrors the political attitudes and pronouncements of political elites in Australia. While aggregative-pluralist scholars regard voters as holders of exogenous preferences and political elites as aggregators of these preferences, neo-elitists regard public opinion as actively shaped and manufactured by competitive elites seeking election to political office. These perspectives, while both compelling, are mutually exclusive. Using the 2010 Federal Election campaign as a case study, the research employs a mixed methods approach to compare the plausibility of the two perspectives. The empirical part involves: (a) comparison of the structure of voters' political attitudes with those of parliamentary candidates drawing upon the 1990 - 2010 Australian Election Studies and Australian Candidate Studies; and (b) qualitative analysis of the dynamics of leader-voter interaction through the use of innovative 'political logs' kept by participants during the 2010 election campaign. The quantitative analysis confirms the neo-elitist proposition that Labor and Coalition elites polarise more strongly on left-right issues than on authority issues, a finding that holds across the 20-year sampled period. The qualitative analysis shows that while participants generally have high levels of political awareness, their political autonomy is low \u201a\u00c4\u00f6- as their information is sourced from leaders and parties, and voter agendas increasingly correspond with those of leaders toward the end of the campaign. This study finds that Australian democracy is far more elite-driven than is currently acknowledged. I conclude that contemporary democracy is characterised by an asymmetrical and elite-dominated social process of persuasion in strategic competition for control of the state. My research contributes to political sociology, demonstrating that political logs offer a valuable supplement to surveys by allowing researchers to examine the dynamics of the voter-leader nexus.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Frontiers in Cell and Developmental Biology",
+        "type": "journal",
+        "issn": [
+          "2296-634X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.utas.edu.au/18678/1/Whole-Jones-thesis.pdf"
+      },
+      "topics": [
+        "Electoral Systems and Political Participation",
+        "Social Media and Politics",
+        "Political Influence and Corporate Strategies"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W36895788"
+    },
+    {
+      "openalex_id": "W4252998511",
+      "doi": "10.1017/s0003055400256384",
+      "title": "PSR volume 78 issue 4 Cover and Front matter",
+      "authors": [
+        {
+          "name": "David Mason",
+          "openalex_id": "A5053880209",
+          "orcid": "https://orcid.org/0000-0002-1382-4688"
+        },
+        {
+          "name": "Randolph M. Siverson",
+          "openalex_id": "A5011416424",
+          "orcid": "https://orcid.org/0000-0001-9815-5745"
+        },
+        {
+          "name": "Michael R. Tennefoss",
+          "openalex_id": "A5089297376"
+        },
+        {
+          "name": "Graham Maddox",
+          "openalex_id": "A5049774353"
+        },
+        {
+          "name": "A To Dahl",
+          "openalex_id": "A5114015919"
+        },
+        {
+          "name": "Lindblom Manley",
+          "openalex_id": "A5110907760"
+        },
+        {
+          "name": "A Reply",
+          "openalex_id": "A5094412109"
+        },
+        {
+          "name": "Michael Morris",
+          "openalex_id": "A5112826530"
+        },
+        {
+          "name": "Edward A. Kolodziej",
+          "openalex_id": "A5109287393"
+        },
+        {
+          "name": "Robert E. Harkavy",
+          "openalex_id": "A5010931398"
+        },
+        {
+          "name": "Steven M. Seitz",
+          "openalex_id": "A5068254275",
+          "orcid": "https://orcid.org/0009-0000-4214-4078"
+        },
+        {
+          "name": "Paulette Mandelbaum",
+          "openalex_id": "A5022544534"
+        },
+        {
+          "name": "Laurence O\u2019Toole",
+          "openalex_id": "A5112100648"
+        },
+        {
+          "name": "Matthew A. Crenson",
+          "openalex_id": "A5042564501"
+        },
+        {
+          "name": "Politics Neighborhood",
+          "openalex_id": "A5095602235"
+        },
+        {
+          "name": "Bruce R. Donald",
+          "openalex_id": "A5046723017",
+          "orcid": "https://orcid.org/0000-0001-6884-4398"
+        },
+        {
+          "name": "Pa\u00fal David",
+          "openalex_id": "A5110891946",
+          "orcid": "https://orcid.org/0009-0007-8091-5022"
+        },
+        {
+          "name": "Mark P. Petracca",
+          "openalex_id": "A5069110294"
+        },
+        {
+          "name": "John E. Randall",
+          "openalex_id": "A5110890654"
+        },
+        {
+          "name": "Susan B. Hansen",
+          "openalex_id": "A5088760701",
+          "orcid": "https://orcid.org/0000-0002-3385-8025"
+        },
+        {
+          "name": "J. P. Den Hartog",
+          "openalex_id": "A5109225766"
+        },
+        {
+          "name": "Hendrik Public",
+          "openalex_id": "A5095602236"
+        },
+        {
+          "name": "James J. Hastie",
+          "openalex_id": "A5108807843"
+        },
+        {
+          "name": "Steven Penrod",
+          "openalex_id": "A5032125573",
+          "orcid": "https://orcid.org/0000-0002-3531-8989"
+        },
+        {
+          "name": "Nancy Pennington",
+          "openalex_id": "A5103357118"
+        },
+        {
+          "name": "John Patrick",
+          "openalex_id": "A5113457403"
+        },
+        {
+          "name": "H.A. Hopkins",
+          "openalex_id": "A5088851651"
+        },
+        {
+          "name": "Robert W. Jackman",
+          "openalex_id": "A5043973552"
+        },
+        {
+          "name": "Robert W. Jackman",
+          "openalex_id": "A5043973552"
+        },
+        {
+          "name": "Tom Kash",
+          "openalex_id": "A5095602237"
+        },
+        {
+          "name": "Robert W. Rycroft",
+          "openalex_id": "A5012188866"
+        },
+        {
+          "name": "Eric M. Uslaner",
+          "openalex_id": "A5029768356"
+        },
+        {
+          "name": "Ernest Collins",
+          "openalex_id": "A5045175334"
+        },
+        {
+          "name": "Nancy E. McGlen",
+          "openalex_id": "A5041933988"
+        },
+        {
+          "name": "Richard Guarasci",
+          "openalex_id": "A5070510895"
+        },
+        {
+          "name": "John Mollenkopf",
+          "openalex_id": "A5071584555"
+        },
+        {
+          "name": "City The Contested",
+          "openalex_id": "A5095602238"
+        },
+        {
+          "name": "Bennett Larry",
+          "openalex_id": "A5095602239"
+        },
+        {
+          "name": "Frederick C. Mosher",
+          "openalex_id": "A5015031249"
+        },
+        {
+          "name": "Carl Grafton",
+          "openalex_id": "A5024983730"
+        },
+        {
+          "name": "John R. Nimmo",
+          "openalex_id": "A5039026636",
+          "orcid": "https://orcid.org/0000-0001-8191-1727"
+        },
+        {
+          "name": "David Polsby",
+          "openalex_id": "A5095602240"
+        },
+        {
+          "name": "William Lasser",
+          "openalex_id": "A5086403579"
+        },
+        {
+          "name": "James Jack",
+          "openalex_id": "A5112497222"
+        },
+        {
+          "name": "Phillip Wall",
+          "openalex_id": "A5113626354"
+        },
+        {
+          "name": "Robert Polls",
+          "openalex_id": "A5095602241"
+        },
+        {
+          "name": "Apart Permaloff",
+          "openalex_id": "A5095602242"
+        },
+        {
+          "name": "Phillip Wall",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robert Polls",
+          "openalex_id": ""
+        },
+        {
+          "name": "Apart Permaloff",
+          "openalex_id": ""
+        },
+        {
+          "name": "Charles Nagy",
+          "openalex_id": ""
+        },
+        {
+          "name": "Philip Mawhood",
+          "openalex_id": ""
+        },
+        {
+          "name": "George Ross",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Philip",
+          "openalex_id": ""
+        },
+        {
+          "name": "Bo Sarlvik",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ivor Crewe",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ann Willner",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ruth",
+          "openalex_id": ""
+        },
+        {
+          "name": "Michael Useem",
+          "openalex_id": ""
+        },
+        {
+          "name": "S",
+          "openalex_id": ""
+        },
+        {
+          "name": "U Philip",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Burch",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robert L ; Ayers",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Robert",
+          "openalex_id": ""
+        },
+        {
+          "name": "Mary Kritz",
+          "openalex_id": ""
+        },
+        {
+          "name": "Festus Ohaegbulum",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ogboaja",
+          "openalex_id": ""
+        },
+        {
+          "name": "Stephen Szabo",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Shawky",
+          "openalex_id": ""
+        },
+        {
+          "name": "Aaron Wildavsky",
+          "openalex_id": ""
+        },
+        {
+          "name": "Tom Bottomore",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jeffery Cohen",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jean",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Peter",
+          "openalex_id": ""
+        },
+        {
+          "name": "Gerber",
+          "openalex_id": ""
+        },
+        {
+          "name": "G ; Larry",
+          "openalex_id": ""
+        },
+        {
+          "name": "Bernard Henry Stimson",
+          "openalex_id": ""
+        },
+        {
+          "name": "Donald Baruch",
+          "openalex_id": ""
+        },
+        {
+          "name": "Richburg",
+          "openalex_id": ""
+        },
+        {
+          "name": "Nancy Hartsock",
+          "openalex_id": ""
+        },
+        {
+          "name": "Money",
+          "openalex_id": ""
+        },
+        {
+          "name": "Norman Dorsen",
+          "openalex_id": ""
+        },
+        {
+          "name": "Richard Gabriel",
+          "openalex_id": ""
+        },
+        {
+          "name": "Mark Huddleston",
+          "openalex_id": ""
+        },
+        {
+          "name": "Harold Keele",
+          "openalex_id": ""
+        },
+        {
+          "name": "Joseph Kiger",
+          "openalex_id": ""
+        },
+        {
+          "name": "John Mill",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Stuart ; John",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robson",
+          "openalex_id": ""
+        },
+        {
+          "name": "Lloyd Nigro",
+          "openalex_id": ""
+        },
+        {
+          "name": "Andrew Sharp",
+          "openalex_id": ""
+        },
+        {
+          "name": "William Slany",
+          "openalex_id": ""
+        },
+        {
+          "name": "Theodore Taylor",
+          "openalex_id": ""
+        },
+        {
+          "name": "Thaddeus Trenn",
+          "openalex_id": ""
+        },
+        {
+          "name": "Robert Worcester",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 1984,
+      "publication_date": "1984-12-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. As you have access to this content, a full PDF is available via the \u2018Save PDF\u2019 action button.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "American Political Science Review",
+        "type": "journal",
+        "issn": [
+          "0003-0554",
+          "1537-5943"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/817941DC5E0398DA270D64DD282F0BCB/S0003055400256384a.pdf/div-class-title-psr-volume-78-issue-4-cover-and-front-matter-div.pdf"
+      },
+      "topics": [
+        "Diverse Scientific and Economic Studies",
+        "Legal case studies and regulations"
+      ],
+      "referenced_works_count": 78,
+      "url": "https://openalex.org/W4252998511"
+    },
+    {
+      "openalex_id": "W1512562571",
+      "doi": null,
+      "title": "Listening to Tribal Legends: An Essay on Law and the Scientific Method",
+      "authors": [
+        {
+          "name": "Nancy Levit",
+          "openalex_id": "A5043089711",
+          "institutions": [
+            "University of Missouri\u2013Kansas City"
+          ]
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-01-01",
+      "abstract": "Much of jurisprudence is storytelling, recounting tales of what has gone before; improvising and crafting new stories of legal theory from old ones. Useful kernels are passed from one generation of legal thinkers to the next. Like tribal legends, the messages in many stories of jurisprudence can be understood only by a select audience. Legends often come with morals; theories of jurisprudence often impart prescription for living within the law. Jurisprudence, like legends, concerns fundamental issues, confronts cosmic questions and weaves in magic. Sometimes both possess humor as well.\\nUnfortunately, some modern versions of jurisprudential theories have become anecdotal. The legal storytellers engage in revisionist tales of history and the listeners selectively perceive. In many ways, we are not listening to our tribal legends. One of the stories of jurisprudence is of law and science. It is the tale of two tribes, each with its own legends, prescriptions and imagery. Different schools of jurisprudence have treated science in legal theory in varied ways. There have been scattered attempts to apply scientific frameworks to law to explain or predict outcomes, analyze data or support propositions relating to substantive issues. Some discuss ways in which the scientific model can operate on the decisional level. There has been no systematic attempt, however, to define the modern scientific method in the context of law or to analyze its application to jurisprudence. Recent jurisprudential theories contrast science with practical reason. Consequently, there is significant controversy over the use of the scientific method in jurisprudence.\\nThis Article observes that the use of science in law has been limited by the assumption that principles of scientific inquiry must be abandoned when law faces value choices. It posits that the scientific method's criteria of validation can apply to decision about values as well as facts. It makes the claim that the principles of scientific inquiry are essentially criteria of rationality. To the extent that the goal of law is rationality, legal theory should follow the criteria contained in and adopt the values implied by the scientific method. This Article does not attempt to articulate a comprehensive theory of science, law or the intersection of the two; nor does it offer a positive program of scientific adjudications for decisionmakers. Its goal is to entice both jurists and theorists to think more systematically and self-analytically about their theories, reasoning, conclusions and areas of ignorance. This Article suggests that attention to the principles of scientific inquiry is one method of improving the rationality of legal decisions and theories.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Fordham law review",
+        "type": "journal",
+        "issn": [
+          "0015-704X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2859&context=flr"
+      },
+      "topics": [
+        "Legal Education and Practice Innovations",
+        "Legal Systems and Judicial Processes"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1512562571"
+    },
+    {
+      "openalex_id": "W828232026",
+      "doi": null,
+      "title": "Aesthetics in the Age of Reason",
+      "authors": [
+        {
+          "name": "Louis Rochon",
+          "openalex_id": "A5074458286"
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-01-01",
+      "abstract": "This thesis examines the societal forces which have helped shape the present-day form of the institutionalization, criticism, and appreciation of art. Specifically, it examines the influence of modern thought on our present understanding of art. First, we examine how modernists have typically 100ked at art. Both the enlightening aspects as well as the deficiencies of modernist aesthetics are uncovered. Also, with the help of Jurgen Habermas, we examine a modernist societal approach to aesthetics. Second, the fundamental philosophical presuppositions of modernity are uncovered so that the societal forces that have helped to make art an autonomous institutionalized field of expertise can be examined. In passing, we discuss the concept of \"lifeworld\". We then examine the explanatory powers of considering the arts as forms of language. Third, as Habermas's social theory indicates, an excursion into the theory of argumentation provides indications of the mechanisms involved in the understanding of art. We consider the rhetorical, dialectical, and logical aspects of both non-verbal and linguistic argumentation. This provides us with a forum for discussing Habermas' s notion of an ideal speech situation, Gadamer's concept of the various modes of iii experiencing tradition and its parallel with the experiencing of art, and Quine's thesis of the indeterminacy of translation and what it implies for non-verbal forms of art. Fourth, we examine the implications and explanatory powers of Habermas's three-world distinction, which is, in turn, derived from the modernist presupposition of the distinction between subject and object. With these distinctions, we can see that the existence of a highly specialized field of expertise surrounding art and notions such as \"art for art's sake\" are not accidental. To conclude, we examine emotional life and its implications for modern notions of art.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "MacSphere (McMaster University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11375/13714"
+      },
+      "topics": [
+        "Ethics, Aesthetics, and Art",
+        "Law in Society and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W828232026"
+    },
+    {
+      "openalex_id": "W116386514",
+      "doi": null,
+      "title": "Defining a Social Problem: A Sociohistorical Analysis of the Antinuclear Weapons Movement",
+      "authors": [
+        {
+          "name": "Frances B. McCrea",
+          "openalex_id": "A5035715782"
+        }
+      ],
+      "publication_year": 1988,
+      "publication_date": "1988-01-01",
+      "abstract": "This dissertation is a sociohistorical analysis of the anti-nuclear weapons movement in the United States. This work conceptualizes social movements in advanced industrial societies by synthesizing certain aspects of social constructionism, resource mobilization and new class theory. The synthesis argues that progressive social movements are a form of class conflict in which members of the new class challenge the old elite for the control of cultural capital. Such movements are created, in part, by issue entrepreneurs, many of whom are intellectuals. The success or failure of any social movement organization is dependent on its own tactics and strategies, as well as the official response of social control agencies.\\nThe research design is a sociohistorical, comparative case study. Both qualitative and quantitative methods are employed for data analysis. Extensive content analysis of documents and interviews with key actors are supplemented with a critical analysis of a wide variety of primary and secondary data.\\nAll major antinuclear weapons protest, particularly the Atomic Scientists Movement of the 1940s, the Ban-the-Bomb Movement of the 1950s and 1960s, and the Freeze Movement of the 1980s, shared similar characteristics, and experienced similar problems. Each was founded by intellectuals; each operated on liberal and pluralistic assumptions; and each used education, political lobbying and electoral politics as primary strategies and tactics. After initial successes, each was ultimately coopted by the government and declined.\\nThe findings are congruent with the theoretical synthesis. Antinuclear weapons protest is best understood as a new class phenomenon, in which intellectuals have mobilized resources to challenge the ruling elite. Movements have become increasingly professionalized and dependent on foundation support. The most noteworthy success of the movement was the ability of the Freeze Movement to define the nuclear weapons arms race as the paramount social problem of the 1980s. Yet, though the protest has succeeded in challenging the legitimacy of the ruling apparatus, successes of the movement have been mostly symbolic.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "ScholarWorks - WMU (Western Michigan University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.wmich.edu/dissertations/2175"
+      },
+      "topics": [
+        "American Political and Social Dynamics",
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W116386514"
+    }
+  ],
+  "count": 7,
+  "errors": []
+}

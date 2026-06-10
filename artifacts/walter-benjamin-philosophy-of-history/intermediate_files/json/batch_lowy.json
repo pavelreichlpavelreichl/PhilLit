@@ -1,0 +1,40 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "81e0d5c85216208324edd907f17ea2e819846e3c",
+      "title": "Fire Alarm: Reading Walter Benjamin's 'On the Concept of History'",
+      "authors": [
+        {
+          "name": "M. L\u00f6wy",
+          "authorId": "1846283516"
+        },
+        {
+          "name": "Christena L. Turner",
+          "authorId": "32956948"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 176,
+      "doi": "10.5860/choice.44-0872",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81e0d5c85216208324edd907f17ea2e819846e3c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "81e0d5c85216208324edd907f17ea2e819846e3c"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

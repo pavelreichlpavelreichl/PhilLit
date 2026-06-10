@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4324/9781315840680-4"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9781315840680-4",
+      "title": "The politics of time",
+      "authors": [
+        {
+          "family": "Osborne",
+          "given": "Peter"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Literature and the Contemporary",
+      "volume": "",
+      "issue": "",
+      "page": "36-49",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4324/9781315840680-4"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

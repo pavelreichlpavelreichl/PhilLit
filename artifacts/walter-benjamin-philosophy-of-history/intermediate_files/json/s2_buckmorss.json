@@ -1,0 +1,59 @@
+[s2_search.py] Searching Semantic Scholar: 'Buck-Morss dialectics of seeing Benjamin Arcades cognitive aesthetics' (year=1988-2020) (field=Philosophy), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_43518cdeca339bb5)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Buck-Morss dialectics of seeing Benjamin Arcades cognitive aesthetics",
+  "results": [
+    {
+      "paperId": "c34925dd09c3cc6b9ed964c190d8921b1d2db4d3",
+      "title": "Aesthetics after the End of Art",
+      "authors": [
+        {
+          "name": "Grant H. Kester",
+          "authorId": "49352979"
+        }
+      ],
+      "year": 1997,
+      "abstract": null,
+      "citationCount": 33,
+      "doi": "10.1080/00043249.1997.10791799",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c34925dd09c3cc6b9ed964c190d8921b1d2db4d3",
+      "venue": "",
+      "journal": {
+        "name": "Art Journal",
+        "pages": "38-45",
+        "volume": "56"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "44dd9b816765f6cfee880e654da22da0e6acb202",
+      "title": "Walter Benjamin's Other History: Of Stones, Animals, Human Beings and Angels by Beatrice Hanssen. University of California Press, Berkeley, CA, U.S.A., 218 pages $35.00. ISBN: 0-520-20841-2.",
+      "authors": [
+        {
+          "name": "M. Mosher",
+          "authorId": "65821338"
+        }
+      ],
+      "year": 1999,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1162/leon.1999.32.1.69a",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/44dd9b816765f6cfee880e654da22da0e6acb202",
+      "venue": "",
+      "journal": {
+        "name": "Leonardo",
+        "pages": "69-69",
+        "volume": "32"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1111/1467-9752.12046
+[verify_paper.py] DOI verified: Children, Redemption and Remembrance in Walter Ben...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/1467-9752.12046"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/1467-9752.12046",
+      "title": "Children, Redemption and Remembrance in Walter Benjamin",
+      "authors": [
+        {
+          "family": "Jessop",
+          "given": "Sharon"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Journal of Philosophy of Education",
+      "volume": "47",
+      "issue": "4",
+      "page": "642-657",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/1467-9752.12046"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

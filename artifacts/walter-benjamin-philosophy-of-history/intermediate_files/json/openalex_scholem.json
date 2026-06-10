@@ -1,0 +1,880 @@
+[search_openalex.py] Searching OpenAlex: 'Benjamin Scholem messianism philosophy history' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_5f3079bab99f42c4)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Benjamin Scholem messianism philosophy history",
+  "results": [
+    {
+      "openalex_id": "W593995697",
+      "doi": "10.5860/choice.48-3782",
+      "title": "Witnesses for the future: philosophy and messianism",
+      "authors": [],
+      "publication_year": 2011,
+      "publication_date": "2011-03-01",
+      "abstract": "To the horrors of war and genocide in the twentieth century there were witnesses, among them Hermann Cohen, Emmanuel Levinas, Ernst Bloch, Leo Strauss, Franz Rosenzweig, Gershom Scholem, Walter Benjamin, Martin Buber, and Hans Jonas. All defined themselves as Jews and philosophers. Their intellectual concerns and worldviews often in conflict, they nevertheless engaged in fruitful conversation: through the dialogue between Zionist activism and heterodox forms of Marxism, in the rediscovery of hidden traditions of Jewish history, at the intersection of ethics and metaphysics. They shared a common hope for a better, messianic future and a deep interest in and reliance on the cultural sources of the Jewish tradition. In this magisterial work, Pierre Bouretz explores the thought of these great Jewish philosophers, taking a long view of the tenuous survival of German-Jewish metaphysical, religious, and social thought during the crises and catastrophes of the twentieth century. With deep passion and sound scholarship, Bouretz demonstrates the universal significance of this struggle in understanding the present human condition. The substantial and established influence of the book's subjects only serves to confirm this theory. Profoundly learned and amply documented, Witnesses for the Future explains how these important philosophers came to understand the promise of a Messiah. Its significant bearing on a number of fields-including religious studies, literary criticism, philosophy of history, political theory, and Jewish studies-encourages scholars to rethink and reassess the intellectual developments of the past 100 years.",
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W593995697"
+    },
+    {
+      "openalex_id": "W2783027123",
+      "doi": null,
+      "title": "Experience and Infinite Task: Knowledge, Language and Messianism in the Philosophy of Walter Benjamin",
+      "authors": [
+        {
+          "name": "Tamara Tagliacozzo",
+          "openalex_id": "A5063224099"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-20",
+      "abstract": "This book examines the philosophical thought of the young Walter Benjamin and its development in his later work. Starting from his critique of the philosophy of Immanuel Kant and Hermann Cohen, the author traces the relationships among Benjamin\u2019s theories \u2014 developed in tandem with his friend Gershom Scholem \u2014 of knowledge, language, ethics, politics, the philosophy of history and aesthetics, all linked to the Judaic theme of messianism and language as a realm of redemption. She delineates a horizon in which the concept of experience as structure, philosophical system and \u201cinfinite task\u201d (On the Program of the Coming Philosophy, 1917/18) evolves into a concept of the origin as monad (The Origin of German Tragic Drama, 1925), merging finally into the historical concept as monad and dialectical image (On the Concept of History, 1940). Tagliacozzo asserts that the concept of experience as structure and symbolic system, derived from his critical interpretation of Kant and Neo-Kantianism, develops into a conception of thought founded on a theological language of revelation.",
+      "cited_by_count": 5,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Critical Theory and Philosophy",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2783027123"
+    },
+    {
+      "openalex_id": "W2896758200",
+      "doi": null,
+      "title": "Gershom Scholem: From Berlin to Jerusalem and Back",
+      "authors": [
+        {
+          "name": "Noam Zadoff",
+          "openalex_id": "A5068900127"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-05",
+      "abstract": "German-born Gerhard (Gershom) Scholem (1897\u20131982), the preeminent scholar of Jewish mysticism, delved into the historical analysis of kabbalistic literature from late antiquity to the twentieth century. His writings traverse Jewish historiography, Zionism, the phenomenology of mystical religion, and the spiritual and political condition of contemporary Judaism and Jewish civilization. \\n\\nScholem famously recounted rejecting his parents\u2019 assimilationist liberalism in favor of Zionism and immigrating to Palestine in 1923, where he became a central figure in the German Jewish immigrant community that dominated the nation\u2019s intellectual landscape in Mandatory Palestine. Despite Scholem\u2019s public renunciation of Germany for Israel, Zadoff explores how the life and work of Scholem reflect ambivalence toward Zionism and his German origins.",
+      "cited_by_count": 34,
+      "type": "book",
+      "source": {
+        "name": "OAPEN (The OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.oapen.org/search?identifier=644218"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Jewish Identity and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2896758200"
+    },
+    {
+      "openalex_id": "W2901184930",
+      "doi": null,
+      "title": "Revolution and History in Walter Benjamin: A Conceptual Analysis",
+      "authors": [
+        {
+          "name": "Alison Ross",
+          "openalex_id": "A5068597653",
+          "orcid": "https://orcid.org/0000-0001-5142-0695"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-06",
+      "abstract": "This book places Benjamin's writing on revolution in the context of his conception of historical knowledge. The fundamental problem that faces any analysis of Benjamin's approach to revolution is that he deploys notions that belong to the domain of individual experience. His theory of modernity with its emphasis on the disintegration of collective experience further aggravates the problem. Benjamin himself understood the problem of revolution to be primarily that of the conceptualization of collective experience (its possibility and sites) under the conditions of modern bourgeois society. The novelty of his approach to revolution lies in the fact that he directly connects it with historical experience. Benjamin's conception of revolution thus constitutes an integral part of his distinctive theory of historical knowledge, which is also essentially a theory of experience. Through a detailed study of Benjamin's writings on the topics of the child and the dream, and an analysis of his ideas of history, the fulfilled wish, similitude and communist society, this book shows how the conceptual analysis of his corpus can get to the heart of Benjamin's conception of revolutionary experience and distil its difficulties and mechanisms",
+      "cited_by_count": 16,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ROSRAH-2.pdf"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Critical Theory and Philosophy",
+        "Cinema and Media Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2901184930"
+    },
+    {
+      "openalex_id": "W603765156",
+      "doi": "10.1515/9783110258240",
+      "title": "Figuren des Messianischen in Schriften deutsch-j\u00fcdischer Intellektueller 1900-1933",
+      "authors": [
+        {
+          "name": "Elke Dubbels",
+          "openalex_id": "A5018367137",
+          "orcid": "https://orcid.org/0009-0001-3159-9402"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-10-13",
+      "abstract": "This study investigates the function of the recourse to the messianic tradition of Judaism among German-Jewish intellectuals in the first third of the 20th century. Messianic figures of thought play an important role in the Jewish discourse of identity. Moreover, they are used productively in the creation of general theories in the realm of cultural studies, especially regarding the philosophy of language and history and the theological-political complex. Here, all the considered authors (Benjamin, Bloch, Broch, Buber, Landauer, Rosenzweig, Scholem) secularize Jewish Messianism in one way or another, thus transforming the Messiah into the messianic. This also means, however, that the messianic figures of speech include not only figures of thought but also rhetorical figures of speech or tropes that reflect various constellations of sacrality and secularity in the modern era. Tension between the secular and the sacred, and also between cultural particularity and universality, forms part of the modern adaptation of Jewish Messianism, as does the possibility of a sudden dialectical critical shift to an affirmation of violence.",
+      "cited_by_count": 5,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110258240/pdf"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Jewish and Middle Eastern Studies",
+        "Franz Kafka Literary Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W603765156"
+    },
+    {
+      "openalex_id": "W3043014073",
+      "doi": "10.15826/csp.2020.4.2.095",
+      "title": "\u201cMessianicity Without Messianism\u201d: On the Place of Religion in the Philosophy of Jacques Derrida",
+      "authors": [
+        {
+          "name": "Roman Soloviy",
+          "openalex_id": "A5067006936",
+          "orcid": "https://orcid.org/0000-0001-8232-5770",
+          "institutions": [
+            "Dragomanov Ukrainian State University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-09",
+      "abstract": "This article examines Jacques Derrida\u2019s concept of \u201cmessianicit\u00e9 sans messianisme\u201d (\u201cmessianicity without messianism\u201d) as an important example of rethinking the role and nature of religion in the late period of the work of the philosopher. Historical and philosophical analysis demonstrates that the appeal to the problem of messianism is inherent to many Jewish philosophers of the early twentieth century. They tried to develop a concept of time that would maintain full openness to the future and at the same time remember the past. Their work affected the interpretation of messianism in Derrida, because he developed his concept in discussion with Walter Benjamin and Emmanuel L\u00e9vinas. As the most general structure of the experience of justice, openness to the undecidable future, and respect for other messianicity do not exclude the religious manifestations of messianism, calling instead for the unceasing deconstruction of their fundamentalist claims.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Changing Societies & Personalities",
+        "type": "journal",
+        "issn": [
+          "2587-6104",
+          "2587-8964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://changing-sp.com/ojs/index.php/csp/article/view/111/96"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Jewish and Middle Eastern Studies",
+        "Jewish Identity and Society"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W3043014073"
+    },
+    {
+      "openalex_id": "W1499836500",
+      "doi": "10.17169/refubium-4295",
+      "title": "Metaphysics of the profane",
+      "authors": [
+        {
+          "name": "Eric Jacobson",
+          "openalex_id": "A5011207234"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "\"&gt;Walter Benjamin attests to Gershom Scholem in a rather emphatic moment in 1915 that if he should ever have a philosophy of his own, it would be a philosophy of Judaism. In many ways, this statement forms the basis of a discussion on three main ideas which would capture the imagination of the authors: on Messianism, language and justice. Following along the lines of this tripartite division, the dissertation is divided into three sections reflecting the original tone of the authors' dialogue. The first section is perhaps the most helpful for readers interested in Benjamin's early writings, for it seeks to explain many of the early texts in the context of this pursuit of the Messianic in history. The reconstruction of Benjamin's Messianism is based largely on an early text from 1921 entitled the Theological-Political Fragment. This is followed by more narrative section in which Benjamin's movement toward abstract, political and theological speculation is brought together with Scholem's own Messianic politics and a nihilism regarding the affairs of Europe. These two dimension ? a utopian, anarchist theological politics and a nihilism regarding worldly affairs ? converge when the authors are finally reunited in Muri, Switzerland in 1917-18 at the height of the First World War. This is followed by a broader portrayal of Scholem, the categories of his theological politics and the metamorphosis this politics undergoes.",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Universit\u00e4tsbibliothek der FU Berlin Hochschulschriftenstelle u. Dokumentenserver",
+        "type": "repository",
+        "issn": []
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://refubium.fu-berlin.de/handle/fub188/91"
+      },
+      "topics": [
+        "Rhetoric and Communication Studies",
+        "Translation Studies and Practices",
+        "Humor Studies and Applications"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1499836500"
+    },
+    {
+      "openalex_id": "W2149099223",
+      "doi": "10.1215/01903659-2008-011",
+      "title": "<i>Homo Profanus</i>: Giorgio Agamben's Profane Philosophy",
+      "authors": [
+        {
+          "name": "Leland de la Durantaye",
+          "openalex_id": "A5111898561"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-08-01",
+      "abstract": "Giorgio Agamben's work first achieved international recognition\u2014and notoriety\u2014through his study of the sacred in Homo Sacer. This recognition and notoriety grew with the subsequent installments in this still ongoing series, Remnants of Auschwitz (Homo Sacer III), State of Exception (Homo Sacer II.1), and The Kingdom and the Glory (Homo Sacer II.2). Agamben's recent work, Profanations, is, however, not a part of that series. As its title indicates, it turns from the sacred to the profane, and in so doing reveals the most profound intentions of Agamben's philosophy. Agamben's naming the profane rather than the sacred in the title of this work does not, however, represent a turn to a new topic. Beginning with his first books in the 1970s, he has shown himself deeply interested in the idea of the profane, in significant part through terms and concepts employed by Walter Benjamin such as \u201cprofane illumination\u201d and \u201cthe order of the profane.\u201d In his Homo Sacer project, this idea of the profane has followed Agamben's studies of the sacred like a shadow. With this new work, however, it has moved to the center of his reflections and in doing offers his reader a glimpse of hitherto unseen elements in his personal trajectory, his philosophical vocation, and his political project. The works in the Homo Sacer series have compellingly and persuasively argued that the creating of sacred and sovereign states of exception has often been responsible for the dire states of political affairs we find ourselves in. Profanations seeks to offer a solution.",
+      "cited_by_count": 18,
+      "type": "article",
+      "source": {
+        "name": "boundary 2",
+        "type": "journal",
+        "issn": [
+          "0190-3659",
+          "1527-2141"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/boundary-2/article-pdf/35/3/27/231778/b2035-03-02DurantayeFpp.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Hannah Arendt's Political Philosophy",
+        "Violence, Religion, and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2149099223"
+    },
+    {
+      "openalex_id": "W1536796123",
+      "doi": "10.5040/9781472549105",
+      "title": "Levinas, Messianism and Parody",
+      "authors": [
+        {
+          "name": "Terence Joseph Holden",
+          "openalex_id": "A5109861392"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Levinas has come to be seen as one of the principle representatives in contemporary thought of a certain philosophically articulated concept of 'messianism'. On the one hand, the appeal by philosophy to messianism is conceived by many as a 'turn' within postmodern thought broadly conceived towards a theology and ethics. On the other hand, there is the closely related consensus that Levinas\u2018 messianism is an expression of a certain 'correlation' between 'philosophy' and 'Judaism', a correlation in which Judaism becomes the suppressed voice of conscience of the latter. We revisit some of the consensuses upon which these related understandings are based. Firstly, we consider whether the heterogeneity of Levinas\u2018 different articulations of the messianic dimension should be emphasized, a heterogeneity which defies simple classification. Secondly, we consider whether Levinas\u2018 thought can properly be called messianic as such: we emphasize the functional character of messianism in Levinas, and how messianism is structurally re-ordered according to the function it takes on. We explore namely the manner in which messianic discourse in Levinas is implicated in the construction of a certain humanism, and how it is called upon to negotiate the obstacles which such a construction faces. Re-ordered according to this regime, we consider whether what unites the various expressions of messianism in Levinas is not the articulation of a discourse which progressively realizes its non-eschatological status. We frame this thesis in terms of what we call the 'parody' of messianism, a notion we derive from Nietzsche. This complicates any notion of a 'turn' within postmodernism; and yet it can be shown to be an intensification of a certain tendency at work already within normative Judaism.",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": {
+        "name": "Continuum eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://era.ed.ac.uk/bitstream/1842/26012/1/Holden2010.pdf"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Medieval and Classical Philosophy",
+        "Theology and Philosophy of Evil"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W1536796123"
+    },
+    {
+      "openalex_id": "W2062205066",
+      "doi": "10.1080/14725886.2014.881042",
+      "title": "THE RETURN OF THE DEAD SOULS: THE GERMAN STUDENTS' MOVEMENT AND THE GHOSTS OF AUSCHWITZ",
+      "authors": [
+        {
+          "name": "Christoph Schmidt",
+          "openalex_id": "A5075698204",
+          "orcid": "https://orcid.org/0000-0002-2309-3209",
+          "institutions": [
+            "Hebrew University of Jerusalem"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-02",
+      "abstract": "AbstractThe intellectual history determined by the 1968 students' revolt sometimes appears as a ghost scene, emerging from the strong identification of the radical students with Jews and Judaism. This essay wishes to demonstrate the inner connection between the messianic political theology of the movement and the psychological effects of this over-identification, leading to a leftist anti-Semitism. While the revolutionary students saw themselves as the true successors of Jewish revolutionary messianism, they accused the real Jew, the one who settled in Israel, of being an imperialist traitor. The essay reconstructs the metamorphosis of these ghosts in a \"phenomenology of the spirits\" as a \"Geistergeschichte\" behind the official \"Geistesgeschichte.\" Against this pathological path the essay presents J\u00fcrgen Habermas's reflections on the ethics of memory as its best therapy. Notes1. Clausen, Theodor Adorno, 23.2. Adorno, Was bedeutet Aufarbeitung der Vergangenheit?, 566.3. Kant, \"Traeume eines Geistersehers erlaeutert durch Traeume der Metaphysik.\"4. Heine, Die Harzreise, 102ff.5. Ascher, Germanomania. See Grab, \"Saul Ascher.\" There have been a couple of studies which have rediscovered this almost forgotten radical liberal as a source of anti-nationalism. See Hacks, Ascher gegen Jahn, and Puschner, Antisemitismus im Kontext der politischen Romantik.6. Hegel, Phaenomenologie des Geistes, 590.7. Scholem, \"Zum Verstaendnis der messianischen Idee im Judentum,\" 74.8. See Kraushaar, Die Bombe im juedischen Gemeindehaus, 89. See also Kloke, Israel und die deutsche Linke.9. Kraushaar, Die Bombe im juedischen Gemeindehaus, 98.10. Marcuse, \"Triebstruktur und Gesellschaft,\" 142.11. Marcuse, \"Versuch ueber die Befreiung,\" 250.12. Dutschke, Wir hatten ein barbarisches schoenes Leben, 220.13. Ibid, 142.14. Bloch, Thomas Muenzer als Theologe der Revolution.15. Kraushaar, Die Bombe im juedischen Gemeindehaus, 48.16. Meinhof, \"Die Aktion des schwarzen Septembers,\" 151ff.17. See Aust, Der Baader Meinhof Komplex, 280.18. See Taubes, \"Der Messianismus und sein Preis.\"19. Agamben, Homo Sacer, Ch. 2.4.4.20. See Walser, \"Auschwitz und kein Ende.\"21. Vesper, Die Reise.22. Schneider, Vati.23. See Strauss, \"Anschwelleneder Bocksgesang.\"24. Sloterdijk, Kritik der zynischen Vernunft.25. Sloterdijk, Weltfremdheit.26. Von Harnack, Das Evangelium vom fremden Gott.27. See the two works by Hirsch, Deutsches Volkstum; Christliches Bekennen.28. This phenomenon has been brilliantly described by Grass, Im Krebsgang.29. Fischer, Von gruener Kraft und Herrlichkeit, 27.30. Habermas, \"Keine Normalisiserung der Vergangenheit.\" See also Habermas,\"Was bedeutet Aufarbeitung der Vergangenheit heute.\"31. Habermas, \"Vom oeffentlichen Gebrauch der Geschichte,\" 140.32. Ibid., 93. In his essay \"Geschichtsbewusstsein und posttraditionale Identitaet\u2013\u2013Die Wertorientierung der Bundesrepublik,\" the author suggests that the specific forms of young Germans' avoidance of dealing with the past could be compared to Kierkegaard's interpretation of the self in flight from itself. The difference is that Habermas is not interested in the theological interpretation of this existential phenomenon, but in a rather profane understanding of its consequences for a political concept of historical responsibility.33. Benjamin, \"Ursprung des deutschen Trauerspiels,\" 250.34. Benjamin,\"Politisch-theologisches Fragment,\" 203.Additional informationChristoph Schmidt is Associate Professor in the Department of Religion and Philosophy at the Hebrew University of Jerusalem. His main fields of research are political theology and the phenomenology of religion. His latest publications (in German): Hugo Ball: The Apocalypse of the Subject (Aisthesis, 2003); The Theopolitical Hour (Fink, 2009); The Return of the Dead Souls (forthcoming, Vandenhoek Rupprecht).",
+      "cited_by_count": 17,
+      "type": "article",
+      "source": {
+        "name": "Journal of Modern Jewish Studies",
+        "type": "journal",
+        "issn": [
+          "1472-5886",
+          "1472-5894"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "German History and Society",
+        "Memory, Trauma, and Commemoration"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W2062205066"
+    },
+    {
+      "openalex_id": "W1979757696",
+      "doi": "10.1080/09697250500423058",
+      "title": "The darkroom of history",
+      "authors": [
+        {
+          "name": "Ariella Azoulay",
+          "openalex_id": "A5008404264",
+          "orcid": "https://orcid.org/0000-0002-7700-4750",
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-12-01",
+      "abstract": "Click to increase image sizeClick to decrease image size Notes Notes 1. In this context see Benjamin's discussion on the concept of \u201cinvoluntary memory\u201d in Proust (Benjamin 1996 Benjamin, Walter. 1996. Selected, Writings, Volume 1 \u2013 1913\u20131926, Cambridge, MA: Belknap, P of, Harvard, UP. Trans. Rodney, Livingstone et al [Google Scholar], 207). 2. Freud develops the concept of trauma in several places, including: Beyond the Pleasure Principle, The Trauma of War, and Moses and Monotheism. 3. The French translation was authorized by Benjamin and differs in several places from the existing English and Hebrew versions. 4. In addition to historians, one can point to photographers, psychoanalysts and collectors as \u201cartisans of historical recognition.\u201d 5. The dramatic events at the start of the Second World War have left various marks upon this essay, which was written by Benjamin in 1940. Gershom Scholem interpreted it as a response to the Molotov\u2013Ribbentrop pact between Nazi Germany and the Soviet Union in 1939, and many have seen it as Benjamin's response to Stalinism, which both he and Brecht viewed as a \u201cbetrayal\u201d of the oppressed (Monnier 1991 Monnier, Adrienne. 1991. \u201cUn portrait de, Walter, Benjamin.\u201d. In \u00c9crits fran\u00e7ais (Walter, Benjamin), Paris: Gallimard. [Google Scholar], 335). In his own article on this essay, Stephan Mos\u00e8s describes the responsibility of Benjamin's historian in terms of moral obligation, although the term obligation doesn\u2019t appear in Benjamin's works (Mos\u00e8s 1993 Mos\u00e8s, St\u00e9phane. 1993. \u201cThe, Theologico-Political, Model of, History of, Walter, Benjamin.\u201d. Zemanim, 38: 24\u201346. (in, Hebrew) [Google Scholar], 7). 6. See Benjamin's essay \u201cThe Author as Producer\u201d (Benjamin 1999b Benjamin, Walter. 1999b. \u201cThe, Author as, Producer.\u201d. In Selected, Writings, Volume 2 \u2013 1927\u20131934, Edited by: Rodney, Livingstone, Trans. Cambridge, MA: Belknap, P, of, Harvard, UP. et al [Google Scholar]). 7. In the introduction to a selection of Benjamin's works edited by herself, Hannah Arendt writes about the acoustic dimension in Benjamin (Arendt 1978 Arendt, Hannah. 1978. \u201cIntroduction.\u201d. In Illuminations/Walter, Benjamin, Trans. Harry Zohn, New, York: Schocken. [Google Scholar]). 8. Gilles Deleuze's discussion on the two modes of time, aion and chronos, can be read as a conceptualization of Benjamin's unorganized thinking about time (Deleuze 1969 Deleuze, Gilles. 1969. Logique du sens, Paris: Minuit. [Google Scholar]). 9. All the above quotations are from \u201cBerlin Childhood around 1900\u201d (Benjamin 2002 Benjamin, Walter. 2002. \u201cBerlin, Childhood around 1900.\u201d. In Selected, Writings, Volume 3 \u2013 1935\u20131938, Edited by: Edmund, Trans and Howard, Eiland, Jephcott. Cambridge, MA: Belknap, P, of, Harvard, UP. et al [Google Scholar], 354, 384\u201385), except for the last one taken from Benjamin (1992 Benjamin, Walter. 1992. \u201cBerlin, Childhood around 1900.\u201d. In Walter, Benjamin, Selected, Writings, Vol. 1, Hakibbutz, Hameuhad: Trans. David, Zinger. Tel, Aviv. (in, Hebrew) [Google Scholar], 60; my translation). 10. There are several versions of the text, including thirteen or eighteen theses. 11. Some of them can be traced in the two texts mentioned above, as well as in his Passages, and in the essays on Baudelaire, on the storyteller, on Eduard Fuchs, the collector and historian, on Proust's portrait, and on the mimetic faculty. 12. Benjamin based his description of the automaton in the first thesis on a text about a chess player by Edgar Allan Poe (Poe 2004 Poe, Edgar, Allan. 2004. Tales of, Edgar, Allan, Poe, New, York: Kaplan. [Google Scholar]). 13. In the context of Benjamin's automaton, J.M. Monoya mentions the automaton built by Johann Nafumok Maelzel in the second decade of the previous century, but doesn\u2019t develop the topic (Benjamin 1991 Benjamin, Walter. 1991. \u00c9crits fran\u00e7ais, Paris: Gallimard. [Google Scholar], 335). This detail is inexact historically. Maelzel built several other automatons \u2013 most important among them the metronome and the pan-harmonica \u2013 but the Turk he acquired from Kempelen's son, and he himself only operated it. An exceptional case regarding the discussion of Benjamin is Pierre Missac, who, in several places in his book Walter Benjamin's Passages, discusses the place of the machine in Benjamin's thought (Missac 1995 Missac, Pierre. 1995. Walter, Benjamin's, Passages, Edited by: Nicholsen, Trans. S.W. Cambridge, MA: MIT P. [Google Scholar]). 14. The machine's peregrinations were reported in the annals of chess: an exhibition in Paris in 1817, New York in 1826, Boston in 1827, back to Europe in 1828, a return trip to the USA in 1829, and so on. 15. The encounter between the two took place in 1809, in Schonbrunn; the \u201cTurk\u201d beat Napoleon. 16. See Benjamin's discussion of the way fascism uses technological means in \u201cThe Work of Art.\u201d 17. In their book What is Philosophy?, Deleuze and Guattari describe the plane of immanence as an unlimited, absolute plane, neither surface nor volume, a respiration that sweeps all particles in its flow, an indivisible environment, a current in which there are no presences and no transcendence (Deleuze and Guattari 1991 Deleuze, Gilles and F\u00e9lix, Guattari. 1991. What is, Philosophy?, Edited by: Hugh, Tomlinson, Trans and Burchell, Graham. New, York: Columbia, UP. [Google Scholar]). 18. See Benjamin's discussion in Passages of the letter N, which is devoted to \u201ctheoretical thoughts on consciousness\u201d (Benjamin 1989 Benjamin, Walter. 1989. Passages: Paris, capitale du, XIXe si\u00e8cle, Paris: CERF. [Google Scholar], 488). 19. Ibid. 20. The potential or the possible also plays a central role in the essay on the task of the translator \u2013 as the capacity to be translated \u2013 and in the essay on art \u2013 as the capacity to be reproduced. 21. On aesthetics and the sensory apparatus in Benjamin, see Buck-Morss (1992 Buck-Morss, Susan. 1992. \u201cAesthetics and, Anesthetics: Walter, Benjamin's, Artwork, Essay, Reconsidered.\u201d. October, 62: 3\u201341. [Crossref] , [Google Scholar]). 22. \u201cThe Work of Art in the Era of Technical Reproduction\u201d (Benjamin 2003 Benjamin, Walter. 2003c. \u201cOn the, Concept of, History.\u201d. In Selected, Writings, Volume 4 \u2013 1938\u20131940, Edited by: Edmund, Jephcott, Trans. Cambridge, MA: Belknap, P, of, Harvard, UP. et al [Google Scholar], 269). 23. Benjamin's letter to Adorno is quoted in Pierre Missac's book (Missac 1995 Missac, Pierre. 1995. Walter, Benjamin's, Passages, Edited by: Nicholsen, Trans. S.W. Cambridge, MA: MIT P. [Google Scholar], 122). 24. In certain senses this inexplicit and undeveloped statement by Benjamin can be seen as a harbinger of Lacan's discussion on the view and the voice as objects. On this discussion in Lacan, see \u017di\u017eek (1996 \u017di\u017eek, Slavoj. 1996. \u201cI Hear, You with, My, Eyes or, The, Invisible, Master.\u201d. In Gaze and, Voice as, Love, Objects, Durham, NC and London: Duke, UP. [Crossref] , [Google Scholar]). 25. See Denis Bernard's study on the researches and inventions of Albert Londe (Bernard and Guntheret 1999 Bernard, Denis and Andr\u00e9, Guntheret. 1993. L\u2019Instant r\u00eav\u00e9 \u2013 Albert, Londe, Paris: Chambon-Trois. [Google Scholar]). 26. The quote is taken from the musical King Dagobert, by Laurencin and Claireville, at the 1844 exhibition. Note Benjamin's use of a metaphor from the world of photography: the radiation or engulfment of light rays. 27. Benjamin refers to heliotropism, but it is difficult to ignore the connection between heliotropism and heliography, the name given to photography by Ni\u00e8pce, Daguerre's collaborator, and in common use until replaced by the latter term. 28. See Benjamin's treatment of this invention in Passages (Benjamin 1989 Benjamin, Walter. 1989. Passages: Paris, capitale du, XIXe si\u00e8cle, Paris: CERF. [Google Scholar], 697), as well as Michel Frizot's discussion on the relation between photography and motion (Frizot 1998 Frizot, Michel. 1998. A New, History of, Photography, Edited by: Susan, Trans, Liz, Clegg, Bennett, Crook, John and Higgitt, Caroline. Cologne: K\u00f6nemann. [Google Scholar]). 29. On the genealogy of exposure times, revolving around the case of Daguerre, see the article by Andr\u00e9 Guntheret (Guntheret 1998 Guntheret, Andr\u00e9. 1998. \u201cDaguerre ou la promptitude \u2013 Arch\u00e9ologie de la r\u00e9daction du temps de pose.\u201d. \u00c9tudes photographiques, 5: 4\u201325. [Google Scholar]). 30. In this context see Cathy Caruth's discussion on Freud (Caruth 1996 Caruth, Cathy. 1996. Unclaimed, Experience: Trauma and the, Possibility of, History. Baltimore: Johns, Hopkins, UP. [Google Scholar]). 31. Here again Gilles Deleuze's discussion on the singular point is very close to Benjamin's discussion on the instantaneous snapshot (Deleuze 1969 Deleuze, Gilles. 1969. Logique du sens, Paris: Minuit. [Google Scholar]). 32. In his various studies, Michel Frizot attempts to deconstruct the necessary connection between the work of inventors such as Marey, Muybridge, Londe and others and the invention of the cinema. He contends that Muybridge's pursuit of a series of images of motion, at least during a certain period (1875\u201385), is not identical to the pursuits of people such as Ducos du Hauron, Cook or Bonelli, which were directed toward the invention of the cinema. See Frizot (1998 Frizot, Michel. 1998. A New, History of, Photography, Edited by: Susan, Trans, Liz, Clegg, Bennett, Crook, John and Higgitt, Caroline. Cologne: K\u00f6nemann. [Google Scholar], 244\u201345). 33. Claude Lanzman's conception, which underlies his movie Shoa \u2013 and which is guided by the imperative not to understand \u2013 comes close at this point to Benjamin's conception. 34. A comparison can be struck between Benjamin's conception and Deleuze's discussion on the concepts of repetition and difference. 35. The elimination of the epic element must be taken into account, as accomplished by Marx as the author of Das Kapital. Marx recognized the fact that the history of capital could not be processed other than within the rigorous, comprehensive framework of theory. The interests of humanity are better looked after by means of the theoretical matrix of labor under the control of capital, which Marx presents in his work, than in the monumental or long-winded, and ultimately nonchalant, volumes of historicism. (Benjamin 1991 Benjamin, Walter. 1991. \u00c9crits fran\u00e7ais, Paris: Gallimard. [Google Scholar], 356) 36. See primarily his essays on art, the task of the translator, and Baudelaire. 37. Rolf Tiedemann also points out that Benjamin's angel has nothing to say. He also quotes Kaiser, who describes the angel as someone who has no message because \u201che is the message\u201d (Tiedemann 1983\u201384 Tiedemann, Rolf. 1983\u201384. \u201cHistorical, Materialism or, Political, Messianism? An, Interpretation of the, Theses \u2018On the, Concept of, History.\u2019\u201d. The, Philosophical, Forum, XV, 1\u20132 [Google Scholar], 76). 38. See the correspondence between Benjamin and Gershom Scholem regarding the dictation (Scholem 1987 Scholem, Gershon. 1987. Story of a, Friendship, Tel, Aviv: Am, Oved. (in, Hebrew) [Google Scholar]), as well as Missac's discussion on the subject (Missac 1995 Missac, Pierre. 1995. Walter, Benjamin's, Passages, Edited by: Nicholsen, Trans. S.W. Cambridge, MA: MIT P. [Google Scholar]). 39. See my discussion on the two forms of tradition in my forthcoming book (Azoulay 2006 Azoulay, Ariella. 2006. Once, Upon a, Time: Photography after, Walter, Benjamin, UP: Ramat, Gan Bar, Ilan. forthcoming [Google Scholar]). 40. On the ethics of the spectator that can be developed out of Benjamin's mistake, see my discussion of images from the Israeli occupation of Palestinian territories (Azoulay 2004 Azoulay, Ariella. 2004. Everything, Could be, Seen, Exhibition catalogue, Gallery of, Um el-Fahem. Available <rellyaz@netvision.net.il> [Google Scholar]). 41. Benjamin quotes the surrealist poet Aragon in \u201cThe Author as Producer\u201d (Benjamin 1999b Benjamin, Walter. 1999b. \u201cThe, Author as, Producer.\u201d. In Selected, Writings, Volume 2 \u2013 1927\u20131934, Edited by: Rodney, Livingstone, Trans. Cambridge, MA: Belknap, P, of, Harvard, UP. et al [Google Scholar], 779). 42. One ear may appear different and more tattered than the other because the angel belongs to the class of clerks, who transmit words from place to place with a pencil perched over one ear, the shape of which changes over time. Such a description of an ear can be found in the short story \u201cThe Man in the Crowd\u201d by Edgar Allan Poe, one of Benjamin's heroes (Poe 2004 Poe, Edgar, Allan. 2004. Tales of, Edgar, Allan, Poe, New, York: Kaplan. [Google Scholar], 392). 43. See <http://www.icomos.org/hague/hague. convention.html> and <http://www.unhchr.ch/html/menu3/b/92.htm>.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Angelaki",
+        "type": "journal",
+        "issn": [
+          "0969-725X",
+          "1469-2899"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism",
+        "Political Theology and Sovereignty"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W1979757696"
+    },
+    {
+      "openalex_id": "W1557074603",
+      "doi": null,
+      "title": "\u2018+1\u2019: Scholem and the Paradoxes of the Infinite",
+      "authors": [
+        {
+          "name": "Julia Ng",
+          "openalex_id": "A5054337949",
+          "orcid": "https://orcid.org/0000-0003-2676-0959"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "This article draws on several crucial and unpublished manuscripts from the Scholem Archive in exploration of Gershom Scholem's youthful statements on mathematics and its relation to extra-mathematical facts and, more broadly, to a concept of history that would prove to be consequential for Walter Benjamin's own thinking on \"messianism\" and a \"futuristic politics.\" In context of critiquing the German Youth Movement's subsumption of active life to the nationalistic conditions of the \"earth\" during the First World War, Scholem turns to mathematics for a genuine and self-consistent theory of action. In the concept of actual infinity (in Cantor and Bolzano) he finds an explanation of how mathematics relates to \"the physical\" without reducing the former to an \"image\" of the latter, and without relying on the concept of geometric intuition. This explanation, insofar as it relies on the notion of actual infinity, provides Scholem with a conception of mathematics (and the history of mathematics) that reconciles freedom and necessity\u2014remarks on which he outlines in his diaries and communicates to Benjamin in early March 1916.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Goldsmiths (University of London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.gold.ac.uk/17653/1/247-476-1-SM.pdf"
+      },
+      "topics": [
+        "History and Theory of Mathematics",
+        "Philosophy, Science, and History",
+        "Multidisciplinary Warburg-centric Studies"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W1557074603"
+    },
+    {
+      "openalex_id": "W2742359450",
+      "doi": null,
+      "title": "Justice and Divine Violence: Walter Benjamin and the Time of Anticipation",
+      "authors": [
+        {
+          "name": "Massimiliano Tomba",
+          "openalex_id": "A5019675660",
+          "orcid": "https://orcid.org/0000-0003-4116-061X"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-05",
+      "abstract": "In his \u00e2\u0080\u009cCritique of Violence,\u00e2\u0080\u009d Walter Benjamin seeks to rethink justice as the interruption of the juridical temporality, which is characterized by the relationship between means and ends. Benjamin imagines a form of violence that finds in itself its own criterion of rightness: divine violence emerges as a third kind of violence beyond both the state\u00e2\u0080\u0099s monopoly of violence and the binary opposition between violence and non-violence. I will read Benjamin in the historical-political context of the crisis of the state, democracy and parliamentarism in order to develop the idea of divine violence as a practice that interrupts the means-end relation and defends new forms of togetherness that are anticipated in the moment of a struggle.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt2hm8c3w0/qt2hm8c3w0.pdf?t=ou7xxj"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Walter Benjamin Studies Compilation",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2742359450"
+    },
+    {
+      "openalex_id": "W3091147109",
+      "doi": "10.3390/rel11100504",
+      "title": "Theology of Revolution: In Ali Shari\u2019ati and Walter Benjamin\u2019s Political Thought",
+      "authors": [
+        {
+          "name": "Mina Khanlarzadeh",
+          "openalex_id": "A5050833837",
+          "orcid": "https://orcid.org/0000-0002-3138-4428",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-01",
+      "abstract": "In this paper, I offer a comparative analysis of the political thoughts of twentieth century Iranian revolutionary thinker and sociologist Ali Shari\u2019ati (1933\u20131977) and German-Jewish philosopher Walter Benjamin (1892\u20131940). Despite their conspicuously independent historical-theoretical trajectories, both Shari\u2019ati and Benjamin engaged with theology and Marxism to create theological\u2013political conceptions of the revolution of the oppressed. Shari\u2019ati re-interpreted and re-animated Shia history from the angle of contemporary concerns to theorize a revolution against all forms of domination. In comparison, Benjamin fused Marxism with Jewish theology in his call to seize the possibilities of past failed revolutions in the present. Both Shari\u2019ati and Benjamin conceptualized an active messianism led by each generation, eliminating the wait for the return of a messiah. As a result, each present moment takes on a messianic potential; the present plays an essential role to both thinkers. Past was also essential to both, because theology (through remembrance) had made the past sufferings incomplete to them. Both thinkers viewed past sufferings as an integral part of present struggles for justice in the form of remembrance (or y\u0101d or zekr for Shari\u2019ati, and Zekher for Benjamin). I explore the ways Shari\u2019ati and Benjamin theorized the role of the past in the present, remembrance, and messianism to create a dialectical relation between theology and Marxism to reciprocally transform and compliment both of them.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/11/10/504/pdf?version=1601546481"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Jewish and Middle Eastern Studies",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W3091147109"
+    },
+    {
+      "openalex_id": "W2462556190",
+      "doi": "10.1163/18722636-12341334",
+      "title": "On Breaking Up Time, or, Perennialism as Philosophy of History",
+      "authors": [
+        {
+          "name": "Bennett Gilbert",
+          "openalex_id": "A5049254259",
+          "orcid": "https://orcid.org/0000-0001-8295-3216",
+          "institutions": [
+            "Portland State University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-01",
+      "abstract": "Abstract Current and recent philosophy of history contemplates a deep change in fundamental notions of the presence of the past. This is called breaking up time. The chief value for this change is enhancing the moral reach of historical research and writing. However, the materialist view of reality that most historians hold cannot support this approach. The origin of the notion in the thought of Walter Benjamin is suggested. I propose a neo-idealist approach called perennialism, centered on recurrent moral dilemmas and choices. This suggests a view of the relations of moral thought and ontology placed in the diachronic context that historians study.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Philosophy of History",
+        "type": "journal",
+        "issn": [
+          "1872-261X",
+          "1872-2636"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/GILOBU.pdf"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2462556190"
+    },
+    {
+      "openalex_id": "W4283808894",
+      "doi": "10.3390/rel13070618",
+      "title": "Back to the Future: Leo Strauss, Gershom Scholem and the Restorative Messianic Utopia",
+      "authors": [
+        {
+          "name": "Piotr Sawczy\u0144ski",
+          "openalex_id": "A5001774599",
+          "orcid": "https://orcid.org/0000-0003-4115-2978",
+          "institutions": [
+            "Akademia Ignatianum w Krakowie"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-07-04",
+      "abstract": "This article offers a critical analysis of the dispute between two prominent twentieth-century Jewish thinkers\u2014Leo Strauss and Gershom Scholem\u2014on the temporal nature of Jewish messianism, particularly the messianism of the Lurianic kabbalah. Whereas Strauss uses Scholem\u2019s authority to criticize the idea of progress and claims that the messianic idea of Lurianism as interpreted by Scholem is purely restorative, Scholem actually argues for its dialectical nature: neither progressive nor regressive but seeking to synthesize the past and future in the utopian figure of \u201crestoring\u201d the original potentiality. The purpose of my analysis is twofold: to expose Strauss\u2019s misreading of Scholem\u2019s theory which has so far escaped the critical attention of scholars, and to contribute to the debate on religion and change by deconstructing the apparent opposition of progress and return (or utopia and restoration) in Jewish messianic tradition.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/13/7/618/pdf?version=1656929866"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Medieval and Classical Philosophy",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W4283808894"
+    },
+    {
+      "openalex_id": "W848602560",
+      "doi": null,
+      "title": "The clash of identities - discourse, politics, and morality in the exchange of letters between Hannah Arendt and Gershom Scholem",
+      "authors": [
+        {
+          "name": "D\u00e1vid Kaposi",
+          "openalex_id": "A5058633331",
+          "orcid": "https://orcid.org/0000-0001-9910-0172"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "A Doctoral Thesis. Submitted in partial fulfilment of the requirements for the award of Doctor of Philosophy of Loughborough University.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Loughborough University Institutional Repository (Loughborough University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.lboro.ac.uk/2134/13852"
+      },
+      "topics": [
+        "Language, Discourse, Communication Strategies",
+        "Rhetoric and Communication Studies",
+        "Russian Literature and Bakhtin Studies"
+      ],
+      "referenced_works_count": 201,
+      "url": "https://openalex.org/W848602560"
+    },
+    {
+      "openalex_id": "W4360619861",
+      "doi": "10.1093/oso/9780192855480.003.0007",
+      "title": "Messianism, Exodus, and the Empty Signifier of European Integration",
+      "authors": [
+        {
+          "name": "Alexander Somek",
+          "openalex_id": "A5049847390",
+          "orcid": "https://orcid.org/0000-0003-1691-8855"
+        },
+        {
+          "name": "Jakob Rendl",
+          "openalex_id": "A5034391489"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-02",
+      "abstract": "Abstract In most his most recent accounts of European integration, J.H.H. Weiler claims that Europe was built with Messianic fervour. After the destruction and evil wrought by the Second World War, Europe was supposed to be a \u2018promised land\u2019. The article examines how Weiler conflates the narrative of the exodus with the Messianic leap into a different aeon and concludes that they have to be held distinct. It also suggests that Weiler\u2019s fusion of two distinct religious ideas betrays the force of \u2018Europe\u2019 as an \u2018empty signifier\u2019 (Laclau) of integration.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://academic.oup.com/book/45655/chapter/398020866/chapter-pdf/50249401/oso-9780192855480-chapter-7.pdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W4360619861"
+    },
+    {
+      "openalex_id": "W3213507158",
+      "doi": "10.7591/9781501731013",
+      "title": "No Spiritual Investment in the World",
+      "authors": [
+        {
+          "name": "Willem Styfhals",
+          "openalex_id": "A5013602810"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-15",
+      "abstract": "Throughout the twentieth century, German writers, philosophers, theologians, and historians turned to Gnosticism to make sense of the modern condition. While some saw this ancient Christian heresy as a way to rethink modernity, most German intellectuals questioned Gnosticism's return in a contemporary setting. In No Spiritual Investment in the World, Willem Styfhals explores the Gnostic worldview's enigmatic place in these discourses on modernity, presenting a comprehensive intellectual history of Gnosticism's role in postwar German thought. Establishing the German-Jewish philosopher Jacob Taubes at the nexus of the debate, Styfhals traces how such figures as Hans Blumenberg, Hans Jonas, Eric Voegelin, Odo Marquard, and Gershom Scholem contended with Gnosticism and its tenets on evil and divine absence as metaphorical detours to address issues of cultural crisis, nihilism, and the legitimacy of the modern world. These concerns, he argues, centered on the difficulty of spiritual engagement in a world from which the divine has withdrawn. Reading Gnosticism against the backdrop of postwar German debates about secularization, political theology, and post-secularism, No Spiritual Investment in the World sheds new light on the historical contours of postwar German philosophy.",
+      "cited_by_count": 17,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/110011/2/9781501731013.pdf"
+      },
+      "topics": [
+        "Religion, Society, and Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3213507158"
+    },
+    {
+      "openalex_id": "W2735391466",
+      "doi": "10.13128/aisthesis-20914",
+      "title": "The Organization of Pessimism: Profane Illumination and Anthropological Materialism in Walter Benjamin",
+      "authors": [
+        {
+          "name": "Ricardo Ibarluc\u00eda",
+          "openalex_id": "A5014840935",
+          "orcid": "https://orcid.org/0000-0003-3542-5212",
+          "institutions": [
+            "Universidad Nacional de San Mart\u00edn"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-09",
+      "abstract": "This paper explores Walter Benjamin\u2019s relationship with French Surrealism from sources rarely studied or practically unknown until now. First, I will set out the direct link between the theses on \u201cprofane illumination\u201d and the \u201corganization of pessimism\u201d in Der S\u00fcrrealismus. Die letzte Momentaufnahme der europ\u00e4ischen Intelligenz, and various texts by Pierre Naville, one of the most active figures in the Surrealist movement between 1925 and 1929. Second, I will consider Benjamin\u2019s commentaries in Pariser Passagen <i> and convolute \u201cS\u201d of the Passagen-Werk about Surrealist writings and Martin Heidegger\u2019s Sein und Zeit, flagging up the implications of this confrontation for Benjamin\u2019s ideas of secularization of mysticism and messianism. Lastly, I will seek to refine the meaning of Benjamin\u2019s \u201canthropological materialism\u201d and its relevance to those sections of the Passagenarbeit that are dedicated to the evolution of social movements since the French Revolution. </i>",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Americanae (AECID Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11336/76976"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Schopenhauer and Stefan Zweig",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2735391466"
+    },
+    {
+      "openalex_id": "W2902008700",
+      "doi": "10.6084/m9.figshare.8427872",
+      "title": "The Mathematical Imagination: On the Origins and Promise of Critical Theory",
+      "authors": [
+        {
+          "name": "Matthew Handelman",
+          "openalex_id": "A5056769961",
+          "orcid": "https://orcid.org/0000-0002-8078-0224"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "This book offers an archeology of the undeveloped potential of mathematics for critical theory. As Max Horkheimer and Theodor W. Adorno first conceived of the critical project in the 1930s, critical theory steadfastly opposed the mathematization of thought. Mathematics flattened thought into a dangerous positivism that led reason to the barbarism of World War II. <i>The Mathematical Imagination</i> challenges this narrative, showing how for other German-Jewish thinkers, such as Gershom Scholem, Franz Rosenzweig, and Siegfried Kracauer, mathematics offered metaphors to negotiate the crises of modernity during the Weimar Republic. Influential theories of poetry, messianism, and cultural critique, Handelman shows, borrowed from the philosophy of mathematics, infinitesimal calculus, and geometry in order to refashion cultural and aesthetic discourse.Drawn to the austerity and muteness of mathematics, these friends and forerunners of the Frankfurt School found in mathematical approaches to negativity strategies to capture the marginalized experiences and perspectives of Jews in Germany. Their vocabulary, in which theory could be both mathematical and critical, is missing from the intellectual history of critical theory, whether in the work of second generation critical theorists such as J\u00fcrgen Habermas or in contemporary critiques of technology. <i>The Mathematical Imagination</i> shows how Scholem, Rosenzweig, and Kracauer\u2019s engagement with mathematics uncovers a more capacious vision of the critical project, one with tools that can help us intervene in our digital and increasingly mathematical present.",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": {
+        "name": "DigitalResearch@Fordham (Fordham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.library.fordham.edu/cgi/viewcontent.cgi?article=1010&context=philos"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophy, Ethics, and Existentialism",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2902008700"
+    },
+    {
+      "openalex_id": "W4407984192",
+      "doi": "10.1007/978-3-031-76688-6",
+      "title": "The Palgrave Walter Benjamin Handbook",
+      "authors": [
+        {
+          "name": "Tamara Tagliacozzo",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": "Benjamin identifies the political, active, revolutionary potentiality of awakening from the unachievable collective utopian dream as it is recalled and cognized in memory (as well as unconsciously). Benjamin foresees in awakening the possible solution to the failure of all utopias, he foresees a Copernican revolution of thought and action in which the political may finally prevail over history, the waking state over the dream. In the moment of its remembering, the still unconscious knowledge of that which has been (das Gewesene) has the structure of awakening: emergence from the anesthetizing embrace of the dream, with the ensuing summons to political action. The past is that utopia toward which is directed the dialectic action of making real a history capable of experiencing the present as a world awake. Benjamin advances a Copernican revolution of historical consciousness that consists in dialectically defining the past in a present instant in which dialectic schematism flashes into knowability in a new subject-object relation. Recollecting the past in the \u201cnow of knowability,\u201d a utopian potentiality is actualized and becomes achievable in action.",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-76688-6/1"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Housing, Finance, and Neoliberalism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4407984192"
+    },
+    {
+      "openalex_id": "W2344839020",
+      "doi": "10.1515/9783110402223",
+      "title": "Dialogue as a Trans-disciplinary Concept: Martin Buber's Philosophy of Dialogue and its Contemporary Reception",
+      "authors": [
+        {
+          "name": "Paul Mend\u00e8s-Flohr",
+          "openalex_id": "A5022172003",
+          "orcid": "https://orcid.org/0000-0002-3608-2947"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-29",
+      "abstract": "This volume of essays takes as its point of departure Martin Buber`s principle of dialogue, which he applied as a comprehensive hermeneutic method for the study of various cultural phenomena. The volume critically evaluates the methodological purchase to be gained by the introduction of Buber`s conception of dialogue in political theory, psychology and psychiatry, and religious studies.",
+      "cited_by_count": 8,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=1017029"
+      },
+      "topics": [
+        "Counseling, Therapy, and Family Dynamics",
+        "Biblical Studies and Interpretation",
+        "Theological Perspectives and Practices"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2344839020"
+    },
+    {
+      "openalex_id": "W1967085424",
+      "doi": "10.1057/pcs.2010.31",
+      "title": "The relational ethics of conflict and identity",
+      "authors": [
+        {
+          "name": "Stephen Frosh",
+          "openalex_id": "A5018658939",
+          "orcid": "https://orcid.org/0000-0002-0754-3505",
+          "institutions": [
+            "Birkbeck, University of London"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-08-04",
+      "abstract": null,
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "Psychoanalysis Culture & Society",
+        "type": "journal",
+        "issn": [
+          "1088-0763",
+          "1543-3390"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/pcs.2010.31.pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Hannah Arendt's Political Philosophy",
+        "Psychotherapy Techniques and Applications"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W1967085424"
+    },
+    {
+      "openalex_id": "W4213242418",
+      "doi": "10.3390/rel13020165",
+      "title": "\u201cThe Tragedy of Messianic Politics\u201d: Gustav Landauer\u2019s Hidden Legacy in Franz Rosenzweig and Walter Benjamin",
+      "authors": [
+        {
+          "name": "Libera Pisano",
+          "openalex_id": "A5013480667",
+          "orcid": "https://orcid.org/0000-0003-3259-8505",
+          "institutions": [
+            "Universitat Pompeu Fabra"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-14",
+      "abstract": "Gustav Landauer (1870\u20131919) was a German-Jewish anarchist and radical thinker who was brutally murdered in the Munich Soviet Republic. Paul Mendes-Flohr has contributed enormously to the rediscovery of this long-neglected figure, who nonetheless played a crucial role in the intellectual debates of his time. Mendes-Flohr emphasizes the impact that Landauer\u2019s death had on Martin Buber\u2019s conception of politics at a time when Jewish revolutionaries were attempting to combine messianism and activism. In this essay, as a complement to Mendes-Flohr\u2019s insightful work, I will attempt to show how Landauer\u2019s legacy can be traced in two other German-Jewish thinkers, Franz Rosenzweig and Walter Benjamin, albeit with important differences. In particular, I want to illustrate how Landauer\u2019s idea of an anarchic diaspora, as well as his idea of revolution as interruption, both based on a unique conception of time, can be seen as two powerful theologico-political devices that he used in order to dismantle a too narrow and too technical idea of politics. I will, therefore, examine how the anarchic diaspora finds its echo in Rosenzweig\u2019s thought, and how the idea of interruption and inversion can be found in Benjamin\u2019s conception of revolution.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Religions",
+        "type": "journal",
+        "issn": [
+          "2077-1444"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/13/2/165/pdf?version=1644900804"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Political Theology and Sovereignty",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W4213242418"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

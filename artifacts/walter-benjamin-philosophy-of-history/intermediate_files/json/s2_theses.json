@@ -1,0 +1,15 @@
+[s2_search.py] Searching Semantic Scholar: 'Benjamin theses philosophy of history catastrophe' (year=2000-2025) (field=Philosophy), limit=20
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "Benjamin theses philosophy of history catastrophe",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "api_error",
+      "message": "S2 API error: 500",
+      "recoverable": false
+    }
+  ]
+}

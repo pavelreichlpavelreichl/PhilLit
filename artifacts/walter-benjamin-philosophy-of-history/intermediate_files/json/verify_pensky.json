@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/407675
+[verify_paper.py] DOI verified: Melancholy Dialectics: Walter Benjamin and the Pla...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/407675"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/407675",
+      "title": "Melancholy Dialectics: Walter Benjamin and the Play of Mourning",
+      "authors": [
+        {
+          "family": "Isenberg",
+          "given": "Noah W."
+        },
+        {
+          "family": "Pensky",
+          "given": "Max"
+        }
+      ],
+      "editors": [],
+      "year": 1996,
+      "container_title": "The German Quarterly",
+      "volume": "69",
+      "issue": "3",
+      "page": "335",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/407675"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

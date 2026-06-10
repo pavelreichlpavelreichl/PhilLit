@@ -1,0 +1,872 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: benjamin
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Walter Benjamin
+{
+  "status": "success",
+  "source": "sep",
+  "query": "benjamin",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/benjamin/",
+      "entry_name": "benjamin",
+      "title": "Walter Benjamin",
+      "bibliography": [
+        {
+          "raw": "Eiland, H. and Jennings, M. W., Walter Benjamin: A Critical\nLife , Cambridge, MA & London: Harvard University Press,\n2014.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Leslie, E., 2007, Walter Benjamin: Critical Lives ,\nLondon: Reaktion Books.",
+          "parsed": {
+            "authors": [
+              "Leslie, E."
+            ],
+            "year": "2007",
+            "title": "Walter Benjamin: Critical Lives ",
+            "publisher": "London: Reaktion Books"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Brodersen, M., 1996, Walter Benjamin: A Biography , London\n& New York: Verso.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Scholem, G., 1981, Walter Benjamin: The Story of a\nFriendship , New York: Review Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Witte, B., 1991, Walter Benjamin: An Intellectual\nBiography , Detroit: Wayne University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wizisla, E., 2009, Walter Benjamin and Bertolt Brecht: the\nStory of a Friendship , London: Libris.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Benjamin, A. (ed.), 1989, The Problems of Modernity: Adorno\nand Benjamin , London: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 2005a, Walter Benjamin and\nArt , London & New York: Continuum.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013 (ed.), 2005a, Walter Benjamin and\nArt , London & New York: Continuum."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 2005b, Walter Benjamin and\nHistory , London & New York: Continuum.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013 (ed.), 2005b, Walter Benjamin and\nHistory , London & New York: Continuum."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Benjamin, A. and Hanssen, B. (eds.), 2002, Walter Benjamin and\nRomanticism , London & New York: Continuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Benjamin, A. and Osborne, P. (eds.), 1994/2000, Walter\nBenjamin\u2019s Philosophy: Destruction and Experience , London\n& New York: Routledge/Manchester: Clinamen Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ferris, D. S. (ed.), 2004, The Cambridge Companion to Walter\nBenjamin , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fischer, G. (ed.), 1996, With The Sharpened Axe of Reason:\nApproaches to Walter Benjamin , Oxford: Berg.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Goebel, R. J. (ed.), 2009, A Companion to the Works of Walter\nBenjamin , Rochester & Woodbridge: Camden House.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hanssen, B. (ed.), 2006, Walter Benjamin and the Arcades\nProject , London & New York: Continuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hartoonian, G., (ed.), 2010, Walter Benjamin and\nArchitecture , London & New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Osborne, P. (ed.), 2005, Walter Benjamin: Critical Evaluations\nin Cultural Theory , Volume I: Philosophy, Volume II: Modernity,\nVolume III: Appropriations, London & New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ross, N. (ed.), 2025, The Palgrave Walter Benjamin\nHandbook , Cham: Palgrave Macmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Smith, G. (ed.), 1988, On Walter Benjamin: Critical Essays and\nRecollections , Cambridge, MA. & London: MIT.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1989, Walter Benjamin:\nPhilosophy, Aesthetics, History , Chicago & London: University\nof Chicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1989",
+            "title": "\u2013\u2013\u2013 (ed.), 1989, Walter Benjamin:\nPhilosophy, Aesthetics, History , Chicago & London: University\nof Chicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Adorno, T. W., 1955, \u2018A Portrait of Walter Benjamin\u2019,\nin Prisms , Cambridge, MA.: MIT., 1983, pp.\n227\u2013242.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1931, \u2018The Actuality of\nPhilosophy\u2019, Telos , 31 (Spring 1977):\n120\u2013133.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1931",
+            "title": "\u2013\u2013\u2013, 1931, \u2018The Actuality of\nPhilosophy\u2019, Telos , 31 (Spring 1977):\n120\u2013133."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Agamben, G., 1970, \u2018On the Limits of Violence\u2019, trans.\nElisabeth Fay, Diacritics , 39(4) (Winter 2009):\n103\u2013111.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1998, Homo Sacer: Sovereign Power and\nBare Life , trans. D. Heller-Roazen, Stanford: Stanford\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1998",
+            "title": "\u2013\u2013\u2013, 1998, Homo Sacer: Sovereign Power and\nBare Life , trans. D. Heller-Roazen, Stanford: Stanford\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, State of Exception , trans.\nK. Attell, Chicago & London: University of Chicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, State of Exception , trans.\nK. Attell, Chicago & London: University of Chicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Allen, I. and Chari, A., 2015, \u2018Dialectical and Comic\nReflections: On Translating Benjamin\u2019s Radio Work\u2019, Theory & Event , 18(3).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Arendt, H., 1968, \u2018Introduction: Walter Benjamin,\n1892\u20131940\u2019, in Benjamin, W., 2007, Illuminations ,\nNew York: Shocken, pp. 1\u201355.",
+          "parsed": {
+            "authors": [
+              "Arendt, H., 1968, \u2018Introduction: Walter Benjamin,\n1892\u20131940\u2019, in Benjamin, W."
+            ],
+            "year": "2007",
+            "title": "Illuminations ",
+            "publisher": "New York: Shocken, pp. 1\u201355"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Ariella, A., 2007, \u2018The Tradition of the Oppressed\u2019, Qui Parle , 16 (2): 73\u201396.",
+          "parsed": {
+            "authors": [
+              "Ariella, A."
+            ],
+            "year": "2007",
+            "title": "\u2018The Tradition of the Oppressed\u2019",
+            "publisher": "Qui Parle , 16 (2): 73\u201396"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Asman, C. L., 1992, \u2018Theatre and Agon/Agon and Theatre:\nWalter Benjamin and Florens Christian Rang\u2019, MLN ,\n107(3): 606\u2013624.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Avelar, I., 2004, The Letter of Violence: Essays on Narrative,\nEthics, and Politics , New York & Basingstoke, England:\nPalgrave Macmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Barale, A., 2019, \u2018\u00ab Unbewaffnetes\nAuge \u00bb: Benjamin\u2019s interpretation of comedy in\nShakespeare and Moli\u00e8re\u2019, Aisthesis: Pratiche,\nLinguaggi E Saperi dell\u2019estetico , 12(2):\n127\u2013133.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Benjamin, A., 1989, \u2018Tradition and Experience: Walter\nBenjamin\u2019s Some Motifs in Baudelaire\u2019, in Benjamin, A.\n(ed.), 1989, pp. 122\u2013140.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, Working with Walter Benjamin:\nRecovering a Political Philosophy , Edinburgh: Edinburgh\nUniversity Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, Working with Walter Benjamin:\nRecovering a Political Philosophy , Edinburgh: Edinburgh\nUniversity Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Bernsa\u00efd, D., 1990, Walter Benjamin sentinelle\nmessianique: \u00c0 la gauche du possible , Paris: Plon.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bolle, W., 2009, \u2018Paris on the Amazon? Postcolonial\nInterrogations of Benjamin\u2019s European Modernism\u2019, in\nGoebel 2009, pp. 216\u2013245.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bontea, A., 2006, \u2018A Project in Its Context: Walter Benjamin\non Comedy,\u2019 MLN , 121(5): 1041\u201371.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brederkamp, H., 1999, \u2018From Walter Benjamin to Carl Schmitt,\nvia Thomas Hobbes\u2019, Critical Inquiry , 25(2):\n247\u2013266.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Buck-Morss, S., 1977, The Origins of Negative Dialectics:\nTheodor W. Adorno, Walter Benjamin and the Frankfurt Institute ,\nHassocks: Harvester Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1989, The Dialectics of Seeing ,\nCambridge, MA. & London: MIT Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1989",
+            "title": "The Dialectics of Seeing ",
+            "publisher": "Cambridge, MA. & London: MIT Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u2018Aesthetics and Anaesthetics:\nWalter Benjamin\u2019s Artwork Essay Reconsidered\u2019, October , 62: 3\u201341, reprinted in Osborne 2005, I:\n291\u2013331.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u2018Aesthetics and Anaesthetics:\nWalter Benjamin\u2019s Artwork Essay Reconsidered\u2019, October , 62: 3\u201341, reprinted in Osborne 2005, I:\n291\u2013331."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Bullock, M. P., 1987, Romanticism and Marxism: The\nPhilosophical Development of Literary Theory and Literary History in\nWalter Benjamin & Friedrich Schlegel , New York, Bern &\nFrankfurt am Main: Peter Lang.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Butler, J., 2006, \u2018Critique, Coercion, and Sacred Life in\nBenjamin\u2019s \u201cCritique of Violence\u201d\u2019, in Political Theologies: Public Religions in a Post-Secular\nWorld , ed. Hent de Vries and Lawrence Sullivan, New York: Fordham\nUniversity Press, pp. 201\u2013219.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Caygill, H., 1994, \u2018Benjamin, Heidegger and the Destruction\nof Tradition\u2019, in Benjamin and Osborne 1994/2000, pp.\n1\u201331.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1998, Walter Benjamin: The Colour of\nExperience , London: Routledge.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1998",
+            "title": "\u2013\u2013\u2013, 1998, Walter Benjamin: The Colour of\nExperience , London: Routledge."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2004, \u2018Walter Benjamin\u2019s\nConcept of Cultural History,\u2019 in Ferris 2004, pp.\n73\u201396.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2004",
+            "title": "\u2013\u2013\u2013, 2004, \u2018Walter Benjamin\u2019s\nConcept of Cultural History,\u2019 in Ferris 2004, pp.\n73\u201396."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, \u2018Non-Messianic Political\nTheology in Benjamin\u2019s \u201cOn the Concept of\nHistory\u201d\u2019, in Benjamin, A. 2005b, pp. 215\u2013226.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, \u2018Non-Messianic Political\nTheology in Benjamin\u2019s \u201cOn the Concept of\nHistory\u201d\u2019, in Benjamin, A. 2005b, pp. 215\u2013226."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Charles, M., 2013, \u2018Walter Benjamin and the Inhumanities:\nTowards a Pedagogical Anti-Nietzscheanism\u2019, in Pedagogies of\nDisaster , ed. Jenkins, N., van Gerven Oei, V. W. J., and Staley\nGroves, A., Brookyln, NY: Punctum, pp. 331\u2013354.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2018, \u2018Secret Signals from Another\nWorld: Walter Benjamin\u2019s Theory of Innervation\u2019, New\nGerman Critique , 45(3): 39\u201372.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2018",
+            "title": "\u2013\u2013\u2013, 2018, \u2018Secret Signals from Another\nWorld: Walter Benjamin\u2019s Theory of Innervation\u2019, New\nGerman Critique , 45(3): 39\u201372."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, Modernism Between Benjamin and\nGoethe , London: Bloomsbury.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, Modernism Between Benjamin and\nGoethe , London: Bloomsbury."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Chisholm, D., 2009, \u2018Benjamin\u2019s Gender, Sex, and\nEros\u2019, in Goebel 2009, pp. 246\u2013272.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, Queer constellations: subcultural\nspace in the wake of the city , Minneapolis: University of\nMinnesota Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, Queer constellations: subcultural\nspace in the wake of the city , Minneapolis: University of\nMinnesota Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Chow, R., 1989, \u2018Walter Benjamin\u2019s Love Affair with\nDeath\u2019, New German Critique , 48: 63\u201386.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Clark, T. J, 2003, \u2018Should Benjamin Have Read Marx\u2019, Boundary 2 , 30(1): 31\u201349; reprinted in Osborne 2005,\nIII: 81\u201396.",
+          "parsed": {
+            "authors": [
+              "Clark, T. J"
+            ],
+            "year": "2003",
+            "title": "\u2018Should Benjamin Have Read Marx\u2019, Boundary 2 , 30(1): 31\u201349; reprinted in Osborne 2005",
+            "publisher": "III: 81\u201396"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Cohen, M., 1993, Profane Illumination: Walter Benjamin and the\nParis of Surrealist Revolution , Berkeley & Los Angeles:\nUniversity of California Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Cowan, B., 1981, \u2018Walter Benjamin\u2019s Theory of\nAllegory\u2019, New German Critique , 22: 109\u2013122.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Derrida, J., 1990, \u2018Force of Law: The \u201cMystical\nFoundations of Authority\u201d\u2019, trans. Mary Quaintance, Cardozo Law Review , 11: 973\u20131045, reprinted in Osborne\n2005, 1: 398\u2013432.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1994, Spectres of Marx: the state of\nthe debt, the work of mourning, and the New International , trans.\nP. Kamuf, London: Routledge.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013, 1994, Spectres of Marx: the state of\nthe debt, the work of mourning, and the New International , trans.\nP. Kamuf, London: Routledge."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, The Politics of Friendship ,\ntrans. G. Collins, London & New York: Verso.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "The Politics of Friendship ",
+            "publisher": "trans. G. Collins, London & New York: Verso"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1999, \u2018Marx and Sons\u2019, in Ghostly demarcations: a symposium on Jacques Derrida\u2019s\nSpectres of Marx , ed. M. Sprinker, London & New York: Verso,\npp. 213\u2013269.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1999",
+            "title": "\u2013\u2013\u2013, 1999, \u2018Marx and Sons\u2019, in Ghostly demarcations: a symposium on Jacques Derrida\u2019s\nSpectres of Marx , ed. M. Sprinker, London & New York: Verso,\npp. 213\u2013269."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Didi-Huberman, G., 2005, \u2018The Supposition of the Aura: The\nNow, the Then and Modernity\u2019, in Benjamin, A., 2005b, pp.\n2\u201318.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Eagleton, T., 1981, Walter Benjamin, Or, Towards a\nRevolutionary Criticism , London: NLB.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Eiland, H., 2011, \u2018Translator\u2019s Introduction\u2019,\nin EW, pp. 1\u201313.",
+          "parsed": {
+            "authors": [
+              "Eiland, H."
+            ],
+            "year": "2011",
+            "title": "\u2018Translator\u2019s Introduction\u2019",
+            "publisher": "in EW, pp. 1\u201313"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Erazo-Heufelder, J., 2017, Der argentinische Kr\u00f6sus:\nKleine Wirtschaftsgeschichte der Frankfurter Schule , Berlin:\nBerenberg Verlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ferber, I., 2013, Philosophy and Melancholy: Benjamin\u2019s\nEarly Reflections on Theater and Language , Stanford: Stanford\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Feuer, M., 2018, \u2018Discovering the Truth of Sancho Panza: The\nMeaning of Comedy in Adorno\u2019s and Benjamin\u2019s Divergent\nReadings of Don Quixote\u2019, in Benjamin, Adorno, and the\nExperience of Literature , ed. McCall, C. and Ross, N., New York:\nRoutledge, pp. 126\u2013140.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fleck, C., 2023, \u2018The Political Economy of the Frankfurt\nSchool\u2019, Society , 60: 106\u2013113.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Friedlander, E., 2012, Walter Benjamin: A Philosophical\nPortrait , Cambridge, MA: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Frisby, D., 1996, \u2018Walter Benjamin\u2019s Prehistory of\nModernity as Anticipation of Postmodernity? Some Methodological\nReflections\u2019, in Fischer 1996, pp. 15\u201332.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fuld, W., 1981, \u2018Walter Benjamins Beziehung zu Ludwig\nKlages\u2019, Akzente , 28(3): 274\u2013287.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gilloch, G., 2000, Walter Benjamin: Critical\nConstellations , Cambridge: Polity.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Goebel, R. J., 2001, Benjamin heute. Gro\u00dfstadtdiskurs,\nPostkolonialit\u00e4t und Flanerie zwischen den Kulturen , Munich:\nIudicium.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Greenberg, U. E., 2008, \u2018Orthodox violence:\n\u2018\u2018Critique of Violence\u2019\u2019 and Walter\nBenjamin\u2019s Jewish political theology,\u2019 History of\nEuropean Ideas , 34: 324\u2013333.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Habermas, J., 1983, \u2018Walter Benjamin: Consciousness-raising\nor rescuing critique\u2019, in Philosophical-Political\nProfiles , trans. Frederick G. Lawrence, Cambridge, MA. &\nLondon: MIT Press, pp. 129\u2013163, reprinted in Osborne 2005, I:\n107\u2013136.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hamacher, W., 1991, \u2018Afformative, Strike\u2019, trans. Dana\nHollander, Cardozo Law Review Review , 13: 1132\u20131157,\nreprinted in Benjamin, A. and Osborne 1994/2000: 110\u2013138.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, \u2018Guilt History:\nBenjamin\u2019s Sketch \u201cCapitalism as Religion\u201d\u2019, Diacritics , 32(3/4): 81\u2013106.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, \u2018Guilt History:\nBenjamin\u2019s Sketch \u201cCapitalism as Religion\u201d\u2019, Diacritics , 32(3/4): 81\u2013106."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hansen, M., 1987, \u2018Benjamin, Cinema and Experience:\n\u201cThe Blue Flower in the Land of Technology\u201d\u2019, New German Critique , 40: 179\u2013224; reprinted in Osborne\n2005, II: 253\u2013290.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, Cinema and Experience: Siegfried\nKracauer, Walter Benjamin, and Theodor W. Adorno , Los Angeles\n& London: University of California Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "\u2013\u2013\u2013, 2011, Cinema and Experience: Siegfried\nKracauer, Walter Benjamin, and Theodor W. Adorno , Los Angeles\n& London: University of California Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hanssen, B., 1995, \u2018Philosophy at Its Origin: Walter\nBenjamin\u2019s Prologue to the Ursprung des deutschen\nTrauerspiels \u2019, MLN , 110(4): 809\u2013833.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1998, Walter Benjamin\u2019s Other\nHistory: Of Stones, Animals, Human Beings, and Angels , Berkeley,\nLos Angeles & London: University of California Press.#",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1998",
+            "title": "\u2013\u2013\u2013, 1998, Walter Benjamin\u2019s Other\nHistory: Of Stones, Animals, Human Beings, and Angels , Berkeley,\nLos Angeles & London: University of California Press.#"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hill, S. R. and Gillespie, S. H., 2019, \u2018On Walter\nBenjamin\u2019s Legacy: A Correspondence Between Hannah Arendt and\nTheodor Adorno\u2019, LA Review of Books .",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hodge, J., 2005, \u2018The Timing of Elective Affinity: Walter\nBenjamin\u2019s Strong Aesthetics\u2019, in Benjamin, A., 2005a, pp.\n14\u201331.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Holz, H. H., 1992, Philosophie der zersplittern Welt:\nReflexionen \u00fcber Walter Benjamin , Bonn:\nPahl-Rugenstein.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kang, J., 2014, Walter Benjamin and the Media: the Spectacle\nof Modernity , Cambridge: Polity.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Khatib, S., 2013, \u2018The Messianic Without Messianism: Walter\nBenjamin\u2019s Materialist Theology\u2019, Anthropology &\nMaterialism , 1. doi:10.4000/am.159",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, Teleologie ohne Endzweck. Walter\nBenjamins Ent-stellung des Messianischen , Marburg: Tectum.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, Teleologie ohne Endzweck. Walter\nBenjamins Ent-stellung des Messianischen , Marburg: Tectum."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017, \u2018Society and Violence\u2019,\nin The SAGE Handbook of Frankfurt School Critical Theory , ed.\nBest, B., Bonefeld, W. and O\u2019Kane, C., Los Angeles, London, New\nDelhi, Singapore: Sage, pp. 607\u2013624.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017, \u2018Society and Violence\u2019,\nin The SAGE Handbook of Frankfurt School Critical Theory , ed.\nBest, B., Bonefeld, W. and O\u2019Kane, C., Los Angeles, London, New\nDelhi, Singapore: Sage, pp. 607\u2013624."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Kittsteiner, H. D., 1986, \u2018Walter Benjamin\u2019s\nHistoricism\u2019, New German Critique , 39:\n179\u2013215.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kohlenbach, M., 2002, Walter Benjamin: Self-Reference and\nReligiosity , Basingstoke, England and New York, NJ: Palgrave\nMacmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kolour, J. M.,2023, \u2018The politics of Benjamin\u2019s\nlaughter at melancholy\u2019, Critique , 51(4):\n459\u2013485.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lacoue-Labarthe, P., 1992, \u2018Introduction to Walter\nBenjamin\u2019s The Concept of Art Criticism in German\nRomanticism\u2019, Studies in Romanticism , 31(4):\n421\u2013432, reprinted in Hanssen and Benjamin, A. 2002, pp.\n9\u201318.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lambrianou, N., 2005, \u2018Neo-Kantianism and Messianism: Origin\nand Interruption in Hermann Cohen and Walter Benjamin\u2019, in\nOsborne 2005, I: 82\u2013104.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lebovic, N., 2013, The Philosophy of Life and Death: Ludwig\nKlages and the Rise of Nazi Biopolitics , New York &\nBasingstoke: Palgrave Macmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Leslie, E., 2000, Walter Benjamin: Overpowering\nConformism , London: Pluto.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008, \u2018Revolutionary Potential and\nWalter Benjamin: A Postwar Reception History\u2019, in Critical\nCompanion to Contemporary Marxism , eds. Jacques Bidet and Stavis\nKouvelakis, Leiden: Brill, pp. 549\u2013566.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008, \u2018Revolutionary Potential and\nWalter Benjamin: A Postwar Reception History\u2019, in Critical\nCompanion to Contemporary Marxism , eds. Jacques Bidet and Stavis\nKouvelakis, Leiden: Brill, pp. 549\u2013566."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Lewis, T. E., 2020, Walter Benjamin\u2019s Antifascist\nEducation: From Riddles to Radio , Albany: SUNY.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lindner, B. (ed.), 2006, Benjamin-Handbuch. Leben, Werk,\nWirkung , Stuttgart: Metzler.",
+          "parsed": {
+            "authors": [
+              "Lindner, B. (ed.)"
+            ],
+            "year": "2006",
+            "title": "Benjamin-Handbuch. Leben, Werk",
+            "publisher": "Wirkung , Stuttgart: Metzler",
+            "is_edited": true
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Liska, V., 2009, \u2018The Legacy of Benjamin\u2019s Messianism:\nGiorgio Agamben and Other Contenders\u2019, in Goebel 2009, pp.\n195\u2013215.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00f3pez, N., 2022, \u2018De La \u201cHumaneidad\nNo-Incrementada\u201d al \u201cHumanism Real De Lo No-Humano\u201d:\nLa Pol\u00e9mica de Walter Benjamin con el \u00dcbermensch\u2019, Eidos , 38: 98\u2013122.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00f6wy, M., 2005, Fire Alarm: Reading Walter\nBenjamin\u2019s \u2018On the Concept of History\u2019, trans.\nChris Turner, London & New York: Verso.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McCole, J. J., 1993, Walter Benjamin and the Antinomies of\nTradition , Ithaca, NY: Cornell University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McFarland, J., 2013, Constellation: Friedrich Nietzsche and\nWalter Benjamin in the Now-Time of History , New York: Fordham\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Menninghaus, W., 2002, \u2018Walter Benjamin\u2019s Exposition\nof the Romantic Theory of Reflection\u2019, trans. Robert J. Kiss, in\nHanssen and Benjamin, A. 2002, pp. 19\u201350, reprinted in Osborne\n2005, I: 25\u201362.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mulder, B., 2015, De nazi\u2019s te slim af zijn. Sophie\nLouisa Kwaak en het kapitaal van de Frankfurter Schule ,\nGorredijk, the Netherlands: Bornmeer.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Newman, J. O., 2011, Benjamin\u2019s Library: Modernity,\nNation, and the Baroque , Ithaca, NY: Cornell University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Osborne, P., 1995, The Politics of Time: Modernity and\nAvant-Garde , London & New York: Verso.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, \u2018Philosophy after Theory:\nTransdisciplinarity and the New\u2019, in Theory After\n\u2018Theory\u2019 , eds. Jane Elliott and Derek Attridge,\nAbingdon: Routledge, pp. 19\u201333.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "\u2013\u2013\u2013, 2011, \u2018Philosophy after Theory:\nTransdisciplinarity and the New\u2019, in Theory After\n\u2018Theory\u2019 , eds. Jane Elliott and Derek Attridge,\nAbingdon: Routledge, pp. 19\u201333."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Procyshyn, A., 2014, \u2018Manifest Reason: Walter Benjamin on\nViolence and Collective Agency\u2019, Constellations , 21(3):\n390\u2013400.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Raz-Krakotzkin, A., 2013, \u2018On the Right Side of the\nBarricades: Walter Benjamin, Gershom Scholem and Zionism\u2019, Comparative Literature , 65(3): 363\u2013381.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rrenban, M., 2005, Wild, Unforgettable Philosophy: In Early\nWorks of Walter Benjamin , Lanham & Oxford: Lexington\nBooks.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Roff, S. L., 2004, \u2018Benjamin and Psychoanalysis\u2019, in\nFerris 2004, pp. 115\u2013133.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Schmitt, C., 1956, Hamlet or Hecuba: the intrusion of time\ninto the play , trans. D. Pan & J. Rust, New York: Telos\nPress, 2009.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sch\u00f6ttker, D. and Wizisla, E. (eds.), 2017, Arendt und\nBenjamin: Texte, Briefe, Dokumente , Frankfurt am Main:\nSuhrkamp.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Steiner, U., 2001, \u2018The True Politician: Walter\nBenjamin\u2019s Concept of the Political\u2019, trans. C. Sample, New German Critique , 83: 43\u201388.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, Walter Benjamin: An Introduction\nto his Work and Thought , trans. Michael Winkler, Chicago &\nLondon: University of Chicago Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, Walter Benjamin: An Introduction\nto his Work and Thought , trans. Michael Winkler, Chicago &\nLondon: University of Chicago Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Tiedemann, R., 1983\u20134, \u2018Historical Materialism or\nPolitical Messianism? An Interpretation of the Theses \u201cOn the\nConcept of History\u201d\u2019, in Smith 1989, pp. 175\u2013209,\nreprinted in Osborne 2005, I: 137\u2013168.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tomba, M., 2009, \u2018Another Kind of Gewalt : Beyond\nLaw. Re-Reading Walter Benjamin\u2019, Historical\nMaterialism , 17(1): 126\u2013144.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006, La vera politica. Kant e\nBenjamin: la possibilit\u00e0 della giustizia , Macerata:\nQuodlibet.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006, La vera politica. Kant e\nBenjamin: la possibilit\u00e0 della giustizia , Macerata:\nQuodlibet."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Weber, S., 2008, Benjamin\u2019s abilities , Cambridge,\nMA., & London: Harvard University Press.",
+          "parsed": {
+            "authors": [
+              "Weber, S."
+            ],
+            "year": "2008",
+            "title": "Benjamin\u2019s abilities , Cambridge",
+            "publisher": "MA., & London: Harvard University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Weigel, S., 1996, Body- and Image-Space: Re-Reading Walter\nBenjamin , London & New York: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wohlfarth, I., 1978, \u2018On the Messianic Structure of\nBenjamin\u2019s Last Reflections\u2019, Glyph , 3:\n148\u2013212; reprinted in Osborne 2005, I: 169\u2013231.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u2018The Politics of Youth: Walter\nBenjamin\u2019s Reading of The Idiot\u2019, Diacritics , 22\n(3/4): 160\u2013172.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u2018The Politics of Youth: Walter\nBenjamin\u2019s Reading of The Idiot\u2019, Diacritics , 22\n(3/4): 160\u2013172."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, \u2018Walter Benjamin and the Idea\nof Technological Eros: A Tentative Reading of Zum\nPlanetarium \u2019, Benjamin Studies/Studien , 1:\n65\u2013109.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, \u2018Walter Benjamin and the Idea\nof Technological Eros: A Tentative Reading of Zum\nPlanetarium \u2019, Benjamin Studies/Studien , 1:\n65\u2013109."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008\u20139, \u2018Walter Benjamin and\nthe Red Army Faction\u2019, Parts, 1\u20133, Radical\nPhilosophy , 152 (Part 1, Nov/Dec 2008): 7\u201319; 153 (Part 2,\nJan/Feb 2009): 13\u201326; 154 (Part 3, March/April 2009)\n9\u201324.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008\u20139, \u2018Walter Benjamin and\nthe Red Army Faction\u2019, Parts, 1\u20133, Radical\nPhilosophy , 152 (Part 1, Nov/Dec 2008): 7\u201319; 153 (Part 2,\nJan/Feb 2009): 13\u201326; 154 (Part 3, March/April 2009)\n9\u201324."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Wolin, R., 1994, An Aesthetics of Redemption , Berkeley\n& Los Angeles: University of California Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

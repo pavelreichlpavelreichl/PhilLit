@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Messianic Reduction: Walter Benjamin and the S...' author=Fenves year=2011
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Messianic Reduction: Walter Benjamin and the Shape of Time",
+    "author": "Fenves",
+    "year": 2011
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (27.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.13128/aisthesis-20914
+[verify_paper.py] DOI verified: The Organization of Pessimism: Profane Illuminatio...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.13128/aisthesis-20914"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.13128/aisthesis-20914",
+      "title": "The Organization of Pessimism: Profane Illumination and Anthropological Materialism in Walter Benjamin",
+      "authors": [
+        {
+          "family": "Ibarluc\u00eda",
+          "given": "Ricardo"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Aisthesis. Pratiche, linguaggi e saperi dell\u2019estetico",
+      "volume": "10",
+      "issue": "1",
+      "page": "139-160",
+      "publisher": "Firenze University Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.13128/aisthesis-20914"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

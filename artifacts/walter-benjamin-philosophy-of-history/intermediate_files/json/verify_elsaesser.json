@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3366/E0264833409000625
+[verify_paper.py] DOI verified: Between <b><i>Erlebnis</i></b> and <b><i>Erfahrung...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3366/E0264833409000625"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3366/e0264833409000625",
+      "title": "Between <b><i>Erlebnis</i></b> and <b><i>Erfahrung</i></b>: Cinema Experience with Benjamin",
+      "authors": [
+        {
+          "family": "Elsaesser",
+          "given": "Thomas"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "Paragraph",
+      "volume": "32",
+      "issue": "3",
+      "page": "292-312",
+      "publisher": "Edinburgh University Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3366/e0264833409000625"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Walter Benjamin Bertolt Brecht Story Friendship...' author=Wizisla year=2009
+[verify_paper.py] Paper found: Walter Benjamin and Bertolt Brecht... (score: 85.1)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Walter Benjamin Bertolt Brecht Story Friendship",
+    "author": "Wizisla",
+    "year": 2009
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/j.ctt1bhkp75",
+      "title": "Walter Benjamin and Bertolt Brecht",
+      "authors": [
+        {
+          "family": "Wizisla",
+          "given": "Erdmut"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Yale University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/j.ctt1bhkp75",
+      "score": 85.11194
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

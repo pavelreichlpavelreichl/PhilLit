@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4000/am.348
+[verify_paper.py] DOI verified: ‘To Win the Energies of Intoxication for the Revol...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4000/am.348"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4000/am.348",
+      "title": "\u2018To Win the Energies of Intoxication for the Revolution\u2019",
+      "authors": [
+        {
+          "family": "Khatib",
+          "given": "Sami"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Anthropology &amp; Materialism",
+      "volume": "2",
+      "issue": "",
+      "page": "",
+      "publisher": "OpenEdition",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4000/am.348"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

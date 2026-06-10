@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.24917/20841043.14.1.3
+[verify_paper.py] DOI verified: Left-wing melancholia today: Overview of a concept...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.24917/20841043.14.1.3"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.24917/20841043.14.1.3",
+      "title": "Left-wing melancholia today: Overview of a concept",
+      "authors": [
+        {
+          "family": "Brze\u017aniak",
+          "given": "Filip"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Argument: Biannual Philosophical Journal",
+      "volume": "14",
+      "issue": "1",
+      "page": "",
+      "publisher": "The Pedagogical University of Cracow/Uniwersytet Pedagogiczny w Krakowie",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.24917/20841043.14.1.3"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

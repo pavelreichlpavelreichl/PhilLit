@@ -1,0 +1,401 @@
+[search_openalex.py] Searching OpenAlex: 'Habermas Philosophical Discourse Modernity twelve lectures 1987' (year=1985-1992), limit=25
+[search_openalex.py] Retrieved 11 papers...
+[search_openalex.py] Search complete: 11 papers found
+[search_openalex.py] Cached results (cache key: openalex_e386c955a6fb48ed)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Habermas Philosophical Discourse Modernity twelve lectures 1987",
+  "results": [
+    {
+      "openalex_id": "W1978514028",
+      "doi": "10.2307/1962504",
+      "title": "The Philosophical Discourse of Modernity: Twelve Lectures. By Jurgen Habermas. Translated by Frederick Lawrence, with an introduction by Thomas McCarthy (Cambridge: MIT Press, 1987. xvii, 430p. $27.50).",
+      "authors": [
+        {
+          "name": "Stephen K. White",
+          "openalex_id": "A5027147219",
+          "orcid": "https://orcid.org/0000-0002-4817-323X",
+          "institutions": [
+            "Virginia Tech"
+          ]
+        }
+      ],
+      "publication_year": 1988,
+      "publication_date": "1988-09-01",
+      "abstract": "The Philosophical Discourse of Modernity: Twelve Lectures. By Jurgen Habermas. Translated by Frederick Lawrence, with an introduction by Thomas McCarthy (Cambridge: MIT Press, 1987. xvii, 430p. $27.50). - Volume 82 Issue 3",
+      "cited_by_count": 204,
+      "type": "article",
+      "source": {
+        "name": "American Political Science Review",
+        "type": "journal",
+        "issn": [
+          "0003-0554",
+          "1537-5943"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1978514028"
+    },
+    {
+      "openalex_id": "W257523403",
+      "doi": null,
+      "title": "Critical systems thinking and pluralism : a new constellation",
+      "authors": [
+        {
+          "name": "Wendy Gregory",
+          "openalex_id": "A5060191457"
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-09-01",
+      "abstract": "This thesis explains theoretical issues concerned with paradigm incommensurability and the solutions offered by various critical systems writers. The problems of \"imperialism\" are outlined together with an analysis of the meta-theoretical views which purport to avoid imperialism. It is suggested that researchers attempting to understand alien or incommensurable paradigms or cultures often succumb to imperialism in its various guises. Three models of methods used by such researchers are described. The last of these, the model of critical appreciation, incorporates two crucial components advocated by Habermas and endorsed by Bernstein: critical self-reflection based upon an analogy of Freud's model of dream analysis, and an explicit critique of ideology. Methodological guidelines are offered which draw on an analogy of dream-analysis and on historical reconstruction as ideology-critique. It is suggested that any social inquiry must contain elements of \"reflexive\" (philosophical) and \"scientific\" (practical) inquiry together with ideology-critique and critical self-reflection in order to bring about the emancipation of individuals and groups. A model of self-society dynamics reveals the need for reflexive inquiry, discourse and action (as exemplified in the critical appreciation process) in any efforts to transform 'self' or 'society'. Consideration turns to the relationship between critical thinking and pluralism. The enriched version of critical appreciation is shown to require an a prior commitment to a new, discordant pluralism, which it also suggests in its modus operandii. In particular, the 'either/or' problematique presented by many writers is transformed into a 'both/and' juxtapositioning which lends its support to the form of pluralism involving both critical self-reflection and ideology-critique. The fully elaborated model of critical appreciation will finally be shown to fulfil the demands of the commitments of critical systems thinking.",
+      "cited_by_count": 72,
+      "type": "dissertation",
+      "source": {
+        "name": "City Research Online (City University London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://openaccess.city.ac.uk/id/eprint/8262/1/Critical_systems_thinking_and_pluralism_-_a_new_constellation.pdf"
+      },
+      "topics": [
+        "Complex Systems and Decision Making"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W257523403"
+    },
+    {
+      "openalex_id": "W2021901974",
+      "doi": "10.5840/faithphil19918441",
+      "title": "The Metaphor of the Covenant in Habermas",
+      "authors": [
+        {
+          "name": "S. Griffioen",
+          "openalex_id": "A5065049527"
+        },
+        {
+          "name": "The Society of Christian Philosophers",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": null,
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Faith and Philosophy",
+        "type": "journal",
+        "issn": [
+          "0739-7046",
+          "2153-3393"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=1343&context=faithandphilosophy"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2021901974"
+    },
+    {
+      "openalex_id": "W2625977291",
+      "doi": "10.1080/10349952.1992.11876774",
+      "title": "The Notion of Trust in Social Theory",
+      "authors": [
+        {
+          "name": "Barbara A. Misztal",
+          "openalex_id": "A5113462305"
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-12-01",
+      "abstract": "Abstract \u201cWe study what is significant for us and we explain the problems we study in terms of their significance for us\u201d (Abrams 1982:78).",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Policy and Society",
+        "type": "journal",
+        "issn": [
+          "1449-4035",
+          "1839-3373"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/policyandsociety/article-pdf/5/1/6/42633492/10349952.1992.11876774.pdf"
+      },
+      "topics": [
+        "Critical Realism in Sociology",
+        "Social and Cultural Dynamics",
+        "Weber, Simmel, Sociological Theory"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W2625977291"
+    },
+    {
+      "openalex_id": "W2806964511",
+      "doi": null,
+      "title": "Book Review: Habermas and the Theologians Again",
+      "authors": [
+        {
+          "name": "Paul Lakeland",
+          "openalex_id": "A5083897594"
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-01-01",
+      "abstract": "Review of: BEYOND OBJECTIVISM AND RELATIVISM: SCIENCE, HERMENEUTICS AND PRAXIS By Richard J. Bernstein Philadelphia: University of Pennsylvania Press, 1985 Pp. xix + 284. Paper, $10.95. A POLITICAL DOGMATIC By Jens Glebe-M\u00f6ller Translated by Thor Hall Philadelphia: Fortress Press, 1987 Pp. xxiii + 147. Paper, $10.95. THE PHILOSOPHICAL DISCOURSE OF MODERNITY: TWELVE LECTURES By J\u00fcrgen Habermas Translated by Frederick Lawrence Studies in Contemporary German Social Thought Cambridge, MA: MIT Press, 1987 Pp. xx + 430. $27.50. POLITY AND PRAXIS: A PROGRAM FOR AMERICAN PRACTICAL THEOLOGY By Dennis P. McCann and Charles R. Strain Minneapolis: Winston Press, 1985 Pp. vi + 244.121.95. NEW EXPERIMENT IN DEMOCRACY: THE CHALLENGE FOR AMERICAN CATHOLICISM By Dennis P. McCann Kansas City, MO: Sheed & Ward, 1987 Pp. vi + 191. $8.95.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "DigitalCommons - Fairfield (Fairfield University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Religion and Society Interactions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2806964511"
+    },
+    {
+      "openalex_id": "W2329900366",
+      "doi": "10.2307/2709586",
+      "title": "Heidegger at 100, in America",
+      "authors": [
+        {
+          "name": "David Kolb",
+          "openalex_id": "A5079930928"
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": "The year 1989 marked the one hundredth anniversary of the birth of Martin Heidegger. What has happened to his thought in America? This essay offers a perspective on what I take to be the main trends and some representative works in Heidegger studies on the American side of the Atlantic (with perforce some simplifications both within and among the trends I mention). Heidegger does keep attracting more attention worldwide, at least as measured by the number of articles or books prominently mentioning him. A computer search of the Philosopher's Index found 1,924 mentions of Heidegger in either the title or the abstract of items indexed since the 1940 starting date of the index. Mentions of Heidegger have increased in each five-year period since World War II, and out of all the indexed items mentioning Heidegger, 27% (527 items) have been published in the last five years.To commemorate the centennial, a number of major conferences were held. At Loyola University in Chicago speakers from many nations concentrated on Heidegger's central ideas, often using contemporary French thought to help explicate Heidegger. At Berkeley a conference discussed applying Heidegger. Psychologists and social workers were among the intended audience, as well as analytic philosophers. At Yale Heidegger's politics and his Nazi connections were the focus. At Memphis State University, many ways of interpreting Heidegger were present, and conversation between them was at times difficult. All claim to be appropriating Heidegger's unique contribution. But there are disagreements as to what that contribution might be. The diverse conferences are emblematic of the divided state of Heidegger studies today. Heidegger has become common intellectual property. Thinkers approach him with different agendas; they find his thought useful for purposes he might not have approved of, and they do not necessarily accept his overall program.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Journal of the History of Ideas",
+        "type": "journal",
+        "issn": [
+          "0022-5037",
+          "1086-3222"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/KOLHA-2.pdf"
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2329900366"
+    },
+    {
+      "openalex_id": "W642786814",
+      "doi": "10.31390/gradschool_disstheses.5446",
+      "title": "Musical Invention and Poetry in the Late Vocal Works of Anton Webern.",
+      "authors": [
+        {
+          "name": "Melanie Kronick",
+          "openalex_id": "A5098247451",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "From the time of his composition of Op. 23 (1933-34) until his death, Anton Webern composed a series of important twelve-tone vocal works whose texts are drawn exclusively from the poetry of Hildegard Jone. Yet Webern scholars typically ignore the texts of these works when analyzing the scores in which the poems are embedded. My discussion shows, however, that Webern made important musical choices as a result of the poetic content of his texts. While Jone's poems are plentiful in metaphors of natural phenomena and images from German romantic poetry, I argue that they are concerned as much with poetic interpretation and expression as with spring, flower, and sky. In fact, Webern's texts that seem most evocative of seasonal regeneration and fruition of plants can easily be read as meditations on artistic creativity. Thus, Webern's texts refer to the musical compositions of which they are a part: this self-reference deliberately calls attention to Webern's music as \"compositions-in-progress.\". The pieces I consider are those that most palpably demonstrate the self-referential aspects of Webern's late vocal music and are representative genres as well: the Klavierlied (Op. 23/1 and Op. 23/2), the orchestral Lied (Op. 29/2), the single-movement cantata (Op. 26), and the cantata chorus with soloist and orchestra (Op. 29/3). These works are closely examined in terms of their musico-poetic relations, and they are discussed within the contexts of Jone's literary concerns and of the intellectual friendship between poet and composer.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=6445&context=gradschool_disstheses"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Weber, Simmel, Sociological Theory",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W642786814"
+    },
+    {
+      "openalex_id": "W1981183293",
+      "doi": "10.17161/ajp.1808.9334",
+      "title": "Merleau-Ponty's Phenomenology of Sympathy",
+      "authors": [
+        {
+          "name": "Martin J. Matu\u0161t\u00edk",
+          "openalex_id": "A5017923546",
+          "institutions": [
+            "Fordham University",
+            "Northwestern University"
+          ]
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": "-Ponty never wrote a phenomenology of sympathy. But his use of sympathy in accounting for human relationships parallels in intent and manner his treatment of perception in the Phenomenology.} In addressing the paradox of alterity, he draws an analogy between perception and sympathy: just as perceptual consciousness founds intersubjective thematic experience, in the same way pre-personal sympathy accounts for the possibility of affective intersubjective relations. Just as my body, as the system of all my holds on the world, founds the unity of the objects I perceive, in the same way the body of the other-as the bearer of symbolic behaviors and of the behavior of true realitytears itself away from being one of my phenomena, offers me the task of a true communication, and confers on my objects the new dimension of intersubjective being or, in other words, of objectivity (PrP in PoP 18).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Auslegung a Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0733-4311",
+          "2376-6727"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.ku.edu/auslegung/article/download/13023/12319"
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy",
+        "Philosophy, Ethics, and Existentialism",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W1981183293"
+    },
+    {
+      "openalex_id": "W1587726625",
+      "doi": null,
+      "title": "Notes on Critical Accounting Literature - Some Inner Contradictions, Diversities, the Need for Perspective Choices in Organisational Analysis",
+      "authors": [
+        {
+          "name": "Sudhir Lodh",
+          "openalex_id": "A5023431803"
+        },
+        {
+          "name": "Michael Gaffikin",
+          "openalex_id": "A5027527755",
+          "orcid": "https://orcid.org/0000-0002-0078-7988"
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": "This paper has several aims. First, it is a propaedeutic paper concerned with thinking and understanding the critical accounting literature. Secondly, it examines some inner contradictions in philosophical assumptions, the problematic 'knowledge claim' and diversities of perspectives that have been advanced in the critical accounting literature. Thirdly, a prescriptive understanding of the nature of organisational 'culture' and its transition processes in order to focus on the necessity of perspective choices is advanced. Fourthly, it is argued that the concepts of 'organisational change' and 'change in a (pedagogic) discipline' are not parallel. This view ultimately leads us to argue, from a 'research student perspective', that it is not possible to start a major research study in a vacuum: it is necessary to examine the history of existing thought and theories of a discipline in order to focus on a research interest and as well as determine the choice of the most appropriate research framework. Finally, an example of an evaluation is cited following a Habermasian critical approach in order to show some possible accounting interventions and research propositions in the area of (management) accounting and control systems research in a micro-organisational context",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Research Online (University of Wollongong)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1118&context=accfinwp"
+      },
+      "topics": [
+        "Accounting and Organizational Management",
+        "Auditing, Earnings Management, Governance",
+        "Management and Organizational Studies"
+      ],
+      "referenced_works_count": 86,
+      "url": "https://openalex.org/W1587726625"
+    },
+    {
+      "openalex_id": "W108186226",
+      "doi": "10.13023/disclosure.01.06",
+      "title": "Philosophy of Science?",
+      "authors": [
+        {
+          "name": "Dean Andrade",
+          "openalex_id": "A5048622264",
+          "institutions": [
+            "University of Wisconsin\u2013Milwaukee"
+          ]
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "Prometheus brought to the world knowledge in the form of fire; Lucifer came bearing light in the form of a tempting but lethal apple.The Western world, gleefully ignoring the warnings contained in its cultural tradition, has since developed a massive technical complex that today",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "UKnowledge (University of Kentucky)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://uknowledge.uky.edu/disclosure/vol1/iss1/6"
+      },
+      "topics": [
+        "Foucault, Power, and Ethics",
+        "African cultural and philosophical studies",
+        "Pragmatism in Philosophy and Education"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W108186226"
+    },
+    {
+      "openalex_id": "W4239840500",
+      "doi": "10.1353/book.46091",
+      "title": "The Self and Its Pleasures",
+      "authors": [
+        {
+          "name": "Dean, Carolyn J.",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "and Lacan paid homage, conceived the dialectic as a strug gle for recognition illustrated aboye all in Hegel's analysis of the master-slave conflicto He focused on Th e Ph enomenology 01 Min d, instead of Hegel's other texts, and stressed the existential forces of desire, lack, and struggle over Hegel's more metaphysical em phasis on reason, totality, and knowledge.He thus participated in a more general rejection of rationalism by focusing on the para doxes and indeed the violence implicit in Hegel's account of the dialectic.In other words, Kojeve focused on the other side of rea son, on struggle rather than on synthesis, and hence turned Hegel's positive dialectic of self-recognition into a negative one.He point ed to what one philosopher has called the \"unreasonable origins of reason.\"gBataille and Lacan drew in different ways on both surrealism and K.ojeve's lectures on Hegel, and used them to frame their other interests in anthropology, sociology, philosophy, and psycho analysis.They both participated in the general attempt to rescue the self from reification, and both assimilated Kojeve's reading of Hegel in terms of a negative dialectic.To gether and yet separately, they redefined the relation of desire to culture and aesthetics and, in so doing, constructed the foundations of a new theory of subjec tivity that extended and transformed modemist and psycho analytic thought.Both conceived the true self to be an other.But closer to K.ojeve (and in Bataille's case, to Nietzsche) than to the surrealists, Husserl, or Heidegger, they did not see the self as sim ply cut loose, alienated from its origins they believed these origins to be irretrievable.Bataille and Lacan thus conceived the \"true\" self, paradoxically, as an unsymbolizable and hence inaccessible art was symptomatic of a world deprived of referents.The \"void\" of language, he claims, mirrored in complicated ways the abyss symbolized by the power vacuum in French politics during the 1930S.Heimonet, pp.33-5 10 8Descombes, p. 14.",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://muse.jhu.edu/pub/255/oa_monograph/book/46091/pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Walter Benjamin Studies Compilation",
+        "Contemporary Cultural and Social Studies"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W4239840500"
+    }
+  ],
+  "count": 11,
+  "errors": []
+}

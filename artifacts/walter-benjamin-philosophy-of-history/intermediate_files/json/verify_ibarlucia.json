@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Organization of Pessimism Profane Illumination Ant...' author=Ibarlucia year=2017
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Organization of Pessimism Profane Illumination Anthropological Materialism",
+    "author": "Ibarlucia",
+    "year": 2017
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No matching papers found",
+      "recoverable": false
+    }
+  ]
+}

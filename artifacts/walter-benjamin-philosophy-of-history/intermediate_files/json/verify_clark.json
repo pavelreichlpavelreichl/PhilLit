@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Should Benjamin Have Read Marx...' author=Clark year=2003
+[verify_paper.py] Paper found: Should Benjamin Have Read Marx?... (score: 53.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Should Benjamin Have Read Marx",
+    "author": "Clark",
+    "year": 2003
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1215/01903659-30-1-31",
+      "title": "Should Benjamin Have Read Marx?",
+      "authors": [
+        {
+          "family": "Clark",
+          "given": "T. J."
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "boundary 2",
+      "volume": "30",
+      "issue": "1",
+      "page": "31-49",
+      "publisher": "Duke University Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1215/01903659-30-1-31",
+      "score": 53.185913
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

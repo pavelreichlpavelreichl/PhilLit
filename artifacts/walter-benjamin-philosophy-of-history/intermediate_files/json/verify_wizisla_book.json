@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/j.ctt1bhkp75
+[verify_paper.py] DOI verified: Walter Benjamin and Bertolt Brecht...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/j.ctt1bhkp75"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/j.ctt1bhkp75",
+      "title": "Walter Benjamin and Bertolt Brecht",
+      "authors": [
+        {
+          "family": "Wizisla",
+          "given": "Erdmut"
+        }
+      ],
+      "editors": [],
+      "year": 2009,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Yale University Press",
+      "type": "monograph",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/j.ctt1bhkp75"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

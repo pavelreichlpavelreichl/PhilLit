@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3390/rel10020093
+[verify_paper.py] DOI verified: Benjamin’s Profane Uses of Theology: The Invisible...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3390/rel10020093"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3390/rel10020093",
+      "title": "Benjamin\u2019s Profane Uses of Theology: The Invisible Organon",
+      "authors": [
+        {
+          "family": "Naishtat",
+          "given": "Francisco"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Religions",
+      "volume": "10",
+      "issue": "2",
+      "page": "93",
+      "publisher": "MDPI AG",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3390/rel10020093"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

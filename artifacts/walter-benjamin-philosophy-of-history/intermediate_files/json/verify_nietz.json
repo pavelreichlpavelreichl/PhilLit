@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1515/nietzstu-2017-0123
+[verify_paper.py] DOI verified: „Das Neue und Immergleiche“. Benjamin, Nietzsche u...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/nietzstu-2017-0123"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/nietzstu-2017-0123",
+      "title": "\u201eDas Neue und Immergleiche\u201c. Benjamin, Nietzsche und die ewige Wiederkehr",
+      "authors": [
+        {
+          "family": "Brusotti",
+          "given": "Marco"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Nietzsche-Studien",
+      "volume": "46",
+      "issue": "1",
+      "page": "",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/nietzstu-2017-0123"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

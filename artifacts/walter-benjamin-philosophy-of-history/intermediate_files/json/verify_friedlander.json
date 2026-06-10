@@ -1,0 +1,31 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5860/choice.49-6198
+[verify_paper.py] DOI verified: Walter Benjamin: a philosophical portrait...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5860/choice.49-6198"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5860/choice.49-6198",
+      "title": "Walter Benjamin: a philosophical portrait",
+      "authors": [],
+      "editors": [],
+      "year": 2012,
+      "container_title": "Choice Reviews Online",
+      "volume": "49",
+      "issue": "11",
+      "page": "49-6198-49-6198",
+      "publisher": "American Library Association",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5860/choice.49-6198"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.37819/revhuman.v18i5.1658
+[verify_paper.py] DOI verified: El resto escatológico de la Eingedenken benjaminia...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.37819/revhuman.v18i5.1658"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.37819/revhuman.v18i5.1658",
+      "title": "El resto escatol\u00f3gico de la Eingedenken benjaminiana",
+      "authors": [
+        {
+          "family": "Al\u00edas",
+          "given": "Antonio"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "HUMAN REVIEW. International Humanities Review / Revista Internacional De Humanidades",
+      "volume": "18",
+      "issue": "5",
+      "page": "1-8",
+      "publisher": "Eurasia Academic Publishing Group",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.37819/revhuman.v18i5.1658"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
