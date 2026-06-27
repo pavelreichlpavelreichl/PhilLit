@@ -1,0 +1,32 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Kant racism', limit=20
+[search_philpapers.py] Retrieved 1 entries...
+[search_philpapers.py] Search complete: 1 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Kant racism",
+  "results": [
+    {
+      "title": "Boris Demarest, Contingency, necessity, and the problem of organic form in Kant",
+      "url": "https://philpapers.org/rec/DEMCNA-2",
+      "philpapers_id": "DEMCNA",
+      "snippet": "I briefly indicate how this outlook translates into Kant&#x27;s own engagement with the life sciences, specifically his insistence that the features underlying human racial variety are purposive rather than mere environmentally induced traits.",
+      "page_age": "2025-11-12T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Boris Demarest"
+        }
+      ],
+      "extra_snippets": [
+        "In this paper, I argue that, by the contingency of organic forms with regard to the mechanical laws of nature, Kant means their accidental or coincidental nature with respect to these laws.",
+        "Something is coincidental if it cannot be shown why it must be the case given mechanical laws, because it occurs not necessarily or typically but rather due to a specific convergence of circumstances. I suggest that Kant shares with a tradition going back to Aristotle the belief that coincidences neither can nor need to be explained.",
+        "For Kant, organic forms are not therefore mechanically inexplicable because they are impossible on mechanical laws alone, but rather because they would have to be viewed as mere coincidences on the basis of mechanical laws alone and thereby unworthy of scientific inquiry.",
+        "I briefly indicate how this outlook translates into Kant's own engagement with the life sciences, specifically his insistence that the features underlying human racial variety are purposive rather than mere environmentally induced traits."
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

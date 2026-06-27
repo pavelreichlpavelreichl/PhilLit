@@ -1,0 +1,937 @@
+[search_openalex.py] Searching OpenAlex: 'Kant race anthropology' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_6d7c58b772e50073)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Kant race anthropology",
+  "results": [
+    {
+      "openalex_id": "W2068945117",
+      "doi": "10.1080/00313220802377313",
+      "title": "Antinomies of race: diversity and destiny in Kant",
+      "authors": [
+        {
+          "name": "Mark Larrimore",
+          "openalex_id": "A5052852383"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-09-01",
+      "abstract": "ABSTRACT Larrimore's essay reads Kant's pioneering work in the theory of race in the context of his thought as a whole. Kant wrote on race for most of his career; at different stages of his thinking, race assured meaning in human diversity, confirmed the value of a practical-reason-informed understanding of human destiny, and provided a model for the \u2018pragmatic\u2019 knowledge of what \u2018man can and should make of himself\u2019. \u2018Race\u2019 was invented in 1775 as an advertisement for the new disciplines of geography and anthropology that Kant inaugurated and promoted throughout his career. Giving new meaning to a foreign (French) term associated with animal husbandry, Kant presented the (supposedly) exceptionlessly hereditary traits of race as the first fruit of a truly scientific \u2018natural history\u2019 of humanity. His concerns were not merely classificatory; his four-race schema, modeled on the temperaments, allowed a special status for Whites as at once a race and the transcendence of race (Kant invented \u2018whiteness\u2019 as well as \u2018race\u2019). The notion of \u2018race\u2019 was refined in essays Kant published in the 1780s, in the same journal as his celebrated essays on Enlightenment and the philosophy of history. It was given a new status, rather than displaced, by the critical turn. Granted a sanction \u2018similar\u2019 to the postulates of pure practical reason, its empirical verification would confirm Kant's whole critical system. Kant's theory of race came into its own in the 1790s, gaining wide acceptance. He relied on familiarity with it (and its lingering association with animal husbandry) in explaining the larger project of the \u2018pragmatic anthropology\u2019 without which he thought human progress impossible. Understanding how the concept of race contributed to Kant's more familiar and still appealing intellectual and practical concerns, we gain a better sense of its fateful and enduring attractiveness in subsequent eras.",
+      "cited_by_count": 110,
+      "type": "article",
+      "source": {
+        "name": "Patterns of Prejudice",
+        "type": "journal",
+        "issn": [
+          "0031-322X",
+          "1461-7331"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Indian History and Philosophy",
+        "American Constitutional Law and Politics",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2068945117"
+    },
+    {
+      "openalex_id": "W85250424",
+      "doi": null,
+      "title": "Fragments of an Anarchist Anthropology",
+      "authors": [
+        {
+          "name": "David Graeber",
+          "openalex_id": "A5112413579"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "Everywhere anarchism is on the upswing as a political philosophy\u2014everywhere, that is, except the academy. Anarchists repeatedly appeal to anthropologists for ideas about how society might be reorganized on a more egalitarian, less alienating basis. Anthropologists, terrified of being accused of romanticism, respond with silence . . . . But what if they didn't? This pamphlet ponders what that response would be, and explores the implications of linking anthropology to anarchism. Here, David Graeber invites readers to imagine this discipline that currently only exists in the realm of possibility: anarchist anthropology.",
+      "cited_by_count": 697,
+      "type": "book",
+      "source": {
+        "name": "eVols (University of Hawaii)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10524/1557"
+      },
+      "topics": [
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W85250424"
+    },
+    {
+      "openalex_id": "W2729228422",
+      "doi": "10.1177/0305829817714064",
+      "title": "The Erasure of Race: Cosmopolitanism and the Illusion of Kantian Hospitality",
+      "authors": [
+        {
+          "name": "Jasmine K. Gani",
+          "openalex_id": "A5032532300",
+          "orcid": "https://orcid.org/0000-0002-8218-1807",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-01",
+      "abstract": "This article explores three key arguments: Firstly, it seeks to demonstrate the contradictions and limits within Kantian hospitality, and its links to colonialism and practices of racialisation. The acclaimed universalism of Kant\u2019s law of hospitality forecloses a discussion of its dualism, and erases the historical, racist context in which it was conceived. The prioritization of concept over conception allows Kant\u2019s theory on race to be obscured from official discourse and framing of policies while it still courses through inherited perceptions and theories. Secondly, in making my case, I will be applying the notion of coloniality, coined by An\u00edbal Quijano and later developed by Walter Mignolo, to the existing but small body of critical discourse on Kant and race. Debates initiated on the peripheries of philosophy, law and anthropology in the 1990s have led the way in this regard. However, given the time that has elapsed, it is notable that their work has received little scrutiny in political theory and International Relations theory, and thus warrants renewed attention. I argue that the notion of coloniality provides a useful lens through which to do so, and a vehicle through which to apply those excavations to a contemporary context. Finally, the article explores the extent to which Kantian thought constitutes \u2018modern\u2019 cosmopolitanism, and draws attention to the inadvertently complicit role of second-generation cosmopolitans in the erasure of race from the study of Kant. The relationship between the collective erasure of race and racism in academia and European practice towards refugees and immigrants is briefly considered.",
+      "cited_by_count": 146,
+      "type": "article",
+      "source": {
+        "name": "Millennium Journal of International Studies",
+        "type": "journal",
+        "issn": [
+          "0305-8298",
+          "1477-9021"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1177/0305829817714064"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2729228422"
+    },
+    {
+      "openalex_id": "W1802572917",
+      "doi": "10.1111/1467-9655.12091",
+      "title": "Doubt, conflict, mediation: the anthropology of modern time",
+      "authors": [
+        {
+          "name": "Laura Bear",
+          "openalex_id": "A5028715328",
+          "orcid": "https://orcid.org/0000-0003-1718-8129",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-01",
+      "abstract": "In this introduction, I argue that in spite of recent discussions of global and neoliberal time, the anthropology of modern time remains under\u2010explored. Modern time here is understood to be a complex historical product. At its centre is the abstract time\u2010reckoning of capitalism, which acts as a universal measure of value, but which always comes into conflict with concrete experiences of time. Its social disciplines emerge from C hristian practice, but the ethics of these routines are marked as secular and universal. Its politics is founded on representations of the natural connections of communities through a homogeneous historical time. Its science and technology tightly link social, human time to external non\u2010human rhythms. It is important for anthropologists to reflect on modern time because our discipline has been profoundly influenced by the discoveries of its depth, secularity, and relativity. The controversies that emerged in relation to D arwin's and E instein's insights still provide the framework for many of our theories, especially when we draw on phenomenological philosophy. In this introduction, I suggest that the key resources for overcoming this significant absence in anthropology lie in a rapprochement between A lfred G ell's epistemology of time and the approaches of M arxist political philosophers. This combination, along with an emphasis on the labour in/of time, gives rise to new questions and reveals new aspects of modern time in the present.",
+      "cited_by_count": 396,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Royal Anthropological Institute",
+        "type": "journal",
+        "issn": [
+          "1359-0987",
+          "1467-9655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9655.12091"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Indian and Buddhist Studies",
+        "Geographies of human-animal interactions"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W1802572917"
+    },
+    {
+      "openalex_id": "W2780138438",
+      "doi": "10.1017/9781316493229.011",
+      "title": "Kant and the Skull Collectors: German Anthropology from Blumenbach to Kant",
+      "authors": [
+        {
+          "name": "Jennifer Mensch",
+          "openalex_id": "A5066860494",
+          "orcid": "https://orcid.org/0000-0002-5352-8517"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-21",
+      "abstract": "This essay lays out the historical case for a broader assessment of Kant\u2019s relationship to Blumenbach by focusing first on Kant\u2019s review of Herder in 1785 as the best lens through which to understand not only their respective theories of generation but indeed the specific motivation leading to Kant\u2019s support for Blumenbach at all. The results of this inquiry will suggest that while Kant might have been interested in gaining the support of the rising star of the G\u00f6ttingen medical faculty, Blumenbach\u2019s own theories did little to influence Kant\u2019s approach to either generation-theory or race.",
+      "cited_by_count": 39,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/MENKAT-4.pdf"
+      },
+      "topics": [
+        "German Social Sciences and History",
+        "Philosophy, Science, and History",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2780138438"
+    },
+    {
+      "openalex_id": "W2091610293",
+      "doi": "10.1353/hph.2006.0062",
+      "title": "Character and Evil in Kant's Moral Anthropology",
+      "authors": [
+        {
+          "name": "Patrick R. Frierson",
+          "openalex_id": "A5072527541",
+          "orcid": "https://orcid.org/0000-0001-8427-2000"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-10-01",
+      "abstract": "Character and Evil in Kant's Moral Anthropology Patrick Frierson In the Metaphysics of Morals, Kant explains that moral anthropology studies the \"subjective conditions in human nature that help or hinder [people] in fulfilling the laws of a metaphysics of morals\" and insists that such anthropology \"cannot be dispensed with\" (6:217).1 But it is often difficult to find clear evidence of this sort of anthropology in Kant's own works. In this paper, I discuss Kant's account of character as an example of Kantian moral anthropology. Kant's account of character is one of the most important parts of his Anthropology from a Pragmatic Point of View.2 Kant describes the character of the person, in particular, as the \"distinguishing mark of the human being as a rational being endowed with freedom\" and says that character \"indicates what the human being is prepared to make of himself\" (7:285). Recently, Kant commentators have gone even further. G. Felicitas Munzel, for example, claims that character is \"the systematic link between the moral, aesthetic, and anthropological elements of Kant's works.\"3 This paper will not investigate the full richness of Kant's account of character. Instead, I focus on one particular problem that arises in Kant's discussion of character\u2014an apparent conflict between the moral relevance of character and the possibility of evil character. By showing why there is an apparent conflict and why it is merely apparent, I show some of the ways in which a particular subjective condition in human nature can help, but not force, people to fulfill the laws of a metaphysics of morals. [End Page 623] 1. The Problem: Moral Character and the Case of Sulla When Kant introduces character in the Anthropology, he distinguishes between the character of the person, of the sex, of the nation, of the race, and of the species. Even within the character of the person, he distinguishes between \"natural aptitude,\" \"temperament,\" and \"character purely and simply,\" all of which are different kinds of individual character. But only the last\u2014the \"character purely and simply\"4 of a person\u2014\"is moral\" and \"shows what man is prepared to make of himself\" (7:285).5 This paper focuses only on that general, moral character. At first, Kant seems to describe general character as morally good. Twice in his opening discussion of character, Kant describes \"character\" (Charakter) as \"moral\" (moralische) (7:285), and he insists that \"character has an inner worth, and is beyond all price\" (7:292). Though not decisive, these comments suggest that one with character has a good will. But Kant goes further, adding that the person with character \"relies on principles that are valid for everyone\" (7:293). This reference to universally valid principles is picked up later in a way that highlights its moral goodness. For character requires maxims that proceed from reason and morally-practical principles. Therefore one cannot rightly say that the malice of this human being is a quality of his character; for then it would be diabolic. The human being, however, never sanctions the evil in himself, and so there is actually no malice from principles; but only from the forsaking of them. (7:293\u201394) It seems that Kant could not be more explicit. Character seems to involve acting on the basis of principles that conform to and even flow from \"morally-practical principles,\" which he seems to distinguish from anything evil. This seems quite close to Kant's account of the good will as a will \"whose principle is the categorical imperative\" (4:444). (Although Kant's precise account of the good will is complicated, for our purposes here it is sufficient to define a good will as a will that consistently acts out of respect for the moral law.6) To have character, it would seem, is to have a good will. But this apparent identification of character with good character does not fit the rest of...",
+      "cited_by_count": 50,
+      "type": "article",
+      "source": {
+        "name": "Journal of the history of philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-5053",
+          "1538-4586"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W2091610293"
+    },
+    {
+      "openalex_id": "W4313477848",
+      "doi": "10.1007/978-3-031-13123-3_8",
+      "title": "The Taxonomy of \u2018Race\u2019 and the Anthropology of Sex: Conceptual Determination and Social Presumption in Kant",
+      "authors": [
+        {
+          "name": "Stella Sandford",
+          "openalex_id": "A5004458309",
+          "orcid": "https://orcid.org/0000-0002-7490-2977",
+          "institutions": [
+            "Kingston University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Abstract This chapter argues that the different treatment of the concepts of; \u2018race\u2019 and \u2018sex\u2019 in Kant\u2019s philosophy shows how the first was a philosophical problem that required justification while the latter was\u2014and usually still is\u2014taken for granted. It shows how, through his writings on race, Kant defended an historical conception of the natural genus. Refusing the natural distinction between \u2018genus\u2019 and \u2018species\u2019, Kant\u2019s philosophical determination of the concept of \u2018race\u2019 then attempts to introduce, below these, a new terminal category in zoological taxonomy that justified, for him, the positing of significant classificatory differences between the human \u2018races\u2019 even if they all belonged to the same natural genus/species. In contrast, the concept of sex or gender ( Geschlecht ) is never subject to any philosophical determination but treated as an unquestioned basis for the justification of social and political differences between men and women.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave handbooks in German idealism",
+        "type": "book series",
+        "issn": [
+          "2634-6230",
+          "2634-6249"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-13123-3_8.pdf"
+      },
+      "topics": [
+        "European history and politics",
+        "German Social Sciences and History",
+        "Historical Studies on Reproduction, Gender, Health, and Societal Changes"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4313477848"
+    },
+    {
+      "openalex_id": "W3048110981",
+      "doi": "10.1111/phil.12263",
+      "title": "Reckoning With Kant on Race*",
+      "authors": [
+        {
+          "name": "Elvira Basevich",
+          "openalex_id": "A5024785555",
+          "orcid": "https://orcid.org/0000-0002-6324-9482"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-06",
+      "abstract": "This essay develops Kant\u2019s theory of reform to theorize racial justice reform. I assess the function of Kant\u2019s philosophy of race as part of his nonideal theory of justice, which offers a racist pragmatic anthropology that uses the concept of race to determine the practical effectiveness of legislative reason. His philosophy of race defends a teleological account of the natural history of the human species to fulfill the requirements of justice and assumes that certain racial groups have failed to develop their innate capacity for legislative reason. I show that we need an alternative Kantian nonideal theory of justice that demonstrates how legislative reason actualizes practical freedom. Rather than appeal to anthropology, I expand Kant\u2019s model of public reason to advance racial justice reform under the conditions of partial compliance to the requirements of justice in a profoundly nonideal republic such as the U.S. I then showcase the promise\u2014and limits\u2014of the a priori ideals of citizenship and publicity for racial justice reform and introduce the new ideal of interracial civic fellowship to guide the public use of reason in nonideal circumstances.",
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "The Philosophical Forum",
+        "type": "journal",
+        "issn": [
+          "0031-806X",
+          "1467-9191"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3048110981"
+    },
+    {
+      "openalex_id": "W2113677131",
+      "doi": "10.1017/s1369415400001242",
+      "title": "Kant on Anthropology and Alienology: The Opacity of Human Motivation and its Anthropological Implications",
+      "authors": [
+        {
+          "name": "Alix Cohen",
+          "openalex_id": "A5064410444",
+          "institutions": [
+            "Newham College",
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-07-01",
+      "abstract": "According to Kant, the opacity of human motivation takes two distinct forms \u2013 a psychological form: man \u2018can never, even by the most strenuous self-examination, get entirely behind [his] covert incentives\u2019 \u2013 and a social form: \u2018everyone in our race finds it advisable to be on his guard, and not to reveal himself completely\u2019. In other words, first, men's \u2018interior\u2019 (i.e. their intentions, motives, thoughts, etc.) cannot be entirely revealed to themselves and, second, they tend not to reveal their \u2018interior\u2019 to others. A number of Kant scholars have acknowledged the importance of the first form of opacity in Kant's thought and have attempted to draw out from it implications for moral deliberation and ethics in general. The aim of this paper is to examine the second, social form of opacity and draw out its anthropological implications, an issue that has been overlooked in the literature. To do so, I focus on Kant's contrast between men and beings that I would like to call \u2018sincere aliens\u2019. These sincere aliens are beings who have the opposite features of man's opacity, namely beings who cannot but reveal their \u2018interior\u2019 both to others and to themselves.",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/COHKOA.pdf"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "War, Ethics, and Justification",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W2113677131"
+    },
+    {
+      "openalex_id": "W2233894168",
+      "doi": "10.26530/oapen_459239",
+      "title": "Foreign Bodies: Oceania and the Science of Race 1750-1940",
+      "authors": [
+        {
+          "name": "Bronwen Douglas",
+          "openalex_id": "A5014775220",
+          "orcid": "https://orcid.org/0000-0002-7952-9673"
+        },
+        {
+          "name": "Chris Ballard",
+          "openalex_id": "A5069548846",
+          "orcid": "https://orcid.org/0000-0002-8455-6908"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "From the 18th century, Oceania became the principal laboratory of raciology for scholars, voyagers, and colonisers alike. By juxtaposing encounters and theory, this magisterial book explores the semantics of human difference in all its emotional, intellectual, religious, and practical dimensions. The argument developed is subtle, engrossing, and gives the paradigm of \u2018race\u2019 its full use value. Foreign Bodies is a model of analysis and erudition from which historians of science and everyone interested in intercultural relations will greatly profit. Claude Blanckaert, CNRS (Centre Alexandre Koyr\u00e9), Paris, and Honorary President, French Society for the History of the Science of Man",
+      "cited_by_count": 177,
+      "type": "book",
+      "source": {
+        "name": "ANU Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/33747/1/459239.pdf"
+      },
+      "topics": [
+        "Australian History and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2233894168"
+    },
+    {
+      "openalex_id": "W2728473342",
+      "doi": "10.1080/13200968.2017.1322023",
+      "title": "Caught Between Character and Race: \u2018Temperament\u2019 in Kant\u2019s Lectures on Anthropology",
+      "authors": [
+        {
+          "name": "Jennifer Mensch",
+          "openalex_id": "A5066860494",
+          "orcid": "https://orcid.org/0000-0002-5352-8517"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-02",
+      "abstract": "Focusing on Immanuel Kant's lectures on anthropology, the essay endeavors to address long-standing concerns regarding both the relationship between these empirical investigations and Kant's better known universalism, and more pressingly, between Kant's own racism on display in the lectures, and his simultaneous promotion of a universal moral theory that would unhesitatingly condemn such attitudes. Reprinted in: 'Philosophies of Difference: Nature, Racism, and Sexuate Difference' edited by R. Gustafsson, R. Hill, and H. Ngo (Routledge, 2019), pp. 125-144.",
+      "cited_by_count": 53,
+      "type": "article",
+      "source": {
+        "name": "Australian Feminist Law Journal",
+        "type": "journal",
+        "issn": [
+          "1320-0968",
+          "2204-0064"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/MENCBC.pdf"
+      },
+      "topics": [
+        "Global Peace and Security Dynamics",
+        "War, Ethics, and Justification",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2728473342"
+    },
+    {
+      "openalex_id": "W2903648351",
+      "doi": "10.4324/9781315813318-2",
+      "title": "Biologization of Race and Racialization of the Human",
+      "authors": [
+        {
+          "name": "Thierry Hoquet",
+          "openalex_id": "A5054613470",
+          "orcid": "https://orcid.org/0000-0002-9325-379X"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-24",
+      "abstract": "This chapter identifies the person who invented the modern sense of the word race. The term race played an important role in nobiliary thought, and was associated with the idea of transmission by birth, in a tradition which Henri de Boulainvilliers inherited. The chapter examines the formation and formulation of an idea of races in three early taxonomists: Franois Bernier, Carl Linnaeus, and G. L. Leclerc de Buffon. The historiography of race has emphasized the key role of an article written by the Gassendist Franois Bernier that was anonymously published in 1684 in the Journal des Savants. Buffon also occupies a decisive, albeit ambiguous, place in the historiography of race. Anthropology often credits Linnaeus with having included the human in zoological classification, a point from which his predecessors, like John Ray, tended to shy away. These three are not, of course, the only potential candidates: other scholars point to Immanuel Kant, Johann Friedrich Blumenbach, or John Locke and Thomas Hobbes.",
+      "cited_by_count": 40,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2903648351"
+    },
+    {
+      "openalex_id": "W4296353112",
+      "doi": "10.1017/s1369415422000334",
+      "title": "White Progress: Kant, Race and Teleology",
+      "authors": [
+        {
+          "name": "Inder S. Marwah",
+          "openalex_id": "A5089426302",
+          "orcid": "https://orcid.org/0000-0003-2761-7679",
+          "institutions": [
+            "McMaster University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-19",
+      "abstract": "Abstract This article examines how Kant\u2019s conceptualizations of natural history and teleological judgement shape his understanding of human difference and race. I argue that the teleological framework encasing Kant\u2019s racial theory implies constraints on the capacity of non-whites to make moral progress. While commentators tend to approach Kant\u2019s racial theory in relation to his political theory, his late-life cosmopolitanism, and his treatments (or non-treatments) of colonialism, empire and slavery, the problem I focus on here is that race is itself only intelligible in relation to a teleological natural history limiting certain races\u2019 capacities to engage in humanity\u2019s moral vocation.",
+      "cited_by_count": 31,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D226D581B530439C81DF60228DAF3C29/S1369415422000334a.pdf/div-class-title-white-progress-kant-race-and-teleology-div.pdf"
+      },
+      "topics": [
+        "War, Ethics, and Justification",
+        "Political Philosophy and Ethics",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W4296353112"
+    },
+    {
+      "openalex_id": "W4233839712",
+      "doi": "10.4324/9780203480434",
+      "title": "Late Kant",
+      "authors": [
+        {
+          "name": "Peter Fenves",
+          "openalex_id": "A5052578177",
+          "orcid": "https://orcid.org/0000-0001-9518-8912"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-08-02",
+      "abstract": "Immanuel Kant spent many of his younger years working on what are generally considered his masterpieces: the three Critiques. But his work did not stop there: in later life he began to reconsider subjects such as anthropology, and topics including colonialism, race and peace. In Late Kant, Peter Fenves becomes one of the first to thoroughly explore Kant's later writings and give them the detailed scholarly attention they deserve. In his opening chapters, Fenves examines in detail the various essays in which Kant invents, formulates and complicates the thesis of 'radical evil' - a thesis which serves as the point of departure for all his later writings. Late Kant then turns towards the counter-thesis of 'radical mean-ness', which states that human beings exist on earth for the sake of another species or race of human beings. The consequences of this startling thesis are that human beings cannot claim possession of the earth, but must rather prepare the earth for its rightful owners.Late Kant is the first book to develop the 'geo-ethics' of Kant's thought, and the idea that human beings must be prepared to concede their space for another kind of human. It is essential reading for anyone interested in the later works of Immanuel Kant.",
+      "cited_by_count": 23,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4233839712"
+    },
+    {
+      "openalex_id": "W603707189",
+      "doi": null,
+      "title": "Kant's Pragmatic Anthropology: Its Origin, Meaning, And Critical Significance",
+      "authors": [
+        {
+          "name": "Holly L. Wilson",
+          "openalex_id": "A5006007542",
+          "orcid": "https://orcid.org/0009-0001-2043-2420"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-08-10",
+      "abstract": null,
+      "cited_by_count": 142,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Families in Therapy and Culture",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W603707189"
+    },
+    {
+      "openalex_id": "W2172146868",
+      "doi": "10.1353/ecy.2012.0032",
+      "title": "Kant's Race Theory, Forster's Counter, and the Metaphysics of Color",
+      "authors": [
+        {
+          "name": "Sally Hatch Gray",
+          "openalex_id": "A5017226760"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-12-01",
+      "abstract": "This article argues for an understanding of Kant's race theory as an integral part of his idea of nature and of humans in nature as presented in his Critique of the Power of Judgment (Kritik der Urteilskraft, 1790). It places an examination of Kant and Forster's debate over race, which was ignited in 1785 upon the publication of Kant's second essay on race, \"Definition of a Concept of a Human Race\" (\"Bestimmung des Begriffs einer Menschenrace\"), in the context of an illumination of the connections between aesthetics and anthropology in Kant's Observations on the Feeling of the Beautiful and Sublime (Beobachtungen \u00fcber das Gef\u00fchl des Sch\u00f6nen und Erhabenen, 1764) and Forster's Voyage round the World (Reise um die Welt 1777). Forster responded to Kant's new \"race\" classifications, which were based essentially on skin color, with \"Still More about the Human Races\" (\"Noch etwas \u00fcber Menschenra\u00dfen,\" 1786). This article shows that Kant then developed his scientific theory and his idea of a teleological nature as presented in his Critique of the Power of Judgment, at least in part, in order to provide a unifying theoretical basis for his race theory so that it could withstand the scrutiny of an empirical scientific method based on deductive logic, such as that advanced by Forster. While Forster's strict empiricism, perspectivism, and rejection of \"race\" as a scientific classification reflect an underlying, distinctly modern, concept of the natural world, Kant's nature, as presented in his third Critique, reveals a metaphysically-based structure supporting a universal cosmopolitanism, but veils a particular European perspective that allows a damaging global authority on difference.",
+      "cited_by_count": 40,
+      "type": "article",
+      "source": {
+        "name": "\u0098The \u009cEighteenth century/\u0098The \u009ceighteenth century (Lubbock, Tex. Online)",
+        "type": "journal",
+        "issn": [
+          "0193-5380",
+          "1935-0201"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical Economic and Legal Thought",
+        "German Social Sciences and History",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W2172146868"
+    },
+    {
+      "openalex_id": "W2939718842",
+      "doi": "10.2307/j.ctvdtphp4",
+      "title": "Kant\u2019s Nonideal Theory of Politics",
+      "authors": [
+        {
+          "name": "Dilek Huseyinzadegan",
+          "openalex_id": "A5090644088"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-15",
+      "abstract": "\"Kant's Nonideal Theory of Politics\" argues that Kant's political thought must be understood by reference to his philosophy of history, cultural anthropology, and geography. The central thesis of the book is that Kant's assessment of the politically salient features of history, culture, and geography generates a nonideal theory of politics, which supplements his well-known ideal theory of cosmopolitanism. This novel analysis thus challenges the common assumption that an ideal theory of cosmopolitanism constitutes Kant's sole political legacy. Dilek Huseyinzadegan demonstrates that Kant employs a teleological worldview throughout his political writings as a means of grappling with the pressing issues of multiplicity, diversity, and plurality--issues that confront us to this day. \"Kant's Nonideal Theory of Politics\" is the first book-length treatment of Kant's political thought that gives full attention to the role that history, anthropology, and geography play in his mainstream political writings. Interweaving close textual analyses of Kant's writings with more contemporary political frameworks, this book also makes Kant accessible and responsive to fields other than philosophy. As such, it will be of interest to students and scholars working at the intersections of political theory, feminism, critical race theory, and post- and decolonial thought--Provided by publisher",
+      "cited_by_count": 88,
+      "type": "book",
+      "source": {
+        "name": "Northwestern University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "International Relations and Foreign Policy",
+        "War, Ethics, and Justification"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2939718842"
+    },
+    {
+      "openalex_id": "W1994246671",
+      "doi": "10.1177/0090591714523138",
+      "title": "On Revolution in Kant and Marx",
+      "authors": [
+        {
+          "name": "Lea Ypi",
+          "openalex_id": "A5044913195",
+          "orcid": "https://orcid.org/0000-0002-2573-9704",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-12",
+      "abstract": "This essay compares the thoughts of Kant and Marx on revolution. It focuses in particular on two issues: the contribution of revolutionary enthusiasm to the cause of emancipatory political agents and its educative role in illustrating the possibility of progress for future generations. In both cases, it is argued, the defence of revolution is offered in the context of illustrating the possibility of moral progress for the species, even if not for individual human beings, and brings out the centrality of collective agency in moving toward universal moral goals. Discussing the implications of these points is of significant historical interest: it allows us to defend an interpretation of Kant\u2019s political thought which is sensitive to the material conditions of historical development and to rescue Marx from an amoral reading of his philosophy of history. Reflecting on the role and preconditions of transformative collective agency is also of normative interest: it allows us to better evaluate the significance of political events that, firstly, re-shape the boundaries of political feasibility and, secondly, play a crucial educative role in motivating future progressive initiatives.",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "Political Theory",
+        "type": "journal",
+        "issn": [
+          "0090-5917",
+          "1552-7476"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.lse.ac.uk/id/eprint/64922/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Ypi%2C%20L_Kant%20and%20Marx_Ypi_Kant%20and%20Marx_2016.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W1994246671"
+    },
+    {
+      "openalex_id": "W1599273727",
+      "doi": "10.7202/038214ar",
+      "title": "Assessing Franz Boas\u2019 ethics in his Arctic and later anthropological fieldwork",
+      "authors": [
+        {
+          "name": "Friedrich P\u00f6hl",
+          "openalex_id": "A5084422085",
+          "institutions": [
+            "Universit\u00e4t Innsbruck"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-10-06",
+      "abstract": "This paper attempts to trace Franz Boas\u2019 ethics in his anthropological fieldwork in the Arctic and on the Northwest Coast within the scientific context of that time. In the Arctic, Boas refrained from grave robbery but \u201cexploited his membership in the white race\u201d and applied pressure on \u201chis Eskimos\u201d to secure his scientific goals. On the Northwest Coast, Boas changed his attitude: far from any ethical reflection, he and his collaborators desecrated graves for scientific and financial purposes. In many ways Boas was influenced by Kant, but in his field research Kant\u2019s ethical position remained eclipsed; Boas\u2019 practice in the field did not respect humans as an end in itself. Rather, Boas subscribed to an ethical utilitarianism and sustained a strong separation of science and ethics.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "\u00c9tudes/Inuit/Studies",
+        "type": "journal",
+        "issn": [
+          "0701-1008",
+          "1708-5268"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/etudinuit/2008-v32-n2-etudinuit3476/038214ar.pdf"
+      },
+      "topics": [
+        "Indigenous Studies and Ecology",
+        "Anthropology: Ethics, History, Culture",
+        "Race, Genetics, and Society"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W1599273727"
+    },
+    {
+      "openalex_id": "W2131124681",
+      "doi": "10.1017/s0012217300000561",
+      "title": "Kant and Dependency Relations: Kant on the State's Right to Redistribute Resources to Protect the Rights of Dependents",
+      "authors": [
+        {
+          "name": "Helga Varden",
+          "openalex_id": "A5084714613",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "ABSTRACT Contrary to much Kant interpretation, this article argues that Kant's moral philosophy, including his account of charity, is irrelevant to justifying the state's right to redistribute material resources to secure the rights of dependents (the poor, children, and the impaired). The article also rejects the popular view that Kant either does not or cannot justify anything remotely similar to the liberal welfare state. A closer look at Kant's account of dependency relations in \u201cThe Doctrine of Right\u201d reveals an argumentative structure sufficient for a public institutional protection of dependents and evidence that Kant identifies concerns of economic justice as lying at the heart of the state's legitimacy.",
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Dialogue",
+        "type": "journal",
+        "issn": [
+          "0012-2173",
+          "1759-0949"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://philpapers.org/archive/VARKAD-2.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Philosophical Ethics and Theory",
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2131124681"
+    },
+    {
+      "openalex_id": "W2729125798",
+      "doi": "10.1017/s0003055417000223",
+      "title": "It's Not about Race: Good Wars, Bad Wars, and the Origins of Kant's Anti-Colonialism",
+      "authors": [
+        {
+          "name": "In\u00e9s Valdez",
+          "openalex_id": "A5083974814",
+          "orcid": "https://orcid.org/0000-0002-8834-809X",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-10",
+      "abstract": "This article offers a new interpretation of Kant's cosmopolitanism and his anti-colonialism in Toward Perpetual Peace . Kant's changing position has been the subject of extensive debates that have, however, not recognized the central place of colonialism in the political, economic, and military debates in Europe in Kant's writings. Based on historical evidence not previously considered alongside Perpetual Peace , I suggest that Kant's leading concern at the time of writing is the negative effect of European expansionism and intra-European rivalry over colonial possessions on the possibility of peace in Europe. Because of the lack of affinity between colonial conflict and his philosophy of history, Kant must adjust his concept of antagonism to distinguish between war between particular dyads, in particular spaces, and with particular non-state actors. I examine the implications of this argument for Kant's system of Right and conclude that his anti-colonialism co-exists with hierarchical views of race.",
+      "cited_by_count": 116,
+      "type": "article",
+      "source": {
+        "name": "American Political Science Review",
+        "type": "journal",
+        "issn": [
+          "0003-0554",
+          "1537-5943"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E8D6C05332BA5C98C5A6E72BBCEB66E/S0003055417000223a.pdf/div-class-title-it-s-not-about-race-good-wars-bad-wars-and-the-origins-of-kant-s-anti-colonialism-div.pdf"
+      },
+      "topics": [
+        "Global Peace and Security Dynamics",
+        "War, Ethics, and Justification",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W2729125798"
+    },
+    {
+      "openalex_id": "W4300960955",
+      "doi": "10.1017/s1369415422000358",
+      "title": "Toward a Narrow Cosmopolitanism: Kant\u2019s Anthropology, Racialized Character and the Construction of Europe",
+      "authors": [
+        {
+          "name": "In\u00e9s Valdez",
+          "openalex_id": "A5083974814",
+          "orcid": "https://orcid.org/0000-0002-8834-809X",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-03",
+      "abstract": "Abstract This article explores the distinctions among European peoples\u2019 character established in Kant\u2019s anthropology and their connection with his politics. These aspects are neglected relative to the analysis of race between Europeans and non-Europeans, but Kant\u2019s anthropological works portray the people of Mediterranean Europe as not capable of civilization because of the dominance of passion in their faculty of desire, which he ties to \u2018Oriental\u2019 influences in blood or government. Kant then superimposes this racialized anthropology over the historical geopolitics of Europe, obscuring the indebtedness of Northern European trade dominance to Mediterranean historical tactics and financial wealth. By relegating the Mediterranean to the margins and dismissing contentious commercial exchange in the region as mere violence spearheaded by North African corsairs, Kant gives us an elitist cosmopolitanism unable to cope with hierarchy and inequality, diminishing its potential for egalitarian global projects today.",
+      "cited_by_count": 18,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/78FABACF882FFF7BF2827F508E47AD7A/S1369415422000358a.pdf/div-class-title-toward-a-narrow-cosmopolitanism-kant-s-anthropology-racialized-character-and-the-construction-of-europe-div.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Historical Economic and Social Studies"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W4300960955"
+    },
+    {
+      "openalex_id": "W2607065222",
+      "doi": "10.1353/dia.2016.0008",
+      "title": "Kant\u2019s Aesthetic Categories: Race in the Critique of Judgment",
+      "authors": [
+        {
+          "name": "John Hoffmann",
+          "openalex_id": "A5041299533"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Kant\u2019s Aesthetic CategoriesRace in the Critique of Judgment John Hoffmann (bio) [End Page 54] No major philosopher is more closely tied to the fabrication of human races than Immanuel Kant, and given his status as a champion of universal human dignity, Kant\u2019s racial essentialism has puzzled his defenders and inspired critics to question the authenticity of Kant\u2019s moral commitments.1 This divergence in Kant\u2019s philosophy between essential anthropological categories and universalist practical philosophy has in turn acted as a proxy for a broader problem in the history of ideas: how to explain the contradiction between the egalitarian aspirations of the Enlightenment project, where equal moral and political standing was imputed to each individual, and theories that naturalized the interests of one group over others and justified practices of subjugation that had been inherited from preexisting distributions of power. Whether or not Kant qualifies as the \u201cinventor\u201d of the concept of a human race, as Robert Bernasconi has controversially alleged, the effects of Kant\u2019s intervention in the discourse on human difference are still being felt, most recently in Irene Tucker\u2019s attempt to leverage Kantian anthropology against poststructuralist theories of race.2 What has been left out of the debate on Kant\u2019s place in eighteenth-century race theory are the fundamental differences he ascribes to human appearances in \u201cOn the Ideal of Beauty,\u201d \u00a717 of the Critique of the Power of Judgment (1790).3 To understand Kant\u2019s stance on race following the critical turn, the watershed marked by the publication of the Critique of Pure Reason in 1781, this essay will situate Kant\u2019s racialized ideal of beauty with respect to his anthropology. It is important to note that Kant\u2019s thoughts about race during the critical period were fluid.4 Pauline Kleingeld has shown that sometime in the early 1790s, Kant executed a substantial reevaluation of his views on both race and colonialism, bringing those views into alignment with his cosmopolitanism and shedding the odious attitudes he had long held regarding the \u201cintellectual and agential characteristics\u201d of nonwhite races, along with his commitment to a racial hierarchy.5 By the end of the 1790s, Kant had settled on what Kleingeld deems a \u201cpurely physiological concept\u201d of race, a concept shorn of moral determinants and confirmed by explicit public condemnations of both slavery and colonial exploitation.6 But if Kant jettisoned his views on the inferiority of nonwhite races in light of universalist moral considerations, that is in part because he discovered a more powerful apparatus for expressing essential differences between races in \u00a717 of the \u201cAnalytic of the Beautiful.\u201d This essay argues that the aesthetic framework of \u00a717, specifically the role played by the \u201cshape\u201d (Gestalt) of human appearance, serves as a more potent vehicle for Kant\u2019s essentialist theory of race, as well as for aspects of his racism, than the biological criteria that govern his anthropological definition of race. I begin by laying out how race functions in Kant\u2019s aesthetics through the concept of the \u201cnormal idea,\u201d which Kant asserts is a standard that authorizes the aesthetic judgment of individuals as belonging to a \u201cspecies,\u201d as well as a physiological measure that defines the shape of the ideal of beauty. After resolving an ambiguity between Kant\u2019s aesthetic philosophy and his anthropology regarding the meaning of the all-important term \u201cspecies,\u201d I describe the influence of Kant\u2019s teleological natural philosophy on his theory of the ideal of beauty as it pertains to the purposiveness of racial appearance. Finally, I claim [End Page 55] that the racialized aesthetics from \u00a717 underlies Kant\u2019s last published statement on race from Anthropology from a Pragmatic Point of View (APPV), which means that Kant\u2019s final position on the question of racial difference treats race as an aesthetic, not \u201cpurely physiological,\u201d concept. The representativeness of Kant\u2019s thought for the Enlightenment program as a whole has not been restricted to the tension between his moral and natural philosophy; his philosophy of art has also been called to account for general problems of the period. For Simon Gikandi, who has illustrated the entwinement of race and aesthetics in the eighteenth century by tracing...",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "diacritics",
+        "type": "journal",
+        "issn": [
+          "0300-7162",
+          "1080-6539"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "American Constitutional Law and Politics",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2607065222"
+    },
+    {
+      "openalex_id": "W2002017299",
+      "doi": "10.1590/s1809-43412014000200003",
+      "title": "Anthropological perspectives on documents. Ethnographic dialogues on the trail of police papers",
+      "authors": [
+        {
+          "name": "Laura Lowenkron",
+          "openalex_id": "A5011215919",
+          "orcid": "https://orcid.org/0000-0003-0373-4088",
+          "institutions": [
+            "Anthrologica"
+          ]
+        },
+        {
+          "name": "Let\u00edcia Carvalho de Mesquita Ferreira",
+          "openalex_id": "A5029861865",
+          "orcid": "https://orcid.org/0000-0001-8466-5904",
+          "institutions": [
+            "Anthrologica"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-12-01",
+      "abstract": "This article discusses implications and potentialities of anthropologically thinking and researching with documents, arguing that they consist of ethnographic artifacts, which can be particularly fruitful in certain research contexts. In order to do that, it resumes some movements of distancing and rapprochement between anthropology and documents and places two recent ethnographic experiences in dialogue. One a research through police inquiries of Brazilian Federal Police concerning \"human trafficking for sexual exploitation\" crimes, and the other focused on administrative procedures related to \"missing persons\" cases investigated by Rio de Janeiro Civil Police. In addition to revealing the heuristic potential of \"following the paper\" and calling attention to the micro politics of the interactions among those that document and those who are documented, the paper aims to contribute to larger discussions about the challenges that dealing with documents in field work situations poses to anthropology and its self-representations.",
+      "cited_by_count": 99,
+      "type": "article",
+      "source": {
+        "name": "Vibrant Virtual Brazilian Anthropology",
+        "type": "journal",
+        "issn": [
+          "1809-4341"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.scielo.br/pdf/vb/v11n2/a03v11n2.pdf"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Sex work and related issues",
+        "Development, Ethics, and Society"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2002017299"
+    },
+    {
+      "openalex_id": "W7209064",
+      "doi": "10.7340/anuac2239-625x-3059",
+      "title": "World anthropologies: Disciplinary transformations within systems of power",
+      "authors": [
+        {
+          "name": "Gustavo Lins Ribeiro",
+          "openalex_id": "A5101539471",
+          "orcid": "https://orcid.org/0000-0003-0753-960X",
+          "institutions": [
+            "Universidade de Bras\u00edlia"
+          ]
+        },
+        {
+          "name": "Arturo Escobar",
+          "openalex_id": "A5080601068",
+          "orcid": "https://orcid.org/0000-0002-6392-1726",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-07-24",
+      "abstract": "From world anthropologies\u2019 perspective, in this article we explore the diversity of anthropologies being practiced around the world in the early twenty-first century and the ways in which the pluralizing potential of globalization might enable anthropologists worldwide to benefit from this diversity. Our critical standpoint on the monotony and incompleteness of the current international anthropological landscape, as it has come to be structured by hegemonic forces, stems from the conviction that assuming their own diversity is a crucial (political, scholarly) strategy for anthropologies if they are to reproduce and enhance themselves in a globalized world.",
+      "cited_by_count": 94,
+      "type": "article",
+      "source": {
+        "name": "ANUAC.",
+        "type": "journal",
+        "issn": [
+          "2239-625X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.7340/anuac2239-625x-3059"
+      },
+      "topics": [
+        "Anthropology: Ethics, History, Culture",
+        "Globalization and political ideologies",
+        "International Relations and Foreign Policy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7209064"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}
