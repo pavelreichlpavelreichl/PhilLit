@@ -1,0 +1,1301 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Hegel Africa peoples without history",
+  "results": [
+    {
+      "openalex_id": "W3046275966",
+      "doi": "10.1016/s0140-6736(20)30367-6",
+      "title": "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission",
+      "authors": [
+        {
+          "name": "Gill Livingston",
+          "openalex_id": "A5068994533",
+          "orcid": "https://orcid.org/0000-0001-6741-5516",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jonathan Huntley",
+          "openalex_id": "A5074999126",
+          "orcid": "https://orcid.org/0000-0001-6304-6231",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Andrew Sommerlad",
+          "openalex_id": "A5084818858",
+          "orcid": "https://orcid.org/0000-0002-8895-7055",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "David Ames",
+          "openalex_id": "A5107927449",
+          "institutions": [
+            "The Royal Melbourne Hospital",
+            "The University of Melbourne",
+            "National Ageing Research Institute"
+          ]
+        },
+        {
+          "name": "Clive Ballard",
+          "openalex_id": "A5032708452",
+          "orcid": "https://orcid.org/0000-0003-0022-5632",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Sube Banerjee",
+          "openalex_id": "A5034164760",
+          "orcid": "https://orcid.org/0000-0002-8083-7649",
+          "institutions": [
+            "University of Plymouth"
+          ]
+        },
+        {
+          "name": "Carol Brayne",
+          "openalex_id": "A5085651175",
+          "orcid": "https://orcid.org/0000-0001-5307-663X",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Alistair Burns",
+          "openalex_id": "A5027171288",
+          "orcid": "https://orcid.org/0000-0002-9837-0645",
+          "institutions": [
+            "University of Manchester"
+          ]
+        },
+        {
+          "name": "Jiska Cohen\u2010Mansfield",
+          "openalex_id": "A5056389726",
+          "orcid": "https://orcid.org/0000-0003-0209-7304",
+          "institutions": [
+            "Tel Aviv University"
+          ]
+        },
+        {
+          "name": "Claudia Cooper",
+          "openalex_id": "A5002983308",
+          "orcid": "https://orcid.org/0000-0002-2777-7616",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Sergi G. Costafreda",
+          "openalex_id": "A5081739897",
+          "orcid": "https://orcid.org/0000-0001-6914-086X",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Amit Dias",
+          "openalex_id": "A5102922229",
+          "orcid": "https://orcid.org/0000-0001-9686-8143",
+          "institutions": [
+            "Goa Medical College"
+          ]
+        },
+        {
+          "name": "Nick C. Fox",
+          "openalex_id": "A5018836358",
+          "orcid": "https://orcid.org/0000-0002-6660-657X",
+          "institutions": [
+            "University College London Hospitals NHS Foundation Trust",
+            "UK Dementia Research Institute",
+            "National Hospital for Neurology and Neurosurgery",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Laura N. Gitlin",
+          "openalex_id": "A5002018234",
+          "orcid": "https://orcid.org/0000-0003-2869-473X",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Robert Howard",
+          "openalex_id": "A5043071365",
+          "orcid": "https://orcid.org/0000-0002-3071-2338",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Helen C. Kales",
+          "openalex_id": "A5080007900",
+          "orcid": "https://orcid.org/0000-0002-2032-370X",
+          "institutions": [
+            "University of California, Davis"
+          ]
+        },
+        {
+          "name": "Mika Kivim\u00e4ki",
+          "openalex_id": "A5030837922",
+          "orcid": "https://orcid.org/0000-0002-4699-5627",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Eric B. Larson",
+          "openalex_id": "A5108394469",
+          "institutions": [
+            "Kaiser Permanente Washington Health Research Institute"
+          ]
+        },
+        {
+          "name": "Adesola Ogunniyi",
+          "openalex_id": "A5026755583",
+          "orcid": "https://orcid.org/0000-0002-2946-8956",
+          "institutions": [
+            "University College Hospital, Ibadan"
+          ]
+        },
+        {
+          "name": "Vasiliki Orgeta",
+          "openalex_id": "A5004318968",
+          "orcid": "https://orcid.org/0000-0001-8643-5061",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Karen Ritchie",
+          "openalex_id": "A5075011135",
+          "orcid": "https://orcid.org/0000-0002-0688-8982",
+          "institutions": [
+            "Inserm",
+            "Universit\u00e9 de Montpellier",
+            "Neuropsychiatrie : Recherche Epidemiologique et Clinique",
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Kenneth Rockwood",
+          "openalex_id": "A5006205778",
+          "orcid": "https://orcid.org/0000-0002-6674-995X",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        },
+        {
+          "name": "Elizabeth L Sampson",
+          "openalex_id": "A5018087286",
+          "orcid": "https://orcid.org/0000-0001-8929-7362",
+          "institutions": [
+            "Barnet Enfield and Haringey Mental Health Trust",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Quincy M. Samus",
+          "openalex_id": "A5020841594",
+          "orcid": "https://orcid.org/0000-0001-8218-7769",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        },
+        {
+          "name": "Lon S. Schneider",
+          "openalex_id": "A5059020389",
+          "orcid": "https://orcid.org/0000-0002-4636-6150",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Geir Selb\u00e6k",
+          "openalex_id": "A5007726770",
+          "orcid": "https://orcid.org/0000-0001-6511-8219",
+          "institutions": [
+            "Oslo University Hospital",
+            "University of Oslo",
+            "Sykehuset i Vestfold"
+          ]
+        },
+        {
+          "name": "Linda Teri",
+          "openalex_id": "A5036095173",
+          "orcid": "https://orcid.org/0000-0001-7127-8905",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Naaheed Mukadam",
+          "openalex_id": "A5086247322",
+          "orcid": "https://orcid.org/0000-0001-8635-9521",
+          "institutions": [
+            "University College London",
+            "Camden and Islington NHS Foundation Trust"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-30",
+      "abstract": null,
+      "cited_by_count": 10260,
+      "type": "review",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S0140673620303676/pdf"
+      },
+      "topics": [
+        "Dementia and Cognitive Impairment Research",
+        "Intensive Care Unit Cognitive Disorders",
+        "Frailty in Older Adults"
+      ],
+      "referenced_works_count": 347,
+      "url": "https://openalex.org/W3046275966"
+    },
+    {
+      "openalex_id": "W2730966326",
+      "doi": "10.1017/hgl.2017.17",
+      "title": "Hegel and Colonialism",
+      "authors": [
+        {
+          "name": "Alison Stone",
+          "openalex_id": "A5011606527",
+          "orcid": "https://orcid.org/0000-0001-9621-8263",
+          "institutions": [
+            "Lancaster University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-27",
+      "abstract": "Abstract This article explores the implications of Hegel\u2019s Philosophy of World History with respect to colonialism. For Hegel, freedom can be recognized and practised only in classical, Christian and modern Europe; therefore, the world\u2019s other peoples can acquire freedom only if Europeans impose their civilization upon them. Although this imposition denies freedom to colonized peoples, this denial is legitimate for Hegel because it is the sole condition on which these peoples can gain freedom in the longer term. The article then considers whether Hegel\u2019s basic account of freedom can be extricated from his Eurocentric and pro-colonialist interpretation of the course of history. The article argues that matters are more complicated because that interpretation has significant connections with Hegel\u2019s conception of freedom as self-determination.",
+      "cited_by_count": 73,
+      "type": "article",
+      "source": {
+        "name": "Hegel Bulletin",
+        "type": "journal",
+        "issn": [
+          "2051-5367",
+          "2051-5375"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.lancs.ac.uk/id/eprint/86891/4/hegel_and_colonialism.pdf"
+      },
+      "topics": [
+        "Philosophy and Historical Thought",
+        "Political Theology and Sovereignty",
+        "Philosophical Thought and Analysis"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W2730966326"
+    },
+    {
+      "openalex_id": "W2150201320",
+      "doi": "10.5465/amr.2012.0203",
+      "title": "Research Strategies for Organizational History: A Dialogue Between Historical Theory and Organization Theory",
+      "authors": [
+        {
+          "name": "Michael Rowlinson",
+          "openalex_id": "A5114256512",
+          "institutions": [
+            "Queen Mary University of London",
+            "University of Manchester",
+            "University College London"
+          ]
+        },
+        {
+          "name": "John Hassard",
+          "openalex_id": "A5028704113",
+          "orcid": "https://orcid.org/0000-0003-0468-4609",
+          "institutions": [
+            "Queen Mary University of London",
+            "University of Manchester",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Stephanie Decker",
+          "openalex_id": "A5064172786",
+          "orcid": "https://orcid.org/0000-0003-0547-9594",
+          "institutions": [
+            "Queen Mary University of London",
+            "Aston University",
+            "University of Manchester",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-12-14",
+      "abstract": "If history matters for organization theory, then we need greater reflexivity regarding the epistemological problem of representing the past; otherwise, history might be seen as merely a repository of ready-made data. To facilitate this reflexivity, we set out three epistemological dualisms derived from historical theory to explain the relationship between history and organization theory: (1) in the dualism of explanation, historians are preoccupied with narrative construction, whereas organization theorists subordinate narrative to analysis; (2) in the dualism of evidence, historians use verifiable documentary sources, whereas organization theorists prefer constructed data; and (3) in the dualism of temporality, historians construct their own periodization, whereas organization theorists treat time as constant for chronology. These three dualisms underpin our explication of four alternative research strategies for organizational history: corporate history, consisting of a holistic, objectivist narrative of a corporate entity; analytically structured history, narrating theoretically conceptualized structures and events; serial history, using replicable techniques to analyze repeatable facts; and ethnographic history, reading documentary sources \u201cagainst the grain.\u201d Ultimately, we argue that our epistemological dualisms will enable organization theorists to justify their theoretical stance in relation to a range of strategies in organizational history, including narratives constructed from documentary sources found in organizational archives.",
+      "cited_by_count": 612,
+      "type": "article",
+      "source": {
+        "name": "Academy of Management Review",
+        "type": "journal",
+        "issn": [
+          "0363-7425",
+          "1930-3807"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.manchester.ac.uk/en/publications/276daaa0-d1f8-4110-9e38-9d249cdf675b"
+      },
+      "topics": [
+        "Management and Organizational Studies",
+        "Management Theory and Practice",
+        "Accounting and Organizational Management"
+      ],
+      "referenced_works_count": 218,
+      "url": "https://openalex.org/W2150201320"
+    },
+    {
+      "openalex_id": "W2123999354",
+      "doi": "10.1080/01419870701356064",
+      "title": "Racialized modernity: An analytics of white mythologies",
+      "authors": [
+        {
+          "name": "Barnor Hesse",
+          "openalex_id": "A5007555255",
+          "institutions": [
+            "North-West State Technical University"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-06-08",
+      "abstract": "Abstract This article is located in parentheses between two quotations from Derrida's reflections on white mythologies, defined here as the 'rhetoric of modernity'. It re-conceptualizes race by interrogating its elision in contemporary social and political thought where discussions of modernity routinely ignore colonial and racial formations. It discusses a commentary by Jurgen Habermas on Hegel's discourse of modernity, which is used heuristically to illustrate the systematic elisions of race in contemporary theoretical discussions of modernity. Reading various juxtapositions between the two, it argues Habermas's erasure of distinctly colonial/racial themes in Hegel's concept of modernity, can be used to develop an analytics of racialized modernity, against white mythologies, which understands race beyond corporeality as signifying colonial distinctions between assemblages of 'Europeanness' and 'non-Europeanness'. Building on developments in race/modernity studies it argues for the importance of conceptualizing race without any residual reliance on a biological referent to guarantee the object of critique. Keywords: ModernityracializationEuropeHabermasHegelcoloniality Acknowledgements Many thanks to my interlocutors S. Sayyid, Richard Iton, Michael Hanchard, Lisa Lowe, Robert Gooding-Williams and David Goldberg. Notes 1. Derrida 1982, p. 213. 2. An analytics describes an approach to study, research, reading or writing. It is a mode of analysis (inspecting and questioning phenomena, (e.g. white mythologies) that is concerned with the examination of the specific conditions (.e.g. European coloniality) under which particular phenomena (e.g. race/modernity) emerge, persist, change and are contested. In short an analytics is a way of analyzing the how (the arising and deployment) and why (the rationale and logic) of particular phenomena (e.g. racialized modernity). cf. Dean Citation1999, pp. 20\u201327. 3. It should be noted that Habermas's commentary on Hegel draws upon a range of Hegel's writings, particularly though not exclusively, Hegel's Phenomenology of Spirit, The Philosophy of Right, Lectures on the History of Philosophy. This is contained in the first two chapters of Habermas 1987. For reasons of space my own reading of Hegel is based on his Lectures on the Philosophy of World History. 4. A 'chronotope' describes terms or ideas that combine references to particular times and spaces in a discourse. In referring to 'time-space', it signifies the 'intrinsic connectedness of temporal and spatial relationships', see Bhaktin Citation1991: 84. 5. We should note the root sense of 'imperium' is 'order' or 'command'. In its semantic history from Antiquity to the late 18th century and beyond, this Latin term acquired three distinct senses as: 'limited and independent or \"perfect\" rule, as a territory embracing more than one political community, and as the absolute sovereignty of a single individual'; see Pagden Citation1995, p.17. 6. It is within the context of the European logos as a foundation of the modernity discourse, driven by coloniality that 'undecidability' arises as the irrepressibility of unfixity, uncertainty, incoherence, discrepancy in the meanings instituted in the 'European' /'non-European' demarcations that supply the categories of race. Contrary to the appearances given by the closed, reiterable, foundational logic of the tabulated racial categories, 'undecidability' is found in those spaces and instances where an innovative or legislative decision has been or needs to be taken to define what the 'European'/'non-European' distinctions can or should mean. 7. There continues to be much contemporary discussion of 'race' as a social construction, but beyond tautology (i.e. 'race is a social construction of race') and without essentialism (i.e. 'race refers to visible, physical, bodily attributes') it is not clear what gets socially constructed as 'race'; or what gets biologized or ethnicized as 'race'. If as I have argued, 'race' invokes the historically instituted colonial relation 'European'/'non-European', then racialization describes its sustained configuration in discrete markings of various assemblages of social entities (e.g. polities, corporealities, histories, knowledges, communities). Consequently, categories of 'race' whether historically based on the one drop rule in the United States (see Lopez Citation1996), or the Latin American systems of racial gradation along a continuum (see Appelbaum, Macpherson and Rosemblatt Citation2003), all occur within the parameters set by the colonial polarization of people, places and things ascribed as 'European' and 'non-European' assemblages. 8. This second quotation from Derrida's discussion of the organizing and erasing power of metaphor in philosophy follows six lines after the quotation that begins this article. My article can therefore be read as written in a parenthesis between these two quotations. See Derrida 1982, p. 213. Additional informationNotes on contributorsBarnor Hesse BARNOR HESSE is Associate Professor in the Department of African American Studies, Northwestern University",
+      "cited_by_count": 369,
+      "type": "article",
+      "source": {
+        "name": "Ethnic and Racial Studies",
+        "type": "journal",
+        "issn": [
+          "0141-9870",
+          "1466-4356"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Critical Theory and Political Philosophy",
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2123999354"
+    },
+    {
+      "openalex_id": "W1995776064",
+      "doi": "10.4000/rccsar.174",
+      "title": "Knowledge of Africa, Knowledge by Africans: Two Perspectives on African Studies",
+      "authors": [
+        {
+          "name": "Paulin J. Hountondji",
+          "openalex_id": "A5000607992",
+          "institutions": [
+            "University of Bayreuth",
+            "University of Coimbra"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "How African are the so-called African Studies? The study of Africa, as developed so far by a long intellectual tradition, is part of an overall project of knowledge accumulation initiated and controlled by the West. This article advocates an active, lucid, responsible appropriation by African societies themselves of the knowledge capitalised over centuries about them. It advocates more generally the development in Africa of an autonomous, self-reliant tradition of research and knowledge that addresses problems and issues directly or indirectly posed by Africans. It calls upon \u201c\u00e9pist\u00e9mologies du Sud.\u201d It calls upon African scholars in African Studies and in all other disciplines to understand that they have been doing so far a kind of research that was massively extraverted, i. e. externally oriented, intended first and foremost to meet the theoretical and practical needs of Northern societies. It invites a new orientation and new ambitions for research by Africans in Africa.",
+      "cited_by_count": 149,
+      "type": "article",
+      "source": {
+        "name": "RCCS Annual Review",
+        "type": "journal",
+        "issn": [
+          "1647-3175"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://journals.openedition.org/rccsar/pdf/174"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "African Studies and Ethnography",
+        "African history and culture studies"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W1995776064"
+    },
+    {
+      "openalex_id": "W2163865803",
+      "doi": "10.1353/arw.0.0274",
+      "title": "African Diasporas: Toward a Global History",
+      "authors": [
+        {
+          "name": "Paul Tiyambe \u017deleza",
+          "openalex_id": "A5054744266",
+          "orcid": "https://orcid.org/0000-0002-0737-1862",
+          "institutions": [
+            "University of Illinois Urbana-Champaign",
+            "Loyola Marymount University"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-04-01",
+      "abstract": "Abstract: This article interrogates the development of African diaspora studies. Based a global research project that seeks to map out the dispersals of African peoples in all the major regions of the world, compare the processes of diasporization, and examine the patterns of diaspora engagements, it offers a vigorous critique of the hegemonous Afro-Atlantic model in African diaspora studies. It focuses on two critical challenges that students of African diasporas must confront: the terms of analysis that are adopted, and the problems of historical mapping.",
+      "cited_by_count": 64,
+      "type": "article",
+      "source": {
+        "name": "African Studies Review",
+        "type": "journal",
+        "issn": [
+          "0002-0206",
+          "1555-2462"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B4F942E213F68C781F0A20CCE134023C/S0002020600004625a.pdf/div-class-title-african-diasporas-toward-a-global-history-div.pdf"
+      },
+      "topics": [
+        "Diaspora, migration, transnational identity",
+        "Postcolonial and Cultural Literary Studies",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2163865803"
+    },
+    {
+      "openalex_id": "W2125583491",
+      "doi": "10.1017/s1740022806000027",
+      "title": "Historiographical traditions and modern imperatives for the restoration of global history",
+      "authors": [
+        {
+          "name": "Patrick O\u2019Brien",
+          "openalex_id": "A5103271065",
+          "orcid": "https://orcid.org/0009-0007-8628-716X",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-03-01",
+      "abstract": "This essay has been written to serve as a prolegomenon for a new journal in Global History. It opens with a brief depiction of the two major approaches to the field (through connexions and comparisons) and moves on to survey first European and then other historiographical traditions in writing \u2018centric\u2019 histories up to the times of the Imperial Meridian 1783\u20131825, when Europe\u2019s geopolitical power over all other parts of the world became hegemonic. Thereafter, and for the past two centuries, all historiographical traditions converged either to celebrate or react to the rise of the \u2018West\u2019. The case for the restoration of Global History rests upon its potential to construct negotiable meta-narratives, based upon serious scholarship that will become cosmopolitan in outlook and meet the needs of our globalizing world.",
+      "cited_by_count": 245,
+      "type": "article",
+      "source": {
+        "name": "Journal of Global History",
+        "type": "journal",
+        "issn": [
+          "1740-0228",
+          "1740-0236"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF3EF153990D7B7FD524B8CE6A3E4AAC/S1740022806000027a.pdf/div-class-title-historiographical-traditions-and-modern-imperatives-for-the-restoration-of-global-history-div.pdf"
+      },
+      "topics": [
+        "Asian Studies and History",
+        "Philippine History and Culture",
+        "Colonial History and Postcolonial Studies"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W2125583491"
+    },
+    {
+      "openalex_id": "W2770517594",
+      "doi": null,
+      "title": "Between bureaucracy and the people: A political history of informality",
+      "authors": [
+        {
+          "name": "Keith Hart",
+          "openalex_id": "A5060826510",
+          "orcid": "https://orcid.org/0000-0001-5453-6394"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "I explore here the dialectic of formal and informal economy in the context of 'development' dis-course over the last four decades. It would not be hard, in post-colonial Africa for example, to conceive of this dialectic as a war waged by the bureaucracy on the people, allowing informal economic practices to be portrayed as a kind of democratic resistance. Yet, however much we might endorse the political value of self-organized economic activities, there are tasks of large-scale co-ordination for which bureaucracy is well-suited; and the institution's origins were closely linked to aspirations for political equality, even if historical experience has undermined that ex-pectation. So the task is not only to find practical ways of harnessing the complementary potent-ial of bureaucracy and informality, but also to advance thinking about their dialectical movement. Informality may be conceived logically in terms of four categories: division, content, negation and residue. Neoliberal globalization has vastly expanded the scope of informal activities; so that we also need to examine what social forms positively organize them and how these relate to govern-ments, corporations and international agencies. The current crisis of world economy has already begun a major swing of the pendulum back from the market to the state (wherever that may be these days). The political potential of our moment in history is well illuminated by a review of how the major development agencies have variously construed the dialectic of bureaucracy and informal economy through the state/market pair since the concept's origins around 1970.",
+      "cited_by_count": 57,
+      "type": "article",
+      "source": {
+        "name": "Econstor (Econstor)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10419/44691"
+      },
+      "topics": [
+        "Political and Economic history of UK and US"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2770517594"
+    },
+    {
+      "openalex_id": "W199383840",
+      "doi": "10.2307/1512204",
+      "title": "Pauline Hopkins's \"Of One Blood\", Africa, and the \"Darwinist Trap\"",
+      "authors": [
+        {
+          "name": "Martin Japtok",
+          "openalex_id": "A5030614256"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "An adventurous novel intermingling [literary] traditions such as historical romance, realism, allegory, fantasy, science fiction, and mystery (Horvitz 246), and also first African American novel featuring an African setting and African characters (Gruesser 77), Pauline Hopkins's Of One Blood attempts to counter turn-of-the century racism by looking toward Africa and its with pride. Directed at an African American reading audience--the novel was serialized in Colored American Magazine from November 1902 to November 1903--and pointing to splendors of ancient African civilizations, novel is designed to provide African-Americans with a usable, livable past (Gruesser 75), a meant to support development of a healthy self-image, support struggle for equal rights, and lead to recognition in an environment hostile to or oblivious of and uninterested in accomplishments of Africans and their descendants. By delineating an impressive ancient Meroe, historical center of an ancient Kushite (or Nubian) Of One Blood reverses mainstream racist visions of Africa as representing, to quote Hegel and also to cite nineteenth-century European historians' widespread assessment, the unhistorical and underdeveloped spirit, still involved in conditions of mere nature (qtd. in Magubane 24). But in doing so, Of One Blood runs into a number of problems, most ideologically dangerous of which is what could be named Darwinist trap: Making worth of a people dependent on technological and cultural accomplishments means following same quasi-Darwinian logic that served nineteenth- and twentieth-century imperialists to justify their ventures. Darwinist trap, or temptation to make material, technological accomplishments standard by which any people should be measured, allows technology and pseudo-scientific racism to come together as a world view: In middle of nineteenth century, steamers started carrying European cannons deep into interior of Asia and Africa. With that a new epoch in history of imperialism was introduced. This became a new epoch in history of racism. Too many Europeans interpreted military superiority as intellectual and even biological superiority. (Lindqvist 47) Wealth and technological progress served both as means and rationalization of imperialism Europeans and their descendants aggressively pursued in Africa and Asia, as well as within their own territories. In Descent of Man, Charles Darwin reasons that without accumulation of capital arts [meaning chiefly mechanical arts--i.e., technology] could not progress; and it is chiefly through their power that civilised have extended, and are now everywhere extending their range, so as to take place of lower races (135). But as this quote exemplifies, technology, or which in nineteenth-century usage virtually always means Western civilization, did, in Darwin's view, not merely entitle imperialists to territories, but even justified, implicitly, extermination of those unable militarily to resist it. As Darwin claims, The grade of their civilisation seems to be a most important element in success of competing .... It is a ... curious fact ... that savages did not formerly waste away before classical nations, as they do now before modern civilised nations (183). In Exterminate All Brutes, an impressive essay on pervasiveness of such justifications for genocide, Sven Lindqvist traces such sentiments, or at least their expression in natural sciences, back to Robert Knox, who, in his 1850 work Races of Man, announced that he felt disposed to think that there must be a physical and[,] consequently, a psychological inferiority in darker generally (qtd. in Lindqvist 125). Knox did not remain a lone voice for long. \u2026",
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "African American Review",
+        "type": "journal",
+        "issn": [
+          "1062-4783",
+          "1945-6182"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "American and British Literature Analysis",
+        "Caribbean history, culture, and politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W199383840"
+    },
+    {
+      "openalex_id": "W1603011375",
+      "doi": "10.2307/j.ctt183gzx9",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        },
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. logging, pulping and manufacturing processes are expected to conform to the environmental standards of the country of origin.",
+      "cited_by_count": 126,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/45623/1/625231.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W1603011375"
+    },
+    {
+      "openalex_id": "W2912020416",
+      "doi": "10.1002/9780470996515.ch13",
+      "title": "Environmental History",
+      "authors": [
+        {
+          "name": "Gerry Kearns",
+          "openalex_id": "A5001270886",
+          "orcid": "https://orcid.org/0000-0002-6461-7064"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "There was a time when almost all Western geography could be termed environmental&#13;\\nhistory. In the late nineteenth century, physical geographers explained landscapes&#13;\\nby describing how they had evolved. Likewise, human geographers saw&#13;\\nsociety as shaped by the directing hands of the environment. By the 1960s this had&#13;\\nvery much changed. Process studies shortened the temporal framework in geographical&#13;\\nexplanation and cut the cord between nature and society. Now, physical&#13;\\nand human landscapes were seen as responding to short-term fluctuations around&#13;\\na long-term steady state. Between the homeostatic systems of the geomorphologist&#13;\\nand the isotropic surfaces of the economic geographer, there seemed to be no congress.&#13;\\nFor a number of reasons, environmental history now enjoys a renewed significance&#13;\\nwithin human geography. I want to explore four sets of reasons why this&#13;\\nis so. First, I will look at the continuing importance of an ecological tradition in&#13;\\ngeography that was always more than mere environmental determinism. In the&#13;\\nsecond place, I will explore how geographical reasoning has continued to be of interest&#13;\\nin what we might term big-picture histories. Thirdly, I want to consider how&#13;\\nenvironmental history was treated within Marxist geography. Finally, I intend to&#13;\\nconsider how the New Cultural Geography has treated the subject. I will conclude&#13;\\nby examining some studies that draw upon the best from these four approaches.",
+      "cited_by_count": 102,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.maynoothuniversity.ie/8095/1/GK_Environmental_History.pdf"
+      },
+      "topics": [
+        "Historical Studies and Socio-cultural Analysis",
+        "American Environmental and Regional History",
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2912020416"
+    },
+    {
+      "openalex_id": "W2330806582",
+      "doi": "10.1093/ahr/118.5.1431",
+      "title": "AHR Conversation How Size Matters: The Question of Scale in History",
+      "authors": [
+        {
+          "name": "Sebouh David Aslanian",
+          "openalex_id": "A5051932478"
+        },
+        {
+          "name": "Joyce E. Chaplin",
+          "openalex_id": "A5033597933",
+          "orcid": "https://orcid.org/0000-0001-6370-4310"
+        },
+        {
+          "name": "Ann McGrath",
+          "openalex_id": "A5068974802",
+          "orcid": "https://orcid.org/0000-0003-1353-4653"
+        },
+        {
+          "name": "Kristin Mann",
+          "openalex_id": "A5018121832"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-25",
+      "abstract": "In the last few years, the AHR has published six \u201cConversations,\u201d each on a subject of interest to a wide range of historians: \u201cOn Transnational History\u201d (2006), \u201cReligious Identities and Violence\u201d (2007), \u201cEnvironmental Historians and Environmental Crisis\u201d (2008), \u201cHistorians and the Study of Material Culture\u201d (2009), \u201cHistorical Perspectives on the Circulation of Information\u201d (2011), and \u201cThe Historical Study of Emotions\u201d (2012). For each the process has been the same: the Editor convenes a group of scholars with an interest in the topic who, via e-mail over the course of several months, conduct a conversation, which is then lightly edited and footnoted, finally appearing in the December issue. The goal has been to provide readers with a wide-ranging consideration of a topic at a high level of expertise, in which the participants are recruited across several fields and periods. It is the sort of publishing project that this journal is uniquely positioned to undertake. This year's topic is \u201cHow Size Matters: The Question of Scale in History.\u201d Many working historians\u2014perhaps more those of past generations than today\u2014might regard this question as irrelevant if not downright strange. Most traditional history, after all, is spatially defined by categories such as the nation-state, or chronologically constrained by the temporal boundaries of an event or era, or otherwise contextualized in terms of time and space by implicit \u201cgivens.\u201d At least since the rise of the Annales school of history in the 1970s, however, these assumed categories have been challenged by such concepts as the Braudelian \u201cworld\u201d and the longue dur\u00e9e, and subsequently by the vogue of \u201cmicrohistory.\u201d In more recent years there has been the rise of global or world history, as well as, even more recently, \u201cdeep\u201d history, which challenges historians to think not only in years or centuries but across the vast spaces of evolutionary and even planetary time. The conversation that follows touches on all of these topics. Joining the Editor here are Sebouh David Aslanian, a scholar of early modern Armenian and world history at UCLA; Joyce E. Chaplin, a historian of the environment and of science from Harvard University; Kristin Mann, an African historian at Emory University; and Ann McGrath, a scholar of colonialism and Indigenous history at the Australian National University. In addition, all of these scholars have an active interest in global and world history, which largely provided the theme of the conversation.",
+      "cited_by_count": 126,
+      "type": "article",
+      "source": {
+        "name": "The American Historical Review",
+        "type": "journal",
+        "issn": [
+          "0002-8762",
+          "1937-5239"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ahr/article-pdf/118/5/1431/25735952/zah1431.pdf"
+      },
+      "topics": [
+        "History of Emotions Research",
+        "History, Culture, and Diplomacy",
+        "Historical Economic and Social Studies"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2330806582"
+    },
+    {
+      "openalex_id": "W3202027977",
+      "doi": "10.2991/jat.k.210908.001",
+      "title": "Proving Hegel Wrong: Learning the Right Lessons from European Integration for the African Continental Free Trade Area",
+      "authors": [
+        {
+          "name": "Andrew Mold",
+          "openalex_id": "A5059992568",
+          "institutions": [
+            "United Nations Economic Commission for Africa"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The German philosopher G",
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "Journal of African Trade",
+        "type": "journal",
+        "issn": [
+          "2214-8515",
+          "2214-8523"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.atlantis-press.com/article/125961185.pdf"
+      },
+      "topics": [
+        "Global Peace and Security Dynamics"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W3202027977"
+    },
+    {
+      "openalex_id": "W2014546568",
+      "doi": "10.1111/1468-0289.00150",
+      "title": "A critical survey of recent research in Chinese economic history",
+      "authors": [
+        {
+          "name": "Kent Deng",
+          "openalex_id": "A5022387346",
+          "orcid": "https://orcid.org/0000-0002-9795-3646",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-02-01",
+      "abstract": "China is a resilient dinosaur. In contrast with so many other great empires in Eurasiathe Egyptian, Roman, Byzantine, Arabian, Ottoman and Tsarist-Soviet -China has the longest history. The Empire kept expanding until the mid-nineteenth century when it practically reached the physical limits for a predominantly agrarian economy. The size and wealth of the Chinese economy, the variety of its produce and the degree of commercialisation and urbanisation made China one of the most popular international trading destinations from Roman times. 1 With the rise of the opium trade in the early nineteenth century, however, the Chinese economy has been severely impoverished at least in relative terms. In response, since the 1870s, the Chinese sought to rescue their civilisation by adopting a wide range of foreign examples in social engineering for social experiments and reforms. 2 Nevertheless, China's per capita GDP is still very low despite its political influence in the world since the 1970s. It is justifiable to view China as a case of growth failure in the recent centuries.",
+      "cited_by_count": 114,
+      "type": "article",
+      "source": {
+        "name": "The Economic History Review",
+        "type": "journal",
+        "issn": [
+          "0013-0117",
+          "1468-0289"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0289.00150"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Historical Economic and Social Studies",
+        "China's Socioeconomic Reforms and Governance"
+      ],
+      "referenced_works_count": 228,
+      "url": "https://openalex.org/W2014546568"
+    },
+    {
+      "openalex_id": "W2164766287",
+      "doi": null,
+      "title": "Reclaiming Our Indigenous Voices: The Problem with Postcolonial Sub-Saharan African School Curriculum",
+      "authors": [
+        {
+          "name": "Edward Shizha",
+          "openalex_id": "A5009662129"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-09-01",
+      "abstract": "The school curriculum in postcolonial Sub-Saharan Africa experiences challenges that are a legacy of colonial education that remained in place decades after political decolonization. The case for African school curriculum is contentious in contemporary Africa because it negates the voices of African indigenous populations. Despite the advent of decolonization that started in the 1960s, African education systems mirror colonial education paradigms inherited from former colonial governments. Colonial education was hegemonic and disruptive to African cultural practices, indigenous knowledges (IKs) and ways of knowing. Prior to colonization, Africans were socialized and educated within African indigenous cultural contexts. With the advent of colonization, traditional institutions of knowledge started disappearing due to cultural repression, misrepresentations, misinterpretations and devaluation. Postcolonial educations systems in Sub-Saharan Africa should reclaim Indigenous voices through curriculum reforms. This paper explores the possibilities of reclaiming IKs in postcolonial Sub-Saharan African schools and the challenges in revisiting indigenous discourses on school knowledge. The paper argues that it is through the implementation and integration of IKs in schools that students, parents and communities can reclaim their voices in the process of educating the African child.",
+      "cited_by_count": 105,
+      "type": "article",
+      "source": {
+        "name": "ScholarSpace (University of Hawaii at Manoa)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10125/29818"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "Indigenous Knowledge Systems and Agriculture",
+        "African Education and Politics"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2164766287"
+    },
+    {
+      "openalex_id": "W2164658544",
+      "doi": "10.5539/hes.v3n4p50",
+      "title": "The African Educational Evolution: From Traditional Training to Formal Education",
+      "authors": [
+        {
+          "name": "Dama Mosweunyane",
+          "openalex_id": "A5035581413",
+          "institutions": [
+            "University of Botswana"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-07-18",
+      "abstract": "This paper attempts to critically examine the approaches that were employed by Africans in their knowledge, skills and attitudes acquisition before, after and during colonialisation of the continent. The paper looks at three distinctive epochs from which the perfect understanding of how learning in Africa transformed could be concluded. It is notable that there was a period before Africa got colonised, which was followed by the period during colonisation, before the independence of the continent. The position that is strongly advanced through this paper is that even before colonialism the African societies offered training to their members, which was characterized by the provision of survival skills to individuals who were supposed to selflessly serve their societies. Members of African societies learnt through their interaction with their physical and spiritual milieus, as evidenced by their design of tools which they used mostly in their agro activities and in fighting for resources. The other area in which learning took place was that of spirituality or mysticism, as some superstitious members of African communities were believed to have powers of communicating with their ancestors. As noted by Westerlund (1991), the belief in the ancestors is widespread in many African agricultural areas and like divinities and nature spirits, the spirits of ancestors are thought to be intermediaries between God and humankind. The main problem that this paper is intended to advance is that Africa is regarded by some people as having not had any form of education before the arrival of the colonialists and their educational establishments or organisations. This paper therefore raises an argument against this position.",
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Higher Education Studies",
+        "type": "journal",
+        "issn": [
+          "1925-4741",
+          "1925-475X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ccsenet.org/journal/index.php/hes/article/download/29072/17362"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "Poverty, Education, and Child Welfare",
+        "African Education and Politics"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2164658544"
+    },
+    {
+      "openalex_id": "W2904431203",
+      "doi": "10.4324/9781315737607-13",
+      "title": "An African Theory of Social Justice",
+      "authors": [
+        {
+          "name": "Thaddeus Metz",
+          "openalex_id": "A5028227280",
+          "orcid": "https://orcid.org/0000-0001-9861-2408"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-10-23",
+      "abstract": "Most people know that Africa is a continent rich in minerals and indeed has been exploited for them for centuries. However, few people, including theorists in the Anglo-American and Continental traditions, are aware of what this part of the world has to contribute intellectually. At a highly abstract level, theories of social justice are usefully characterised according to where moral status is located. Although a community, specifically understood here as the combined relationships of identity and solidarity. To begin to see some of the respects in which African political thought has been relational, consider these remarks about sub-Saharan values and norms from theorists who are from places as diverse as South Africa, Zimbabwe, Uganda, Kenya and Nigerian African societies, immorality is the word or deed which undermines fellowship. The conclusion that Africans are persistently in search of harmony in all spheres of life is pertinently true of African thought.",
+      "cited_by_count": 39,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/METAAT-6.pdf"
+      },
+      "topics": [
+        "African cultural and philosophical studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2904431203"
+    },
+    {
+      "openalex_id": "W2103154090",
+      "doi": "10.3176/tr.2010.3.05",
+      "title": "COMMUNITY AND HUMAN WELL-BEING IN AN AFRICAN CULTURE; pp. 282\u2013298",
+      "authors": [
+        {
+          "name": "Christopher Agulanna",
+          "openalex_id": "A5067562420",
+          "institutions": [
+            "University of Ibadan"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-13",
+      "abstract": "An interest in community has remained the concern of philosophers and other thinkers from the period of known history. All through the history of thought, there have been those who have tried to denigrate community and who have seen it as something that could be jettisoned or discarded by humans. Among Africans, however, it is generally held that it is in the community of other human beings that the life of the individual can have meaning or significance. This paper pursues this line of thought and examines how the Igbo people of Nigeria, Africa, conceive of the relationship between the individual and the community. The conclusion the paper reaches is that both as individuals and as groups, people need the protective cover that community life offers if their lives are to have any meaning or significance. Community, the paper adds, is the only essential means by which humans can achieve their social goals and aspirations.",
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "Trames Journal of the Humanities and Social Sciences",
+        "type": "journal",
+        "issn": [
+          "1406-0922",
+          "1736-7514"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://kirj.ee/public/trames_pdf/2010/issue_3/trames-2010-3-282-297.pdf"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "Religion, Society, and Development",
+        "Anthropological Studies and Insights"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2103154090"
+    },
+    {
+      "openalex_id": "W4212961386",
+      "doi": "10.26530/oapen_625231",
+      "title": "A History of Anthropology",
+      "authors": [
+        {
+          "name": "Finn Sivert Nielsen",
+          "openalex_id": "A5047751498"
+        },
+        {
+          "name": "Thomas Hylland Eriksen",
+          "openalex_id": "A5059736007",
+          "orcid": "https://orcid.org/0000-0002-5662-757X"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "This is a thoroughly updated and revised edition of a popular classic of modern anthropology. Avoiding geographical bias, the authors provide summaries of \u2018Enlightenment\u2019, \u2018Romantic\u2019 and \u2018Victorian\u2019 anthropology, from the cultural theories of Morgan and Taylor to the often neglected contributions of German scholars. The ambiguous relationship between anthropology and national cultures is also considered, and the growth of distinctive national styles in anthropological research is highlighted. A History of Anthropology is an unparalleled account of theoretical developments in anthropology from the 1920s to the present, including functionalism, structuralism, hermeneutics, neo-Marxism and discourse analysis. Major anthropologists are provided with brief biographies and key debates are covered such as those concerning totemism, kinship and globalisation. This essential text on anthropology is highly engaging, authoritative and suitable for students at all levels.",
+      "cited_by_count": 53,
+      "type": "book",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.doabooks.org/doab?func=search&query=rid:20652"
+      },
+      "topics": [
+        "Anthropology: Ethics, History, Culture",
+        "Anthropological Studies and Insights",
+        "Emile Durkheim and Sociology"
+      ],
+      "referenced_works_count": 286,
+      "url": "https://openalex.org/W4212961386"
+    },
+    {
+      "openalex_id": "W2044553971",
+      "doi": "10.1186/1472-684x-11-1",
+      "title": "Outcomes 'out of africa': the selection and implementation of outcome measures for palliative care in Africa",
+      "authors": [
+        {
+          "name": "Project PRISMA",
+          "openalex_id": "",
+          "institutions": [
+            "African Palliative Care Association",
+            "Makerere University"
+          ]
+        },
+        {
+          "name": "Julia Downing",
+          "openalex_id": "A5058318117",
+          "orcid": "https://orcid.org/0000-0002-3450-785X",
+          "institutions": [
+            "African Palliative Care Association",
+            "University Hospital Cologne"
+          ]
+        },
+        {
+          "name": "Steffen T. Simon",
+          "openalex_id": "A5071084595",
+          "orcid": "https://orcid.org/0000-0002-6884-1813",
+          "institutions": [
+            "African Palliative Care Association",
+            "University Hospital Cologne"
+          ]
+        },
+        {
+          "name": "Faith Mwangi-Powell",
+          "openalex_id": "A5024720486",
+          "institutions": [
+            "King's College London",
+            "African Palliative Care Association",
+            "Cicely Saunders International"
+          ]
+        },
+        {
+          "name": "Hamid Benalia",
+          "openalex_id": "A5110286940",
+          "institutions": [
+            "King's College London",
+            "Cicely Saunders International"
+          ]
+        },
+        {
+          "name": "Barbara A Daveson",
+          "openalex_id": "A5013288612",
+          "orcid": "https://orcid.org/0000-0001-8039-8749",
+          "institutions": [
+            "King's College London",
+            "Cicely Saunders International"
+          ]
+        },
+        {
+          "name": "Irene J Higginson",
+          "openalex_id": "A5085758009",
+          "orcid": "https://orcid.org/0000-0002-3687-1313",
+          "institutions": [
+            "King's College London",
+            "Cicely Saunders International"
+          ]
+        },
+        {
+          "name": "Richard Harding",
+          "openalex_id": "A5086923376",
+          "orcid": "https://orcid.org/0000-0001-9653-8689",
+          "institutions": [
+            "King's College London",
+            "Cicely Saunders International"
+          ]
+        },
+        {
+          "name": "Claudia Bausewein",
+          "openalex_id": "A5005421863",
+          "orcid": "https://orcid.org/0000-0002-0958-3041",
+          "institutions": [
+            "King's College London",
+            "Cicely Saunders International"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-06",
+      "abstract": "BACKGROUND: End-of-life care research across Africa is under-resourced and under-developed. A central issue in research in end-of-life care is the measurement of effects and outcomes of care on patients and families. Little is known about the experiences of health professionals' selection and implementation of outcome measures (OM) in clinical care, research, audit, or teaching in Africa. METHODS: An online survey was undertaken of those using outcome measures across the region, as part of the PRISMA project. A questionnaire addressing the use of OMs was developed for a similar survey in Europe and adapted for Africa. Participants were sampled through the contacts database of APCA. Invitation emails were sent out in January 2010 and reminders in February 2010. RESULTS: 168/301 invited contacts (56%) from 24 countries responded, with 78 respondents having previously used OM (65% in clinical practice, 12% in research and 23% for both). Main reasons for not using OM were a lack of guidance/training on using and analysing OM, with 49% saying that they would use the tools if this was provided. 40% of those using OM in clinical practice used POS, and 80% used them to assess, evaluate and monitor change. The POS was also the main tool used in research, with the principle criteria for use being validation in Africa, access to the tool and time needed to complete it. Challenges to the use of tools were shortage of time and resources, lack of guidance and training for the professionals, poor health status of patients and complexity of OM. Researchers also have problems analysing OM data. The APCA African POS was the most common version of the POS used, and was reported as a valuable tool for measuring outcomes. Respondents indicated the ideal outcome tool should be short, multi-dimensional and easy to use. CONCLUSION: This was the first survey on professionals' views on OM in Africa. It showed that the APCA African POS was the most frequently OM used. Training and support are needed to help professionals utilise OM in palliative care, and OMs have an ongoing and important role in palliative care in Africa.",
+      "cited_by_count": 46,
+      "type": "article",
+      "source": {
+        "name": "BMC Palliative Care",
+        "type": "journal",
+        "issn": [
+          "1472-684X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://bmcpalliatcare.biomedcentral.com/counter/pdf/10.1186/1472-684X-11-1"
+      },
+      "topics": [
+        "Palliative Care and End-of-Life Issues",
+        "Delphi Technique in Research",
+        "Cancer survivorship and care"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W2044553971"
+    },
+    {
+      "openalex_id": "W607674676",
+      "doi": "10.7249/mr1626",
+      "title": "Shaping the Next One Hundred Years: New Methods for Quantitative, Long-Term Policy Analysis",
+      "authors": [
+        {
+          "name": "Robert J. Lempert",
+          "openalex_id": "A5083276781",
+          "orcid": "https://orcid.org/0000-0003-0537-3159",
+          "institutions": [
+            "RAND Corporation"
+          ]
+        },
+        {
+          "name": "Steven W. Popper",
+          "openalex_id": "A5085709919",
+          "orcid": "https://orcid.org/0000-0002-9847-1948"
+        },
+        {
+          "name": "Steven C. Bankes",
+          "openalex_id": "A5113671375"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "The checkered history of predicting the future \u2014 e.g., \u201cMan will never fly\u201d \u2014 has dissuaded policymakers from considering the long-term effects of decisions. New analytic methods, enabled by modern computers, transform our ability to reason about the future. The authors here demonstrate a quantitative approach to long-term policy analysis (LTPA). Robust methods enable decisionmakers to examine a vast range of futures and design adaptive strategies to be robust across them. Using sustainable development as an example, the authors discuss how these methods apply to LTPA and a wide range of decisionmaking under conditions of deep uncertainty.",
+      "cited_by_count": 1213,
+      "type": "book",
+      "source": {
+        "name": "RAND Corporation eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.rand.org/content/dam/rand/pubs/monograph_reports/2007/MR1626.pdf"
+      },
+      "topics": [
+        "Complex Systems and Decision Making",
+        "Climate Change Policy and Economics",
+        "Sustainable Development and Environmental Policy"
+      ],
+      "referenced_works_count": 129,
+      "url": "https://openalex.org/W607674676"
+    },
+    {
+      "openalex_id": "W1917136690",
+      "doi": "10.14506/ca30.3.03",
+      "title": "\u201cWhere there is fire, there is politics\u201d: Ungovernability and Material Life in Urban South Africa",
+      "authors": [
+        {
+          "name": "Kerry Ryan Chance",
+          "openalex_id": "A5044250644",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-10",
+      "abstract": "This article combines theories of liberal governance, material life, and popular politics to examine the unruly force of fire in state-citizen struggles. Tracking interactions between state agents and activist networks during South Africa\u2019s celebrated democratic transition, I analyze how the urban poor leverage the material properties of fire to secure techno-institutional claims to energy infrastructure, and more broadly to political inclusion and economic redistribution. I highlight how fire, as a social and historical as well as a chemical process, becomes a staging ground for the promise and endangerment of infrastructure. Approaching fire as intertwined with power, I argue, illuminates how those living on the margins of the city come to inhabit political roles that transform economic relationships in the context of liberalism.",
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Cultural Anthropology",
+        "type": "journal",
+        "issn": [
+          "0886-7356",
+          "1548-1360"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journal.culanth.org/index.php/ca/article/download/ca30.3.03/221"
+      },
+      "topics": [
+        "Water Governance and Infrastructure",
+        "South African History and Culture",
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W1917136690"
+    },
+    {
+      "openalex_id": "W4232401971",
+      "doi": "10.2307/3088311",
+      "title": "The Developmental Paradigm, Reading History Sideways, and Family Change",
+      "authors": [
+        {
+          "name": "Arland Thornton",
+          "openalex_id": "A5111771150",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-11-01",
+      "abstract": "The developmental paradigm, reading history sideways, and cross-cultural data have converged to exert a profound influence on social scientists and ordinary people. Through the use of these tools, social scientists of the 1700s and 1800s concluded that family patterns in northwest Europe had undergone many substantial changes before the early 1800s. These conclusions were accepted until the last several decades of the 1900s, when almost all were seriously challenged; many were declared to be myths. Further, the developmental paradigm, reading history sideways, and the conclusions of generations of social scientists created a package of ideas\u2014developmental idealism\u2014that subsequently became a powerful influence for family change in many parts of the world during the past two centuries. This developmental idealism has been a substantial force for changing living arrangements, marriage, divorce, gender relations, intergenerational relationships, and fertility.",
+      "cited_by_count": 57,
+      "type": "article",
+      "source": {
+        "name": "Demography",
+        "type": "journal",
+        "issn": [
+          "0070-3370",
+          "1533-7790"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/demography/article-pdf/38/4/449/884886/449thornton.pdf"
+      },
+      "topics": [
+        "Early Childhood Education and Development"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W4232401971"
+    },
+    {
+      "openalex_id": "W4414838724",
+      "doi": "10.1017/9781009587143",
+      "title": "Hegel and Colonialism",
+      "authors": [
+        {
+          "name": "Daniel James",
+          "openalex_id": "A5074249737",
+          "orcid": "https://orcid.org/0000-0002-4837-2466",
+          "institutions": [
+            "Technische Universit\u00e4t Dresden"
+          ]
+        },
+        {
+          "name": "Franz Knappik",
+          "openalex_id": "A5012279285",
+          "orcid": "https://orcid.org/0000-0001-9164-9232",
+          "institutions": [
+            "University of Bergen"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-10-06",
+      "abstract": "This Element offers the first comprehensive study of Hegel's views on European colonialism.In surprisingly detailed discussions scattered throughout much of his mature oeuvre, Hegel offers assessments that legitimise colonialism in the Americas, the enslavement of Africans, and British rule in India.The Element reconstructs these discussions as being held together by a systematic account of colonialism as racial domination, underpinned by central elements of his philosophy and situated within long-overlooked contexts, including Hegel's engagement with British abolitionism and Scottish four-stages theories of social development.Challenging prevailing approaches in scholarship, James and Knappik show that Hegel's accounts of issues like freedom, personhood, and the dialectic of lordship and bondage are deeply entangled with his disturbing views on colonialism, slavery, and race.Lastly, they address Hegel's ambivalent legacy, examining how British idealists and others adopted his pro-colonial ideas, while thinkers like C.L.R. James and Angela Davis transformed Hegel for anti-colonial purposes.",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/32A9CF7B07E54820F56081540662CFAE/9781009587181AR.pdf/hegel-and-colonialism.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "African cultural and philosophical studies"
+      ],
+      "referenced_works_count": 87,
+      "url": "https://openalex.org/W4414838724"
+    },
+    {
+      "openalex_id": "W3144086529",
+      "doi": "10.5871/jba/009s1.021",
+      "title": "Decolonising knowledge production on Africa: why it\ufffds still necessary and what can be done",
+      "authors": [
+        {
+          "name": "Gordon Crawford",
+          "openalex_id": "A5091231144",
+          "orcid": "https://orcid.org/0000-0002-5705-9893"
+        },
+        {
+          "name": "Zainab Ladan Mai-Bornu",
+          "openalex_id": "A5052603886",
+          "orcid": "https://orcid.org/0000-0003-1234-0638"
+        },
+        {
+          "name": "Karl Landstr\ufffdm",
+          "openalex_id": "A5110754922"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "Contemporary debates on decolonising knowledge production, inclusive of research on Africa, are crucial and challenge researchers to reflect on the legacies of colonial power relations that continue to permeate the production of knowledge about the continent, its peoples, and societies. Yet these are not new debates. Sixty years ago, Ghana\ufffds first president and pan-Africanist leader, Dr Kwame Nkrumah, highlighted the importance of Africa-centred knowledge. Similarly, in the 1980s, Claude Ake advocated for endogenous knowledge production on Africa. But progress has been slow at best, indicated by the enduring predominance of non-African writers on African issues within leading scholarly journals. Thus, we examine why decolonisation of knowledge production remains so necessary and what can be done within the context of scholarly research in the humanities and social sciences. These questions are addressed at two levels, one more practical and one more reflective . At both levels, issues of power inequalities and injustice are critical. At the practical level, the asymmetrical power relations between scholars in the Global North and South are highlighted. At a deeper level, the critiques of contemporary African authors are outlined, all contesting the ongoing coloniality and epistemic injustices that affect knowledge production on Africa, and calling for a more fundamental reorientation of ontological, epistemological, and methodological approaches in order to decolonise knowledge production.",
+      "cited_by_count": 60,
+      "type": "article",
+      "source": {
+        "name": "Journal of the British Academy",
+        "type": "journal",
+        "issn": [
+          "2052-7217"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.thebritishacademy.ac.uk/documents/3264/JBA-9s1-02-Crawford-MaiBornu-Landstrom.pdf"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "Educational Theory and Curriculum Studies",
+        "Global Educational Policies and Reforms"
+      ],
+      "referenced_works_count": 63,
+      "url": "https://openalex.org/W3144086529"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}
