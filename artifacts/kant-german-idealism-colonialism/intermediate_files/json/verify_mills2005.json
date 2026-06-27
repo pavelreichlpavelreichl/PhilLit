@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Kant's Untermenschen",
+    "author": "Mills",
+    "year": 2005
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (7.7) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

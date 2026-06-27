@@ -1,30 +1,26 @@
-[s2_search.py] Searching Semantic Scholar: 'Kleingeld Kant race colonialism' (year=2000-2025), limit=20
-[s2_search.py] Retrieved 20/20 papers...
-[s2_search.py] Cached results (cache key: s2_bed2da899e66829d)
 {
   "status": "success",
   "source": "semantic_scholar",
-  "query": "Kleingeld Kant race colonialism",
+  "query": "Kleingeld Kant race cosmopolitanism",
   "results": [
     {
-      "paperId": "2a865f55397f76ce2b9808da03cbc994814f7c50",
-      "title": "Kant's Second Thoughts on Colonialism",
+      "paperId": "0091e3dca0ef8ef6e225d625b2a6dba79a84aade",
+      "title": "Kant and Cosmopolitanism: Kant and Forster on race, culture, and cosmopolitanism",
       "authors": [
         {
           "name": "P. Kleingeld",
           "authorId": "35001952"
         }
       ],
-      "year": 2014,
+      "year": 2011,
       "abstract": null,
-      "citationCount": 41,
-      "doi": "10.1093/acprof:oso/9780199669622.003.0003",
+      "citationCount": 1,
+      "doi": "10.1017/CBO9781139015486.006",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/2a865f55397f76ce2b9808da03cbc994814f7c50",
+      "url": "https://www.semanticscholar.org/paper/0091e3dca0ef8ef6e225d625b2a6dba79a84aade",
       "venue": "",
       "journal": {
         "name": "",
-        "pages": "43-67",
         "volume": ""
       },
       "publicationTypes": null
@@ -55,196 +51,8 @@
       ]
     },
     {
-      "paperId": "2e029e95a710bdeb7f292200a973dcbd97825e03",
-      "title": "Kant and Slavery\u2014Or Why He Never Became a Racial Egalitarian",
-      "authors": [
-        {
-          "name": "Huaping Lu-Adler",
-          "authorId": "1432752790"
-        }
-      ],
-      "year": 2022,
-      "abstract": "Abstract:According to an oft-repeated narrative, while Kant maintained racist views through the 1780s, he changed his mind in the 1790s. Pauline Kleingeld introduced this narrative based on passages from Kant\u2019s Metaphysics of Morals (1797) and \u201cToward Perpetual Peace\u201d (1795). On her reading, Kant categorically condemned chattel slavery (and colonialism) in those texts, which meant that he became more racially egalitarian. But the passages involving slavery, once contextualized, either do not concern modern, race-based chattel slavery or at best suggest that Kant mentioned it as a cautionary tale for labor practices in Europe. Overall, Kant never explicitly considered chattel slavery as a moral problem to be addressed on its own. Rather, he treated it primarily in terms of its function in human history. If he ended up expressing some qualms about its practices, it was likely because they threatened to deepen intra-European conflicts and undermine the prospect of perpetual peace. The humanity of the enslaved \u201cNegroes\u201d was never part of the reasoning. This was not a casual oversight on Kant\u2019s part. It reflects the complexity of his philosophical system: everything he did or did not say about chattel slavery begins to make sense once we connect his philosophy of history and his depiction of \u201cNegroes\u201d as natural slaves.",
-      "citationCount": 28,
-      "doi": "10.5325/critphilrace.10.2.0263",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/2e029e95a710bdeb7f292200a973dcbd97825e03",
-      "venue": "Critical Philosophy of Race",
-      "journal": {
-        "name": "Critical Philosophy of Race",
-        "pages": "263 - 294",
-        "volume": "10"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "9938ca515901fe6b6f18db7d8550bd739aa54465",
-      "title": "Colonialism in Kant\u2019s Political Philosophy",
-      "authors": [
-        {
-          "name": "H. Williams",
-          "authorId": "143707216"
-        }
-      ],
-      "year": 2014,
-      "abstract": null,
-      "citationCount": 10,
-      "doi": "10.13153/DIAM.39.2014.570",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/9938ca515901fe6b6f18db7d8550bd739aa54465",
-      "venue": "",
-      "journal": {
-        "name": "Diametros",
-        "pages": "154-181",
-        "volume": ""
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "648c741d43de3b3c07526b6a674d100eed6410d9",
-      "title": "A Critical Assessment of Kleingeld - Bernasconi Debate On Kant's Racism",
-      "authors": [
-        {
-          "name": "Jelena Govedarica",
-          "authorId": "116791435"
-        },
-        {
-          "name": "Milica Smajevi\u0107 Rolji\u0107",
-          "authorId": "2332283418"
-        }
-      ],
-      "year": 2024,
-      "abstract": "This paper offers a critical evaluation of the arguments that Kleingeld and Bernasconi used to support their claims regarding the idea that Kant held racist beliefs. Firstly, we will criticize the views on which they agree, aiming to emphasize our understanding of Kant\u2019s thoughts on race. Secondly, we will assess the significance of Kant\u2019s draft for Towards Perpetual Peace when considering the debate over Kant\u2019s racism, and show that Bernasconi\u2019s interpretation according to which Kant presented racist views in the third Critique and in his writings on history is problematic. Although we will not systematically present our understanding of Kant\u2019s thoughts on race, our critique will reflect our basic views: Kant was not a racist, and he never advocated for slavery and colonization. Kleingeld is right to insist that we must interpret Kant\u2019s thoughts on race diachronically, as it is clear that his views evolved but did not radically change.",
-      "citationCount": 5,
-      "doi": "10.5209/kant.95619",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/648c741d43de3b3c07526b6a674d100eed6410d9",
-      "venue": "Con-textos Kantianos: International Journal of Philosophy",
-      "journal": {
-        "name": "Con-Textos Kantianos. International Journal of Philosophy"
-      },
-      "publicationTypes": [
-        "JournalArticle"
-      ]
-    },
-    {
-      "paperId": "3e00076796bf5da7620aeda85617f27828a09770",
-      "title": "Kant on Race and Barbarism: Towards a More Complex View on Racism and Anti-Colonialism in Kant",
-      "authors": [
-        {
-          "name": "Oliver Eberl",
-          "authorId": "2097889000"
-        }
-      ],
-      "year": 2019,
-      "abstract": "Abstract Whether Kant\u2019s late legal theory and his theory of race are contradictory in their account of colonialism has been a much-debated question that is also of highest importance for the evaluation of the Enlightenment\u2019s contribution to Europe\u2019s colonial expansion and the dispossession and enslavement of native and black peoples. This article discusses the problem by introducing the discourse on barbarism. This neglected discourse is the original and traditional European colonial vocabulary and served the justification of colonialism from ancient Greece throughout the Renaissance to the eighteenth century. Kant\u2019s explicit rejection of this discourse and its prejudices reveals his early critical stance toward colonial judgements of native peoples even before he developed his legal theory. This development of his critical position can be traced in his writings on race: although he makes racist statements in these texts, his theory of race is not meant to ground moral judgements on \u2018races\u2019 or a racial hierarchy but to defend the unity of mankind under the given empirical reality of colonial hierarchies.",
-      "citationCount": 8,
-      "doi": "10.1017/S1369415419000189",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/3e00076796bf5da7620aeda85617f27828a09770",
-      "venue": "Kantian Review",
-      "journal": {
-        "name": "Kantian Review",
-        "pages": "385 - 413",
-        "volume": "24"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "ce1f7cf1e1deb3c840682a88d6c86eec6f03949a",
-      "title": "It's Not about Race: Good Wars, Bad Wars, and the Origins of Kant's Anti-Colonialism",
-      "authors": [
-        {
-          "name": "In\u00e9s Valdez",
-          "authorId": "116944868"
-        }
-      ],
-      "year": 2017,
-      "abstract": null,
-      "citationCount": 22,
-      "doi": "10.1017/S0003055417000223",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/ce1f7cf1e1deb3c840682a88d6c86eec6f03949a",
-      "venue": "American Political Science Review",
-      "journal": {
-        "name": "American Political Science Review",
-        "pages": "819 - 834",
-        "volume": "111"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "2008b4ca8a97b3ee97e8d437298505ffaae508cc",
-      "title": "Kant on race and colonialism",
-      "authors": [
-        {
-          "name": "C. Corradetti",
-          "authorId": "75008916"
-        }
-      ],
-      "year": 2020,
-      "abstract": null,
-      "citationCount": 0,
-      "doi": "10.4324/9780429020087-7",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/2008b4ca8a97b3ee97e8d437298505ffaae508cc",
-      "venue": "",
-      "journal": {
-        "name": "",
-        "pages": "88-96",
-        "volume": ""
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "dab4c1712806f766a7eb4082ee40ea6c73793ff5",
-      "title": "White Progress: Kant, Race and Teleology",
-      "authors": [
-        {
-          "name": "I. Marwah",
-          "authorId": "117423801"
-        }
-      ],
-      "year": 2022,
-      "abstract": "Abstract This article examines how Kant\u2019s conceptualizations of natural history and teleological judgement shape his understanding of human difference and race. I argue that the teleological framework encasing Kant\u2019s racial theory implies constraints on the capacity of non-whites to make moral progress. While commentators tend to approach Kant\u2019s racial theory in relation to his political theory, his late-life cosmopolitanism, and his treatments (or non-treatments) of colonialism, empire and slavery, the problem I focus on here is that race is itself only intelligible in relation to a teleological natural history limiting certain races\u2019 capacities to engage in humanity\u2019s moral vocation.",
-      "citationCount": 12,
-      "doi": "10.1017/S1369415422000334",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/dab4c1712806f766a7eb4082ee40ea6c73793ff5",
-      "venue": "Kantian Review",
-      "journal": {
-        "name": "Kantian Review",
-        "pages": "615 - 634",
-        "volume": "27"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
-      "title": "KANT'S SECOND THOUGHTS ON RACE",
-      "authors": [
-        {
-          "name": "P. Kleingeld",
-          "authorId": "35001952"
-        }
-      ],
-      "year": 2007,
-      "abstract": null,
-      "citationCount": 208,
-      "doi": "10.1111/J.1467-9213.2007.498.X",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
-      "venue": "",
-      "journal": {
-        "name": "The Philosophical Quarterly",
-        "pages": "573-592",
-        "volume": "57"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "0091e3dca0ef8ef6e225d625b2a6dba79a84aade",
-      "title": "Kant and Cosmopolitanism: Kant and Forster on race, culture, and cosmopolitanism",
+      "paperId": "b02ededd8503c3e56be09a6ffca273a7966520d1",
+      "title": "Kant and Cosmopolitanism: The Philosophical Ideal of World Citizenship",
       "authors": [
         {
           "name": "P. Kleingeld",
@@ -253,10 +61,10 @@
       ],
       "year": 2011,
       "abstract": null,
-      "citationCount": 1,
-      "doi": "10.1017/CBO9781139015486.006",
+      "citationCount": 136,
+      "doi": "10.1017/cbo9781139015486",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/0091e3dca0ef8ef6e225d625b2a6dba79a84aade",
+      "url": "https://www.semanticscholar.org/paper/b02ededd8503c3e56be09a6ffca273a7966520d1",
       "venue": "",
       "journal": {
         "name": "",
@@ -288,120 +96,142 @@
       "publicationTypes": null
     },
     {
-      "paperId": "43976239057bc11ffa9bb2d58ce223788108f039",
-      "title": "Huaping Lu-Adler on Kant\u2019s Relation to Racism",
+      "paperId": "56a410d40d8e01235e79cb258826fc7ab86d1076",
+      "title": "Pauline Kleingeld: Kant and Cosmopolitanism: The Philosophical Ideal of World Citizenship",
       "authors": [
         {
-          "name": "Reza Mosayebi",
-          "authorId": "2346009447"
+          "name": "A. Taraborrelli",
+          "authorId": "2079602036"
         }
       ],
-      "year": 2025,
-      "abstract": "Abstract:One of the many virtues of Huaping Lu-Adler\u2019s Kant, Race, and Racism is its questioning of the very meaning of \u201cracism\u201d attributed to Kant. Yet more important is Lu-Adler\u2019s own attempt to go beyond the \u201cindividualistic\u201d approaches that focus on Kant\u2019s mind or heart behind his philosophical racism. By engaging with some current philosophical accounts of racism, Lu-Adler instead reconceptualizes Kant\u2019s relation, as philosopher-cum-educator, to racism. What matters first and foremost, according to Lu-Adler, is Kant\u2019s position in power relations, which had an impactful role in shaping modern racial ideology. I, however, argue that Lu-Adler thereby makes some unnecessary and undesirable sacrifices, which I discuss in three interconnected respects. First, I question Tommie Shelby\u2019s \u201cnon-moralistic\u201d analysis of racism, which Lu-Adler adopts. Second, I challenge Lu-Adler\u2019s denial of \u201chierarchism\u201d as an element of racism. Third, I object that Lu-Adler\u2019s novel approach of reading Kant by way of Sally Haslanger\u2019s critical revision of Shelby\u2019s \u201cideology\u201d account of racism is not pluralistic enough for antiracism. Overall, this article does not purport either to refute or to adhere to Lu-Adler\u2019s account simpliciter. Rather, it argues that her reconceptualization of Kant\u2019s racism is more fruitful if it is used complementarily to other approaches. I close the article by sketching how this might work: I consider an example of a pluralistic approach that combines Lu-Adler\u2019s \u201cideological formation\u201d approach and Pauline Kleingeld\u2019s \u201cindividualistic\u201d approach for a more consistently antiracist account of Kant\u2019s racism.",
+      "year": 2015,
+      "abstract": null,
       "citationCount": 0,
-      "doi": "10.5325/critphilrace.13.2.0253",
+      "doi": "10.1515/kant-2015-0060",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/43976239057bc11ffa9bb2d58ce223788108f039",
-      "venue": "Critical Philosophy of Race",
+      "url": "https://www.semanticscholar.org/paper/56a410d40d8e01235e79cb258826fc7ab86d1076",
+      "venue": "",
       "journal": {
-        "name": "Critical Philosophy of Race",
-        "pages": "253 - 283",
-        "volume": "13"
+        "name": "Kant-Studien",
+        "pages": "703 - 707",
+        "volume": "106"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "648c741d43de3b3c07526b6a674d100eed6410d9",
+      "title": "A Critical Assessment of Kleingeld - Bernasconi Debate On Kant's Racism",
+      "authors": [
+        {
+          "name": "Jelena Govedarica",
+          "authorId": "116791435"
+        },
+        {
+          "name": "Milica Smajevi\u0107 Rolji\u0107",
+          "authorId": "2332283418"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This paper offers a critical evaluation of the arguments that Kleingeld and Bernasconi used to support their claims regarding the idea that Kant held racist beliefs. Firstly, we will criticize the views on which they agree, aiming to emphasize our understanding of Kant\u2019s thoughts on race. Secondly, we will assess the significance of Kant\u2019s draft for Towards Perpetual Peace when considering the debate over Kant\u2019s racism, and show that Bernasconi\u2019s interpretation according to which Kant presented racist views in the third Critique and in his writings on history is problematic. Although we will not systematically present our understanding of Kant\u2019s thoughts on race, our critique will reflect our basic views: Kant was not a racist, and he never advocated for slavery and colonization. Kleingeld is right to insist that we must interpret Kant\u2019s thoughts on race diachronically, as it is clear that his views evolved but did not radically change.",
+      "citationCount": 5,
+      "doi": "10.5209/kant.95619",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/648c741d43de3b3c07526b6a674d100eed6410d9",
+      "venue": "Con-textos Kantianos: International Journal of Philosophy",
+      "journal": {
+        "name": "Con-Textos Kantianos. International Journal of Philosophy"
       },
       "publicationTypes": [
         "JournalArticle"
       ]
     },
     {
-      "paperId": "b02ededd8503c3e56be09a6ffca273a7966520d1",
-      "title": "Kant and Cosmopolitanism: The Philosophical Ideal of World Citizenship",
+      "paperId": "de76ea8ba95c56804808870eb1f0d793232cf756",
+      "title": "Book Review of Pauline Kleingeld, Kant and Cosmopolitanism. The Philosophical Ideal of World Citizenship. Cambridge University Press, 2012.",
       "authors": [
         {
-          "name": "P. Kleingeld",
-          "authorId": "35001952"
+          "name": "Alice Pinheiro Walla",
+          "authorId": "46755805"
         }
       ],
-      "year": 2011,
-      "abstract": null,
-      "citationCount": 136,
-      "doi": "10.1017/cbo9781139015486",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/b02ededd8503c3e56be09a6ffca273a7966520d1",
-      "venue": "",
-      "journal": {
-        "name": "",
-        "volume": ""
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "347fc4ba50c7ce09be877efedc451902f5476de6",
-      "title": "The canary who sings in a predictable monotone*: Kant and colonialism",
-      "authors": [
-        {
-          "name": "N. Dhawan",
-          "authorId": "46711558"
-        }
-      ],
-      "year": 2016,
+      "year": 2013,
       "abstract": null,
       "citationCount": 0,
-      "doi": "10.1080/13688790.2016.1262203",
+      "doi": "10.1111/1754-0208.12024/abstract",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/347fc4ba50c7ce09be877efedc451902f5476de6",
+      "url": "https://www.semanticscholar.org/paper/de76ea8ba95c56804808870eb1f0d793232cf756",
       "venue": "",
-      "journal": {
-        "name": "Postcolonial Studies",
-        "pages": "257 - 261",
-        "volume": "22"
-      },
-      "publicationTypes": null
-    },
-    {
-      "paperId": "6a50e2bfb8e5b21336f283d79854479c577259e8",
-      "title": "Review of Kant and Colonialism . by Katrin Flikschuh and Lea Ypi, 2014. New York: Oxford University Press. 256p. $74.00.",
-      "authors": [
-        {
-          "name": "Reidar Maliks",
-          "authorId": "117378082"
-        }
-      ],
-      "year": 2016,
-      "abstract": null,
-      "citationCount": 0,
-      "doi": "10.1017/S1537592716002152",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/6a50e2bfb8e5b21336f283d79854479c577259e8",
-      "venue": "Perspectives on Politics",
-      "journal": {
-        "name": "Perspectives on Politics",
-        "pages": "858 - 859",
-        "volume": "14"
-      },
+      "journal": null,
       "publicationTypes": [
         "Review"
       ]
     },
     {
-      "paperId": "e92edd49901df39b3ce2e6d15f5aec824d6366ce",
-      "title": "Black Animality from Kant to Fanon",
+      "paperId": "dab4c1712806f766a7eb4082ee40ea6c73793ff5",
+      "title": "White Progress: Kant, Race and Teleology",
       "authors": [
         {
-          "name": "D. Baumeister",
-          "authorId": "4706631"
+          "name": "I. Marwah",
+          "authorId": "117423801"
         }
       ],
-      "year": 2021,
-      "abstract": "Abstract:This essay examines the animalization of Black human beings in the texts of Immanuel Kant and Frantz Fanon. The two thinkers are positioned as key markers in a broader stream of modern theorizing surrounding race, colonialism, and the manifestation of human animality at different poles of the racial-colonial spectrum. Approaching them side by side generates insight that consideration of either in isolation would not allow: Kant\u2019s place in the history of racist and colonialist thought is further substantiated, while a new dimension of Fanon\u2019s still-unfolding contribution to the exposure and dismantling of this enterprise is revealed.",
-      "citationCount": 3,
-      "doi": "10.1353/lit.2021.0026",
+      "year": 2022,
+      "abstract": "Abstract This article examines how Kant\u2019s conceptualizations of natural history and teleological judgement shape his understanding of human difference and race. I argue that the teleological framework encasing Kant\u2019s racial theory implies constraints on the capacity of non-whites to make moral progress. While commentators tend to approach Kant\u2019s racial theory in relation to his political theory, his late-life cosmopolitanism, and his treatments (or non-treatments) of colonialism, empire and slavery, the problem I focus on here is that race is itself only intelligible in relation to a teleological natural history limiting certain races\u2019 capacities to engage in humanity\u2019s moral vocation.",
+      "citationCount": 12,
+      "doi": "10.1017/S1369415422000334",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/e92edd49901df39b3ce2e6d15f5aec824d6366ce",
-      "venue": "College Literature",
+      "url": "https://www.semanticscholar.org/paper/dab4c1712806f766a7eb4082ee40ea6c73793ff5",
+      "venue": "Kantian Review",
       "journal": {
-        "name": "College Literature",
-        "pages": "951 - 976",
-        "volume": "48"
+        "name": "Kantian Review",
+        "pages": "615 - 634",
+        "volume": "27"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "66695844e50c5c6e6f43e371ae2adabc3c7ce099",
+      "title": "Patriotism, Poverty, and Global Justice: A Kantian Engagement with Pauline Kleingeld's Kant and Cosmopolitanism",
+      "authors": [
+        {
+          "name": "Helga Varden",
+          "authorId": "71311517"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 9,
+      "doi": "10.1017/S1369415414000041",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/66695844e50c5c6e6f43e371ae2adabc3c7ce099",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "251 - 266",
+        "volume": "19"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "12b4210bdb5ddf9ea01a453bbc238671389309ec",
+      "title": "The Rights of States, the Rule of Law, and Coercion: Reflections on Pauline Kleingeld's Kant and Cosmopolitanism",
+      "authors": [
+        {
+          "name": "A. Bernstein",
+          "authorId": "115843579"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1017/S136941541400003X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/12b4210bdb5ddf9ea01a453bbc238671389309ec",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "233 - 249",
+        "volume": "19"
       },
       "publicationTypes": null
     },
@@ -431,54 +261,213 @@
       ]
     },
     {
-      "paperId": "71aa5791897d2502f53e271ab682a812c5107a51",
-      "title": "Black Animality from Kant to Fanon",
+      "paperId": "4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
+      "title": "KANT'S SECOND THOUGHTS ON RACE",
       "authors": [
         {
-          "name": "David Baumeister",
-          "authorId": "2358388855"
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
         }
       ],
-      "year": 2021,
-      "abstract": "Abstract:This essay examines the animalization of Black human beings in the texts of Immanuel Kant and Frantz Fanon. The two thinkers are positioned as key markers in a broader stream of modern theorizing surrounding race, colonialism, and the manifestation of human animality at different poles of the racial-colonial spectrum. Approaching them side by side generates insight that consideration of either in isolation would not allow: Kant's place in the history of racist and colonialist thought is further substantiated, while a new dimension of Fanon's still-unfolding contribution to the exposure and dismantling of this enterprise is revealed.",
-      "citationCount": 1,
-      "doi": "10.1353/tae.2021.0054",
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 208,
+      "doi": "10.1111/J.1467-9213.2007.498.X",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/71aa5791897d2502f53e271ab682a812c5107a51",
-      "venue": "Theory & Event",
+      "url": "https://www.semanticscholar.org/paper/4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
+      "venue": "",
       "journal": {
-        "name": "Theory & Event",
-        "pages": "951 - 976",
-        "volume": "24"
+        "name": "The Philosophical Quarterly",
+        "pages": "573-592",
+        "volume": "57"
       },
       "publicationTypes": null
     },
     {
-      "paperId": "edcf434a2a07b38cd92bf3a1fb596ce47a9ef8ac",
-      "title": "Razvoj Kantovih stavova o rasi",
+      "paperId": "ff333bba152905915643e8fad21582592025328d",
+      "title": "Toward a Narrow Cosmopolitanism: Kant\u2019s Anthropology, Racialized Character and the Construction of Europe",
       "authors": [
         {
-          "name": "Milica Smajevi\u0107 Rolji\u0107",
-          "authorId": "2332283418"
-        },
-        {
-          "name": "Jelena Govedarica",
-          "authorId": "2439744512"
+          "name": "In\u00e9s Valdez",
+          "authorId": "116944868"
         }
       ],
-      "year": 2025,
-      "abstract": "U jeku debate o razmjerima Kantova \u00bbrasizma\u00ab, Pauline Kleingeld objavila je vrlo utjecajan \u010dlanak \u00bbKant\u2019s Second Thoughts on Race\u00ab (2007). Njezina osnovna teza glasi da je Kant sve do sredine 1790-ih zastupao rasisti\u010dke stavove temeljene na rasnoj hijerarhiji, koje je potom napustio i zamijenio egalitaristi\u010dkim teorijama. S obzirom na zna\u010daj ovoga teksta za rasprave o Kantovoj teoriji rasa, u prvom dijelu rada izlo\u017eit \u0107emo tuma\u010denje koje zastupa Kleingeld. U drugom dijelu kritizirat \u0107emo njezinu teoriju tvrde\u0107i, prvo, da je karakterizacija Kantovih stavova kao rasisti\u010dkih neprimjerena jer rangiranje razli\u010ditih rasa valja shvatiti prije kao usporedbu empirijskih razlika uo\u010denih me\u0111u pripadnicima razli\u010ditih rasa u Kantovo doba, a ne kao \u00bbrasnu hijerarhiju\u00ab. Drugo, premda je to\u010dno da je Kant tijekom godina razvijao svoje politi\u010dke i pravne teorije, \u0161to je u njegovim spisima iz kasnijeg razdoblja dovelo do ubla\u017eavanja i postupnog nestanka komentara koji dana\u0161njim \u010ditateljima mogu zvu\u010dati izrazito rasisti\u010dki, on ih nije radikalno promijenio.",
-      "citationCount": 0,
-      "doi": "10.21464/mo.31.2.10",
+      "year": 2022,
+      "abstract": "Abstract This article explores the distinctions among European peoples\u2019 character established in Kant\u2019s anthropology and their connection with his politics. These aspects are neglected relative to the analysis of race between Europeans and non-Europeans, but Kant\u2019s anthropological works portray the people of Mediterranean Europe as not capable of civilization because of the dominance of passion in their faculty of desire, which he ties to \u2018Oriental\u2019 influences in blood or government. Kant then superimposes this racialized anthropology over the historical geopolitics of Europe, obscuring the indebtedness of Northern European trade dominance to Mediterranean historical tactics and financial wealth. By relegating the Mediterranean to the margins and dismissing contentious commercial exchange in the region as mere violence spearheaded by North African corsairs, Kant gives us an elitist cosmopolitanism unable to cope with hierarchy and inequality, diminishing its potential for egalitarian global projects today.",
+      "citationCount": 6,
+      "doi": "10.1017/S1369415422000358",
       "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/edcf434a2a07b38cd92bf3a1fb596ce47a9ef8ac",
-      "venue": "Metodi\u010dki ogledi",
+      "url": "https://www.semanticscholar.org/paper/ff333bba152905915643e8fad21582592025328d",
+      "venue": "Kantian Review",
       "journal": {
-        "name": "Metodi\u010dki ogledi"
+        "name": "Kantian Review",
+        "pages": "593 - 613",
+        "volume": "27"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d6b728e1c73e031f79a015ff69ba7b1ccc2fe671",
+      "title": "What Is an Anti-Racist Philosophy of Race and History? A New Look at Kant, Hegel, and Du Bois",
+      "authors": [
+        {
+          "name": "Elvira Basevich",
+          "authorId": "8055084"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Abstract:In this article, I defend the pragmatic relevance of race in history. Kant and Hegel's racist development thesis assumes that nonwhite, non-European racial groups are defective practical agents. In response, philosophers have opted to drop race from a theory of history and progress. They posit that denying its pragmatic relevance amounts to anti-racist egalitarianism. I dub this tactic \"colorblind cosmopolitanism\" and offer grounds for its rejection. Following Du Bois, I ascribe, instead, a pragmatic role to race in history. Namely, Du Bois argues that race is an \"instrument of progress\" that advances emancipatory struggle. He appeals to the writing of history\u2014or historiography\u2014to cultivate group consciousness of historical memory in order to (1) strengthen intragroup bonds among the racially oppressed, especially black Americans, and (2) create intergroup bonds that reconstruct the republic on the basis of universal ideals. I detail Du Bois's defense of the black struggle for freedom in the wake of the U.S. Civil War to provide a concrete illustration of \"spirit\" in American history.",
+      "citationCount": 6,
+      "doi": "10.5325/critphilrace.10.1.0071",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d6b728e1c73e031f79a015ff69ba7b1ccc2fe671",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race",
+        "pages": "71 - 89",
+        "volume": "10"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b58cb4c75c815cce9ca57ccbea02e335ffd491b4",
+      "title": "The Development of Kant\u2019s Cosmopolitanism",
+      "authors": [
+        {
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 4,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b58cb4c75c815cce9ca57ccbea02e335ffd491b4",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "59-75",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "63529f55c4a8cccc2f2112d72d4755c850cf7907",
+      "title": "Kant and Cosmopolitanism: The Philosophical Ideal of World Citizenship by Pauline Kleingeld (review)",
+      "authors": [
+        {
+          "name": "Sarah Holtman",
+          "authorId": "87692431"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1353/HPH.2014.0068",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/63529f55c4a8cccc2f2112d72d4755c850cf7907",
+      "venue": "",
+      "journal": {
+        "name": "Journal of the History of Philosophy",
+        "pages": "616 - 617",
+        "volume": "52"
       },
       "publicationTypes": [
-        "JournalArticle"
+        "Review"
       ]
+    },
+    {
+      "paperId": "e13a96c3e5cb0f4492fb0b135b0c13b385edcd8a",
+      "title": "Kant and Cosmopolitanism: Kant\u2019s cosmopolitanism and current philosophical debates",
+      "authors": [
+        {
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/CBO9781139015486.009",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e13a96c3e5cb0f4492fb0b135b0c13b385edcd8a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "177-200",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "85d1faa8d71ecbf1ff2c25af48f596cb6b3505c0",
+      "title": "Kant and Cosmopolitanism: Kant and Cloots on global peace",
+      "authors": [
+        {
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/CBO9781139015486.004",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/85d1faa8d71ecbf1ff2c25af48f596cb6b3505c0",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "40-71",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f7cb78fee8470c9b7c103fbad6beb5b8765e97da",
+      "title": "Kant and Cosmopolitanism: Kant\u2019s concept of cosmopolitan right",
+      "authors": [
+        {
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1017/CBO9781139015486.005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f7cb78fee8470c9b7c103fbad6beb5b8765e97da",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "72-91",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c1dcd5e1e64d0a421dedf58c5b8d6e5fe7850d76",
+      "title": "Pauline Kleingeld, \"Kant and Cosmopolitanism: The Philosophical Ideal of World Citizenship\"",
+      "authors": [
+        {
+          "name": "A. Stilz",
+          "authorId": "115714827"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.5840/SOCTHEORPRACT201339331",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c1dcd5e1e64d0a421dedf58c5b8d6e5fe7850d76",
+      "venue": "",
+      "journal": {
+        "name": "Social Theory and Practice",
+        "pages": "548-554",
+        "volume": "39"
+      },
+      "publicationTypes": null
     }
   ],
   "count": 20,

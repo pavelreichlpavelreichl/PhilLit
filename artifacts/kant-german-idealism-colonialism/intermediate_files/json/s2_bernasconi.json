@@ -1,6 +1,3 @@
-[s2_search.py] Searching Semantic Scholar: 'Bernasconi Kant race' (year=1990-2025), limit=20
-[s2_search.py] Retrieved 20/20 papers...
-[s2_search.py] Cached results (cache key: s2_2c1e199e88e907c5)
 {
   "status": "success",
   "source": "semantic_scholar",
@@ -255,28 +252,6 @@
       ]
     },
     {
-      "paperId": "b8c981d54629e5c9acbb7295035172cbe9d72f68",
-      "title": "Postcolonial African Philosophy: A Critical Reader",
-      "authors": [
-        {
-          "name": "E. Eze",
-          "authorId": "144921121"
-        }
-      ],
-      "year": 1997,
-      "abstract": null,
-      "citationCount": 197,
-      "doi": null,
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/b8c981d54629e5c9acbb7295035172cbe9d72f68",
-      "venue": "",
-      "journal": {
-        "name": "",
-        "volume": ""
-      },
-      "publicationTypes": null
-    },
-    {
       "paperId": "2765adf31e529e222c850d087a193aaec65764f8",
       "title": "Modeling Prejudice Reduction: Spatialized Game Theory and the Contact Hypothesis",
       "authors": [
@@ -389,6 +364,29 @@
       ]
     },
     {
+      "paperId": "20029d3f960319c4c1270c98afd59a816929112d",
+      "title": "Kant\u2019s Views on Race as \u201cPure\u201d Philosophy?: Discussing Huaping Lu-Adler\u2019s \u201cKant, Race, and Racism\u201d (chapters 3 and 4)",
+      "authors": [
+        {
+          "name": "Marina Martinez Mateo",
+          "authorId": "2403696319"
+        }
+      ],
+      "year": 2025,
+      "abstract": "\n This article discusses Huaping Lu-Adler\u2019s book Kant, Race, and Racism, in particular the third and fourth chapters. These chapters undertake a double contextualization of Kant\u2019s writings on race: first, within Kant\u2019s work and, second, within the naturalists\u2019 discussions of his time. The engagement with these chapters focuses on the relationship between philosophy and its \u201coutside.\u201d This relationship is discussed in three dimensions: first, in the relationship between philosophy and natural science (Naturforschung); second, in the relationship between philosophy and prejudice; and third, in the relationship between philosophy and practice. All of these dimensions revolve around the problem of how to grasp the specific meaning and role of philosophy in its historical social context\u2014a systematic question that can be derived from Lu-Adler\u2019s analysis, even if it is not explicitly central to her work. The main conclusion is that the problem expressed in Kant\u2019s views on race is not so much that he succumbs to the particular, limiting, and prejudiced ways of thinking of his time but rather that, in doing so, he also relies on an understanding of philosophy that cannot conceive of its own situatedness; a philosophy that sees itself as detached from the world and cannot grasp its own practical implications.",
+      "citationCount": 0,
+      "doi": "10.5325/critphilrace.13.2.0284",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20029d3f960319c4c1270c98afd59a816929112d",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
       "paperId": "3058f6d7d4e18f973540f7bfa91d468f47f58ac4",
       "title": "Observations on Kant, Race, and Racism",
       "authors": [
@@ -408,29 +406,6 @@
         "name": "Critical Philosophy of Race",
         "pages": "242 - 252",
         "volume": "13"
-      },
-      "publicationTypes": [
-        "JournalArticle"
-      ]
-    },
-    {
-      "paperId": "20029d3f960319c4c1270c98afd59a816929112d",
-      "title": "Kant\u2019s Views on Race as \u201cPure\u201d Philosophy?: Discussing Huaping Lu-Adler\u2019s \u201cKant, Race, and Racism\u201d (chapters 3 and 4)",
-      "authors": [
-        {
-          "name": "Marina Martinez Mateo",
-          "authorId": "2403696319"
-        }
-      ],
-      "year": 2025,
-      "abstract": "\n This article discusses Huaping Lu-Adler\u2019s book Kant, Race, and Racism, in particular the third and fourth chapters. These chapters undertake a double contextualization of Kant\u2019s writings on race: first, within Kant\u2019s work and, second, within the naturalists\u2019 discussions of his time. The engagement with these chapters focuses on the relationship between philosophy and its \u201coutside.\u201d This relationship is discussed in three dimensions: first, in the relationship between philosophy and natural science (Naturforschung); second, in the relationship between philosophy and prejudice; and third, in the relationship between philosophy and practice. All of these dimensions revolve around the problem of how to grasp the specific meaning and role of philosophy in its historical social context\u2014a systematic question that can be derived from Lu-Adler\u2019s analysis, even if it is not explicitly central to her work. The main conclusion is that the problem expressed in Kant\u2019s views on race is not so much that he succumbs to the particular, limiting, and prejudiced ways of thinking of his time but rather that, in doing so, he also relies on an understanding of philosophy that cannot conceive of its own situatedness; a philosophy that sees itself as detached from the world and cannot grasp its own practical implications.",
-      "citationCount": 0,
-      "doi": "10.5325/critphilrace.13.2.0284",
-      "arxivId": null,
-      "url": "https://www.semanticscholar.org/paper/20029d3f960319c4c1270c98afd59a816929112d",
-      "venue": "Critical Philosophy of Race",
-      "journal": {
-        "name": "Critical Philosophy of Race"
       },
       "publicationTypes": [
         "JournalArticle"
@@ -505,6 +480,29 @@
       "venue": "European Journal of Philosophy",
       "journal": {
         "name": "European Journal of Philosophy"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "9a49a4a2c57ec30dbaaf40d93c534ab1d377210d",
+      "title": "Kant, Race, and Racism: Views from Somewhere, by Huaping Lu-Adler",
+      "authors": [
+        {
+          "name": "Alexander Schwitteck",
+          "authorId": "2315851006"
+        }
+      ],
+      "year": 2024,
+      "abstract": "<jats:p/>",
+      "citationCount": 3,
+      "doi": "10.5840/teachphil2024473222",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9a49a4a2c57ec30dbaaf40d93c534ab1d377210d",
+      "venue": "Teaching Philosophy",
+      "journal": {
+        "name": "Teaching Philosophy"
       },
       "publicationTypes": [
         "JournalArticle"
