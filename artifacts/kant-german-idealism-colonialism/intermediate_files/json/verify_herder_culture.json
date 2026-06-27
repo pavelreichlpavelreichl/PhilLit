@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3368/m.117.1.88"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3368/m.117.1.88",
+      "title": "Herder\u2019s Concept of Culture",
+      "authors": [
+        {
+          "family": "Niekerk",
+          "given": "Carl"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Monatshefte",
+      "volume": "117",
+      "issue": "1",
+      "page": "88-108",
+      "publisher": "University of Wisconsin Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3368/m.117.1.88"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

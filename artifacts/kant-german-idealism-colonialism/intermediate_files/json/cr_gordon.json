@@ -1,0 +1,31 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5860/choice.33-6225
+[verify_paper.py] DOI verified: Fanon and the crisis of European man: an essay on ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5860/choice.33-6225"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5860/choice.33-6225",
+      "title": "Fanon and the crisis of European man: an essay on philosophy and the human sciences",
+      "authors": [],
+      "editors": [],
+      "year": 1996,
+      "container_title": "Choice Reviews Online",
+      "volume": "33",
+      "issue": "11",
+      "page": "33-6225-33-6225",
+      "publisher": "American Library Association",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5860/choice.33-6225"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

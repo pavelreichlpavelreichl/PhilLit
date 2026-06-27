@@ -1,0 +1,955 @@
+[search_openalex.py] Searching OpenAlex: 'race Enlightenment modernity coloniality' (year=1990-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_5a419adc7169abce)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "race Enlightenment modernity coloniality",
+  "results": [
+    {
+      "openalex_id": "W1488973119",
+      "doi": "10.5070/t411000004",
+      "title": "Decolonizing Post-Colonial Studies and Paradigms of Political-Economy: Transmodernity, Decolonial Thinking, and Global Coloniality",
+      "authors": [
+        {
+          "name": "Ram\u00f3n Grosfoguel",
+          "openalex_id": "A5024208517",
+          "orcid": "https://orcid.org/0000-0001-9051-1573",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-05-13",
+      "abstract": "Can we produce a radical anti-systemic politics beyond identity politics? 1 Is it possible to articulate a critical cosmopolitanism beyond nationalism and colonialism?",
+      "cited_by_count": 1084,
+      "type": "article",
+      "source": {
+        "name": "TRANSMODERNITY Journal of Peripheral Cultural Production of the Luso-Hispanic World",
+        "type": "journal",
+        "issn": [
+          "2154-1353",
+          "2154-1361"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://escholarship.org/content/qt21k6t3fq/qt21k6t3fq.pdf?t=ll4zsw"
+      },
+      "topics": [
+        "Latin American and Latino Studies",
+        "Political Economy and Marxism",
+        "Cuban History and Society"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W1488973119"
+    },
+    {
+      "openalex_id": "W4253538486",
+      "doi": "10.1007/978-1-349-09885-9",
+      "title": "The Enlightenment",
+      "authors": [
+        {
+          "name": "Roy Porter",
+          "openalex_id": "A5103360452",
+          "institutions": [
+            "Wellcome Trust Centre for the History of Medicine",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-01-01",
+      "abstract": "After having long been dismissed as a shallow irrelevance, the Enlightenment has now been rehabilitated as a major European movement in ideas and culture. Recent historical writing has shown how it wa",
+      "cited_by_count": 183,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/bfm%3A978-1-349-09885-9%2F1"
+      },
+      "topics": [
+        "European Political History Analysis",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W4253538486"
+    },
+    {
+      "openalex_id": "W2086884770",
+      "doi": "10.2307/j.ctt183p73f",
+      "title": "Race and Ethnicity in Latin America",
+      "authors": [
+        {
+          "name": "Peter Wade",
+          "openalex_id": "A5048347149",
+          "orcid": "https://orcid.org/0000-0003-4070-4187",
+          "institutions": [
+            "Institute for Social Anthropology"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-12",
+      "abstract": "For over ten years, Race and Ethnicity in Latin America has been an essential text for students studying the region. This second edition adds new material and brings the analysis up to date.\\n\\nRace and ethnic identities are increasingly salient in Latin America. Peter Wade examines changing perspectives on Black and Indian populations in the region, tracing similarities and differences in the way these peoples have been seen by academics and national elites. Race and ethnicity as analytical concepts are re-examined in order to assess their usefulness.\\n\\nThis book should be the first port of call for anthropologists and sociologists studying identity in Latin America.",
+      "cited_by_count": 488,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/45656/1/625258.pdf"
+      },
+      "topics": [
+        "Latin American rural development",
+        "Latin American Cultural Politics",
+        "Political and Social Dynamics in Chile and Latin America"
+      ],
+      "referenced_works_count": 336,
+      "url": "https://openalex.org/W2086884770"
+    },
+    {
+      "openalex_id": "W2226687996",
+      "doi": "10.1017/cbo9780511621826.002",
+      "title": "Introduction Colonial and postcolonial plots in histories of maternities and modernities",
+      "authors": [
+        {
+          "name": "Margaret Jolly",
+          "openalex_id": "A5037198097",
+          "orcid": "https://orcid.org/0000-0003-3454-3436",
+          "institutions": [
+            "Australian National University"
+          ]
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-02-26",
+      "abstract": "The link between maternities and modernities is more than an alliterative conjunction. These essays attest to how projects of modernity have also entailed remoulding maternity. But, whereas some recent studies have seen this relationship as singular and have typically privileged Euro- American experiences, we pluralize understandings both of maternity and of modernity and problematize the way we plot their relation. Moreover, the focus on Asia and the Pacific not only provides a different site for experiences of, and discourses about, maternity but suggests how these sites were and are connected in the processes of colonialism and postcolonial development. We highlight how class-based interventions in mothering in many countries of Europe and North America were paralleled by projects in European colonies where race, ethnicity and class compounded pre-existing local differences between women. In many Asian and Pacific countries indigenous patterns of mothering have been challenged and to some degree transformed, first in the colonial period and second in the postcolonial epoch, in the name of civilization, modernity and scientific medicine. But women in these places have not simply succumbed to the message of 'enlightenment' through maternal improvement, but have variously rejected or embraced such advice or accommodated it selectively. Such exercise of agency should not be construed as a matter of voluntaristic choices however, as if choosing between modes of mothering is akin to wheeling a supermarket trolley (Ram 1994:20). Indeed, this volume shows that such choices are saturated not just by the power of gender difference, but class and ethnicity. The embodied maternal subject is pervaded by a profound tension, perhaps even a split, as the mother is sundered in contests between 'tradition' and 'modernity'.",
+      "cited_by_count": 55,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical Gender and Feminism Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2226687996"
+    },
+    {
+      "openalex_id": "W1992318433",
+      "doi": "10.1086/ahr.111.3.692",
+      "title": "Modernity and Enchantment: A Historiographic Review",
+      "authors": [
+        {
+          "name": "Michael Saler",
+          "openalex_id": "A5059497611"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-06-01",
+      "abstract": "SPECTERS ARE ONCE AGAIN HAUNTING EUROPE AND AMERICA\u2014as are magicians, mermaids, mesmerists, and a melange of marvels once thought to have been exorcised by the rational and secular processes of modernity. In recent years, historians from disparate fields have independently challenged the long-standing sociological view that modernity is characterized by \u201cdisenchantment.\u201d This view, in its broadest terms, maintains that wonders and marvels have been demystified by science, spirituality has been supplanted by secularism, spontaneity has been replaced by bureaucratization, and the imagination has been subordinated to instrumental reason. In the past decade, however, a new historiographic position, if not consensus, has emerged that presents Western modernity as \u201cenchanted.\u201d The ongoing redefinition of such an established view is of consequence for a variety of reasons, not the least of which has to do with the master narratives underlying the stories that historians choose to tell. As Dipesh Chakrabarty usefully reminds us, \u201cThe moment we think of the world as disenchanted . . . we set limits to the ways the past can be narrated.\u201d1 The emergent view that modernity is as enchanted as it is disenchanted may conjure alternative vistas to the historical imagination, and at the very least offers the possibility of pulling new rabbits out of old hats. Narrating a historiography of \u201cmodernity and enchantment\u201d has limitations of its own, however. Those historians who challenge the equation of modernity with disenchantment often present their views within the context of topical debates in their respective fields. It will therefore be useful to tease out some of the common concerns and findings that have appeared in otherwise distinct areas of study, such as the histories of science, religion, and mass culture. The works examined here are necessarily eclectic, drawn primarily from European and American histories of these subfields, but they are nevertheless representative of how the topic is currently being handled across historical specialties. A second challenge has to do with defining such inherently vague and complex terms as \u201cmodernity\u201d and \u201cenchantment.\u201d Taken separately, each term has manifold meanings. When the two terms are paired under a particular interpretation of the relationship between \u201cmodernity and enchantment,\u201d however, each assumes greater",
+      "cited_by_count": 225,
+      "type": "review",
+      "source": {
+        "name": "The American Historical Review",
+        "type": "journal",
+        "issn": [
+          "0002-8762",
+          "1937-5239"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ahr/article-pdf/111/3/692/35623/111-3-692.pdf"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Weber, Simmel, Sociological Theory",
+        "Religion and Society Interactions"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W1992318433"
+    },
+    {
+      "openalex_id": "W2042559889",
+      "doi": "10.1215/02705346-2008-013",
+      "title": "Introduction: Race and/as Technology; or, How to Do Things to Race",
+      "authors": [
+        {
+          "name": "Wendy Hui Kyong Chun",
+          "openalex_id": "A5087258215",
+          "orcid": "https://orcid.org/0000-0002-7155-919X"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "This special issue poses the questions: to what degree are race and technology intertwined?Can race be considered a technology or a form of media -that is, not only a mechanism, but also a practical or industrial art?Could race be not simply an object of representation and portrayal, of knowledge or truth, but also a technique that one uses, even as one is used by it -a carefully crafted, historically inflected system of tools, mediation, or enframing that builds history and identity?\"Race and/as technology\" is a strange, and hopefully estranging, formulation, but its peculiarity does not stem from its conjoining of race and technology.There already exists an important body of scholarship that simply addresses race and technology in science and technology, media and visual culture, and African American and ethnic studies, ranging, just to give some examples, from analyses documenting the resurgence of race as a valid scientific category to those tracing the historically intersecting truth claims of phrenology and photography, from investigations uncovering the",
+      "cited_by_count": 316,
+      "type": "article",
+      "source": {
+        "name": "Camera Obscura Feminism Culture and Media Studies",
+        "type": "journal",
+        "issn": [
+          "0270-5346",
+          "1529-1510"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/camera-obscura/article-pdf/24/1 (70)/7/401027/CO70_02_Chun.pdf"
+      },
+      "topics": [
+        "Music History and Culture"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2042559889"
+    },
+    {
+      "openalex_id": "W121235043",
+      "doi": "10.1515/9781400822096-002",
+      "title": "Race, Culture, Identity: Misunderstood Connections",
+      "authors": [
+        {
+          "name": "Kwame Anthony Appiah",
+          "openalex_id": "A5056598062",
+          "institutions": [
+            "University of California, San Diego",
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-12-31",
+      "abstract": "The Tanner Lectures are a collection of educational and scientific discussions relating to human values. Conducted by leaders in their fields.",
+      "cited_by_count": 432,
+      "type": "book-chapter",
+      "source": {
+        "name": "Princeton University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/APPRCI.pdf"
+      },
+      "topics": [
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W121235043"
+    },
+    {
+      "openalex_id": "W2165110853",
+      "doi": "10.1086/ahr.115.5.1364",
+      "title": "Making Men: Enlightenment Ideas of Racial Engineering",
+      "authors": [
+        {
+          "name": "William Max Nelson",
+          "openalex_id": "A5052069790",
+          "institutions": [
+            "Trinity College",
+            "The University of Texas at Austin"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-12-01",
+      "abstract": "A MINOR NOBLEMAN FROM ALSACE, traveling in French colonial Saint-Domingue (present-day Haiti) on the eve of the French and Haitian revolutions, expressed surprise that \"it has not already occurred to some ingenious speculator to monopolize . . . the fabrication of all mulattoes.\" 1 Perhaps no one had embarked upon this endeavor, the Baron de Wimpffen speculated, for fear that the metropolitan government would \"take advantage of this bright idea to incorporate even the manufacture of the human race into its exclusive privilege.\" 2 While Wimpffen was clearly satirizing the Exclusif-the much-hated metropolitan monopoly on the trade and manufacture of natural resources and goods from the colonies-his comments reveal something that is not widely recognized about the eighteenth century: there was an understanding that the \"fabrication\" or \"manufacture\" of human beings was possible, and even desirable to some. 3 Wimpffen's words are jarring, not only because they raise the possibility that human beings could be manufactured, but also because they do so in an offhand manner, presenting it as a whimsical observation or a delicate joke rather than as a ghastly vision of control and production in which human beings are merely another raw material to be transformed. The topic of sexual relations between people of African and European descent was not an uncommon one in eighteenth-century writing about Saint-Domingue, where it was generally agreed that such unions were more prevalent than in other French colonies; Wimpffen's comments, however, pointed beyond the usual tropes invoked against the social and",
+      "cited_by_count": 134,
+      "type": "article",
+      "source": {
+        "name": "The American Historical Review",
+        "type": "journal",
+        "issn": [
+          "0002-8762",
+          "1937-5239"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ahr/article-pdf/115/5/1364/25735335/115-5-1364.pdf"
+      },
+      "topics": [
+        "Race, Genetics, and Society",
+        "Colonialism, slavery, and trade",
+        "Medical History and Research"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2165110853"
+    },
+    {
+      "openalex_id": "W4394624215",
+      "doi": "10.1093/isq/sqae038",
+      "title": "Positionality Statements as a Function of Coloniality: Interrogating Reflexive Methodologies",
+      "authors": [
+        {
+          "name": "Jasmine K. Gani",
+          "openalex_id": "A5032532300",
+          "orcid": "https://orcid.org/0000-0002-8218-1807",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Rabea M. Khan",
+          "openalex_id": "A5030440023",
+          "orcid": "https://orcid.org/0000-0002-0709-6493",
+          "institutions": [
+            "Liverpool John Moores University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-14",
+      "abstract": "Abstracts Declaration of positionality and the confession of privilege as a way of revealing unequal power dynamics in knowledge production has become an increasingly encouraged reflexive practice in international relations and other disciplines. However, we interrogate the potentially negative implications of this methodology, occurring through a reification of material, assumed, and imagined hierarchies between people, which then is advertised and (re)produced by its utterance. We further query the modernist origins of reflexive methodology, which has inspired the practice of declaring positionality, and argue that its underpinning coloniality has bearings for its use today. We then explore how this coloniality manifests: Thus, first, we consider the extent to which publicly acknowledging privilege paradoxically acts as a means of centering whiteness through the narcissistic gaze and an assertion of legitimacy. Second, we argue positionality statements offer a redemption of guilt for the hegemonic researcher. And lastly, rather than ameliorating unequal power dynamics in the production of knowledge, we contend positionality statements may constitute hidden power moves in which one is able to signal and reinstate one\u2019s authority vis-\u00e0-vis people, but especially women, of color. We end with a call for a reparative scholarship that acknowledges these limitations in positionality statements.",
+      "cited_by_count": 267,
+      "type": "article",
+      "source": {
+        "name": "International Studies Quarterly",
+        "type": "journal",
+        "issn": [
+          "0020-8833",
+          "1468-2478"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/isq/article-pdf/68/2/sqae038/57187997/sqae038.pdf"
+      },
+      "topics": [
+        "Qualitative Research Methods and Ethics",
+        "Social Science and Policy Research",
+        "Migration, Refugees, and Integration"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4394624215"
+    },
+    {
+      "openalex_id": "W140191388",
+      "doi": "10.5860/choice.40-1083",
+      "title": "Hindu nationalism: origins, ideologies and modern myths",
+      "authors": [],
+      "publication_year": 2002,
+      "publication_date": "2002-10-01",
+      "abstract": "The rise of authoritarian Hindu mass movements and political formations in India since the early 1980s raises fundamental questions about the resurgence of chauvinistic ethnic, religious and nationalist movements in the late modern period. This book examines the history and ideologies of Hindu nationalism and Hindutva from the end of the last century to the present, and critically evaluates the social and political philosophies and writings of its main thinkers. Hindu nationalism is based on the claim that it is an indigenous product of the primordial and authentic ethnic and religious traditions of India. The book argues instead that these claims are based on relatively recent ideas, frequently related to western influences during the colonial period. These influences include eighteenth and nineteenth century European Romantic and Enlightenment rationalist ideas preoccupied with archaic primordialism, evolution, organicism, vitalism and race. As well as considering the ideological impact of National Socialism and Fascism on Hindu nationalism in the 1930s, the book also looks at how Aryanism continues to be promoted in unexpected forms in contemporary India. Using a wide range of historical and contemporary sources, the author considers the consequences of Hindu nationalist resurgence in the light of contemporary debates about minorities, secular citizenship, ethics and modernity.",
+      "cited_by_count": 176,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Indian History and Philosophy",
+        "South Asian Studies and Conflicts",
+        "South Asian Studies and Diaspora"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W140191388"
+    },
+    {
+      "openalex_id": "W2045452212",
+      "doi": "10.1353/eal.0.0090",
+      "title": "Globalization and the Gods, or the Political Theology of \"Race\"",
+      "authors": [
+        {
+          "name": "Jared Hickman",
+          "openalex_id": "A5109345350"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "Globalization and the Gods, or the Political Theology of \"Race\" Jared Hickman (bio) Modernity is getting modernized. In order to explain the world in the early twenty-first century\u2014a transnational world from which religion shows no signs of disappearing\u2014recent scholarship increasingly considers modernity in terms of a long history of globalization whose relativizing effects cannot be equated with \"disenchantment.\"1 In this framework, the colonial Americas\u2014as the bridge between Atlantic and Pacific worlds\u2014rather than Enlightenment Europe immediately take modernity's center stage insofar as globalization, by definition, became possible only with the European \"discovery\" of the Americas and the momentous transformations this enabled.2 Eurocentrism takes an unprecedented hit when we trace modernity to an incipient globalization that necessarily coincides with intercultural encounter in the Americas and beyond rather than to an Enlightenment that proceeds from intracultural European self-reflection. \"The history of modernity\" becomes genuinely \"global and conjunctural . . . not a history in which Europe alone first produces and then exports modernity to the world at large\" for either consumption or critique, as one scholar puts it (Subrahmanyam 28). This most recent globalist reformulation of modernity, it must be noted, outstrips\u2014quite self-consciously\u2014what is for many still the reigning retheorization of modernity, Paul Gilroy's massively influential \"black Atlantic.\" Sibylle Fischer well articulates the common critique: insofar as Gilroy \"equat[es] modernity with the Eurocentric regime of racial subordination and colonial exploitation that became hegemonic in the course of the nineteenth century\" and then \"oppos[es] that modernity with a counterculture that grows out of suffering,\" he retains Europe, in some sense, as the \"original\" producer of modernity if not its exclusive site of production. Instead, Fischer argues, we should take \"heterogeneity\" as the \"congenital condition of modernity, and . . . the alleged purity of European modernity [as] an a posteriori theorization [End Page 145] or perhaps even part of a strategy that aims to establish European primacy\" (Fischer 37, 22). Modernity, in other words, was produced by the global cultural encounters that began most conspicuously in 1492 out of the dialogue\u2014albeit often unequal (more on this later)\u2014between Europeans and non-Europeans. When globality is asserted as the defining condition of modernity, any representation of modernity as a primarily European phenomenon is exposed as both tendentiously ideological and methodologically untenable.3 For our immediate purposes, the most salutary consequence of this globalization of modernity is that it can help us think our way out of the \"secularization\" narrative implicit in Eurocentric accounts of modernity. \"Secularization,\" whether figured as the European Enlightenment's sloughing off of \"superstition\" or European Christianity's condensation into the ethical principles that give substance to the term civilization, is a self-serving Eurocentric fantasy rather than a universal teleology, many scholars now acknowledge (Casanova 11\u201339; cf. Berger, Desecularization of the World).4 Not only does secularization as conventionally posited misrepresent what has happened to \"religion\" over the course of global modernity, it minimizes religion itself as a meaningful category of analysis, treating it in weak Marxian fashion as mere ideological smokescreen.5 In sum, the secularization myth often implies that (European) modernity describes\u2014or prescribes\u2014a state of having seen through or gotten over religion qua religion, which can marginalize non-European perspectives often marked de facto as \"religious\" (more on this later) and mask the religious imperatives underlying European reason. By contrast, the premise of Stephan Palmi\u00e9's Atlanticist-cum-globalist6 description of modernity is that ever since \"the global historical storm conjured up in the Antilles in the sixteenth century, . . . the meanings associated with the terms Western modernity and Afro-[American] tradition\"\u2014ideologically constructed in Eurocentric discourse as the opposite poles of progressive reason and primitive religion\u2014equally belong to the same modern world that \"continues to envelop us all\" (Palmi\u00e9 15, 10). In the context of a radically coeval global modernity, African \"fetishism\" and European philosophy are not only literally happening at the same time, they are oriented toward related existential and epistemological difficulties raised in the course of global interaction. Despite their different idioms, they are equally modern responses to modern problems. Both are world-making exercises in the face [End Page 146] of...",
+      "cited_by_count": 43,
+      "type": "article",
+      "source": {
+        "name": "Early American literature",
+        "type": "journal",
+        "issn": [
+          "0012-8163",
+          "1534-147X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Religion and Society Interactions",
+        "Postcolonial and Cultural Literary Studies",
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 109,
+      "url": "https://openalex.org/W2045452212"
+    },
+    {
+      "openalex_id": "W2729228422",
+      "doi": "10.1177/0305829817714064",
+      "title": "The Erasure of Race: Cosmopolitanism and the Illusion of Kantian Hospitality",
+      "authors": [
+        {
+          "name": "Jasmine K. Gani",
+          "openalex_id": "A5032532300",
+          "orcid": "https://orcid.org/0000-0002-8218-1807",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-01",
+      "abstract": "This article explores three key arguments: Firstly, it seeks to demonstrate the contradictions and limits within Kantian hospitality, and its links to colonialism and practices of racialisation. The acclaimed universalism of Kant\u2019s law of hospitality forecloses a discussion of its dualism, and erases the historical, racist context in which it was conceived. The prioritization of concept over conception allows Kant\u2019s theory on race to be obscured from official discourse and framing of policies while it still courses through inherited perceptions and theories. Secondly, in making my case, I will be applying the notion of coloniality, coined by An\u00edbal Quijano and later developed by Walter Mignolo, to the existing but small body of critical discourse on Kant and race. Debates initiated on the peripheries of philosophy, law and anthropology in the 1990s have led the way in this regard. However, given the time that has elapsed, it is notable that their work has received little scrutiny in political theory and International Relations theory, and thus warrants renewed attention. I argue that the notion of coloniality provides a useful lens through which to do so, and a vehicle through which to apply those excavations to a contemporary context. Finally, the article explores the extent to which Kantian thought constitutes \u2018modern\u2019 cosmopolitanism, and draws attention to the inadvertently complicit role of second-generation cosmopolitans in the erasure of race from the study of Kant. The relationship between the collective erasure of race and racism in academia and European practice towards refugees and immigrants is briefly considered.",
+      "cited_by_count": 146,
+      "type": "article",
+      "source": {
+        "name": "Millennium Journal of International Studies",
+        "type": "journal",
+        "issn": [
+          "0305-8298",
+          "1477-9021"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1177/0305829817714064"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2729228422"
+    },
+    {
+      "openalex_id": "W592005562",
+      "doi": null,
+      "title": "The Pacific Muse: Exotic Femininity and the Colonial Pacific",
+      "authors": [
+        {
+          "name": "Patricia O\u2019Brien",
+          "openalex_id": "A5047942465",
+          "orcid": "https://orcid.org/0000-0002-9591-3616"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "The Pacific Muse offers a fresh perspective on a seductively familiar topic: the colonial stereotype of the exotic Pacific island woman. By tracing the evolution of female primitivism from Western antiquity to twentieth-century Hollywood images, the book sheds new light on our understanding of how and why this ideal has persisted and the major role it has played in the colonization of Pacific peoples. While examining colonial culture in its many manifestations, from art, literature, and film to the journals of explorers and missionaries, O'Brien rereads not only the canonical texts of Pacific imperialism, but also lesser-known remnants of this cultural heritage with an eye to what they reveal about gender, sexuality, race, and femininity. Over its long history - from the famous (and much romanticized) settlement of Tahitian women and mutineers from the Bounty on Pitcairn Island in 1789 to the South Seas romantic tradition, Gauguin, and beach culture - notions of female primitivism changed in response to the ideological watersheds of Christianity, Enlightenment science, and race theories, as well as the development of democratic nation-states, modernity, and colonialism. The Pacific Muse shows the continuities and differences in representing colonized women across geographical regions and historical epochs and highlights the importance of sexualization and feminization in imperial enterprises. Including 37 illustrations of Pacific women from early etchings by shipboard artists to recent photographs, this panoramic view of gendered Pacific history is enlightening reading for cultural anthropologists, women's and gender studies scholars, and historians of colonialism and the Pacific.",
+      "cited_by_count": 43,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Island Studies and Pacific Affairs"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W592005562"
+    },
+    {
+      "openalex_id": "W1680639019",
+      "doi": "10.17356/ieejsp.v1i2.38",
+      "title": "Can the post-Soviet think? On coloniality of knowledge, external imperial and double colonial difference",
+      "authors": [
+        {
+          "name": "Madina Tlostanova",
+          "openalex_id": "A5057761846",
+          "orcid": "https://orcid.org/0000-0002-0727-2098",
+          "institutions": [
+            "Russian Academy of Sciences",
+            "The Russian Presidential Academy of National Economy and Public Administration"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-22",
+      "abstract": "The article considers the main challenges faced by the post-Soviet social sciences in the global configuration of knowledge, marked by omnipresentcoloniality. In disciplinary terms this syndrome is manifested in the social sciences/ versus area studies divide from which the post-Soviet is either excluded or equalized with postcolonial discourses. The situation can be described as a general invisibility of the post-Soviet space and its social sciences and scientists for the rest of the world and the refusal of the global North to accept the post-Soviet scholar in the capacity of a rational subject. The reasons for this complex intersection of the post-Soviet, postcolonial and other post-dependence factors are both internal and external, political and epistemic. Following the methodological principles of decolonial option the author analyses such specific elements of the post-Soviet stagnant configuration in knowledge production as the external imperial difference and the double colonial difference, the geo-politics and body-politics of knowledge the way they are reflected in the knowledge production and distribution, paying specific attention to the possible ways out of this epistemic dead-end.",
+      "cited_by_count": 127,
+      "type": "article",
+      "source": {
+        "name": "Intersections",
+        "type": "journal",
+        "issn": [
+          "2416-089X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://intersections.tk.mta.hu/index.php/intersections/article/download/38/pdf_7"
+      },
+      "topics": [
+        "Digital Education and Society",
+        "Decolonial Thought and Epistemologies",
+        "World Systems and Global Transformations"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W1680639019"
+    },
+    {
+      "openalex_id": "W2798082000",
+      "doi": "10.1007/s12142-018-0510-x",
+      "title": "Universal Human Rights and the Coloniality of Race in Sweden",
+      "authors": [
+        {
+          "name": "Michael McEachrane",
+          "openalex_id": "A5068687784",
+          "orcid": "https://orcid.org/0000-0002-5175-7009"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-13",
+      "abstract": "This article makes an argument that using the term race and considering structural racial discrimination as such and the impacts on it of European colonialism are needed for Sweden\u2019s observance of universal human rights. This argument is contrary to the view of the Swedish state and challenges an image of Sweden as a champion for universal human rights without any colonial history or racial problems of its own.",
+      "cited_by_count": 41,
+      "type": "article",
+      "source": {
+        "name": "Human Rights Review",
+        "type": "journal",
+        "issn": [
+          "1524-8879",
+          "1874-6306"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12142-018-0510-x.pdf"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration",
+        "Political Philosophy and Ethics",
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 100,
+      "url": "https://openalex.org/W2798082000"
+    },
+    {
+      "openalex_id": "W3045631513",
+      "doi": "10.2478/se-2020-0010",
+      "title": "Colonial Exceptionalism: Post-colonial Scholarship and Race in Czech and Slovak Historiography",
+      "authors": [
+        {
+          "name": "Filip Herza",
+          "openalex_id": "A5042876013",
+          "orcid": "https://orcid.org/0000-0003-2604-3124",
+          "institutions": [
+            "Czech Academy of Sciences, Institute of Ethnology"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-01",
+      "abstract": "Abstract In spite of recent calls for the decolonisation of Czech and Slovak academia, there is still relatively little reflection of post-colonial theory in either Czech or Slovak historiography or related disciplines, including ethnology and Slavic studies. In the following essay I summarise the local discussion of coloniality and colonialism that has been going on since at least the end of the 2000s, while pointing out its conceptual limits and blind spots; namely the persistence of \u2018colonial exceptionalism\u2019 and the lack of understanding and use of race as an analytical tool. In dialogue with critical race theory as well as recent literature that deals with comparable \u2018non-colonial\u2019 or \u2018marginal-colonial\u2019 contexts such as South-Eastern Europe, Poland and the Nordic countries, I discuss how the local debates relating to colonial history as well as the post-colonial / post-socialist present of both countries would benefit from embracing the concept of \u2018colonial exceptionalism\u2019 and from including concepts of race and \u2018whiteness\u2019 as important tools of a critical analysis.",
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "Slovensk\u00fd n\u00e1rodopis",
+        "type": "journal",
+        "issn": [
+          "1335-1303",
+          "1339-9357"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sav.sk/journals/uploads/07020933etno2-2020-herza-oprava.pdf"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Central European national history",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W3045631513"
+    },
+    {
+      "openalex_id": "W2125750320",
+      "doi": "10.1007/s11024-008-9105-z",
+      "title": "A History of Universalism: Conceptions of the Internationality of Science from the Enlightenment to the Cold War",
+      "authors": [
+        {
+          "name": "Geert Somsen",
+          "openalex_id": "A5001512970",
+          "orcid": "https://orcid.org/0000-0001-7146-5559",
+          "institutions": [
+            "Maastricht University"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-09-01",
+      "abstract": "That science is fundamentally universal has been proclaimed innumerable times. But the precise geographical meaning of this universality has changed historically. This article examines conceptions of scientific internationalism from the Enlightenment to the Cold War, and their varying relations to cosmopolitanism, nationalism, socialism, and \u2018the West\u2019. These views are confronted with recent tendencies to cast science as a uniquely European product.",
+      "cited_by_count": 123,
+      "type": "article",
+      "source": {
+        "name": "Minerva",
+        "type": "journal",
+        "issn": [
+          "0026-4695",
+          "1573-1871"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11024-008-9105-z.pdf"
+      },
+      "topics": [
+        "Twentieth Century Scientific Developments",
+        "International Science and Diplomacy",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W2125750320"
+    },
+    {
+      "openalex_id": "W2711465899",
+      "doi": "10.17666/329402/2017",
+      "title": "COLONIALIDADE: O LADO MAIS ESCURO DA MODERNIDADE",
+      "authors": [
+        {
+          "name": "Walter D. Mignolo",
+          "openalex_id": "A5051525798",
+          "orcid": "https://orcid.org/0000-0002-2948-0656",
+          "institutions": [
+            "Duke University",
+            "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Este texto argumenta que a \u201ccolonialidade\u201d \u00e9 o lado mais escuro da modernidade ocidental, uma matriz de poder que surgiu entre o Renascimento e o Iluminismo durante a coloniza\u00e7\u00e3o das Am\u00e9ricas, e que est\u00e1 culminando com o neoliberalismo capitalista dos tempos atuais. Primeiro, estabelece a tese de que a colonialidade, um conceito que foi introduzido pelo soci\u00f3logo Anibal Quijano, \u00e9 a \u201cpauta oculta\u201d da modernidade. Em seguida, explica a origem desse \u201cmonstro de quatro cabe\u00e7as e duas pernas\u201d e analisa a forma\u00e7\u00e3o e as transforma\u00e7\u00f5es hist\u00f3ricas dessa \u201cmatriz colonial do poder\u201d. Para concluir, oferece uma pr\u00e9via do livro The dark side of western modernity: global futures, decolonial options, que vislumbra certos \u201cfuturos globais\u201d enquanto explora poss\u00edveis \u201cop\u00e7\u00f5es descoloniais\u201d.",
+      "cited_by_count": 860,
+      "type": "article",
+      "source": {
+        "name": "Revista Brasileira de Ci\u00eancias Sociais",
+        "type": "journal",
+        "issn": [
+          "0102-6909",
+          "1806-9053"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.17666/329402/2017"
+      },
+      "topics": [
+        "Social and Economic Solidarity"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W2711465899"
+    },
+    {
+      "openalex_id": "W2887254372",
+      "doi": "10.7202/1050851ar",
+      "title": "The Coloniality of Migration and the \u201cRefugee Crisis\u201d: On the Asylum-Migration Nexus, the Transatlantic White European Settler Colonialism-Migration and Racial Capitalism",
+      "authors": [
+        {
+          "name": "Encarnaci\u00f3n Guti\u00e9rrez Rodr\u00edguez",
+          "openalex_id": "A5057355045",
+          "orcid": "https://orcid.org/0000-0003-0662-0596",
+          "institutions": [
+            "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This article departs from the discussion by Stephen Castles on the migration-asylum nexus by focusing on the political and cultural effects of the summer of immigration in 2015. It argues for a conceptualization of the asylum-migration nexus within the framework of Anibal Quijano\u2019s \u201ccoloniality of power\u201d by developing the analytical framework of the \u201ccoloniality of migration.\u201d Through the analytical framework of the \u201ccoloniality of migration\u201d the connection between racial capitalism and the asylum-migration nexus is explored. It does so by first focusing on the economic and political links between asylum and migration, and how both constitute each other. On these grounds, it discusses how asylum and migration policies produce hierarchical categories of migrants and refugees, producing a nomenclature drawing on an imaginary reminiscent of the orientalist and racialized practices of European colonialism and imperialism. In a second step, it focuses on migration and asylum policies as inherent to a logic of racialization of the workforce. It does so by first exploring the racial coding of immigration policies within the context of settler colonial-ism and transatlantic White European migration to the Am\u00e9ricas and Oceania in the nineteenth and twentieth centuries, and second, by discussing migration policies in post-1945 Western Europe.",
+      "cited_by_count": 253,
+      "type": "article",
+      "source": {
+        "name": "Refuge Canada s Journal on Refuge",
+        "type": "journal",
+        "issn": [
+          "0229-5113",
+          "1920-7336"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.erudit.org/fr/revues/refuge/2018-v34-n1-refuge03925/1050851ar.pdf"
+      },
+      "topics": [
+        "Migration, Refugees, and Integration",
+        "Race, History, and American Society",
+        "Migration, Ethnicity, and Economy"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2887254372"
+    },
+    {
+      "openalex_id": "W2233894168",
+      "doi": "10.26530/oapen_459239",
+      "title": "Foreign Bodies: Oceania and the Science of Race 1750-1940",
+      "authors": [
+        {
+          "name": "Bronwen Douglas",
+          "openalex_id": "A5014775220",
+          "orcid": "https://orcid.org/0000-0002-7952-9673"
+        },
+        {
+          "name": "Chris Ballard",
+          "openalex_id": "A5069548846",
+          "orcid": "https://orcid.org/0000-0002-8455-6908"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "From the 18th century, Oceania became the principal laboratory of raciology for scholars, voyagers, and colonisers alike. By juxtaposing encounters and theory, this magisterial book explores the semantics of human difference in all its emotional, intellectual, religious, and practical dimensions. The argument developed is subtle, engrossing, and gives the paradigm of \u2018race\u2019 its full use value. Foreign Bodies is a model of analysis and erudition from which historians of science and everyone interested in intercultural relations will greatly profit. Claude Blanckaert, CNRS (Centre Alexandre Koyr\u00e9), Paris, and Honorary President, French Society for the History of the Science of Man",
+      "cited_by_count": 177,
+      "type": "book",
+      "source": {
+        "name": "ANU Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/33747/1/459239.pdf"
+      },
+      "topics": [
+        "Australian History and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2233894168"
+    },
+    {
+      "openalex_id": "W4252698994",
+      "doi": "10.5040/9781472544377",
+      "title": "Connected Sociologies",
+      "authors": [
+        {
+          "name": "Gurminder K. Bhambra",
+          "openalex_id": "A5064248726",
+          "orcid": "https://orcid.org/0000-0003-3658-1575"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "<JATS1:p>This book outlines what theory for a global age might look like, positing an agenda for consideration, contestation and discussion, and a framework for the research-led volumes that follow in the series.</JATS1:p> <JATS1:p>Gurmider K. Bhambra takes up the classical concerns of sociology and social theory and shows how they are being rethought through an engagement with postcolonial studies, one of the most distinctive critical approaches of the past two decades. She also discusses the significance of the research programme surrounding coloniality and modernity that has emerged recently from Latin America.</JATS1:p>",
+      "cited_by_count": 626,
+      "type": "book",
+      "source": {
+        "name": "Bloomsbury Publishing Plc eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.bloomsburycollections.com/book/connected-sociologies.pdf?dl"
+      },
+      "topics": [
+        "Contemporary Sociological Theory and Practice"
+      ],
+      "referenced_works_count": 228,
+      "url": "https://openalex.org/W4252698994"
+    },
+    {
+      "openalex_id": "W1606680835",
+      "doi": null,
+      "title": "Development as Modernity, Modernity as Development",
+      "authors": [
+        {
+          "name": "Lwazi Siyabonga Lushaba",
+          "openalex_id": "A5058116533"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-11-01",
+      "abstract": "&lt;p&gt;\\n\\tAlbeit the divergences on the debate about development in Africa, it is indubitable that the continent remains underdeveloped after five decades of development efforts. To understand this impasse, it is necessary to trace Africa's encounter with Europe to the period of early modernity. This paper first outlines the theory of modernity and Enlightenment. Next, it traces the genealogy of the idea of development as modernity and how the African development process gets entangled in it. Zeroing in on the current idea of late or hypermodernity, the author dismisses the idea that there is something new in the globalization-backed neoliberal development paradigm. He then addresses the complex question of how the impasse of modernity can be transcended, arguing that Africa needs to construct its own modernity, different from that of the West. [ASC Leiden abstract]&lt;/p&gt;",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": {
+        "name": "Leiden Repository (Leiden University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/1887/12881"
+      },
+      "topics": [
+        "Globalization and Cultural Identity",
+        "African cultural and philosophical studies",
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W1606680835"
+    },
+    {
+      "openalex_id": "W1728021200",
+      "doi": null,
+      "title": "Decolonization is not a metaphor",
+      "authors": [
+        {
+          "name": "Eve Tuck",
+          "openalex_id": "A5006403342",
+          "orcid": "https://orcid.org/0000-0001-5423-6391",
+          "institutions": [
+            "SUNY New Paltz"
+          ]
+        },
+        {
+          "name": "K. Wayne Yang",
+          "openalex_id": "A5069617532",
+          "orcid": "https://orcid.org/0000-0001-7884-560X",
+          "institutions": [
+            "University of California San Diego"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-09-08",
+      "abstract": "Our goal in this article is to remind readers what is unsettling about decolonization. Decolonization brings about the repatriation of Indigenous land and life; it is not a metaphor for other things we want to do to improve our societies and schools. The easy adoption of decolonizing discourse by educational advocacy and scholarship, evidenced by the increasing number of calls to \u201cdecolonize our schools,\u201d or use \u201cdecolonizing methods,\u201d or, \u201cdecolonize student thinking\u201d, turns decolonization into a metaphor. As important as their goals may be, social justice, critical methodologies, or approaches that decenter settler perspectives have objectives that may be incommensurable with decolonization. Because settler colonialism is built upon an entangled triad structure of settler-native-slave, the decolonial desires of white, non-white, immigrant, postcolonial, and oppressed people, can similarly be entangled in resettlement, reoccupation, and reinhabitation that actually further settler colonialism. The metaphorization of decolonization makes possible a set of evasions, or \u201csettler moves to innocence\u201d, that problematically attempt to reconcile settler guilt and complicity, and rescue settler futurity. In this article, we analyze multiple settler moves towards innocence in order to forward \u201can ethic of incommensurability\u201d that recognizes what is distinct and what is sovereign for project(s) of decolonization in relation to human and civil rights based social justice projects. We also point to unsettling themes within transnational/Third World decolonizations, abolition, and critical space-place pedagogies, which challenge the coalescence of social justice endeavors, making room for more meaningful potential alliances.",
+      "cited_by_count": 4107,
+      "type": "article",
+      "source": {
+        "name": "TSpace",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/dee58221-c99a-4beb-975d-60259fcc763f/download"
+      },
+      "topics": [
+        "Critical Race Theory in Education",
+        "Indigenous and Place-Based Education",
+        "Indigenous Health, Education, and Rights"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W1728021200"
+    },
+    {
+      "openalex_id": "W3193935740",
+      "doi": "10.1177/26317877211036714",
+      "title": "Celebrating the End of Enlightenment: Organization Theory in the Age of the Anthropocene and Gaia (and why neither is the solution to our ecological crisis)",
+      "authors": [
+        {
+          "name": "Subhabrata Bobby Banerjee",
+          "openalex_id": "A5052007670",
+          "orcid": "https://orcid.org/0000-0002-8699-6368",
+          "institutions": [
+            "City, University of London"
+          ]
+        },
+        {
+          "name": "Diane\u2010Laure Arjali\u00e8s",
+          "openalex_id": "A5086570023",
+          "orcid": "https://orcid.org/0000-0002-4070-9191",
+          "institutions": [
+            "Western University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-25",
+      "abstract": "This article aims to change the terms of the conversation about the ecological crisis. We argue that the human\u2013nature dualism, a product of Enlightenment thought and primarily responsible for the ecological crisis, cannot be the basis for any meaningful solutions. We show how more recent Western imaginaries like the Anthropocene and Gaia proposed to overcome the separation of nature from culture are also based on exclusions that reflect Enlightenment rationality and legacies of colonialism. In sharp contrast, we show that Indigenous philosophies that preceded the Enlightenment by thousands of years have developed systems of knowledge based on a relational ontology that reflects profound connections between humans and nature. We demonstrate that such forms of knowledge have been systematically subjugated by Western scholarship based on arguments inspired by Enlightenment ideals of rationality and empiricism. A decolonial imagination will be able to generate new insights into understanding and addressing the ecological crisis. We therefore call for organization and management scholars to challenge the anthropomorphic biases and the economism that dominates our field through a respectful engagement with Indigenous worldviews.",
+      "cited_by_count": 122,
+      "type": "article",
+      "source": {
+        "name": "Organization Theory",
+        "type": "journal",
+        "issn": [
+          "2631-7877"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/26317877211036714"
+      },
+      "topics": [
+        "Management and Organizational Studies",
+        "Complex Systems and Decision Making",
+        "Management Theory and Practice"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W3193935740"
+    },
+    {
+      "openalex_id": "W3140937604",
+      "doi": "10.5325/critphilrace.6.1.0058",
+      "title": "The Race-Religion Constellation: A European Contribution to the Critical Philosophy of Race",
+      "authors": [
+        {
+          "name": "Anya Topolski",
+          "openalex_id": "A5032540239",
+          "orcid": "https://orcid.org/0000-0003-1422-3953",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Abstract This article traces the hidden race-religion constellation in Europe. The term \u201crace-religion constellation\u201d refers to the connection or co-constitution of the categories of race and \u201creligion.\u201d Specifically, the term \u201crace-religion constellation\u201d is used to refer to the practice of classifying people into races according to categories we now associate with the term \u201creligion.\u201d This calls for a consideration of European history and forms of racism in Europe, such as anti-Semitism and Islamophobia. This article aims to provide an alternative non-secularized or biological account of the origins of the socially constructed category of race in Europe. The alternative story begins in the sixteenth century, when the category of \u201creligion\u201d as a means for classifying peoples was both constructed and politicized. In tracing this alternative story, this article seeks to outline a framework for a critical philosophy of race focused on a European religion line that intersects with Du Bois's color line.",
+      "cited_by_count": 85,
+      "type": "article",
+      "source": {
+        "name": "Critical Philosophy of Race",
+        "type": "journal",
+        "issn": [
+          "2165-8684",
+          "2165-8692"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://scholarlypublishingcollective.org/psup/cpr/article-pdf/6/1/58/1274553/critphilrace_6_1_58.pdf"
+      },
+      "topics": [
+        "Critical Race Theory in Education",
+        "Race, History, and American Society",
+        "Religious Education and Schools"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W3140937604"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

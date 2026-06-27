@@ -1,0 +1,54 @@
+[s2_search.py] Searching Semantic Scholar: 'Maldonado-Torres Against War views from the underside' (year=2005-2015), limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_5c3ec9d2b4dbf7fd)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Maldonado-Torres Against War views from the underside",
+  "results": [
+    {
+      "paperId": "a5bd931440915582373258134a940dae4125588d",
+      "title": "Against War: Views from the Underside of Modernity",
+      "authors": [
+        {
+          "name": "Nelson Maldonado-Torres",
+          "authorId": "1416367758"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 211,
+      "doi": "10.1215/9780822388999",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a5bd931440915582373258134a940dae4125588d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ce43c3f57aff56dfb3d1032c044db2423c17452f",
+      "title": "Against War: Views from the Underside of Modernity \u2013 By Nelson Maldonado\u2010Torres",
+      "authors": [
+        {
+          "name": "J. Moses",
+          "authorId": "50007395"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1111/j.1467-9809.2010.01057.x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ce43c3f57aff56dfb3d1032c044db2423c17452f",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

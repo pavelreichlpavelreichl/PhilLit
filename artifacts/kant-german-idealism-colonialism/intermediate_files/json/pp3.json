@@ -1,0 +1,101 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'decolonial critique Enlightenment German idealism', limit=20
+[search_philpapers.py] Retrieved 6 entries...
+[search_philpapers.py] Search complete: 6 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "decolonial critique Enlightenment German idealism",
+  "results": [
+    {
+      "title": "Stefan Bird-Pollan, Fanon: Colonialism and the Critical Ideals of German Idealism",
+      "url": "https://philpapers.org/rec/BIRF",
+      "philpapers_id": "BIRF",
+      "snippet": "I argue that Franz Fanon can usefully ... the sense that he takes from Kant and especially Hegel the conception of agency as something to be achieved through struggle for the ideal of humanity as self-determining....",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Stefan Bird-Pollan"
+        }
+      ],
+      "extra_snippets": [
+        "I argue that Franz Fanon can usefully be situated in the tradition of German Idealism in the sense that he takes from Kant and especially Hegel the conception of agency as something to be achieved through struggle for the ideal of humanity as self-determining.",
+        "Fanon and Hegel: The Dialectic, the Phenomenology of Race, and Decolonization.Azzedine Haddour - 2021 - In Cynthia D. Coe, The Palgrave Handbook of German Idealism and Phenomenology. Cham: Springer Verlag."
+      ]
+    },
+    {
+      "title": "Espen Hammer, Hegel's Dialectic of Enlightenment: The French Revolution as an Emblem of Modernity",
+      "url": "https://philpapers.org/rec/HAMHDO",
+      "philpapers_id": "HAMHDO",
+      "snippet": "The French Revolutionary Roots Of Political Modernity In Hegel&#x27;s Philosophy, Or The Enlightenment At Dusk.R. Wokler - 1997 - Bulletin of the Hegel Society of Great Britain 35:71-89. Espen Hammer &#x27;s German Idealism: Contemporary Perspectives.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Espen Hammer"
+        }
+      ],
+      "extra_snippets": [
+        "Hammer Espen German Idealism: Contemporary Perspectives. London and New York: Routledge, 2007. ISBN 10:0-415-37305-0 . Ppx+339. [REVIEW]Katerina Deligiorgi - 2010 - Hegel Bulletin 31 (1):141-146. Hegel's Critique of Modernity: Reconciling Individual Freedom and the Community.Timothy C."
+      ]
+    },
+    {
+      "title": "George di Giovanni (ed.), Karl Leonhard Reinhold and the Enlightenment, Studies in German Idealism, Vol.",
+      "url": "https://philpapers.org/rec/KLR",
+      "philpapers_id": "KLR",
+      "snippet": "Sign in | Create an account \u00b7 PhilPapers PhilPeople PhilArchive PhilEvents PhilJobs \u00b7 All new items \u00b7 Books \u00b7 Journal articles \u00b7 Manuscripts \u00b7 Topics \u00b7 All Categories \u00b7 Metaphysics and Epistemology",
+      "page_age": null
+    },
+    {
+      "title": "Brian O\u2019Connor & Georg Mohr (eds.), German Idealism: An Anthology and Guide",
+      "url": "https://philpapers.org/rec/OCOGIA-2",
+      "philpapers_id": "OCOGIA",
+      "snippet": "Beginning with the publication of Kant\u2019s _Critique of Pure Reason_ and extending through to Hegel\u2019s death, the period known as German Idealism signaled the end of an epoch of rationalism, empiricism, and enlightenment\u2014and the beginning of a new \u201ccritical\u201d period of philosophy.",
+      "page_age": null,
+      "extra_snippets": [
+        "Beginning with the publication of Kant\u2019s _Critique of Pure Reason_ and extending through to Hegel\u2019s death, the period known as German Idealism signaled the end of an epoch of rationalism, empiricism, and enlightenment\u2014and the beginning of a new \u201ccritical\u201d period of philosophy.",
+        "Arranged thematically into sections on topics such as the relationships between self and knowledge, freedom and morality, law and state, and nature and science, to name a few, _German Idealism_ discloses many of the contrasts that helped to differentiate each of the tradition\u2019s key thinkers.",
+        "Each expertly translated text comes with an editorial introduction to guide readers through many of the problems the texts specifically deal with, as well as their historical context. The most accessible and expansive introduction to German Idealism ever, this anthology will be hailed by instructors and scholars as the most dependable guide to the tradition for years to come.",
+        "German Idealism.Brian O'Connor, Michael Rosen, Hans J\u00f6rg Sandk\u00fchler & David W."
+      ]
+    },
+    {
+      "title": "Walter D. Mignolo, Decoloniality and Phenomenology: The Geopolitics of Knowing and Epistemic/Ontological Colonial Differences",
+      "url": "https://philpapers.org/rec/MIGDAP-2",
+      "philpapers_id": "MIGDAP",
+      "snippet": "Phenomenology and transcendental consciousness/lifeworld are mutually constitutive. One cannot exist without the other; and so it is for the mutual constitution of decoloniality and modernity/coloniality.",
+      "page_age": "2018-10-02T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Walter D. Mignolo"
+        }
+      ],
+      "extra_snippets": [
+        "In the abstract I sent to the organizing committee of the Society for Phenomenology and Existential Philosophy, I announced that I would attempt a dialogue between phenomenology and decoloniality, understanding that both are theoretical frames by means of which transcendental phenomenology and the lifeworld, on the one hand, and modernity/coloniality, on the other, came into being.",
+        "The Hubris of Transcendental Idealism: Understanding Pato\u010dka's Early Concept of the Lifeworld.Martin Ritter - 2018 - Journal of the British Society for Phenomenology 49 (2):171-181. Ontological Phenomenology.David Woodruff Smith - 2000 - In The Proceedings of the Twentieth World Congress of Philosophy. pp. 243-251. How to Leave Modernity Behind: The Relationship Between Colonialism and Enlightenment, and the Possibility of Altermodern Decoloniality.Britta Saal - 2013 - Budhi: A Journal of Ideas and Culture 17 (1):49-80.",
+        "Phenomenology and transcendental consciousness/lifeworld are mutually constitutive. One cannot exist without the other; and so it is for the mutual constitution of decoloniality and modernity/coloniality. There cannot be modernity/coloniality without decoloniality, and vice versa.",
+        "Unshackling the Chains of Coloniality: Reimagining Decoloniality, Africanisation and Reformation for a Non-Racial South Africa.Thinandavha D."
+      ]
+    },
+    {
+      "title": "Michael A. Rosenthal, The Siren Song of Revolution",
+      "url": "https://philpapers.org/rec/ROSTSS-2",
+      "philpapers_id": "ROSTSS",
+      "snippet": "A Decolonial Spinoza: An Interpretation in Tension.Emerson Bodde - 2024 - Journal of Spinoza Studies 3 (2):3-26. King Philip II of Spain as a symbol of \u2018Tyranny\u2019 in Spinoza\u2019s Political Writings.Jonathan Israel - 2018 - Co-herencia 15 (58):137-154. ... Enlightenment Contested: Philosophy, ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Michael A. Rosenthal"
+        }
+      ],
+      "extra_snippets": [
+        "A Decolonial Spinoza: An Interpretation in Tension.Emerson Bodde - 2024 - Journal of Spinoza Studies 3 (2):3-26. King Philip II of Spain as a symbol of \u2018Tyranny\u2019 in Spinoza\u2019s Political Writings.Jonathan Israel - 2018 - Co-herencia 15 (58):137-154. ... Enlightenment Contested: Philosophy, Modernity and the Emancipation of Man 1670-1752.Jonathan Israel - 2006 - Oxford: Oxford University Press UK."
+      ]
+    }
+  ],
+  "count": 6,
+  "errors": []
+}

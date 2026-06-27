@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1515/9781400825806
+[verify_paper.py] DOI verified: Philosophical Analysis in the Twentieth Century, V...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1515/9781400825806"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1515/9781400825806",
+      "title": "Philosophical Analysis in the Twentieth Century, Volume 2",
+      "authors": [
+        {
+          "family": "Soames",
+          "given": "Scott"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Princeton University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1515/9781400825806"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

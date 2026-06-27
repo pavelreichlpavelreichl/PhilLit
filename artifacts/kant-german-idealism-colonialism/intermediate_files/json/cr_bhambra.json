@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/13688790.2014.966414
+[verify_paper.py] DOI verified: Postcolonial and decolonial dialogues...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/13688790.2014.966414"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/13688790.2014.966414",
+      "title": "Postcolonial and decolonial dialogues",
+      "authors": [
+        {
+          "family": "Bhambra",
+          "given": "Gurminder K"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Postcolonial Studies",
+      "volume": "17",
+      "issue": "2",
+      "page": "115-121",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/13688790.2014.966414"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/1754-0208.12946"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/1754-0208.12946",
+      "title": "Johann Daniel Metzger and Kant's So\u2010Called Human Races",
+      "authors": [
+        {
+          "family": "van Gorkom",
+          "given": "Joris"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Journal for Eighteenth-Century Studies",
+      "volume": "47",
+      "issue": "4",
+      "page": "365-382",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/1754-0208.12946"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

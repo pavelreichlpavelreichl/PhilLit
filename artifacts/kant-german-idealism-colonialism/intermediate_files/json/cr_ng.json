@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/hgl.2024.25
+[verify_paper.py] DOI verified: Fanon and Hegel on the Recognition of Humanity...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/hgl.2024.25"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/hgl.2024.25",
+      "title": "Fanon and Hegel on the Recognition of Humanity",
+      "authors": [
+        {
+          "family": "Ng",
+          "given": "Karen"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Hegel Bulletin",
+      "volume": "45",
+      "issue": "3",
+      "page": "571-597",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/hgl.2024.25"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

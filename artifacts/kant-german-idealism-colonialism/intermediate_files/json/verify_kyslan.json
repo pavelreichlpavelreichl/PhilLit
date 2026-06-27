@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.31261/fp.18341"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.31261/fp.18341",
+      "title": "Kant, Herder and Anthropology",
+      "authors": [
+        {
+          "family": "Kyslan",
+          "given": "Peter"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Folia Philosophica",
+      "volume": "",
+      "issue": "",
+      "page": "1-16",
+      "publisher": "University of Silesia in Katowice",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.31261/fp.18341"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

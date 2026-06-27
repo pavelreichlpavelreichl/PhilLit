@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Herder and the definition of race",
+    "author": "Bernasconi",
+    "year": 2002
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (23.4) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

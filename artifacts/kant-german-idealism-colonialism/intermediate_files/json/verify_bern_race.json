@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4324/9781003060802-7"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9781003060802-7",
+      "title": "WHO Invented the Concept of Race?",
+      "authors": [
+        {
+          "family": "Bernasconi",
+          "given": "Robert"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Theories of Race and Racism",
+      "volume": "",
+      "issue": "",
+      "page": "83-103",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4324/9781003060802-7"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
