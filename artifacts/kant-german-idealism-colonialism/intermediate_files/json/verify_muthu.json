@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/20033860"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/20033860",
+      "title": "Enlightenment against Empire",
+      "authors": [
+        {
+          "family": "Hoffmann",
+          "given": "Stanley"
+        },
+        {
+          "family": "Muthu",
+          "given": "Sankar"
+        }
+      ],
+      "editors": [],
+      "year": 2004,
+      "container_title": "Foreign Affairs",
+      "volume": "83",
+      "issue": "1",
+      "page": "176",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/20033860"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
