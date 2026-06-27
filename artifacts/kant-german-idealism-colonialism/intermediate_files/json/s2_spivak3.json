@@ -1,0 +1,16 @@
+[s2_search.py] Searching Semantic Scholar: 'Spivak subaltern speak Marxism interpretations of culture Nelson Grossberg' (year=1985-1995), limit=20
+[s2_search.py] Found 0 papers total
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "Spivak subaltern speak Marxism interpretations of culture Nelson Grossberg",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

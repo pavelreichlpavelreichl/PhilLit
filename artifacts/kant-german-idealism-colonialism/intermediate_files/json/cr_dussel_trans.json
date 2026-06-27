@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Transmodernity and Interculturality An Interpretat...' author=Dussel year=2012
+[verify_paper.py] Paper found: Transmodernity and Interculturality: An Interpreta... (score: 85.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Transmodernity and Interculturality An Interpretation from the Perspective of Philosophy of Liberation",
+    "author": "Dussel",
+    "year": 2012
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5070/t413012881",
+      "title": "Transmodernity and Interculturality: An Interpretation from the Perspective of Philosophy of Liberation",
+      "authors": [
+        {
+          "family": "Dussel",
+          "given": "Enrique D."
+        }
+      ],
+      "editors": [],
+      "year": 2012,
+      "container_title": "TRANSMODERNITY",
+      "volume": "1",
+      "issue": "3",
+      "page": "",
+      "publisher": "California Digital Library (CDL)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.5070/t413012881",
+      "score": 85.16983
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

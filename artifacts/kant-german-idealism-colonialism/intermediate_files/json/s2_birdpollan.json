@@ -1,14 +1,82 @@
+[s2_search.py] Searching Semantic Scholar: 'Bird-Pollan Fanon colonialism German idealism' (year=2010-2020), limit=20
+[s2_search.py] Retrieved 3/3 papers...
+[s2_search.py] Search complete: 3 papers found
+[s2_search.py] Cached results (cache key: s2_43ae3ccdb128d4bc)
 {
-  "status": "error",
+  "status": "success",
   "source": "semantic_scholar",
-  "query": "Bird-Pollan Hegel death desire",
-  "results": [],
-  "count": 0,
-  "errors": [
+  "query": "Bird-Pollan Fanon colonialism German idealism",
+  "results": [
     {
-      "type": "not_found",
-      "message": "No papers found matching query",
-      "recoverable": false
+      "paperId": "bf013d98faae0a9e701880339fdb4e1ddc328b29",
+      "title": "Fanon: Colonialism and the Critical Ideals of German Idealism",
+      "authors": [
+        {
+          "name": "Stefan Bird-Pollan",
+          "authorId": "1413494472"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": "10.1558/CRIT.V13I3.377",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bf013d98faae0a9e701880339fdb4e1ddc328b29",
+      "venue": "",
+      "journal": {
+        "name": "Critical Horizons",
+        "pages": "377-399",
+        "volume": "13"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "44033edbaede6680f83b1f4eca644db0eb574157",
+      "title": "Fanon",
+      "authors": [
+        {
+          "name": "Stefan Bird-Pollan",
+          "authorId": "1413494472"
+        }
+      ],
+      "year": 2012,
+      "abstract": "Abstract I argue that Franz Fanon can usefully be situated in the tradition of German Idealism in the sense that he takes from Kant and especially Hegel the conception of agency as something to be achieved through struggle for the ideal of humanity as self-determining. Fanon sees the suffering cased by colonial rule in Africa and elsewhere as deriving from the systematic deprivation of agency by the colonial power. Using the work of Hegel, Fanon seeks to reconstruct the emancipatory project of the black man in close analogy to Hegel\u2019s master-slave dialectic. The violence which Fanon sees as unavoidable in such a struggle is not violence for the sake of violence but, following Hegel, the violence that constitutes the subject in the first place.",
+      "citationCount": 8,
+      "doi": "10.1558/crit.v13i3.377",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/44033edbaede6680f83b1f4eca644db0eb574157",
+      "venue": "The Palgrave Encyclopedia of Imperialism and Anti-Imperialism",
+      "journal": {
+        "name": "Critical Horizons",
+        "pages": "377 - 399",
+        "volume": "13"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "539a9325bfe7063a08b28310acdb6486dcc0b47b",
+      "title": "The singularity of being; Lacan and the immortal within",
+      "authors": [
+        {
+          "name": "Stefan Bird-Pollan",
+          "authorId": "1413494472"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1057/pcs.2013.13",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/539a9325bfe7063a08b28310acdb6486dcc0b47b",
+      "venue": "Psychoanalysis, Culture & Society",
+      "journal": {
+        "name": "Psychoanalysis, Culture & Society",
+        "pages": "330-333",
+        "volume": "18"
+      },
+      "publicationTypes": null
     }
-  ]
+  ],
+  "count": 3,
+  "errors": []
 }

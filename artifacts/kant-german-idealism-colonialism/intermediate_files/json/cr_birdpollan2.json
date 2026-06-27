@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1558/crit.v13i3.377
+[verify_paper.py] DOI verified: Fanon...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1558/crit.v13i3.377"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1558/crit.v13i3.377",
+      "title": "Fanon",
+      "authors": [
+        {
+          "family": "Bird-Pollan",
+          "given": "Stefan"
+        }
+      ],
+      "editors": [],
+      "year": 2012,
+      "container_title": "Critical Horizons",
+      "volume": "13",
+      "issue": "3",
+      "page": "377-399",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1558/crit.v13i3.377"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

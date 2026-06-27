@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Darker Side of Western Modernity Global Future...' author=Mignolo year=2011
+[verify_paper.py] Paper found: The Darker Side of Western Modernity... (score: 95.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Darker Side of Western Modernity Global Futures Decolonial Options",
+    "author": "Mignolo",
+    "year": 2011
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1215/9780822394501",
+      "title": "The Darker Side of Western Modernity",
+      "authors": [
+        {
+          "family": "Mignolo",
+          "given": "Walter D."
+        }
+      ],
+      "editors": [],
+      "year": 2011,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Duke University Press",
+      "type": "edited-book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1215/9780822394501",
+      "score": 95.80436
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

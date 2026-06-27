@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/PHILOSOPHIN200314275
+[verify_paper.py] DOI verified: Can the Subaltern Speak?...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/PHILOSOPHIN200314275"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/philosophin200314275",
+      "title": "Can the Subaltern Speak?",
+      "authors": [
+        {
+          "family": "Spivak",
+          "given": "Gayatri Chakravorty"
+        },
+        {
+          "family": "Edition Diskord (Germany)",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2003,
+      "container_title": "Die Philosophin",
+      "volume": "14",
+      "issue": "27",
+      "page": "42-58",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/philosophin200314275"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

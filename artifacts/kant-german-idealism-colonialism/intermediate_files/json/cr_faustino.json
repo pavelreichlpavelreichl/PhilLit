@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.5840/clrjames2021121489
+[verify_paper.py] DOI verified: Frantz Fanon and the Creolization of Hegel...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.5840/clrjames2021121489"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.5840/clrjames2021121489",
+      "title": "Frantz Fanon and the Creolization of Hegel",
+      "authors": [
+        {
+          "family": "Faustino",
+          "given": "Deivison"
+        },
+        {
+          "family": "Caribbean Philosophical Association",
+          "given": ""
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "The CLR James Journal",
+      "volume": "27",
+      "issue": "1",
+      "page": "189-212",
+      "publisher": "Philosophy Documentation Center",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5840/clrjames2021121489"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
