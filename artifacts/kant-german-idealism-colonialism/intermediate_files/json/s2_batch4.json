@@ -1,0 +1,117 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 4 paper(s)...
+[s2_batch.py] Processing 4 responses...
+[s2_batch.py] Found 4 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "4 paper IDs",
+  "results": [
+    {
+      "paperId": "648c741d43de3b3c07526b6a674d100eed6410d9",
+      "title": "A Critical Assessment of Kleingeld - Bernasconi Debate On Kant's Racism",
+      "authors": [
+        {
+          "name": "Jelena Govedarica",
+          "authorId": "116791435"
+        },
+        {
+          "name": "Milica Smajevi\u0107 Rolji\u0107",
+          "authorId": "2332283418"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This paper offers a critical evaluation of the arguments that Kleingeld and Bernasconi used to support their claims regarding the idea that Kant held racist beliefs. Firstly, we will criticize the views on which they agree, aiming to emphasize our understanding of Kant\u2019s thoughts on race. Secondly, we will assess the significance of Kant\u2019s draft for Towards Perpetual Peace when considering the debate over Kant\u2019s racism, and show that Bernasconi\u2019s interpretation according to which Kant presented racist views in the third Critique and in his writings on history is problematic. Although we will not systematically present our understanding of Kant\u2019s thoughts on race, our critique will reflect our basic views: Kant was not a racist, and he never advocated for slavery and colonization. Kleingeld is right to insist that we must interpret Kant\u2019s thoughts on race diachronically, as it is clear that his views evolved but did not radically change.",
+      "citationCount": 5,
+      "doi": "10.5209/kant.95619",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/648c741d43de3b3c07526b6a674d100eed6410d9",
+      "venue": "Con-textos Kantianos: International Journal of Philosophy",
+      "journal": {
+        "name": "Con-Textos Kantianos. International Journal of Philosophy"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.5209/kant.95619"
+    },
+    {
+      "paperId": "3058f6d7d4e18f973540f7bfa91d468f47f58ac4",
+      "title": "Observations on Kant, Race, and Racism",
+      "authors": [
+        {
+          "name": "Dilek Huseyinzadegan",
+          "authorId": "114062130"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract:Huaping Lu-Adler\u2019s new book Kant, Race, and Racism: Views from Somewhere confronts the issues of race and racism in Kant\u2019s philosophy directly. In the legacy of Charles Mills, Lu-Adler brings these issues from the margins to the mainstream of philosophical scholarship. This article offers a series of observations on defining racism in relation to Kantian philosophy, how much we have yet to learn from interdisciplinary scholarship, and how our attachment to philosophical rigor may have made us complicit in white supremacy.",
+      "citationCount": 0,
+      "doi": "10.5325/critphilrace.13.2.0242",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3058f6d7d4e18f973540f7bfa91d468f47f58ac4",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race",
+        "pages": "242 - 252",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.5325/critphilrace.13.2.0242"
+    },
+    {
+      "paperId": "43976239057bc11ffa9bb2d58ce223788108f039",
+      "title": "Huaping Lu-Adler on Kant\u2019s Relation to Racism",
+      "authors": [
+        {
+          "name": "Reza Mosayebi",
+          "authorId": "2346009447"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract:One of the many virtues of Huaping Lu-Adler\u2019s Kant, Race, and Racism is its questioning of the very meaning of \u201cracism\u201d attributed to Kant. Yet more important is Lu-Adler\u2019s own attempt to go beyond the \u201cindividualistic\u201d approaches that focus on Kant\u2019s mind or heart behind his philosophical racism. By engaging with some current philosophical accounts of racism, Lu-Adler instead reconceptualizes Kant\u2019s relation, as philosopher-cum-educator, to racism. What matters first and foremost, according to Lu-Adler, is Kant\u2019s position in power relations, which had an impactful role in shaping modern racial ideology. I, however, argue that Lu-Adler thereby makes some unnecessary and undesirable sacrifices, which I discuss in three interconnected respects. First, I question Tommie Shelby\u2019s \u201cnon-moralistic\u201d analysis of racism, which Lu-Adler adopts. Second, I challenge Lu-Adler\u2019s denial of \u201chierarchism\u201d as an element of racism. Third, I object that Lu-Adler\u2019s novel approach of reading Kant by way of Sally Haslanger\u2019s critical revision of Shelby\u2019s \u201cideology\u201d account of racism is not pluralistic enough for antiracism. Overall, this article does not purport either to refute or to adhere to Lu-Adler\u2019s account simpliciter. Rather, it argues that her reconceptualization of Kant\u2019s racism is more fruitful if it is used complementarily to other approaches. I close the article by sketching how this might work: I consider an example of a pluralistic approach that combines Lu-Adler\u2019s \u201cideological formation\u201d approach and Pauline Kleingeld\u2019s \u201cindividualistic\u201d approach for a more consistently antiracist account of Kant\u2019s racism.",
+      "citationCount": 0,
+      "doi": "10.5325/critphilrace.13.2.0253",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/43976239057bc11ffa9bb2d58ce223788108f039",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race",
+        "pages": "253 - 283",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.5325/critphilrace.13.2.0253"
+    },
+    {
+      "paperId": "20029d3f960319c4c1270c98afd59a816929112d",
+      "title": "Kant\u2019s Views on Race as \u201cPure\u201d Philosophy?: Discussing Huaping Lu-Adler\u2019s \u201cKant, Race, and Racism\u201d (chapters 3 and 4)",
+      "authors": [
+        {
+          "name": "Marina Martinez Mateo",
+          "authorId": "2403696319"
+        }
+      ],
+      "year": 2025,
+      "abstract": "\n This article discusses Huaping Lu-Adler\u2019s book Kant, Race, and Racism, in particular the third and fourth chapters. These chapters undertake a double contextualization of Kant\u2019s writings on race: first, within Kant\u2019s work and, second, within the naturalists\u2019 discussions of his time. The engagement with these chapters focuses on the relationship between philosophy and its \u201coutside.\u201d This relationship is discussed in three dimensions: first, in the relationship between philosophy and natural science (Naturforschung); second, in the relationship between philosophy and prejudice; and third, in the relationship between philosophy and practice. All of these dimensions revolve around the problem of how to grasp the specific meaning and role of philosophy in its historical social context\u2014a systematic question that can be derived from Lu-Adler\u2019s analysis, even if it is not explicitly central to her work. The main conclusion is that the problem expressed in Kant\u2019s views on race is not so much that he succumbs to the particular, limiting, and prejudiced ways of thinking of his time but rather that, in doing so, he also relies on an understanding of philosophy that cannot conceive of its own situatedness; a philosophy that sees itself as detached from the world and cannot grasp its own practical implications.",
+      "citationCount": 0,
+      "doi": "10.5325/critphilrace.13.2.0284",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20029d3f960319c4c1270c98afd59a816929112d",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.5325/critphilrace.13.2.0284"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

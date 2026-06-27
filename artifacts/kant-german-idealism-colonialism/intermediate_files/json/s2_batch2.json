@@ -1,0 +1,136 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 5 paper(s)...
+[s2_batch.py] Rate limited, backing off (attempt 1/5)...
+[s2_batch.py] Processing 5 responses...
+[s2_batch.py] Found 5 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "5 paper IDs",
+  "results": [
+    {
+      "paperId": "f8cc6ebaa2b9403a24145cf087176fbc86480eff",
+      "title": "Slavery's absence from histories of moral and political philosophy",
+      "authors": [
+        {
+          "name": "Robert Bernasconi",
+          "authorId": "2313403717"
+        }
+      ],
+      "year": 2024,
+      "abstract": "At a time when many institutions of higher learning are reflecting on their past complicity with chattel slavery, either in terms of the sources of their funding or their use of slave labor, philosophy as an academic discipline has been largely silent about its own complicity. Questions surrounding the legitimacy and practice of slavery were a regular part of moral philosophy courses at universities from the sixteenth century until its abolition. However, the discussions of slavery found in the dominant textbooks tended to be deeply conservative judged even by the standards of those times. This partly explains why after emancipation the many moral questions posed by slavery are barely mentioned in survey histories of ethics or of political philosophy today: this is a context in which academic philosophy does not show itself to its best advantage. The present article explores what academic philosophers need to do to redress the discipline's past failures, including its virtual silence about slavery since the Civil War. Given today's political environment, academic philosophers need to reflect on how the discipline in its institutional form functions within a system governed by the legacy of slavery and its aftermath.",
+      "citationCount": 1,
+      "doi": "10.1111/sjp.12578",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f8cc6ebaa2b9403a24145cf087176fbc86480eff",
+      "venue": "The Southern Journal of Philosophy",
+      "journal": {
+        "name": "The Southern Journal of Philosophy"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "_queryId": "f8cc6ebaa2b9403a24145cf087176fbc86480eff"
+    },
+    {
+      "paperId": "93383900f485462f6901c62d7fc7c8213e13404d",
+      "title": "Africa, Asia, and the History of Philosophy: Racism in the Formation of the Philosophical Canon, 1780\u20131830",
+      "authors": [
+        {
+          "name": "Peter Park",
+          "authorId": "2068953673"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 80,
+      "doi": "10.1353/book22395",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/93383900f485462f6901c62d7fc7c8213e13404d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "93383900f485462f6901c62d7fc7c8213e13404d"
+    },
+    {
+      "paperId": "4d87f87353064d4aab3ebc0ce20d5b4aec933a9d",
+      "title": "Racism and Eurocentrism in Histories of Philosophy",
+      "authors": [
+        {
+          "name": "L. Strickland",
+          "authorId": "2396945"
+        },
+        {
+          "name": "Jia Wang",
+          "authorId": "152924522"
+        }
+      ],
+      "year": 2023,
+      "abstract": "This paper examines the fortunes of non-European philosophies in histories of philosophy written by European and American philosophers from the 17th century to the present day. It charts the shift from inclusive histories of philosophy, which included non-European philosophies, to exclusive histories of philosophy, which excluded and/or marginalized non-European philosophies, at the end of the 18th century. This shift was motivated by racial Eurocen-trism, which cast a long shadow over histories of philosophy written during the 19th and 20th centuries. The paper also considers recent attempts to produce a more inclusive history of philosophy. By examining the history of the inclusion and exclusion of non-European philosophies in histories of philosophy, this paper seeks to challenge the assumption that philosophy began and has been practised exclusively by European or western thinkers",
+      "citationCount": 6,
+      "doi": "10.4236/ojpp.2023.131005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4d87f87353064d4aab3ebc0ce20d5b4aec933a9d",
+      "venue": "Open Journal of Philosophy",
+      "journal": {
+        "name": "Open Journal of Philosophy"
+      },
+      "publicationTypes": null,
+      "_queryId": "4d87f87353064d4aab3ebc0ce20d5b4aec933a9d"
+    },
+    {
+      "paperId": "0a192960b0a50b513cae7c22315bdf609824f9a9",
+      "title": "Questions of canon formation in philosophy : the history of philosophy in Africa",
+      "authors": [
+        {
+          "name": "Anke Graness",
+          "authorId": "108661706"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The history of philosophy is not just an academic discipline, but considered to be a philosophical activity itself. It has been instrumental in shaping our understanding of philosophy, our philosophical canon and curricula. The history of philosophy in Africa is still a young discipline, although philosophical thinking (concepts, manuscripts, books and philosophers) can be traced back until ancient Egypt. Facing the problem of exclusion and inferiorisation of traditions of thought and philosophy in Africa, the discipline of the history of philosophy involves very specific problems and requires a project of \u201cconceptual decolonisation\u201d. This explains both the importance and the difficulty of writing a history of philosophy in Africa.",
+      "citationCount": 9,
+      "doi": "10.25159/2413-3086/3819",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0a192960b0a50b513cae7c22315bdf609824f9a9",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "78-96",
+        "volume": "16"
+      },
+      "publicationTypes": null,
+      "_queryId": "0a192960b0a50b513cae7c22315bdf609824f9a9"
+    },
+    {
+      "paperId": "fb6e4bab608cf51f02ee57c85558c700f0dbb268",
+      "title": "Response to Robert Bernasconi's \u201cSlavery absence from histories of moral and political philosophy\u201d",
+      "authors": [
+        {
+          "name": "L. Mercier",
+          "authorId": "121549114"
+        }
+      ],
+      "year": 2024,
+      "abstract": "I focus in this response on what I take to be Bernasconi's proposal to dissolve and reframe moral and political philosophies around the problematic of slavery. Insofar as, in the wake of Afro\u2010diasporic and Black radical thought, it offers us one version of an argument that has now touched virtually all aspects of modern European philosophy, how are we to understand the specific orientations of Bernasconi's approach? Reading Bernasconi's article, I comment on the following points: (1) the notion of \u201cabsence\u201d or \u201csilence\u201d about slavery, (2) Bernasconi's focus on methodology rather than individual moral or political responsibility, and (3) his shift away from canonical philosophical figures. To conclude, I open further questions regarding the relationships between the \u201cmaterial\u201d approach to the history of philosophy he advocates in this article and the project of a \u201ccritical philosophy of race\u201d he has defended elsewhere.",
+      "citationCount": 0,
+      "doi": "10.1111/sjp.12584",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fb6e4bab608cf51f02ee57c85558c700f0dbb268",
+      "venue": "The Southern Journal of Philosophy",
+      "journal": {
+        "name": "The Southern Journal of Philosophy"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "fb6e4bab608cf51f02ee57c85558c700f0dbb268"
+    }
+  ],
+  "count": 5,
+  "errors": []
+}

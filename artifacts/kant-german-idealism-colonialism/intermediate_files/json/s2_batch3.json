@@ -1,0 +1,107 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 4 paper(s)...
+[s2_batch.py] Processing 4 responses...
+[s2_batch.py] Found 4 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "4 paper IDs",
+  "results": [
+    {
+      "paperId": "b5f0648e243150bc00f67a51a45a4bf0124f66c1",
+      "title": "The Promise and Limit of Kant\u2019s Theory of Justice: On Race, Gender and the Structural Domination of Labourers",
+      "authors": [
+        {
+          "name": "Elvira Basevich",
+          "authorId": "8055084"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Abstract This article applies Charles W. Mills\u2019 notion of the domination contract to develop a Kantian theory of justice. The concept of domination underlying the domination contract is best understood as structural domination, which unjustifiably authorizes institutions and labour practices to weaken vulnerable groups\u2019 public standing as free, equal and independent citizens. Though Kant\u2019s theory of justice captures why structural domination of any kind contradicts the requirements of justice, it neglects to condemn exploitive gender- and race-based labour relations. Because the ideal of civic equality must position all persons as co-legislators of the terms of political rule, the state must dismantle exploitive race- and gender-based labour relations for all persons to command political power as civic equals.",
+      "citationCount": 8,
+      "doi": "10.1017/S1369415422000292",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b5f0648e243150bc00f67a51a45a4bf0124f66c1",
+      "venue": "Kantian Review",
+      "journal": {
+        "name": "Kantian Review",
+        "pages": "541 - 555",
+        "volume": "27"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1017/S1369415422000292"
+    },
+    {
+      "paperId": "4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
+      "title": "KANT'S SECOND THOUGHTS ON RACE",
+      "authors": [
+        {
+          "name": "P. Kleingeld",
+          "authorId": "35001952"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 208,
+      "doi": "10.1111/J.1467-9213.2007.498.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4ce73938d1351b1eaa998c3b85efbf7d3e756f8d",
+      "venue": "",
+      "journal": {
+        "name": "The Philosophical Quarterly",
+        "pages": "573-592",
+        "volume": "57"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1111/J.1467-9213.2007.498.X"
+    },
+    {
+      "paperId": "23ee12ddf519dcca34426445a7758821cb527ed4",
+      "title": "Antinomies of race: diversity and destiny in Kant",
+      "authors": [
+        {
+          "name": "M. Larrimore",
+          "authorId": "14010664"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 68,
+      "doi": "10.1080/00313220802377313",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/23ee12ddf519dcca34426445a7758821cb527ed4",
+      "venue": "",
+      "journal": {
+        "name": "Patterns of Prejudice",
+        "pages": "341 - 363",
+        "volume": "42"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1080/00313220802377313"
+    },
+    {
+      "paperId": "73c280df58181828c6116cbd2c7ad4c5b79a65f0",
+      "title": "Reckoning With Kant on Race*",
+      "authors": [
+        {
+          "name": "Elvira Basevich",
+          "authorId": "8055084"
+        }
+      ],
+      "year": 2020,
+      "abstract": "This essay develops Kant\u2019s theory of reform to theorize racial justice reform. I assess the function of Kant\u2019s philosophy of race as part of his nonideal theory of justice, which offers a racist pragmatic anthropology that uses the concept of race to determine the practical effectiveness of legislative reason. His philosophy of race defends a teleological account of the natural history of the human species to fulfill the requirements of justice and assumes that certain racial groups have failed to develop their innate capacity for legislative reason. I show that we need an alternative Kantian nonideal theory of justice that demonstrates how legislative reason actualizes practical freedom. Rather than appeal to anthropology, I expand Kant\u2019s model of public reason to advance racial justice reform under the conditions of partial compliance to the requirements of justice in a profoundly nonideal republic such as the U.S. I then showcase the promise\u2014and limits\u2014of the a priori ideals of citizenship and publicity for racial justice reform and introduce the new ideal of interracial civic fellowship to guide the public use of reason in nonideal circumstances.",
+      "citationCount": 18,
+      "doi": "10.1111/phil.12263",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/73c280df58181828c6116cbd2c7ad4c5b79a65f0",
+      "venue": "The Philosophy forum",
+      "journal": {
+        "name": "The Philosophical Forum"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1111/phil.12263"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

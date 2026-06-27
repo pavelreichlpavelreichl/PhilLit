@@ -1,0 +1,137 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 5 paper(s)...
+[s2_batch.py] Processing 5 responses...
+[s2_batch.py] Found 5 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "5 paper IDs",
+  "results": [
+    {
+      "paperId": "959907824efcc6647c62b24194696ecce9bd3a5e",
+      "title": "Kant\u2019s Racism",
+      "authors": [
+        {
+          "name": "Lucy Allais",
+          "authorId": "39318722"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 57,
+      "doi": "10.1080/05568641.2016.1199170",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/959907824efcc6647c62b24194696ecce9bd3a5e",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Papers",
+        "pages": "1 - 36",
+        "volume": "45"
+      },
+      "publicationTypes": null,
+      "_queryId": "959907824efcc6647c62b24194696ecce9bd3a5e"
+    },
+    {
+      "paperId": "a0422885f88d7909f929b557ad225e074c2dd7a3",
+      "title": "Kant\u2019s Racism and the Historiography of Philosophy",
+      "authors": [
+        {
+          "name": "Daniel J. Smith",
+          "authorId": "2256958262"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract:This article reads chapter 6 of Huaping Lu-Adler\u2019s Kant, Race, and Racism as a contribution to the contemporary debate about racism and the philosophical canon that began with Peter Park\u2019s Africa, Asia, and the History of Philosophy. Lu-Adler adds to Park\u2019s narrative a detailed analysis of the link between racism and the historiography of philosophy in Kant\u2019s own work, not just in his followers or those who influenced him. By doing so, this article argues, Lu-Adler enables critical philosophers of race to tell a new version of the story about racism in the history of philosophy that preserves the main conclusions drawn by Park, without having to rest so much of the case on an argument about the influence of Christoph Meiners. The second part raises two problems for Lu-Adler\u2019s account, the first relating to the question of methodology and the role of pre-Kantian historian of philosophy Jacob Brucker, and the second relating to Lu-Adler\u2019s account of Kant as an educator who contributed to racist ideology.",
+      "citationCount": 0,
+      "doi": "10.5325/critphilrace.13.2.0303",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a0422885f88d7909f929b557ad225e074c2dd7a3",
+      "venue": "Critical Philosophy of Race",
+      "journal": {
+        "name": "Critical Philosophy of Race",
+        "pages": "303 - 333",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "a0422885f88d7909f929b557ad225e074c2dd7a3"
+    },
+    {
+      "paperId": "20ee493d59bb63ffbc9852f7c50c7e94a87ef956",
+      "title": "Robert Bernasconi and the challenges of a Critical Philosophy of Race: (Un)learning to read and teach the history of moral philosophy",
+      "authors": [
+        {
+          "name": "Benjamin D\u00e9carie-Daigneault",
+          "authorId": "2340482343"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This essay is an attempt to determine what Robert Bernasconi\u2019s body of work in Critical Philosophy of Race can teach us about the way in which we, philosophers and professors of philosophy, ought to treat our institutional heritage. What should we make, for instance, of moral claims made by philosophers of the modern era who \u2013 tacitly or explicitly \u2013 manifested certain levels of endorsement toward the Atlantic Slave Trade? How should we comprehend the conceptual tools that we have inherited from them, knowing that those were formulated alongside justificatory claims for the enslavement of Africans \u2013 claims that we now deem undoubtably and universally immoral? I extract from Bernasconi\u2019s writings an implicit methodology that can be broken down into three main moves: (1) a historiographical work, akin to Michel Foucault\u2019s \u2018archaeological\u2019 method, aimed at uncovering the material conditions that allowed for the emergence of philosophical ideas of the past, (2) a dialectical work aimed at interpreting this collection of historical data through the critical lens of race, and (3) a pedagogical work aimed at transforming the practice of academic philosophy in light of the critique. I conclude that his methodological contribution culminates in an invitation to revisit and transform the past of the institution by treating the history of academic philosophy as philosophically and conceptually relevant rather than merely incidental. Such a commitment toward critically engaging the past of our institution urges us to revisit the canon in specific ways.",
+      "citationCount": 0,
+      "doi": "10.1177/01914537241284546",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20ee493d59bb63ffbc9852f7c50c7e94a87ef956",
+      "venue": "Philosophy & Social Criticism",
+      "journal": {
+        "name": "Philosophy & Social Criticism",
+        "pages": "324 - 343",
+        "volume": "51"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "20ee493d59bb63ffbc9852f7c50c7e94a87ef956"
+    },
+    {
+      "paperId": "c6ddca0c9cb647cdc9a454c1e21c10f8bff386a6",
+      "title": "Race, Culture, and the Horizons of Agency: Kant\u2019s Racism, Systematically Understood",
+      "authors": [
+        {
+          "name": "M. McNulty",
+          "authorId": "145678859"
+        }
+      ],
+      "year": 2025,
+      "abstract": "\n Readers should be aware that content about Kant\u2019s racism may be difficult and distressing to read. In various texts, Kant makes statements alleging that Indigenous Americans have \u2018no culture\u2019 and Black people possess only the \u2018culture of slaves\u2019. These are straightforwardly repugnant commitments. In order to address the role of Kant\u2019s account of \u2018culture\u2019 in his racism and provide additional support to Charles Mills\u2019 \u2018Untermensch (subhuman) interpretation\u2019 of Kant\u2019s views on race, this article situates Kant\u2019s comments on \u2018racialized cultures\u2019 within his teleological account of human history. In his system, \u2018culture\u2019 refers to the possession of developed capacities to achieve the ends that one sets for oneself. He sees achievement of culture as part of the development of human beings into members of a socialized, moral kingdom. Given his understanding of culture, I argue that Kant\u2019s remarks on the cultural limitations of persons of color commit him to the further claims that Indigenous Americans and Black people are incapable of setting their own ends and that these deficiencies are hereditary and permanent. For Kant, this has the consequence that these individuals do not possess genuine moral worth in his system, thus supporting Mills\u2019 Untermensch interpretation of Kant\u2019s views on race.",
+      "citationCount": 2,
+      "doi": "10.1017/apa.2024.22",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c6ddca0c9cb647cdc9a454c1e21c10f8bff386a6",
+      "venue": "Journal of the American Philosophical Association",
+      "journal": {
+        "name": "Journal of the American Philosophical Association"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "c6ddca0c9cb647cdc9a454c1e21c10f8bff386a6"
+    },
+    {
+      "paperId": "0bcada6174075eb965e7be763e2913091474f2d7",
+      "title": "Kant's Racism as a Philosophical Problem",
+      "authors": [
+        {
+          "name": "Laurenz Ramsauer",
+          "authorId": "2222481247"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Immanuel Kant was possibly both the most influential racist and the most influential moral philosopher of modern, Western thought. So far, authors have either interpreted Kant as an \u201cinconsistent egalitarian\u201d or as a \u201cconsistent inegalitarian.\u201d On the former view, Kant failed to draw the necessary conclusions about persons from his own moral philosophy; on the latter view, Kant did not consider non\u2010White people as persons at all. However, both standard interpretations face significant textual difficulties; instead, I argue that Kant's moral egalitarianism is so thin as to remain almost entirely useless as an antidote to racism.",
+      "citationCount": 8,
+      "doi": "10.1111/papq.12444",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0bcada6174075eb965e7be763e2913091474f2d7",
+      "venue": "Pacific Philosophical Quarterly",
+      "journal": {
+        "name": "Pacific Philosophical Quarterly"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "0bcada6174075eb965e7be763e2913091474f2d7"
+    }
+  ],
+  "count": 5,
+  "errors": []
+}
