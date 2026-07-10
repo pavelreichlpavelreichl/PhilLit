@@ -9,7 +9,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains sequentially
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections sequentially
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -27,10 +27,12 @@
 
 [2026-07-10] Phase 3: All 7 domains researched sequentially (Sonnet domain-literature-researcher). Papers found: D1=19, D2=18, D3=15, D4=19, D5=17, D6=15, D7=19 (122 total pre-dedup). Several agents caught and corrected false-positive NDPR/OpenAlex abstract mismatches during enrichment; INCOMPLETE entries flagged for synthesis exclusion per convention. No fatal source issues; OpenAlex/CORE intermittently rate-limited but degraded gracefully.
 
+[2026-07-10] Phase 4: synthesis-planner (Opus) produced synthesis-outline.md: Introduction + 7 sections + Conclusion, 21 subsections, ~70 distinct works, target 6000-8000 words.
+
 ## Current Task
 
-Phase 4: Outlining synthesis review across domains (Opus synthesis-planner).
+Phase 5: Writing 9 sections sequentially (Sonnet synthesis-writer): Introduction, Sections 1-7, Conclusion.
 
 ## Next Steps
 
-1. Invoke synthesis-planner (Opus) to read all 7 .bib files and produce synthesis-outline.md.
+1. Invoke synthesis-writer (Sonnet) for Introduction (synthesis-section-1.md), wait, then Section 1 (synthesis-section-2.md), ... through Conclusion (synthesis-section-9.md), sequentially.
