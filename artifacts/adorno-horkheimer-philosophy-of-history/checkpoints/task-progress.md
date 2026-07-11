@@ -11,7 +11,7 @@
 - [x] Phase 3: Research domains sequentially
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections sequentially
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Execution overrides for this run
 
@@ -31,10 +31,9 @@
 
 [2026-07-10] Phase 5: All 9 sections written sequentially (Sonnet synthesis-writer). Total ~10,095 words (above 6000-8000 target, retained per Comprehensive priority given 7-domain breadth). Files: synthesis-section-1.md (Intro) through synthesis-section-9.md (Conclusion).
 
-## Current Task
+[2026-07-11] Phase 6: Assembled 9 sections into literature-review-final.md (assemble_review.py), fixed one year-citation inconsistency (Horkheimer/Adorno DoE: bib year field CrossRef-verified as 2020, standardized in-text citations to match), normalized 24 headings (normalize_headings.py), deduped bibliography 122->119 entries (dedupe_bib.py), generated References section matching 116/119 entries to in-text citations (generate_bibliography.py), linted clean (lint_md.py, exit 0). Pandoc not installed, DOCX skipped. Final deliverables copied to artifacts/adorno-horkheimer-philosophy-of-history/: literature-review-final.md, literature-all.bib. Intermediate files archived under reviews/adorno-horkheimer-philosophy-of-history/intermediate_files/ (gitignored scratch).
 
-Phase 6: Assembling final review, deduping bibliography, generating references, linting, and publishing to artifacts/.
+## WORKFLOW COMPLETE
 
-## Next Steps
-
-1. Run assemble_review.py, normalize_headings.py, dedupe_bib.py, generate_bibliography.py, lint_md.py in reviews/adorno-horkheimer-philosophy-of-history/, then copy final deliverables (literature-review-final.md, literature-review-final.docx, literature-all.bib) to artifacts/adorno-horkheimer-philosophy-of-history/, clean up intermediates, commit and push.
+Final review: artifacts/adorno-horkheimer-philosophy-of-history/literature-review-final.md (~10,100 words, 9 sections, 116 cited references)
+Bibliography: artifacts/adorno-horkheimer-philosophy-of-history/literature-all.bib (119 entries)
