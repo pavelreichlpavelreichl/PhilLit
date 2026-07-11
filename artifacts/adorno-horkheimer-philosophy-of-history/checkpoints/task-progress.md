@@ -10,7 +10,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains sequentially
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review sections sequentially
+- [x] Phase 5: Write review sections sequentially
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Execution overrides for this run
@@ -29,10 +29,12 @@
 
 [2026-07-10] Phase 4: synthesis-planner (Opus) produced synthesis-outline.md: Introduction + 7 sections + Conclusion, 21 subsections, ~70 distinct works, target 6000-8000 words.
 
+[2026-07-10] Phase 5: All 9 sections written sequentially (Sonnet synthesis-writer). Total ~10,095 words (above 6000-8000 target, retained per Comprehensive priority given 7-domain breadth). Files: synthesis-section-1.md (Intro) through synthesis-section-9.md (Conclusion).
+
 ## Current Task
 
-Phase 5: Writing 9 sections sequentially (Sonnet synthesis-writer): Introduction, Sections 1-7, Conclusion.
+Phase 6: Assembling final review, deduping bibliography, generating references, linting, and publishing to artifacts/.
 
 ## Next Steps
 
-1. Invoke synthesis-writer (Sonnet) for Introduction (synthesis-section-1.md), wait, then Section 1 (synthesis-section-2.md), ... through Conclusion (synthesis-section-9.md), sequentially.
+1. Run assemble_review.py, normalize_headings.py, dedupe_bib.py, generate_bibliography.py, lint_md.py in reviews/adorno-horkheimer-philosophy-of-history/, then copy final deliverables (literature-review-final.md, literature-review-final.docx, literature-all.bib) to artifacts/adorno-horkheimer-philosophy-of-history/, clean up intermediates, commit and push.
