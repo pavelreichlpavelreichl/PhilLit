@@ -237,8 +237,6 @@ The literature surveyed also displays identifiable gaps. A systematic realist/an
 
 This review has aimed to supply a synthetic, debate-centered map of this terrain: one that reconstructs Foucault's own historiographical practice before staging the controversies it has generated, neither assimilating his work wholesale to analytic or narrativist philosophy of history nor treating his historiography as exempt from the critical assessment historians and philosophers alike have brought to it.
 
-**Word count**: 596
-
 ## References
 
 Alford, C. Fred. 2000. "What Would It Matter if Everything Foucault Said About Prison Were Wrong? Discipline and Punish After Twenty Years." *Theory and Society*. https://doi.org/10.1023/A:1007014831641
