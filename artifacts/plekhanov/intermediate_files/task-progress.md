@@ -18,7 +18,7 @@
 - [x] Phase 3: Research domains (sequential)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (sequential)
-- [ ] Phase 6: Assemble final review files
+- [x] Phase 6: Assemble final review files
 
 ## Completed Tasks
 
@@ -35,17 +35,11 @@ Phase 3 COMPLETE: all 6 domain bibliographies produced (raw totals 19+18+12+11+1
 
 [2026-07-16] Phase 5 COMPLETE: synthesis-writer (Sonnet), sequential, all 7 sections written — Introduction (~540w), Philosophy of History core (~1850w), Foundations (~1080w), Aesthetics (~790w), Political Trajectory (~910w), Influence & Historiographical Verdict (~1440w), Conclusion (~540w). Total ~7150 words. All INCOMPLETE-entry citations handled per note-field-only discipline.
 
-## Current Task
+[2026-07-16] Phase 6 COMPLETE: assembled literature-review-final.md (7 sections + YAML frontmatter), normalized headings, deduplicated bibliography (6 domain files -> literature-all.bib, 84 unique entries after removing 6 duplicates/DOI-collisions), generated Chicago author-date References section (66/78 entries matched as cited), linted clean (0 issues), moved all intermediate files to intermediate_files/. Pandoc not installed — DOCX conversion skipped. Final review: ~9000 words including references.
 
-Starting Phase 6: assemble final review (frontmatter, heading normalization, bib dedup, bibliography generation, lint, cleanup)
+## WORKFLOW COMPLETE
 
-## Next Steps
-
-1. assemble_review.py -> literature-review-final.md
-2. normalize_headings.py
-3. dedupe_bib.py -> literature-all.bib
-4. generate_bibliography.py
-5. lint_md.py
-6. Move intermediate files, remove active-review pointer (n/a here — using artifacts/ not reviews/)
-7. Optional DOCX conversion
-8. Final commit+push
+Final deliverables in artifacts/plekhanov/:
+- literature-review-final.md
+- literature-all.bib
+- intermediate_files/ (plan, outline, domain bibs, section drafts, JSON search cache, this file)
