@@ -17,7 +17,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequential)
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review sections (sequential)
+- [x] Phase 5: Write review sections (sequential)
 - [ ] Phase 6: Assemble final review files
 
 ## Completed Tasks
@@ -33,11 +33,19 @@
 Phase 3 COMPLETE: all 6 domain bibliographies produced (raw totals 19+18+12+11+15+15 entries across files, pre-dedup).
 [2026-07-16] Phase 4 COMPLETE: synthesis-planner (Opus) produced synthesis-outline.md — Introduction + 5 thematic sections (Philosophy of History [core, 1600-2000w], Foundations, Aesthetics, Politics, Influence & Historiographical Verdict) + Conclusion. ~60 unique papers, target 5000-6500 words.
 
+[2026-07-16] Phase 5 COMPLETE: synthesis-writer (Sonnet), sequential, all 7 sections written — Introduction (~540w), Philosophy of History core (~1850w), Foundations (~1080w), Aesthetics (~790w), Political Trajectory (~910w), Influence & Historiographical Verdict (~1440w), Conclusion (~540w). Total ~7150 words. All INCOMPLETE-entry citations handled per note-field-only discipline.
+
 ## Current Task
 
-Starting Phase 5: synthesis-writer (Sonnet), sequential, section 1 of 7 (Introduction)
+Starting Phase 6: assemble final review (frontmatter, heading normalization, bib dedup, bibliography generation, lint, cleanup)
 
 ## Next Steps
 
-1. Write sections sequentially in order: Introduction, Section 1 (Philosophy of History), Section 2 (Foundations), Section 3 (Aesthetics), Section 4 (Politics), Section 5 (Influence/Verdict), Conclusion. Commit+push after each.
-2. Phase 6: assemble, dedupe bib, generate bibliography, lint, cleanup
+1. assemble_review.py -> literature-review-final.md
+2. normalize_headings.py
+3. dedupe_bib.py -> literature-all.bib
+4. generate_bibliography.py
+5. lint_md.py
+6. Move intermediate files, remove active-review pointer (n/a here — using artifacts/ not reviews/)
+7. Optional DOCX conversion
+8. Final commit+push
