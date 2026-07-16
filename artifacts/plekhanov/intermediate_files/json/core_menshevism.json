@@ -1,0 +1,16 @@
+[search_core.py] Searching CORE: 'Plekhanov Menshevism Lenin split' (year=2000-2025), limit=20
+[search_core.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "core",
+  "query": "Plekhanov Menshevism Lenin split",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

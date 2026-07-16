@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov World War defencism patriotism' (year=1980-2025), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_696122b4d12246d4)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov World War defencism patriotism",
+  "results": [
+    {
+      "paperId": "fca1ffccf249c2e7d6536b570fb5fca20079dd45",
+      "title": "BULLETIN OF THE HEGEL SOCIETY OF GREAT BRITAIN",
+      "authors": [
+        {
+          "name": "S. Sayers",
+          "authorId": "2325257302"
+        }
+      ],
+      "year": 1996,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/S0263523200005863",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fca1ffccf249c2e7d6536b570fb5fca20079dd45",
+      "venue": "Bulletin of the Hegel Society of Great Britain",
+      "journal": {
+        "name": "Bulletin of the Hegel Society of Great Britain",
+        "pages": "72 - 76",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

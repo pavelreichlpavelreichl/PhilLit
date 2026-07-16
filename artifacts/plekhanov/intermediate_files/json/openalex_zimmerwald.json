@@ -1,0 +1,44 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Zimmerwald defencism' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 1 papers...
+[search_openalex.py] Search complete: 1 papers found
+[search_openalex.py] Cached results (cache key: openalex_c7f24602b4ef2e67)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Zimmerwald defencism",
+  "results": [
+    {
+      "openalex_id": "W2591515907",
+      "doi": null,
+      "title": "Lev Kamenev : a case study in 'Bolshevik Centrism'",
+      "authors": [
+        {
+          "name": "Nicholas W. Coombs",
+          "openalex_id": "A5015881922"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-01",
+      "abstract": "This dissertation challenges the view that Lev Kamenev lacked a clear socialist vision and had no discernible objectives. It contends that Kamenev had an ideological line and political goals shaped by Ferdinand Lassalle. Kamenev adopted Lassalle\u2019s desire for a democratic socialist republic and his method to achieve end aims. Through dialogical discourse Kamenev aimed to gain allies by overcoming differences by focusing on points of agreement. This was his \u2018Bolshevik Centrism\u2019. Ideologically, Kamenev absorbed Lassalle\u2019s concept of the \u2018Fourth Estate\u2019, which mandated proletarian culture first predominate in society before revolution could occur. This helps explain his opposition to revolution in 1905 and 1917, and sheds light on his assessment in the early 1920s that the Bolsheviks had not founded the \u2018dictatorship of the proletariat\u2019, but the \u2018dictatorship of the party\u2019. In trying to overcome this reality he adapted Lassalle\u2019s vision for an all-encompassing selfless state and endeavoured to merge the party, the state, and the masses into one. His aspiration to win over peasants and workers placed him in a centrist position, whereby he used his authority to challenge Trotsky and Bukharin\u2019s leftist and rightist policies. However, under the one-party dictatorship his actions directly contributed to the rise of Stalin.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://etheses.bham.ac.uk//id/eprint/7154/2/Coombs17PhD.pdf"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2591515907"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

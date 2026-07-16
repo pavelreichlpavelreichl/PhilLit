@@ -1,0 +1,242 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Menshevism', limit=20
+[search_philpapers.py] Retrieved 18 entries...
+[search_philpapers.py] Search complete: 18 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Menshevism",
+  "results": [
+    {
+      "title": "Lars T. Lih, Lenin Disputed",
+      "url": "https://philpapers.org/rec/LIHLD",
+      "philpapers_id": "LIHLD",
+      "snippet": "Kautsky Trotsky Menshevism Bolshevism Lenin \u00b7 10.1163/156920610x533315 \u00b7 No versions found \u00b7 Upload a copy of this work Papers currently archived: 110,200 \u00b7",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Lars T. Lih"
+        }
+      ],
+      "extra_snippets": [
+        "Kautsky Trotsky Menshevism Bolshevism Lenin \u00b7 10.1163/156920610x533315 \u00b7 No versions found \u00b7 Upload a copy of this work Papers currently archived: 110,200 \u00b7"
+      ]
+    },
+    {
+      "title": "James W. Messerschmidt & R. W. Connell, Hegemonic Masculinity: Rethinking the Concept",
+      "url": "https://philpapers.org/rec/MESHMR",
+      "philpapers_id": "MESHMR",
+      "snippet": "The concept of hegemonic masculinity has influenced gender studies across many academic fields but has also attracted serious criticism. The authors trace the origin of the concept in a convergence of ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James W. Messerschmidt"
+        },
+        {
+          "type": "person",
+          "name": "R. W. Connell"
+        }
+      ]
+    },
+    {
+      "title": "Aaron Segal, Materialism and Mental Manyism",
+      "url": "https://philpapers.org/rec/SEGMAM-2",
+      "philpapers_id": "SEGMAM",
+      "snippet": "The Mental Problem of the Many suggests that Materialism implies Mental Manyism: if human beings are material objects, then there are millions of conscious human subjects wherever we thought there was ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Aaron Segal"
+        }
+      ]
+    },
+    {
+      "title": "James Mensch, Senseless Violence: Liminality and Intertwining",
+      "url": "https://philpapers.org/rec/MENSVL",
+      "philpapers_id": "MENSVL",
+      "snippet": "The claim of this article is that the perpetrators of violence are \u201climinal\u201d figures, being inside and yet outside of the world in which they act. It is this liminality, this ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Mensch"
+        }
+      ]
+    },
+    {
+      "title": "James Mensch, Violence and the return of the religious",
+      "url": "https://philpapers.org/rec/MENVAT",
+      "philpapers_id": "MENVAT",
+      "snippet": "Ren\u00e9 Girard speaks of the return of the religious as a \u201creturn of the sacred\u2026 in the form of violence.\u201d This violence was inherent in the original \u201csacrificial system,\u201d which deflected ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Mensch"
+        }
+      ]
+    },
+    {
+      "title": "Riccardo Manzotti, Na\u00efve materialism",
+      "url": "https://philpapers.org/rec/MANNMT",
+      "philpapers_id": "MANNMT",
+      "snippet": "This entry is not categorized. Edit the containing monograph to categorize the entire monograph \u00b7 No references found",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Riccardo Manzotti"
+        }
+      ]
+    },
+    {
+      "title": "Sangeetha Menon, The selfish meme & the selfless ATMA",
+      "url": "https://philpapers.org/rec/MENTSM",
+      "philpapers_id": "MENTSM",
+      "snippet": "Abstract The word \u2018meme\u2019 was first used by Richard Dawkins (Dawkins, 1976)1 in the sense of a replicator to introduce the idea of cultural transmission through the process of imitation, just ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Sangeetha Menon"
+        }
+      ]
+    },
+    {
+      "title": "James R. Mensch, Intersubjectivity and Transcendental Idealism",
+      "url": "https://philpapers.org/rec/MENIAT",
+      "philpapers_id": "MENIAT",
+      "snippet": "This book offers new answers to this persistent philosophical question by defining the question in specifically Husserlian terms and by means of a careful examination of Husserl\u2019s later texts, including the ...",
+      "page_age": null
+    },
+    {
+      "title": "James Mensch, Confronting the Janus Head",
+      "url": "https://philpapers.org/rec/MENCTJ",
+      "philpapers_id": "MENCTJ",
+      "snippet": "If post-modern philosophy has a spiritual father, this is surely Nietzsche. The great revival of interest in his thought parallels our period\u2019s discomfort with foundational, \u201cmetaphysical\u201d thinking. He appeals to our ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Mensch"
+        }
+      ]
+    },
+    {
+      "title": "Michael A. Messner, The Limits of \u201cThe Male Sex Role\u201d: An Analysis of the Men's Liberation and Men's Rights Movements' Discourse",
+      "url": "https://philpapers.org/rec/MESTLO-2",
+      "philpapers_id": "MESTLO",
+      "snippet": "Some feminists have seen sex role theory as limited, even dangerous; others see it as useful mid-range theory. This article sheds light on this debate through an examination of the discourse ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Michael A. Messner"
+        }
+      ]
+    },
+    {
+      "title": "Demetrakis Z. Demetriou, Connell's concept of hegemonic masculinity: A critique",
+      "url": "https://philpapers.org/rec/DEMCCO",
+      "philpapers_id": "DEMCCO",
+      "snippet": "View all 11 citations / Add more citations \u00b7 View all 10 references / Add more references",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Demetrakis Z. Demetriou"
+        }
+      ]
+    },
+    {
+      "title": "Gideon Yaffe, The Point of Mens Rea: The Case of Willful Ignorance",
+      "url": "https://philpapers.org/rec/YAFTPO",
+      "philpapers_id": "YAFTPO",
+      "snippet": "Under the \u201cWillful Ignorance Principle,\u201d a defendant is guilty of a crime requiring knowledge he lacks provided he is ignorant thanks to having earlier omitted inquiry. In this paper, I offer ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gideon Yaffe"
+        }
+      ]
+    },
+    {
+      "title": "James Mensch, Manifestation and the paradox of subjectivity",
+      "url": "https://philpapers.org/rec/MENMAT",
+      "philpapers_id": "MENMAT",
+      "snippet": "The question of who we are is a perennial one in philosophy. It is particularly acute in transcendental philosophy with its focus on the subject. In its attempt to see in ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Mensch"
+        }
+      ]
+    },
+    {
+      "title": "Karl A. Menninger, Man against Himself",
+      "url": "https://philpapers.org/rec/MENMAH-2",
+      "philpapers_id": "MENMAH",
+      "snippet": "View all 28 citations / Add more citations \u00b7 No references found",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Karl A. Menninger"
+        }
+      ]
+    },
+    {
+      "title": "Christoph Menke, Hegel\u2019s Theory of Liberation",
+      "url": "https://philpapers.org/rec/MENHTO-6",
+      "philpapers_id": "MENHTO",
+      "snippet": "The freedom of spirit, Hegel claims, consists in \u201cthe emancipation of spirit from all those forms of being that do not conform to its concepts.\u201d That is, freedom must be understood ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Christoph Menke"
+        }
+      ]
+    },
+    {
+      "title": "James Mensch, The Hermeneutics of Fundamentalism",
+      "url": "https://philpapers.org/rec/MENTHO",
+      "philpapers_id": "MENTHO",
+      "snippet": "No one can turn on the news these days without hearing of fundamentalism. Christian fundamentalists form the fastest growing sect in the United States and are arguably the most politically potent. ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Mensch"
+        }
+      ]
+    },
+    {
+      "title": "PhilPapers: Online Research in Philosophy",
+      "url": "https://philpapers.org/rec/MENSOK",
+      "philpapers_id": "MENSOK",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": null
+    },
+    {
+      "title": "James Richard Mensch, Embodiment",
+      "url": "https://philpapers.org/rec/MENEJM",
+      "philpapers_id": "MENEJM",
+      "snippet": "One of the most commented upon passages of Husserl\u2019s Crisis involves what he calls \u201cThe paradox of human subjectivity.\u201d This involves our \u201cbeing a subject for the world and at the ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Richard Mensch"
+        }
+      ]
+    }
+  ],
+  "count": 18,
+  "errors": []
+}

@@ -1,0 +1,954 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Menshevism' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_c17b6e19a5ccf322)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Menshevism",
+  "results": [
+    {
+      "openalex_id": "W657005577",
+      "doi": null,
+      "title": "The Russian Social-Democratic Labour Party, 1899-1904: Documents of the 'Economist' Opposition to Iskra and Early Menshevism",
+      "authors": [
+        {
+          "name": "PH D Richard Mullin",
+          "openalex_id": "A5007473315"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-09",
+      "abstract": "Contents Acknowledgements Notes on Names and Dates Preface Introduction 1. Programme of Rabochee Delo 2. Review of Lenin's Tasks of the Social Democrats, Rabochee Delo No. 1 3. Announcement in Rabochee Delo No. 5 4. Plekhanov's Vademecum for the Editorial Board of Rabochee Delo and Editorial Comments on the Protest of the 17 in Rabochee Delo No. 4 5. Documents of the April 1900 RSDLP Congress Attempt 6. Boris Krichevskii, 'Economics and Politics in the Russian Workers' Movement', Rabochee Delo No. 7 7. 'A Historic Turn', Listok Rabochee Delo No. 6 8. Resolution of an Emigre RSDLP Conference, June 1901, Geneva 9. Boris Krichevskii, 'Principles, Tactics and Struggle', Rabochee Delo No. 1 10. Alexander Martynov, 'Exposure Literature and Proletarian Struggle', Rabochee Delo No. 10 11. Constitution of the 'Russian Iskra Organisation' 12. Letters from Iulii Martov to the London Section of the Editorial board of Iskra 13. Report of the Fourth Congress of the Bund 14. Articles from Poslednie Izvestiia 15. Letter of Ekaterina Alexandrova to Lenin, Krupskaya and Martov 16. Pavlovich, Letter to Comrades about the Second RSDLP Congress 17. Resolution of the Second RSDLP Congress 'Minority' 18. Iulii Martov, The Struggle with the 'State of Siege' in the RSDLP 19. Georgii Plekhanov, 'What is Not to Be Done', Iskra No. 52 20. Georgii Plekhanov, 'Something on Economism and Economists', Iskra No. 53 21. Letter from the Urals and Plekhanov's 'Centralism or Bonapartism', Iskra No 63 & No. 65 22. Georgii Plekhanov, 'The Working Class and the Social-Democratic Intelligentsia', Iskra No. 70 & 71 Conclusions Bibliography Index",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W657005577"
+    },
+    {
+      "openalex_id": "W4224224739",
+      "doi": "10.1007/s11212-022-09474-1",
+      "title": "Soviet Spinoza: introduction",
+      "authors": [
+        {
+          "name": "\u0412\u0435\u0441\u0430 \u041e\u0439\u0442\u0442\u0438\u043d\u0435\u043d",
+          "openalex_id": "A5056209509",
+          "orcid": "https://orcid.org/0000-0002-1022-9912",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-04-20",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-022-09474-1.pdf"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Political theory and Gramsci",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4224224739"
+    },
+    {
+      "openalex_id": "W2038472810",
+      "doi": "10.1080/09546545.2013.787807",
+      "title": "Georgii Plekhanov and the Communist Manifesto: the Proletarian Revolution Revisited",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "Russian State Agrarian Correspondence University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-01",
+      "abstract": "This article discusses the question of Georgii Plekhanov's contributions to Marxist revolutionary strategy. It argues that the strategy Plekhanov proposed in Our Differences (1885) was very different from the one he had earlier proposed in Socialism and Political Struggle (1883). Plekhanov pretended to model his Russian policies on the Communist Manifesto's policies for Germany in the mid-nineteenth century. However, in proposing that Russia's democratic revolution was to be followed by a protracted period of capitalist economic development, Plekhanov was in fact taking Marxism in a new direction. Plekhanov was the first Marxist to have rejected Marx's scenario of social revolution by numerically small proletariats and to have predicated the proletarian revolution on the proletarianisation of the majority of the population and integral industrialisation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revolutionary Russia",
+        "type": "journal",
+        "issn": [
+          "0954-6545",
+          "1743-7873"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/georgii-plekhanov-and-the-communist-manifesto-the-proletarian-revolution-revisited(aa90e6ab-11ec-4ba4-8008-970c19e649c0).html"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Institutions",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2038472810"
+    },
+    {
+      "openalex_id": "W4319746594",
+      "doi": "10.26907/2541-7738.2022.6.221-228",
+      "title": "Julius Martov (1873\u20131923) and Modern Russian Historiography",
+      "authors": [
+        {
+          "name": "A.A. Salnikova",
+          "openalex_id": "A5033469610",
+          "institutions": [
+            "Kazan Federal University"
+          ]
+        },
+        {
+          "name": "V. V. Astafiev",
+          "openalex_id": "A5052764851",
+          "institutions": [
+            "Kazan Federal University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "This article analyzes the current state of Russian historiography of the development of Menshevism in Russia. Particular attention is paid to A.L. Litvin and I.Kh. Urilov\u2019s monograph \u201cJulius Martov. A History of Life and Work. 1873\u20131923\u201d published in 2021. This is a historical and biographical study of Julius Osipovich Martov (Tsederbaum), one of the most prominent figures in the socio-political life of Russia during the late 19th\u2013the first quarter of the 20th centuries. Using a broad range of historical sources, including personal ones (such as the Ju.O. Martov Collection at the Russian State Archive of Social and Political History, Ju.O. Martov\u2019s memoirs (\u201cNotes of a Social Democrat\u201d (1924)), as well as the memoirs of his relatives, friends, colleagues, and political opponents), we managed to comprehensively cover all aspects of the life and work of Ju.O. Martov as an extraordinary person and politician, one of the strongest leaders of social democracy in Russia, and the closest associate of V.I. Lenin and G.V. Plekhanov. The approaches to studying the origins and evolution of Ju.O. Martov\u2019s views on the role played by the social democratic party in the history of Russia, his political and moral assessment of the essence and prospects of the Bolshevist regime, its influence on the struggle for a democratic future of the country were discussed. The place occupied by the monograph under consideration in modern Russian historiography of the problem was identified.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "U\u010d\u00ebnye zapiski Kazanskogo universiteta. Seri\u00e2 Gumanitarnye nauki/U\u010denye zapiski Kazanskogo gosudarstvennogo universiteta. Seri\u00e2 Gumanitarnye nauki/U\u010denye zapiski Kazanskogo universiteta. Seri\u00e2 Gumanitarnye nauki",
+        "type": "journal",
+        "issn": [
+          "1815-6126",
+          "2500-2171",
+          "2541-7738"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://kpfu.ru/portal/docs/F_1540428397/164_6_gum_17.pdf"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia",
+        "Security, Politics, and Digital Transformation"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4319746594"
+    },
+    {
+      "openalex_id": "W2038504283",
+      "doi": "10.1080/03017600902989849",
+      "title": "Praxical Sociology and the Algebra of Revolution",
+      "authors": [
+        {
+          "name": "Matt Clement",
+          "openalex_id": "A5040604193",
+          "orcid": "https://orcid.org/0000-0003-4195-3599"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-26",
+      "abstract": "The idea of praxis was explored in the 1960s, contemporaneously with the publication of an English translation of History and Class Consciousness\u2014the early writings of Hungarian Marxist Georgy Lukacs. Reminding us that Marx titled Capital Volume One \u2018The Process of Production\u2019, his dynamic, processional and revolutionary brand of Marxism inspired many would-be radicals by its contrast with the official Marxism of the Eastern Bloc (and Western European communist parties). Like Elias, his notion of social figurations going through long-term processes of change as the motor of history represented a dynamic breakthrough from the rigidities of previously held versions of necessary stages of historical development. When Lukacs wrote in the 1920s he was countering the determinism represented by the Second International Marxism of Kautsky and Plekhanov, the leading theoreticians of Western social democracy and Russian menshevism. By the 1960s and 1970s this \u2018objectivist\u2019 brand of Marxism was associated with Althusser and the structuralists. The political sense of liberation represented by the Paris uprising in May 1968 gelled with Lukacs\u2019 revolutionary \u2018subjectivism\u2019, which affirmed that the working class could make history in the dynamic process of making social change. Like his contemporary Antonio Gramsci, Lukacs was centrally involved in a revolutionary uprising in 1919, in Turin and Budapest respectively. Both sought what Lukacs called \u2018the algebra of revolution\u2019;1 1 J. Rees, The Algebra of Revolution (London: Routledge, 1998). both wrestled with the ways in which the state and its rulers hegemonised, and the tactics of the resistance; and both wrote in a style that was both suggestive whilst being open to a range of interpretations. Ninety years on, this article explores the extent to which these two \u2018Western Marxists\u2019 agree, and still provide relevant insight, and how linked ideologies from contemporaries such as Mannheim and Elias2 2 R. Kilminster, Praxis and Method (London: Routledge, 1979). \u2014and later, Wacquant\u2014have further developed \u2018praxical\u2019 sociology.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Sociology and Norbert Elias",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2038504283"
+    },
+    {
+      "openalex_id": "W2492268361",
+      "doi": "10.1007/978-1-349-20112-9_8",
+      "title": "The Political Economy of Plekhanov",
+      "authors": [
+        {
+          "name": "Michael Howard",
+          "openalex_id": "A5001571624",
+          "orcid": "https://orcid.org/0000-0002-6793-3134"
+        },
+        {
+          "name": "J. E. King",
+          "openalex_id": "A5058446084",
+          "orcid": "https://orcid.org/0000-0003-3942-1139",
+          "institutions": [
+            "La Trobe University"
+          ]
+        }
+      ],
+      "publication_year": 1989,
+      "publication_date": "1989-01-01",
+      "abstract": "About 1880, as the \u2018Late Marx\u2019 was emerging, the young Plekhanov was moving in an exactly contrary direction. He broke with his populist past, embraced a Marxism which incorporated central themes of the mature Marx, and began the process by which his ideas subsequently attained dominance in Russian revolutionary circles. The fact that he knew Marx\u2019s own views on Russia to diverge from his own,1 and that he received scant encouragement from Engels or other leaders of Marxism for many years after Marx\u2019s death,2 speaks for his intellectual confidence. Plekhanov\u2019s theoretical abilities are attested by the fact that the general parameters of his system dominated Russian Marxism for over three decades. Menshevism was based firmly upon his Marxism, and none of its theorists ever approached him in intellectual stature.3 The brief flowering of \u2018Legal Marxism\u2019 in the 1890s was no less indebted to him.4 Even after Plekhanov\u2019s break with Bolshevism in 1905 over the \u2018arithmetic of revolution,\u2019 Lenin still considered himself an adherent of his \u2018algebra\u2019 (see Chapter 11 below). Nor did the success of the October revolution, the theoretical principles of which were clearly contrary to those of Plekhanov (see Chapter 13 below), qualify Lenin\u2019s admiration for his philosophical work.5 In the Soviet Union his texts have been accorded a prominent place among the intellectual foundations officially held to legitimise it.6",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W2492268361"
+    },
+    {
+      "openalex_id": "W2768370582",
+      "doi": "10.4067/s0718-50492017000400318",
+      "title": "El grupo Iskra y el \"modelo leninista\" de organizaci\u00f3n partidaria: Un debate en el seno de la socialdemocracia rusa",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834",
+          "institutions": [
+            "Centro Cient\u00edfico Tecnol\u00f3gico - San Juan"
+          ]
+        },
+        {
+          "name": "Maximiliano Jozami",
+          "openalex_id": "A5026575934",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-01",
+      "abstract": "In March 1902, Lenin published a book entitled What Is to Be Done? Burning Questions of Our Movement, proposing a model of party organization for the nascent Russian social democratic movement, which had to be organized nationally. The book has historically raised a number of questions, of which the most important are: Was Lenin proposing a new model of party organization (a \"cadre party\" as opposed to a \"mass party\") or simply adapting the example of the Social Democratic Party of Germany (SPD, the backbone of the Second International) to the conditions of Russian autocracy and to the factional struggle against the \"economists\", the Jewish Bund and a series of local organizations? Did that model of party organization represent an individual initiative of Lenin, or was it the joint project of the group that published the newspaper Iskra (Spark), which had been appearing since the first of December 1900 and which would organize the Second Congress of the Russian Social Democratic Labour Party (RSDLP) in July-August 1903? Finally, what was the connection between the model of party organization proposed in Lenin's book and the subsequent split between Bolsheviks and Mensheviks at the Second Congress of the RSDLP? In this article we will try to answer these questions in the light of a number of primary documents recently translated from Russian as well as of the criticism by Vera Zasulich, one of the most prominent representatives of the Iskra editorial board, of the tactics of individual terrorism employed by the newly created Russian Socialist Revolutionary Party, a criticism published in the theoretical organ of the German Social Democracy, Die neue Zeit, in December 1902.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Izquierdas",
+        "type": "journal",
+        "issn": [
+          "0718-5049"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://scielo.conicyt.cl/pdf/izquierdas/n35/0718-5049-izquierdas-35-00318.pdf"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Marxism and Critical Theory",
+        "Philosophical Thought and Analysis"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2768370582"
+    },
+    {
+      "openalex_id": "W3008391174",
+      "doi": "10.1080/09672567.2020.1720765",
+      "title": "Marxism before Marxism: Nikolaj Sieber and the birth of Russian social-democracy",
+      "authors": [
+        {
+          "name": "Fran\u00e7ois Allisson",
+          "openalex_id": "A5053849787",
+          "orcid": "https://orcid.org/0000-0002-4366-7548",
+          "institutions": [
+            "University of Lausanne"
+          ]
+        },
+        {
+          "name": "Federico D\u2019Onofrio",
+          "openalex_id": "A5010421690",
+          "orcid": "https://orcid.org/0000-0003-3519-3132",
+          "institutions": [
+            "Ca' Foscari University of Venice"
+          ]
+        },
+        {
+          "name": "\u0414\u0430\u043d\u0438\u043b\u0430 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 \u0420\u0430\u0441\u043a\u043e\u0432",
+          "openalex_id": "A5090600019",
+          "orcid": "https://orcid.org/0000-0003-2173-5949"
+        },
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447 \u0428\u0438\u0440\u043e\u043a\u043e\u0440\u0430\u0434",
+          "openalex_id": "A5076167038",
+          "orcid": "https://orcid.org/0000-0002-7006-5067",
+          "institutions": [
+            "St Petersburg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-19",
+      "abstract": "The Swiss-Russian economist Nikolaj Sieber was one of the first who wrote about Marx in Russia. In this article we reconstruct the development of his thought by mobilising evidence about the intellectual and political context he lived in. We document his involvement within the Ukrainian national movement of the 1870 s and argue that this closeness was consistent with his take on the capitalist evolution of the Russian Empire. We discuss his importance in the Russian debates on the future of the peasant commune and of Russia and conclude that his interpretation of Marx and capitalism was crucial for the development of the Russian social-democratic party.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "European Journal of the History of Economic Thought",
+        "type": "journal",
+        "issn": [
+          "0967-2567",
+          "1469-5936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://serval.unil.ch/notice/serval:BIB_8506F29A189A"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W3008391174"
+    },
+    {
+      "openalex_id": "W228930601",
+      "doi": null,
+      "title": "Plekhanov: The Father of Authoritarian Russian Socialism",
+      "authors": [
+        {
+          "name": "Michael Kellogg",
+          "openalex_id": "A5076050885"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "the young fanatic confident that the ends justified the means.\"",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/2q60c3s9"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W228930601"
+    },
+    {
+      "openalex_id": "W4210621926",
+      "doi": "10.2478/csj-2021-0014",
+      "title": "Aleksandr Bogdanov and Lenin on \u201cThings-In-Themselves\u201d",
+      "authors": [
+        {
+          "name": "\u0412\u0435\u0441\u0430 \u041e\u0439\u0442\u0442\u0438\u043d\u0435\u043d",
+          "openalex_id": "A5056209509",
+          "orcid": "https://orcid.org/0000-0002-1022-9912",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract Questions on the theory of cognition formed one of the focal points in the dispute between orthodox Russian Marxists and Aleksandr Bogdanov and his followers. Bogdanov was an adherent of Mach\u2019s theory, which abandoned Kant\u2019s concept of \u201cthings-in-themselves\u201d ( Ding an sich ) outside the cognizing subject. According to Mach and Bogdanov, there is no need to duplicate human experience in appearances given in the senses and things behind these appearances. The orthodox Marxists, Lenin as well as Plekhanov, insisted that Kant\u2019s concept of things-in-themselves should be retained, but in a modified form: the things-in-themselves do not form a limit to our knowledge, as Kant (allegedly) thought, but turn into \u201cthings-for-us\u201d in the everyday processes of material and scientific production. Both solutions, the Machian and the orthodox Marxist, have their problems. In the Soviet era, Lenin was depicted as the winner of the dispute. But a closer examination of Bogdanov\u2019s arguments shows that he actually found some weak points in Lenin\u2019s conception. However, this does not mean that Lenin\u2019s critique of Bogdanov as a subjectivist in his theory of cognition was groundless.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0014"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophy, Science, and History",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W4210621926"
+    },
+    {
+      "openalex_id": "W4327883572",
+      "doi": "10.1163/9789004495517_004",
+      "title": "\u2018The American Worker\u2019 and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart\u2019s Why Is There No Socialism in the United States?",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "a series of articles developing the idea that the Russian Revolution of 1905 would go beyond the framework of the classical bourgeois revolutions and lead to 'the ushering in of an era of European revolutions that will end with the dictatorship of the socialist society'. 4 In the 1922 Introduction to his book 1905, Trotsky remarked on Kautsky's position at that time:The debate over the character of the Russian revolution had, even during that period, gone beyond the con nes of Russian social democracy and had engaged the attention of the leading elements of world socialism.The Menshevik conception of bourgeois revolution was expounded most conscientiously, that is to say, most badly and candidly, in Cherevanin's book. 5 As soon as it appeared, the German opportunists seized hold of it with glee.At Kautsky's suggestion I wrote an analytical review of Cherevanin's book in Neue Zeit. 6 At the time, Kautsky himself fully identi ed himself with my views.Like Mehring (now deceased), he adopted the viewpoint of 'permanent revolution.' Today, Kautsky has retrospectively joined the ranks of the Mensheviks.He wants to reduce his past to the level of his present.But this falsi cation, which satis es the claims of an unclear theoretical conscience, is encountering obstacles in the form of printed documents.What Kautsky wrote in the earlier -the better!-period of his scienti c and literary activity (his reply to the Polish socialist Ljusnia, 7 his studies on Russian and American workers, his reply to Plekhanov's questionnaire concerning the character of the Russian revolution, 8 etc.) was and remains a merciless rejection of Menshevism and a complete theoretical vindication of the subsequent political tactics of the Bolsheviks, whom thickheads and renegades, with Kautsky today at their head, accuse of adventurism, demagogy, and Bakuninism. 980",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W4327883572"
+    },
+    {
+      "openalex_id": "W2041718590",
+      "doi": "10.1017/s0018246x00020100",
+      "title": "The \u2018social\u2019 and the \u2018political\u2019 in the Russian Revolution",
+      "authors": [
+        {
+          "name": "Steve Smith",
+          "openalex_id": "A5110355441",
+          "institutions": [
+            "University of Essex"
+          ]
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-09-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. As you have access to this content, a full PDF is available via the 'Save PDF' action button.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "The Historical Journal",
+        "type": "journal",
+        "issn": [
+          "0018-246X",
+          "1469-5103"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75E9827CF7750064BE6EAA3A3269E458/S0018246X00020100a.pdf/div-class-title-the-social-and-the-political-in-the-russian-revolution-div.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2041718590"
+    },
+    {
+      "openalex_id": "W2104781973",
+      "doi": "10.1353/imp.2004.0149",
+      "title": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u044d\u043c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u041f\u0430\u0432\u043b\u0430 \u0410\u043a\u0441\u0435\u043b\u044c\u0440\u043e\u0434\u0430 \u043f\u043e \u0410. \u041f. \u041d\u0435\u043d\u0430\u0440\u043e\u043a\u043e\u0432 (review)",
+      "authors": [
+        {
+          "name": "Francis King",
+          "openalex_id": "A5030080653",
+          "orcid": "https://orcid.org/0000-0002-2233-7320"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "620 \u0420\u0435\u0446\u0435\u043d\u0437\u0438\u0438/Reviews society that widened and became politicized in 19th century. Neither was \u201cmodern anti-Semitism\u201d (Arendt 1967, 9 passim) synonymous to the hatred or envy of Jews; but rather, and these aspects Gilman overlooks, was motivated by the tensions between the state and different social classes, which invoked anti-Semitism \u201cbecause the only social group which seemed to represent the state were the Jews\u201d (Arendt 1967, 25). In other words, the objections against the sociopolitical aspects of Gilman\u2019s book here are (i) that his linear and rather one-dimensional view of history is insufficiently located in a particular view of the development of the German state, (ii) does not take into account the complex inter-class relations between Jews and the rest of society, (iii) and actually tells us little about \u201cmodern\u201d forms of antiSemitism . Otherwise, of course, Freud, Race, and Gender is an original and highly informative work. I am sure Freud would have read it with interest. Francis KING \u0410. \u041f. \u041d\u0435\u043d\u0430\u0440\u043e\u043a\u043e\u0432. \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u044d\u043c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u041f\u0430\u0432\u043b\u0430 \u0410\u043a\u0441\u0435\u043b\u044c\u0440\u043e\u0434\u0430. \u041c\u043e\u0441\u043a\u0432\u0430: \u0410\u0418\u0420\u041e-\u0425\u0425, 2001. 166 \u0441. ISBN: 5-88735-085-7. Pavel Aksel\u2019rod (1850-1928) was one of the founders of Russian Marxism, and the most important ideologue of Menshevism from 1903 until the 1920s.Although he has not received the same attention from historians as Lenin,Trotsky, Plekhanov, or even Martov, he was the subject of one full-length study published in 1972 \u2013 Abraham Ascher\u2019s Pavel Axelrod and the Development of Menshevism. Ascher\u2019s account was a model political biography, but was weighted heavily toward the pre-Revolutionary period. Al\u2019bert Nenarokov\u2019s short book, which concentrates on Aksel\u2019rod\u2019s ideas and activities after he left Russia for the last time in August 1917, now provides a useful complement to Ascher\u2019s classic monograph. Nenarokov has been researching and writing on the history of the revolution for at least three decades and, following the collapse of the USSR, has been working on the history of Menshevism. This book is very much the fruit of his research in Western libraries and archives. It draws very heavily on Aksel\u2019rod\u2019s papers at the International Institute of Social History in Amsterdam, 621 Ab Imperio, 3/2004 and on the papers of the Menshevik archivist Boris Nikolaevsky at the Hoover Institution. The text contains extensive quotations from Aksel\u2019rod\u2019s letters and articles from the 1920s. By making this material more widely available, Nenarokov has made a valuable contribution to the historiography of Menshevism. Letters from Aksel\u2019rod to the rightwing Menshevik A. N. Potresov in the 1920s, in which he sets out his criticisms of the official line, are reproduced verbatim in an appendix , as are Aksel\u2019rod\u2019s comments on Potresov\u2019s critique of official Menshevism. Nenarokov\u2019s book has no index, but it does contain helpful short biographical notes on the persons mentioned within it. Menshevik material up to 1920 or so is easy enough to find in Russian archives, but the records of the organization in exile, from 1920 to the 1960s, have remained in the West. As Nenarokov\u2019s book shows, the West is not an incongruous location for those records. From its inception in the 1880s, Russian Marxism was part of the Westernizing trend in Russian social thought. It represented the far left of the Russian Westernizers, those who believed that capitalism and Western patterns of development were inevitable for Russia, and needed to be met with a powerful Western-style labor and socialist movement. Perhaps more than anyone else, Aksel\u2019rod embodied this idea. He spent most of his adult life as a political exile, mainly in Switzerland. He imbibed the values and traditions of Western, especially German, social democracy , and was concerned above all to apply what he had learned to the Russian situation. Unusually, however, Aksel\u2019rod had not come from the educated, cosmopolitan intelligentsia. He was born into a desperately poor, uneducated , and devout Jewish family, and managed to acquire a Russian education, up to university level, through a combination of sheer luck and hard work. His relentless pursuit of broader horizons, which in his early youth led him to reject the mental straightjacket of Orthodox Judaism, later led him to reject the backwardness of Russian society. As Nenarokov aptly...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Ab imperio",
+        "type": "journal",
+        "issn": [
+          "2164-9731",
+          "2166-4072"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History",
+        "Sociopolitical Dynamics in Russia"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2104781973"
+    },
+    {
+      "openalex_id": "W2028130190",
+      "doi": "10.1080/09668130701803057",
+      "title": "Reluctant terrorists? Transcaucasian social-cemocracy, 1901\u00a0\u2013\u00a01909",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "Abstract This article discusses the development of Transcaucasian social-democratic terrorism from 1901 to 1909. For two reasons the \u2018psychohistorical\u2019 model emphasising the subjective and irrational aspects of terrorism has only limited value for the Transcaucasian case. First, the significance of the contextual factor is powerfully underscored by the phenomenon of workers' \u2018economic terrorism\u2019. It was not uncommon even, for workers to blackmail reluctant party organisations into supporting the killing of their enemies. Secondly, the social democrats were not driven by irrational urges but followed a rationally motivated and selective terrorist strategy. They attempted to limit or prevent workers' terrorism from below, the \u2018anarchist\u2019 potential of which they considered a threat to the organised mass struggle. They set their hopes on a division of labour, with a militant but mostly peaceful workers' movement and terrorism as the prerogative of the party.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Europe Asia Studies",
+        "type": "journal",
+        "issn": [
+          "0966-8136",
+          "1465-3427"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.uva.nl/ws/files/2128362/61289_van_Ree_EAS_08_2_.pdf"
+      },
+      "topics": [
+        "Terrorism, Counterterrorism, and Political Violence",
+        "Political Conflict and Governance",
+        "Crime, Illicit Activities, and Governance"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W2028130190"
+    },
+    {
+      "openalex_id": "W4210270946",
+      "doi": "10.2478/csj-2021-0006",
+      "title": "Sergei Eisenstein in the Proletkult",
+      "authors": [
+        {
+          "name": "John Biggart",
+          "openalex_id": "A5013780263",
+          "institutions": [
+            "Film Independent"
+          ]
+        },
+        {
+          "name": "Oksana Bulgakowa",
+          "openalex_id": "A5054038609",
+          "orcid": "https://orcid.org/0009-0007-1499-8624",
+          "institutions": [
+            "Johannes Gutenberg University Mainz"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract This article examines some of the theoretical issues that exercised Sergei Eisenstein during the years 1920\u20131924 when he worked in the Russian Proletarian Cultural-Educational Organization (Proletkult), of which Aleksandr Bogdanov was one of the founders. We ask how far Eisenstein was influenced by Marxism in general and by the ideas of Bogdanov in particular, and explain his exit from the Proletkult in terms of the unacceptability of his theory and practice of theatre and film to the Chairman of the Proletkult, Valeriyan Pletn\u00ebv. During these years the Agitprop Department of the Central Committee of the Communist Party, at Lenin\u2019s behest, was taking steps to reduce the scope of activities of the Proletkult, discredit Bogdanov as a thinker, and exclude him from politics.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0006"
+      },
+      "topics": [
+        "Theatre and Performance Studies"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W4210270946"
+    },
+    {
+      "openalex_id": "W3081382690",
+      "doi": "10.24234/wisdom.v15i2.349",
+      "title": "The Ideology of Socialism and the Armenian Political Parties",
+      "authors": [
+        {
+          "name": "Gegham Hovhannisyan",
+          "openalex_id": "A5034140348",
+          "orcid": "https://orcid.org/0009-0002-9549-8974"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-23",
+      "abstract": "The article covers the manifestations and peculiarities of the ideology of socialism in the social-political life of Armenia at the end of the 19th century and the beginning of the 20th century. General characteristics, aims and directions of activity of the political organizations functioning in the Armenian reality within the given time-period, whose program documents feature the ideology of socialism to one degree or another, are given (Hunchakian Party, Dashnaktsutyun, Armenian Social-democrats, Specifics, Socialists-revolutionaries). The specific peculiarities of the national-political life of Armenia in the given time-period and their impact on the ideology of political forces are introduced.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "wisdom",
+        "type": "journal",
+        "issn": [
+          "1829-3824",
+          "2738-2753"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.wisdomperiodical.com/index.php/wisdom/article/download/349/249"
+      },
+      "topics": [
+        "Security, Politics, and Digital Transformation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3081382690"
+    },
+    {
+      "openalex_id": "W4211228549",
+      "doi": "10.15215/aupress/9781771992732.01",
+      "title": "World Bolshevism",
+      "authors": [
+        {
+          "name": "Iulii Martov",
+          "openalex_id": "A5020447018"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-11",
+      "abstract": "Backwards 51 II. The Ideology of \"Sovietism\" 6 > The Mysticism of the Soviet System 59 7 > Dictatorship of a Minority 63 8 > Dictatorship over the Proletariat 71 9 > Metaphysical Materialism and Dialectical Materialism 81 Photograph of Iulii Martov, taken by police after his arrest in January 1896. 1 https://doi.org/10",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120288_Martov_Kellogg_2022-World-Bolshevism.pdf"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society",
+        "European history and politics"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W4211228549"
+    },
+    {
+      "openalex_id": "W2529769083",
+      "doi": "10.1093/ejil/chw046",
+      "title": "Editing Rosa: Luxemburg, the Revolution, and the Politics of Infantilization",
+      "authors": [
+        {
+          "name": "Alexandra Kemmerer",
+          "openalex_id": "A5038369626",
+          "institutions": [
+            "Max Planck Institute for Comparative Public Law and International Law"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-08-01",
+      "abstract": "Rosa Luxemburg is not a marginal, but a marginalized protagonist in the history of 20th-century political thought. In this essay, strategies of marginalization employed by Luxemburg's editors in the German Democratic Republic (GDR) in their 1951 edition Rosa Luxemburg, Ausgewhlte Reden und Schriften (Rosa Luxemburg, Selected Speeches and Writings), published by the Marx-Engels-Lenin-Institut beim ZK der SED in Berlin are revisited and deconstructed. A bold strategy of infantilization was employed in order to marginalize this political thinker and save only the historical icon, a female patron saint of the revolution, for collective memory. Whilst the GDR struggled hard to come to terms with Luxemburg's legacy, she was almost forgotten in the Bundesrepublik. Only when her incisive comment about the freedom of dissent from 'The Russian Revolution' was reappropriated as the slogan of the Eastern German Civil Rights Movement did Luxemburg re-enter public memory in the West. The revival of scholarly interest in Rosa Luxemburg that we currently see holds promise not only for radical thinkers, but also for international lawyers and historians. But, in a strange continuation of patterns of historical bias, her marginalization continues -this time from a transnational perspective. A fresh engagement with Luxemburg requires and allows for a more nuanced image of a theorist of revolution.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "European Journal of International Law",
+        "type": "journal",
+        "issn": [
+          "0938-5428",
+          "1464-3596"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/ejil/article-pdf/27/3/853/18272741/chw046.pdf"
+      },
+      "topics": [
+        "Political Theology and Sovereignty",
+        "Critical Theory and Philosophy",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2529769083"
+    },
+    {
+      "openalex_id": "W2046319378",
+      "doi": "10.1163/156920603322889240",
+      "title": "'The American Worker' and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart's Why Is There No Socialism in the United States?",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "a series of articles developing the idea that the Russian Revolution of 1905 would go beyond the framework of the classical bourgeois revolutions and lead to 'the ushering in of an era of European revolutions that will end with the dictatorship of the socialist society'. 4 In the 1922 Introduction to his book 1905, Trotsky remarked on Kautsky's position at that time:",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Historical Materialism",
+        "type": "journal",
+        "issn": [
+          "1465-4466",
+          "1569-206X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/view/journals/hima/11/4/article-p79_3.pdf"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2046319378"
+    },
+    {
+      "openalex_id": "W2013758453",
+      "doi": "10.1017/s0020859000113689",
+      "title": "Workers, the Intelligentsia and Marxist Parties: St Petersburg, 1895\u20131917 and Shanghai, 1921\u20131927",
+      "authors": [
+        {
+          "name": "Steve Smith",
+          "openalex_id": "A5110355441"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Summary The article investigates relations between workers and intellectuals in the pre-revolutionary Bolshevik Party in St Petersburg and the Chinese Communist Party in Shanghai. It commences with a background examination of the social position and traditions of the intelligentsia in each country and the emergence of a stratum of so-called \u201cconscious\u201d workers. The position of workers in each party is then analysed, especially with respect to leadership, and the nature of tensions between workers and intellectuals explored. The investigation demonstrates that workers acquiesced in their subordination to a greater degree in Shanghai than in St Petersburg, and this and other differences are traced back to historical and cultural context. In conclusion, the implications of contextual differences are explored in order to suggest why the intelligentsia in the People's Republic of China (PRC) attracted greater odium from the party-state than its counterpart in the Soviet Union.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9191CC56DF3C068E213A80E8C85044BE/S0020859000113689a.pdf/div-class-title-workers-the-intelligentsia-and-marxist-parties-st-petersburg-1895-1917-and-shanghai-1921-1927-div.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Philippine History and Culture",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W2013758453"
+    },
+    {
+      "openalex_id": "W2728968580",
+      "doi": null,
+      "title": "Bukharin and the \u201cRed Pinkerton\u201d",
+      "authors": [
+        {
+          "name": "Boris Dralyuk",
+          "openalex_id": "A5047092943"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "University of Minnesota Digital Conservancy (University of Minnesota)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11299/186926"
+      },
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Historical Linguistics and Language Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2728968580"
+    },
+    {
+      "openalex_id": "W3190928143",
+      "doi": "10.5281/zenodo.1512869",
+      "title": "The Activity of the Social-Democratic Group 'Yedinstvo' in 1918-1919",
+      "authors": [
+        {
+          "name": "\u042d. \u0412. \u041a\u043e\u0441\u0442\u044f\u0435\u0432",
+          "openalex_id": "A5025661418",
+          "institutions": [
+            "Yuri Gagarin State Technical University of Saratov"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-30",
+      "abstract": "G.V. Plekhanov was a cut above like-minded people of the \u201cYedinstvo\u201d by his authority, the last stage of its existence remained practically unreported in the historical literature. It was established in the process of research that at that time activity of the group was crowned with an extremely curious historical paradox. As the supporters of Plekhanov, who was the founder of the National Social Democracy at his time, the \u201cReds\u201d during the Civil War and stood on the other side of the barricades and supported Denikin, the \u201cwhite\u201d general and the worst enemy of their former party members, in 1919.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/1512870"
+      },
+      "topics": [
+        "European Cultural and National Identity",
+        "Social and Behavioral Studies",
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W3190928143"
+    },
+    {
+      "openalex_id": "W2174794526",
+      "doi": "10.1353/imp.2004.0072",
+      "title": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u0437\u0430\u0438\u043a\u0430. \u0421\u0431\u043e\u0440\u043d\u0438\u043a \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0441\u0442\u0430\u0442\u0435\u0439 \u0432 \u0447\u0435\u0441\u0442\u044c \u0414\u0436\u043e\u043d\u0430 \u041a\u0438\u043f\u0430 \u0440\u0435\u0434. \u043f\u043e \u0410. \u041b. \u041b\u0438\u0442\u0432\u0438\u043d (review)",
+      "authors": [
+        {
+          "name": "Ernest Zitser",
+          "openalex_id": "A5037195192",
+          "orcid": "https://orcid.org/0000-0002-4060-2810"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "553 Ab Imperio, 1/2004 Only some of these topics can be confined within the research interests of the scholar to whom they are ostensibly dedicated. For example, Christine Worobec\u2019s excellent essay on East Slavic fertility rituals at the summer solstice is only tangentially related to Keep\u2019s work on the politicization of the peasantry during the Russian revolutions. Similarly, Paul Dukes\u2019 careful study of the diplomatic wrangling surrounding the 1922 Russo-Japanese Conference of Changchun contributes more to the memory of their mutual friend, George B. Tolmakoff, than to the discussion of the larger social and political issues confronted in Keep\u2019s work on the Russian military. And it is surely mostly for reasons of chronology that a collection on Russian history begins with an essay on state-building and land-reform in seventeenth-century Sweden (Antti Kujala), an essay, furthermore, that makes no explicit mention of its undoubted significance to the historiographical issues surrounding the reforms of Peter the Great. That task is left to the editors of the festschrift and although their introduction does a good job of tying all of these varied pieces together and of drawing out their possible implications for scholars of Russia, it appears that the editorial choices that went into this collection reflect the overall goal of international inclusiveness rather than of topical relevance. Ernest A. ZITSER \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e- \u0437\u0430\u0438\u043a\u0430. \u0421\u0431\u043e\u0440\u043d\u0438\u043a \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0441\u0442\u0430\u0442\u0435\u0439 \u0432 \u0447\u0435\u0441\u0442\u044c \u0414\u0436\u043e\u043d\u0430 \u041a\u0438\u043f\u0430 / \u041e\u0442\u0432. \u0440\u0435\u0434. \u0410. \u041b. \u041b\u0438\u0442\u0432\u0438\u043d. \u041a\u0430\u0437\u0430\u043d\u044c, 2003. 294 \u0441. (\u043d\u0430 \u0440\u0443\u0441. \u0438 \u0430\u043d\u0433\u043b. \u044f\u0437.). \u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0440\u0430\u0431\u043e\u0442 \u0414\u0436. \u041a\u0438\u043f\u0430. ISBN 5-81850023 -3. The \u201cmosaic\u201d in the title of this festschrift honoring John L. H. Keep refers both to the diversity of that scholar\u2019s interests in Russian history and to the eclecticism of the essays solicited by the editors of this collection . Like the multicolored and seemingly haphazard pieces of a mosaic, which can only be appreciated from a proper distance, the variegated individual contributions form a pattern that gives the reader an overall impression of the British historian, his scholarly work, and his professional contacts in the broader academic world. Indeed, under the capable editorship ofAlter Litvin, the book is as much a tribute to growing cooperation within the international community of historians of Russia as it is a monument to Keep\u2019s collegiality and scholarly achievements. The contributors are as diverse as the topics of the essays collected, representing Keep\u2019s colleagues, coworkers , and friends from Canada, the United States, Scotland, Israel, Switzerland, Finland, and Russia. 554 \u0420\u0435\u0446\u0435\u043d\u0437\u0438\u0438/Reviews strength of local and religious solidarities and the relative weakness of ethnic identity should be of particular interest to the readers of this journal. The rest of the essays in this collection deal with the other great theme of Keep\u2019s scholarly work: the rise, evolution, and decline of Russian social democracy. Israel Getzler \u2019s study of Georgii Plekhanov can very profitably be read together with I. Kh. Urilov\u2019s survey of recent Russian historiography on the origins of Menshevism. Similarly, A. Sal\u2019nikova\u2019s essay on children\u2019s reactions to the Sturm und Drang of 1917 offers a nice antipode to Alter Litvin\u2019s piece on the politics of their grandchildren who are now debating whether or not to re-instate monuments to Feliks Dzerzhinskii toppled in 1991. This section is capped off by Carter Elwood\u2019s re-assessment of newly released archival evidence about Inessa Armand\u2019s illicit love affair with Lenin. Besides its indisputable scholarly interest, the essay by the prize-winning author of a biography of Armand constitutes a model of historical scholarship and careful reading, and is alone worth the trouble of ordering this volume for your local library. But the most interesting piece in this historical and historiographical mosaic is not the essay about Lenin\u2019s sex life, but rather Keep\u2019s autobiographical introduction, entitled \u201cNotes on John.\u201d Although The essays that deal with historical subjects close to Keep\u2019s heart are perhaps the brightest spots of this pastiche. Besides the previously discussed essay on Swedish absolutism, the only piece to pay tribute to Keep\u2019s studies on early modern Muscovy is that of Philip Longworth, whose short article offers a gloss on N. Novombergskii\u2019s monumental study of lese-majeste (slovo i delo) cases in pre-Petrine Russia. Keep\u2019s interest in Soviet historiography is represented by two essays, one of which deals...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Ab imperio",
+        "type": "journal",
+        "issn": [
+          "2164-9731",
+          "2166-4072"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2174794526"
+    },
+    {
+      "openalex_id": "W4409426054",
+      "doi": "10.33043/yfydh5bn",
+      "title": "A History of Marxist Hegemony",
+      "authors": [
+        {
+          "name": "Sylus Smith",
+          "openalex_id": "",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-14",
+      "abstract": "Hegemony, as popularized by Antonio Gramsci, has earned great importance in Marxist debates over the conquest of power. Unsurprisingly, this has also led to a renewed exploration of its origins in the writings of Vladimir Lenin, Georgi Plekhanov, and even Karl Kautsky as argued by the historian Lars Lih. This paper examines that history by returning to their original writings and contemporary analysis by Grigory Zinoviev. In doing so, I demonstrate a fundamental break between the original \"strategy\" of hegemony found in earlier theorists and Lenin\u2019s \"theory\" of hegemony as elaborated upon by Gramsci.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Stance An International Undergraduate Philosophy Journal",
+        "type": "journal",
+        "issn": [
+          "1943-1880",
+          "1943-1899"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://openjournals.bsu.edu/stance/article/download/5719/3219"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4409426054"
+    },
+    {
+      "openalex_id": "W653776395",
+      "doi": null,
+      "title": "Liquidationism and the failure of unity : Russian social democracy and the St. Petersburg metalworkers' union, 1906-1914",
+      "authors": [
+        {
+          "name": "Alice K. Pate",
+          "openalex_id": "A5085133060",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W653776395"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

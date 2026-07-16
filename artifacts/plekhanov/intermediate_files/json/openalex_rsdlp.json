@@ -1,0 +1,963 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Lenin organizational split RSDLP' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_906254811c139011)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Lenin organizational split RSDLP",
+  "results": [
+    {
+      "openalex_id": "W2768370582",
+      "doi": "10.4067/s0718-50492017000400318",
+      "title": "El grupo Iskra y el \"modelo leninista\" de organizaci\u00f3n partidaria: Un debate en el seno de la socialdemocracia rusa",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834",
+          "institutions": [
+            "Centro Cient\u00edfico Tecnol\u00f3gico - San Juan"
+          ]
+        },
+        {
+          "name": "Maximiliano Jozami",
+          "openalex_id": "A5026575934",
+          "institutions": [
+            "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-01",
+      "abstract": "In March 1902, Lenin published a book entitled What Is to Be Done? Burning Questions of Our Movement, proposing a model of party organization for the nascent Russian social democratic movement, which had to be organized nationally. The book has historically raised a number of questions, of which the most important are: Was Lenin proposing a new model of party organization (a \"cadre party\" as opposed to a \"mass party\") or simply adapting the example of the Social Democratic Party of Germany (SPD, the backbone of the Second International) to the conditions of Russian autocracy and to the factional struggle against the \"economists\", the Jewish Bund and a series of local organizations? Did that model of party organization represent an individual initiative of Lenin, or was it the joint project of the group that published the newspaper Iskra (Spark), which had been appearing since the first of December 1900 and which would organize the Second Congress of the Russian Social Democratic Labour Party (RSDLP) in July-August 1903? Finally, what was the connection between the model of party organization proposed in Lenin's book and the subsequent split between Bolsheviks and Mensheviks at the Second Congress of the RSDLP? In this article we will try to answer these questions in the light of a number of primary documents recently translated from Russian as well as of the criticism by Vera Zasulich, one of the most prominent representatives of the Iskra editorial board, of the tactics of individual terrorism employed by the newly created Russian Socialist Revolutionary Party, a criticism published in the theoretical organ of the German Social Democracy, Die neue Zeit, in December 1902.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Izquierdas",
+        "type": "journal",
+        "issn": [
+          "0718-5049"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://scielo.conicyt.cl/pdf/izquierdas/n35/0718-5049-izquierdas-35-00318.pdf"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Marxism and Critical Theory",
+        "Philosophical Thought and Analysis"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2768370582"
+    },
+    {
+      "openalex_id": "W1920495648",
+      "doi": "10.18740/s4j30v",
+      "title": "Leninism: It's Not What You Think",
+      "authors": [
+        {
+          "name": "Paul Kellogg",
+          "openalex_id": "A5033643342",
+          "orcid": "https://orcid.org/0000-0001-7735-7575",
+          "institutions": [
+            "Trent University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-11-30",
+      "abstract": "Leninism is universally understood as involving an emphasis on centralism and discipline inside the workers\u2019 party, a centralism and discipline necessary as a counter to the centralized power of the capitalist state. This article argues: 1) that Lenin\u2019s famous centralism was a necessity imposed on all socialists of his generation because of conditions of tsarist autocracy; 2) that when given the chance during moments of revolutionary upheaval, this centralism was pushed to the background, and a heavy emphasis was placed upon democracy and debate; 3) that late in life, Lenin realized that the \u2018Leninism\u2019 being aggressively promoted by the Communist International was too heavily weighted towards Russian conditions, and was a barrier to the development of the left outside of Russia; and 4) that this immanent critique of actually-existing Leninism was cut short and buried by the rise of Stalinism, for which an emphasis on centralism was a useful counterpart in party organization to the authoritarianism being constructed in the Stalinist state. On pense g\u00e9n\u00e9ralement que le l\u00e9ninisme insiste sur le centralisme et la discipline dans le parti ouvrier, centralisme et discipline n\u00e9cessaires pour contrer le pouvoir centralis\u00e9 de l\u2019\u00e9tat capitaliste. Cet article defend que: 1) le centralisme c\u00e9l\u00e8bre de L\u00e9nine \u00e9tait une n\u00e9cessit\u00e9 impose \u00e0 tous les socialistes de sa g\u00e9n\u00e9ration du fait de l\u2019autocratie tsariste; 2) d\u00e8s lors qu\u2019il y avait un espace pendant les moments de bouleversement r\u00e9volutionnaire, ce centralisme \u00e9tait mis en retrait et un accent lourd \u00e9tait mis sur la d\u00e9mocratie et le d\u00e9bat; 3) plus tard dans sa vie, L\u00e9nine a r\u00e9alis\u00e9 que le \u2018l\u00e9ninisme\u2019 qui \u00e9tait promu d\u2019une fa\u00e7on agressive par l\u2019Internationale communiste \u00e9tait trop lourdement biais\u00e9 par le contexte russe et que ceci \u00e9tait une barri\u00e8re au d\u00e9veloppement de la gauche en dehors de la Russie; et 4) cette critique immanente du l\u00e9ninisme en place a \u00e9t\u00e9 musel\u00e9e et enterr\u00e9e par l\u2019ascension du stalinisme, pour qui l\u2019accent sur le centralisme \u00e9tait un parall\u00e8le utile dans l\u2019organisation du parti \u00e0 l\u2019autoritarisme en construction dans l\u2019\u00e9tat staliniste.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Socialist studies",
+        "type": "journal",
+        "issn": [
+          "1717-2616",
+          "1918-2821"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://socialiststudies.com/index.php/sss/article/download/23725/17609"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W1920495648"
+    },
+    {
+      "openalex_id": "W2579903534",
+      "doi": "10.1093/ije/dyw330",
+      "title": "FACEing reality: productive tensions between our epidemiological questions, methods and mission",
+      "authors": [
+        {
+          "name": "Nancy Krieger",
+          "openalex_id": "A5078276438",
+          "orcid": "https://orcid.org/0000-0002-4815-5947",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "George Davey Smith",
+          "openalex_id": "A5013184354",
+          "orcid": "https://orcid.org/0000-0002-1407-8314",
+          "institutions": [
+            "University of Bristol"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-25",
+      "abstract": "[no abstract]",
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Epidemiology",
+        "type": "journal",
+        "issn": [
+          "0300-5771",
+          "1464-3685"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ije/article-pdf/45/6/1852/11120713/dyw330.pdf"
+      },
+      "topics": [
+        "Food Security and Health in Diverse Populations",
+        "Global Public Health Policies and Epidemiology",
+        "Health disparities and outcomes"
+      ],
+      "referenced_works_count": 116,
+      "url": "https://openalex.org/W2579903534"
+    },
+    {
+      "openalex_id": "W2013758453",
+      "doi": "10.1017/s0020859000113689",
+      "title": "Workers, the Intelligentsia and Marxist Parties: St Petersburg, 1895\u20131917 and Shanghai, 1921\u20131927",
+      "authors": [
+        {
+          "name": "Steve Smith",
+          "openalex_id": "A5110355441"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Summary The article investigates relations between workers and intellectuals in the pre-revolutionary Bolshevik Party in St Petersburg and the Chinese Communist Party in Shanghai. It commences with a background examination of the social position and traditions of the intelligentsia in each country and the emergence of a stratum of so-called \u201cconscious\u201d workers. The position of workers in each party is then analysed, especially with respect to leadership, and the nature of tensions between workers and intellectuals explored. The investigation demonstrates that workers acquiesced in their subordination to a greater degree in Shanghai than in St Petersburg, and this and other differences are traced back to historical and cultural context. In conclusion, the implications of contextual differences are explored in order to suggest why the intelligentsia in the People's Republic of China (PRC) attracted greater odium from the party-state than its counterpart in the Soviet Union.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9191CC56DF3C068E213A80E8C85044BE/S0020859000113689a.pdf/div-class-title-workers-the-intelligentsia-and-marxist-parties-st-petersburg-1895-1917-and-shanghai-1921-1927-div.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Philippine History and Culture",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W2013758453"
+    },
+    {
+      "openalex_id": "W3081382690",
+      "doi": "10.24234/wisdom.v15i2.349",
+      "title": "The Ideology of Socialism and the Armenian Political Parties",
+      "authors": [
+        {
+          "name": "Gegham Hovhannisyan",
+          "openalex_id": "A5034140348",
+          "orcid": "https://orcid.org/0009-0002-9549-8974"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-23",
+      "abstract": "The article covers the manifestations and peculiarities of the ideology of socialism in the social-political life of Armenia at the end of the 19th century and the beginning of the 20th century. General characteristics, aims and directions of activity of the political organizations functioning in the Armenian reality within the given time-period, whose program documents feature the ideology of socialism to one degree or another, are given (Hunchakian Party, Dashnaktsutyun, Armenian Social-democrats, Specifics, Socialists-revolutionaries). The specific peculiarities of the national-political life of Armenia in the given time-period and their impact on the ideology of political forces are introduced.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "wisdom",
+        "type": "journal",
+        "issn": [
+          "1829-3824",
+          "2738-2753"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.wisdomperiodical.com/index.php/wisdom/article/download/349/249"
+      },
+      "topics": [
+        "Security, Politics, and Digital Transformation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3081382690"
+    },
+    {
+      "openalex_id": "W4402363836",
+      "doi": "10.33182/y.v5i1.3417",
+      "title": "From Lenin To Leninism",
+      "authors": [
+        {
+          "name": "Osvaldo Coggiola",
+          "openalex_id": "A5107083767"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-09",
+      "abstract": "In \u201cFrom Lenin to Leninism,\u201d Osvaldo Coggiola examines the evolution of Lenin's influence on the 20th century, as recognized by Eric Hobsbawm. Lenin's leadership during the October Revolution and the subsequent establishment of the Soviet state left an indelible mark on global history. This paper traces the transformation of Lenin's ideas into \u201cLeninism,\u201d a doctrine formalized posthumously, which became a foundation for the international communist movement. Coggiola highlights the contrast between Lenin's practical approach to revolutionary strategy and the rigid, bureaucratic interpretation that Stalin later imposed. The analysis delves into Lenin's theoretical contributions, particularly his views on the agrarian question and the proletarian revolution, while critiquing the subsequent misappropriation and mythologization of his legacy. This historical re-examination underscores Lenin's complex legacy and its implications for contemporary socialist thought and practice",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Yeiy\u00e1",
+        "type": "journal",
+        "issn": [
+          "2634-355X",
+          "2634-3568"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.tplondon.com/yeiya/article/download/3417/2715"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4402363836"
+    },
+    {
+      "openalex_id": "W1485408269",
+      "doi": null,
+      "title": "The Influences of Chernyshevsky, Tkachev, and Nechaev on the political thought of V.I. Lenin.",
+      "authors": [
+        {
+          "name": "Ian Wallace",
+          "openalex_id": "A5104352470"
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "The collapse of the Soviet Union has challenged Marxist political theory. Many people saw the collapse of the Soviet Union as a defeat of Marxism. Most scholars of Political Theory realize that Lenin did not follow Marxist writings. However, most still consider Lenin as predominately a Marxist. This thesis will examine the source of Lenin's ideas on Class, the Party, and the Revolution, and will trace these differences with Marx to chernyshevsky, Tkachev, and Nechaev. It will irrustrate the extent of the influence of Lenin's Russian, non-Marxist, predecessors. Lenin did indeed study and adopt aspects of Marxism, but he differed with him in some important areas, particularly Class, the Party, and the Revolution. Marx, writing in western Europe, sought human emancipation, while Lenin, in backward, autocratic Russia, sought political emancipation from the Tsarist autocracy. This resulted in differences between the thought and writings of Lenin and Marx.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "MacSphere (McMaster University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11375/12014"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Marxism and Critical Theory",
+        "Rousseau and Enlightenment Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1485408269"
+    },
+    {
+      "openalex_id": "W4391436013",
+      "doi": "10.4324/9781003431794",
+      "title": "Parliaments in the Late Russian Empire, Revolutionary Russia, and the Soviet Union",
+      "authors": [
+        {
+          "name": "Ivan Sablin",
+          "openalex_id": "A5007258038",
+          "orcid": "https://orcid.org/0000-0002-6706-4223"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-01",
+      "abstract": "This book examines the meanings that were attached to the terms \u201cparliament\u201d and \u201cparliamentarism\u201d in the different historical and discursive contexts of the late Russian Empire, revolutionary and Soviet Russia, and the Soviet Union. It discusses those institutions referred to as parliaments by contemporaries, gives special attention to their functions, and traces the broader debates on parliamentarism within Russia and the Soviet Union, in Russian \u00e9migr\u00e9 circles, and among foreign observers. It highlights that only the late imperial and perestroika assemblies can be considered legislative institutions that expressed dissensus but argues that other assemblies, often referred to as \u201crubber-stamp\u201d parliaments due to their lack of legislative competence and influence over other authorities, should not be dismissed. The Supreme Soviet, for instance, provided an integrative function binding society and elites in a top-down manner, while its deputies engaged in information acquisition and state micromanagement through interactions with their constituents. It also played an important role in interparliamentary relations and, as one of the first institutions of nominal parliamentarism in an autocratic single-party regime, of which there were many in the twentieth century, served as a model for numerous state socialist regimes. By addressing the role of parliaments in reassembling imperial spaces through political representation and the functions of nominal legislative institutions, the book explores the contribution of Russian and Soviet assemblies to global political modernity. Winner of the 2024 Ab Imperio Best Book Award for the best study in new imperial history and history of diversity in Northern Eurasia, up to the late twentieth century.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/oa-mono/download?identifierName=doi&identifierValue=10.4324/9781003431794&type=webpdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "American Constitutional Law and Politics",
+        "European Political History Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4391436013"
+    },
+    {
+      "openalex_id": "W2945710770",
+      "doi": null,
+      "title": "\"Wilson VS. Lenin\" revisited: The contending ideas of a new world order",
+      "authors": [
+        {
+          "name": "Mert Deniz",
+          "openalex_id": "A5042233225",
+          "orcid": "https://orcid.org/0000-0003-3371-2074"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-01",
+      "abstract": "The Great War brought destruction and death when it got unleashed with the bullet of an assassin in 1914.Yet, this was also the beginning of a New Order as much as being the end of the Old Order.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Bilkent University Institutional Repository (Bilkent University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11693/47716"
+      },
+      "topics": [
+        "International Relations and Foreign Policy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2945710770"
+    },
+    {
+      "openalex_id": "W2561329676",
+      "doi": null,
+      "title": "The political evolution of Vera Ivanovna Zasulich: populist, Marxist, socialist",
+      "authors": [
+        {
+          "name": "Bethany Wages",
+          "openalex_id": "A5036876714"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-04-21",
+      "abstract": "Late 19th century Russia grappled with the \"woman question,\" or the proper role of women in society. Vera Zasulich, quite literally, shot herself into this conversation by firing upon General F.F. Trepov in 1878. However, the existing literature has not adequately addressed the political career which Zasulich made for herself amongst socialist giants like Georgy Plekhanov and Vladimir Lenin, and has not attempted to do so since 1984.This thesis addresses the issue of Zasulich's political development in the 1880s, 1890s and early 1900s with special attention to her growth as a political thinker as she wove her ideas through the stages of populism, Marxism, and socialism. Specifically examined are her journal articles, letters, and memoirs in order to show her thought process, understandings, and sometimes conflation of these principles. This thesis juxtaposes her ideas with those of Marx, Engels, Plekhanov, and Lenin\u2014who were each arguably political geniuses in their own right\u2014in order to reveal the connections and disparities between them. In her writings, one can see that Zasulich never fully places herself in one political camp. For her, her experience in politics was somewhat fluid, and was much more about maintaining alliances and friendships in order to hold the socialist party together. I argue that while Zasulich might not have ever fully represented the concepts of populism, Marxism, and socialism, she did add a level of humanity and moralism to these principles which gave the public a way to apply these political ideas to their real lives and in essence created her own brand of socialism. In fact, I argue that the most interesting trait of Zasulich is that she was not genius political theorist like Plekhanov and Lenin. She was certainly an intellectual individual and was highly respected by her comrades for her contributions to the party, but for the most part she was an average member of the socialist party. Zasulich is an example of an average socialist who was able to garner the respect of and hold her own among the political giants of her day.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "IDEALS (University of Illinois Urbana-Champaign)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2142/90618"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2561329676"
+    },
+    {
+      "openalex_id": "W3027301419",
+      "doi": null,
+      "title": "A Chasm Between Two Vanguards: Near Encounters of Russian Emigre Marxists and Dadaism in Switzerland",
+      "authors": [
+        {
+          "name": "Bryan K. Herman",
+          "openalex_id": "A5005287935"
+        },
+        {
+          "name": "Axel Fair-Schulz",
+          "openalex_id": "A5043447553"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "In the year 1916, Switzerland was an island of peace in a sea of belligerence. Surrounded by Germany, France, and Italy, Switzerland was one of the few European counties to maintain its neutrality during the war that transformed Europe into a graveyard. It also became an ideal sanctuary for those who opposed the brutality and strident nationalism of World War I. Ever since the defeat of the 1905 Revolution in Russia, Switzerland had acted as an ideal place of refuge for members of the Russian Social Democratic Labor Party (the RSDLP, a Marxist party founded in 1898). This party sought to overthrow the Russian autocracy and further the cause of an internationalist revolution based upon Marxist principles of creating a society where \"the free development of each is the condition for the free development of all.\"",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "ScholarsArchive  (Brigham Young University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarsarchive.byu.edu/sahs_review/vol53/iss1/3"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3027301419"
+    },
+    {
+      "openalex_id": "W4405599685",
+      "doi": "10.34660/inf.2020.40.72.001",
+      "title": "STUDY OF THE DEVELOPMENT OF PROFESSIONAL COMPETENCE IN SPEECH THERAPISTS OF PRESCHOOL EDUCATIONAL ORGANIZATIONS",
+      "authors": [
+        {
+          "name": "N.A. Kalugina",
+          "openalex_id": "A5038605818",
+          "institutions": [
+            "Pacific National University"
+          ]
+        },
+        {
+          "name": "Tatiana Lukovenko",
+          "openalex_id": "A5108741305",
+          "institutions": [
+            "Pacific National University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.40.72.001"
+      },
+      "topics": [
+        "Foreign Language Teaching Methods",
+        "Educational Methods and Teacher Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599685"
+    },
+    {
+      "openalex_id": "W4307716632",
+      "doi": "10.18740/ss27330",
+      "title": "Sexism and the Left: Three Case Studies",
+      "authors": [
+        {
+          "name": "Abigail B. Bakan",
+          "openalex_id": "A5048895898",
+          "orcid": "https://orcid.org/0000-0003-4794-4693",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Paul Kellogg",
+          "openalex_id": "A5033643342",
+          "orcid": "https://orcid.org/0000-0001-7735-7575",
+          "institutions": [
+            "Athabasca University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-31",
+      "abstract": "Many Left organizations pride themselves on their commitment to women\u2019s liberation, and socialist feminism is a real and important current of Left praxis. Nonetheless, there is also a long history that demonstrates a remarkable persistence of sexist practices within socialist organizations. This article suggests that sexist practices, as well as feminist analyses of and responses to sexism, have been epistemologically minimized, dismissed, distorted and ultimately forgotten, enabling a normalization of patriarchal hegemony on the Left, and producing what the late Charles Mills termed an \u201cepistemology of ignorance.\u201d To demonstrate this, the article draws on three case studies, spanning recent and distant history of socialist organizing: the crisis of the International Socialist Tendency and Socialist Workers\u2019 Party UK (2010-13); the founding period of the International Socialists in Canada (1975-6); and the Bolshevik-Menshevik division in Tsarist Russia (1902-3). The argument is based on extensive original research including four decades of personal archives from socialist and feminist praxis.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Socialist studies",
+        "type": "journal",
+        "issn": [
+          "1717-2616",
+          "1918-2821"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://socialiststudies.com/index.php/sss/article/download/27330/20226"
+      },
+      "topics": [
+        "Historical Gender and Feminism Studies",
+        "Communism, Protests, Social Movements",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W4307716632"
+    },
+    {
+      "openalex_id": "W2189633242",
+      "doi": "10.5823/jsees.35.0_23",
+      "title": "Bolsheviks, Soviets and Old Believers",
+      "authors": [
+        {
+          "name": "Nobuo Shimotomai",
+          "openalex_id": "A5064634959",
+          "institutions": [
+            "Hosei University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "Following the liberalization of religion in Russia, activities of the Orthodoxy became salient by the beginning of the twenty-first century. This process is alongside the reinvigoration of the other religions like Islam, Judaism, and Buddhism. Gods survived and are alive in Russia. The demise of the atheist state, the USSR, and its opening of religious activities during the perestroika period may be the reason why de-seculalization began to predominate recently. The dichotomy of atheist Russia versus the religious West in the twentieth century has been reversed today, and replaced by a religious Russia confronting with a secularizing West in the twenty-first century.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Japanese Slavic and East European Studies",
+        "type": "journal",
+        "issn": [
+          "0389-1186",
+          "2434-9887"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.jstage.jst.go.jp/article/jsees/35/0/35_23/_pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W2189633242"
+    },
+    {
+      "openalex_id": "W2745182505",
+      "doi": "10.26512/ripe.v2i35.21430",
+      "title": "UM MODELO DE CONTATO S\u00d3LIDO-S\u00d3LIDO PARA O M\u00c9TODO DE PART\u00cdCULAS MOVING PARTICLE SIMULATION",
+      "authors": [
+        {
+          "name": "Pedro Henrique Saggioratto Osello",
+          "openalex_id": "A5079618491"
+        },
+        {
+          "name": "Liang\u2010Yee Cheng",
+          "openalex_id": "A5048151405",
+          "orcid": "https://orcid.org/0000-0003-1719-7463"
+        },
+        {
+          "name": "Rubens Augusto Amaro",
+          "openalex_id": "A5066359159",
+          "orcid": "https://orcid.org/0000-0003-1568-5447"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-22",
+      "abstract": "Problemas de intera\u00e7\u00e3o flu\u00eddo-estrutura com presen\u00e7a de superf\u00edcie livre e s\u00f3lidos livres para deslocar s\u00e3o fen\u00f4menos hidrodin\u00e2micos altamente n\u00e3o lineares e de elevada complexidade, que trazem grandes desafios para a modelagem e simula\u00e7\u00e3o computacional. Nos casos de contato ou colis\u00e3o entre s\u00f3lidos, normalmente \u00e9 necess\u00e1rio realizar algum tratamento espec\u00edfico para impedir a penetra\u00e7\u00e3o entre corpos. Nesse contexto, o objetivo deste trabalho \u00e9 contribuir para o desenvolvimento de uma t\u00e9cnica de simula\u00e7\u00e3o dos fen\u00f4menos hidr\u00e1ulicos e costeiros que envolvem a intera\u00e7\u00e3o entre flu\u00eddos e s\u00f3lidos apresentando um modelo de contato s\u00f3lido-s\u00f3lido para o m\u00e9todo Moving Particle Simulation (MPS). O MPS \u00e9 um m\u00e9todo baseado na discretiza\u00e7\u00e3o do dom\u00ednio em part\u00edculas, sem utiliza\u00e7\u00e3o de malha, e capaz de modelar geometrias complexas com grandes deslocamentos e deforma\u00e7\u00e3o, incluindo superf\u00edcies livres com fragmenta\u00e7\u00e3o e jun\u00e7\u00e3o de flu\u00eddos e presen\u00e7a de multicorpos. O modelo de contato s\u00f3lido-s\u00f3lido proposto visa estender as funcionalidades do MPS, simplificando for\u00e7as interfaciais por meio de um sistema massa-mola-amortecedor, de forma a reproduzir as propriedades macrosc\u00f3picas da intera\u00e7\u00e3o entre multicorpos. Compara\u00e7\u00f5es entre resultados num\u00e9ricos e anal\u00edticos s\u00e3o realizados para calibra\u00e7\u00e3o de constantes do modelo. O modelo \u00e9 aplicado para um caso de carregamento de s\u00f3lido livre em escoamento com superf\u00edcie livre, e comparado com resultados num\u00e9ricos e experimentais.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Latin American Theatre Review (The University of Kansas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://journals.ku.edu/jras/article/download/21430/19305"
+      },
+      "topics": [
+        "Fluid Dynamics Simulations and Interactions",
+        "Grouting, Rheology, and Soil Mechanics",
+        "Geotechnical Engineering and Underground Structures"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2745182505"
+    },
+    {
+      "openalex_id": "W4395960307",
+      "doi": "10.17161/jras.v7i2.21430",
+      "title": "Under the Influence: A Sectarian Railway Worker, the Bolsheviks, and the 1905 Russian Revolution",
+      "authors": [
+        {
+          "name": "Susan Schibanoff",
+          "openalex_id": "A5070008841"
+        },
+        {
+          "name": "James M. Schibanoff",
+          "openalex_id": "A5002706420"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-03",
+      "abstract": "Of Moldovan-Ukrainian heritage, Hariton Czebanov (1886-1962) was administratively exiled with his family to Transcaucasia in 1892 as a religious dissenter (Stundist). Barred from an education, he went to work on the Transcaucasian Railway and joined the Bolshevik Party in protest of his discriminatory treatment. After the 1905 revolution, the party demanded increasingly criminal activity from him; Czebanov took part in robberies and terror attacks (\u201cexpropriation\u201d) to fund the party intelligentsia in exile. He was jailed by the tsarist police several times. In 1907, out on bail and facing a sentence of \u201ckatorga\u201d (penal servitude), Czebanov could no longer support the \u201cmuddy wave\u201d of violence sweeping over the party. He stowed away on a steamer in Poti on the Black Sea and, three months later, arrived at Ellis Island. Once admitted to the U.S., Czebanov wrote a series of three letters detailing his dramatic passage to freedom. The article includes a translation of these detailed letters.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Russian American Studies",
+        "type": "journal",
+        "issn": [
+          "2473-7348"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://dx.doi.org/10.17161/jras.v7i2.21430"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W4395960307"
+    },
+    {
+      "openalex_id": "W4405599619",
+      "doi": "10.34660/inf.2020.95.55.001",
+      "title": "A NEW TOOTHBRUSHING TECHNIQUE FOR DENTAL DISEASE PREVENTION",
+      "authors": [
+        {
+          "name": "A.K. Salakhov",
+          "openalex_id": "A5103279870",
+          "orcid": "https://orcid.org/0000-0002-0791-1363",
+          "institutions": [
+            "Kazan State Medical University"
+          ]
+        },
+        {
+          "name": "A.A. Sorokina",
+          "openalex_id": "A5059936295",
+          "orcid": "https://orcid.org/0000-0003-0411-9837",
+          "institutions": [
+            "National Medical Research Center of Dentistry and Maxillofacial Surgery"
+          ]
+        },
+        {
+          "name": "\u0424.\u0424. \u041b\u043e\u0441\u0435\u0432",
+          "openalex_id": "A5054808535",
+          "orcid": "https://orcid.org/0000-0002-9448-9614",
+          "institutions": [
+            "Moscow Regional Scientific Research Clinical Institute. MF Vladimirsky"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.95.55.001"
+      },
+      "topics": [
+        "Dental Erosion and Treatment",
+        "Dental Radiography and Imaging",
+        "Oral microbiology and periodontitis research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599619"
+    },
+    {
+      "openalex_id": "W4405599769",
+      "doi": "10.34660/inf.2020.50.67.001",
+      "title": "FEATURES OF THE METHOD OF PRESERVING THE MENTAL WORKING ABILITY OF STUDENTS AT THE EDUCATION OF KINESIOLOGICAL TRAINING",
+      "authors": [
+        {
+          "name": "Olga V. Amurskaya",
+          "openalex_id": "A5043238498",
+          "institutions": [
+            "Belgorod National Research University"
+          ]
+        },
+        {
+          "name": "Y.A. Strelkova",
+          "openalex_id": "A5070696902",
+          "institutions": [
+            "Belgorod National Research University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.50.67.001"
+      },
+      "topics": [
+        "Physical Education and Training Studies",
+        "Sports Science and Education",
+        "Education and Professional Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599769"
+    },
+    {
+      "openalex_id": "W4405599096",
+      "doi": "10.34660/inf.2020.13.56.002",
+      "title": "DIGITAL TRANSFORMATION OF RUSSIAN EDUCATION",
+      "authors": [
+        {
+          "name": "L. Yu. Monakhova",
+          "openalex_id": "A5057922853",
+          "orcid": "https://orcid.org/0000-0003-1748-0891",
+          "institutions": [
+            "Russian Academy of Education"
+          ]
+        },
+        {
+          "name": "E.A. Riabokon",
+          "openalex_id": "A5115456702"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.13.56.002"
+      },
+      "topics": [
+        "Educational Innovations and Challenges",
+        "Innovations in Education and Learning Technologies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599096"
+    },
+    {
+      "openalex_id": "W4405599537",
+      "doi": "10.34660/inf.2020.58.21.002",
+      "title": "ON THE PHYSICS PARADIGM",
+      "authors": [
+        {
+          "name": "B.L. Ikhlov",
+          "openalex_id": "A5115421219",
+          "institutions": [
+            "Perm State University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.58.21.002"
+      },
+      "topics": [
+        "Quantum and Classical Electrodynamics",
+        "Relativity and Gravitational Theory",
+        "Fusion and Plasma Physics Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599537"
+    },
+    {
+      "openalex_id": "W4405599227",
+      "doi": "10.34660/inf.2020.29.40.002",
+      "title": "THE ROLE OF FAR EASTERN STATE MEDICAL UNIVERSITY IN MAINTAINING THE HEALTH OF SCHOOLCHILDREN",
+      "authors": [
+        {
+          "name": "Marina F. Rzyankina",
+          "openalex_id": "A5092769299",
+          "orcid": "https://orcid.org/0000-0001-6186-509X",
+          "institutions": [
+            "Far Eastern State Medical University"
+          ]
+        },
+        {
+          "name": "S.A. Kostromina",
+          "openalex_id": "A5115552029",
+          "institutions": [
+            "Far Eastern State Medical University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.29.40.002"
+      },
+      "topics": [
+        "Human Health and Disease",
+        "Healthcare Systems and Public Health",
+        "Physical Education and Training Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599227"
+    },
+    {
+      "openalex_id": "W4405599755",
+      "doi": "10.34660/inf.2020.24.16.001",
+      "title": "PROINFLAMMATORY CYTOKINES IN CHILDREN WITH TYPICAL HEMOLYTIC UREMIC SYNDROME",
+      "authors": [
+        {
+          "name": "O.V. Moskalets",
+          "openalex_id": "A5027628087",
+          "institutions": [
+            "Regional Clinical Research"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.24.16.001"
+      },
+      "topics": [
+        "Complement system in diseases",
+        "Heme Oxygenase-1 and Carbon Monoxide",
+        "Erythrocyte Function and Pathophysiology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599755"
+    },
+    {
+      "openalex_id": "W4405600246",
+      "doi": "10.34660/inf.2020.99.50.002",
+      "title": "GROWTH AND DEVELOPMENT OF INTRODUCED CHERRY VARIETIES IN ARID CONDITIONS OF THE ASTRAKHAN OBLAST",
+      "authors": [
+        {
+          "name": "\u0410. \u0410. \u0414\u0440\u043e\u043d\u0438\u043a",
+          "openalex_id": "A5010298934"
+        },
+        {
+          "name": "O. S. Sukhovetchenko",
+          "openalex_id": "A5075960643"
+        },
+        {
+          "name": "S.V. Klimov",
+          "openalex_id": "A5115552445"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.99.50.002"
+      },
+      "topics": [
+        "Agricultural Productivity and Crop Improvement",
+        "Agricultural Development and Policies",
+        "Agriculture and Biological Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405600246"
+    },
+    {
+      "openalex_id": "W4405599585",
+      "doi": "10.34660/inf.2020.93.90.001",
+      "title": "BRI IN THE CEE REGION \u2013 INITIATIVE OF OPPORTUNITIES AND CHALLENGES",
+      "authors": [
+        {
+          "name": "M. Smotrytska",
+          "openalex_id": "A5115552164",
+          "institutions": [
+            "Central China Normal University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.93.90.001"
+      },
+      "topics": [
+        "China's Ethnic Minorities and Relations",
+        "Economic Zones and Regional Development",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599585"
+    },
+    {
+      "openalex_id": "W4405599801",
+      "doi": "10.34660/inf.2020.72.82.002",
+      "title": "ENSURING ECONOMIC SECURITY FOR COOPERATIVE ENTREPRENEURSHIP UNDER CONDITIONS OF ECONOMIC STAGNATION",
+      "authors": [
+        {
+          "name": "Lydia N. Isachkova",
+          "openalex_id": "A5055433329",
+          "institutions": [
+            "Russian University of Cooperation"
+          ]
+        },
+        {
+          "name": "N.A. Asanova",
+          "openalex_id": "A5030451352",
+          "institutions": [
+            "Russian University of Cooperation"
+          ]
+        },
+        {
+          "name": "Saniyat Y. Hut",
+          "openalex_id": "A5046173986",
+          "institutions": [
+            "Russian University of Cooperation"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-19",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2020.72.82.002"
+      },
+      "topics": [
+        "Digitalization and Economic Development in Agriculture",
+        "Economic Development and Digital Transformation",
+        "Economic and Technological Developments in Russia"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405599801"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

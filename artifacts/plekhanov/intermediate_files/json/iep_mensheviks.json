@@ -1,0 +1,149 @@
+[search_iep.py] Connecting to Brave API for iep_via_brave search...
+[search_iep.py] Searching iep.utm.edu: 'Mensheviks', limit=20
+[search_iep.py] Retrieved 19 entries...
+[search_iep.py] Search complete: 19 entries found
+{
+  "status": "success",
+  "source": "iep_via_brave",
+  "query": "Mensheviks",
+  "results": [
+    {
+      "title": "Bakhtin Circle, The",
+      "url": "https://iep.utm.edu/bakhtin-circle/",
+      "entry_name": "bakhtin-circle",
+      "snippet": "Kagan was a Jewish intellectual who had been a member of the Social Democratic Party (the precursor of the Bolsheviks and Mensheviks) and he may have been attracted to Cohen\u2019s philosophy for its supposed affinity with Marxism (Cohen regarded his ethical philosophy as completely compatible with that of Marx), while rejecting the atheism of Russian Communism.",
+      "page_age": null,
+      "extra_snippets": [
+        "Kagan was a Jewish intellectual who had been a member of the Social Democratic Party (the precursor of the Bolsheviks and Mensheviks) and he may have been attracted to Cohen\u2019s philosophy for its supposed affinity with Marxism (Cohen regarded his ethical philosophy as completely compatible with that of Marx), while rejecting the atheism of Russian Communism."
+      ]
+    },
+    {
+      "title": "Russian Philosophy",
+      "url": "https://iep.utm.edu/russian/",
+      "entry_name": "russian",
+      "snippet": "This article provides a historical survey of Russian philosophers and thinkers. It emphasizes Russian epistemological concerns rather than ontological and ethical concerns, hopefully without neglecting or disparaging them. After all, much work in ethics, at least during the Soviet period, strictly ...",
+      "page_age": null
+    },
+    {
+      "title": "Totalitarianism",
+      "url": "https://iep.utm.edu/totalita/",
+      "entry_name": "totalita",
+      "snippet": "Totalitarianism is best understood as any system of political ideas that is both thoroughly dictatorial and utopian. It is an ideal type of governing notion, and as such, it cannot be realised perfectly \u00b7 Faced with the brutal reality of paradigmatic cases like Stalin\u2019s USSR and Nazi Germany, ...",
+      "page_age": null
+    },
+    {
+      "title": "Heidegger, Martin",
+      "url": "https://iep.utm.edu/heidegge/",
+      "entry_name": "heidegge",
+      "snippet": "Martin Heidegger is widely acknowledged to be one of the most original and important philosophers of the 20th century, while remaining one of the most controversial. His thinking has contributed to such diverse fields as phenomenology (Merleau-Ponty), existentialism (Sartre, Ortega y Gasset), ...",
+      "page_age": null
+    },
+    {
+      "title": "Plato\u2019s Meno",
+      "url": "https://iep.utm.edu/meno-2/",
+      "entry_name": "meno-2",
+      "snippet": "Plato\u2019s Meno introduces aspects of Socratic ethics and Platonic epistemology in a fictional dialogue that is set among important political events and cultural concerns in the last years of Socrates\u2019 life. It begins as an abrupt, prepackaged debater\u2019s challenge from Meno about whether ...",
+      "page_age": null
+    },
+    {
+      "title": "Frantz Fanon",
+      "url": "https://iep.utm.edu/fanon/",
+      "entry_name": "fanon",
+      "snippet": "Frantz Fanon was one of a few extraordinary thinkers supporting the decolonization struggles occurring after World War II, and he remains among the most widely read and influential of these voices. His brief life was notable both for his whole-hearted engagement in the independence struggle ...",
+      "page_age": null
+    },
+    {
+      "title": "Frankfurt School and Critical Theory",
+      "url": "https://iep.utm.edu/critical-theory-frankfurt-school/",
+      "entry_name": "critical-theory-frankfurt-school",
+      "snippet": "The Frankfurt School, known more appropriately as Critical Theory, is a philosophical and sociological movement spread across many universities around the world. It was originally located at the Institute for Social Research (Institut f\u00fcr Sozialforschung), an attached institute at the Goethe ...",
+      "page_age": null
+    },
+    {
+      "title": "MacIntyre: Political Philosophy",
+      "url": "https://iep.utm.edu/p-macint/",
+      "entry_name": "p-macint",
+      "snippet": "This article focuses on Alasdair MacIntyre\u2019s contribution to political philosophy since 1981, although MacIntyre has also written influential works on theology, Marxism, rationality, metaphysics, ethics, and the history of philosophy. He has made a personal intellectual journey from Marxism ...",
+      "page_age": null
+    },
+    {
+      "title": "Locke, John: Political Philosophy",
+      "url": "https://iep.utm.edu/locke-po/",
+      "entry_name": "locke-po",
+      "snippet": "John Locke (1632-1704) presents an intriguing figure in the history of political philosophy whose brilliance of exposition and breadth of scholarly activity remains profoundly influential \u00b7 Locke proposed a radical conception of political philosophy deduced from the principle of self-ownership ...",
+      "page_age": null
+    },
+    {
+      "title": "Plato: The Republic",
+      "url": "https://iep.utm.edu/republic/",
+      "entry_name": "republic",
+      "snippet": "Since the mid-nineteenth century, the Republic has been Plato\u2019s most famous and widely read dialogue. As in most other Platonic dialogues the main character is Socrates. It is generally accepted that the Republic belongs to the dialogues of Plato\u2019s middle period.",
+      "page_age": null
+    },
+    {
+      "title": "Musonius Rufus",
+      "url": "https://iep.utm.edu/musonius/",
+      "entry_name": "musonius",
+      "snippet": "Gaius Musonius Rufus was one of the four great Stoic philosophers of the Roman empire, along with Seneca, Epictetus, and Marcus Aurelius. Renowned as a great Stoic teacher, Musonius conceived of philosophy as nothing but the practice of noble behavior. He advocated a commitment to live for ...",
+      "page_age": null
+    },
+    {
+      "title": "Smith, Adam",
+      "url": "https://iep.utm.edu/smith/",
+      "entry_name": "smith",
+      "snippet": "Adam Smith is often identified as the father of modern capitalism. While accurate to some extent, this description is both overly simplistic and dangerously misleading. On the one hand, it is true that very few individual books have had as much impact as his An Inquiry into the Nature and Causes ...",
+      "page_age": null
+    },
+    {
+      "title": "Machiavelli, Niccol\u00f2",
+      "url": "https://iep.utm.edu/machiave/",
+      "entry_name": "machiave",
+      "snippet": "Machiavelli was a 16th century Florentine philosopher known primarily for his political ideas. His two most famous philosophical books, The Prince and the Discourses on Livy, were published after his death. His philosophical legacy remains enigmatic, but that result should not be surprising ...",
+      "page_age": null
+    },
+    {
+      "title": "Social Contract Theory",
+      "url": "https://iep.utm.edu/soc-cont/",
+      "entry_name": "soc-cont",
+      "snippet": "Social contract theory, nearly as old as philosophy itself, is the view that persons\u2019 moral and/or political obligations are dependent upon a contract or agreement among them to form the society in which they live. Socrates uses something quite like a social contract argument to explain to ...",
+      "page_age": null
+    },
+    {
+      "title": "Neo-Confucian Philosophy",
+      "url": "https://iep.utm.edu/neo-confucian-philosophy/",
+      "entry_name": "neo-confucian-philosophy",
+      "snippet": "\u201cNeo-Confucianism\u201d is the name commonly applied to the revival of the various strands of Confucian philosophy and political culture that began in the middle of the 9th century and reached new levels of intellectual and social creativity in the 11th century in the Northern Song Dynasty.",
+      "page_age": null
+    },
+    {
+      "title": "Political Philosophy: Methodology",
+      "url": "https://iep.utm.edu/polphil/",
+      "entry_name": "polphil",
+      "snippet": "Political philosophy begins with the question: what ought to be a person\u2019s relationship to society? The subject seeks the application of ethical concepts to the social sphere and thus deals with the variety of forms of government and social existence that people could live in \u2013 and in so ...",
+      "page_age": null
+    },
+    {
+      "title": "Camus, Albert",
+      "url": "https://iep.utm.edu/albert-camus/",
+      "entry_name": "albert-camus",
+      "snippet": "Albert Camus was a French-Algerian journalist, playwright, novelist, philosophical essayist, and Nobel laureate. Though he was neither by advanced training nor profession a philosopher, he nevertheless made important, forceful contributions to a wide range of issues in moral philosophy in his ...",
+      "page_age": null
+    },
+    {
+      "title": "Utilitarianism, Act and Rule",
+      "url": "https://iep.utm.edu/util-a-r/",
+      "entry_name": "util-a-r",
+      "snippet": "Utilitarianism is one of the best known and most influential moral theories. Like other forms of consequentialism, its core idea is that whether actions are morally right or wrong depends on their effects. More specifically, the only effects of actions that are relevant are the good and bad ...",
+      "page_age": null
+    },
+    {
+      "title": "Diogenes of Sinope",
+      "url": "https://iep.utm.edu/diogenes-of-sinope/",
+      "entry_name": "diogenes-of-sinope",
+      "snippet": "The most illustrious of the Cynic philosophers, Diogenes of Sinope serves as the template for the Cynic sage in antiquity. An alleged student of Antisthenes, Diogenes maintains his teacher\u2019s asceticism and emphasis on ethics, but brings to these philosophical positions a dynamism and sense ...",
+      "page_age": null
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

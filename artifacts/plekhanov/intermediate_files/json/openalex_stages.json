@@ -1,0 +1,972 @@
+[search_openalex.py] Searching OpenAlex: 'Menshevik theory Russian revolution stages' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_61edea67d5a758d0)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Menshevik theory Russian revolution stages",
+  "results": [
+    {
+      "openalex_id": "W4230970196",
+      "doi": "10.1017/cbo9780511665158",
+      "title": "Women, the State and Revolution",
+      "authors": [
+        {
+          "name": "Wendy Z. Goldman",
+          "openalex_id": "A5034272343",
+          "orcid": "https://orcid.org/0000-0001-8673-7908",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        }
+      ],
+      "publication_year": 1993,
+      "publication_date": "1993-11-26",
+      "abstract": "When the Bolsheviks came to power in 1917, they believed that under socialism the family would 'wither away.' They envisioned a society in which communal dining halls, daycare centres, and public laundries would replace the unpaid labour of women in the home. Yet by 1936 legislation designed to liberate women from their legal and economic dependence had given way to increasingly conservative solutions aimed at strengthening traditional family ties and women's reproductive role. This book explains the reversal, focusing on how women, peasants, and orphans responded to Bolshevik attempts to remake the family, and how their opinions and experiences in turn were used by the state to meet its own needs.",
+      "cited_by_count": 223,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7813438C26991B590627661501C0EAC9/9780511665158c1_p1-58_CBO.pdf/origins_of_the_bolshevik_vision_love_unfettered_women_free.pdf"
+      },
+      "topics": [
+        "Historical Gender and Feminism Studies"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4230970196"
+    },
+    {
+      "openalex_id": "W2747557934",
+      "doi": "10.26530/oapen_625271",
+      "title": "A People's History of the Russian Revolution",
+      "authors": [
+        {
+          "name": "Neil Faulkner",
+          "openalex_id": "A5032113939"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The Russian Revolution was an explosion of mass democracy from below. It transformed the people who took part and inspired tens of millions across the world. Its global impact shook the capitalist system to its foundations and came close to bringing it down. But in the end, the revolutionary movement was destroyed by the most murderous counter-revolutionary terror in history. And because the real history of the revolution is so subversive of class rule everywhere\u2014 East, West, and South\u2014 it has been buried under a mountain of lies, distortions, and denials. This book sets out to nail every bogus argument about the Russian Revolution\u2014 from Tories, Stalinists, and sectarians\u2014 and to present the living reality of a mass movement of millions, organised in participatory assemblies, mobilised for militant action.",
+      "cited_by_count": 8,
+      "type": "book",
+      "source": {
+        "name": "Pluto Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://oapen.org/download?type=document&docid=625271"
+      },
+      "topics": [
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2747557934"
+    },
+    {
+      "openalex_id": "W2049623879",
+      "doi": "10.21435/sfh.12",
+      "title": "Modernisation in Russia since 1900",
+      "authors": [
+        {
+          "name": "Jeremy Smith",
+          "openalex_id": "A5110094462",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Markku Kangaspuro",
+          "openalex_id": "A5012381235",
+          "orcid": "https://orcid.org/0000-0002-5112-4244",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-27",
+      "abstract": "Modernisation has been a constant theme in Russian history at least since Peter the Great launched a series of initiatives aimed at closing the economic, technical and cultural gap between Russia and the more \u2018advanced\u2019 countries of Europe. All of the leaders of the Soviet Union and post-Soviet Russia have been intensely aware of this gap, and have pursued a number of strategies, some more successful than others, in order to modernise the country. But it would be wrong to view modernisation as a unilinear process which was the exclusive preserve of the state. Modernisation has had profound effects on Russian society, and the attitudes of different social groups have been crucial to the success and failure of modernisation. This volume examines the broad theme of modernisation in late imperial, Soviet, and post-Soviet Russia both through general overviews of particular topics, and specific case studies of modernisation projects and their impact. Modernisation is seen not just as an economic policy, but as a cultural and social phenomenon reflected through such diverse themes as ideology, welfare, education, gender relations, transport, political reform, and the Internet. The result is the most up to date and comprehensive survey of modernisation in Russia available, which highlights both one of the perennial problems and the challenges and prospects for contemporary Russia.",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://oa.finlit.fi/site/books/10.21435/sfh.12/download/7745/"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 284,
+      "url": "https://openalex.org/W2049623879"
+    },
+    {
+      "openalex_id": "W4380301661",
+      "doi": "10.1332/251569121x16827529522153",
+      "title": "Understanding the timing and outcome of the Russian Revolution: a public choice approach",
+      "authors": [
+        {
+          "name": "Gregory M. Dempster",
+          "openalex_id": "A5108725560",
+          "institutions": [
+            "Hampden\u2013Sydney College"
+          ]
+        },
+        {
+          "name": "Robert B. Ekelund",
+          "openalex_id": "A5046935458",
+          "institutions": [
+            "Auburn University"
+          ]
+        },
+        {
+          "name": "Mark Thornton",
+          "openalex_id": "A5013407465",
+          "orcid": "https://orcid.org/0000-0003-4447-7612"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-12",
+      "abstract": "The October Revolution in Russia is better understood in light of Gordon Tullock\u2019s by-product theory of revolution. This approach entails a focus on private costs and benefits rather than on public goods. It is shown that in terms of economic development, fiscal stability, and income distribution, that is, public goods, conditions in late-tsarist Russia were improving, not deteriorating, as the revolution approached. We reinterpret the impact of the many political concessions that followed the earlier Russian Revolution of 1905 and conclude that they had ultimately increased, rather than decreased, the probability of revolution. Finally, we show that various forms of foreign intervention (financial, military, and philosophical) made the unlikely Lenin the ultimate victor in the outcome of the Russian Revolution.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Journal of Public Finance and Public Choice",
+        "type": "journal",
+        "issn": [
+          "2515-6918",
+          "2515-6926"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://bristoluniversitypressdigital.com/downloadpdf/journals/jpfpc/aop/article-10.1332-251569121X16827529522153/article-10.1332-251569121X16827529522153.pdf"
+      },
+      "topics": [
+        "Culture, Economy, and Development Studies",
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W4380301661"
+    },
+    {
+      "openalex_id": "W2926045715",
+      "doi": "10.4000/diacronie.7405",
+      "title": "Anarchism and the Perversion of the Russian Revolution",
+      "authors": [
+        {
+          "name": "Frank Jacob",
+          "openalex_id": "A5047957418",
+          "orcid": "https://orcid.org/0000-0003-1491-9707",
+          "institutions": [
+            "Hess (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "In considerazione del fatto che fu una delle pi\u00f9 importanti anarchiche degli Stati Uniti, si potrebbe pensare che Emma Goldman vedesse con favore i bolscevichi. Tuttavia, mentre sosteneva i fondamenti della Rivoluzione russa, criticava al contempo i bolscevichi per aver instaurato una dittatura basata sul terrore e sulla repressione di coloro che la criticavano. Dal suo esilio in Inghilterra e in Francia scrisse numerose lettere sottolineando come i bolscevichi non rappresentassero la speranza di una rivoluzione globale e della liberazione dei lavoratori internazionali, ma che avrebbero usato e corrotto gli ideali rivoluzionari per instaurare il loro potere e conservarlo. Questo articolo analizza questi scritti per mostrare come le speranze legate agli eventi del 1917 furono deluse dalla realt\u00e0 politica e come quegli eventi ebbero un impatto diretto sulla vita di Emma Goldman.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Diacronie",
+        "type": "journal",
+        "issn": [
+          "2038-0925"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://journals.openedition.org/diacronie/pdf/7405"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Political Economy and Marxism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W2926045715"
+    },
+    {
+      "openalex_id": "W2039373621",
+      "doi": "10.1017/s0020859000007641",
+      "title": "Russian Political Masonry and the February Revolution of 1917",
+      "authors": [
+        {
+          "name": "Barbara T. Norton",
+          "openalex_id": "A5015841209",
+          "institutions": [
+            "International Institute of Social History"
+          ]
+        }
+      ],
+      "publication_year": 1983,
+      "publication_date": "1983-08-01",
+      "abstract": "Few problems in modern Russian history are more complex or more bewildering than that of political Masonry ( politicheskoe masonstvo ) and its contribution to early-twentieth-century oppositional politics. A decade and a half ago Nathan Smith observed that \u201cAvailable firsthand evidence about the [political Masonic] movement [\u2026] is incredibly limited and raises as many questions as it answers.\u201d That observation is still valid as the origins, structure, composition and activities of the conspiratorial political Masonic organization remain among the best-kept secrets of Russia's past. Indeed, political Masonry was first mentioned in the historiography on the February Revolution only in the early 1930's. Then, for nearly three decades, scholars simply ignored the problem altogether. This was partially due to a paucity of sources; but equally important was the fact that the subject conjured up images of that pernicious Jewish-Masonicconspiracy theory so popular among right-wing \u00e9migr\u00e9 circles. During the 1960's historians once again turned their attention to political Masonry, although infrequently and usually only in passing. Since that time a number of treatments have appeared, yet none takes account of all the available evidence. Moreover, many historians continue to reject out of hand all efforts to deal with political Masonry, dismissing them as attempts to perpetuate the Jewish-Masonic-conspiracy myth, while other scholars reject the suggestion that the political Masonic organization played a crucial role in the overthrow of the Russian Monarchy and the establishment of the Provisional Government in 1917.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/33CEA258C54DF0948852AA2C0A4EBD1E/S0020859000007641a.pdf/div-class-title-russian-political-masonry-and-the-february-revolution-of-1917-div.pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W2039373621"
+    },
+    {
+      "openalex_id": "W2607873686",
+      "doi": "10.1162/isec_a_00277",
+      "title": "Ethnic Cleansing and Its Alternatives in Wartime: A Comparison of the Austro-Hungarian, Ottoman, and Russian Empires",
+      "authors": [
+        {
+          "name": "H. Zeynep Bulutgil",
+          "openalex_id": "A5024086876",
+          "orcid": "https://orcid.org/0000-0001-7588-2261",
+          "institutions": [
+            "Tufts University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-01",
+      "abstract": "According to the extant literature, state leaders pursue mass ethnic violence against minority groups in wartime if they believe that those groups are collaborating with an enemy. Treating the wartime leadership of a combatant state as a coherent unit, however, is misleading. Even in war, leaders differ in the degree to which they prioritize goals such as maintaining or expanding the territory of the state, and on whether they believe that minority collaboration with the enemy influences their ability to achieve those goals. Also, how leaders react to wartime threats from minority groups depends largely on the role that political organizations based on non-ethnic cleavages play in society. Depending on those cleavages, wartime minority collaboration may result in limited deportations and killings, ethnic cleansing, or minimal violence. A comparison of the policies of three multinational empires toward ethnic minority collaborators during World War I\u2014the Austro-Hungarian Empire and Italians, the Ottoman Empire and Armenians, and the Russian Empire and Muslims in the South Caucasus\u2014illustrates this finding.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "International Security",
+        "type": "journal",
+        "issn": [
+          "0162-2889",
+          "1531-4804"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/10055559/1/Bulutgil_Ethnic%20Cleansing%20and%20Its%20Alternatives%20in%20Wartime%20A%20Comparison%20of%20the%20Austro-Hungarian%2C%20Ottoman%2C%20and%20Russian%20Empires_VoR.pdf"
+      },
+      "topics": [
+        "Political Conflict and Governance",
+        "Turkey's Politics and Society",
+        "International Relations and Foreign Policy"
+      ],
+      "referenced_works_count": 84,
+      "url": "https://openalex.org/W2607873686"
+    },
+    {
+      "openalex_id": "W4297890037",
+      "doi": "10.1353/book.46089",
+      "title": "The Electrification of Russia, 1880-1926",
+      "authors": [
+        {
+          "name": "Coopersmith, Jonathan",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "abstract": "1886 Company' s Moscow station 52 Peat extraction Opening of the Kashira regional station Soviets and electrification are the basis of a new world Electrification and counterrevolution Kashira regional station",
+      "cited_by_count": 14,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://muse.jhu.edu/pub/255/oa_monograph/book/46089/pdf"
+      },
+      "topics": [
+        "Electrical and Electromagnetic Research",
+        "Global Energy Security and Policy"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W4297890037"
+    },
+    {
+      "openalex_id": "W2085711759",
+      "doi": "10.1111/j.1468-5965.2007.00775.x",
+      "title": "A Wider Europe? The View from Russia, Belarus and Ukraine*",
+      "authors": [
+        {
+          "name": "Stephen White",
+          "openalex_id": "A5102001338",
+          "orcid": "https://orcid.org/0000-0003-4306-092X",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Julia Korosteleva",
+          "openalex_id": "A5089138557",
+          "orcid": "https://orcid.org/0000-0003-4000-5992",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Ian McAllister",
+          "openalex_id": "A5065707858",
+          "orcid": "https://orcid.org/0000-0001-8448-6738",
+          "institutions": [
+            "Australian National University"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-02-14",
+      "abstract": "Abstract On the evidence of national surveys conducted between 2000 and 2006, there is a declining sense of European self\u2010identity in the three Slavic post\u2010Soviet republics of Russia, Belarus and Ukraine. Attitudes towards the European Union and the possibility of membership are broadly supportive, but with a substantial proportion who find it difficult to express a view, and substantial proportions are poorly informed in comparison with the general public in EU member or prospective member countries. Those who are better informed are more likely to favour EU membership and vice versa. Generally, socioeconomic characteristics (except for age and region) are relatively poor predictors of support for EU membership as compared with attitudinal variables. But \u2018Europeanness\u2019 should not be seen as a given, and much will depend on whether EU member countries emphasize what is common to east and west or establish \u2018new dividing lines\u2019 in place of those of the cold war.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "JCMS Journal of Common Market Studies",
+        "type": "journal",
+        "issn": [
+          "0021-9886",
+          "1468-5965"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-5965.2007.00775.x"
+      },
+      "topics": [
+        "European Union Policy and Governance",
+        "European Politics and Security",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2085711759"
+    },
+    {
+      "openalex_id": "W2567436195",
+      "doi": "10.3726/978-3-653-06473-5",
+      "title": "About Russia, Its Revolutions, Its Development and Its Present",
+      "authors": [
+        {
+          "name": "Michal Reiman",
+          "openalex_id": "A5044300362",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "University of Vienna",
+            "Institut f\u00fcr Zeitgeschichte M\u00fcnchen\u2013Berlin",
+            "Charles University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-07-29",
+      "abstract": "&amp;lt;P&amp;gt;The author analyzes modern Russian history from a new perspective. Due to the ideological heritage of the XIXth and XXth centuries, the social settings of the sociopolitical history of the USSR (1917\u00e2\u0080\u00931945) have not been fully identified. Detailed examination of ideological and political concepts shows that the revolution of 1917 became not a middle class, proletarian movement, but rather a plebeian one. The misjudgment by the new power enabled growth but caused tremendous losses of human lives and material damages. Socialization of economy and strict centralization led to a new social structure and established terror as an instrument for social reorganization. WWII revealed the necessity of a correction of these developments, but the events of the Cold War circumvented any further considerations.&amp;lt;/P&amp;gt;",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Peter Lang D eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.3726/978-3-653-06473-5"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Sociopolitical Dynamics in Russia",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W2567436195"
+    },
+    {
+      "openalex_id": "W1524486083",
+      "doi": "10.22004/ag.econ.294661",
+      "title": "Procrastination and Obedience",
+      "authors": [
+        {
+          "name": "George A. Akerlof",
+          "openalex_id": "A5081873388",
+          "orcid": "https://orcid.org/0000-0003-3049-6038"
+        },
+        {
+          "name": "George A. Akerlof",
+          "openalex_id": "A5081873388",
+          "orcid": "https://orcid.org/0000-0003-3049-6038"
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": "-Usual models of economic behavior used in analysis of policy reform assume individualistic values with forward looking rational expectations. These assumptions, while excellent at clarifying economic principles, are not quite realistic in an environment where significant \u2022 policy reform is taking place. This environment may be characterized more by individuals changing their minds and behavior as they respond to leadership and now ideas. This research models repeated decisions with time inconsistent behavior. Although each decision results in only small losses, the cumulative effect of a series of repeated errors can be quite large. Policy consequences of this type of behavior are illustrated with examples from \u2022 savings, crime, substance abuse, politics and bureaucratic organizations. Courses of action are reinforced by selective elimination of information contrary to that course of action, so that initial psychological overcommitments are reinforced. Limiting initial overcommitment and providing constant, contradictory information are important instruments to avoid the losses which result from procrastination and indoctrination.",
+      "cited_by_count": 869,
+      "type": "article",
+      "source": {
+        "name": "AgEcon Search (University of Minnesota, USA)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ageconsearch.umn.edu/record/294661"
+      },
+      "topics": [
+        "Gender, Labor, and Family Dynamics",
+        "Financial Literacy, Pension, Retirement Analysis",
+        "Housing Market and Economics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W1524486083"
+    },
+    {
+      "openalex_id": "W4302512827",
+      "doi": "10.7591/9781501705373",
+      "title": "The Electrification of Russia, 1880\u20131926",
+      "authors": [
+        {
+          "name": "Jonathan Coopersmith",
+          "openalex_id": "A5071848491",
+          "institutions": [
+            "College Station Medical Center",
+            "University of Illinois Urbana-Champaign",
+            "Hoover Institution",
+            "British Museum",
+            "Library of Congress"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-02",
+      "abstract": "The Electrification of Russia, 1880\u20131926 is the first full account of the widespread adoption of electricity in Russia, from the beginning in the 1880s to its early years as a state technology under Soviet rule.",
+      "cited_by_count": 9,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.7591/9781501705373"
+      },
+      "topics": [
+        "Electrical and Electromagnetic Research"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W4302512827"
+    },
+    {
+      "openalex_id": "W3121561801",
+      "doi": "10.15215/aupress/9781926836126.01",
+      "title": "Romancing the Revolution: The Myth of Soviet Democracy and the British Left",
+      "authors": [
+        {
+          "name": "Ian Bullock",
+          "openalex_id": "A5000599386"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-11-01",
+      "abstract": "Over two decades have passed since the collapse of the USSR, yet the words \"Soviet Union\" still carry significant weight in the collective memory of millions. But how often do we consider the true meaning of the term \"Soviet\"? Drawing extensively on left-wing press archives, Romancing the Revolution traces the reactions of the British Left to the idealized concept of Soviet democracy. Focusing on the turbulent period after the 1917 Russian Revolution, author Ian Bullock examines the impact of the myth of Soviet democracy: the belief that Russia was embarking on a brave experiment in a form of popular government more genuine and advanced than even the best forms of parliamentarism. Romancing the Revolution uncovers the imprint of this myth on left-wing organizations and their publications, ranging from those that presented themselves as \"British Bolsheviks\"\u00e2\u0080\u0094the British Socialist party and The Call, the Socialist Labour party's The Socialist, Sylvia Pankhurst's Workers' Dreadnought\u00e2\u0080\u0094to the much more equivocal Labour Leader and The New Statesmen.",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120187_99Z_Bullock_2011-Romancing_the_Revolution.pdf"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Political and Economic history of UK and US",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 140,
+      "url": "https://openalex.org/W3121561801"
+    },
+    {
+      "openalex_id": "W2592268719",
+      "doi": "10.5281/zenodo.1210387",
+      "title": "Revolution And Democracy: Socio-Political Systems In The Context Of Modernisation",
+      "authors": [
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5030688553",
+          "orcid": "https://orcid.org/0000-0003-0278-2619",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-31",
+      "abstract": "The stability of socio-political systems and the risks of destabilisationin the process of political transformation are among the most importantissues of social development; the transition to democracy may posea serious threat to the stability of a respective socio-political system. Thisarticle studies the issue of democratisation. It highlights the high economicand social costs of a rapid transition to democracy for countries unpreparedfor it\u2014democracy resulting from revolutions or similar large-scaleevents. The authors believe that in a number of cases authoritarian regimesturn out to be more effective in economic and social terms than emergingdemocracies, especially those of a revolutionary type, which are often incapableof ensuring social order and may have a swing to authoritarianism.Effective authoritarian regimes can also be a suitable form of transitionto an efficient and stable democracy. Using historical and contemporaryexamples, particularly the recent events in Egypt, the article investigatesvarious correlations between revolutionary events and the possibility of establishingdemocracy in a society.",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/GRIRAD-4.pdf"
+      },
+      "topics": [
+        "Post-Communist Economic and Political Transition",
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2592268719"
+    },
+    {
+      "openalex_id": "W2045996868",
+      "doi": "10.5195/cbp.2000.115",
+      "title": "Rethinking Russia's February Revolution: Anonymous Spontaneity or Socialist Agency?",
+      "authors": [
+        {
+          "name": "Michael Melan\u00e7on",
+          "openalex_id": "A5035281913"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "Six decades ago William Chamberlin wrote that \u201cthe collapse of the Romanov autocracy . . . was one of the most leaderless, spontaneous, anonymous revolutions of all times. . . . No one . .. realized that the strikes and bread riots . . . would culminate in the mutiny of the garrison and the overthrow of the government.\u201d The kernel of truth in this description, that no one knew for sure that the strikes of 23 February marked the beginning of the end of tsarism, has ever since mesmerized historiography of the revolution, leading to grave misapprehensions of what occurred and why. My 1990 study of the revolutionary movement during World War I and in the February Revolution painted an alternative picture in which socialist agency looms large in the onset and carrying out of tsarism\u2019s overthrow. New evidence about the February Revolution further strengthens my original arguments. This study\u2019s twofold purpose is to orient readers in the complicated events that preceded and accompanied the fall of the old regime and, with the use of new archival materials and analysis, renew the case for reinterpreting Russia\u2019s February Revolution.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "\u0098The \u009cCarl Beck papers in Russian and East European studies",
+        "type": "journal",
+        "issn": [
+          "0889-275X",
+          "2163-839X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/download/115/116"
+      },
+      "topics": [
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2045996868"
+    },
+    {
+      "openalex_id": "W3160332487",
+      "doi": "10.7591/9781501705397",
+      "title": "Revolution of the Mind",
+      "authors": [
+        {
+          "name": "Michael David\u2010Fox",
+          "openalex_id": "A5062578411",
+          "orcid": "https://orcid.org/0000-0002-6816-7304"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-01",
+      "abstract": "&lt;p&gt;Using archival materials never previously accessible to Western scholars, Michael David-Fox analyzes Bolshevik Party educational and research initiatives in higher learning after 1917. His fresh consideration of the era of the New Economic Policy and cultural politics after the Revolution explains how new communist institutions rose to parallel and rival conventional higher learning from the Academy of Sciences to the universities. Beginning with the creation of the first party school by intellectuals on the island of Capri in 1909, David-Fox argues, the Bolshevik cultural project was tightly linked to party educational institutions. He provides the first account of the early history and politics of three major institutions founded after the Revolution: Sverdlov Communist University, where the quest to transform everyday life gripped the student movement; the Institute of Red Professors, where the Bolsheviks sought to train a new communist intellectual or red specialist; and the Communist Academy, headquarters for a planned, collectivist, proletarian science.&lt;/p&gt;",
+      "cited_by_count": 5,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.7591/9781501705397"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Academic Freedom and Politics",
+        "Colonial History and Postcolonial Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3160332487"
+    },
+    {
+      "openalex_id": "W2968555045",
+      "doi": "10.2870/749506",
+      "title": "The Spanish anarchists and the Russian Revolution, 1917-24",
+      "authors": [
+        {
+          "name": "Arturo Zoffmann Rodr\u00edguez",
+          "openalex_id": "A5066344796",
+          "orcid": "https://orcid.org/0000-0002-2557-7848"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Defence date: 25 June 2019",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Cadmus - EUI Research Repository (European University Institute)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cadmus.eui.eu/bitstream/1814/63444/1/Zoffmann-Rodriguez_2019_HEC.pdf"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Spanish History and Politics",
+        "Spanish Culture and Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2968555045"
+    },
+    {
+      "openalex_id": "W2782996113",
+      "doi": "10.12797/9788376389042",
+      "title": "Deconstruction of Natural Order. The Legacy of the Russian Revolution",
+      "authors": [
+        {
+          "name": "Joachim Diec",
+          "openalex_id": "A5022967499",
+          "orcid": "https://orcid.org/0000-0002-3335-3772"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The book focuses on selected far-reaching consequences of the Russian Revolution: the transformation of law and legal culture, aberrations in international behavior, opening the way to nationalism as a motive for another revolution and timeless gnostic thinking, which underlay the revolutionary events and has never lost its orignial productivity in Russia. The authors try to present the legacy of the revolution in the context of the category of natural order. The analysis is based on four problematic issues: the nature of unnaturalness, the problem of equality, which involves the distinction between the people and the elite, the relation between the revolution and the natural order and the understanding of natural order from the pragmatic perspective.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Ksiegarnia Akademicka Publishing eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://books.akademicka.pl/publishing/catalog/download/163/443/401"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Religion and Society Interactions",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W2782996113"
+    },
+    {
+      "openalex_id": "W3006349292",
+      "doi": null,
+      "title": "The Prophet Disillusioned: Maxim Gorky and the Russian Revolutions",
+      "authors": [
+        {
+          "name": "Anita Alexandrovna Kondoyanidi",
+          "openalex_id": "A5091044201"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Ph.D.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "DigitalGeorgetown (Georgetown University Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10822/1057307"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Political theory and Gramsci",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3006349292"
+    },
+    {
+      "openalex_id": "W2206792450",
+      "doi": "10.4000/monderusse.8184",
+      "title": "Stenography and the public sphere in modern Russia",
+      "authors": [
+        {
+          "name": "Stephen Lovell",
+          "openalex_id": "A5111486781",
+          "institutions": [
+            "King's College London"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "Stenography brought about an unsung revolution in the modern world: for the first time ever, writing could keep up with speech*. In Russia, the adoption of this technology came later than in France or Britain, but it was concentrated in time and tied to a particular civilizational project: the Great Reforms launched in the 1860s, with their key values of glasnost\u00b4 and publichnost\u00b4. Over the decades that followed, stenography would play an important role in helping Russian society to imagine itself. Even if the right to publish was contested, stenography would also change the stakes and possibilities of political discourse. With the exhaustively recorded debates in the State Duma, stenography entered a Golden Age, which continued into the revolutionary and early Soviet periods. With the mushrooming of Soviet institutions and forms of assembly, the demands for stenographers\u2019 services had never been greater. From the mid\u20111920s onwards, stenography once again became contested territory, as the question of who got to control the transcript became paramount. Yet, even with the tightening of the representational system known as Socialist Realism, stenography retained\u2014at least until the adoption of user\u2011friendly sound recording technology in the mid\u20111940s\u2014much of its significance as a documentary record of public speech.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Cahiers du monde russe",
+        "type": "journal",
+        "issn": [
+          "1252-6576",
+          "1777-5388"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://journals.openedition.org/monderusse/pdf/8184"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Translation Studies and Practices",
+        "European Cultural and National Identity"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2206792450"
+    },
+    {
+      "openalex_id": "W3008391174",
+      "doi": "10.1080/09672567.2020.1720765",
+      "title": "Marxism before Marxism: Nikolaj Sieber and the birth of Russian social-democracy",
+      "authors": [
+        {
+          "name": "Fran\u00e7ois Allisson",
+          "openalex_id": "A5053849787",
+          "orcid": "https://orcid.org/0000-0002-4366-7548",
+          "institutions": [
+            "University of Lausanne"
+          ]
+        },
+        {
+          "name": "Federico D\u2019Onofrio",
+          "openalex_id": "A5010421690",
+          "orcid": "https://orcid.org/0000-0003-3519-3132",
+          "institutions": [
+            "Ca' Foscari University of Venice"
+          ]
+        },
+        {
+          "name": "\u0414\u0430\u043d\u0438\u043b\u0430 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 \u0420\u0430\u0441\u043a\u043e\u0432",
+          "openalex_id": "A5090600019",
+          "orcid": "https://orcid.org/0000-0003-2173-5949"
+        },
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447 \u0428\u0438\u0440\u043e\u043a\u043e\u0440\u0430\u0434",
+          "openalex_id": "A5076167038",
+          "orcid": "https://orcid.org/0000-0002-7006-5067",
+          "institutions": [
+            "St Petersburg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-19",
+      "abstract": "The Swiss-Russian economist Nikolaj Sieber was one of the first who wrote about Marx in Russia. In this article we reconstruct the development of his thought by mobilising evidence about the intellectual and political context he lived in. We document his involvement within the Ukrainian national movement of the 1870 s and argue that this closeness was consistent with his take on the capitalist evolution of the Russian Empire. We discuss his importance in the Russian debates on the future of the peasant commune and of Russia and conclude that his interpretation of Marx and capitalism was crucial for the development of the Russian social-democratic party.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "European Journal of the History of Economic Thought",
+        "type": "journal",
+        "issn": [
+          "0967-2567",
+          "1469-5936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://serval.unil.ch/notice/serval:BIB_8506F29A189A"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W3008391174"
+    },
+    {
+      "openalex_id": "W2913222212",
+      "doi": "10.21638/11701/spbu24.2018.401",
+      "title": "The Russian Revolution: Intellectuals, the Military, and the Politics of Modern Italy",
+      "authors": [
+        {
+          "name": "Francesco Randazzo",
+          "openalex_id": "A5020757215",
+          "institutions": [
+            "University of Perugia"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The Italian postwar reality was characterized by a political world of contrasts when, after the Russian-&#13;\\nGerman agreement, it was decided to continue the Italian military mission in Russia. In Italy, the \u201crevolutionary\u201d&#13;\\nphenomenon was known from the early months of the Bolshevik coup, and there had been many debates&#13;\\nover the \u201cRussian Question.\u201d This debate was very much alive and often involved authoritative members of the national&#13;\\nintelligentsia. Italy, involved in its first world conflict, intervened in the Russian civil war with military personnel&#13;\\nsupporting the White generals against the Red armed troops. Such action, determined by the high-alliance&#13;\\ncommands, took place in different areas of Russia, in the north of Arkhangelsk and Murmansk's regions, Transcaucasia&#13;\\nand Siberia. The Russian civil war was atrocious and bloody but, with their humanity, Italians brought&#13;\\nhope to the Russian people, hope that died with the choice made in Versailles in 1919 of withdrawing the missions&#13;\\nleaving Russia to its fate. Ignored by a great part of recent historiography is the activity of the Italian troops. In fact,&#13;\\nItaly had been playing a key role with its military and logistical support to the Siberian and Caucasus population,&#13;\\nat least until the Allied Powers pulled out of their missions because they considered the clash between Whites and&#13;\\nReds \u201cuna questione internazionale\u201d (an international issue).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Modern History of Russia",
+        "type": "journal",
+        "issn": [
+          "2219-9659",
+          "2309-7973"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://dspace.spbu.ru/bitstream/11701/15277/1/01-Randazzo.pdf"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2913222212"
+    },
+    {
+      "openalex_id": "W2046319378",
+      "doi": "10.1163/156920603322889240",
+      "title": "'The American Worker' and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart's Why Is There No Socialism in the United States?",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "a series of articles developing the idea that the Russian Revolution of 1905 would go beyond the framework of the classical bourgeois revolutions and lead to 'the ushering in of an era of European revolutions that will end with the dictatorship of the socialist society'. 4 In the 1922 Introduction to his book 1905, Trotsky remarked on Kautsky's position at that time:",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Historical Materialism",
+        "type": "journal",
+        "issn": [
+          "1465-4466",
+          "1569-206X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/view/journals/hima/11/4/article-p79_3.pdf"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2046319378"
+    },
+    {
+      "openalex_id": "W2765160739",
+      "doi": "10.1017/slr.2017.176",
+      "title": "In Pursuit of a Different Revolution: Russian Populists of the Seventies Generation in 1917",
+      "authors": [
+        {
+          "name": "\u0411\u0435\u043d \u042d\u043a\u043b\u043e\u0444",
+          "openalex_id": "A5110473935",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        },
+        {
+          "name": "Tatiana Saburova",
+          "openalex_id": "A5060849817",
+          "orcid": "https://orcid.org/0000-0002-6248-7024"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Nikolai Charushin and Vera Figner, both populists of the \u201c1870s generation,\u201d late in their lives played a role in the events of 1917, responding first with tempered enthusiasm, and then with trepidation over the growing chaos and polarization that led up to the Bolshevik revolution in October. Despite their efforts, such populists ended up on the losing side, and have often been criticized for misreading the situation in the country, holding na\u00efve beliefs or hegemonic and patronizing attitudes about the peasantry and having little experience with real world politics. In fact, if their full life stories, especially the two decades before 1917, are taken into account, they and others of their generation were immersed in the activities of the zemstvo, local politics in general, and newspaper affairs. Their caution, moderate stances and gradualism were based not so much on inexperience as on long exposure to the peasantry and to the needs of the countryside as well as rather prescient awareness of the potential for catastrophe in the situation at that time.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Slavic Review",
+        "type": "journal",
+        "issn": [
+          "0037-6779",
+          "2325-7784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1C015C100CBBCB73BC4E6776FBFDCF8D/S0037677917001760a.pdf/div-class-title-in-pursuit-of-a-different-revolution-russian-populists-of-the-seventies-generation-in-1917-div.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Populism, Right-Wing Movements",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2765160739"
+    },
+    {
+      "openalex_id": "W4327883572",
+      "doi": "10.1163/9789004495517_004",
+      "title": "\u2018The American Worker\u2019 and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart\u2019s Why Is There No Socialism in the United States?",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "a series of articles developing the idea that the Russian Revolution of 1905 would go beyond the framework of the classical bourgeois revolutions and lead to 'the ushering in of an era of European revolutions that will end with the dictatorship of the socialist society'. 4 In the 1922 Introduction to his book 1905, Trotsky remarked on Kautsky's position at that time:The debate over the character of the Russian revolution had, even during that period, gone beyond the con nes of Russian social democracy and had engaged the attention of the leading elements of world socialism.The Menshevik conception of bourgeois revolution was expounded most conscientiously, that is to say, most badly and candidly, in Cherevanin's book. 5 As soon as it appeared, the German opportunists seized hold of it with glee.At Kautsky's suggestion I wrote an analytical review of Cherevanin's book in Neue Zeit. 6 At the time, Kautsky himself fully identi ed himself with my views.Like Mehring (now deceased), he adopted the viewpoint of 'permanent revolution.' Today, Kautsky has retrospectively joined the ranks of the Mensheviks.He wants to reduce his past to the level of his present.But this falsi cation, which satis es the claims of an unclear theoretical conscience, is encountering obstacles in the form of printed documents.What Kautsky wrote in the earlier -the better!-period of his scienti c and literary activity (his reply to the Polish socialist Ljusnia, 7 his studies on Russian and American workers, his reply to Plekhanov's questionnaire concerning the character of the Russian revolution, 8 etc.) was and remains a merciless rejection of Menshevism and a complete theoretical vindication of the subsequent political tactics of the Bolsheviks, whom thickheads and renegades, with Kautsky today at their head, accuse of adventurism, demagogy, and Bakuninism. 980",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W4327883572"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

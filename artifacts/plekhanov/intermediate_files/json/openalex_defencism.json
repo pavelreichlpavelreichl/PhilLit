@@ -1,0 +1,148 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov World War I defencism' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 4 papers...
+[search_openalex.py] Search complete: 4 papers found
+[search_openalex.py] Cached results (cache key: openalex_f90ad6f9512ecd9b)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov World War I defencism",
+  "results": [
+    {
+      "openalex_id": "W3216610962",
+      "doi": "10.1017/nps.2021.73",
+      "title": "The Democratic Conference and the Pre-Parliament in Russia, 1917: Class, Nationality, and the Building of a Postimperial Community",
+      "authors": [
+        {
+          "name": "Ivan Sablin",
+          "openalex_id": "A5007258038",
+          "orcid": "https://orcid.org/0000-0002-6706-4223",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-22",
+      "abstract": "Abstract The article offers a detailed analysis of the debates at the All-Russian Democratic Conference and in the Provisional Council of the Russian Republic (the Pre-Parliament), which followed the proclamation of the republic on September 1, 1917, and predated the Bolshevik-led insurgency on October 25. The two assemblies were supposed to help resolve the multilayered political, economic, and military crises of the First World War and the Revolution by consolidating a Russian postimperial political community and establishing a solid government. The debates demonstrated that grievances and antagonism, which were articulated in terms of class and nationality, made the idea of a broad nationalist coalition unpopular, since it would halt agrarian and other reforms and continue the negligence of non-Russian groups. Furthermore, those who still called for all-Russian national or civic unity split on the issue of community-building. The top-down, homogenizing and bottom-up, composite approaches proved irreconcilable and precluded a compromise between non-socialist and moderate socialist groups. The two assemblies hence failed to ensure a peaceful continuation of the postimperial transformation and did not lead to a broad coalition against right and left radicalism. The divisions, which were articulated in the two assemblies, translated into the main rifts of the Russian Civil War.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Nationalities Papers",
+        "type": "journal",
+        "issn": [
+          "0090-5992",
+          "1465-3923"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B3CD4B28BECDDFCB58A9BEAA65F7976/S0090599221000738a.pdf/div-class-title-the-democratic-conference-and-the-pre-parliament-in-russia-1917-class-nationality-and-the-building-of-a-postimperial-community-div.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Historical Geopolitical and Social Dynamics",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W3216610962"
+    },
+    {
+      "openalex_id": "W2591515907",
+      "doi": null,
+      "title": "Lev Kamenev : a case study in 'Bolshevik Centrism'",
+      "authors": [
+        {
+          "name": "Nicholas W. Coombs",
+          "openalex_id": "A5015881922"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-01",
+      "abstract": "This dissertation challenges the view that Lev Kamenev lacked a clear socialist vision and had no discernible objectives. It contends that Kamenev had an ideological line and political goals shaped by Ferdinand Lassalle. Kamenev adopted Lassalle\u2019s desire for a democratic socialist republic and his method to achieve end aims. Through dialogical discourse Kamenev aimed to gain allies by overcoming differences by focusing on points of agreement. This was his \u2018Bolshevik Centrism\u2019. Ideologically, Kamenev absorbed Lassalle\u2019s concept of the \u2018Fourth Estate\u2019, which mandated proletarian culture first predominate in society before revolution could occur. This helps explain his opposition to revolution in 1905 and 1917, and sheds light on his assessment in the early 1920s that the Bolsheviks had not founded the \u2018dictatorship of the proletariat\u2019, but the \u2018dictatorship of the party\u2019. In trying to overcome this reality he adapted Lassalle\u2019s vision for an all-encompassing selfless state and endeavoured to merge the party, the state, and the masses into one. His aspiration to win over peasants and workers placed him in a centrist position, whereby he used his authority to challenge Trotsky and Bukharin\u2019s leftist and rightist policies. However, under the one-party dictatorship his actions directly contributed to the rise of Stalin.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://etheses.bham.ac.uk//id/eprint/7154/2/Coombs17PhD.pdf"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2591515907"
+    },
+    {
+      "openalex_id": "W4385608466",
+      "doi": "10.1007/978-981-99-2947-4",
+      "title": "The Contemporary Construction of the Chinese Form of Marxist Literary Criticism",
+      "authors": [
+        {
+          "name": "Yamin Hu",
+          "openalex_id": "A5084244959",
+          "orcid": "https://orcid.org/0000-0002-6077-8709",
+          "institutions": [
+            "Central China Normal University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "This open access book is the first comprehensive and systematic study of Chinese Marxist literary criticism as an independent theoretical form.",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-981-99-2947-4.pdf?pdf=button"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4385608466"
+    },
+    {
+      "openalex_id": "W2977395772",
+      "doi": null,
+      "title": "Socialism in One Country: A Study of Pragmatism and Ideology in the Soviet 1920s",
+      "authors": [
+        {
+          "name": "Michael Bensley",
+          "openalex_id": "A5049609107"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-01",
+      "abstract": "The period which existed between the establishment of the Bolshevik-led Republic in 1917 and Stalin's assumption of complete power in the late 1920s has been a focus of historical interest for decades. In this time the Soviet narrative began and what was once the Bolshevik dream would become twisted by events, bureaucracy, and personalities. The task of applying Marxian socialism to the Russia of 1917 would involve a colossal undertaking. Russia was a vast nation which contained a largely peasant population and, by contrast, a small and underdeveloped working class. The belief that Russia could be the first to try to build socialism, a path more befitting the industrialised west, inexorably led to a great many difficulties.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Kent Academic Repository (University of Kent)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kar.kent.ac.uk/47659/1/Socialism%20in%20One%20Country%20Redacted.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2977395772"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}
