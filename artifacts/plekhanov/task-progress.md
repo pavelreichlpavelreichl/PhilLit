@@ -14,7 +14,7 @@
 ## Progress Status
 
 - [x] Phase 1: Verify environment and determine execution mode
-- [ ] Phase 2: Structure literature review domains
+- [x] Phase 2: Structure literature review domains
 - [ ] Phase 3: Research domains (sequential)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequential)
@@ -23,12 +23,13 @@
 ## Completed Tasks
 
 [2026-07-16] Phase 1: Environment verified (check_setup.py status=ok). Working dir artifacts/plekhanov/ created.
+[2026-07-16] Phase 2: literature-review-planner (Opus) produced lit-review-plan.md — 6 domains (Philosophy of History [primary], Philosophical Foundations, Aesthetics, Political Thought/Trajectory, Influence & Intellectual Relations, Historiographical Debates).
 
 ## Current Task
 
-Starting Phase 2: literature-review-planner (Opus)
+Starting Phase 3: domain-literature-researcher (Sonnet), sequential, domain 1 of 6
 
 ## Next Steps
 
-1. Invoke literature-review-planner (Opus) to produce lit-review-plan.md
-2. Review plan, commit+push
+1. Run domain-literature-researcher for domains 1-6 sequentially (Sonnet), commit+push after each
+2. Phase 4: synthesis-planner (Opus)
