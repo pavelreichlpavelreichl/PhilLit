@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/09546545.2021.1984064
+[verify_paper.py] DOI verified: The 1905–07 Russian Revolution as a ‘Moment of Tru...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/09546545.2021.1984064"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09546545.2021.1984064",
+      "title": "The 1905\u201307 Russian Revolution as a \u2018Moment of Truth\u2019: An Overlooked Contribution from Menshevism",
+      "authors": [
+        {
+          "family": "Thatcher",
+          "given": "Ian D."
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Revolutionary Russia",
+      "volume": "34",
+      "issue": "2",
+      "page": "175-195",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/09546545.2021.1984064"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

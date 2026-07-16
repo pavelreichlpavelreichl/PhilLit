@@ -1,0 +1,52 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2991/HSSNPP-19.2019.14
+[verify_paper.py] DOI verified: Theoretical Views and Social Democratic Activities...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2991/HSSNPP-19.2019.14"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2991/hssnpp-19.2019.14",
+      "title": "Theoretical Views and Social Democratic Activities of G.V. Plekhanov",
+      "authors": [
+        {
+          "family": "Zhuravleva",
+          "given": "G.P."
+        },
+        {
+          "family": "Kornilova",
+          "given": "I.M."
+        },
+        {
+          "family": "Kovnir",
+          "given": "V.N."
+        },
+        {
+          "family": "Koroleva",
+          "given": "E.I."
+        },
+        {
+          "family": "Cherednichenko",
+          "given": "O.V."
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Proceedings of the Internation Conference on \"Humanities and Social Sciences: Novations, Problems, Prospects\" (HSSNPP 2019)",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Atlantis Press",
+      "type": "proceedings-article",
+      "suggested_bibtex_type": "inproceedings",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2991/hssnpp-19.2019.14"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

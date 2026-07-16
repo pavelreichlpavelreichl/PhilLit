@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/00323266708401121
+[verify_paper.py] DOI verified: Martov and Menshevism...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/00323266708401121"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00323266708401121",
+      "title": "Martov and Menshevism",
+      "authors": [
+        {
+          "family": "Moodie",
+          "given": "C G."
+        }
+      ],
+      "editors": [],
+      "year": 1967,
+      "container_title": "Politics",
+      "volume": "2",
+      "issue": "2",
+      "page": "274-279",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/00323266708401121"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

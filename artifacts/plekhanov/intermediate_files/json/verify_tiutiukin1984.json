@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/1856027
+[verify_paper.py] DOI verified: Pervaia rossiiskaia revoliutsiia i G. V. Plekhanov...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/1856027"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/1856027",
+      "title": "Pervaia rossiiskaia revoliutsiia i G. V. Plekhanov: Iz istorii ideinoi bor'by v rabochem dvizhenii Rossii v 1905-1907 gg. [The First Russian Revolution and G. V. Plekhanov: A History of the Ideological Struggle in the Workers' Movement in Russia in 1905-07]",
+      "authors": [
+        {
+          "family": "Ascher",
+          "given": "Abraham"
+        },
+        {
+          "family": "Tiutiukin",
+          "given": "S. V."
+        }
+      ],
+      "editors": [],
+      "year": 1984,
+      "container_title": "The American Historical Review",
+      "volume": "89",
+      "issue": "1",
+      "page": "172",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/1856027"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

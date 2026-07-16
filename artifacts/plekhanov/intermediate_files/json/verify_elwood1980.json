@@ -1,0 +1,31 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.7135/UPO9780857288295.006
+[verify_paper.py] DOI verified: Lenin and the Brussels ‘Unity’ Conference of July ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.7135/UPO9780857288295.006"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.7135/upo9780857288295.006",
+      "title": "Lenin and the Brussels \u2018Unity\u2019 Conference of July 1914",
+      "authors": [],
+      "editors": [],
+      "year": 2011,
+      "container_title": "The Non-Geometric Lenin",
+      "volume": "",
+      "issue": "",
+      "page": "73-86",
+      "publisher": "Anthem Press",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.7135/upo9780857288295.006"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

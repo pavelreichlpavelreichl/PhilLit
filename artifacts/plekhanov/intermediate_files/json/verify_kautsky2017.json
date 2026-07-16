@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/21598282.2017.1323312
+[verify_paper.py] DOI verified: Karl Kautsky and the Russian Revolution of 1905: A...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/21598282.2017.1323312"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/21598282.2017.1323312",
+      "title": "Karl Kautsky and the Russian Revolution of 1905: A Debate on the Driving Forces and the Prospects of the Russian Revolution in the Second International",
+      "authors": [
+        {
+          "family": "Avila",
+          "given": "Paula"
+        },
+        {
+          "family": "Gaido",
+          "given": "Daniel"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "International Critical Thought",
+      "volume": "7",
+      "issue": "3",
+      "page": "402-417",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/21598282.2017.1323312"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

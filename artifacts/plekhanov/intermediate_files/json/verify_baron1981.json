@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S0020859000007215
+[verify_paper.py] DOI verified: Plenkhanov in War and Revolution, 1914–17...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S0020859000007215"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s0020859000007215",
+      "title": "Plenkhanov in War and Revolution, 1914\u201317",
+      "authors": [
+        {
+          "family": "Baron",
+          "given": "Samuel H."
+        }
+      ],
+      "editors": [],
+      "year": 1981,
+      "container_title": "International Review of Social History",
+      "volume": "26",
+      "issue": "3",
+      "page": "325-376",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s0020859000007215"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

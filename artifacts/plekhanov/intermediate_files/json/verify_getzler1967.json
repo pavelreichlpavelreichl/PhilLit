@@ -1,0 +1,47 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Martov and Menshevism...' author=Getzler year=1967
+[verify_paper.py] Paper found: Martov: A Political Biography of a Russian Social ... (score: 34.6)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Martov and Menshevism",
+    "author": "Getzler",
+    "year": 1967
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/127449",
+      "title": "Martov: A Political Biography of a Russian Social Democrat",
+      "authors": [
+        {
+          "family": "Basil",
+          "given": "John D."
+        },
+        {
+          "family": "Martov",
+          "given": "Getzler's"
+        },
+        {
+          "family": "Getzler",
+          "given": "Israel"
+        }
+      ],
+      "editors": [],
+      "year": 1968,
+      "container_title": "Russian Review",
+      "volume": "27",
+      "issue": "4",
+      "page": "485",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/127449",
+      "score": 34.617416
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

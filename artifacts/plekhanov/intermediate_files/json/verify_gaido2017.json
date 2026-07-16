@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4067/s0718-50492017000400318
+[verify_paper.py] DOI verified: El grupo Iskra y el "modelo leninista" de organiza...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4067/s0718-50492017000400318"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4067/s0718-50492017000400318",
+      "title": "El grupo Iskra y el \"modelo leninista\" de organizaci\u00f3n partidaria: Un debate en el seno de la socialdemocracia rusa",
+      "authors": [
+        {
+          "family": "Gaido",
+          "given": "Daniel"
+        },
+        {
+          "family": "Jozami",
+          "given": "Maximiliano"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Izquierdas",
+      "volume": "",
+      "issue": "35",
+      "page": "318-369",
+      "publisher": "SciELO Agencia Nacional de Investigacion y Desarrollo (ANID)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4067/s0718-50492017000400318"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

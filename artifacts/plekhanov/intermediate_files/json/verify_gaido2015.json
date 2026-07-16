@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/1569206X-12341441
+[verify_paper.py] DOI verified: Vera Zasulich’s Critique of Neo-Populism...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/1569206X-12341441"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/1569206x-12341441",
+      "title": "Vera Zasulich\u2019s Critique of Neo-Populism",
+      "authors": [
+        {
+          "family": "Gaido",
+          "given": "Daniel"
+        },
+        {
+          "family": "Alessio",
+          "given": "Constanza Bosch"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "Historical Materialism",
+      "volume": "23",
+      "issue": "4",
+      "page": "93-125",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/1569206x-12341441"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

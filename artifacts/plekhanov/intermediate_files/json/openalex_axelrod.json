@@ -1,0 +1,347 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Axelrod Menshevism founders' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 9 papers...
+[search_openalex.py] Search complete: 9 papers found
+[search_openalex.py] Cached results (cache key: openalex_450f5af667935110)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Axelrod Menshevism founders",
+  "results": [
+    {
+      "openalex_id": "W2038472810",
+      "doi": "10.1080/09546545.2013.787807",
+      "title": "Georgii Plekhanov and the Communist Manifesto: the Proletarian Revolution Revisited",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "Russian State Agrarian Correspondence University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-01",
+      "abstract": "This article discusses the question of Georgii Plekhanov's contributions to Marxist revolutionary strategy. It argues that the strategy Plekhanov proposed in Our Differences (1885) was very different from the one he had earlier proposed in Socialism and Political Struggle (1883). Plekhanov pretended to model his Russian policies on the Communist Manifesto's policies for Germany in the mid-nineteenth century. However, in proposing that Russia's democratic revolution was to be followed by a protracted period of capitalist economic development, Plekhanov was in fact taking Marxism in a new direction. Plekhanov was the first Marxist to have rejected Marx's scenario of social revolution by numerically small proletariats and to have predicated the proletarian revolution on the proletarianisation of the majority of the population and integral industrialisation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revolutionary Russia",
+        "type": "journal",
+        "issn": [
+          "0954-6545",
+          "1743-7873"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/georgii-plekhanov-and-the-communist-manifesto-the-proletarian-revolution-revisited(aa90e6ab-11ec-4ba4-8008-970c19e649c0).html"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Institutions",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2038472810"
+    },
+    {
+      "openalex_id": "W2104781973",
+      "doi": "10.1353/imp.2004.0149",
+      "title": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u044d\u043c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u041f\u0430\u0432\u043b\u0430 \u0410\u043a\u0441\u0435\u043b\u044c\u0440\u043e\u0434\u0430 \u043f\u043e \u0410. \u041f. \u041d\u0435\u043d\u0430\u0440\u043e\u043a\u043e\u0432 (review)",
+      "authors": [
+        {
+          "name": "Francis King",
+          "openalex_id": "A5030080653",
+          "orcid": "https://orcid.org/0000-0002-2233-7320"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "620 \u0420\u0435\u0446\u0435\u043d\u0437\u0438\u0438/Reviews society that widened and became politicized in 19th century. Neither was \u201cmodern anti-Semitism\u201d (Arendt 1967, 9 passim) synonymous to the hatred or envy of Jews; but rather, and these aspects Gilman overlooks, was motivated by the tensions between the state and different social classes, which invoked anti-Semitism \u201cbecause the only social group which seemed to represent the state were the Jews\u201d (Arendt 1967, 25). In other words, the objections against the sociopolitical aspects of Gilman\u2019s book here are (i) that his linear and rather one-dimensional view of history is insufficiently located in a particular view of the development of the German state, (ii) does not take into account the complex inter-class relations between Jews and the rest of society, (iii) and actually tells us little about \u201cmodern\u201d forms of antiSemitism . Otherwise, of course, Freud, Race, and Gender is an original and highly informative work. I am sure Freud would have read it with interest. Francis KING \u0410. \u041f. \u041d\u0435\u043d\u0430\u0440\u043e\u043a\u043e\u0432. \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u044d\u043c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u041f\u0430\u0432\u043b\u0430 \u0410\u043a\u0441\u0435\u043b\u044c\u0440\u043e\u0434\u0430. \u041c\u043e\u0441\u043a\u0432\u0430: \u0410\u0418\u0420\u041e-\u0425\u0425, 2001. 166 \u0441. ISBN: 5-88735-085-7. Pavel Aksel\u2019rod (1850-1928) was one of the founders of Russian Marxism, and the most important ideologue of Menshevism from 1903 until the 1920s.Although he has not received the same attention from historians as Lenin,Trotsky, Plekhanov, or even Martov, he was the subject of one full-length study published in 1972 \u2013 Abraham Ascher\u2019s Pavel Axelrod and the Development of Menshevism. Ascher\u2019s account was a model political biography, but was weighted heavily toward the pre-Revolutionary period. Al\u2019bert Nenarokov\u2019s short book, which concentrates on Aksel\u2019rod\u2019s ideas and activities after he left Russia for the last time in August 1917, now provides a useful complement to Ascher\u2019s classic monograph. Nenarokov has been researching and writing on the history of the revolution for at least three decades and, following the collapse of the USSR, has been working on the history of Menshevism. This book is very much the fruit of his research in Western libraries and archives. It draws very heavily on Aksel\u2019rod\u2019s papers at the International Institute of Social History in Amsterdam, 621 Ab Imperio, 3/2004 and on the papers of the Menshevik archivist Boris Nikolaevsky at the Hoover Institution. The text contains extensive quotations from Aksel\u2019rod\u2019s letters and articles from the 1920s. By making this material more widely available, Nenarokov has made a valuable contribution to the historiography of Menshevism. Letters from Aksel\u2019rod to the rightwing Menshevik A. N. Potresov in the 1920s, in which he sets out his criticisms of the official line, are reproduced verbatim in an appendix , as are Aksel\u2019rod\u2019s comments on Potresov\u2019s critique of official Menshevism. Nenarokov\u2019s book has no index, but it does contain helpful short biographical notes on the persons mentioned within it. Menshevik material up to 1920 or so is easy enough to find in Russian archives, but the records of the organization in exile, from 1920 to the 1960s, have remained in the West. As Nenarokov\u2019s book shows, the West is not an incongruous location for those records. From its inception in the 1880s, Russian Marxism was part of the Westernizing trend in Russian social thought. It represented the far left of the Russian Westernizers, those who believed that capitalism and Western patterns of development were inevitable for Russia, and needed to be met with a powerful Western-style labor and socialist movement. Perhaps more than anyone else, Aksel\u2019rod embodied this idea. He spent most of his adult life as a political exile, mainly in Switzerland. He imbibed the values and traditions of Western, especially German, social democracy , and was concerned above all to apply what he had learned to the Russian situation. Unusually, however, Aksel\u2019rod had not come from the educated, cosmopolitan intelligentsia. He was born into a desperately poor, uneducated , and devout Jewish family, and managed to acquire a Russian education, up to university level, through a combination of sheer luck and hard work. His relentless pursuit of broader horizons, which in his early youth led him to reject the mental straightjacket of Orthodox Judaism, later led him to reject the backwardness of Russian society. As Nenarokov aptly...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Ab imperio",
+        "type": "journal",
+        "issn": [
+          "2164-9731",
+          "2166-4072"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History",
+        "Sociopolitical Dynamics in Russia"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2104781973"
+    },
+    {
+      "openalex_id": "W4211228549",
+      "doi": "10.15215/aupress/9781771992732.01",
+      "title": "World Bolshevism",
+      "authors": [
+        {
+          "name": "Iulii Martov",
+          "openalex_id": "A5020447018"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-11",
+      "abstract": "Backwards 51 II. The Ideology of \"Sovietism\" 6 > The Mysticism of the Soviet System 59 7 > Dictatorship of a Minority 63 8 > Dictatorship over the Proletariat 71 9 > Metaphysical Materialism and Dialectical Materialism 81 Photograph of Iulii Martov, taken by police after his arrest in January 1896. 1 https://doi.org/10",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120288_Martov_Kellogg_2022-World-Bolshevism.pdf"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society",
+        "European history and politics"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W4211228549"
+    },
+    {
+      "openalex_id": "W2013758453",
+      "doi": "10.1017/s0020859000113689",
+      "title": "Workers, the Intelligentsia and Marxist Parties: St Petersburg, 1895\u20131917 and Shanghai, 1921\u20131927",
+      "authors": [
+        {
+          "name": "Steve Smith",
+          "openalex_id": "A5110355441"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Summary The article investigates relations between workers and intellectuals in the pre-revolutionary Bolshevik Party in St Petersburg and the Chinese Communist Party in Shanghai. It commences with a background examination of the social position and traditions of the intelligentsia in each country and the emergence of a stratum of so-called \u201cconscious\u201d workers. The position of workers in each party is then analysed, especially with respect to leadership, and the nature of tensions between workers and intellectuals explored. The investigation demonstrates that workers acquiesced in their subordination to a greater degree in Shanghai than in St Petersburg, and this and other differences are traced back to historical and cultural context. In conclusion, the implications of contextual differences are explored in order to suggest why the intelligentsia in the People's Republic of China (PRC) attracted greater odium from the party-state than its counterpart in the Soviet Union.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9191CC56DF3C068E213A80E8C85044BE/S0020859000113689a.pdf/div-class-title-workers-the-intelligentsia-and-marxist-parties-st-petersburg-1895-1917-and-shanghai-1921-1927-div.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Philippine History and Culture",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W2013758453"
+    },
+    {
+      "openalex_id": "W4409426054",
+      "doi": "10.33043/yfydh5bn",
+      "title": "A History of Marxist Hegemony",
+      "authors": [
+        {
+          "name": "Sylus Smith",
+          "openalex_id": "",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-14",
+      "abstract": "Hegemony, as popularized by Antonio Gramsci, has earned great importance in Marxist debates over the conquest of power. Unsurprisingly, this has also led to a renewed exploration of its origins in the writings of Vladimir Lenin, Georgi Plekhanov, and even Karl Kautsky as argued by the historian Lars Lih. This paper examines that history by returning to their original writings and contemporary analysis by Grigory Zinoviev. In doing so, I demonstrate a fundamental break between the original \"strategy\" of hegemony found in earlier theorists and Lenin\u2019s \"theory\" of hegemony as elaborated upon by Gramsci.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Stance An International Undergraduate Philosophy Journal",
+        "type": "journal",
+        "issn": [
+          "1943-1880",
+          "1943-1899"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://openjournals.bsu.edu/stance/article/download/5719/3219"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4409426054"
+    },
+    {
+      "openalex_id": "W4402363836",
+      "doi": "10.33182/y.v5i1.3417",
+      "title": "From Lenin To Leninism",
+      "authors": [
+        {
+          "name": "Osvaldo Coggiola",
+          "openalex_id": "A5107083767"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-09",
+      "abstract": "In \u201cFrom Lenin to Leninism,\u201d Osvaldo Coggiola examines the evolution of Lenin's influence on the 20th century, as recognized by Eric Hobsbawm. Lenin's leadership during the October Revolution and the subsequent establishment of the Soviet state left an indelible mark on global history. This paper traces the transformation of Lenin's ideas into \u201cLeninism,\u201d a doctrine formalized posthumously, which became a foundation for the international communist movement. Coggiola highlights the contrast between Lenin's practical approach to revolutionary strategy and the rigid, bureaucratic interpretation that Stalin later imposed. The analysis delves into Lenin's theoretical contributions, particularly his views on the agrarian question and the proletarian revolution, while critiquing the subsequent misappropriation and mythologization of his legacy. This historical re-examination underscores Lenin's complex legacy and its implications for contemporary socialist thought and practice",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Yeiy\u00e1",
+        "type": "journal",
+        "issn": [
+          "2634-355X",
+          "2634-3568"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.tplondon.com/yeiya/article/download/3417/2715"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4402363836"
+    },
+    {
+      "openalex_id": "W4411005457",
+      "doi": "10.1111/ajph.13061",
+      "title": "Democratic Socialism and Social Democracy: The Relationship of Concepts in the Historical Aspect",
+      "authors": [
+        {
+          "name": "Gintaras Mitrulevi\u010dius",
+          "openalex_id": "A5006251609",
+          "institutions": [
+            "Mykolas Romeris University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-06-02",
+      "abstract": "Over the past decade, the ideas of democratic socialism have gained significant popularity, especially in the United States. However, public discourse\u2014both among critics and supporters\u2014often presents conflicting and highly debatable concepts of democratic socialism, especially when it comes to interpretations of its relationship to the concept of social democracy. This article explores the historical relationship between these two concepts. It examines the relationship between democratic socialists and Russian Bolshevism, as well as the political order of the USSR. Additionally, the paper analyses the relationship between the concepts of socialism and democracy, which is characteristic of the social democratic ideological and political tradition. It also reveals the relationship between democratic socialism and the concept and practice of nationalisation, as far as it is relevant to this analysis. The paper argues that, in historical terms, democratic socialism is essentially (almost) synonymous with social democracy.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Australian Journal of Politics & History",
+        "type": "journal",
+        "issn": [
+          "0004-9522",
+          "1467-8497"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ajph.13061"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4411005457"
+    },
+    {
+      "openalex_id": "W2745182505",
+      "doi": "10.26512/ripe.v2i35.21430",
+      "title": "UM MODELO DE CONTATO S\u00d3LIDO-S\u00d3LIDO PARA O M\u00c9TODO DE PART\u00cdCULAS MOVING PARTICLE SIMULATION",
+      "authors": [
+        {
+          "name": "Pedro Henrique Saggioratto Osello",
+          "openalex_id": "A5079618491"
+        },
+        {
+          "name": "Liang\u2010Yee Cheng",
+          "openalex_id": "A5048151405",
+          "orcid": "https://orcid.org/0000-0003-1719-7463"
+        },
+        {
+          "name": "Rubens Augusto Amaro",
+          "openalex_id": "A5066359159",
+          "orcid": "https://orcid.org/0000-0003-1568-5447"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-22",
+      "abstract": "Problemas de intera\u00e7\u00e3o flu\u00eddo-estrutura com presen\u00e7a de superf\u00edcie livre e s\u00f3lidos livres para deslocar s\u00e3o fen\u00f4menos hidrodin\u00e2micos altamente n\u00e3o lineares e de elevada complexidade, que trazem grandes desafios para a modelagem e simula\u00e7\u00e3o computacional. Nos casos de contato ou colis\u00e3o entre s\u00f3lidos, normalmente \u00e9 necess\u00e1rio realizar algum tratamento espec\u00edfico para impedir a penetra\u00e7\u00e3o entre corpos. Nesse contexto, o objetivo deste trabalho \u00e9 contribuir para o desenvolvimento de uma t\u00e9cnica de simula\u00e7\u00e3o dos fen\u00f4menos hidr\u00e1ulicos e costeiros que envolvem a intera\u00e7\u00e3o entre flu\u00eddos e s\u00f3lidos apresentando um modelo de contato s\u00f3lido-s\u00f3lido para o m\u00e9todo Moving Particle Simulation (MPS). O MPS \u00e9 um m\u00e9todo baseado na discretiza\u00e7\u00e3o do dom\u00ednio em part\u00edculas, sem utiliza\u00e7\u00e3o de malha, e capaz de modelar geometrias complexas com grandes deslocamentos e deforma\u00e7\u00e3o, incluindo superf\u00edcies livres com fragmenta\u00e7\u00e3o e jun\u00e7\u00e3o de flu\u00eddos e presen\u00e7a de multicorpos. O modelo de contato s\u00f3lido-s\u00f3lido proposto visa estender as funcionalidades do MPS, simplificando for\u00e7as interfaciais por meio de um sistema massa-mola-amortecedor, de forma a reproduzir as propriedades macrosc\u00f3picas da intera\u00e7\u00e3o entre multicorpos. Compara\u00e7\u00f5es entre resultados num\u00e9ricos e anal\u00edticos s\u00e3o realizados para calibra\u00e7\u00e3o de constantes do modelo. O modelo \u00e9 aplicado para um caso de carregamento de s\u00f3lido livre em escoamento com superf\u00edcie livre, e comparado com resultados num\u00e9ricos e experimentais.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Latin American Theatre Review (The University of Kansas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://journals.ku.edu/jras/article/download/21430/19305"
+      },
+      "topics": [
+        "Fluid Dynamics Simulations and Interactions",
+        "Grouting, Rheology, and Soil Mechanics",
+        "Geotechnical Engineering and Underground Structures"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2745182505"
+    },
+    {
+      "openalex_id": "W4395960307",
+      "doi": "10.17161/jras.v7i2.21430",
+      "title": "Under the Influence: A Sectarian Railway Worker, the Bolsheviks, and the 1905 Russian Revolution",
+      "authors": [
+        {
+          "name": "Susan Schibanoff",
+          "openalex_id": "A5070008841"
+        },
+        {
+          "name": "James M. Schibanoff",
+          "openalex_id": "A5002706420"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-03",
+      "abstract": "Of Moldovan-Ukrainian heritage, Hariton Czebanov (1886-1962) was administratively exiled with his family to Transcaucasia in 1892 as a religious dissenter (Stundist). Barred from an education, he went to work on the Transcaucasian Railway and joined the Bolshevik Party in protest of his discriminatory treatment. After the 1905 revolution, the party demanded increasingly criminal activity from him; Czebanov took part in robberies and terror attacks (\u201cexpropriation\u201d) to fund the party intelligentsia in exile. He was jailed by the tsarist police several times. In 1907, out on bail and facing a sentence of \u201ckatorga\u201d (penal servitude), Czebanov could no longer support the \u201cmuddy wave\u201d of violence sweeping over the party. He stowed away on a steamer in Poti on the Black Sea and, three months later, arrived at Ellis Island. Once admitted to the U.S., Czebanov wrote a series of three letters detailing his dramatic passage to freedom. The article includes a translation of these detailed letters.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Russian American Studies",
+        "type": "journal",
+        "issn": [
+          "2473-7348"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://dx.doi.org/10.17161/jras.v7i2.21430"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W4395960307"
+    }
+  ],
+  "count": 9,
+  "errors": []
+}

@@ -27,12 +27,13 @@
 [2026-07-16] Phase 3, Domain 1/6: domain-literature-researcher (Sonnet) produced literature-domain-1.bib — 18 entries (Philosophy of History and Historical Materialism, PRIMARY FOCUS). No source issues.
 [2026-07-16] Phase 3, Domain 2/6: domain-literature-researcher (Sonnet) produced literature-domain-2.bib — 17 entries (Philosophical Foundations: monism, dialectics, hieroglyph theory, Hegel/Marx/Engels/French materialists). No source issues (CORE returned 0 matches but no error).
 [2026-07-16] Phase 3, Domain 3/6: domain-literature-researcher (Sonnet) produced literature-domain-3.bib — 11 entries (Aesthetics and Sociological Theory of Art). CORE/OpenAlex thin on play-theory sub-topic (noted gap); one mismatched NDPR abstract caught and corrected during QC.
+[2026-07-16] Phase 3, Domain 4/6: domain-literature-researcher (Sonnet) produced literature-domain-4.bib — 10 entries (Political Thought and Trajectory: Menshevism, 1903 split, WWI defencism). No dedicated SEP/IEP entries on Menshevism/RSDLP split (gap noted); CORE no hits.
 
 ## Current Task
 
-Phase 3: domain-literature-researcher (Sonnet), sequential, domain 4 of 6 (Political Thought and Trajectory)
+Phase 3: domain-literature-researcher (Sonnet), sequential, domain 5 of 6 (Influence and Intellectual Relations)
 
 ## Next Steps
 
-1. Run domain-literature-researcher for domains 4-6 sequentially (Sonnet), commit+push after each
+1. Run domain-literature-researcher for domains 5-6 sequentially (Sonnet), commit+push after each
 2. Phase 4: synthesis-planner (Opus)

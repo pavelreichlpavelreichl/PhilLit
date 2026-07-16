@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/2708043
+[verify_paper.py] DOI verified: Plekhanov's Russia: The Impact of the West Upon an...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2708043"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2708043",
+      "title": "Plekhanov's Russia: The Impact of the West Upon an \"Oriental\" Society",
+      "authors": [
+        {
+          "family": "Baron",
+          "given": "Samuel H."
+        }
+      ],
+      "editors": [],
+      "year": 1958,
+      "container_title": "Journal of the History of Ideas",
+      "volume": "19",
+      "issue": "3",
+      "page": "388",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2708043"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
