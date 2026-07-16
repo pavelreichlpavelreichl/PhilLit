@@ -1,0 +1,764 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov theory of art tendentious realism' (year=1960-2025), limit=25
+[search_openalex.py] Retrieved 23 papers...
+[search_openalex.py] Search complete: 23 papers found
+[search_openalex.py] Cached results (cache key: openalex_dda2e210bd187870)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov theory of art tendentious realism",
+  "results": [
+    {
+      "openalex_id": "W1485753555",
+      "doi": null,
+      "title": "Social realism in Alex La Guma's longer fiction.",
+      "authors": [
+        {
+          "name": "Jabulani Mkhize",
+          "openalex_id": "A5078580706"
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": "This work is dedicated firstly, to my late father, Julius.and my late brother.Senzeni -I know they would have been proud of this achievement.Perhaps most significantly, this work is also dedicated to two important women in my life: mother.Adelaide, and my wife.Siphokazi.Both of them have had to put up with testing situations",
+      "cited_by_count": 6,
+      "type": "dissertation",
+      "source": {
+        "name": "ResearchSpace (University of KwaZulu-Natal)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10413/5950"
+      },
+      "topics": [
+        "New Zealand Economic and Social Studies",
+        "Comparative and World Literature",
+        "Jungian Analytical Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1485753555"
+    },
+    {
+      "openalex_id": "W2268092043",
+      "doi": "10.1353/book.77649",
+      "title": "Mao Zedong\u2019s \u201cTalks at the Yan\u2019an Conference on Literature and Art\u201d",
+      "authors": [
+        {
+          "name": "Bonnie S. McDougall",
+          "openalex_id": "A5057439975"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "\"The writings of Mao Zedong have been circulated throughout the world more widely, perhaps, than those of any other single person this century. The \u201cTalks at the Yan\u2019an Conference on Literature and Art\u201d has occupied a prominent position among his many works and has been the subject of intense scrutiny both within and outside China. This text has undoubted importance to modern Chinese literature and history. In particular, it reveals Mao\u2019s views on such questions as the relationship between writers or works of literature and their audience, or the nature and value of different kinds of literary products. In this translation and commentary, Bonnie S. McDougall finds that Mao was in fact ahead of many of his critics in the West and his Chinese contemporaries in his discussion of literary issues. Unlike the majority of modern Chinese writers deeply influenced by Western theories of literature and society (including Marxism), Mao remained close to traditional patterns of thought and avoided the often mechanical or narrowly literal interpretations that were the hallmark of Western schools current in China in the early twentieth century. Many of the detailed discussions on the \u201cTalks\u201d in the West have been concerned with their political and historical significance. However, since Mao is a literary figure of some importance in twentieth-century China, McDougall finds it worthwhile to follow up his published remarks on the nature and source of literature and the means of its evaluation. By better understanding the complex and revolutionary ideas contained in the \u201cTalks,\u201d McDougall suggests we may acquire the necessary analytical tools for a more fruitful investigation into contemporary Chinese literature.\"",
+      "cited_by_count": 13,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/41559/1/9780472901333.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2268092043"
+    },
+    {
+      "openalex_id": "W4380368559",
+      "doi": "10.1215/10418385-10427926",
+      "title": "The Pot Still Boils",
+      "authors": [
+        {
+          "name": "Nicholas Anderman",
+          "openalex_id": "A5092148236",
+          "orcid": "https://orcid.org/0000-0001-5299-7154"
+        },
+        {
+          "name": "Zachary Hicks",
+          "openalex_id": "A5092148237"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-01",
+      "abstract": "Abstract This special-issue introduction historicizes and seeks to move beyond the antinomy between totality and culture that is today a mainstay of much contemporary critical theory. The introduction proceeds in three parts. The first examines a midcentury crisis of Marxism that, concomitant with major shifts in global capitalism, set the scene for subsequent scholarly accounts of culture that have privileged the fragment, the supplement, the remainder, the site, the margins, and the like over against the totality. The second part consists of an analysis of two works of art\u2014by the American visual artists Allan Sekula and Ellen Gallagher, respectively\u2014which we take to be exemplary of the affordances of art, literature, and other forms of cultural expression for accessing totality anew. The third part briefly surveys recent theoretical work that aims to put a revitalized concept of totality at the center of cultural critique. The introduction concludes with summaries of the seven articles included herein. The special issue covers a lot of ground in terms of subject matter, theoretical milieu, disciplinary framework, and style. What binds the articles together is, in effect, a shared working method, which involves thinking through the relationship between a specific cultural object (or set of objects) and the social whole in and through which it emerged.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Qui Parle",
+        "type": "journal",
+        "issn": [
+          "1041-8385",
+          "1938-8020"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/qui-parle/article-pdf/32/1/1/1932321/1anderman.pdf"
+      },
+      "topics": [
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W4380368559"
+    },
+    {
+      "openalex_id": "W2801592090",
+      "doi": "10.3726/b12244",
+      "title": "The Evaluation of Ideological Trends in Recent Soviet Literary Scholarship",
+      "authors": [
+        {
+          "name": "Henrietta Mondry",
+          "openalex_id": "A5021523823",
+          "orcid": "https://orcid.org/0000-0001-6354-4847"
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-01-01",
+      "abstract": "Since the publication of formerly forbidden und unpublished texts constitutes the main trend of Glasnost', this study has as ist aim the isolation of main trends in the process of the re-evaluation of the cultural heritage of the past by Soviet literary scholarship. The analysed authors will be divided into four main groups: 1. Accepted 19th century classics (e.g. Goncharov); 2. Formerly forbidden 20th century writers (e.g. Zamiatin); 3. Formerly forbidden 19th century writers (e.g. Rozanov and Leontiev); 4. Hagiographic classics of the 20th century Soviet period (e.g. Gorkij).",
+      "cited_by_count": 3,
+      "type": "book",
+      "source": {
+        "name": "Peter Lang D eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.peterlang.com/library_access?document_id=1066768&product_form=ebook&publication_type=pdf"
+      },
+      "topics": [
+        "Folklore, Mythology, and Literature Studies",
+        "Cultural, Linguistic, Economic Studies",
+        "Translation Studies and Practices"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2801592090"
+    },
+    {
+      "openalex_id": "W3118095062",
+      "doi": "10.16993/bbf",
+      "title": "Working-Class Literature(s) Volume II. Historical and International Perspectives",
+      "authors": [
+        {
+          "name": "Lennon, John",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University"
+          ]
+        },
+        {
+          "name": "Nilsson, Magnus 1975-",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-21",
+      "abstract": "The aim of this collection is to contribute to the forging of a more robust, politically useful, and theoretically elaborate understanding of working-class literature(s). These essays map a substantial terrain: the history of working-class literature(s) in Argentina, Denmark, Germany, Japan, Singapore, South Africa and Ireland. Together with the essays in a previous volume \u2013 which cover Russia/The Soviet Union, The USA, Finland, Sweden, The UK, and Mexico \u2013 they give a complex picture of working-class literature(s) from an international perspective, without losing sight of national specificities. By capturing a wide range of definitions and literatures, the two volumes give a broad and rich picture of the many-facetted phenomenon of working-class literature(s), disrupt narrow understandings of the concept and phenomenon, as well as identify and discuss some of the most important theoretical and historical questions brought to the fore by the study of this literature.If read as stand-alone chapters, each contribution gives an overview of the history and research of a particular nation\u2019s working-class literature. If read as a whole (which we hope you do), they contribute toward a more complex understanding of the global phenomenon of working-class literature(s).",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.stockholmuniversitypress.se/site/books/10.16993/bbf/download/3674/"
+      },
+      "topics": [
+        "Cultural History and Identity Formation",
+        "Poetry Analysis and Criticism"
+      ],
+      "referenced_works_count": 244,
+      "url": "https://openalex.org/W3118095062"
+    },
+    {
+      "openalex_id": "W69203030",
+      "doi": null,
+      "title": "Industrialism and class consciousness in the novels of D. H. Lawrence: a study in realism",
+      "authors": [
+        {
+          "name": "Petra James",
+          "openalex_id": "A5047470188"
+        }
+      ],
+      "publication_year": 1974,
+      "publication_date": "1974-01-01",
+      "abstract": "Unlike other areas of sociology, the sociological study of literature has remained in a limbo between social science as simply the study of facts, and literature as an area which by its very nature cannot be scientifically analysed. This thesis is an attempt to bridge the gap between these two poles. We begin by discussing the idea of literature as a social phenomenon, looking in particular at the work of Marx, Engels, George Lukacs and Lucien Goldmann, whilst at the same time pin-pointing various methodological problems. We end the first part by drawing together various elements from each writer, such as, 'world-view', 'mediation', and 'realism', including the more literary orientated work of Rene Girard, in an attempt to devise a method which is scientific but is also capable of discussing the text and aesthetic features of a novel in detail. In the second chapter we look at intellectual influences which Lawrence was subject to, and also his own personal philosophy as expressed in his essays and letters. In the third chapter, we examine the economic and political forces which were operating in England at the time he was writing, and try to relate these, and the elements discussed in the previous chapter, to the structure of his novels. In the last chapter we discuss the novels themselves by using our methodology arrived at in chapter one. In this way we are able to examine the novels both generally, and in depth, and arrive at a conclusion which confirms the subjective analyses of literary critics such as F.R. Leavis, but provides a scientific basis for the judgement of literature as aesthetically good or bad. It is expected that this method can be applied to other writers, and therefore says something about the novel as a genre and not merely one particular writer.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Durham e-Theses (Durham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etheses.durham.ac.uk/id/eprint/9940/1/9940_6734.PDF"
+      },
+      "topics": [
+        "Violence, Religion, and Philosophy",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W69203030"
+    },
+    {
+      "openalex_id": "W2550603597",
+      "doi": null,
+      "title": "Figurative art in Soviet Russia circa 1921-1934 : situating the realist-anti-realist debate in the context of changing definitions of proletarian culture",
+      "authors": [
+        {
+          "name": "Jacqueline Nolte",
+          "openalex_id": "A5080927881"
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-01-01",
+      "abstract": "Figurative art in Soviet Russia circa 1921-1934: situating the realist -anti-realist debate in the context of changing definitions of proletarian culture.In this dissertation I demonstrate that in many Western and Soviet texts the work of socalled formalist leftists and figurative artists are viewed as diametrically opposed to one another.I argue against the perpetuation of this polemic and the assumptions that inform this view.These assumptions are that the leftists produced self-referential works indicative of an anti-realist philosophy and that figurative artists produced social commentaries informed by a philosophy of realism which led 'inevitably' to Socialist Realism.Although a few recent texts warn against oversimplifying this debate, none go far enough in deconstructing the view that there were two groupings diametrically opposed to one another.In fact, many simply repeat the argument as it was articulated in the twenties and thirties, which is to ignore the possibility of a critical analysis of the theoretical principles and constraints informing the debates current at that time.Categorising leftists as anti-realist and figurative artists as realist is not satisfactory firstly because neither the leftists nor the figurative artists existed as homogenous groupings and secondly because many figurative artists (the so-called realists) in fact challenged the idea of a coherent world order existing external to the art work.Nevertheless there are artists from both these categories who asserted the importance of an objective world that was external to and a primary determinant of the art work.In this dissertation I demonstrate that these figurative artists often shared the same ideological goals with leftists.Instead of working with the idea of viewing artists of the twenties and thirties as realist or antirealist, figurative or so-called formalist, I discuss their philosophical and stylistic choices in relation to the political and economic project of the period, namely the empowerment of the proletariat and the attempt to foster a proletarian culture.Chapter One of the dissertation begins with an overview of theories of realism which were crucial to the development of Soviet art in the twenties and early thirties.These were Marxist theories of realism espoused by G. Plekhanov, V. Lenin, L. Trotsky and A. JVLunacharsky.I discuss these theories in .relation to the political project of the protagonists and their arguments for either a classless or a proletarian culture.Chapter Two is given over to establishing the political project of the so-called formalists, their institutional status and theoretical claims.I discuss the adaptation of their theories of realism in relation to the political and economic pressures to increase industrial output.I consider their definitions of realism in the context of political and economic arguments for technical expertise and arguments for and against the assimilation of pre-revolutionary art forms.Chapter Three describes the constitution of various figurative groups in the twenties and early thirties, their status in the face of attacks from leftists, and their diverse claims to realism.As in Chapter Two the production of artists is located within the context of socio-political and economic developments.Here I focus on the effect of political developments which occurred after the death of Lenin, the ways in which these informed figurative artists' claims to objective analysis and the impression that this created of their being committed to the realist project.Chapter Four tests and disputes these claims to objectivity through a careful visual analysis of selected works from groups discussed in Chapter Three.The formal operations of works which both reinforce and contradict Marxist notions of realism are discussed.The decision to analyse only figurative works is informed by the belief that it is the absence of detailed analyses of figurative work produced between circa 1921 and 1934 that has led to misrepresentations and oversimplifications of the work of this period.In the Conclusion to the dissertation I argue that these misrepresentations have been informed by refusals, both conscious and unconscious, to acknowledge the dialogue and mutually beneficial exchanges which occurred between formalists and Marxists, not only in the area of clearly articulated theoretical exchange, but also in the less perspicuous area of practical production.This dialogue was characterised by an attempt to regard the image as a sign and to concede its importance as a specific contiguity of elements whose arrangement could elicit non-habitual, and therefore revolutionary, perspectives of the world.The shared area of interest between Marxist Realists and 'formalists' pertained not only to the radical project of challenging modes of perception but also to a realization that the recognition or dis-ease elicited by these configurations was contingent on culturally or socially specific codes of convention.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Open University of Cape Town (University of Cape Town)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11427/21781"
+      },
+      "topics": [
+        "Security, Politics, and Digital Transformation",
+        "Soviet and Russian History",
+        "Social and Behavioral Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2550603597"
+    },
+    {
+      "openalex_id": "W2605895456",
+      "doi": null,
+      "title": "A theoretical excursus on the concept of political art in communism and its aftermath",
+      "authors": [
+        {
+          "name": "Marina Alina Asavei",
+          "openalex_id": "A5082347578"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "This paper confronts the conceptual meanings of \"political art\" in communist regimes and liberal democracies. The label \"political art\" is in general used to designate a wide variety of art productions, practices and art activities. What is political in art? The answer is all the more disputed that politics itself is a conflictive term. After the Second World War, opposition or support given to the expansion of the capitalist/corporatist culture were expressed via a multitude of ways of \"making art politically\". In a liberal democracy, art is seen and used as a tool to confront the antagonisms of reality. On the contrary, in totalitarian regimes, \"making art politically\" means that art is seen and used both as a weapon to distort reality in order to legitimate power and as a way of expressing otherness (\"underground\", \"dissident art\" from totalitarian regimes).",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Social Science Open Access Repository (GESIS \u2013 Leibniz Institute for the Social Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.ssoar.info/ssoar/handle/document/44653"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2605895456"
+    },
+    {
+      "openalex_id": "W2266767238",
+      "doi": null,
+      "title": "Cultic revelations : studies in modern historical cult personalities and phenomena",
+      "authors": [
+        {
+          "name": "Anssi Halmesvirta",
+          "openalex_id": "A5017735714",
+          "orcid": "https://orcid.org/0000-0002-9865-9588"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This collection of articles contains history papers of the third conference of the joint project of the Hungarian Academy of Sciences and the Academy of Finland titled Cult and Community , held in Jyv\u00e4skyl\u00e4, 6 7 September, 2007. They are complemented by a couple of specialized, independent contributions by scholars working in the field of cults. It may be noted that the Finnish participants were newcomers in the cult research group since the Hungarian cult studies draw on traditions in the history of literature (e.g. P\u00e9ter D\u00e1vidh\u00e1zi on Shakespeare-cult, the publications of the Pet&#337;fi Museum of Literature, Budapest and the D\u00e9ri M\u00fazeum, Debrecen) and critical studies. Also studies in personality cults of the Communist leaders in the Eastern Europe have been launched there. In Finland the situation has been different. There have been lively cults of J. L. Runeberg (national poet), J. V. Snellman (philosopher for the Finnish nation) and other luminaries but genuine political cults have been relatively rare and ambiguous. In such a legalist country as Finland has been, revolutionary popular movements imitating National Socialism and Fascism impregnated by obsessive cultic practices, could not gain long-standing, firm foothold. That Vihtori Kosola, the leader of the fascismo of Finland the label of a British contemporary correspondent could call almost 13,000 peasants to demonstrate in 1930 at the main square in Helsinki, was the utmost he could manage and it was not enough to transform his popularity into a personality cult. And that he was donated a bust of Mussolini by the Italian Embassy rather was a symbolic diplomatic gesture not prone to elevate Kosola s figure to wider public acceptance. Nevertheless, usually in times of crisis, some strong men have been promoted to represent the ability to defend the country. One of them was, for example, President P.E. Svinhufvud for the White Finland in the early 1930s. In contrast, the feminine symbol of Finland, the whitedressed virgin, was a rather fragile figure but all the same politically utilized. Lenin and Mannerheim are exceptional types as they represent the heroism of the opposing political camps. It has been a great intellectual pleasure and refreshment to the Finnish participants to get acquainted with the Hungarian insights and methods to study cults during the project. Hopefully, the impact has been mutual. The Finnish contingent wishes to thank the Hungarian Academy of Sciences and the Academy of Finland for their support.",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Jyv\u00e4skyl\u00e4 University Digital Archive (University of Jyv\u00e4skyl\u00e4)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://urn.fi/URN:NBN:fi:jyu-20103301368"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2266767238"
+    },
+    {
+      "openalex_id": "W3088796994",
+      "doi": null,
+      "title": "From Kosovo to Crimea : The Legal Legacies of the Socialist Federal Dissolutions",
+      "authors": [
+        {
+          "name": "Tero Lundstedt",
+          "openalex_id": "A5010685181"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-01",
+      "abstract": "This thesis is focused on the socialist federal dissolutions of the Union of Soviet Socialist Republics (USSR) and the Socialist Federal Republic of Yugoslavia (SFRY) in the early 1990s, and on a legal rule related to state succession, uti possidetis (juris). Briefly, uti possidetis transforms former internal administrative borders into international borders at the moment of state dissolution, with all the legal ramifications this status change entails. The thesis reconstructs from the events an evolutionary process that led the international community to choose a specific version of uti possidetis regarding the socialist federal dissolutions. After demonstrating the mistakes made in this process, the thesis provides a proposal for an updated version of uti possidetis that can rebalance the legal principles of self-determination and territorial integrity in future state dissolution cases. \\n\\nPart I poses the research question of what are the legal legacies of the socialist federal dissolutions for international law in general and the post-federal successor states in particular? It claims that by a virtue of being a general legal principle, uti possidetis has to evolve alongside the shifting paradigm of the international legal order. After accounting for the evolution of uti possidetis with its application in the decolonization cases since the 1800s, the thesis concludes that this vital process was disrupted in the early 1990s. The chosen mode of application failed to take into account two legally crucial factors: the evolution of the right to self-determination and the unique socialist federal model. As uti possidetis was not updated to factor in these changed circumstances, it was misapplied, causing national fragmentation in the successor states. This has directly contributed to territorial conflicts, out of which Kosovo and Crimea are the most prominent. \\n\\nPart II introduces the two components of a proposed uti possidetis update. Chapter 3 exhibits the internal component, the last applicable legal order of the dissolving state. Chapter 4 presents the external component, the international legal rules regarding the dissolution. The combination of the two at the moment of dissolution generates an update of uti possidetis, titled \u2018uti possidetis meritus\u2019. It calls for expanded recognition of internal borders and draws legitimacy from its compatibility with the existing uti possidetis framework. \\n\\nPart III presents the legal aftermath of the socialist federal dissolutions and proposes the meritus formula as a remedy. Chapter 5 gives a comprehensive review of how the right to self-determination was realized in the socialist federal dissolutions and how this caused territorial conflicts. Chapter 6 concludes the argument by exhibiting two potential forms of application for meritus: it can be used to help settle already existing conflicts, as well as to minimize territorial fragmentation in the future state dissolution or independence cases. \\n\\nIn sum, the vital evolution of uti possidetis was disrupted in its transformation into a non-colonial context. The legal legacies of the socialist federal dissolutions are the distortion of uti possidetis and the lack of balance between self-determination and territorial integrity in the successor states. Meritus aims to remedy both.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+        "type": "journal",
+        "issn": [
+          "0784-1272",
+          "1459-7780"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10138/316990"
+      },
+      "topics": [
+        "Post-Soviet Geopolitical Dynamics",
+        "Balkans: History, Politics, Society",
+        "European Politics and Security"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3088796994"
+    },
+    {
+      "openalex_id": "W1535652128",
+      "doi": null,
+      "title": "The work of Aleksandr Grin (1880-1932) : a study of Grin's philosophical outlook",
+      "authors": [
+        {
+          "name": "Krzysztof Martowicz",
+          "openalex_id": "A5010562590"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-11-30",
+      "abstract": "There has been to date no attempt at a detailed examination of Aleksandr Grin\u2019s&#13;\\nphilosophical views interpreted on the basis of his literary work. Whilst some critics have&#13;\\nnoted interesting links between the writer\u2019s oeuvre and a few popular philosophers, this has&#13;\\nusually been done in passing and on an ad hoc basis. This thesis aims to fill this gap by&#13;\\nreconstructing Grin\u2019s views in relation to the European philosophical tradition.&#13;\\nThe main body of the thesis consists of three parts built on and named after three&#13;\\nessential themes in philosophy: External World, Happiness and Morality.&#13;\\nPart One delineates Grin\u2019s views on nature and civilisation: I argue first that his cult of&#13;\\nnature makes it possible to conceive of Grin as a pantheistic thinker close to Rousseau and&#13;\\nBergson, and then I reconstruct the author\u2019s criticism of urbanisation and industrialisation.&#13;\\nIn the second part I assess the place of happiness in Grin\u2019s world-view, indicating its&#13;\\nsimilarities to the philosophy of various thinkers from the Ancients to Schopenhauer and&#13;\\nNietzsche. After sketching a general picture of the concept of happiness in Grin\u2019s works, I&#13;\\ndiscuss the place of material and immaterial factors in the writer\u2019s outlook. I also gather&#13;\\nmaxims expressed by the protagonists in his fiction that can be taken as recommendations&#13;\\nconcerning ways of achieving and defending happiness. Finally, I link happiness with the&#13;\\nproblem of morality in Grin\u2019s oeuvre.&#13;\\nIn the final part I examine modes of moral behaviour as displayed by the author\u2019s&#13;\\nprotagonists. Firstly, I argue that in Grin\u2019s works we find numerous examples and themes that&#13;\\nallow us to perceive him as an existentialist. Secondly, I indicate Grin\u2019s adherence to rules of&#13;\\nconduct commonly associated with chivalric literature. Thirdly, I emphasise the importance of&#13;\\nPromethean-like characters in the moral hierarchy of Grin\u2019s protagonists.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "St Andrews Research Repository (St Andrews Research Repository)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10023/2467"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Classical Philosophy and Thought",
+        "Jungian Analytical Psychology"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W1535652128"
+    },
+    {
+      "openalex_id": "W75603417",
+      "doi": null,
+      "title": "Den sovjetiska kulturkampen 1917-1932 sedd genom Bresjnevadministrationens lins. En historiografisk studie.",
+      "authors": [
+        {
+          "name": "Johan Sj\u00f6dell",
+          "openalex_id": "A5055568899"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "This Masters thesis is a historiographic study, which aim is to investigate how the Brezhnev administration 1964-82 describes the events taking place during the soviet cultural struggle 1917-32. The investigation is limited to how some of the literary groups, organisations and currents as well as a small number of Russian writers are viewed by the administration. The third and last edition of the Great Soviet Encyclopedia, which is considered as equivalent with the soviet official view, is used as source. The analysis made in this thesis is divided in two parts; the text analysis of the writers biographies is compared with the result of a discourse analysis, whose target is some of the literary groups, organisations and currents during the topical period. The discourse analysis is a pre-analysis, but its conclusions also have a value in itself. A historiographic theory concerning different use of history is applied to the result of the analysis. The thesis results indicate an ideological use of history, where some writers\u00b4 history is rationalized to fit into the theoretical frame of the cultural revolution and where the destiny of writers who was killed in Stalins purges during the 1930s is concealed. In comparison to that the encyclopedia openly reveals the destiny of a least one writer who was executed by the Bolsheviks during the 1920s.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Bor\u00e5s Academic Digital Archive (University of Bor\u00e5s)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2320/1374"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society",
+        "Eastern European Communism and Reforms",
+        "European Cultural and National Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W75603417"
+    },
+    {
+      "openalex_id": "W2285930798",
+      "doi": "10.14288/1.0101414",
+      "title": "Mikhail Zoshchenko and the Serapion brothers",
+      "authors": [
+        {
+          "name": "Judith L Bezeredi",
+          "openalex_id": "A5021811719"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The purpose of this thesis is to explore the period of relative economic and artistic freedom that occurred during the time of the New Economic Policy (1921-1924). The general failure in agriculture and in industrial productivity forced the Soviet regime to allow diversions from the orthodox Marxist view of state ownership of the tools of production. Because of the need to start the wheels of production turning, the minor landowners, small manufacturers and petty profiteers took to the task in hope of financial gains. This economic environment, uncontrolled by the Communist Party, reflected itself in the relatively chaotic \"artistic scene\". Amongst the many literary groups that appeared during the early 1920's, I dwell mostly upon the Serapion Brothers and the members of that group, singling out for more intense study Mikhail Zoshchenko: his artistry and his struggle for artistic freedom.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/32903"
+      },
+      "topics": [
+        "Diverse Historical and Scientific Studies",
+        "History of Science and Medicine"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2285930798"
+    },
+    {
+      "openalex_id": "W4410505001",
+      "doi": "10.1353/cj.2025.a960485",
+      "title": "Memories of Development: Global Media After State Socialism",
+      "authors": [
+        {
+          "name": "Zachary Hicks",
+          "openalex_id": "A5117600631"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-01",
+      "abstract": "abstract: Amid ongoing debates about globalization, the postsocialist former Second World has largely receded from view, its significance confined to its disappearance or to its status as prehistory. I argue that introducing postsocialism and the former Second World as a framework disrupts and complicates discourses of the global that inform much thinking about contemporary film and media. Seeking a materialist methodology that can account for the postsocialist world, I offer the Chto Delat? group's intermedial art installation titled Otritsanie otritsaniya ( The Negation of Negation , 2003) as a case study for understanding postsocialist transformation and the uneven development that underwrites it.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of cinema and media studies",
+        "type": "journal",
+        "issn": [
+          "2578-4900",
+          "2578-4919"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/349/article/960485/pdf"
+      },
+      "topics": [
+        "Elite Sociology and Global Capitalism"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W4410505001"
+    },
+    {
+      "openalex_id": "W59260499",
+      "doi": null,
+      "title": "An Inquiry of Intentions in Kim Hye-yong's 'First Meeting': A North Korean Short Story in Korea Today (2007).",
+      "authors": [
+        {
+          "name": "Alzo David-West",
+          "openalex_id": "A5056819382"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "This paper examines the problem of the intentional fallacy in the North Korean short story 'First Meeting' by Kim Hye-yong. Serially published in Korea Today in 2007, the nationalist allegory centres on Shin Ch'ong-mi, a young female journalist in Pyongyang, who falls in love with her penfriend Song-u, a soldier in the Korean People's Army, and struggles to remain devoted to him when he suddenly stops writing. With the literary-critical method of counterintuitive reading, the inquiry analyses the structural relations of the narrative, its discourse on desire, its apparent intentions, and its contravening elements, revealing an incidental unstable narrative that is symbolically protesting of the moral of the story to affectionately embrace the political authority of the North Korean party-army regime in the military-first (songun) era.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Flinders Academic Commons (Flinders University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2328/27124"
+      },
+      "topics": [
+        "Korean Peninsula Historical and Political Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W59260499"
+    },
+    {
+      "openalex_id": "W4289860073",
+      "doi": "10.1515/9781618116970-003",
+      "title": "CHAPTER THREE. The Literary Context of The Foundation Pit",
+      "authors": [
+        {
+          "name": "Thomas Seifrid",
+          "openalex_id": "A5052862706",
+          "orcid": "https://orcid.org/0009-0007-8292-8345"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-12-31",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Academic Studies Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9781618116970-003/pdf"
+      },
+      "topics": [
+        "Themes in Literature Analysis",
+        "Contemporary Literature and Criticism"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W4289860073"
+    },
+    {
+      "openalex_id": "W7137570725",
+      "doi": null,
+      "title": "Working-Class Literature(s) Volume II",
+      "authors": [],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "The aim of this collection is to contribute to the forging of a more robust, politically useful, and theoretically elaborate understanding of working-class literature(s). These essays map a substantial terrain: the history of working-class literature(s) in Argentina, Denmark, Germany, Japan, Singapore, South Africa and Ireland. Together with the essays in a previous volume \u2013 which cover Russia/The Soviet Union, The USA, Finland, Sweden, The UK, and Mexico \u2013 they give a complex picture of working-class literature(s) from an international perspective, without losing sight of national specificities. By capturing a wide range of definitions and literatures, the two volumes give a broad and rich picture of the many-facetted phenomenon of working-class literature(s), disrupt narrow understandings of the concept and phenomenon, as well as identify and discuss some of the most important theoretical and historical questions brought to the fore by the study of this literature.If read as stand-alone chapters, each contribution gives an overview of the history and research of a particular nation\u2019s working-class literature. If read as a whole (which we hope you do), they contribute toward a more complex understanding of the global phenomenon of working-class literature(s).",
+      "cited_by_count": 0,
+      "type": "other",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/46864/1/working-class-literatures-volume-ii.pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7137570725"
+    },
+    {
+      "openalex_id": "W1098863",
+      "doi": null,
+      "title": "Shklovsky in the Cinema, 1926-1932",
+      "authors": [
+        {
+          "name": "Rosemari Baker",
+          "openalex_id": "A5071492303"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "The following research project is grounded in the interrelated contexts of the Russian intelligentsia\u00e2\u0080\u0099s ambivalent engagement with post-revolutionary culture and cinema\u00e2\u0080\u0099s rise as an artistic medium and instrument of Russian cultural development. By examining Viktor Shklovsky\u00e2\u0080\u0099s earliest activities in the Soviet film industry, this project will explore how narrative, aesthetic, and ideological programmes were repeatedly and variously moulded, undermined, and complicated by the twentieth-century Russian avant-garde interest in dissolving creative boundaries between the domains of the \u00e2\u0080\u0098internal\u00e2\u0080\u0099 (embracing private, individual, and domestic concerns) and \u00e2\u0080\u0098external\u00e2\u0080\u0099 (their public, communal, and social counterparts) in a bid \u00e2\u0080\u0098to turn space outwards\u00e2\u0080\u0099 (vyvorachivat\u00c2\u00b4 prostranstvo vovne). These critical enquiries will lend themselves to an investigation of how the behaviours of Shklovsky, his colleagues, and his artistic creations were affected by internal and/or external loci of control and how these activities were reconciled (if at all) in a society where the relationship between freedom and necessity was in a constant state of fluctuation.&#13;\\n&#13;\\n This research aims not simply to establish the extent and significance of Shklovsky\u00e2\u0080\u0099s influence on cinema as an individual, but rather to utilise his personal narrative for an assessment of the levels of interaction between theory and practice and between the verbal and the visual as integral to the intelligentsia movement. The project will investigate the part that Shklovsky played in conceptualising the boundaries, exchanges, and conflicts that arose between different artistic media and the critical institutions that developed around them, before considering how these relations changed as Soviet culture entered and emerged from the period of Cultural Revolution. In addition, an exploration of the effects of personal and professional tensions between different ideological groups will not only develop a better understanding of Shklovsky\u00e2\u0080\u0099s role in the cinema as theorist, critic, polemicist, screenwriter, and \u00e2\u0080\u0098creative administrator\u00e2\u0080\u0099, but will also help to establish the similarities and/or disparities between his film-works and contemporary cultural experience.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Durham e-Theses (Durham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etheses.durham.ac.uk/id/eprint/378/1/RBaker-ThesisSubmitted%5B1%5D_copy.pdf"
+      },
+      "topics": [
+        "Cinema and Media Studies",
+        "Eastern European Communism and Reforms",
+        "Shakespeare, Adaptation, and Literary Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1098863"
+    },
+    {
+      "openalex_id": "W2225996711",
+      "doi": null,
+      "title": "Commitment in architecture : Russian constructivism",
+      "authors": [
+        {
+          "name": "Man-Hung Daniel Ng",
+          "openalex_id": "A5067741431"
+        }
+      ],
+      "publication_year": 1986,
+      "publication_date": "1986-01-01",
+      "abstract": "Thesis (M.Arch)--Massachusetts Institute of Technology, Dept. of Architecture, 1986.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1721.1/78805"
+      },
+      "topics": [
+        "Art, Politics, and Modernism",
+        "Architecture, Modernity, and Design",
+        "Historical Architecture and Urbanism"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2225996711"
+    },
+    {
+      "openalex_id": "W2948090273",
+      "doi": null,
+      "title": "Russian Literary Portraiture in the Twentieth Century: Collecting and Re-Collecting Lichnosti in Criticism and Memoir",
+      "authors": [
+        {
+          "name": "Daniel Brooks",
+          "openalex_id": "A5021991892"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This dissertation offers a select history of the literary portrait genre in Russian culture from its genesis in the 1890s through the 1960s. I define the literary portrait as a succinct account of a particular author's individual or creative personality \u00e2\u0080\u0093 in Russian, lichnost' \u00e2\u0080\u0093 that readily lends itself to anthologization, in which that literary portrait acquires additional meaning through the comparative or cumulative format in which it participates. In tracing the developments in the genre through a series of representative portrait collections, I focus in particular on two historical moments: 1905-1914, when literary portraiture moved beyond its original Symbolist confines, courted a wider reading audience, and became a key genre for the theorization and explication of Russian modernity; and the post-Revolutionary period, when writers both in emigration and within the Soviet Union repeatedly turned to the genre as a means of shaping narratives about late imperial and early Soviet culture. In the first period, I consider the literary critical portraiture of Iulii Aikhenval'd, Kornei Chukovskii, and Maksimilian Voloshin, and in the second, I consider the memoir-portraits of Vladislav Khodasevich, Kornei Chukovskii, and Iurii Annenkov, as well as Annenkov's work in visual portraiture. I posit that these writers, each in their own way and to their own ends, sought common variables that would unite the heterogeneous literary field of late imperial Russia. In doing so, they created forms of literary historical periodization that focused on cultural continuity rather than aesthetic displacement, and on webs of connections between individual authors rather than distinctions between nominally antithetical movements. These holistic interpretations of late imperial Russian literature demonstrate the pedagogical utility of comparative frameworks that take individuals (lichnostoi) as their units of observation. In constructing such frameworks, these portraitists consistently demonstrate that our understanding of dominant aesthetic movements of the time (the Symbolists and Modernists) and the dominant paradigm of cultural periodization that followed it (the Silver Age) are best calibrated against certain figures (especially Leonid Andreev and Maksim Gor'kii) who are otherwise afforded narrow parts in our inherited literary histories. Thus, I aspire to present literary portraiture as a telling artifact of Russian modernity writ large, and a valuable means of re-examining the literary historical narratives that structure our study of early twentieth-century Russian culture.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/6j7239rp"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "European Cultural and National Identity"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2948090273"
+    },
+    {
+      "openalex_id": "W4385608466",
+      "doi": "10.1007/978-981-99-2947-4",
+      "title": "The Contemporary Construction of the Chinese Form of Marxist Literary Criticism",
+      "authors": [
+        {
+          "name": "Yamin Hu",
+          "openalex_id": "A5084244959",
+          "orcid": "https://orcid.org/0000-0002-6077-8709",
+          "institutions": [
+            "Central China Normal University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "This open access book is the first comprehensive and systematic study of Chinese Marxist literary criticism as an independent theoretical form.",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-981-99-2947-4.pdf?pdf=button"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4385608466"
+    },
+    {
+      "openalex_id": "W2330065255",
+      "doi": "10.14288/1.0077583",
+      "title": "The concept of legitimate governance in the contemporary municipal and international legal systems: an interdisciplinary analysis",
+      "authors": [
+        {
+          "name": "Obiora Chinedu Okafor",
+          "openalex_id": "A5046123030",
+          "orcid": "https://orcid.org/0000-0003-2786-184X"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "All over today's world, there exists a crisis of legitimate governance concerning the acquisition and (ab)use of governmental power. Given the undesirable consequences of this crisis, is it possible, as a first step in the struggle to eliminate it, to construct a workable normative (rather than descriptive) model for the evaluation of governance as legitimate or illegitimate? Do reasonably determinate rules exist within international law which collectively provide a barometer for the assessment of governance as illegitimate? If so, does the concept of legitimate governance as reflected by these rules address the widespread inequities in the socioeconomic relations of power within and without municipal polities? If not, is such a concept of political legitimacy not defective? Are there normative or other consequences that flow from a determination that a regime is illegitimate? What is the character of the process by which such a determination is made by the international community? And is that community itself a legitimate evaluator of municipal governance? I have utilised knowledge from within and without law; sought to integrate the operation of international and municipal norms; gone beyond doctrine to explore the forces outside of law that constrain the operation of law; and adopted an evaluative view of the concept of legitimacy. I conclude that there are norms in contemporary international law which constitute useful criteria for the evaluation of municipal governance. I have, however, lamented the disregard with which international law has treated the need for socio-economic equity within and between states, when such equity is an imperative for political legitimacy. I also argue that the process of international legitimation needs re-alignment in the service of legitimacy norms. I conclude by exposing the crisis of legitimacy that faces the present system of global governance, arguing that if that system is to remain credible, and therefore effective, in the regulation of municipal governance, then it must be overhauled to critically reduce the selectivity and partiality which it now often displays.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/3801"
+      },
+      "topics": [
+        "Human Rights and Development",
+        "International Law and Human Rights",
+        "International Human Rights and Reproductive Law"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W2330065255"
+    },
+    {
+      "openalex_id": "W4409247020",
+      "doi": "10.1515/9783111625270",
+      "title": "Tsars, Soviets, Putin",
+      "authors": [
+        {
+          "name": "Wojciech Materski",
+          "openalex_id": "A5117070831"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-03",
+      "abstract": "Wojciech Materski\u2019s book From the Tsars to \"The Tsar\" gives a synopsis of the politics of memory practiced by Russia from the sixteenth to the twenty-first century. He shows how irrespectively of the period in its history, Russia\u2019s politics of memory have always been used as a tool to integrate the country\u2019s inhabitants, reinforce the cult of their leader, cultivate the social attitudes and stereotypes its rulers wanted the people to embrace, and relativize their mistakes and crimes.The broad perspective Materski adopts provides a very substantial supplement to earlier work on the subject, or in fact takes the time range he considers much further, offering the latest, highly original and thoroughly researched synthesis of Russia\u2019s politics of memory from the sixteenth to the twenty-first century. These qualities, alongside the current geopolitical situation overshadowed by Russia\u2019s invasion of Ukraine, make Wojciech Materski\u2019s book an attractive offer not only for historians, political scientists, sociologists and specialists in international relations, but also for students and non-specialists looking for information on Russia\u2019s history and foreign policy.",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783111625270/pdf"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4409247020"
+    }
+  ],
+  "count": 23,
+  "errors": []
+}

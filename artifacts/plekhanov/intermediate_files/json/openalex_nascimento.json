@@ -1,0 +1,16 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Nascimento crítica estética marxista', limit=25
+[search_openalex.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "openalex",
+  "query": "Plekhanov Nascimento cr\u00edtica est\u00e9tica marxista",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

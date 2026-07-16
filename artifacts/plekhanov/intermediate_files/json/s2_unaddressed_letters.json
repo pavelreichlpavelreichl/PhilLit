@@ -1,0 +1,39 @@
+[s2_search.py] Searching Semantic Scholar: 'unaddressed letters Plekhanov primitive art', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_3e1c13508885f5c4)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "unaddressed letters Plekhanov primitive art",
+  "results": [
+    {
+      "paperId": "589aced1db0508fab6ab6ddb3305420128ccf515",
+      "title": "Unaddressed letters ; Art and social life",
+      "authors": [
+        {
+          "name": "G. Plekhanov",
+          "authorId": "112826995"
+        },
+        {
+          "name": "A. Fineberg",
+          "authorId": "49468377"
+        }
+      ],
+      "year": 1957,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/589aced1db0508fab6ab6ddb3305420128ccf515",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,53 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov aesthetics', limit=20
+[search_philpapers.py] Retrieved 3 entries...
+[search_philpapers.py] Search complete: 3 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov aesthetics",
+  "results": [
+    {
+      "title": "Mark Horvath & Adam Lovasz, Opening Aesthetics",
+      "url": "https://philpapers.org/rec/HOROAD",
+      "philpapers_id": "HOROAD",
+      "snippet": "In our essay, we explore contemporary aesthetic approaches to the Anthropocene, highlighting the posthuman aspect of Anthropocene aesthetics. In our view, the defining aesthetic trends of the Anthropocene are determined by the post-anthropocentric or posthuman turn.",
+      "page_age": "2026-02-20T17:25:02",
+      "author": [
+        {
+          "type": "person",
+          "name": "Mark Horvath"
+        },
+        {
+          "type": "person",
+          "name": "Adam Lovasz"
+        }
+      ],
+      "extra_snippets": [
+        "As an era of ontological destabilisation, the Anthropocene can be described as a dark ecology that radically deforms our sensibilities, guiding multidisciplinary attempts to grasp a new naturecultural regime. Anthropocene aesthetics is an encounter with the more-than-human forces of the Earth System that goes beyond traditional art forms and aesthetic strategies.",
+        "In our essay, we explore contemporary aesthetic approaches to the Anthropocene, highlighting the posthuman aspect of Anthropocene aesthetics. In our view, the defining aesthetic trends of the Anthropocene are determined by the post-anthropocentric or posthuman turn.",
+        "Slow Motion Electric Chiaroscuro: An Experiment in Glitch-Anthropo-Scenic Landscape Art.Patti Pente - 2018 - In Jan Jagodzinski, Interrogating the Anthropocene: Ecology, Aesthetics, Pedagogy, and the Future in Question. Springer Verlag: Springer Verlag.",
+        "Intervals of Resistance: Being True to the Earth in the Light of the Anthropocene.Janae Sholtz - 2018 - In Jan Jagodzinski, Interrogating the Anthropocene: Ecology, Aesthetics, Pedagogy, and the Future in Question. Springer Verlag: Springer Verlag."
+      ]
+    },
+    {
+      "title": "Frank Schmiedchen, Alexander von Gernler, Martina Hafner & Klaus Peter Kratzer (eds.), K\u00fcnstliche Intelligenz und Wir: Stand, Nutzung und Herausforderungen der KI",
+      "url": "https://philpapers.org/rec/SCHKIU-7",
+      "philpapers_id": "SCHKIU",
+      "snippet": "Aesthetics \u00b7 Applied Ethics \u00b7 Meta-Ethics \u00b7 Normative Ethics \u00b7 Philosophy of Gender, Race, and Sexuality \u00b7 Philosophy of Law \u00b7 Social and Political Philosophy \u00b7 Value Theory, Miscellaneous \u00b7 Science, Logic, and Mathematics \u00b7 Science, Logic, and Mathematics \u00b7",
+      "page_age": "2025-10-11T00:00:00",
+      "extra_snippets": [
+        "Aesthetics \u00b7 Applied Ethics \u00b7 Meta-Ethics \u00b7 Normative Ethics \u00b7 Philosophy of Gender, Race, and Sexuality \u00b7 Philosophy of Law \u00b7 Social and Political Philosophy \u00b7 Value Theory, Miscellaneous \u00b7 Science, Logic, and Mathematics \u00b7 Science, Logic, and Mathematics \u00b7"
+      ]
+    },
+    {
+      "title": "Omri Asscher, The case for humanities-based studies of AI ...",
+      "url": "https://philpapers.org/rec/ASSTCF",
+      "philpapers_id": "ASSTCF",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2026-06-30T00:00:00"
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

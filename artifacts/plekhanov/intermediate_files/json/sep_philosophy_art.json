@@ -1,0 +1,143 @@
+[search_sep.py] Connecting to Brave API for sep_via_brave search...
+[search_sep.py] Searching plato.stanford.edu: 'philosophy of art', limit=20
+[search_sep.py] Retrieved 10 entries...
+[search_sep.py] Search complete: 10 entries found
+{
+  "status": "success",
+  "source": "sep_via_brave",
+  "query": "philosophy of art",
+  "results": [
+    {
+      "title": "The Definition of Art (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/art-definition/",
+      "entry_name": "art-definition",
+      "snippet": "Two general constraints on definitions are particularly relevant to definitions of art. First, given that accepting that something is inexplicable is generally a philosophical last resort, and granting the importance of extensional adequacy, list-like or enumerative definitions are if possible ...",
+      "page_age": "2007-10-23T00:00:00",
+      "extra_snippets": [
+        "Two general constraints on definitions are particularly relevant to definitions of art. First, given that accepting that something is inexplicable is generally a philosophical last resort, and granting the importance of extensional adequacy, list-like or enumerative definitions are if possible to be avoided.",
+        "Whether any definition of art does account for these facts and satisfy these constraints, or could account for these facts and satisfy these constraints, are key questions for aesthetics and the philosophy of art.",
+        "The ease of these dismissals, though, serves as a reminder of the fact that classical definitions of art are significantly less philosophically self-contained or freestanding than are most contemporary definitions of art. Each classical definition stands in close and complicated relationships to its system\u2019s other complexly interwoven parts \u2013 epistemology, ontology, value theory, philosophy of mind, etc.",
+        "Relatedly, great philosophers characteristically analyze the key theoretical components of their definitions of art in distinctive and subtle ways. For these reasons, understanding such definitions in isolation from the systems or corpuses of which they are parts is difficult, and brief summaries are invariably somewhat misleading."
+      ]
+    },
+    {
+      "title": "Experimental Philosophy of Art and Aesthetics (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/experimental-aesthetics/",
+      "entry_name": "experimental-aesthetics",
+      "snippet": "In \u201cThe Psychology of Art: Past, Present and Future\u201d (1963), Munro observes that philosophers have actually been asking, for a long time, questions about art and aesthetics that are at least partly empirical, such as how do artists come to create works? how does the experience of art affect the audience\u2019s character?",
+      "page_age": "2024-10-22T00:00:00",
+      "extra_snippets": [
+        "By taking a scientific approach to experiences with art and aesthetic phenomena, it is continuous with the longstanding research program in psychology called empirical aesthetics (see Nadal & Vartanian 2022 for overviews of work in this program). However, it is also continuous with traditional research in philosophy of art and aesthetics because it is centered on many of the same timeless questions.",
+        "Like other branches of experimental philosophy, such as experimental moral philosophy, it involves gathering data using empirical methods and bringing analyses of the data to bear on theorizing on a wide range of topics in philosophy of art and aesthetics: definition of art, ontology of art, aesthetic properties, aesthetic judgments, aesthetic adjectives, morality and aesthetics, and emotion and art.",
+        "Most notably, with his Vorschule der Aesthtik (1876), Gustav Fechner pioneered what came to be known as \u201cbottom-up aesthetics\u201d, which tried to discover general laws of taste by examining preferences for simple geometric shapes such as rectangles of varying proportions, colors, and arrangements of lines (for a summary of \u201cbottom-up\u201d aesthetics, see Nadal & Ure\u00f1a 2022). In mid-twentieth century, art historian and philosopher Thomas Munro\u2014who founded the American Society of Aesthetics in 1942 and served as the editor of the society\u2019s publication The Journal of Aesthetics and Art Criticism between 1945 and 1964\u2014continually expressed optimism about the prospect of integrating philosophical and scientific approaches to aesthetics (1928, 1948, 1951, 1956, 1963).",
+        "In \u201cThe Psychology of Art: Past, Present and Future\u201d (1963), Munro observes that philosophers have actually been asking, for a long time, questions about art and aesthetics that are at least partly empirical, such as how do artists come to create works? how does the experience of art affect the audience\u2019s character?"
+      ]
+    },
+    {
+      "title": "History of the Ontology of Art (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/art-ontology-history/",
+      "entry_name": "art-ontology-history",
+      "snippet": "Von Hartmann observes that people confidently say such things as \u201cthis book is Homer\u2019s Iliad,\u201d \u201cthis score is Beethoven\u2019s Ninth Symphony,\u201d and \u201cthis painting is Raphael\u2019s Sistine Madonna.\u201d Although it is often acknowledged that the first two examples are philosophically untenable, it ought to be admitted, von Hartmann contends, that the third sort of statement is also inaccurate. The painted surface in itself is not beautiful even though in some circumstances it has the capacity to contribute to a subjective appearance of beauty, which von Hartmann characterizes as Schein or Phantasie. If the work of art is the bearer or locus of beauty and other aesthetic properties, it cannot be the material object in itself.",
+      "page_age": "2011-08-29T00:00:00",
+      "extra_snippets": [
+        "Beardsley (1958), who seems to have espoused the disjunctive thesis that a work of art is either a particular physical object or a kind of physical object (see the entry on Beardsley\u2019s aesthetics). Various other options for realism about artworks will be mentioned below. Some philosophers draw distinctions between different modes of being, and some of these philosophers have attributed modes of being other than existence to works of art.",
+        "In attributing artistic and aesthetic modes of existence to works, Gilson adverted to a physical object\u2019s relation to the experiences and actions of cognizing subjects. Similarly, a long series of philosophers have taken subjective relations and experiences to be crucial to answering the question of the existence of works of art.",
+        "In the 19th and 20th centuries, various thinkers contended that the imagination plays a crucial role in both the creation and the reception of works of art. Prominent examples of philosophers who emphasized the importance of Einbildungskraft or Phantasie in this regard include Friedrich Theodor Vischer (1857, 1898), Robert Zimmermann (1865), Hermann Lotze (1884), Eduard von Hartmann (1888), Karl K\u00f6stlin (1869, 1889), Konrad von Lange (1895, 1901, 1912, 1935), Christian von Ehrenfels (1896\u20131899, 318), and Johannes Volkelt (1905\u20131915).",
+        "Von Hartmann observes that people confidently say such things as \u201cthis book is Homer\u2019s Iliad,\u201d \u201cthis score is Beethoven\u2019s Ninth Symphony,\u201d and \u201cthis painting is Raphael\u2019s Sistine Madonna.\u201d Although it is often acknowledged that the first two examples are philosophically untenable, it ought to be admitted, von Hartmann contends, that the third sort of statement is also inaccurate. The painted surface in itself is not beautiful even though in some circumstances it has the capacity to contribute to a subjective appearance of beauty, which von Hartmann characterizes as Schein or Phantasie. If the work of art is the bearer or locus of beauty and other aesthetic properties, it cannot be the material object in itself."
+      ]
+    },
+    {
+      "title": "Hegel\u2019s Aesthetics (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/hegel-aesthetics/",
+      "entry_name": "hegel-aesthetics",
+      "snippet": "Hegel was influenced in particular by Winckelmann, Kant and Schiller, and his own thesis of the \u201cend of art\u201d (or what has been taken to be that thesis) has itself been the focus of close attention by Heidegger and Adorno. Hegel\u2019s philosophy of art is a wide ranging account of beauty in art, the historical development of art, and the individual arts of architecture, sculpture, painting, music and poetry.",
+      "page_age": "2009-01-20T00:00:00",
+      "extra_snippets": [
+        "Hegel was influenced in particular by Winckelmann, Kant and Schiller, and his own thesis of the \u201cend of art\u201d (or what has been taken to be that thesis) has itself been the focus of close attention by Heidegger and Adorno. Hegel\u2019s philosophy of art is a wide ranging account of beauty in art, the historical development of art, and the individual arts of architecture, sculpture, painting, music and poetry.",
+        "Hegel\u2019s Phenomenology of Spirit (1807) contains chapters on the ancient Greek \u201creligion of art\u201d (Kunstreligion) and on the world-view presented in Sophocles\u2019 Antigone and Oedipus the King. His philosophy of art proper, however, forms part of his philosophy (rather than phenomenology) of spirit.",
+        "The philosophy of spirit is in turn divided into three sections: on subjective, objective and absolute spirit. Hegel\u2019s philosophy of art or \u201caesthetics\u201d constitutes the first sub-section of his philosophy of absolute spirit, and is followed by his philosophy of religion and his account of the history of philosophy.",
+        "In marked contrast to Kant, however, Hegel weaves into his philosophical study of beauty numerous references to and analyses of individual works of art\u2014to such an extent, indeed, that his aesthetics constitutes, in Kai Hammermeister\u2019s words, \u201ca veritable world history of art\u201d (Hammermeister, 24)."
+      ]
+    },
+    {
+      "title": "Conceptual Art (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/conceptual-art/",
+      "entry_name": "conceptual-art",
+      "snippet": "The philosophy of art addresses a broad spectrum of theoretical issues arising from a wide variety of objects of attention. These range from Paleolithic cave painting to postmodern poetry, and from the problem of how music can convey emotion to that of the metaphysical status of fictional ...",
+      "page_age": "2007-06-07T00:00:00",
+      "extra_snippets": [
+        "The philosophy of art addresses a broad spectrum of theoretical issues arising from a wide variety of objects of attention. These range from Paleolithic cave painting to postmodern poetry, and from the problem of how music can convey emotion to that of the metaphysical status of fictional characters.",
+        "Until recently, however, philosophical interest in conceptual art, or conceptualism, has been notably sparse. Why? After all, both philosophy and the myriad kinds and styles of art and art-making that fall under the conceptual tradition all have one thing in common: they are both intended to make you think and ask pressing questions.",
+        "In fact, this capacity to evoke argument and debate lies at the very heart of what conceptual art sets out to do, namely to make us question our assumptions not only about what may properly qualify as art and what the function of the artist should be, but also about what our role as spectators should involve. It should come as no surprise, then, that conceptual art can cause frustration or vexation \u2013 to raise difficult and sometimes even annoying questions is precisely what conceptual art in general aspires to do. In reacting strongly to conceptual art we are, in some important sense, playing right into its hands. The first difficulty that a philosophical investigation of conceptual art encounters has to do with identifying the object of examination, or at least the category of objects under scrutiny.",
+        "In their belief that most artistic institutions were not conducive to reflection but merely promoted a conservative and even consumerist conception of art and artists, conceptual artists in the mid-1960s to the early 1970s instead tried to encourage a revisionary understanding of art, the artist, and artistic experience. While conceptual art in its purest form might arguably be limited to works produced during these five or six years half a century ago, it seems overly narrow \u2013 certainly from a philosophical perspective \u2013 to limit our inquiry to works produced during that period alone."
+      ]
+    },
+    {
+      "title": "Aesthetic Experience (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/aesthetic-experience/",
+      "entry_name": "aesthetic-experience",
+      "snippet": "You might have an aesthetic experience not by having a perceptual but rather by having an (imagined) emotional experience of the deep suffering of Sethe expressed in Toni Morrison\u2019s great novel Beloved. Perhaps you might even have an aesthetic experience by appreciating the way in which an elegant theorem reorganizes your thought about a mathematical structure. Philosophical work on art and beauty in the Western tradition extends back at least as far as the ancient Greeks, but the concept of aesthetic experience as such emerged in this tradition only in the 18th century.",
+      "page_age": "2023-01-20T00:00:00",
+      "extra_snippets": [
+        "You might have an aesthetic experience not by having a perceptual but rather by having an (imagined) emotional experience of the deep suffering of Sethe expressed in Toni Morrison\u2019s great novel Beloved. Perhaps you might even have an aesthetic experience by appreciating the way in which an elegant theorem reorganizes your thought about a mathematical structure. Philosophical work on art and beauty in the Western tradition extends back at least as far as the ancient Greeks, but the concept of aesthetic experience as such emerged in this tradition only in the 18th century.",
+        "Philosophers use the idea of a distinctively aesthetic experience for several different purposes. Some use it to defend deep, effortful engagement with the arts or art criticism (Shelley 1832 [2003]). Some use it to give a substantive definition of art (Tolstoy 1897 [2007]), or to elevate \u2018real\u2019 art over other cultural media (Collingwood 1938 [1958]).",
+        "Meier 1999 and Mendelssohn 1785 [1979]). The contemporary English philosopher Anthony Ashbury Cooper, the Third Earl of Shaftesbury (1711 [2007]), took pleasurable admiration of well-formed objects really to be admiration of the form-imposing minds, including those of the artist but ultimately that of the divine.",
+        "Some try to undercut a central motivation for formalism: the motivation to find a \u201ccommon denominator\u201d in all types of aesthetic objects, both artefactual and natural (Carroll 2012). Especially after Wittgenstein (1953 [2009]) challenged the possibility of providing necessary and sufficient conditions for the application of certain concepts, many philosophers of aesthetics thought that trying to define \u201cart\u201d was a lost cause\u2014perhaps a cause antithetical to the radical \u201copenness\u201d (Weitz 1956) or \u201cessentially contested\u201d (Gallie 1956) nature of the concept of art."
+      ]
+    },
+    {
+      "title": "The Philosophy of Digital Art (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/digital-art/",
+      "entry_name": "digital-art",
+      "snippet": "The so-called \u201cdigital condition\u201d (Kittler 1999) is characterized by a loss of trust in the image, a new way of experiencing the world as indeterminate and fragmentary, and a breakdown of traditional boundaries between artist and audience, artwork and artistic process. If we are looking for evidence of the digital condition, we need to understand its conceptual structure. Here\u2019s where the philosopher comes in.",
+      "page_age": "2015-02-23T00:00:00",
+      "extra_snippets": [
+        "The so-called \u201cdigital condition\u201d (Kittler 1999) is characterized by a loss of trust in the image, a new way of experiencing the world as indeterminate and fragmentary, and a breakdown of traditional boundaries between artist and audience, artwork and artistic process. If we are looking for evidence of the digital condition, we need to understand its conceptual structure. Here\u2019s where the philosopher comes in.",
+        "Although technology-based art is viewed as the \u201cfinal avant-garde of the twentieth-century\u201d (Rush 2005), and digital art has been part of the mainstream art world since the late 1990s (Paul 2008), the philosophy of digital art is still an emerging subfield.",
+        "Three seminal monographs, one on videogames (Tavinor 2009), one on digital cinema (Gaut 2010), and one on computer art (Lopes 2010), have been invaluable in laying the groundwork concerning philosophical questions about art and computer technology. Since these publications, further philosophical attention has been given to the digital arts, including the first published volume to focus on the aesthetics of videogames (see Robson & Tavinor, eds., 2018).",
+        "It can be challenging for philosophers to keep up with the rapid rate at which digital technology develops. But a number of recent articles on Artificial Intelligence (AI) in the arts show that philosophers are well aware of and ready to meet this challenge (Atencia-Linares and Artiga 2022; Milli\u00e8re 2022; Moruzzi 2022; Roberts and Krueger 2022)."
+      ]
+    },
+    {
+      "title": "Collingwood\u2019s Aesthetics (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+      "entry_name": "collingwood-aesthetics",
+      "snippet": "Collingwood saw two main obstacles to general understanding and acceptance of this: First, the word \u2018art\u2019 has surreptitiously acquired multiple meanings among ordinary folk which should be disentangled; second, a philosophical theory of the phenomenon of expression is needed to show that it is an essential part of the life of the mind, not just a special activity that poets go in for.",
+      "page_age": "2007-08-21T00:00:00",
+      "extra_snippets": [
+        "R. G. Collingwood (1889\u20131943) was primarily a philosopher of history, a metaphysican and archaeologist, and considered his work in aesthetics\u2014the principal work being his The Principles of Art (1938)\u2014as secondary (for more about his general philosophy, see the entry on Robin George Collingwood).",
+        "In the years after WWII he was probably the most widely read and influential aesthetician to have written in English since Addison, Hutcheson and Hume (not counting Ruskin as an aesthetician), and to this day continues to make his way into anthologies as a principal proponent of the expressive theory of art. In the field of the philosophy of history, Collingwood famously held the doctrine of \u2018Re-enactment\u2019: since the subject is human beings in action, the historian cannot achieve understanding by describing what happened from an external point of view, but must elicit in the reader\u2019s own mind the thoughts that were taking place in the principal actors involved in historical events.",
+        "Collingwood saw two main obstacles to general understanding and acceptance of this: First, the word \u2018art\u2019 has surreptitiously acquired multiple meanings among ordinary folk which should be disentangled; second, a philosophical theory of the phenomenon of expression is needed to show that it is an essential part of the life of the mind, not just a special activity that poets go in for.",
+        "The insistence that language is always expressive is dogmatic, and leads Collingwood to deny that there is any categorical distinction between poetry and scientific writing, which many may take as a reductio ad absurdum (298). And more seriously so far as his philosophy of art is concerned, one might wonder about his account of consciousness as tied to language."
+      ]
+    },
+    {
+      "title": "Plato\u2019s Aesthetics (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/plato-aesthetics/",
+      "entry_name": "plato-aesthetics",
+      "snippet": "If aesthetics is the philosophical inquiry into beauty, or another aesthetic value, and art, then the striking feature of Plato\u2019s dialogues is that he devotes as much time as he does to both topics and yet treats them oppositely. Art, mostly as represented by poetry, is closer to a greatest ...",
+      "page_age": "2008-06-27T00:00:00",
+      "extra_snippets": [
+        "If aesthetics is the philosophical inquiry into beauty, or another aesthetic value, and art, then the striking feature of Plato\u2019s dialogues is that he devotes as much time as he does to both topics and yet treats them oppositely. Art, mostly as represented by poetry, is closer to a greatest danger than any other phenomenon Plato speaks of.",
+        "Strictly speaking the phrase \u201cPlato\u2019s aesthetics\u201d is anachronistic, given that this area of philosophy only came to be identified in the last few centuries. But even those who take aesthetics more broadly and permit the term will still find something exploratory in Plato\u2019s treatments of art and beauty.",
+        "There is something more to be said about the label \u201caesthetics\u201d that is important about Plato. One normally speaks of aesthetics or a philosophy of art when the theory covers more than a single art form. For understandable reasons the Platonic dialogues focus on poetry, with special energy directed toward dramatic poetry.",
+        "Even so, and tellingly, when the dialogues comment on poetry they also look at it in tandem with the visual arts \u2013 not capriciously either, but in keeping with an ancient Greek tradition of comparing art forms \u2013 and in this approach toward an overarching theory they deserve to be described as practicing or undertaking the philosophy of art."
+      ]
+    },
+    {
+      "title": "The Concept of the Aesthetic (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/aesthetic-concept/",
+      "entry_name": "aesthetic-concept",
+      "snippet": "Introduced into the philosophical lexicon during the Eighteenth Century, the term \u2018aesthetic\u2019 has come to designate, among other things, a kind of object, a kind of judgment, a kind of attitude, a kind of experience, and a kind of value. For the most part, aesthetic theories have divided over questions particular to one or another of these designations: whether artworks are necessarily aesthetic objects; how to square the allegedly perceptual basis of aesthetic judgments with the fact that we give reasons in support of them; how best to capture the elusive contrast between an aesthetic attitude and a practical one; whether to define aesthetic experience according to its phenomenological or representational content; how best to understand the relation between aesthetic value and aesthetic experience.",
+      "page_age": "2009-09-11T00:00:00",
+      "extra_snippets": [
+        "Introduced into the philosophical lexicon during the Eighteenth Century, the term \u2018aesthetic\u2019 has come to designate, among other things, a kind of object, a kind of judgment, a kind of attitude, a kind of experience, and a kind of value. For the most part, aesthetic theories have divided over questions particular to one or another of these designations: whether artworks are necessarily aesthetic objects; how to square the allegedly perceptual basis of aesthetic judgments with the fact that we give reasons in support of them; how best to capture the elusive contrast between an aesthetic attitude and a practical one; whether to define aesthetic experience according to its phenomenological or representational content; how best to understand the relation between aesthetic value and aesthetic experience.",
+        "Alexander Gerard asserts that scientific discoveries and philosophical theories are objects of taste (Gerard 1757, 6). Neither argues for his assertion. Both regard it as commonplace that objects of intellect may be objects of taste as readily as objects of sight and hearing may be. Why should the present-day aesthetic theorist think otherwise? If an object is conceptual in nature, grasping its nature will require intellectual work. If grasping an object\u2019s conceptual nature requires situating it art-historically, then the intellectual work required to grasp its nature will include situating it art-historically.",
+        "Though Danto has been the most influential and persistent critic of formalism, his criticisms are no more decisive than those advanced by Kendall Walton in his essay \u201cCategories of Art.\u201d Walton\u2019s anti-formalist argument hinges on two main theses, one psychological and one philosophical.",
+        "Hence the philosophical thesis, according to which the aesthetic properties a work actually has are those it is perceived as having when perceived as belonging to the category (or categories) it actually belongs to. Since the properties of having been intended to be a painting and having been created in a society in which painting is well-established category are artistically relevant though not graspable merely by seeing (or hearing) the work, it seems that artistic formalism cannot be true."
+      ]
+    }
+  ],
+  "count": 10,
+  "errors": []
+}

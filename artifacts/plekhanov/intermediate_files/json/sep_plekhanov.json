@@ -1,19 +1,12 @@
 [search_sep.py] Connecting to Brave API for sep_via_brave search...
-[search_sep.py] Searching plato.stanford.edu: 'Georgi Plekhanov', limit=20
-[search_sep.py] Retrieved 2 entries...
-[search_sep.py] Search complete: 2 entries found
+[search_sep.py] Searching plato.stanford.edu: 'Plekhanov', limit=20
+[search_sep.py] Retrieved 4 entries...
+[search_sep.py] Search complete: 4 entries found
 {
   "status": "success",
   "source": "sep_via_brave",
-  "query": "Georgi Plekhanov",
+  "query": "Plekhanov",
   "results": [
-    {
-      "title": "Vagueness (Stanford Encyclopedia of Philosophy)",
-      "url": "https://plato.stanford.edu/entries/vagueness/",
-      "entry_name": "vagueness",
-      "snippet": "Hegelians believed this dialectical conception of vagueness solved the sorites and demonstrated the inadequacy of classical logic (Weber 2010). The Russian Marxist Georgi Plekhanov (1908 [1937]) proposed a logic of contradiction to succeed classical logic (Hyde 2008, 93\u20135).",
-      "page_age": "1997-02-08T00:00:00"
-    },
     {
       "title": "Spinoza\u2019s Political Philosophy (Stanford Encyclopedia of Philosophy)",
       "url": "https://plato.stanford.edu/entries/spinoza-political/",
@@ -24,8 +17,37 @@
         "Most notably, Georgi Plekhanov (1856\u20131918), one of the primary expositors of the philosophical basis of Marxism, claimed that Marxism was but a \u201cvariety of Spinozism\u201d (cited in Kline 1952: 15) and reported that Engels told him in conversation that \u201cold Spinoza was quite right\u201d on matters of ontology (\u201cBernstein and Materialism\u201d, in Plekhanov 1898 [1976: 339]).",
         "Lyubov Isaakovna Akselrod (1868\u20131946) and Abram Deborin (1881\u20131963) followed Plekhanov in defending Spinozism as the proper metaphysical foundation of Marxism (Steila 2022; Matysik 2022)."
       ]
+    },
+    {
+      "title": "Sorites Paradox (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/sorites-paradox/",
+      "entry_name": "sorites-paradox",
+      "snippet": "Marxist philosophers in the neo-Hegelian tradition, like Plekhanov (1908 [1937: 114]), cited the paradox as evidence of the failure of \u201ccustomary\u201d logic and the utility of the \u2018logic of contradiction\u2019. In this way some Marxists sought to establish the triumph of the dialectic.",
+      "page_age": "1997-01-17T00:00:00"
+    },
+    {
+      "title": "Contradiction (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/contradiction/",
+      "entry_name": "contradiction",
+      "snippet": "As intellectual heirs of the Hegelian tradition, Marxists have willing to accept paradox, and indeed the pre-Revolutionary theorist Plekanov (1909) suggests that Sorites (in the form of the bald man; see sorites entry) can be resolved by rejecting LNC. Hyde (1997) traces the history of vagueness-based arguments for paraconsistency from Plekhanov through Ja\u015bkowski, McGill, and Parry in the 1940s to the dialetheist logics of today.",
+      "page_age": "2006-06-28T00:00:00",
+      "extra_snippets": [
+        "As intellectual heirs of the Hegelian tradition, Marxists have willing to accept paradox, and indeed the pre-Revolutionary theorist Plekanov (1909) suggests that Sorites (in the form of the bald man; see sorites entry) can be resolved by rejecting LNC. Hyde (1997) traces the history of vagueness-based arguments for paraconsistency from Plekhanov through Ja\u015bkowski, McGill, and Parry in the 1940s to the dialetheist logics of today."
+      ]
+    },
+    {
+      "title": "Isaiah Berlin (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/berlin/",
+      "entry_name": "berlin",
+      "snippet": "While working on his biography of Marx in the mid 1930s, Berlin came across the works of two Russian thinkers who would be important influences on his political and historical outlook. One of these was Alexander Herzen, who became a hero, and to whom Berlin would sometimes attribute many of his own beliefs about history, politics and ethics. The other was the Russian Marxist publicist and historian of philosophy G. V. Plekhanov.",
+      "page_age": "2004-10-26T00:00:00",
+      "extra_snippets": [
+        "Both Herzen and Plekhanov fuelled Berlin\u2019s absorption in the political debates of nineteenth- and early twentieth-century Russian liberals and radicals of various stripes, which in turn informed his concern with both the philosophy of history and the ethics of political action.",
+        "While working on his biography of Marx in the mid 1930s, Berlin came across the works of two Russian thinkers who would be important influences on his political and historical outlook. One of these was Alexander Herzen, who became a hero, and to whom Berlin would sometimes attribute many of his own beliefs about history, politics and ethics. The other was the Russian Marxist publicist and historian of philosophy G. V. Plekhanov.",
+        "Despite his opposition to Marxism, Berlin admired and praised Plekhanov both as a man and as a historian of ideas."
+      ]
     }
   ],
-  "count": 2,
+  "count": 4,
   "errors": []
 }

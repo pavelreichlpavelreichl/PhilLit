@@ -1,0 +1,948 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov aesthetics art social life' (year=1960-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_fc3cfe78ccd10efb)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov aesthetics art social life",
+  "results": [
+    {
+      "openalex_id": "W4400789899",
+      "doi": "10.25634/mirbis.2021.2.1",
+      "title": "On world development indicators",
+      "authors": [
+        {
+          "name": "\u042e.\u041f. \u041b\u0443\u043a\u0430\u0448\u0438\u043d",
+          "openalex_id": "A5113295289"
+        },
+        {
+          "name": "\u041b.\u0418. \u0420\u0430\u0445\u043b\u0438\u043d\u0430",
+          "openalex_id": "A5104799370"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-08",
+      "abstract": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u044c\u0438 \u043e\u0431\u0443\u0441\u043b\u043e\u0432\u043b\u0435\u043d\u0430 \u043e\u0431\u043e\u0441\u0442\u0440\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043d\u043e\u0439 \u0431\u043e\u0440\u044c\u0431\u044b \u043d\u0430 \u043c\u0438\u0440\u043e\u0432\u043e\u043c \u0440\u044b\u043d\u043a\u0435, \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u043e\u043f\u0435\u0440\u0435\u0436\u0430\u044e\u0449\u0435\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0438 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0432 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0430\u043f\u0438\u0442\u0430\u043b. \u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0438 \u0441\u0442\u0440\u0430\u043d \u043c\u0438\u0440\u0430, \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u043c\u044b\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0438 \u043f\u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c: \u043f\u043e \u0412\u0412\u041f \u043d\u0430 \u0434\u0443\u0448\u0443 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f, \u043f\u043e \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0436\u0438\u0437\u043d\u0438, \u043f\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044f\u043c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0436\u0438\u0437\u043d\u0438, \u0438\u043d\u0434\u0435\u043a\u0441\u0443 \u0441\u0447\u0430\u0441\u0442\u044c\u044f, \u0438\u043d\u0434\u0435\u043a\u0441\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438 \u0434\u0440. \u0414\u0435\u043b\u0430\u0435\u0442\u0441\u044f \u0432\u044b\u0432\u043e\u0434 \u043e\u0431 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0438 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e\u0441\u0442\u0438 \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f \u0412\u0412\u041f \u043d\u0430 \u0434\u0443\u0448\u0443 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f, \u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0435\u0433\u043e \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0438\u043d\u0434\u0435\u043a\u0441\u0430\u043c\u0438, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0438\u043c\u0438 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 \u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0432 \u0441\u0442\u0430\u0442\u044c\u0435 \u0438 \u0441\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438. \u041e\u0441\u043e\u0431\u043e\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0443\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0441\u0442\u0443 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u043c\u0438\u0440\u043e\u0432\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435 \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439. \u0414\u0435\u043b\u0430\u0435\u0442\u0441\u044f \u0432\u044b\u0432\u043e\u0434 \u043e \u0446\u0435\u043b\u0435\u0441\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u043c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u043e\u0433\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044f, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0441\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e. The relevance of the article is due to the increased competition in the global market, the need to quickly and effectively ensure the advance development of innovative technologies in Russia, including investment in human capital. The article examines the ratings of the world countries, calculated by different methods and on various criteria: on GDP per capita, on average life expectancy at birth, on quality of life, on quality of life index, happiness index, human development index, etc. Particular attention is paid to Russia's place in the global community when using different indicators. It is concluded that it is appropriate to build a multidimensional indicator that allows comparisons of countries more reasonable. The article is intended for government, academics, students.",
+      "cited_by_count": 1311,
+      "type": "article",
+      "source": {
+        "name": "Vestnik MIRBIS.",
+        "type": "journal",
+        "issn": [
+          "2411-5703"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.25634/mirbis.2021.2.1"
+      },
+      "topics": [
+        "International Development and Aid"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4400789899"
+    },
+    {
+      "openalex_id": "W1273809832",
+      "doi": null,
+      "title": "A Unifying Field in Logics: Neutrosophic Logic. Neutrosophy, Neutrosophic Set, Neutrosophic Probability",
+      "authors": [
+        {
+          "name": "Florent\u00edn Smarandache",
+          "openalex_id": "A5012703845",
+          "orcid": "https://orcid.org/0000-0002-5560-5926"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-19",
+      "abstract": "Neutrosophy considers a proposition, theory, event, concept, or entity, \"A\" in relation to its opposite, \"Anti A\" and that which is not A, \"Non-A\", and that which is neither \"A\" nor \"Anti-A\", denoted by \"Neut-A\". Neutrosophy is the basis of neutrosophic logic, neutrosophic probability, neutrosophic set, and neutrosophic statistics.",
+      "cited_by_count": 723,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/SMAAUF-2.pdf"
+      },
+      "topics": [
+        "Computability, Logic, AI Algorithms",
+        "Advanced Mathematical Theories",
+        "Advanced Algebra and Logic"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W1273809832"
+    },
+    {
+      "openalex_id": "W2620642983",
+      "doi": null,
+      "title": "An examination of the significance of Soviet Socialist Realist art and practice in the Asia Pacific region",
+      "authors": [
+        {
+          "name": "Alison Carroll",
+          "openalex_id": "A5062594983"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Introduction: Western art historical practice and recent Asian art; some alternative ways of thinking.1. Art and politics: Soviet Socialist Realism and art history in the Asia Pacific region.2. Policy and practice: The significance of the new policies and practices created in the Soviet Union in the direction for art in Asia. 1. Political leaders on art 70 2. Arts leaders on politics 77 3. The Soviet practice of art in Asia: organisation 80 4. The Soviet practice of art in Asia: ideological innovations 95 5.The transmission of information from West to East 103 3. The Art: The influence of Soviet Socialist Realism on the art of the Asia Pacific region, 1917-1975.1. Social realism in the Asia Pacific region 114 2. Socialist Realism in the Asia Pacific region 1.Russia and China: (a) Socialist in content 121 Russia and China: (b) Realist in style 131 2. Vietnam 135 3. Japan 140 4. Southeast Asia 141 (a) Malaya/Singapore 141 (b) Indonesia 143 (c) The Philippines 146 2 5. Australia 3. Soviet influence further explored 147 1.Other Soviet art in the Asia Pacific region 147 2. The ideology of egalitarianism 152 4. The contemporary response: the 1970s to recent times.155 1.China (and Vietnam and other Communist states) 2. Indonesia 3. The Philippines (and Thailand and South Korea) 4.",
+      "cited_by_count": 11,
+      "type": "dissertation",
+      "source": {
+        "name": "Minerva Access (University of Melbourne)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11343/129832"
+      },
+      "topics": [
+        "Japanese History and Culture",
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2620642983"
+    },
+    {
+      "openalex_id": "W2291155064",
+      "doi": null,
+      "title": "The aesthetics of children\u2019s theatre: appreciating and maximizing on the psycho-social potentials for social and economic advancement",
+      "authors": [
+        {
+          "name": "John Mugubi",
+          "openalex_id": "A5024399808",
+          "orcid": "https://orcid.org/0000-0003-0450-4399"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": "A few years ago, in Kenya, drama was only regarded as a pastime, and not an enterprise that one would undertake professionally and be able to make ends meet.Undeniably, even most celebrated local TV actors only pursued acting on the sides while holding on to full time jobs.Examples of such thespians that radiated our living rooms through Television screens in TV drama such as Fedheha, Vitimbi, Vituko, Tausi, Tushauriane and others, are innumerable.All that has changed in the last decade.Some of the best paid media persons in Kenya now are not only committed thespians but also derive their fame from their theatrical approach to, especially, moral, social and political issues.Local musicians too can live comfortably on their earnings.At last, the arts are getting the respect they deserve!Whereas theatre artists have tapped into the business potential of theatre arts that is adult-oriented, children\"s theatre has virtually been disregarded.While the United States of America established its first national children\"s theatre in 1931 in Nashville, and currently flourishes with such theatres in every single State, Kenya still does not have a single theatre specifically designed and dedicated to children and young adults.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Kenyatta University Institutional Repository (Kenyatta University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ir-library.ku.ac.ke/handle/123456789/14461"
+      },
+      "topics": [
+        "Theatre and Performance Studies"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2291155064"
+    },
+    {
+      "openalex_id": "W1485753555",
+      "doi": null,
+      "title": "Social realism in Alex La Guma's longer fiction.",
+      "authors": [
+        {
+          "name": "Jabulani Mkhize",
+          "openalex_id": "A5078580706"
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": "This work is dedicated firstly, to my late father, Julius.and my late brother.Senzeni -I know they would have been proud of this achievement.Perhaps most significantly, this work is also dedicated to two important women in my life: mother.Adelaide, and my wife.Siphokazi.Both of them have had to put up with testing situations",
+      "cited_by_count": 6,
+      "type": "dissertation",
+      "source": {
+        "name": "ResearchSpace (University of KwaZulu-Natal)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10413/5950"
+      },
+      "topics": [
+        "New Zealand Economic and Social Studies",
+        "Comparative and World Literature",
+        "Jungian Analytical Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1485753555"
+    },
+    {
+      "openalex_id": "W2110109785",
+      "doi": null,
+      "title": "The poetics of personal behaviour : the interaction of life and art in Russian modernism (1890-1920)",
+      "authors": [
+        {
+          "name": "Dennis Ioffe",
+          "openalex_id": "A5041230917",
+          "orcid": "https://orcid.org/0000-0002-7701-2662"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Dennis Ioffe geeft een overzicht van en biedt inzicht in het culturele verschijnsel \u2018zjiznetvortsjestvo', letterlijk \u2018leven-schepping' (\u2018Lebenskunst' in het Duits), dat typerend was voor het Russische modernisme (symbolisme en avant-garde). Door de verheldering van de theoretische en historische basis van de Lebenskunst in het Russische modernisme draagt Ioffe bij aan een beter begrip van de relevante artistieke producten van deze belangrijke periode in de Russische cultuur. Aangezien Lebenskunst de grenzen tussen lichaam en tekst doet vervagen, behoort het verschijnsel niet alleen tot het domein van de literatuurgeschiedenis en literatuurtheorie, maar kan het ook worden bestudeerd vanuit de filosofie, kunstgeschiedenis en culturele studies. Ioffe geeft een interpretatie van de structuur van het samengaan van leven en kunst, van het elkaar doordringen van de sociale en persoonlijke werkelijkheden in de bestudeerde \u2018chronotoop' van het Russische modernisme. Zijn belangrijkste doel is het vaststellen van het mechanisme van het geleidelijk verdwijnen van de onderscheidende kenmerken van het priv\u00e9leven van de modernist, en de geleidelijke verandering van zijn/haar persoonlijke leven in een algemeen sociaal-cultureel model. De bestudering van het verschijnsel Lebenskunst betreft in het bijzonder het onderzoek naar de structuur van excentriek gedrag en naar de somatische (gender)identiteiten van de personen die actief zijn in het culturele leven.",
+      "cited_by_count": 2,
+      "type": "other",
+      "source": {
+        "name": "UvA-DARE (University of Amsterdam)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.uva.nl/ws/files/4282092/66286_thesis.pdf"
+      },
+      "topics": [
+        "European Cultural and National Identity",
+        "Literature, Language, and Rhetoric Studies",
+        "European Linguistics and Anthropology"
+      ],
+      "referenced_works_count": 247,
+      "url": "https://openalex.org/W2110109785"
+    },
+    {
+      "openalex_id": "W760137717",
+      "doi": "10.7771/1481-4374.2567",
+      "title": "The Reception of Mao's 'Talks at the Yan'an Forum on Literature and Art' in English-language Scholarship",
+      "authors": [
+        {
+          "name": "FU Qi-lin",
+          "openalex_id": "A5076466810",
+          "institutions": [
+            "Purdue University West Lafayette",
+            "Sichuan University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-03-01",
+      "abstract": "In his article \"The Reception of Mao's 'Talks at the Yan'an Forum on Literature and Art' in English-language Scholarship\" Qilin Fu examines the three waves of the reception of Mao Zedong's 1942 text. Fu elaborates on the understandings of Mao's ideas about literature and art and discusses the changes depending on historical and political contexts. Fu argues that the changes are explicit or implicit representations of cultural politics ranging from an anti-communist criticism based on Cold War ideology to the concerns of literary theory and the cultural critique of discourse in the context of globalization.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "CLCWeb Comparative Literature and Culture",
+        "type": "journal",
+        "issn": [
+          "1481-4374"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2567&context=clcweb"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W760137717"
+    },
+    {
+      "openalex_id": "W2921110243",
+      "doi": "10.5565/rev/enrahonar.1231",
+      "title": "The vicissitudes of the politics of \u201clife:\u201d Max Horkheimer and Herbert Marcuse\u2019s reception of phenomenology and vitalism in Weimar Germany",
+      "authors": [
+        {
+          "name": "John Abromeit",
+          "openalex_id": "A5058977541",
+          "institutions": [
+            "Buffalo State University",
+            "University at Buffalo, State University of New York"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-07",
+      "abstract": "The following article attempts to clarify the ambivalent relationship that Max Horkheimer and Herbert Marcuse developed with the vitalist and phenomenological tendencies that permeated philosophy and the social sciences during the Weimar Republic. More precisely, it traces how both thinkers, in spite of acknowledging the \u201ctruth moment\u201d contained in the criticism that the philosophical exponents of both movements (Husserl, Bergson, Dilthey) developed of 19th century positivism, also recognized in its shallow popularization the advancement of a dangerous philosophical irrationalism, suspicious of science and Enlightenment values, that would soon become an accomplice to the rise of fascism.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Enrahonar An international journal of theoretical and practical reason",
+        "type": "journal",
+        "issn": [
+          "0211-402X",
+          "2014-881X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistes.uab.cat/enrahonar/article/download/v62-abromeit/1231-pdf-en"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Phenomenology and Existential Philosophy",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2921110243"
+    },
+    {
+      "openalex_id": "W4391578693",
+      "doi": "10.7551/mitpress/14989.001.0001",
+      "title": "Art as Demonstration",
+      "authors": [
+        {
+          "name": "Sven Spieker",
+          "openalex_id": "A5093873343"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-06",
+      "abstract": "How artists wield demonstration to question the status quo both aesthetically and politically, marshaling art and education as powerful agents of change. Demonstration, in short, says: See here. It is the practice of pointing to something in order to explain or contest it. As such, Sven Spieker argues that demonstration has helped reshape art from the height of the Cold War to the late twentieth century, reformatting our understanding of how art and political engagement relate to each other. Focusing on Western Europe (especially Germany), Eastern Europe, and the United States, Art as Demonstration expands on contemporary discussions of art-as-protest, activism, and resistance. Spieker shows how a closer, more historical look at art's connection with demonstration reconnects us with earlier efforts, notably by the early twentieth-century avant-garde, to marshal art for the purpose of instruction and engagement. Art as Demonstration reconceives the history of postwar art in Eastern and Western Europe from the perspective of demonstration, understood formally (as a technique for showing and pointing) as well as politically (as protest, resistance, etc.). Close analyses of individual artworks reveal how the deployment of demonstration has changed over time. Spieker shows how protest and resistance organize art and artists not only politically but also and especially formally and aesthetically\u2014a development of particular importance in the Cold War art and politics of Eastern Europe. The book illustrates how from the 1960s onward demonstration radically changed the way artists thought about art: no longer as an object but as a form of education.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://direct.mit.edu/books/monograph/5728/bookpreview-pdf/2328761"
+      },
+      "topics": [
+        "Art, Politics, and Modernism",
+        "Eastern European Communism and Reforms",
+        "Visual Culture and Art Theory"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W4391578693"
+    },
+    {
+      "openalex_id": "W4210535802",
+      "doi": "10.11114/smc.v10i1.5462",
+      "title": "Non-Verbal Communication Means in the Contemporary Art",
+      "authors": [
+        {
+          "name": "\u0421\u0432\u0456\u0442\u043b\u0430\u043d\u0430 \u0414\u0435\u0440\u043a\u0430\u0447",
+          "openalex_id": "A5046003442",
+          "orcid": "https://orcid.org/0000-0002-5963-6463",
+          "institutions": [
+            "Taras Shevchenko National University of Kyiv",
+            "Kyiv National University of Culture and Arts"
+          ]
+        },
+        {
+          "name": "Myroslava Melnyk",
+          "openalex_id": "A5111103374",
+          "institutions": [
+            "Taras Shevchenko National University of Kyiv",
+            "Kyiv National University of Culture and Arts"
+          ]
+        },
+        {
+          "name": "Volodymyr Fisher",
+          "openalex_id": "A5087505705",
+          "orcid": "https://orcid.org/0000-0003-4045-7024",
+          "institutions": [
+            "Taras Shevchenko National University of Kyiv",
+            "Kyiv National University of Culture and Arts"
+          ]
+        },
+        {
+          "name": "Volodymyr Moiseienko",
+          "openalex_id": "A5007642716",
+          "orcid": "https://orcid.org/0000-0003-0802-2768",
+          "institutions": [
+            "Taras Shevchenko National University of Kyiv",
+            "Kyiv National University of Culture and Arts"
+          ]
+        },
+        {
+          "name": "Tetiana Sovhyra",
+          "openalex_id": "A5112660688",
+          "institutions": [
+            "Taras Shevchenko National University of Kyiv",
+            "Kyiv National University of Culture and Arts"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-25",
+      "abstract": "The relevance of this work is due to the significant spread of various concepts on the basic ways of generating diverse, modern shows of the entertainment genre with a wide range of non-verbal means of communication. Non-verbal communication means serve as mediators in art but due to the fact that in contemporary art, the communication between the audience and the author is not sufficiently arranged, there are gaps in the information message perceiving. The authors aimed to study the communication barriers related to non-verbal communication means, as well as to find the solutions for the problems that arise in this context. The following methods were used: analysis and synthesis, comparison, descriptive method, method of abstraction. Trends in cooperation developing between the authors and the subjects of receiving information were identified. The psychological and social researches\u2019 data on the different signals impact on the information receiving efficiency were analyzed. Features and characteristics of the non-verbal communication means, their relationships, similarities and differences were identified. As a result of the research, the basic concepts of creating a show in the XXI century with the involvement of non-verbal communication, their effectiveness in the development of the industry at this stage, as well as possible directions for future development were described.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Studies in Media and Communication",
+        "type": "journal",
+        "issn": [
+          "2325-8071",
+          "2325-808X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://redfame.com/journal/index.php/smc/article/download/5462/5662"
+      },
+      "topics": [
+        "Scientific Research and Philosophical Inquiry",
+        "Language, Communication, and Linguistic Studies",
+        "Innovations in Education and Learning Technologies"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W4210535802"
+    },
+    {
+      "openalex_id": "W2763531278",
+      "doi": null,
+      "title": "Soviet epistemologies and the materialist ontology of poor life : Andrei Platonov, Alexander Bogdanov and Lev Vygotsky",
+      "authors": [
+        {
+          "name": "Maria Chehonadskih",
+          "openalex_id": "A5075747004"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-01",
+      "abstract": "This thesis provides new perspectives on the epistemic conditions of pre- and post-revolutionary&#13;\\nSoviet thought (1910s\u2013early 1930s) and constructs a transdisciplinary entry point into a&#13;\\nmaterialist ontology of \u2018poor life\u2019. The concept of poor life engages contemporary debates on&#13;\\nclass composition and individuation from the materialist viewpoint of self-organising labour&#13;\\ncausality and social mediation. The thesis opens with a critical examination of the \u2018Western\u2019&#13;\\nand \u2018Eastern\u2019 divide in Marxist philosophy and shifts discussion from the official doctrine of&#13;\\nBolshevism to the under-represented epistemologies of Empirio-Marxism and Spinozist-&#13;\\nHegelianism in the philosophy and political theory of Alexander Bogdanov, the writings and art&#13;\\ncriticism of Andrei Platonov and the experimental philosophy and psychology of Lev Vygotsky.&#13;\\nA transdisciplinary, post-revolutionary logic assumes that theory should start where Marx ended&#13;\\nand that it should act in a Marxist fashion across all conceptual and practical realms. The&#13;\\nreconstruction of these epistemological conditions leads to an alternative philosophical&#13;\\ngenealogy of Soviet avant-garde art and the writings of Andrei Platonov. The thesis explores the&#13;\\nconnections between the Empirio-Marxism of Bogdanov and the problematic of construction,&#13;\\n\u2018life-building\u2019 and production in the theories of the Soviet avant-garde. Bogdanov proposes an&#13;\\norganisational ontology of the active and productive capacity of labour to compose and&#13;\\nconstruct historically determined \u2018life-complexes\u2019 and orders of material relations. In turn, the&#13;\\norganisation of sensibility, things and relations, or communist \u2018life-building\u2019, becomes the&#13;\\nprimary theoretical and practical agenda of Proletkult, Constructivism, Productivism and the&#13;\\nLiterature of Fact. The thesis demonstrates the unique place of Andrei Platonov within these&#13;\\nconceptual settings. The core of the thesis is a reconstruction of Platonov\u2019s method and form of&#13;\\nwriting, the aim of which is to demonstrate the conceptual reciprocity of the problems of \u2018lifebuilding\u2019&#13;\\nand \u2018poor life\u2019. Platonov stresses the negativity of partition and compartmentalisation&#13;\\nwithin the compositional logic of \u2018life-building\u2019. In the experience of social poverty, the selforganising&#13;\\nforce of labour produces a disjunctive unity of thinking and speech, reaction and act,&#13;\\ntime and space. Vygotsky\u2019s Spinozist-Hegelianism exposes the structural logic of this&#13;\\nnegativity. The reconstruction of his system shows how mediation produces a dialectical&#13;\\ndramaturgy of individuation out of the compositional materiality of poverty and the given&#13;\\nensemble of social relations. The thesis concludes by outlining a differential unity between the&#13;\\nthree authors. The Soviet problematisation of poor life links social and ontological degrees of&#13;\\norganisation, offering epistemological models of compositional productivity and of the&#13;\\nindividuating negativity of \u2018life-building\u2019. The epistemic conditions that we reconstruct in the&#13;\\nthesis may have vanished along with their revolutionary context, but they are likely to resurface&#13;\\nin the course of any new experiment in radical social transformation.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://eprints.kingston.ac.uk/id/eprint/38850/1/Chehonadskih-M.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2763531278"
+    },
+    {
+      "openalex_id": "W1882474876",
+      "doi": null,
+      "title": "Socialist Realism in Vietnamese Literature: An Analysis of the Relationship Between Literature and Politics",
+      "authors": [
+        {
+          "name": "Tuan Ngoc Nguyen",
+          "openalex_id": "A5058098097",
+          "orcid": "https://orcid.org/0000-0002-7290-9980"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-11-21",
+      "abstract": "In this thesis, I argue that socialist realism is by nature more political than literary; in the domain of politics, it is more nationalistic than socialistic; and in the domain of literature, it is more neo-classical or romantic than realist. Over many decades, writers were advised to represent reality as it ought to be; and in many cases, in so doing, they had to sacrifice not only the truth but also their intellectual and artistic status: their writing did not reflect what they really believed, felt or thought. As a result, ideologically, socialist realism became doctrinaire-ism, and artistically, it became an illustration of the Communist Party's policies. While other 'isms' in Western literature such as realism, romanticism and symbolism took at least half a century to take hold in Vietnam, socialist realism did so with record speed - in just one year. Promulgated at the first Congress of the Union of Soviet Writers in 1934, the doctrine of socialist realism was appearing in Vietnamese newspapers just one year later. However, it had been imported by revolutionaries whose interest was mainly political, not literary: in their view, socialist realism was the best way to transform literature into a political weapon. For writers who had not divorced themselves from the Confucian aesthetics, which placed its particular emphasis on the social and educational function of literature, socialist realism became more acceptable because of the development of nationalism, especially during the Second World War, when Vietnam was dominated simultaneously by two empires: France and Japan. Despite having been imported from France, the socialist realism which was officially adopted in Vietnam was mainly that interpreted by China's Maoists. The profound impact of Mao Zedong's theory of socialist realism in Vietnamese literary thought and activity after the August 1945 Revolution can be explained by several factors, geographical, political and cultural. But it is here argued the most important factor was probably the war. Over three decades, from 1945 to 1975, Vietnam was continually at war, first with the French and later with the Americans. It can be argued that it is the very culture of war that helped to create the type of intellectual and emotional environment necessary for the easy reception of Maoism, an ideology which was originally born in wartime and aimed to serve the war. It can also be argued that, together with Maoism, the war culture itself became one of the crucial factors in shaping socialist realism in the anti-French resistance areas during 1945-54 and in North Vietnam during 1954-1975. The dominance of Maoism and the culture of war transformed socialist realism into something like a para-religion in which the leaders of the Party all became theorists of literature. These people had neither the time nor the knowledge to discuss issues of literature in depth; and consequently, the so-called canonical texts of Vietnamese socialist realism consisted only of several simple pronouncements on literature by the leaders in various forms, including letters, speeches and resolutions. As a result, Vietnamese socialist realism became a dogmatism and, in Vietnamese writers' words, a 'doctrinaire realism'. This 'doctrinaire realism', which was consolidated during the wars against the French and the Americans, was strongly challenged in peacetime - after the 1954 Geneva Agreements and after the 1975 victory by the two best known dissident movements: the Nhan Van - Giai Pham affair and the perestroika-styled doi moi campaign. Both were finally suppressed by the government; but while the former movement was harshly penalized, the latter is still fortunate to be witnessing the death of socialist realism. Although Vietnam is still a one-party ruled state, and the Vietnamese government still holds a monopoly on publishing, forbidding independent presses and journals, and trying to keep its strict control over literary life, socialist realism, both as a doctrine and as a movement, has died. This death resulted not from the activities of the dissidents but from two non-literary elements: globalization and the market-oriented economy which has been adopted by the Vietnamese Communist Party and government since the late 1980s. Now that publishers earned money solely from the number of books sold or in circulation and writers lived solely by their royalties, literary consumers played a decisive role in literary life, and writers were able to make easy contact with the world, the partiinost principle became nonsense and as a result socialist realism became a thing of the past. In short, socialist realism was born of communism, nurtured by nationalism, developed at war, challenged in peacetime, and killed by the force of a free economy and globalization.",
+      "cited_by_count": 16,
+      "type": "dissertation",
+      "source": {
+        "name": "Victoria University Research Repository (Victoria University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://vuir.vu.edu.au/279/"
+      },
+      "topics": [
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1882474876"
+    },
+    {
+      "openalex_id": "W4297817225",
+      "doi": "10.1007/s11212-022-09486-x",
+      "title": "Knowledge of art vs. artistic knowledge. II. The GAKhN \u201cEncyclopedia of Artistic Terminology\u201d",
+      "authors": [
+        {
+          "name": "Nikolaj Plotnikov",
+          "openalex_id": "A5048638447",
+          "orcid": "https://orcid.org/0000-0003-1311-4704",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-09",
+      "abstract": "Abstract In this second article, I look at the history of the creation of the \u201cEncyclopedia of Artistic Terminology\u201d within the State Academy of the Artistic Sciences. I analyze various versions of the encyclopedia\u2019s conception proposed by Wassily Kandinsky and Gustav Shpet and also at the theoretical bases for these conceptions. I then show how the work on the Encyclopedia was connected with the institutional transformations in the Academy. A key factor in the work on the Encyclopedia was the extensive discussions of the fundamental aesthetic terms that took place in the Philosophy Department and in sections of GAKhN. As the dynamics of the discussions also determined changes in the conception of the Encyclopedia, so work on it shifted more and more from a project for creating a new system of aesthetic concepts to a reconstruction of the \u201chistory of concepts.\u201d Such a transition marked the main vector of the development of European discussions about aesthetic concepts\u2014from the creation of systems of aesthetic categories to historical reflection on the semantic transformations of categories. In conclusion, I investigate the cessation of work on the Encyclopedia in 1929 in response to the outside ideological pressure and the elimination of the possibility for autonomous theoretical work within the walls of the Academy.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-022-09486-x.pdf"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Visual Culture and Art Theory"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4297817225"
+    },
+    {
+      "openalex_id": "W4390713961",
+      "doi": "10.52056/9791254694961",
+      "title": "Cultural Interactions in the Medieval Subcaucasian Region: Historiographical and Art-Historical Perspectives Vol. I. The Othering Gaze: Imperialism, Colonialism, and Orientalism in Studies on Medieval Art in the Southern Caucasus (1801\u20131991)",
+      "authors": [
+        {
+          "name": "Annalisa Moraschi",
+          "openalex_id": "A5059025555"
+        },
+        {
+          "name": "Kl\u00e1ra Dole\u017ealov\u00e1",
+          "openalex_id": "A5086420210"
+        },
+        {
+          "name": "Ruben Campini",
+          "openalex_id": "A5007817142"
+        },
+        {
+          "name": "Adrien Palladino",
+          "openalex_id": "A5006506621",
+          "orcid": "https://orcid.org/0000-0002-8553-1067"
+        },
+        {
+          "name": "Ivan Foletti",
+          "openalex_id": "A5032698808",
+          "orcid": "https://orcid.org/0000-0002-3080-7177"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-10",
+      "abstract": "This collaborative volume explains the nineteenth and twentieth century marginalization of one of the major centers of medieval culture and creativity, the Southern Caucasus, through an in depth histo-riographical approach. Tracing research traditions created within different linguistic spheres (Russian, German, French, Italian, and English) across time, it shows how and to what extent the birth of art historical studies on the region were conditioned by geopolitical stakes and by the social and cul-tural perception of the modern regions. From the creation of the Russian Caucasus Viceroyalty in 1801 until the end of the Cold War in 1991, the volume dissects how the region\u2019s medieval art was rediscov-ered, studied, and presented. In doing so, it decon-structs some of the most deeply rooted stereotypes of the discipline while at the same actively partici-pating in demarginalizing this region and affording it its rightful place in world art history.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Viella editrice eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.52056/9791254694961"
+      },
+      "topics": [
+        "Eurasian Exchange Networks",
+        "Ancient Mediterranean Archaeology and History",
+        "Archaeological Research and Protection"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W4390713961"
+    },
+    {
+      "openalex_id": "W2390987860",
+      "doi": null,
+      "title": "An Interpretation of Henri Lefebvre's Introduction to Aesthetics",
+      "authors": [
+        {
+          "name": "Lu Yan",
+          "openalex_id": "A5109297633",
+          "institutions": [
+            "Fudan University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "Ignored by Chinese and international academic circles,Henri Lefebvre's Introduction to Aesthetics was not only a representative w ork in M arxist aestheticism on its publication in the late 1940 s,but also contravened  socialist realism ,the dominant ideology of the M arxist camp at that time. In his review of the history of aesthetics he criticized Kant and Hegel and eulogized Plato and Diderot,showing his theoretic bent to apply philosophical aesthetics to daily life. Lefebvre lauded Marx's Manuscripts of Paris and the idea of all-round development put forward in this book was to become the immediate inspiration for his theory of the  whole person. His argument with Plekhanov on the origin and functions of art is rather their interpretations of the relationship between art and social life from the perspectives of the material and spiritual aspects of culture respectively.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Aesthetic Education",
+        "type": "journal",
+        "issn": [
+          "0021-8510",
+          "1543-7809"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2390987860"
+    },
+    {
+      "openalex_id": "W4233420936",
+      "doi": "10.3998/mpub.338565",
+      "title": "Alienation Effects",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "<DIV>In the 1970s, Yugoslavia emerged as a dynamic environment for conceptual and performance art. At the same time, it pursued its own form of political economy of socialist self-management. <I>Alienation Effects</I> argues that a deep relationship existed between the democratization of the arts and industrial democracy, resulting in a culture difficult to classify. The book challenges the assumption that the art emerging in Eastern Europe before 1989 was either \"official\" or \"dissident\" art; and shows that the break up of Yugoslavia was not a result of \"ancient hatreds\" among its peoples but instead came from the distortion and defeat of the idea of self-management.<BR /><BR /> The case studies include mass performances organized during state holidays; proto-performance art, such as the 1954 production of Waiting for Godot in a former concentration camp in Belgrade; student demonstrations in 1968; and body art pieces by Gina Pane, Joseph Beuys, Marina Abramovic, and others. <I>Alienation Effects</I> sheds new light on the work of well-known artists and scholars, including early experimental poetry by Slavoj \u017di\u017eek, as well as performance and conceptual artists that deserve wider, international attention.</DIV><BR />",
+      "cited_by_count": 11,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.fulcrum.org/ebooks/fq977v99t/download?locale=en"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4233420936"
+    },
+    {
+      "openalex_id": "W2161471159",
+      "doi": null,
+      "title": "Chen Duxiu's early years: The importance of personal connections in the social and intellectual transformation of China 1895--1920",
+      "authors": [
+        {
+          "name": "Anne S. Chao",
+          "openalex_id": "A5065086758"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Chen Duxiu (1879-1942), is without question one of the most significant figures in modern Chinese history. Yet his early life has been curiously neglected in Western scholarship. In this dissertation I examine the political, social and intellectual networks that played such an important role in his early career---a career that witnessed his transformation from a classical scholar in the Qing dynasty (1644-1912), to a reformer, to a revolutionary, to a renowned writer and editor, to a university dean, to a founder of the Chinese Communist Party, all in the space of about two decades.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Rice Digital Scholarship Archive (Rice University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1911/61867"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2161471159"
+    },
+    {
+      "openalex_id": "W2502558445",
+      "doi": null,
+      "title": "Alienation Effects: Performance and Self-Management in Yugoslavia, 1945-91",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-13",
+      "abstract": "Exciting new scholarship has been emerging as performance studies scholars begin to turn their attention to the performance of politics, nationhood, and jurisprudence. Branislav Jakovljevic's project on the history and eventual demise of the former Yugoslavia demonstrates how fruitful this approach can be. Jakovljevic considers the concept of theatricality as central to understanding the events that took place in Yugoslavia. He examines the country's trials, state ceremonies and festivals, army maneuvers, propaganda, and pop culture as rehearsals and temporary enactments of an ideologically formulated future. His first chapter reveals the surrealist, avant-garde origins of key members of the Yugoslav bureaucracy after WWII, suggesting that those connections helped the culture of socialist Yugoslavia become a performance-centered culture. Continuing to explore the relationship between the political avant-garde and the artistic avant-garde, he looks at the spectacle of student demonstrations in Belgrade in 1968, and, in their aftermath, the rise of performance art in the country. The third chapter (included here) zeros in on the various political performances of Slobodan Milosevic, including his courtroom testimony at the ICTY, the International Criminal Tribunal for the former Yugoslavia. The fourth chapter discusses the Peter Handke Affair, when the Austrian playwright had a major prize revoked after he attended Milosevic's funeral and recited a poem he had written in Milosevic's honor.",
+      "cited_by_count": 21,
+      "type": "book",
+      "source": {
+        "name": "BiblioBoard Library Catalog (Open Research Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://openresearchlibrary.org/ext/api/media/f410ace8-2b7b-4a1e-a5ec-10e6a95b2d9b/assets/external_content.pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2502558445"
+    },
+    {
+      "openalex_id": "W2316975284",
+      "doi": "10.2307/2493379",
+      "title": "The Legacy of Lunacharsky and Artistic Freedom in the USSR",
+      "authors": [
+        {
+          "name": "Howard R. Holter",
+          "openalex_id": "A5080425523"
+        }
+      ],
+      "publication_year": 1970,
+      "publication_date": "1970-06-01",
+      "abstract": "Since the Twentieth Party Congress, a controversy has developed in the Soviet Union concerning the activities and views of Anatolii Vasilievich Lunacharsky (1875-1933). Lunacharsky was the USSR's first commissar of education and an important and controversial figure in the arts during the 1920s. Of particular interest in the current debate is the underlying issue of artistic freedom in the Soviet Union today. In praising or attacking Lunacharsky, writers can set forth in an oblique manner their views on topics that cannot always be openly discussed. In this debate those who advocate change in the arts policy and those who support the current policies can confront each other, in an acceptable way, on such issues as censorship, the party's role in the world of art, artistic experimentation, and a variety of other issues of vital concern to artists and writers in the Soviet Union.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Slavic Review",
+        "type": "journal",
+        "issn": [
+          "0037-6779",
+          "2325-7784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/24216E62DBC6665EB370A76B5E744C9C/S0037677900144948a.pdf/div-class-title-the-legacy-of-lunacharsky-and-artistic-freedom-in-the-ussr-div.pdf"
+      },
+      "topics": [
+        "Law in Society and Culture"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2316975284"
+    },
+    {
+      "openalex_id": "W2314357617",
+      "doi": "10.2307/2495563",
+      "title": "Soviet Theory of Literature and the Struggle Around Dostoevsky in Recent Soviet Scholarship",
+      "authors": [
+        {
+          "name": "N. N. Shneidman",
+          "openalex_id": "A5024404308"
+        }
+      ],
+      "publication_year": 1975,
+      "publication_date": "1975-09-01",
+      "abstract": "The acceptance of prerevolutionary cultural values in the Soviet Union has been constrained by the development of official interpretation of Marxist-Leninist dogma and its application to the changing historical and political conditions and issues of the day. The evolution of the official Soviet approach to nineteenth-century Russian classical writers thus has been a process influenced by ideological and political considerations. At each stage of development of the Soviet state, Soviet officials devise the necessary literary policy and literary theory with which the values most pertinent to Soviet society at a given stage of its historical development can be extracted from a work of art created in a bourgeois society by an artist alien to the cause of the revolution.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Slavic Review",
+        "type": "journal",
+        "issn": [
+          "0037-6779",
+          "2325-7784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/59472AD6DA80B2C6264055F88808FD94/S0037677900071746a.pdf/div-class-title-soviet-theory-of-literature-and-the-struggle-around-dostoevsky-in-recent-soviet-scholarship-div.pdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W2314357617"
+    },
+    {
+      "openalex_id": "W2755892932",
+      "doi": "10.1215/03335372-4166634",
+      "title": "On the Significance of Historical Poetics: In Lieu of a Foreword",
+      "authors": [
+        {
+          "name": "Galin Tihanov",
+          "openalex_id": "A5061785280",
+          "orcid": "https://orcid.org/0000-0002-0007-6908",
+          "institutions": [
+            "Queen Mary University of London"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-01",
+      "abstract": "This invited foreword to a cluster of four essays on historical poetics seeks to establish how the relevance of Historical Poetics is reclaimed today. Affinities, differences, and questions of commensurability and historical contextualization are raised as part of the discussion. The foreword also attempts to resituate Historical Poetics within current debates on \u201cworld literature.\u201d In this light it reconsiders the work of Mikhail Bakhtin, suggesting that he performed a flight away from the largely Eurocentric tenor of the Russian Formalists.",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Poetics Today",
+        "type": "journal",
+        "issn": [
+          "0333-5372",
+          "1527-5507"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/poetics-today/article-pdf/38/3/417/505440/poe383_01tihanov_fpp.pdf"
+      },
+      "topics": [
+        "Russian Literature and Bakhtin Studies",
+        "Hermeneutics and Narrative Identity",
+        "European Cultural and National Identity"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W2755892932"
+    },
+    {
+      "openalex_id": "W4400789965",
+      "doi": "10.25634/mirbis.2021.2.19",
+      "title": "Possibilities of ecologize of daily behavior of the population in the conditions of communicative reproducibility of social phenomena (on the example of Kazan)",
+      "authors": [
+        {
+          "name": "\u0412.\u041e. \u041a\u043e\u0440\u0443\u043d\u043e\u0432\u0430",
+          "openalex_id": "A5070808952",
+          "orcid": "https://orcid.org/0000-0002-2519-6332"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-08",
+      "abstract": "\u0421\u0442\u0430\u0442\u044c\u044f \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0435 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043a \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e-\u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430, \u0441\u0444\u043e\u0440\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0438 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0445\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432 \u0432\u0438\u0434\u0435 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u0430 \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u044f \u0432 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430\u0445 \u043f\u0440\u0438\u0440\u043e\u0434\u043e\u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f. \u041f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0430\u043d\u043a\u0435\u0442\u043d\u043e\u0433\u043e \u043e\u043f\u0440\u043e\u0441\u0430 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0433\u043e\u0440\u043e\u0434\u0430 \u041a\u0430\u0437\u0430\u043d\u0438, \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u0432 2019 \u0433\u043e\u0434\u0443. \u0421\u0434\u0435\u043b\u0430\u043d \u0432\u044b\u0432\u043e\u0434 \u043e \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0439 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0441 \u0435\u0433\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0438\u043c \u043f\u0440\u0435\u043b\u043e\u043c\u043b\u0435\u043d\u0438\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u043a \u043d\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u043e\u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u0438\u0437\u043c\u0443 \u0434\u043e\u0432\u0435\u0440\u0438\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u0430\u0433\u0435\u043d\u0442\u0430\u043c \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0441 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0435\u0439 \u0441\u0440\u0435\u0434\u043e\u0439. \u041e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435 \u00ab\u043d\u043e\u0440\u043c\u044b\u00bb \u043f\u0440\u0438\u0440\u043e\u0434\u043e\u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f. The article is devoted to the problem of ecologize of daily behavior of the population. The author's approach to the consideration of socio-environmental reproduction processes, formulated and depicted schematically in the form of a communicative mechanism for the reproduction of environmental consciousness in environmental protection practices, is presented. The results of a questionnaire survey of Kazan residents, implemented by the author in 2019, are presented. It is concluded that the environmental component of daily behavior of the population is connected with informing them about environmental problems and relations, which determines the refraction of attitudes to environmental protection through the prism of trust in the main agents of interaction with the environment. The necessity of study and adjustment the existing .norm. of environmental protection in society to ensure the ecologize of daily behavior of the population is justified.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vestnik MIRBIS.",
+        "type": "journal",
+        "issn": [
+          "2411-5703"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.25634/mirbis.2021.2.19"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia",
+        "Regional Socio-Economic Development Trends"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4400789965"
+    },
+    {
+      "openalex_id": "W4388928533",
+      "doi": "10.24425/hsm.2019.130574",
+      "title": "Ethical vs Ideological in the Literary Discussions in Soviet Ukraine in the 1920s: Boris Eikhenbaum in Kharkiv in 1926",
+      "authors": [
+        {
+          "name": "\u0413\u0430\u043b\u0438\u043d\u0430 \u0411\u0430\u0431\u0430\u043a",
+          "openalex_id": "A5082632900",
+          "orcid": "https://orcid.org/0000-0001-7528-9601",
+          "institutions": [
+            "Charles University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-12-30",
+      "abstract": "The article examines the theoretical discussions on the dualism of \u201cform\u201d and \u201ccontent\u201d in literature and art that took place in Soviet Ukraine in the mid-1920s. The subject is considered in the context of the development of two competitive approaches of study of literature and art \u2014 Russian formalism and Marxism. The problem is observed through the comparison of ethical and ideological positions of the modernists and Marxists in Russia and Ukraine in the 1920s.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Historyka Studia Metodologiczne",
+        "type": "journal",
+        "issn": [
+          "3071-6608"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.pan.pl/Content/114027/PDF/3%20BABAK.pdf"
+      },
+      "topics": [
+        "Education, Literature, Philosophy Research",
+        "Eastern European Communism and Reforms",
+        "Russian Literature and Bakhtin Studies"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4388928533"
+    },
+    {
+      "openalex_id": "W2568642881",
+      "doi": "10.1017/s0021911816001637",
+      "title": "Clandestine Cosmopolitanism: Foreign Literature in the People's Republic of China, 1957\u20131977",
+      "authors": [
+        {
+          "name": "Nicolai Volland",
+          "openalex_id": "A5067009940"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-04",
+      "abstract": "This essay examines the circulation and consumption of foreign literature in socialist China, showing that even during the most xenophobic times of High Maoism, Chinese readers had access to foreign literature through a variety of channels. An unstated though widely shared commitment to the intrinsic value of foreign culture, I argue, reveals deeply ingrained cosmopolitan practices that belie a nationalistic surface rhetoric. To trace the interest in and commitment to foreign literature, this article inspects three distinct yet overlapping modes of literary circulation: the private sphere, the restricted public sphere of internal publications, and the open public sphere. Access to foreign literature was limited, but the flow of transnational culture never stopped, as editors and readers alike perpetuated an intellectual framework that was grounded in the valorization of transnational culture and that predated the People's Republic's founding in 1949. These findings call for a reevaluation of Chinese socialist cultural consumption and production from a transnational perspective.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Asian Studies",
+        "type": "journal",
+        "issn": [
+          "0021-9118",
+          "1752-0401"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A5C779581C436EB3E7FF6DF20D530654/S0021911816001637a.pdf/div-class-title-clandestine-cosmopolitanism-foreign-literature-in-the-people-s-republic-of-china-1957-1977-div.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Japanese History and Culture",
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2568642881"
+    },
+    {
+      "openalex_id": "W4382180340",
+      "doi": "10.30884/seh/2023.01.07",
+      "title": "Historical Materialism: Does the Concept Have a Future?",
+      "authors": [
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5030688553",
+          "orcid": "https://orcid.org/0000-0003-0278-2619",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Institute of Oriental Studies"
+          ]
+        },
+        {
+          "name": "\u0410\u043d\u0442\u043e\u043d \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5058810903",
+          "orcid": "https://orcid.org/0000-0003-0912-0423",
+          "institutions": [
+            "Lomonosov Moscow State University",
+            "Moscow State University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "The article examines academic and intellectual merits of the central part of Marxism -historical materialism.The authors argue that historical materialism has many valuable findings and conclusions and analyze some of them, showing that they together with its methodology can be helpful for social scientist and for a historian theorizing and aspiring for wide analogues.There are given new explanations to this phenomenon as the restrictions are revealed of the existing model of historical materialism.A peculiar attention is paid to Marx's conclusion that the changing developmental level of productive forces inevitably leads to changes in all other spheres of societal life; moreover, these changes proceed far from automatically and immediately but through the resolution of structural and systemic crisis in a society.The article presents a survey on the history of the Western studies within historical materialism framework starting from the end of the nineteenth century at the general background of the ups and downs of the Western Marxism and its crisis after the collapse of socialism.The authors show the waves of the Western Marxists' attenuating and increasing interest in historical materialism.The latter to a certain extent should be considered as a program for scientific research which is far from its realization.The authors make a conclusion that today one can hardly work within the framework of historical materialism conception since many of its postulates should be revised.It is very important, that historical materialism can affect social science mainly in an indirect way through a creative acquiring and interpretation of its method, approaches, and par-",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Social Evolution & History",
+        "type": "journal",
+        "issn": [
+          "1681-4363"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sociostudies.org/upload/socionauki.ru/journal/seh/2023_1/007_Grinin.pdf"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W4382180340"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

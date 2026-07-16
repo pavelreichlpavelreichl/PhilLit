@@ -1,0 +1,35 @@
+[s2_search.py] Searching Semantic Scholar: 'Della Volpe critique of taste sociological reductionism aesthetics', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_2e60d9c545285766)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Della Volpe critique of taste sociological reductionism aesthetics",
+  "results": [
+    {
+      "paperId": "c8e033ad15b9ebfbe9b624aa72c27b65ddd23d2e",
+      "title": "Critique of taste",
+      "authors": [
+        {
+          "name": "Galvano Della Volpe",
+          "authorId": "134041015"
+        }
+      ],
+      "year": 1978,
+      "abstract": null,
+      "citationCount": 14,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c8e033ad15b9ebfbe9b624aa72c27b65ddd23d2e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

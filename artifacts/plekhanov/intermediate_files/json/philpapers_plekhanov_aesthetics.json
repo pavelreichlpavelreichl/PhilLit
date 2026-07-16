@@ -1,0 +1,249 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov aesthetics', limit=20
+[search_philpapers.py] Retrieved 18 entries...
+[search_philpapers.py] Search complete: 18 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov aesthetics",
+  "results": [
+    {
+      "title": "G. V. PLEKHANOV, Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/PLEFPO",
+      "philpapers_id": "PLEFPO",
+      "snippet": "The dictatorship of the proletariat from Plekhanov to Lenin.Robert Mayer - 1993 - Studies in East European Thought 45 (4):255 - 280. Marxism and aesthetics: A critique of the contribution of George Plekhanov.Lee Baxandall - 1967 - Journal of Aesthetics and Art Criticism 25 (3):267-279.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. V. PLEKHANOV"
+        }
+      ],
+      "extra_snippets": [
+        "G. V. PLEKHANOV",
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein.",
+        "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185."
+      ]
+    },
+    {
+      "title": "A. V. Pavlov, Do western marxists dream of a revolution today?",
+      "url": "https://philpapers.org/rec/PAVDWM",
+      "philpapers_id": "PAVDWM",
+      "snippet": "Sravnitelna estetika: osnovni vu\u0306prosi na estetikata v trudovete na Georgi Plekhanov, Todor Pavlov, Georg Lukach i Moisei\u0306 Kagan.Aleksandu\u0306r Atanasov - 1988 - Sofii\ufe20a\ufe21: Partizdat. Acknowledgments.Kang Liu - 2020 - In Aesthetics and Marxism: Chinese Aesthetic Marxists and Their Western ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "A. V. Pavlov"
+        }
+      ],
+      "extra_snippets": [
+        "Sravnitelna estetika: osnovni vu\u0306prosi na estetikata v trudovete na Georgi Plekhanov, Todor Pavlov, Georg Lukach i Moisei\u0306 Kagan.Aleksandu\u0306r Atanasov - 1988 - Sofii\ufe20a\ufe21: Partizdat. Acknowledgments.Kang Liu - 2020 - In Aesthetics and Marxism: Chinese Aesthetic Marxists and Their Western Contemporaries.",
+        "Aesthetics and Marxism Chinese Aesthetic Marxists and Their Western Contemporaries.Lui Kang - 2000"
+      ]
+    },
+    {
+      "title": "Georgi\u00e6i Valentinovich Plekhanov, Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History",
+      "url": "https://philpapers.org/rec/PLEEIH",
+      "philpapers_id": "PLEEIH",
+      "snippet": "The materialist conception of history.Georgii Valentinovich Plekhanov - 1940 - New York: International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "The materialist conception of history.Georgii Valentinovich Plekhanov - 1940 - New York: International Publishers."
+      ]
+    },
+    {
+      "title": "M. V. Pronina, T. I. Filimonova, Georgii\u0306 Valentinovich Plekhanov & N. A. Rubakin (eds.), Istorii\ufe20a\ufe21 sozdanii\ufe20a\ufe21 knigi G.V. Plekhanova",
+      "url": "https://philpapers.org/rec/PROISK",
+      "philpapers_id": "PROISK",
+      "snippet": "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - &quot;Iskusstvo&quot;.",
+      "page_age": null,
+      "extra_snippets": [
+        "M. V. Pronina, T. I. Filimonova, Georgii\u0306 Valentinovich Plekhanov & N.",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+        "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - \"Iskusstvo\".",
+        "Ateizm i religii\ufe20a\ufe21 v trudakh G.V. Plekhanova.I. B. Mindlin & Mikhail Trifonovich Iovchuk - 1984 - Moskva: Izd-vo \"Nauka\". Edited by M."
+      ]
+    },
+    {
+      "title": "B. H., Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/HFPO",
+      "philpapers_id": "HFPO",
+      "snippet": "In the opinion of many non-Marxist and some Marxist scholars, this was the crucial initial step in the elaboration of a deviationist doctrine which not only departed from Marx&#x27;s and Engels&#x27; original thought, but which eventually overshadowed it. Plekhanov, in this view, served as the link between Engels and Lenin in which a tendency in Engels toward a mechanistic materialism, manifested in his Anti-D\u00fchring and The Dialectics of Nature, was developed into a dominant theme.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. H."
+        }
+      ],
+      "extra_snippets": [
+        "This is a new translation of one of Plekhanov's major works on historical materialism. It is based on the Russian edition of the Institute of Philosophy of the Academy of Sciences of the USSR, edited by V.",
+        "A. Fomina. The appendix contains two valuable additional essays by Plekhanov: The Materialist Conception of History and The Role of the Individual in History, both of which are reprints with some minor revisions of translations of 1940. Plekhanov's footnotes are given on the page and explanatory notes by the editor have been added in the back of the book.",
+        "In the opinion of many non-Marxist and some Marxist scholars, this was the crucial initial step in the elaboration of a deviationist doctrine which not only departed from Marx's and Engels' original thought, but which eventually overshadowed it. Plekhanov, in this view, served as the link between Engels and Lenin in which a tendency in Engels toward a mechanistic materialism, manifested in his Anti-D\u00fchring and The Dialectics of Nature, was developed into a dominant theme.",
+        "Regrettably, the introduction by the editor ignores these evaluations and interpretations and sticks to the more traditional Marxist areas of discussing Plekhanov's masterful refutation of economic determinism, his exaggeration of the importance of geographic conditions, and Lenin's criticisms of his theoretical weaknesses."
+      ]
+    },
+    {
+      "title": "Robert Mayer, Plekhanov, Lenin and working-class consciousness",
+      "url": "https://philpapers.org/rec/MAYPLA",
+      "philpapers_id": "MAYPLA",
+      "snippet": "According to the prevailing scholarly view, made popular by Neil Harding, Lenin is said to have derived his well-known theory of working-class consciousness in What Is To Be Done? from G. V. Plekhanov, the father of Russian Marxism. Is this article I demonstrate, however, that Plekhanov and Lenin disagreed quite sharply on this question.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Robert Mayer"
+        }
+      ],
+      "extra_snippets": [
+        "According to the prevailing scholarly view, made popular by Neil Harding, Lenin is said to have derived his well-known theory of working-class consciousness in What Is To Be Done? from G. V. Plekhanov, the father of Russian Marxism. Is this article I demonstrate, however, that Plekhanov and Lenin disagreed quite sharply on this question.",
+        "Indeed, Plekhanov was a thorough-going optimist about proletarian capacities, and while he did assign an important role to the intelligentsia in the process of consciousness-raising, that role was carefully circumscribed.",
+        "Plekhanov did not believe that workers would fail to develop a socialist consciousness in the absence of external intervention.",
+        "An exhaustive review of Plekhanov's writings before November 1903, when he broke with Lenin, reveals just how unorthodox Lenin's most famous argument was in the context of Russian Social-Democratic theory."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, Beitra\u0308ge zur Geschichte des Materialismus: Holbach, Helvetius, Marx",
+      "url": "https://philpapers.org/rec/PLEBZG",
+      "philpapers_id": "PLEBZG",
+      "snippet": "Essays in the history of materialism.Georgi\u012d Valentinovich Plekhanov - 1934 - New York,: H.",
+      "page_age": null,
+      "extra_snippets": [
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLETDO-2",
+      "philpapers_id": "PLETDO",
+      "snippet": "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+      "page_age": null,
+      "extra_snippets": [
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza.",
+        "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P."
+      ]
+    },
+    {
+      "title": "Galvano Della Volpe, Critique of taste",
+      "url": "https://philpapers.org/rec/DELCOT",
+      "philpapers_id": "DELCOT",
+      "snippet": "His most important book was a work of aesthetic theory\u2014Critique of Taste. Della Volpe, proponent of a robust materialism in all his writings, was concerned to rehabilitate the inherently rational and intellectual nature of art. Opposing both the sociological reductionism of Plekhanov or Luk\u00e1cs, ...",
+      "page_age": null,
+      "extra_snippets": [
+        "His most important book was a work of aesthetic theory\u2014Critique of Taste. Della Volpe, proponent of a robust materialism in all his writings, was concerned to rehabilitate the inherently rational and intellectual nature of art. Opposing both the sociological reductionism of Plekhanov or Luk\u00e1cs, and the formalist irrationalism of Croce or New Criticism, Della Volpe's aim was to demonstrate that conceptual meaning is always inseparable from aesthetic effect.",
+        "Galvano Della Volpe was the dominant philosopher of Italian Marxism for twenty years after the Liberation. His most important book was a work of aesthetic theory\u2014Critique of Taste. Della Volpe, proponent ...",
+        "Whether he is discussing Pindar or G\u00f3ngora, Cleanth Brooks or Roland Barthes, Goethe or Mallarm\u00e9, Della Volpe is always challenging, always illuminating. Critique of Taste represents one of the major crossroads of twentieth-century aesthetics.",
+        "Critique of Taste (Critica del gusto)L'estetica di Galvano della Volpe.Evan Watkins, Galvano Della Volpe, Michael Caesar & Massimo Modica - 1980 - Journal of Aesthetics and Art Criticism 38 (3):325."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The materialist conception of history",
+      "url": "https://philpapers.org/rec/PLETMC",
+      "philpapers_id": "PLETMC",
+      "snippet": "Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History.Georgi\u00e6i Valentinovich Plekhanov - 1992 - International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History.Georgi\u00e6i Valentinovich Plekhanov - 1992 - International Publishers."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, A concepc\u0327a\u0303o materialista da histo\u0301ria",
+      "url": "https://philpapers.org/rec/PLEACM",
+      "philpapers_id": "PLEACM",
+      "snippet": "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - &quot;Iskusstvo&quot;.",
+      "page_age": null,
+      "extra_snippets": [
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+        "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+        "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - \"Iskusstvo\"."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov & Andrew Rothstein, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+      "page_age": null,
+      "extra_snippets": [
+        "PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein.",
+        "The development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - Moscow,: Foreign Languages Pub.",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926"
+      ]
+    },
+    {
+      "title": "Georgi\u012d Valentinovich Plekhanov, Essays in the history of materialism",
+      "url": "https://philpapers.org/rec/PLEEIT",
+      "philpapers_id": "PLEEIT",
+      "snippet": "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+      "page_age": null,
+      "extra_snippets": [
+        "Beitra\u0308ge zur Geschichte des Materialismus: Holbach, Helvetius, Marx.Georgii\u0306 Valentinovich Plekhanov - 1896 - Zittau: B.",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926"
+      ]
+    },
+    {
+      "title": "Avraham Yassour, The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin",
+      "url": "https://philpapers.org/rec/YASTEC",
+      "philpapers_id": "YASTEC",
+      "snippet": "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Avraham Yassour"
+        }
+      ],
+      "extra_snippets": [
+        "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov & J. Fineberg, The Role of the Individual in History",
+      "url": "https://philpapers.org/rec/PLETRO-2",
+      "philpapers_id": "PLETRO",
+      "snippet": "Essays in Historical Materialism the Materialist Conception of History, the Role of the Individual in History.Georgii Valentinovich Plekhanov - 1940 - International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Essays in Historical Materialism the Materialist Conception of History, the Role of the Individual in History.Georgii Valentinovich Plekhanov - 1940 - International Publishers."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO-2",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov &amp; Romana Granas - 1949 - Ksiazka I Wiedza.",
+      "page_age": null,
+      "extra_snippets": [
+        "The development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - Moscow,: Foreign Languages Pub.",
+        "Lun yi yuan lun li shi guan zhi fa zhan.Georgii\u0306 Valentinovich Plekhanov - 1961 - Beijing: Xin hua shu dian fa xing.",
+        "PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov, The materialist conception of history",
+      "url": "https://philpapers.org/rec/PLETMC-2",
+      "philpapers_id": "PLETMC",
+      "snippet": "Georgii Valentinovich Plekhanov \u00b7 New York: (1940) Copy BIBTEX \u00b7 This article has no associated abstract. (fix it) Cite \u00b7 Plain text \u00b7 BibTeX \u00b7 Formatted text \u00b7 Zotero \u00b7 EndNote \u00b7 Reference Manager \u00b7 RefWorks \u00b7 Options \u00b7 Edit \u00b7 Mark as duplicate \u00b7",
+      "page_age": null
+    },
+    {
+      "title": "Boris Ziherl, Dijalekticki I Istoriski Materijalizam Stenografske Beleske",
+      "url": "https://philpapers.org/rec/ZIHDII-2",
+      "philpapers_id": "ZIHDII",
+      "snippet": "In Defence of Materialism the Development of the Monist View of History.Georgii Valentinovich Plekhanov &amp; Andrew Rothstein - 1947 - Lawrence &amp; Wishart.",
+      "page_age": null,
+      "extra_snippets": [
+        "In Defence of Materialism the Development of the Monist View of History.Georgii Valentinovich Plekhanov & Andrew Rothstein - 1947 - Lawrence & Wishart."
+      ]
+    }
+  ],
+  "count": 18,
+  "errors": []
+}
