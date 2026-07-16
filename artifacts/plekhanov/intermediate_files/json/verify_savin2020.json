@@ -1,0 +1,44 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.17223/15617793/458/9
+[verify_paper.py] DOI verified: Origins of the Interpretation and Criticism of Phi...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.17223/15617793/458/9"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.17223/15617793/458/9",
+      "title": "Origins of the Interpretation and Criticism of Philosophical Foundations of Leninism in Western Marxism",
+      "authors": [
+        {
+          "family": "Russian Presidential Academy of National Economy and Public Administration (Moscow",
+          "given": "Russian Federation)"
+        },
+        {
+          "family": "Savin",
+          "given": "Alexey E."
+        },
+        {
+          "family": "Moscow School of Management SKOLKOVO",
+          "given": "(Moscow"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Vestnik Tomskogo gosudarstvennogo universiteta",
+      "volume": "",
+      "issue": "458",
+      "page": "79-84",
+      "publisher": "Tomsk State University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.17223/15617793/458/9"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Georgi Plekhanov and the roots of Soviet philosoph...' author=Devine year=2017
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Georgi Plekhanov and the roots of Soviet philosophy",
+    "author": "Devine",
+    "year": 2017
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (22.3) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

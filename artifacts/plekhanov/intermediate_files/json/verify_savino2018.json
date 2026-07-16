@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.17323/2587-8719-2018-ii-2-99-117
+[verify_paper.py] DOI verified: Italian Marxism and Russian Socialism : Labriola, ...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.17323/2587-8719-2018-ii-2-99-117"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.17323/2587-8719-2018-ii-2-99-117",
+      "title": "Italian Marxism and Russian Socialism : Labriola, Gramsci and Philosophical and Cultural Questions of Revolutionary Movement (1890\u20131937)",
+      "authors": [
+        {
+          "family": "Savino",
+          "given": "Giovanni"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Philosophy. Journal of the Higher School of Economics",
+      "volume": "II",
+      "issue": "2",
+      "page": "99-117",
+      "publisher": "National Research University, Higher School of Economics (HSE)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.17323/2587-8719-2018-ii-2-99-117"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

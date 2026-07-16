@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.6001/FIL-SOC.V32I1.4379
+[verify_paper.py] DOI verified: Intellectual Evolution of Georg Lukács in the Cont...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.6001/FIL-SOC.V32I1.4379"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.6001/fil-soc.v32i1.4379",
+      "title": "Intellectual Evolution of Georg Luk\u00e1cs in the\u00a0Context of Developing Lenin\u2019s Idea of Revolution",
+      "authors": [
+        {
+          "family": "Szabados",
+          "given": "Bettina"
+        },
+        {
+          "family": "Sautkin",
+          "given": "Aleksandr"
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Filosofija. Sociologija",
+      "volume": "32",
+      "issue": "1",
+      "page": "",
+      "publisher": "Lithuanian Academy of Sciences",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.6001/fil-soc.v32i1.4379"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

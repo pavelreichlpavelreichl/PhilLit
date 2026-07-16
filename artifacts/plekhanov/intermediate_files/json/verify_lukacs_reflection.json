@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.18052/www.scipress.com/ilshs.61.145
+[verify_paper.py] DOI verified: Lukács and Reflection Theory...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.18052/www.scipress.com/ilshs.61.145"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.18052/www.scipress.com/ilshs.61.145",
+      "title": "Luka\u0301cs and Reflection Theory",
+      "authors": [
+        {
+          "family": "Yahyanejad",
+          "given": "Hani"
+        },
+        {
+          "family": "Shabanirad",
+          "given": "Ensieh"
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "International Letters of Social and Humanistic Sciences",
+      "volume": "61",
+      "issue": "",
+      "page": "145-154",
+      "publisher": "AOA Academic Open Access Ltd.",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.18052/www.scipress.com/ilshs.61.145"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

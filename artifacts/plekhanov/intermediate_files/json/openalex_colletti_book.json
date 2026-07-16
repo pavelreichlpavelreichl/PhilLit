@@ -1,0 +1,924 @@
+[search_openalex.py] Searching OpenAlex: 'Colletti From Rousseau to Lenin Studies Ideology Society', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_8d6a0c128f9500b0)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Colletti From Rousseau to Lenin Studies Ideology Society",
+  "results": [
+    {
+      "openalex_id": "W2056898234",
+      "doi": "10.2307/1961504",
+      "title": "From Rousseau to Lenin: Studies in Ideology and Society. By Lucio Colletti. Translated by John Merrington and Judith White. (New York: Monthly Review Press, 1972. Pp. 240. $8.50.)",
+      "authors": [
+        {
+          "name": "Thomas Pocklington",
+          "openalex_id": "A5110872432",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 1977,
+      "publication_date": "1977-12-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 43,
+      "type": "book-review",
+      "source": {
+        "name": "American Political Science Review",
+        "type": "journal",
+        "issn": [
+          "0003-0554",
+          "1537-5943"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2056898234"
+    },
+    {
+      "openalex_id": "W2001594224",
+      "doi": "10.1111/j.1467-8330.1981.tb00312.x",
+      "title": "THE SPATIAL FIX \u2013 HEGEL, VON THUNEN, AND MARX",
+      "authors": [
+        {
+          "name": "David Harvey",
+          "openalex_id": "A5101920792",
+          "orcid": "https://orcid.org/0000-0001-6649-7695",
+          "institutions": [
+            "Johns Hopkins University"
+          ]
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-12-01",
+      "abstract": null,
+      "cited_by_count": 367,
+      "type": "article",
+      "source": {
+        "name": "Antipode",
+        "type": "journal",
+        "issn": [
+          "0066-4812",
+          "1467-8330"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-8330.1981.tb00312.x"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Plant Diversity and Evolution",
+        "Plant Taxonomy and Phylogenetics"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2001594224"
+    },
+    {
+      "openalex_id": "W289922956",
+      "doi": "10.1177/097492848103700116",
+      "title": "<i>Ideology and Society</i> : Lucio Colletti: From Rousseau to Lenin: Studies in Ideology and Society. Translated by John Merrington and Judith White. Oxford University Press, Delhi, (reprinted 1978), 240p., Rs.20",
+      "authors": [
+        {
+          "name": "Thomas Pantham",
+          "openalex_id": "A5061994423",
+          "institutions": [
+            "Maharaja Sayajirao University of Baroda"
+          ]
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "India Quarterly A Journal of International Affairs",
+        "type": "journal",
+        "issn": [
+          "0974-9284",
+          "0975-2684"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W289922956"
+    },
+    {
+      "openalex_id": "W2294578102",
+      "doi": "10.5195/jwsr.2000.223",
+      "title": "Paradigm Regained? The Rules Of Wallersteins World-System Method",
+      "authors": [
+        {
+          "name": "Walter L. Goldfrank",
+          "openalex_id": "A5055116044",
+          "institutions": [
+            "University of California, Santa Cruz"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-08-26",
+      "abstract": "The last third of the twentieth century was ushered in by a set ofevents\u0097wars, rebellions, ?nally economic crisis\u0097that dealt a crushing blow to the previously dominant paradigm in U.S. social science, the structural-functionalist modernizationism elaborated by Talcott Parsons and his students. Within sociology, the site of much social science innovation in the post-war period, a notable splintering occurred. Already under-way in the early nineteen-sixties, this splintering was accelerated by the tumultuous events later in that decade. One of the splinters which has grown and developed most rapidly and fruitfully over the past decade has been the world-systems perspective, a formidable synthesis of continental historicism, \u0093Third World\u0094 radicalism, and Marxism. The principal exponent of this perspective has been Immanuel Wallerstein (b. 1930). whose work has built upon and in turn has stimulated advances in both historical sociology and the study of contemporary \u0093development.\u0094",
+      "cited_by_count": 119,
+      "type": "article",
+      "source": {
+        "name": "Journal of World-Systems Research",
+        "type": "journal",
+        "issn": [
+          "1076-156X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://jwsr.pitt.edu/ojs/jwsr/article/download/223/235"
+      },
+      "topics": [
+        "World Systems and Global Transformations",
+        "Culture, Economy, and Development Studies"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W2294578102"
+    },
+    {
+      "openalex_id": "W2499600409",
+      "doi": "10.1017/s0003055400269852",
+      "title": "From Rousseau to Lenin: Studies in Ideology and Society. By Lucio Colletti. Translated by John Merrington and Judith White. (New York: Monthly Review Press, 1972. Pp. 240. $8.50.)",
+      "authors": [
+        {
+          "name": "Thomas Pocklington",
+          "openalex_id": "A5110872432",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 1977,
+      "publication_date": "1977-12-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "American Political Science Review",
+        "type": "journal",
+        "issn": [
+          "0003-0554",
+          "1537-5943"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2499600409"
+    },
+    {
+      "openalex_id": "W2786301194",
+      "doi": null,
+      "title": "Leninism, scientific socialism, and democracy",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-13",
+      "abstract": "During the twentieth century a number of accounts of Lenin\u2019s theory and practice argued that Leninism is incompatible with democracy. In doing so, various scholars advanced the now popular belief, that the theory of scientific socialism defended by Lenin and prevalent in the Third International is undemocratic. Liberal and conservative critics of socialism are not the only proponents of this argument. Leninism has been criticised on this basis within the currents of Russian Bolshevism, Left Communism and Western Marxism. It is for this reason that the Marxism of Lenin and the Third International has been rejected as dogmatic, vulgar, and positivist: few contemporary Marxists condone dogmatism, vulgarity, or positivism. This dissertation examines and rejects the claim that Lenin\u2019s theory of scientific socialism is anti-democratic. It argues that the Leninist conception of Marxism as a science is compatible with democratic practice, and promotes a democratic conception of socialism.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Nottingham ePrints (University of Nottingham)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.nottingham.ac.uk/48194/1/Leninism%20and%20democracy%20complete%20dissertation%20pdf%20version.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2786301194"
+    },
+    {
+      "openalex_id": "W2887942974",
+      "doi": "10.1177/0725513618787638",
+      "title": "Anti-politics, the early Marx and Gramsci\u2019s \u2018integral state\u2019",
+      "authors": [
+        {
+          "name": "Elizabeth Humphrys",
+          "openalex_id": "A5053901692",
+          "orcid": "https://orcid.org/0000-0003-0192-0426",
+          "institutions": [
+            "University of Technology Sydney"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-01",
+      "abstract": "This article traces a line of theorisation regarding the state-civil society relationship, from Marx\u2019s early writings to Gramsci\u2019s conception of the integral state. The article argues that Marx developed, through his critique of Hegel, a valuable understanding of the state-civil society connection that emphasised the antagonism between them in capitalist societies. Alternatively, Gramsci\u2019s conception of the \u2018integral state\u2019 posits an interconnection and dialectical unity of the state and civil society, where the latter is integrated under the leadership of the former. The article argues that while Marx and Gramsci\u2019s positions are, at first, seemingly incongruous ideas \u2013 as to the \u2018separation\u2019 in Marx and \u2018integration\u2019 in Gramsci \u2013 this tension can be bridged when the integral state is understood as being always necessarily unstable. The article argues that this framework can help us understand the contemporary breakdown of political rule in the phenomenon known as \u2018anti-politics\u2019.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Thesis Eleven",
+        "type": "journal",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://opus.lib.uts.edu.au/bitstream/10453/126813/4/701353C1-CA78-4B01-861B-068F3AB710E5%20am.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W2887942974"
+    },
+    {
+      "openalex_id": "W2981110777",
+      "doi": "10.1111/ejop.12500",
+      "title": "Democratic dictatorship: Political legitimacy in Marxist perspective",
+      "authors": [
+        {
+          "name": "Lea Ypi",
+          "openalex_id": "A5044913195",
+          "orcid": "https://orcid.org/0000-0002-2573-9704",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-10",
+      "abstract": "Abstract This article aims to contextualise, explain, and defend the relevance of Marx's analysis of the dictatorship of the proletariat for contemporary debates on political legitimacy. I call my reconstruction of the Marxist contribution to this debate: the limited legitimacy theory of political authority. Such a theory, I contend, offers a plausible alternative to existing liberal and anarchist accounts and has important implications for a number of key debates in political theory, including the normative significance of the state, the relationship between authority and freedom, the role of democracy, and the meaning and relevance of communist utopia.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "European Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0966-8373",
+          "1468-0378"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.lse.ac.uk/id/eprint/102119/1/Democratic_dictatorship.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W2981110777"
+    },
+    {
+      "openalex_id": "W2784075194",
+      "doi": "10.22363/2313-2302-2017-21-4-466-478",
+      "title": "DO WESTERN MARXISTS DREAM OF A REVOLUTION TODAY?",
+      "authors": [
+        {
+          "name": "Alexander Pavlov",
+          "openalex_id": "A5076391492",
+          "orcid": "https://orcid.org/0000-0001-5449-1050",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        },
+        {
+          "name": "12/1, Goncharnaya Str., 109240, Moscow, Russian Federation",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "There is a point of view according to which &ldquo;Western Marxism&rdquo; after the collapse of the USSR and the disappearance of the Communist regimes ceased to be a political project and concentrated instead on the study of culture. In this article, the author argues that this is a wrong perception. Many con-temporary Marxist philosophers do study culture a lot, but they continue to exert serious influence if not on political process, then at least on intellectual climate. In the 1990s certain authors changed their discourse concerning the USSR, but today many left philosophers who still stick to Marx&rsquo;s ideas continue to talk about the necessity of revolution, besides they provide political criticism of contemporary culture of capi-talism and even try to rehabilitate Lenin as a political figure. Something in the discourse of Western Marxists has really changed: as a result of the decline of faith into the linearity of History, Marxists from now on talk about revolution in the context of utopia rather than in the context of progress.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "RUDN Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "2313-2302",
+          "2408-8900"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://journals.rudn.ru/philosophy/article/download/17657/15363"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2784075194"
+    },
+    {
+      "openalex_id": "W2981378057",
+      "doi": "10.1007/s43253-020-00018-z",
+      "title": "Reflections on the entrepreneurial state, innovation and social justice",
+      "authors": [
+        {
+          "name": "Theo Papaioannou",
+          "openalex_id": "A5016213769",
+          "orcid": "https://orcid.org/0000-0001-5228-4242",
+          "institutions": [
+            "The Open University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-25",
+      "abstract": "Abstract The state and its role in technological innovation and social justice have become, once again, fashionable topics of political and economic debate. A number of innovation theorists argue that never more than today, it is necessary to rethink the state\u2019s entrepreneurial role in society and welfare. Their argument provides justification for the existence of the state, going beyond classical political theory and especially contractarian accounts of legitimacy and obligation. It emphasises the ability and willingness of the state to take risks and reduce uncertainty of economic agents for the sake of innovation that can make everyone better off. This paper insists that although the risk-taking argument of innovation theorists deserves further attention and analysis, it should not be abstracted from a holistic politico-theoretical approach to the state. Such an approach is necessary for a critical understanding of the complex set of predominantly political institutions which compose the state and which have been historically developed to guarantee social evolution. Any risk-taking for innovative enterprise and mission-oriented investment ought to be justified and legitimised on the grounds of principled democratic procedures. This implies that innovation itself is a value-laden political process, requiring participation in the decision-making and standards of fairness.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Review of Evolutionary Political Economy",
+        "type": "journal",
+        "issn": [
+          "2662-6136",
+          "2662-6144"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s43253-020-00018-z.pdf"
+      },
+      "topics": [
+        "Innovation and Socioeconomic Development",
+        "Intellectual Property and Patents"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W2981378057"
+    },
+    {
+      "openalex_id": "W3121906553",
+      "doi": null,
+      "title": "China in Theory: The Orientalist Production of Knowledge in the Global Economy",
+      "authors": [
+        {
+          "name": "Daniel F. Vukovich",
+          "openalex_id": "A5080652739",
+          "orcid": "https://orcid.org/0000-0003-3100-3303"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "If one wanted to raise again the idea that the superstructure follows the base, then China-or more accurately, Western obsessions with the perceived threats and achievements of the Peoples Republic-would seem to be an ideal case.But the omnipresence of \"China\" in the media and in economic circles has only recently been matched by its place in academic, intellectual production.That is, while an empiricist China Studies has proceeded as though its cold war assumptions needed no revision, continuing to produce Sinological analyses of what is wrong with the PRC, \"China\" has become a rather new object of interest in Western theoretical circles.It is this latter development that will preoccupy me below-the place of \"China\" in humanities theories of globalization as well as in cross-cultural studies of China and the West.Although little of the work in cultural theory that speaks the country's name is explicitly about China, it assumes a certain type of knowledge about the area.It addresses a \"real\" China in the form of a totalitarian state it conWdently knows.This received knowledge consolidates its arguments by ostensibly making them more complex and cosmopolitan as opposed to narrowly Euro-American.For all their heterodoxy in terms of \"pure\" theory, their outlook on China is one shared by the media and mainstream Area Studies.Just as the latter need interrogation, so too does cultural studies work to the degree that it adopts the positional superiority of the theorist over and against the possible epistemological challenges presented by the foreign \"area.\"My attempt is to critique this particular production of truth about China and to offer another way of looking at intellectual labor and theory in the current conjuncture.Above all, it is the enlisting of",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "The HKU Scholars Hub (University of Hong Kong)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10722/127648"
+      },
+      "topics": [
+        "Japanese History and Culture",
+        "Political Economy and Marxism",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W3121906553"
+    },
+    {
+      "openalex_id": "W2064078227",
+      "doi": "10.7202/016589ar",
+      "title": "Historical Materialism and the Writing of Canadian History: A Dialectical View",
+      "authors": [
+        {
+          "name": "Bryan D. Palmer",
+          "openalex_id": "A5060517090"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-10-10",
+      "abstract": "Surveying the historical writing in Canada that has adopted the approach of historical materialism, this paper presents a new perspective on Marxist theory and its relevance to the study of the past. It both links Canadian historical materialist texts to a series of important international debates and suggests the significance of dialectics in the development of Marxism's approach to the past.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Canadian Historical Association",
+        "type": "journal",
+        "issn": [
+          "0847-4478",
+          "1712-6274"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/jcha/2006-v17-n2-jcha1833/016589ar.pdf"
+      },
+      "topics": [
+        "Canadian Identity and History"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W2064078227"
+    },
+    {
+      "openalex_id": "W2912637417",
+      "doi": "10.23889/suthesis.46244",
+      "title": "Raymond Williams and European Marxism: Lukacs, Sartre, Gramsci",
+      "authors": [
+        {
+          "name": "Daniel Gerke",
+          "openalex_id": "A5097546409",
+          "institutions": [
+            "Swansea University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The Western Marxist tradition from Lukacs to Colletti is usually considered a continental European one, with no major British representative. This thesis presents the Welsh cultural critic and novelist Raymond Williams as a critical Anglophone participant in that tradition. The development of Williams's cultural materialism, far from being the product of a rigid 'British' empiricism, was centrally influenced by the ideas of Western Marxist thinkers. At the core of this influence, and of the 'European' rationalist element in Williams's work, is the concept of 'totality', an abiding concern with which Williams shares with the Western Marxists. The three European Marxists to whom Williams's intellectual development is most indebted are those whom he described, in 1972, as 'Marxism's alternative tradition': Georg Lukacs (1885-1971), Jean-Paul Sartre and Antonio Gramsci (1891Gramsci ( -1937)). The work of these thinkers, as it slowly appears in English, confirms Williams's insistence on 'total' analysis and permits him to generate a Marxism capable of reconciling subjective experience with the complex materiality of social relations. I read the theoretical apparatus which results from these transnational interactions as a literary and a philosophical realism committed both to the aesthetic representation of the social totality and to the interaction of experience with objective reality. The form of political praxis engendered by these European influences is a 'revolutionary culturalism' in which the working-class attains hegemony by realising its experience and interests in a concrete culture.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://cronfa.swan.ac.uk/Record/cronfa46244/Download/0046244-06122018123054.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 216,
+      "url": "https://openalex.org/W2912637417"
+    },
+    {
+      "openalex_id": "W2095781205",
+      "doi": "10.33137/q.i..v3i2.11057",
+      "title": "Progress: Croce, Gramsci, and Leopardi",
+      "authors": [
+        {
+          "name": "Mary Russo",
+          "openalex_id": "A5104054026"
+        }
+      ],
+      "publication_year": 1982,
+      "publication_date": "1982-10-01",
+      "abstract": "Progress as one idea in the history of ideas or as the definitive idea of history itself is, no matter how grandly conceived, in- volved in the vicissitudes of everyday life. Progress, as it is felt and understood by the individual, is inevitably conflated with the discourses of theology, philosophy, science, literature, and politi- cal theory. This insight into the relationship of history and consciousness, mediated by language, is credited to Giambattista Vico's New Science. Antonio Gramsci, in his multilayered analysis of culture and society, saw progress similarly but with an emphasis on class. For him, progress was an idea whose history was bound to those social groups and classes who benefitted from its influence. In this sense, progress was associated, for Gramsci, with Liberal historiography as present above all in the works of Benedetto Croce, and with the Italian bourgeoisie whose interests it had served. But Gramsci had his own commitments to progress.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Quaderni d italianistica",
+        "type": "journal",
+        "issn": [
+          "0226-8043",
+          "2293-7382"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://jps.library.utoronto.ca/index.php/qua/article/download/11057/7962"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2095781205"
+    },
+    {
+      "openalex_id": "W2117781999",
+      "doi": null,
+      "title": "Eduard Bernstein's Revisionist Critique of Marxist Theory and Practice",
+      "authors": [
+        {
+          "name": "Ann Deborah Findlay",
+          "openalex_id": "A5015205518"
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-01-01",
+      "abstract": "Eduard Bernstein formulated the theoretical premises expressing the movement toward revisionist practice, which was taking place in European socialist parties during the late 19th century. Bernstein was a member of the German Social Democratic party which was a particularly strong and important member of the Second International conference. During that time, a split in the socialist movement became evident, including within the German Social Democratic party. One stream continued to adhere to the principles of orthodox Marxist theory, while the other was revisionist -- prepared to accept and design revisions of Marxism, drawing upon other sources of socialist theory. Bernstein himself moved gradually from taking an orthodox Marxist stance to a revisionist one, partially due to a number of outside influences. In addition, he began by questioning whether the empirical, historical conditions of his era correspond any longer with the traditional Marxist approach. Bernstein did not see economic trends proceeding in the same manner as the orthodox Marxists, did not foresee any necessary breakdown of capitalism, or any need or revolutionary means to obtain the goal of a socialist society. He concluded by criticizing a number of bases of Marxist theory, particularly the over-reliance on a Hegelian teleology, which produces misleading results. Bernstein criticized the retention of Marxist theory therefore, as an unquestionable dogma, holding rather that it should be utilized as a useful tool for historical and sociological analysis, and revised according to changes in social relations.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "MacSphere (McMaster University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11375/10524"
+      },
+      "topics": [
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2117781999"
+    },
+    {
+      "openalex_id": "W173794374",
+      "doi": "10.4324/9781003073246-14",
+      "title": "State Expenditure in Advanced Capitalism",
+      "authors": [
+        {
+          "name": "Ian Gough",
+          "openalex_id": "A5078919399",
+          "orcid": "https://orcid.org/0000-0002-0597-3106"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-19",
+      "abstract": "The current stage of \u2018neo-capitalism\u2019 or \u2018state monopoly capitalism\u2019 is characterized by a qualitatively expanded role of the state in capitalist social formations. Whilst the first part of the argument (concerning the growth of social capital) is sound and whilst the Whole is embellished with many powerful insights, the second part rests on two false 'laws' of Marxist political economy: the tendencies to immiseration of the working class and to under-consumption. In this chapter, the author attempts a synthesis of two views based on the recent works of Poulantzas and Miliband and in the light of that will propose a general theory to explain the growth and composition of state expenditures. They attempt to present the essential characteristics of the capitalist state and to situate it in the current stage of the capitalist world economy. Together with the growth of the power of labour movements and of state expenditure, the authors explain the acceleration of inflation in the late 1960s.",
+      "cited_by_count": 12,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003073246-14&type=chapterpdf"
+      },
+      "topics": [
+        "Political and Economic history of UK and US",
+        "Political Economy and Marxism",
+        "Housing, Finance, and Neoliberalism"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W173794374"
+    },
+    {
+      "openalex_id": "W4317555016",
+      "doi": "10.36311/2675-3871.2022.v3n8.p223-243",
+      "title": "reflex\u00e3o sobre o Lenin",
+      "authors": [
+        {
+          "name": "Paulo de Tarso Presgrave Leite Soares",
+          "openalex_id": "A5081348846",
+          "institutions": [
+            "Universidad San Pedro"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-31",
+      "abstract": "Na primeira parte mostramos que h\u00e1 dois Lenin, bem distintos e opostos. Um Lenin que recusa a dial\u00e9tica e um Lenin dial\u00e9tico. Na segunda parte mostramos as discord\u00e2ncias com o Lenin m\u00edstico, dial\u00e9tico. Na terceira parte mostramos a concord\u00e2ncia com o Lenin n\u00e3o dial\u00e9tico. Na quarta parte mostramos que as discord\u00e2ncias em nada diminuem nossa admira\u00e7\u00e3o pelo Lenin.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Revista Fim do Mundo",
+        "type": "journal",
+        "issn": [
+          "2675-3812",
+          "2675-3871"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.marilia.unesp.br/index.php/RFM/article/download/14046/11241"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4317555016"
+    },
+    {
+      "openalex_id": "W4283362688",
+      "doi": "10.3167/th.2022.6917108",
+      "title": "Between Tyranny and Self-Interest",
+      "authors": [
+        {
+          "name": "David Guerrero",
+          "openalex_id": "A5101999951",
+          "orcid": "https://orcid.org/0000-0003-1128-6537",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Julio Mart\u00ednez-Cava Aguilar",
+          "openalex_id": "A5103138447",
+          "orcid": "https://orcid.org/0000-0002-8971-4629",
+          "institutions": [
+            "Universitat Aut\u00f2noma de Barcelona"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-01",
+      "abstract": "The first contribution of this article is a politico-philosophical map that, drawing upon two common sets of arguments against modern natural rights, might help to explain the prevailing neo-republican position on natural rights. Under the label \u2018abstraction argument\u2019, we explore the view that natural rights are a metaphysical construct that usually ends in a violent application of speculative principles to society. Under \u2018self-interest argument\u2019, we discuss the notion that natural rights endorse an atomistic and selfish conception of the human being. Second, we show how Cold War authors replicated these two arguments, conveying a biased, largely anti-republican and anti-democratic view of natural rights to the twentieth century. Third, drawing on these two arguments, we critically assess the narrow view of natural rights inherited by neo-republican scholars.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Theoria",
+        "type": "journal",
+        "issn": [
+          "0040-5817",
+          "1558-5816"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.berghahnjournals.com/downloadpdf/journals/theoria/69/171/th6917108.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Political Theory and Influence",
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 109,
+      "url": "https://openalex.org/W4283362688"
+    },
+    {
+      "openalex_id": "W1940533312",
+      "doi": "10.18740/s4r30q",
+      "title": "The Productivity Mantra: The Profit Motive Versus The Public Good",
+      "authors": [
+        {
+          "name": "Dave Broad",
+          "openalex_id": "A5085779259",
+          "institutions": [
+            "University of Regina"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-07-23",
+      "abstract": "Capital accumulation is the essence of production in capitalist society. Consequently, corporations are constantly driven and workers exhorted to increase productivity in the interest of raising profits. Economic slumps and recessions are used as reasons to argue that there is a productivity crisis and push for increasing productivity at the expense of wages, benefits and social programming, as we see with the post-2007 Great Recession. This essay discusses these trends, theoretical and ideological arguments, and the need for a socialist alternative to the never-ending push to increase productivity for capital accumulation at the expense of workers\u2019 rights and social welfare. L\u2019accumulation du capital est l\u2019essence de la production dans les soci\u00e9t\u00e9s capitalistes. En cons\u00e9quence, les entreprises sont constamment oblig\u00e9es et les ouvriers constamment exhort\u00e9s \u00e0 augmenter leur productivit\u00e9 dans le but d\u2019augmenter les profits. Les ralentissements de l\u2019\u00e9conomie et les r\u00e9cessions sont utilis\u00e9s pour justifier l\u2019argument qu\u2019il y a une crise de productivit\u00e9 et pour pousser pour plus de productivit\u00e9 aux d\u00e9pens des salaires et des avantages associ\u00e9s et des programmes sociaux, comme nous le voyons avec la Grande R\u00e9cession depuis 2007. Cet article analyse ces tendances, les arguments th\u00e9oriques et id\u00e9ologiques, et le besoin d\u2019une alternative socialiste \u00e0 la pression sans cesse renouvel\u00e9e \u00e0 l\u2019augmentation de la productivit\u00e9 pour favoriser l\u2019accumulation du capital aux d\u00e9pens des droits des travailleurs et des droits sociales.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Socialist studies",
+        "type": "journal",
+        "issn": [
+          "1717-2616",
+          "1918-2821"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://socialiststudies.com/index.php/sss/article/download/23611/17495"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 78,
+      "url": "https://openalex.org/W1940533312"
+    },
+    {
+      "openalex_id": "W4285154293",
+      "doi": "10.4236/oalib.1108772",
+      "title": "Literature History of Marxism as a Philosophy of Science in Foreign Countries",
+      "authors": [
+        {
+          "name": "Jun Zhang",
+          "openalex_id": "A5092301151",
+          "institutions": [
+            "Shaoxing University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "As the dual attribute of both science and revolution, Marxism has not achieved a reasonable and balanced development in the domestic academic circle, and its value interpretation has been continuously demonstrated, while its scientific nature has not attracted enough attention in China. As a scientific interpretation, Marxist research presents the following characteristics abroad: the deep interpretation of the philosophy of science in the classical text of Marxist International and communist International; the repositioning of the relationship between Marxism and contemporary philosophy of science; the tentative exploration of Western Marxism.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "OALib",
+        "type": "journal",
+        "issn": [
+          "2333-9705",
+          "2333-9721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.4236/oalib.1108772"
+      },
+      "topics": [
+        "Digital Education and Society"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W4285154293"
+    },
+    {
+      "openalex_id": "W1490453687",
+      "doi": null,
+      "title": "The end of politics : democracy, bureaucracy, and Utopia after Lenin",
+      "authors": [
+        {
+          "name": "A. J. Polan",
+          "openalex_id": "A5035300684"
+        }
+      ],
+      "publication_year": 1984,
+      "publication_date": "1984-01-01",
+      "abstract": "The thesis is an attempt to offer a reconsideration of Lenin\u00e2\u0080\u0099s book The State and Revolution. The argument is that commentators have failed to appreciate the centrality of its concepts to Lenin\u00e2\u0080\u0099s mature theory of politics\u00e2\u0080\u009e and to the body of ideas that subsequently became Leninisms. It further argues that an understanding of the present Soviet regime, and others of a similar nature, is aided by a realisation that the themes of The State and Revolution are present in the institutional arrangements of those societies. The Introduction takes as starting point recent events in Poland, and suggests that an understanding of those events may be gained by an investigation of the discourse on political forms that Marxism offers. Chapter one presents the origins of the text, its theses in summary form, and the reception given to the text by subsequent commentators. These are divided into those taking a \"historical\u00e2\u0080\u009d and those taking a \u00e2\u0080\u0098political\u00e2\u0080\u0099 approach. Suggestions are made of the inadequacy of both approaches, reasons for such inadequacies are proposed, and an attempt is made to offer an alternative approach based upon hermeneutics, in particular Gadamer\u00e2\u0080\u0099s concept of \u00e2\u0080\u0098effective-history\u00e2\u0080\u0099. Chapter two examines the way Lenin conceptualised the problems of state and politics in post-revolutionary society, and the measures he proposed for the solution of these problems. It is argued that the libertarian arrangements suggested in the text in fact provide a cultural and institutional foundation for an authoritarian state. Chapter three attempts to investigate further the assumptions on the phenomena of bureaucracy and democracy that underlie the text. Its debilitating effect on subsequent theorists of the contemporary state is suggested, and an interpretation of Weber\u00e2\u0080\u0099s thoughts on the issues is provided as a means of discovering the weakness of such theories. Chapter four attempts to examine more closely the elements of Lenin s thought and culture that made the concepts of The State and Revolution both possible and necessary. This leads to an attempt elaborate the theory of political motivation that is an unspoken assumption in Lenin\u00e2\u0080\u0099s writings, and criticises that theory as reducing politics to an ontological impossibility. It is suggested that this is a necessary assumption for Lenin\"s commune-state to function. Chapter Five offers an interpretation of Sartre\u00e2\u0080\u0099s \u00e2\u0080\u0098Critique of Dialectical Reason\u00e2\u0080\u0099 in order to establish the paradoxical absurdity and inevitability of Lenin\"s thesis. Sartre\u00e2\u0080\u0099s sociology of revolution is emphasised for its understanding of the relationship between politics and time, and Lenin\"s text is then finally assessed as an attempt to provide the constitutional arrangements for a society outside of time.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Durham e-Theses (Durham University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://etheses.dur.ac.uk/7150/1/7150_4332.PDF"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1490453687"
+    },
+    {
+      "openalex_id": "W2587311421",
+      "doi": "10.25071/1913-9632.6963",
+      "title": "The Many Deaths of Mr. Marx: Or, What Left Historians Might Contribute to Debates About the \"Crisis of Marxism\"",
+      "authors": [
+        {
+          "name": "Ian McKay",
+          "openalex_id": "A5110503927"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Left History features articles from a variety of theoretical approaches; these include feminist, marxist, and postmodernist deliberations on topics such as race, ethnicity, class, gender, sexuality, culture, the state, labour, the environment, theory, and method.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Left History An Interdisciplinary Journal of Historical Inquiry and Debate",
+        "type": "journal",
+        "issn": [
+          "1192-1927",
+          "1913-9632"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://lh.journals.yorku.ca/index.php/lh/article/download/6963/6147"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2587311421"
+    },
+    {
+      "openalex_id": "W4404730040",
+      "doi": "10.1111/1754-0208.12974",
+      "title": "Rousseau's <i>Second Discourse</i> and <i>Social Contract</i>: Challenging the Received View",
+      "authors": [
+        {
+          "name": "Andreas Beck Holm",
+          "openalex_id": "A5086197414",
+          "orcid": "https://orcid.org/0000-0002-0532-4675",
+          "institutions": [
+            "Kyiv National University of Culture and Arts"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-11-26",
+      "abstract": "Abstract According to conventional wisdom, Rousseau's two key texts, the Second Discourse and the Social Contract , are tied together as question and answer. This is the view that is challenged in the present article. It is demonstrated how the Social Contract cannot, in fact, be more than a partial solution to the problems defined by the Second Discourse , and it is pointed out how Rousseau's Project for Corsica is a far more plausible answer to the challenges presented by him in the earlier work. This conclusion has significant consequences for our understanding of Rousseau's political philosophy in general, as well as his position in relation to later theoretical currents in political philosophy.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Journal for Eighteenth-Century Studies",
+        "type": "journal",
+        "issn": [
+          "1754-0194",
+          "1754-0208"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1754-0208.12974"
+      },
+      "topics": [
+        "Rousseau and Enlightenment Thought",
+        "Political Theory and Influence",
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4404730040"
+    },
+    {
+      "openalex_id": "W4312382414",
+      "doi": "10.56063/ms.2201.01103",
+      "title": "Engels\u2019 Fourfold Revenge",
+      "authors": [
+        {
+          "name": "Rogney Piedro Arencibia",
+          "openalex_id": "A5092334788"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-15",
+      "abstract": "This paper confronts the familiar prejudice in Western Marxism that Engels' thought, as articulated in Anti-Duhring and the Dialectics of Nature, is of marginal interest and should be excised from Marxist theory. I argue that this view is mistaken. If we do not take seriously his insights about science, philosophy, nature, and history, his insights will take a fourfold revenge upon us. Natural science takes its revenge by unleashing technology that subjugates us in ways we cannot anticipate, understand or control. Philosophy, in turn, takes revenge on science for neglecting the philosophical presuppositions of its own worldview. Nature itself takes its revenge upon those who consider it to be some formless and passive matter, deprived of history and negativity, responding to our productive activity in surprising ways that, without a rational form of regulation, could lead to our own extinction. Lastly, history takes revenge on those 'well intentioned' actors who try to impose their will upon it without a scientific knowledge of its internal, necessary, and objective forces.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Marxism & Sciences",
+        "type": "journal",
+        "issn": [
+          "2822-2849"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.56063/ms.2201.01103"
+      },
+      "topics": [
+        "European history and politics"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4312382414"
+    },
+    {
+      "openalex_id": "W2969232241",
+      "doi": "10.5287/ora-v0k2kxnpo",
+      "title": "Aleatory materialism: Louis Althusser and the necessity of contingency",
+      "authors": [
+        {
+          "name": "Ross Speer",
+          "openalex_id": "A5047185053"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "This thesis examines the philosophy of aleatory materialism formulated by Louis Althusser. Aleatory materialism is an attempt to conceptualise history as open-ended but nevertheless amenable to scientific inquiry. Althusser argued that theories of history which supposed their object had a fixed direction or <em>telos</em> rested on unscientific premises. Such theories were premised on circular reasoning. By taking particular patterns of events to be universal and timeless, those particular patterns could only be explained by pre-existing themselves. Consequently, such \u2018origin\u2019 categories were exempt from requiring explanation. In this way, subjective values were introduced into supposedly objective theories to provide not scientific comprehension but legitimation for particular forms of social power. A scientific theory must dispense with first movers without simultaneously making itself unable to explain change at all. The way out of this impasse, Althusser argued, was to treat all social forms as contingent, rather than necessary, outcomes. Social structures included strategies and institutions to secure their continued reproduction. They were, however, unable to totally suppress the contingency that initially gave rise to them. It is because of contingency that the laws governing human behaviour can change. Social systems can transition into new systems comprised of new sets of laws. No particular configuration is destined to arise or persist indefinitely. Althusser showed that it is possible to accept both that history is amenable to scientific inquiry and that it is an open system, with a future that is not preordained but over which the actions of agents have a genuine influence. In doing so, this theory demonstrates how teleological theories are mechanisms of justification for prevailing forms of social power, by which they portray themselves as inevitable and natural outcomes, not accurate accounts of history.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ora.ox.ac.uk/objects/uuid:633500b3-0830-4ce5-8471-e68b87fd7d86"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2969232241"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

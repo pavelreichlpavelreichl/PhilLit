@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Lenin without dogmatism...' author=Pateman year=2019
+[verify_paper.py] Paper found: Lenin without dogmatism... (score: 50.7)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Lenin without dogmatism",
+    "author": "Pateman",
+    "year": 2019
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-019-09325-6",
+      "title": "Lenin without dogmatism",
+      "authors": [
+        {
+          "family": "Pateman",
+          "given": "Joe"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "Studies in East European Thought",
+      "volume": "71",
+      "issue": "2",
+      "page": "99-117",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/s11212-019-09325-6",
+      "score": 50.6597
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

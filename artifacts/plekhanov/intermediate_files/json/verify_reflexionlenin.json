@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.36638/1981-061x.2020.v26.481
+[verify_paper.py] DOI verified: La otra teoría de la reflexión de Lenin...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.36638/1981-061x.2020.v26.481"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.36638/1981-061x.2020.v26.481",
+      "title": "La otra teor\u00eda de la reflexi\u00f3n de Lenin",
+      "authors": [
+        {
+          "family": "Bonilla",
+          "given": "Manuel Alejandro"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Verinotio \u2013 Revista on-line de Filosofia e Ci\u00eancias Humanas",
+      "volume": "26",
+      "issue": "1",
+      "page": "263-277",
+      "publisher": "Verinotio - Revista On-line de Filosofia e Ciencias Humanas",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.36638/1981-061x.2020.v26.481"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

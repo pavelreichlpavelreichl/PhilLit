@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1163/1569206X-12341298
+[verify_paper.py] DOI verified: Spider and Fly: The Leninist Philosophy of Georg L...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1163/1569206X-12341298"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/1569206x-12341298",
+      "title": "Spider and Fly: The Leninist Philosophy of Georg Luk\u00e1cs",
+      "authors": [
+        {
+          "family": "Le Blanc",
+          "given": "Paul"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Historical Materialism",
+      "volume": "21",
+      "issue": "2",
+      "page": "47-75",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1163/1569206x-12341298"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

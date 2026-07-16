@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.7146/nja.v34i70.163582
+[verify_paper.py] DOI verified: Marxist Aesthetics...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.7146/nja.v34i70.163582"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.7146/nja.v34i70.163582",
+      "title": "Marxist Aesthetics",
+      "authors": [
+        {
+          "family": "Bolt",
+          "given": "Mikkel"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "The Nordic Journal of Aesthetics",
+      "volume": "34",
+      "issue": "70",
+      "page": "329-353",
+      "publisher": "Det Kgl. Bibliotek/Royal Danish Library",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.7146/nja.v34i70.163582"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

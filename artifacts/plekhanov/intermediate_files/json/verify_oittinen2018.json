@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1057/978-1-137-51650-3_2
+[verify_paper.py] DOI verified: Which Kind of Dialectician Was Lenin?...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1057/978-1-137-51650-3_2"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1057/978-1-137-51650-3_2",
+      "title": "Which Kind of Dialectician Was Lenin?",
+      "authors": [
+        {
+          "family": "Oittinen",
+          "given": "Vesa"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "The Palgrave Handbook of Leninist Political Philosophy",
+      "volume": "",
+      "issue": "",
+      "page": "63-88",
+      "publisher": "Palgrave Macmillan UK",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1057/978-1-137-51650-3_2"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

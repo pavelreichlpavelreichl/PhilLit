@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Illusion of the Epoch...' author=Acton
+[verify_paper.py] Paper found: Remarks on J. and M. Miller's review of<i>The Illu... (score: 34.0)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Illusion of the Epoch",
+    "author": "Acton"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09668135608410030",
+      "title": "Remarks on J. and M. Miller's review of<i>The Illusion of the Epoch</i>",
+      "authors": [
+        {
+          "family": "Acton",
+          "given": "H. B."
+        }
+      ],
+      "editors": [],
+      "year": 1956,
+      "container_title": "Soviet Studies",
+      "volume": "7",
+      "issue": "4",
+      "page": "409-411",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1080/09668135608410030",
+      "score": 34.031136
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

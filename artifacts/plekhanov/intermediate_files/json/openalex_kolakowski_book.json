@@ -1,0 +1,947 @@
+[search_openalex.py] Searching OpenAlex: 'Kolakowski Main Currents of Marxism Rise Growth Dissolution', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_d546b86a096e58b3)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Kolakowski Main Currents of Marxism Rise Growth Dissolution",
+  "results": [
+    {
+      "openalex_id": "W2159962705",
+      "doi": "10.1017/s0031819100063592",
+      "title": "Main Currents of Marxism: Its Rise, Growth and Dissolution By Leszek Kolakowski Volume I, <i>The Founders</i>, xiv + 434 pp., \u00a37.95 Volume II, <i>The Golden Age</i>, ix + 542 pp., \u00a38.50 Volume III, <i>The Breakdown</i>, xii + 548 pp., \u00a38.50 Oxford: Clarendon Press, 1978",
+      "authors": [
+        {
+          "name": "G. H. R. Parkinson",
+          "openalex_id": "A5013142603"
+        }
+      ],
+      "publication_year": 1979,
+      "publication_date": "1979-10-01",
+      "abstract": "Main Currents of Marxism: Its Rise, Growth and Dissolution By Leszek Kolakowski Volume I, The Founders, xiv + 434 pp., \u00a37.95 Volume II, The Golden Age, ix + 542 pp., \u00a38.50 Volume III, The Breakdown, xii + 548 pp., \u00a38.50 Oxford: Clarendon Press, 1978 - Volume 54 Issue 210",
+      "cited_by_count": 1,
+      "type": "book-review",
+      "source": {
+        "name": "Philosophy",
+        "type": "journal",
+        "issn": [
+          "0031-8191",
+          "1469-817X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2159962705"
+    },
+    {
+      "openalex_id": "W2033683689",
+      "doi": "10.2307/309822",
+      "title": "Nationalism, Marxism, and Modern Central Europe: A Biography of Kazimierz Kelles-Krauz (1872-1905)",
+      "authors": [
+        {
+          "name": "James Satterwhite",
+          "openalex_id": "A5008522248"
+        },
+        {
+          "name": "Timothy Snyder",
+          "openalex_id": "A5021365015",
+          "orcid": "https://orcid.org/0000-0003-3327-8765"
+        }
+      ],
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "abstract": "Timothy Snyder presents the life and thought of Kazimierz Kelles-Krauz, an important Polish intellectual at the begninning of the 20th century. During his brief life in Poland, Paris, and Vienna, Kelles-Krauz influenced or infuriated most of the leaders of the various socialist movements of Central Europe and France. His central ideas ultimately were not accepted by the socialist mainstream at the time of his death. However, 90 years later, we see that his theories anticipated late-20th-century thought on the importance of nationalism as a social force and the parameters of socialism in political theory and praxis. Kelles-Krauz was one of the only theoreticians of his age to advocate Jewish and Ukranian national rights as being equivalent to, for example, Polish national rights, and he correctly foresaw the struggle for national sovereignty as being central to future events in Europe.",
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "The Slavic and East European Journal",
+        "type": "journal",
+        "issn": [
+          "0037-6752",
+          "2325-7687"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.h-net.org/reviews/showpdf.php?id=1716"
+      },
+      "topics": [
+        "Polish Historical and Cultural Studies",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2033683689"
+    },
+    {
+      "openalex_id": "W4372015114",
+      "doi": "10.4337/9781035306008.00038",
+      "title": "Review of Main Currents of Marxism: Its Rise, Growth and Dissolution, by L. Kolakowski",
+      "authors": [
+        {
+          "name": "Mark Blaug",
+          "openalex_id": "A5072887705"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-03-13",
+      "abstract": "Not Only an Economist reflects the wide range of Professor Blaug\u2019s interests and includes new and recent work on Adam Smith, Hayek and Keynes and studies in methodology, as well as new contributions to the economics of education. These are supplemented by essays arguing the economic case for subsidies to the arts. The book concludes with a selection from the one hundred book reviews that he has written over the years.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Edward Elgar Publishing eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Political Economy and Marxism",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4372015114"
+    },
+    {
+      "openalex_id": "W2062132869",
+      "doi": "10.1017/s0031819100064895",
+      "title": "Communism: The Philosophical Foundations",
+      "authors": [
+        {
+          "name": "Antony Flew",
+          "openalex_id": "A5040421556",
+          "institutions": [
+            "University of Reading"
+          ]
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-07-01",
+      "abstract": "\u2018Karl Marx was a German philosopher.\u2019 It is with this seminal sentence that Leszek Kolakowski begins his great work on The Main Currents of Marxism: its Rise, Growth and Dissolution (Oxford: Clarendon, 1978). Both the two terms in the predicate expression are crucial. It is most illuminating to think of Marx as originally a philosopher, even though nothing in his vastly voluminous works makes any significant contribution to philosophy in any academic understanding of that term. It is also essential to recognize that for both Marx and Engels philosophy was always primarily, indeed almost exclusively, what they and their successors called classical German philosophy. This was a tradition seen as achieving its climactic fulfilment in the work of Hegel, and one which they themselves identified as a main stimulus to their own thinking. Thus Engels, in Ludwig Feuerbach and the End of Classical German Philosophy , claimed that \u2018The German working-class movement is the inheritor of German classical philosophy\u2019.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Philosophy",
+        "type": "journal",
+        "issn": [
+          "0031-8191",
+          "1469-817X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2062132869"
+    },
+    {
+      "openalex_id": "W2313336810",
+      "doi": null,
+      "title": "Marxism and the Failure of Environmental Protection in Eastern Europe and the U.S.S.R.",
+      "authors": [
+        {
+          "name": "Daniel H. Cole",
+          "openalex_id": "A5090240770",
+          "institutions": [
+            "Indiana University"
+          ]
+        }
+      ],
+      "publication_year": 1993,
+      "publication_date": "1993-01-01",
+      "abstract": "sponsored environmental conference in Czechoslovakia, Mayor Zdenek Kupka of Ostrava proclaimed socialism superior to capitalism in protecting the environment.Pointing first to the old capitalist-era factories belching plumes of black smoke and then to the newer and apparently cleaner factories built by the socialist government, he announced, \"the new system is solving the city's environmental problems.\"'Throughout the 1970s and into the 1980s, Mayor Kupka's sentiments echoed on both sides of the Berlin Wall.There was no denying the ecological failings of capitalism; the destructive effects of the free market were abundantly evident and well publicized in the American and European presses.On the other hand, there was scant news of environmental problems in Eastern Europe.For some, this simply confirmed an intuition that the socialist system was inherently more protective of the natural environment than capitalism. 2 It stood to reason: socialist industries did not operate from an environmentally harmful profit-motive; and social ownership of property, together with central economic planning, presumably ensured the rational utilization of natural resources.But by the early 1980s, information began leaking out of the Soviet Union and Eastern Europe suggesting that the socialist countries were not immune after all from environmental crises.Government and Party officials were compelled to admit that pollution problems existed, but, they maintained, these problems were not endemic to socialism, as they were to capitalism.On the contrary, only the progress of planned socialism could and would ultimately eradicate pollution and the other undesirable effects of industrialization and economic growth.'Then in 1986, the disaster at the Chernobyl nuclear power plant in the Soviet Ukraine aroused, despite all official efforts to hush it up, intense domestic and international scrutiny of Soviet environmental policies and practices.Complete government ownership, control and planning were not, it seemed, the absolute guarantors of environmental preservation that some had thought.Three years later all the myths about the inherent environmental superiority of socialism fell along with the Berlin Wall.Behind the iron curtain stood another curtain of poisonous smog so dense that, in some places, sunlight could",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=3101&context=facpub"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements",
+        "Political Economy and Marxism",
+        "European history and politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2313336810"
+    },
+    {
+      "openalex_id": "W2131001250",
+      "doi": "10.1017/s0147547900006104",
+      "title": "Leszek Kolakowski, Main Currents of Marxism: Its Rise, Growth, and Dissolution. Paul S. Falla translator. New York: Oxford University Press, 1978. 3 vols. 427, 536, and 541 pp.",
+      "authors": [
+        {
+          "name": "Gary P. Steenson",
+          "openalex_id": "A5015340955",
+          "institutions": [
+            "Washington Center"
+          ]
+        }
+      ],
+      "publication_year": 1979,
+      "publication_date": "1979-01-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "International Labor and Working-Class History",
+        "type": "journal",
+        "issn": [
+          "0147-5479",
+          "1471-6445"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2131001250"
+    },
+    {
+      "openalex_id": "W2242153399",
+      "doi": "10.1086/227429",
+      "title": "In Search of the Real Marx<i>Main Currents of Marxism: Its Rise, Growth, and Dissolution. 3 Vols. Vol. 1: The Founders. Vol. 2: The Golden Age. Vol. 3: The Breakdown</i>. Leszek Kolakowski , P. S. Falla",
+      "authors": [
+        {
+          "name": "Zolt\u00e1n Tar",
+          "openalex_id": "A5052953352"
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-07-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Sociology",
+        "type": "journal",
+        "issn": [
+          "0002-9602",
+          "1537-5390"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2242153399"
+    },
+    {
+      "openalex_id": "W2999210420",
+      "doi": "10.1080/00455091.1986.10717122",
+      "title": "Leszek Kolakowski, Main Currents of Marxism: Its Rise, Growth and Dissolution. Translated from the Polish by P.S. Falla. Volume 1: The Founders. Pp. xiii + 434. Volume 2: The Golden Age. Pp. viii + 542. Volume 3: The Breakdown. Pp. xii + 548. Oxford: Clarendon Press; New York: Oxford University Press 1978.",
+      "authors": [
+        {
+          "name": "Andr\u00e9 Liebich",
+          "openalex_id": "A5018011057",
+          "orcid": "https://orcid.org/0000-0002-7736-553X",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        }
+      ],
+      "publication_year": 1986,
+      "publication_date": "1986-06-01",
+      "abstract": "Leszek Kolakowski, Main Currents of Marxism: Its Rise, Growth and Dissolution. Translated from the Polish by P.S. Falla. Volume 1: The Founders. Pp. xiii + 434. Volume 2: The Golden Age. Pp. viii + 542. Volume 3: The Breakdown. Pp. xii + 548. Oxford: Clarendon Press; New York: Oxford University Press 1978. - Volume 16 Issue 2",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Canadian Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0045-5091",
+          "1911-0820"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Post-Communist Economic and Political Transition"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W2999210420"
+    },
+    {
+      "openalex_id": "W2816983132",
+      "doi": "10.1086/ahr/85.1.81-a",
+      "title": "Leszek Kolakowski. <i>Main Currents of Marxism: Its Rise, Growth, and Dissolution</i>. Volume 1, <i>The Founders;</i> volume 2, <i>The Golden Age;</i> volume 3, <i>The Breakdown.</i> Translated by P. S. Falla. Oxford: Clarendon Press. 1978. Pp. xiii, 434; viii, 542; xii, 548. $19.95; $19.95; $19.95",
+      "authors": [
+        {
+          "name": "Martin Jay",
+          "openalex_id": "A5108707103",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 1980,
+      "publication_date": "1980-02-01",
+      "abstract": "Leszek Kolakowski. Main Currents of Marxism: Its Rise, Growth, and Dissolution. Volume 1, The Founders; volume 2, The Golden Age; volume 3, The Breakdown. Translated by P. S. Falla. Oxford: Clarendon Press. 1978. Pp. xiii, 434; viii, 542; xii, 548. $19.95; $19.95; $19.95 Get access Kolakowski Leszek. Main Currents of Marxism: Its Rise, Growth, and Dissolution. Volume 1, The Founders; volume 2, The Golden Age; volume 3, The Breakdown. Translated by Falla P. S.. Oxford: Clarendon Press. 1978. Pp. xiii, 434; viii, 542; xii, 548. $19.95; $19.95; $19.95. Martin Jay Martin Jay University of California, Berkeley Search for other works by this author on: Oxford Academic Google Scholar The American Historical Review, Volume 85, Issue 1, February 1980, Pages 81\u201383, https://doi.org/10.1086/ahr/85.1.81-a Published: 01 February 1980",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "The American Historical Review",
+        "type": "journal",
+        "issn": [
+          "0002-8762",
+          "1937-5239"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Polish Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2816983132"
+    },
+    {
+      "openalex_id": "W2940886138",
+      "doi": null,
+      "title": "The Rise and Fall of the Forest Workers' Cooperatives of the Pacific Northwest",
+      "authors": [
+        {
+          "name": "Gerry Mackie",
+          "openalex_id": "A5110278772"
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-08-01",
+      "abstract": null,
+      "cited_by_count": 7,
+      "type": "dissertation",
+      "source": {
+        "name": "Scholars' Bank (University of Oregon)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1794/24501"
+      },
+      "topics": [
+        "American Environmental and Regional History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2940886138"
+    },
+    {
+      "openalex_id": "W1759012423",
+      "doi": "10.1093/oxfordjournals.esr.a036543",
+      "title": "Social conditions, authoritarianism and ethnocentrism: a theoretical model of the early Frankfurt School updated and tested",
+      "authors": [
+        {
+          "name": "Peer Scheepers",
+          "openalex_id": "A5027461314",
+          "orcid": "https://orcid.org/0000-0002-9689-8139",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "Albert Felling",
+          "openalex_id": "A5057011424",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "John Peters",
+          "openalex_id": "A5081030679",
+          "orcid": "https://orcid.org/0000-0001-9133-4150",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-07-01",
+      "abstract": "To explain ethnocentrism in the Netherlands, a classic model derived from theoretical notions of prominent members of the Frankfurt School is updated and tested with data of a national sample of Dutch respondents (N = 1799). It appears that authoritarianism is a far more important predictor of ethnocentrism than predictors related to one's social condition, although the latter are not insignificant. In turn, authoritarianism is predicted by education, age, social class, church involvement and status-anxiety.",
+      "cited_by_count": 80,
+      "type": "article",
+      "source": {
+        "name": "European Sociological Review",
+        "type": "journal",
+        "issn": [
+          "0266-7215",
+          "1468-2672"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2066/14408"
+      },
+      "topics": [
+        "Weber, Simmel, Sociological Theory",
+        "Psychology of Moral and Emotional Judgment",
+        "Cultural Differences and Values"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1759012423"
+    },
+    {
+      "openalex_id": "W2587311421",
+      "doi": "10.25071/1913-9632.6963",
+      "title": "The Many Deaths of Mr. Marx: Or, What Left Historians Might Contribute to Debates About the \"Crisis of Marxism\"",
+      "authors": [
+        {
+          "name": "Ian McKay",
+          "openalex_id": "A5110503927"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Left History features articles from a variety of theoretical approaches; these include feminist, marxist, and postmodernist deliberations on topics such as race, ethnicity, class, gender, sexuality, culture, the state, labour, the environment, theory, and method.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Left History An Interdisciplinary Journal of Historical Inquiry and Debate",
+        "type": "journal",
+        "issn": [
+          "1192-1927",
+          "1913-9632"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://lh.journals.yorku.ca/index.php/lh/article/download/6963/6147"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2587311421"
+    },
+    {
+      "openalex_id": "W4213026622",
+      "doi": "10.4324/9780203963098",
+      "title": "Auguste Comte",
+      "authors": [
+        {
+          "name": "Mike Gane",
+          "openalex_id": "A5067085171",
+          "institutions": [
+            "Loughborough University",
+            "Oxford Centre for Mission Studies"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-10-16",
+      "abstract": "Auguste Comte is widely acknowledged as the founder of the science of sociology and the 'Religion of Humanity'. In this fascinating study, the first major reassessment of Comte\u2019s sociology for many years, Mike Gane draws on recent scholarship and presents a new reading of this remarkable figure. Comte\u2019s contributions to the history and philosophy of science have decisively influenced positive methodologies. He coined the term \u2018sociology\u2019 and gave it its first content, and he is renowned for having introduced the sociology of gender and emotion into sociology. What is less well known however, is that Comte contributed to ethics, and indeed coined the word \u2018altruism\u2019.&nbsp; In this important work Gane examines Comte's sociological vision and shows that, because he thought sociology could and should be reflexive, encyclopaedic and utopian, he considered topics such as fetishism, polytheism, fate, love, and the relations between sociology, science, theology and culture. This fascinating account of the birth of sociology&nbsp;is an unprecedented&nbsp;introductory text on Comte. Gane\u2019s work is an essential read for all sociologists and students of the discipline.",
+      "cited_by_count": 116,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=172199"
+      },
+      "topics": [
+        "Legal and Social Philosophy",
+        "History of Science and Medicine",
+        "Contemporary Sociological Theory and Practice"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W4213026622"
+    },
+    {
+      "openalex_id": "W3013151332",
+      "doi": "10.3390/su12072617",
+      "title": "Domination, Power, Supremacy: Confronting Anthropolitics with Ecological Realism",
+      "authors": [
+        {
+          "name": "Toni Ruuska",
+          "openalex_id": "A5090176796",
+          "orcid": "https://orcid.org/0000-0002-5002-8429",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Pasi Heikkurinen",
+          "openalex_id": "A5013900692",
+          "orcid": "https://orcid.org/0000-0002-2207-0734",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Kristoffer Wil\u00e9n",
+          "openalex_id": "A5029367142",
+          "institutions": [
+            "Hanken School of Economics"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-26",
+      "abstract": "In this article, we study politics as domination. From our point of view, domination, especially in the Anthropocene, has had two vital components\u2014power and supremacy. In order to dominate, one has to have power over others. In addition, the politics of domination, such as colonial oppression of Latin America, has required reasoning, justification, and legitimation, often connected to superiority (because of religion, society, or civilization) from the oppressor\u2019s end. Past and present political ideologies and programs, such as colonialism, imperialism, but also welfare state capitalism, neoliberalism and increasingly popular Green New Deal are examples of what we call \u201canthropolitics\u201d, an anthropocentric approach to politics based on domination, power, and supremacist exploitation. In contrast to the prevailing anthropolitics, this article discusses post-Anthropocene politics, characterized by localization and decentralization, as well as a steep reduction of matter\u2013energy throughput by introducing a theoretical frame called ecological realism.",
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "Sustainability",
+        "type": "journal",
+        "issn": [
+          "2071-1050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/12/7/2617/pdf?version=1585486707"
+      },
+      "topics": [
+        "Climate Change and Geoengineering",
+        "Global Energy and Sustainability Research",
+        "Innovation, Sustainability, Human-Machine Systems"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W3013151332"
+    },
+    {
+      "openalex_id": "W2056003085",
+      "doi": "10.1007/bf00993462",
+      "title": "The intelligentsia in the constitution of civil societies and post-communist regimes in Hungary and Poland",
+      "authors": [
+        {
+          "name": "Michael D. Kennedy",
+          "openalex_id": "A5103190638",
+          "orcid": "https://orcid.org/0000-0001-6768-4134",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        }
+      ],
+      "publication_year": 1992,
+      "publication_date": "1992-02-01",
+      "abstract": null,
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Theory and Society",
+        "type": "journal",
+        "issn": [
+          "0304-2421",
+          "1573-7853"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/BF00993462.pdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Post-Communist Economic and Political Transition",
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W2056003085"
+    },
+    {
+      "openalex_id": "W2070221097",
+      "doi": "10.1017/s0145553200012451",
+      "title": "Culture, Strategy, and State-Centered Explanations of Revolution, 1789 and 1989",
+      "authors": [
+        {
+          "name": "J. C. Sharman",
+          "openalex_id": "A5064621838"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "Social scientists studying revolutions have increasingly argued that explanations of revolutions that do not include subjective factors, such as culture, are inadequate. The failure to explain the anti-Communist revolutions of 1989 is forceful testimony to this inadequacy. But the way in which cultural aspects are being added to existing approaches tends to undermine past advances in studying revolutions. Recent historiography of the French Revolution provides an example of a more thorough-going approach to political culture. A productive synthesis that both preserves past advances and better explains the revolutions of 1989 is achieved by analyzing the effects of cultural change on state elites.",
+      "cited_by_count": 26,
+      "type": "article",
+      "source": {
+        "name": "Social Science History",
+        "type": "journal",
+        "issn": [
+          "0145-5532",
+          "1527-8034"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2241A975887ECCD04100F249D056A2C9/S0145553200012451a.pdf/div-class-title-culture-strategy-and-state-centered-explanations-of-revolution-1789-and-1989-div.pdf"
+      },
+      "topics": [
+        "European Political History Analysis",
+        "Religion and Society Interactions",
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 109,
+      "url": "https://openalex.org/W2070221097"
+    },
+    {
+      "openalex_id": "W3126125814",
+      "doi": null,
+      "title": "Violence and Revolutionary Subjectivity, Marx to \u017di\u017eek",
+      "authors": [
+        {
+          "name": "Christopher J. Finlay",
+          "openalex_id": "A5008955070",
+          "orcid": "https://orcid.org/0000-0003-2308-2793"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-11",
+      "abstract": "The purpose of this essay is to explore the relationship between revolution and violence in Marxism and in a series of texts drawing on Marxian theory. Part 1 outlines the basic normative frameworks which determine the outer limits of permissible violence in Marxism. Part 2 presents a critical analysis of a series of later discussions \u2013 by Sorel, Fanon, and \u017di\u017eek \u2013 which transformed the terms in which violence was discussed by developing one particular aspect of Marxist thought. By teasing out the implications of revolutionary theory for the commission and permission of violence, it is possible to specify those points at which it tends towards excess. This in turn helps clarify the limits to revolutionary violence that an adequate normative theory should establish.",
+      "cited_by_count": 2,
+      "type": "preprint",
+      "source": {
+        "name": "RePEc: Research Papers in Economics",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Psychoanalysis, Philosophy, and Politics",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3126125814"
+    },
+    {
+      "openalex_id": "W2564690972",
+      "doi": "10.1515/9781935049821",
+      "title": "Promoting Democracy in Postcommunist Ukraine: The Contradictory Outcomes of US Aid to Women's NGOs",
+      "authors": [
+        {
+          "name": "Kateryna Pishchikova",
+          "openalex_id": "A5024945807",
+          "orcid": "https://orcid.org/0000-0002-3648-8736"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-30",
+      "abstract": "1 seemed evident but, surprisingly, had not been raised before: Why do these organizations have to register as \"public organizations;\" what are those \"grants\" they receive; how are they different from salaries or profit; who grants them and for what?Knowledge of English vocabulary was important for understanding the answers I received.However, those answers raised new questions.It turned out that the correct name of \"public organizations\" was \"non-governmental organizations\" or NGOs, that they had to be supported in the name of \"civil society,\" and that \"grants\" were a part of the \"assistance\" that Ukraine was receiving to an unprecedented extent from various \"donors\" after it became officially independent in 1991.I was discovering a whole new world, in which the enchantment with the concept of \"civil society\" was as striking as the skepticism towards \"public organizations\" that I encountered in Ukraine.The \"projects\" and \"grants\" given to Ukrainian organizations were described by the donors as the most effective means to facilitate democracy in Ukraine, to ensure that the democratic change would be truly encompassing and long-lasting, and to make Ukrainian people more democratically minded.In Ukraine, however, these initiatives were mostly perceived as a peculiar money flow that was going to a small group of people on obscure terms.These initiatives were believed to be short-term, insufficient, and ineffective.The two sides of the story clearly did not match, and yet both foreign donors and \"public organizations\"/NGOs were speaking about the same \"projects\" and accountable for the same money.The discrepancy was so obvious that both sides must have been aware of it as well.This has brought me to the main puzzle of the book: Are the donors blind or do they just not care?Are the locals wicked or just plain stupid?How is it that both sides continue to do what they are doing?What are the mechanisms that enable the meaningful functioning of a civil society assistance discourse in Ukraine despite negative outcomes and wide-spread criticisms?This book takes seriously the theoretical assumptions of interpretative-constructivist approach.It holds that there is a mutually constitutive relationship between discursive and material realities or, to put it differently, between words and deeds.This book shows that the way Ukrainians and foreign donors talk about foreign assistance to civil society has an impact on what form foreign assistance as well as civil society supported by foreign donors take.Therefore, by looking at the language in use or discourse 2 as it is usually called in the constructivist literature, one can elicit a number of significant social and political processes and understand their nature.I tackle these questions by making a detailed inquiry into foreign assistance to women's NGOs in Ukraine by the United States Agency Notes 1 Samizdat is a Russian word for \"self-published;\" it is commonly used to refer to informal home-made publications of writers and essayists who were banned from being published in official state controlled publishing houses during socialism.2 Following Hajer, I define discourse as \"an ensemble of ideas, concepts, and categories through which meaning is given to social and physical phenomena, and which is produced and reproduced through an identifiable set of practices.\" 2 See Maarten Hajer,",
+      "cited_by_count": 31,
+      "type": "book",
+      "source": {
+        "name": "CINECA IRIS Institutional Research Information System (Sant'Anna School of Advanced Studies)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11382/314371"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Economic Issues in Ukraine",
+        "European Politics and Security"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2564690972"
+    },
+    {
+      "openalex_id": "W4388523493",
+      "doi": "10.1080/09668136.2023.2272584",
+      "title": "On Common Ground: Soviet Nationalities Policy and the Austro-Marxist Premise",
+      "authors": [
+        {
+          "name": "Matthias Battis",
+          "openalex_id": "A5018384718",
+          "orcid": "https://orcid.org/0000-0002-5796-1887",
+          "institutions": [
+            "American Nephrology Nurses Association",
+            "Carrier (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-09",
+      "abstract": "This article argues that nationalities policy under Lenin and Stalin, its commitment to territorial autonomy notwithstanding, effectively put into practice the Austro-Marxist vision of a socialist multinational state and party that patronised national culture to assuage separatist tendencies. Highlighting the ideological common ground between Habsburg remedies for imperial disintegration along national lines and Soviet policies for imperial integration along the same lines, it argues that the Bolsheviks' Marxist premise of promoting national diversity and culture to defuse nationalism was prefigured and informed by the Austro-Marxist premise of making national cultural autonomy the hallmark rather than the antithesis of socialism.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Europe Asia Studies",
+        "type": "journal",
+        "issn": [
+          "0966-8136",
+          "1465-3427"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09668136.2023.2272584?needAccess=true"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Eastern European Communism and Reforms",
+        "Central European national history"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W4388523493"
+    },
+    {
+      "openalex_id": "W2887288998",
+      "doi": "10.30541/v56i2pp.127-162",
+      "title": "Pakistan: State Autonomy, Extraction, and Elite Capture\u2014A Theoretical Configuration",
+      "authors": [
+        {
+          "name": "Muhammad Ashfaq Ahmed",
+          "openalex_id": "A5007187239",
+          "orcid": "https://orcid.org/0000-0002-7281-9133"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-01",
+      "abstract": "\u2015When groups are adequately stated, everything is stated!\u20161 Management of actions and interest groups has historically been sovereign\u2018s existentialist imperative. The paper revitalizes philosophical state autonomy debate and then narrows down its focus to capture extractive antics of as erratic a state as Pakistan. A typology of factions \u2013 captioned as Elites \u2013 operative in extractive realm of Pakistan is developed to round them in theory, identify their properties, and lay bare mechanics of intra-elite and elite-non-elite transactions. The paper seminally develops the rational actor dilemma confronting Pakistani elites and identifies the modes through which the dilemma plausibly resolves itself. The transactional engagement between Pakistan\u2018s internal and external rational actors is dissected to theorize that Pakistan essentially is an equilibrium consensus subsistence state thereby opening up vast vistas for future research. The paper concludes with the glum finding that Pakistan in its current essence and manifestation is fundamentally a captive state \u2013 beholden to elites of Pakistan. JEL Classification: H1 Keywords: State Autonomy; Elite Capture; Pakistan\u2018s Tax System; Pakistani Elites; Elites\u2018 Rational Actor Dilemma; Equilibrium Consensus Subsistence State; Captive State",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "The Pakistan Development Review",
+        "type": "journal",
+        "issn": [
+          "0030-9729"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://thepdr.pk/index.php/pdr/article/download/2755/2019"
+      },
+      "topics": [
+        "Politics and Conflicts in Afghanistan, Pakistan, and Middle East"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W2887288998"
+    },
+    {
+      "openalex_id": "W2199243447",
+      "doi": "10.17356/ieejsp.v1i4.125",
+      "title": "The Hungarian Democratic Opposition in the 1980\u2019s: External and Internal Effects and Resources",
+      "authors": [
+        {
+          "name": "Ervin Csizmadia",
+          "openalex_id": "A5019191966"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-31",
+      "abstract": "The basis of the article is that there has been a renewed interest towards the opposition movements of 1980s Central Eastern Europe. One of the most interesting of these movements was the Hungarian opposition which, considering its size was much smaller than the Polish opposition, nevertheless considering its social effect and network, had a significant role in the late Kadar-era. The essay analyzes the relationship of the State-party and the opposition through concrete events as well as analyzing in depth the strategy of the State-party towards the opposition. The piece concludes that concerning the Hungarian democratic opposition not only its ideological influence but its network building must be the source of further research as well.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Intersections",
+        "type": "journal",
+        "issn": [
+          "2416-089X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://intersections.tk.mta.hu/index.php/intersections/article/download/125/pdf_36"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Eastern European Communism and Reforms",
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2199243447"
+    },
+    {
+      "openalex_id": "W4411337225",
+      "doi": "10.14394/edufil.2022.0016",
+      "title": "Praxis School and the Lifelong Critical Philosophical Attitude of Milan Kangrga",
+      "authors": [
+        {
+          "name": "Mina \u0110ikanovi\u0107",
+          "openalex_id": "A5051832371"
+        },
+        {
+          "name": "Nevena Jevti\u0107",
+          "openalex_id": "A5054319052",
+          "orcid": "https://orcid.org/0000-0002-1764-3251"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-01",
+      "abstract": "In the whole of western philosophical tradition, main tendencies and great philosophers rarely came from \"small\" countries.Yugoslavian culture, during the first half of the 20th century, was one of those small philosophical cultures, having mostly an epigonic status.Yet, thanks to one outstanding generation, during the 1960s and 1970s, Yugoslavia was placed on the philosophical map of Europe and the world.After the horrendous experiences of World War II and following the clash with the Soviet Union, the young republic of Yugoslavia was setting forth to find its own way of building a society on Marxist principles.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Edukacja Filozoficzna",
+        "type": "journal",
+        "issn": [
+          "0860-3839"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.14394/edufil.2022.0016"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "21st Century Education and Governance",
+        "Religious, Philosophical, and Educational Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4411337225"
+    },
+    {
+      "openalex_id": "W34220315",
+      "doi": "10.5070/f7252016650",
+      "title": "Niyi Osundare and the Materialist Vision: A Study of The Eye of the Earth",
+      "authors": [
+        {
+          "name": "Charles Bodunde",
+          "openalex_id": "A5058658203"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-01-01",
+      "abstract": "No abstract",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Ufahamu A Journal of African Studies",
+        "type": "journal",
+        "issn": [
+          "0041-5715",
+          "2150-5802"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://escholarship.org/content/qt7v66m06w/qt7v66m06w.pdf?t=mniolz"
+      },
+      "topics": [
+        "Postcolonial and Cultural Literary Studies",
+        "Globalization and Cultural Identity",
+        "Indian Economic and Social Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W34220315"
+    },
+    {
+      "openalex_id": "W2799927626",
+      "doi": "10.31269/triplec.v16i2.983",
+      "title": "Two Questions to Marxist Anthropology",
+      "authors": [
+        {
+          "name": "Chihab El Khachab",
+          "openalex_id": "A5060903795",
+          "orcid": "https://orcid.org/0000-0002-4113-1424",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-05-04",
+      "abstract": "\u201cMarxist anthropology\u201d is typically understood as a phase within the history of Euro-American anthropology, which is said to have fizzled out in the 1980s. Since some spectres are difficult to chase, however, Marx\u2019s critique of capitalism continues to haunt the discipline\u2019s output, which is not necessarily couched in Marxist language nor inserted in an explicitly Marxist framework. This essay will not diagnose the reasons behind the waning of \u201cMarxist anthropology\u201d according to the discipline\u2019s professional narrative, but it will eschew such boundaries to concentrate on more urgent issues in criticising contemporary capitalism. Two questions are addressed: 1) How can micro- and macro-social scales in social scientific analysis be integrated? and 2) How can we distinguish between conventional ideas and ideologies through which humans guide their lives under capitalism? Anthropology, I argue, can contribute to a strong critique of contemporary capitalism by attending to these questions, which have been integral in Marxist analysis within and beyond the discipline.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "tripleC Communication Capitalism & Critique Open Access Journal for a Global Sustainable Information Society",
+        "type": "journal",
+        "issn": [
+          "1726-670X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.triple-c.at/index.php/tripleC/article/download/983/1232"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Political Economy and Marxism",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2799927626"
+    },
+    {
+      "openalex_id": "W2546772922",
+      "doi": null,
+      "title": "Nationalism and Internationalism: Theory and Practice of Marxist Nationality Policy from Marx and Engels to Lenin and the Communist Workers\u2019 Party of Poland",
+      "authors": [
+        {
+          "name": "Micha\u0142 Kasprzak",
+          "openalex_id": "A5008789177"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-08-30",
+      "abstract": "The dissertation examines the roots of modernity at the turn of the 20th century through the prism of the relationship between nationalism and internationalism. This seemingly incompatible affiliation between the two ideological archenemies has produced one of the most intriguing paradoxes of modern history. While theoretically attempting to reject nationalism as a transient product of capitalism, Marxism has in practice oftentimes exploited its appeal and utilized its extensive institutional repertoire. The study traces the evolution of Marxism\u2019s conceptualization of the nationality question\u2014a slow shift from an outright rejection of nationalism to an acceptance of its progressive features, complexity, varieties and influences. Interweaving intellectual and cultural studies in history with the political and intellectual history of the European Left, the study offers an intricate narrative of the crossroads of two important ideologies in theory and practice. The dissertation\u2019s comparative and transnational approach reveals several important hitherto superficially explored aspects of Marxism\u2019s difficult dialogue with nationalism. Firstly, it re-evaluates Karl Marx and Friedrich\u2019s views on the nationality question, from its outright denial to limited acceptance and application. Secondly, it re-examines the multitude of Social Democratic responses to nationalism before the Great War. The advent of mass politics and the popularization of Marxist ideas produced a range of diverse socialist responses to the national conundrum throughout Europe. A comparison of Western (French and German), East Central and Eastern European (Austrian, Polish and Russian) and Soviet attitudes highlights some of the startling similarities and differences between the various groups\u2019 ideological constellations. Finally, the dissertation uses the case study of the Communist Workers\u2019 Party of Poland (Komunistyczna Partia Robotnicza Polski, KPRP) to reveal certain insights about the cumulative heritage of Marxist thought on nationalism. An analysis of the KPRP reveals a lot not only about a national party\u2019s struggles with nationalism (challenging many historiographical questions), but also about the diverse conceptualizations of Marx and Engels\u2019 thought on nationalism, about European Social Democracy\u2019s debates about the phenomenon, and about the Soviet nationality policy (within and outside the Soviet Union).",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "TSpace (University of Toronto)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1807/32787"
+      },
+      "topics": [
+        "Polish Historical and Cultural Studies",
+        "Eastern European Communism and Reforms",
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 211,
+      "url": "https://openalex.org/W2546772922"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,42 @@
+[search_openalex.py] Searching OpenAlex: 'Lukacs and Reflection Theory Yahyanejad', limit=25
+[search_openalex.py] Retrieved 1 papers...
+[search_openalex.py] Search complete: 1 papers found
+[search_openalex.py] Cached results (cache key: openalex_1c5e7fc85277f01f)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lukacs and Reflection Theory Yahyanejad",
+  "results": [
+    {
+      "openalex_id": "W4243680592",
+      "doi": "10.18052/www.scipress.com/ilshs.88.28",
+      "title": "Retraction Notice: H. Yahyanejad and E. Shabanirad, Lukacs and Reflection Theory, International Letters of Social and Humanistic Sciences, Vol. 61, pp. 145-154, 2015",
+      "authors": [],
+      "publication_year": 2020,
+      "publication_date": "2020-03-01",
+      "abstract": "International Letters of Social and Humanistic Sciences (Volume 88): Retraction Notice: H. Yahyanejad and E. Shabanirad, Luka\u0301cs and Reflection Theory, International Letters of Social and Humanistic Sciences, Vol. 61, pp. 145-154, 2015",
+      "cited_by_count": 0,
+      "type": "retraction",
+      "source": {
+        "name": "International Letters of Social and Humanistic Sciences",
+        "type": "journal",
+        "issn": [
+          "2300-2697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.scipress.com/ILSHS.88.28.pdf"
+      },
+      "topics": [
+        "Biblical Studies and Interpretation",
+        "Archaeology and Historical Studies"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4243680592"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

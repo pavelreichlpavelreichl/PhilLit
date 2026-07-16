@@ -1,0 +1,416 @@
+[search_openalex.py] Searching OpenAlex: 'Acton Illusion of the Epoch Marxism-Leninism philosophical creed', limit=25
+[search_openalex.py] Retrieved 12 papers...
+[search_openalex.py] Search complete: 12 papers found
+[search_openalex.py] Cached results (cache key: openalex_6ebe0417b04f5562)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Acton Illusion of the Epoch Marxism-Leninism philosophical creed",
+  "results": [
+    {
+      "openalex_id": "W1979753541",
+      "doi": "10.1017/s0031819100057454",
+      "title": "The Illusion of the Epoch. Marxism-Leninism as a Philosophical Creed. By H. B. Acton. (Cohen and West, Ltd.; 1955. Pp. viii + 278. Price 18s.)",
+      "authors": [
+        {
+          "name": "Frederick C. Copleston",
+          "openalex_id": "A5082147380"
+        }
+      ],
+      "publication_year": 1956,
+      "publication_date": "1956-07-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Philosophy",
+        "type": "journal",
+        "issn": [
+          "0031-8191",
+          "1469-817X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1979753541"
+    },
+    {
+      "openalex_id": "W3111175045",
+      "doi": "10.1093/bjps/vi.22.169",
+      "title": "<i>The Illusion of the Epoch: Marxism-Leninism as a Philosophical Creed</i>. By H. B. Acton. Cohen &amp; West, London, 1955. Pp. viii + 278. 18s.",
+      "authors": [
+        {
+          "name": "Jessica Watkins",
+          "openalex_id": "A5073044892",
+          "orcid": "https://orcid.org/0000-0001-9148-7456"
+        }
+      ],
+      "publication_year": 1955,
+      "publication_date": "1955-08-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "The British Journal for the Philosophy of Science",
+        "type": "journal",
+        "issn": [
+          "0007-0882",
+          "1464-3537"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3111175045"
+    },
+    {
+      "openalex_id": "W4402779162",
+      "doi": "10.1017/s175420140000391x",
+      "title": "The Illusion of the Epoch. Marxism-Leninism as a Philosophical Creed. By H. B. Acton. (Cohen and West; 18s.) - Communism and Christianity. By M. C. D\u2019Arcy. (Penguin Books; 2s. 6d.)",
+      "authors": [
+        {
+          "name": "D. J. B. Hawkins",
+          "openalex_id": "A5111338636"
+        }
+      ],
+      "publication_year": 1956,
+      "publication_date": "1956-06-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Blackfriars :",
+        "type": "journal",
+        "issn": [
+          "1754-2014",
+          "2977-0580"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Religion and Society Interactions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4402779162"
+    },
+    {
+      "openalex_id": "W2560278653",
+      "doi": null,
+      "title": "Max Weber und die Soziologie heute",
+      "authors": [
+        {
+          "name": "Ernst Topitsch",
+          "openalex_id": "A5057082618"
+        }
+      ],
+      "publication_year": 1965,
+      "publication_date": "1965-01-01",
+      "abstract": null,
+      "cited_by_count": 50,
+      "type": "conference-paper",
+      "source": {
+        "name": "Social Science Open Access Repository (GESIS \u2013 Leibniz Institute for the Social Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.ssoar.info/ssoar/handle/document/35178"
+      },
+      "topics": [
+        "Weber, Simmel, Sociological Theory",
+        "Critical Theory and Philosophy",
+        "German Social Sciences and History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2560278653"
+    },
+    {
+      "openalex_id": "W2092616123",
+      "doi": "10.1080/09668135608410016",
+      "title": "A new stage in the English study of Marxism",
+      "authors": [
+        {
+          "name": "John Lane Miller",
+          "openalex_id": "A5053250816"
+        },
+        {
+          "name": "Mitchell Miller",
+          "openalex_id": "A5112286279"
+        }
+      ],
+      "publication_year": 1956,
+      "publication_date": "1956-01-01",
+      "abstract": "Click to increase image sizeClick to decrease image size Notes The Illusion of the Epoch: Marxism\u2010Leninism as a Philosophical Creed, by H. B. Acton, Cohen and West, London, 1955, 278 pp., 18s.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Soviet Studies",
+        "type": "journal",
+        "issn": [
+          "0038-5859"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2092616123"
+    },
+    {
+      "openalex_id": "W4246009694",
+      "doi": "10.1002/9781444325324",
+      "title": "The Secular Outlook",
+      "authors": [
+        {
+          "name": "P.B. Cliteur",
+          "openalex_id": "A5047577351",
+          "orcid": "https://orcid.org/0000-0003-2664-654X"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-07-23",
+      "abstract": "Atheism, Agnosticism, and TheismNon -Religious Ethics is at a very early stage.We cannot yet predict whether, as in Mathematics, we will all reach agreement.Since we cannot know how Ethics will develop, it is not irrational to have high hopes.(Derek Parfi t, 1984) 1 He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God? (Micah 6:8) Let us start with what people most often associate with \" the secular outlook.\" If with anything at all, they associate it with atheism.But what is atheism?Sometimes atheism is presented as a coherent worldview, encompassing all the other traditions supposedly associated with the secular outlook.On this basis the Christian theologian and physicist Alister McGrath (1953 -) writes: \" Atheism is the religion of the autonomous and rational human being, who believes that reason is able to uncover and express the deepest truths of the universe, from the mechanics of the rising sun to the nature and fi nal destiny of humanity.\" 2 The fi rst thing that strikes us is that atheism is presented here as a \" religion.\" A second point that is remarkable is that McGrath depicts as \" atheism \" beliefs that most people would associate with \" rationalism.\" In clarifying his defi nition the author even introduces other elements, such as optimism.Atheism, so McGrath writes, \" was a powerful, self -confi dent, and aggressive worldview.Possessed of a boundless confi dence, it proclaimed that the world could be fully 1",
+      "cited_by_count": 31,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2866349/view"
+      },
+      "topics": [
+        "Religion and Society Interactions",
+        "American Constitutional Law and Politics",
+        "Religion, Society, and Development"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W4246009694"
+    },
+    {
+      "openalex_id": "W4237957263",
+      "doi": "10.1093/oxfordjournals.pa.a053106",
+      "title": "BOOK REVIEWS",
+      "authors": [
+        {
+          "name": "SCHAPIRO, LEONARD",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 1954,
+      "publication_date": "1954-10-01",
+      "abstract": "Journal Article BOOK REVIEWS Get access The Illusion of the Epoch. Marxism-Leninism as a Philosophical Creed . H. B. Acton . Cohen & West . viii, 278 pp. 18s. LEONARD SCHAPIRO LEONARD SCHAPIRO Search for other works by this author on: Oxford Academic Google Scholar Parliamentary Affairs, Volume VIII, Issue 4, 1954, Pages 540\u2013542, https://doi.org/10.1093/oxfordjournals.pa.a053106 Published: 01 October 1954",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Parliamentary Affairs",
+        "type": "journal",
+        "issn": [
+          "0031-2290",
+          "1460-2482"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political Philosophy and Ethics",
+        "Legal and Social Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4237957263"
+    },
+    {
+      "openalex_id": "W420021164",
+      "doi": "10.31390/gradschool_disstheses.1585",
+      "title": "The Theory of Alienation in the 1844 Manuscripts of Karl Marx.",
+      "authors": [
+        {
+          "name": "Elizabeth Drysdale",
+          "openalex_id": "A5097164576",
+          "institutions": [
+            "Louisiana State University Agricultural Center",
+            "Graduate School USA"
+          ]
+        }
+      ],
+      "publication_year": 1969,
+      "publication_date": "1969-01-01",
+      "abstract": "The less you eat, drink and read books; the less you go to the theatre, the dance hall, the public-house; the less you think, love, theorise, sing, paint, fence, etc., the more you save-the err eater becomes your treasure which neither moths nor dust will devour-your capital. The less you are, the more you have; the less you express your own life, the greater is your alienated life-the greater is the store of your estranged being .",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=2584&context=gradschool_disstheses"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W420021164"
+    },
+    {
+      "openalex_id": "W2582092475",
+      "doi": null,
+      "title": "Kur'an\u2019da R\u00fcya ve Hulm Yak\u0131nanlaml\u0131lar\u0131n\u0131n Farklar\u0131",
+      "authors": [
+        {
+          "name": "\u015eaban Karasakal",
+          "openalex_id": "A5041928644"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-02-01",
+      "abstract": "Kur\u2019\u00e2n'da, bazi peygamberlerin ve onlarin disindaki insanlarin gordukleri ruy\u00e2lardan soz edilmektedir. Bu \u00e2yetlerdeki ruy\u00e2lar, farkli kavramlarla ifade edilmektedir. Bu calismada, Kur\u2019\u00e2n'da ruy\u00e2 ile ilgili kullanilan lafizlar ve bu lafizlarin anlam farklari ve bunlarin hangi baglamda kullanildiklari incelenmeye calisilacaktir. Kur\u2019\u00e2nda, farkli kelimelerle Hz. Ibrahim, Hz. Yusuf ve Hz. Muhammed'in gordukleri ruy\u00e2lardan bahsedilmistir. Ayrica peygamberlerin disindaki bazi zatlarin da ruy\u00e2larina deginilmis; bu ruy\u00e2larin yansiyis bicimlerini anlatilmistir. Hz. Peygamber de pek cok sozunde ruy\u00e2larin onemine isaret etmis; kotu ruy\u00e2larin zararlarindan korunmanin yontemlerini ogretmistir.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "DergiPark (Istanbul University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dergipark.org.tr/tr/pub/daad/issue/4494/61910"
+      },
+      "topics": [
+        "Families in Therapy and Culture",
+        "Islamic Thought and Society Studies",
+        "Historical and Linguistic Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2582092475"
+    },
+    {
+      "openalex_id": "W4416336438",
+      "doi": "10.54691/x65h8x26",
+      "title": "Popper and Kolakowski: Two Challenges to Historical Materialism",
+      "authors": [
+        {
+          "name": "Huang Yang",
+          "openalex_id": "A5109304207"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-11-18",
+      "abstract": "Karl Popper and Leszek Kolakowski criticized Historical Materialism from different perspectives. Popper believed that the unpredictability of human knowledge development would invalidate the predictions made by Historical Materialism; his viewpoint constitutes a criticism based on internal theoretical logic. Kolakowski, based on the tortuous events in Soviet communist construction, asserted that Historical Materialism played an important role therein, thus criticizing its political effects. Popper's criticism fails to distinguish between different types of human knowledge and the original purpose of Historical Materialism, while Kolakowski exaggerates the connection between theory and fact.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Humanities and Social Sciences",
+        "type": "journal",
+        "issn": [
+          "2710-0170"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://fhssjournal.org/index.php/ojs/article/download/433/406"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Philosophy, History, and Historiography",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W4416336438"
+    },
+    {
+      "openalex_id": "W2528419802",
+      "doi": null,
+      "title": "Metabolic Rifts and Temporal Shifts: A Theoretical and Historical Engagement of Capitalism\u00bfs Unsustainable Time Imperative.",
+      "authors": [
+        {
+          "name": "Daniel Auerbach",
+          "openalex_id": "A5050920200",
+          "orcid": "https://orcid.org/0000-0002-0984-4504"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-17",
+      "abstract": "The release of the Brundtland report helped frame sustainability in to three realms: environmental, social, and economic.Increasingly economists have become leaders in shaping sustainability studies and policies.Economistic visions of sustainability are problematic because they fail to fully engage the dialectical co-evolution of nature and society.Furthermore, ecological economists, working in the weak and strong sustainability traditions, fail to adequately address dynamic ecological and socio-material processes.Nature is viewed as ahistorical and static and given value only when it is useful for economic purposes.Additionally, economists, in their models, do not fully flesh out the social relations of production that make the market system possible.The economistic perception of sustainability will be challenged by specifically focus on temporal dynamics within ecological and social systems and between them.Nature is governed by both historical and ahistorical forces that shape ecosystems unique temporal patterns.The social relations of production within capitalist are geared towards realizing profit which provides a distinct time imperative as well which is often in conflict with the temporality of nature.This analysis requires a perspective that is able to grasp both sides of the nature-society dialectic.The Metabolic Rift perspective highlights the processes that shape the exchange within and between natural cycles and social systems.Through a theoretical and historical engagement the metabolic rift is used to understand the social drivers of unsustainability.The metabolic order of capital, with its constantly accelerating time imperative, exists in contradiction to the temporal order associated with an ecosystems metabolism.",
+      "cited_by_count": 0,
+      "type": "other",
+      "source": {
+        "name": "NCSU Libraries Repository (North Carolina State University Libraries)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.lib.ncsu.edu/resolver/1840.16/7884"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Global Energy and Sustainability Research",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 63,
+      "url": "https://openalex.org/W2528419802"
+    },
+    {
+      "openalex_id": "W4302798382",
+      "doi": null,
+      "title": "Near Synonym Differences Of Dream And Forbearance In The Quran",
+      "authors": [
+        {
+          "name": "\u015eaban Karasakal",
+          "openalex_id": "A5041928644"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-02-01",
+      "abstract": "In the Quran, it\u2019s mentioned the dreams of the some prophets and other people. The dreams in these verses are expressed with different concepts. In this study, the expressions that used in Quran to refer the dreams, and mean differences of these concepts and context of the terms will be studied.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dergipark.org.tr/tr/pub/daad/issue/4494/61910"
+      },
+      "topics": [
+        "Families in Therapy and Culture",
+        "Historical and Linguistic Studies",
+        "Archaeology and Historical Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4302798382"
+    }
+  ],
+  "count": 12,
+  "errors": []
+}

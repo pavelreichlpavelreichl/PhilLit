@@ -1,0 +1,537 @@
+[search_openalex.py] Searching OpenAlex: 'Lenin crisis Russian Marxism Bykova', limit=25
+[search_openalex.py] Retrieved 16 papers...
+[search_openalex.py] Search complete: 16 papers found
+[search_openalex.py] Cached results (cache key: openalex_061f7bc9af259616)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lenin crisis Russian Marxism Bykova",
+  "results": [
+    {
+      "openalex_id": "W2938135377",
+      "doi": "10.1007/s11212-019-09325-6",
+      "title": "Lenin without dogmatism",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371",
+          "institutions": [
+            "University of Nottingham",
+            "Keele University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-08",
+      "abstract": "A longstanding criticism of Lenin is that his epistemological contributions to the theory of scientific socialism prompted the decline of Marxism in dogmatism and despotism in the twentieth century. According to this narrative, Lenin claimed to possess the objective truth, and he therefore refused to tolerate alternative perspectives. This article subjects these claims to a textual analysis, and it argues that they are erroneous. Lenin defends a fallibilist account of science that affirms the uncertainty of knowledge in the natural, philosophical and social sciences. This fallibilism pervades the text that supposedly showcases his intolerance, Materialism and Empirio-Criticism. Lenin\u2019s scientific socialism opposes rigid conceptions of socialism, and it encourages an atmosphere of democratic debate. Whilst Lenin\u2019s writings have their flaws, they are not the founding documents of Marxist dogmatism that they are often portrayed as being. Lenin is not the narrow-minded vulgariser of Marxism that he is routinely taken to be.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-019-09325-6.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2938135377"
+    },
+    {
+      "openalex_id": "W4296060797",
+      "doi": "10.56063/ms.2301.02102",
+      "title": "A Theory and Practice of Cognition for Our Time: Building on Ilyenkov\u2019s Dialectical Logic",
+      "authors": [
+        {
+          "name": "Corinna Lotz",
+          "openalex_id": "A5053692417",
+          "orcid": "https://orcid.org/0009-0006-9088-6221"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-16",
+      "abstract": "This article focuses on taking seriously Marx's statement that the point of philosophy is not simply to explain the world but to change it. This was a gauntlet thrown down to the future to develop an epistemology, a theory of knowledge, that arises from human beings' actual relations with nature and even the wider cosmos of which they are a part. It demands that we focus our attention in areas where philosophers sometimes fear to tread-the actual role and purpose of (in this article's argument) thinking, that is, conscious thinking-cognition-in materialist dialectical concepts. I argue that we can trace out the process and practice of cognition with a view to revolutionary transformation. I focus on two thinkers who developed materialist dialectics boldly with this specific aim in view-Vladimir Lenin, especially in his reading of Hegel, and Evald Ilyenkov, whose work on The Ideal took materialist dialectics into new and exciting territory. Using these two sources and in company with many others I trace the path of cognition. It is a challenge to Marxists in this moment of global disorder as new generations seek the resources for positive transformation of our global society.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Marxism & Sciences",
+        "type": "journal",
+        "issn": [
+          "2822-2849"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.56063/ms.2301.02102"
+      },
+      "topics": [
+        "Social Representations and Identity",
+        "Innovative Education and Learning Practices",
+        "Innovative Teaching and Learning Methods"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4296060797"
+    },
+    {
+      "openalex_id": "W7112837198",
+      "doi": null,
+      "title": "Orthodoxy and liberalism: a conceptual history of the religious aspect of liberal ideas of national identity in Russia",
+      "authors": [
+        {
+          "name": "Fennell, Harry",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "This thesis explores the religious aspect of liberal ideas of national identity in the late Romanov Empire, focusing on how Orthodoxy shaped the work of key Russian liberal thinkers. While liberalism is often portrayed as a secular and Western ideology, this study argues that a distinctive Russian liberalism emerged through a innovative engagement with Orthodox theology, specifically concepts such as Sobornost, and Godmanhood. In doing so, it challenges dominant narratives of liberalism and postcolonial scholarship, in particular the notion of Russia\u2019s ideological subalternity. Methodologically, the thesis employs Reinhart Koselleck\u2019s approach to conceptual history to trace the evolution and semantic layering of concepts such as liberalism, national identity, and Orthodoxy. It focuses on three major philosophical and political symposia from the early twentieth century: Problems of Idealism, Landmarks, and Out of the Depths. In doing so, it analyses how Russian thinkers such as Nikolai Berdyaev, Sergei Bulgakov, and Pyotr Struve synthesised European idealism with Orthodoxy. The thesis demonstrates that these thinkers articulated a vision of national identity rooted not solely in ethnic chauvinism or secular nationalism, but in a theological ideal of personalism and cultural renewal. Their critique of positivism, materialism, and Western historicism led them to propose an alternative temporality; one shaped by a dialectic of loss and recovery, informed by both European and Orthodox intellectual traditions. By recovering this neglected current of religious liberalism, the thesis contributes to the broader rethinking of Russian nationalism, and identity. It ultimately challenges the binaries of East and West, secular and religious, and progress and reaction, offering a more nuanced approach for understanding Russian political thought.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "DSpace repository (University of Tartu)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.ut.ee/bitstreams/ed100253-00c8-4ab9-8adc-1511d970e543/download"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Religion and Society Interactions",
+        "Post-Soviet Geopolitical Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7112837198"
+    },
+    {
+      "openalex_id": "W4411836144",
+      "doi": "10.12677/acpp.2025.146313",
+      "title": "The Dialectic System Difference between Engels\u2019 \u201cAnti-Duhring\u201d and Lenin\u2019s \u201cPhilosophical Notes\u201d",
+      "authors": [
+        {
+          "name": "\u4f73\u8389 \u4e8e",
+          "openalex_id": "A5118732311"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "\u5728\u9a6c\u514b\u601d\u4e3b\u4e49\u54f2\u5b66\u7684\u53d1\u5c55\u8fc7\u7a0b\u4e2d\uff0c\u6069\u683c\u65af\u7684\u300a\u53cd\u675c\u6797\u8bba\u300b\u4e0e\u5217\u5b81\u7684\u300a\u54f2\u5b66\u7b14\u8bb0\u300b\u6709\u7740\u5de8\u5927\u7684\u7814\u7a76\u4ef7\u503c\u3002\u672c\u6587\u901a\u8fc7\u5206\u6790\u300a\u53cd\u675c\u6797\u8bba\u300b\u548c\u300a\u54f2\u5b66\u7b14\u8bb0\u300b\u7684\u5199\u4f5c\u80cc\u666f\u4e0e\u6838\u5fc3\u601d\u60f3\uff0c\u6574\u7406\u3001\u6bd4\u8f83\u5b83\u4eec\u5728\u5199\u4f5c\u5185\u5bb9\u3001\u4f53\u7cfb\u7b49\u65b9\u9762\u7684\u4e0d\u540c\uff0c\u63a2\u7a76\u8fd9\u4e24\u672c\u4e66\u8fa9\u8bc1\u6cd5\u4f53\u7cfb\u7684\u5dee\u5f02\uff0c\u6316\u6398\u8fd9\u4e9b\u5dee\u5f02\u4ea7\u751f\u7684\u6839\u6e90\uff0c\u63a2\u8ba8\u5bf9\u5f53\u4ee3\u54f2\u5b66\u7814\u7a76\u7684\u542f\u793a\u3002\u6709\u52a9\u4e8e\u6df1\u5316\u6211\u4eec\u5bf9\u9a6c\u514b\u601d\u4e3b\u4e49\u8fa9\u8bc1\u6cd5\u7684\u7406\u89e3\uff0c\u66f4\u597d\u5730\u660e\u786e\u9a6c\u514b\u601d\u4e3b\u4e49\u8fa9\u8bc1\u6cd5\u7684\u5185\u6db5\u548c\u7406\u8bba\u4f53\u7cfb\uff0c\u4e3a\u6df1\u5165\u7814\u7a76\u9a6c\u514b\u601d\u4e3b\u4e49\u53d1\u5c55\u53f2\u63d0\u4f9b\u7406\u8bba\u4f9d\u636e\u3002In the development process of Marxist philosophy, Engels\u2019 \u201cAnti-Duhring\u201d and Lenin\u2019s \u201cPhilosophical Notes\u201d have great research value. This article analyzes the writing background and core ideas of \u201cAnti-Duhring\u201d and \u201cPhilosophical Notes\u201d, sorts out and compares their differences in writing content, systems, etc., explores the differences in the dialectical systems of these two books, excavates the root causes of these differences, and discusses the inspirations for contemporary philosophical research. It is conducive to deepening our understanding of Marxist dialectics, better clarifying the connotation and theoretical system of Marxist dialectics, and providing a theoretical basis for in-depth research on the development history of Marxism.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Advances in Philosophy",
+        "type": "journal",
+        "issn": [
+          "2169-2599",
+          "2169-2602"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pdf.hanspub.org/acpp_2383161.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4411836144"
+    },
+    {
+      "openalex_id": "W4323792568",
+      "doi": "10.1515/transcript.9783839419649.249",
+      "title": "Missing Green in the Black Gold",
+      "authors": [
+        {
+          "name": "Valentina Roxo",
+          "openalex_id": "A5062080458"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "West Siberia's substantial oil reserves have played a central role in Russia's geopolitical and economic rebirth. West Siberia is Russia's most highly developed oil province, producing 78 percent of all Russian oil. The process of development, which started in the late 1960s, has been characterized by a minimal regard for environmental protection, preservation of cultural properties, or effective consultation with indigenous peoples. Over the last 50 years from a poor, sparsely populated area (around 120,000 in 1960) there emerged a highly industrialized region with a population of 15 million and the highest gross regional product.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "transcript Verlag eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/transcript.9783839419649.249/pdf"
+      },
+      "topics": [
+        "Indigenous Studies and Ecology",
+        "Russia and Soviet political economy",
+        "Arctic and Russian Policy Studies"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W4323792568"
+    },
+    {
+      "openalex_id": "W4241939976",
+      "doi": "10.1515/transcript.9783839421055.ref",
+      "title": "Bibliographie",
+      "authors": [
+        {
+          "name": "Philipp Casula",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-12-31",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "transcript Verlag eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/transcript.9783839421055.ref/pdf"
+      },
+      "topics": [
+        "French Urban and Social Studies"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W4241939976"
+    },
+    {
+      "openalex_id": "W4392168629",
+      "doi": "10.1007/s11212-024-09627-4",
+      "title": "Fighting for philosophy in the Marxian sense: introduction to Evald Ilyenkov\u2019s \u201cOn the state of philosophy [letter to the Central Committee of the Party]",
+      "authors": [
+        {
+          "name": "Monika Wo\u017aniak",
+          "openalex_id": "A5034015215",
+          "orcid": "https://orcid.org/0000-0003-4885-1544",
+          "institutions": [
+            "Czech Academy of Sciences",
+            "Czech Academy of Sciences, Institute of Philosophy"
+          ]
+        },
+        {
+          "name": "Andrzej Nowak",
+          "openalex_id": "A5079495040",
+          "orcid": "https://orcid.org/0000-0001-9791-0921",
+          "institutions": [
+            "Adam Mickiewicz University in Pozna\u0144"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-26",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-024-09627-4.pdf"
+      },
+      "topics": [
+        "Information Systems Theories and Implementation",
+        "University-Industry-Government Innovation Models",
+        "Interdisciplinary Research and Collaboration"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W4392168629"
+    },
+    {
+      "openalex_id": "W4307258590",
+      "doi": "10.4324/9781003219835-1",
+      "title": "Introduction",
+      "authors": [
+        {
+          "name": "Elina Viljanen",
+          "openalex_id": "A5087930839",
+          "orcid": "https://orcid.org/0000-0002-7937-4501"
+        },
+        {
+          "name": "Tuire Oittinen",
+          "openalex_id": "A5060417864",
+          "orcid": "https://orcid.org/0000-0001-5475-4738"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-26",
+      "abstract": "The authors of our book focus on Soviet scholars and cultural theoreticians during the Stalin era from a methodological perspective that distinguishes between Stalinism and culture, an outlook that forms one of the common threads of the book. This introductory chapter focuses on the theoretical grounding of this approach. We argue that the received picture of Soviet culture in general and of Stalin-era culture in particular has yet to be fully disentangled from the political and historical narratives of the Cold War epoch, especially with respect to the persistent traits of totalitarianism theory in defining Stalinism. The point of departure from the still dominant \u2019revisionist\u2019 model of Soviet historiography involves the proposition that Stalin\u2019s brand of totalitarianism was a collective cultural product. The book in turn revises this thesis by claiming that Stalin rarely sought to control culture in a totalitarian manner. He was aware of the limits of control over culture. Meanwhile, society in general and notable cultural actors in particular need to be contextualised and theorised as political subjects from various points of view. Stalinism was a phenomenon that was organically embedded in the culture of the era \u2013 thus the metaphor of a \u2018parasite\u2019 seems to describe this relationship in a more adequate manner Stalin era intellectuals can be viewed as cultural actors who adopted different \u2018patriotic\u2019 strategies from the political arena to gain some level of autonomy that enabled them to function in their fields. These strategies ensured that certain theoretical ideas were able to persist despite major political campaigns.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003219835-1&type=chapterpdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Historical Geopolitical and Social Dynamics",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4307258590"
+    },
+    {
+      "openalex_id": "W7137692059",
+      "doi": null,
+      "title": "Chapter 1 Introduction",
+      "authors": [
+        {
+          "name": "Elina Viljanen",
+          "openalex_id": "A5087930839",
+          "orcid": "https://orcid.org/0000-0002-7937-4501"
+        },
+        {
+          "name": "Vesa Oittinen",
+          "openalex_id": "A5129640313"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "The authors of our book focus on Soviet scholars and cultural theoreticians during the Stalin era from a methodological perspective that distinguishes between Stalinism and culture, an outlook that forms one of the common threads of the book. This introductory chapter focuses on the theoretical grounding of this approach. We argue that the received picture of Soviet culture in general and of Stalin era culture in particular has yet to be fully disentangled from the political and historical narratives of the Cold War epoch, especially with respect to the persistent traits of totalitarianism theory in defining Stalinism. The point of departure from the still dominant \u2019revisionist\u2019 model of Soviet historiography involves the proposition that Stalin\u2019s brand of totalitarianism was a collective cultural product. Our book in turn revises this thesis by claiming that Stalin rarely sought to control culture in a totalitarian manner. He was aware of the limits of control over culture. Meanwhile, society in general and notable cultural actors in particular need to be contextualised and theorised as political subjects from various points of view. Stalinism was a phenomenon that was organically embedded in the culture of the era \u2013 thus the metaphor of a \u2018parasite\u2019 seems to describe this relationship in a more adequate manner Stalin era intellectuals can be viewed as cultural actors who adopted different \u2018patriotic\u2019 strategies from the political arena to gain some level of autonomy that enabled to them to function in their fields. These strategies ensured that certain theoretical ideas were able to persist despite major political campaigns.",
+      "cited_by_count": 0,
+      "type": "other",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/62903/1/9781003219835_10.4324_9781003219835-1.pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7137692059"
+    },
+    {
+      "openalex_id": "W4234858753",
+      "doi": "10.1515/9781501759307-012",
+      "title": "Notes",
+      "authors": [
+        {
+          "name": "Carl R. Weinberg",
+          "openalex_id": "A5104697287"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-15",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9781501759307-012/pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 219,
+      "url": "https://openalex.org/W4234858753"
+    },
+    {
+      "openalex_id": "W2613348633",
+      "doi": "10.7788/9783412508579-005",
+      "title": "2. \u201eWeltrevolution\u201c, Bolschewiki und Sowjetgesellschaft",
+      "authors": [],
+      "publication_year": 2017,
+      "publication_date": "2017-05-10",
+      "abstract": "Als Jakov Sverdlov, Fhrungsmitglied der Bolschewiki und Vorsitzender des Rats der Volkskommissare, am 5 .",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "B\u00f6hlau Verlag eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.vr-elibrary.de/doi/pdf/10.7788/9783412508579-005"
+      },
+      "topics": [
+        "Central European national history",
+        "German legal, social, and political studies",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W2613348633"
+    },
+    {
+      "openalex_id": "W4400460898",
+      "doi": "10.5209/ltdl.93337",
+      "title": "Luxemburg and Gramsci. The Role of Optimism and Pessimism during the Struggle for an Alternative to Capitalism",
+      "authors": [
+        {
+          "name": "Sevgi Do\u011fan",
+          "openalex_id": "A5034738516",
+          "orcid": "https://orcid.org/0000-0002-5220-5847",
+          "institutions": [
+            "Scuola Normale Superiore"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-08",
+      "abstract": "What I try to do in this paper is to analyze and probe what Rosa Luxemburg and Antonio Gramsci understand by pessimism and optimism. Luxemburg and Gramsci demonstrate how liberal capitalist ideology uses \u201ca false form of hope to keep people yoked to the system that oppresses them.\u201d In this \u201cterrible world\u201d and under the current capitalist circumstances which lead to economic, social, political and ecological crises, it may be difficult to be optimistic about the future. Besides, not only the multiple crises but also the many defeats suffered by progressive movements in the different areas of struggles against ongoing economic and political regression bring along a depressive and desperate feeling that could also be called pessimism. &lt;/p&gt;&lt;p&gt;The questions I am asking are very simple: What is pessimism and optimism for Luxemburg and Gramsci? For them, what sort of social conditions lead to pessimism or optimism? In this paper, I will try to demonstrate that both Rosa Luxemburg and Gramsci adopted a dialectical approach to pessimism and optimism, they were \u201cpessoptimists\u201d so to speak. Based upon what Hegel once said, \u201cthe negative is just as much positive\u201d, I will explain this dialectical relationship by claiming that pessimism exists in optimism and vice versa. For this purpose, I will focus on some of Rosa Luxemburg\u2019s texts in the recently published volumes on Revolution as well as in her letters. Furthermore, I will concentrate on some texts by Gramsci in which he makes particular reference to pessimism and optimism as symbolized by his famous \u201cpessimism of the intelligence, optimism of the will\u201d",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Las Torres de Lucca International Journal of Political Philosophy",
+        "type": "journal",
+        "issn": [
+          "2255-3827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.ucm.es/index.php/LTDL/article/download/93337/4564456569850"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4400460898"
+    },
+    {
+      "openalex_id": "W4238605817",
+      "doi": "10.7788/9783412508579-013",
+      "title": "Quellen- und Literaturverzeichnis",
+      "authors": [],
+      "publication_year": 2017,
+      "publication_date": "2017-05-10",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.vr-elibrary.de/doi/pdf/10.7788/9783412508579-013"
+      },
+      "topics": [
+        "European Political History Analysis",
+        "Political and Social Issues",
+        "European history and politics"
+      ],
+      "referenced_works_count": 404,
+      "url": "https://openalex.org/W4238605817"
+    },
+    {
+      "openalex_id": "W4386618497",
+      "doi": "10.18522/2227-8656.2023.4",
+      "title": null,
+      "authors": [],
+      "publication_year": 2023,
+      "publication_date": "2023-08-31",
+      "abstract": "-",
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "HUMANITIES OF THE SOUTH OF RUSSIA",
+        "type": "journal",
+        "issn": [
+          "2227-8656",
+          "2500-2155"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.jour.fnisc.ru/index.php/hsr/issue/download/623/GUR%202023%204"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4386618497"
+    },
+    {
+      "openalex_id": "W4405098747",
+      "doi": "10.22215/etd/2024-16331",
+      "title": "Partisans, Plutonium, and the Polygon: The Domestic and Global Impact of the Nevada-Semipalatinsk Movement",
+      "authors": [
+        {
+          "name": "Nicholas Matthew Morrison",
+          "openalex_id": "A5115025472"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": "This thesis is about the Nevada-Semipalatinsk Movement (NSM), an anti-nuclear environmental movement that formed in Kazakhstan at the height of perestroika in 1989.It argues that the NSM had a notable impact on local and global politics.This thesis demonstrates that the NSM tapped into concerns about pollution that had existed among the Kazakh intelligentsia and ordinary citizens since the Brezhnev years.It shows how the NSM emerged in a period of heightened political and environmental tension.This thesis highlights how the organization was driven by nationalistic ideas and concerns about health and environmental sustainability.It traces the organization's activities in Kazakhstan into the post-Soviet period.On a global scale, this thesis discusses the movement's links to \"citizen diplomacy\" at the end of the Cold War.Analyzing the relationship between American and Soviet-Kazakh activists, this thesis reveals that citizen diplomacy was a complex and long-lasting phenomenon.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.library.carleton.ca/downloads/z316q2845"
+      },
+      "topics": [
+        "American Environmental and Regional History"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W4405098747"
+    },
+    {
+      "openalex_id": "W4406137353",
+      "doi": "10.51582/interconf.2024.219",
+      "title": "Proceedings of the 4th International Scientific and Practical Conference \u00abScientific Progressive Methods and Tools\u00bb",
+      "authors": [],
+      "publication_year": 2024,
+      "publication_date": "2024-10-06",
+      "abstract": "Scientific Collection \u00abInterConf\u00bb, (219): with the Proceedings of the 4th International Scientific and Practical Conference \u00abScientific Progressive Methods and Tools\u00bb",
+      "cited_by_count": 0,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://archive.interconf.center/index.php/conference-proceeding/issue/download/6-8.10.2024/229"
+      },
+      "topics": [
+        "Genetics, Bioinformatics, and Biomedical Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4406137353"
+    }
+  ],
+  "count": 16,
+  "errors": []
+}

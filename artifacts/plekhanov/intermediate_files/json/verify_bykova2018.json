@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/S11212-018-9313-5
+[verify_paper.py] DOI verified: Lenin and the crisis of Russian Marxism...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/S11212-018-9313-5"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-018-9313-5",
+      "title": "Lenin and the crisis of Russian Marxism",
+      "authors": [
+        {
+          "family": "Bykova",
+          "given": "Marina F."
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Studies in East European Thought",
+      "volume": "70",
+      "issue": "4",
+      "page": "235-247",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11212-018-9313-5"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.3817/0671008084
+[verify_paper.py] DOI verified: The Marxism of the Second International...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3817/0671008084"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3817/0671008084",
+      "title": "The Marxism of the Second International",
+      "authors": [
+        {
+          "family": "Colletti",
+          "given": "L."
+        }
+      ],
+      "editors": [],
+      "year": 1971,
+      "container_title": "Telos",
+      "volume": "1971",
+      "issue": "8",
+      "page": "84-91",
+      "publisher": "Telos Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3817/0671008084"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

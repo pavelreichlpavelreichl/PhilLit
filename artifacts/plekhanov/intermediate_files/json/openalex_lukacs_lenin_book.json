@@ -1,0 +1,935 @@
+[search_openalex.py] Searching OpenAlex: 'Lukacs Lenin study unity of his thought book', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_cd080708e00b5de2)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lukacs Lenin study unity of his thought book",
+  "results": [
+    {
+      "openalex_id": "W1573771121",
+      "doi": null,
+      "title": "Lenin: a study on the unity of his thought",
+      "authors": [
+        {
+          "name": "Gy\u00f6rgy Luk\u00e1cs",
+          "openalex_id": "A5018150376"
+        }
+      ],
+      "publication_year": 1970,
+      "publication_date": "1970-01-01",
+      "abstract": "The book Lenin: A Study in the Unity of His Thought is the product of an unprecedented, and unrepeatable, conjuncture. Written immediately after Lenin's death in 1924, and thus on the cusp of a period of bureaucratic reaction in the Communist movement, it consists of the reflections of the most important Marxist philosopher of the twentieth century on the thought of the most significant Marxist politician of the century. In sharp contrast to contemporary and later characterisations of Lenin either as a cynical and shallow opportunist or as a source of ready-made dogmas and formulae, Georg Lukacs restored to Lenin's thought its true intellectual and political stature. Bringing to bear the concepts of totality, concreteness and the dialectic that he had developed in his masterwork History and Class Consciousness, Lukacs convincingly demonstrated that the key conceptual innovations in Lenin's political thought - the revolutionary alliance of the proletariat and the peasantry, the role of the vanguard party, the analysis of imperialism and national liberation movements, the state as a weapon of class struggle and the unifying force of the Soviets - constituted fundamental ruptures with the mechanical fatalism that had hitherto characterised 'official' Marxism. In Lukacs elegantly crafted, concise and accessible account, Lenin emerges as the consummate dialectician, the 'theoretician of practice and the practitioner of theory'.",
+      "cited_by_count": 147,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1573771121"
+    },
+    {
+      "openalex_id": "W3149263688",
+      "doi": null,
+      "title": "Georg Lukacs and Organizing Class Consciousness",
+      "authors": [
+        {
+          "name": "Robert Lanning",
+          "openalex_id": "A5012782020"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-01",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "book",
+      "source": {
+        "name": "University of Minnesota Digital Conservancy (University of Minnesota)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/11299/219237"
+      },
+      "topics": [
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3149263688"
+    },
+    {
+      "openalex_id": "W2096634410",
+      "doi": "10.18052/www.scipress.com/ilshs.61.145",
+      "title": "Lukacs and Reflection Theory",
+      "authors": [
+        {
+          "name": "Hani Yahyanejad",
+          "openalex_id": "A5042410084",
+          "institutions": [
+            "Semnan University"
+          ]
+        },
+        {
+          "name": "Ensieh Shabanirad",
+          "openalex_id": "A5082330648",
+          "institutions": [
+            "University of Tehran"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-10-01",
+      "abstract": "This essay claims that the rejection of Luka\u0301cs\u2019s realism is quite problematic, in the sense that his opponents such as Adorno and Althusser symbolically used the name of Luka\u0301cs and perpetuated the suspicion of Luka\u0301cs\u2019s compromise with Stalinism. The essay argues that Luka\u0301cs\u2019s model of reflection is not couched in Stalin\u2019s socialist realism, a theory that assumes the transparency between aesthetic forms and reality, but rather raises the essential problems of the condition of writers in capitalist society. Luka\u0301cs\u2019s realism aims at providing a practical strategy to overcome cultural reification, focusing on the mediation between an author and his material condition. An investigation of Luka\u0301cs\u2019s realism reveals that Luka\u0301cs\u2019s way of understanding realism arises from his emphasis on objectivity rather than subjective reflection such as Kantian philosophy. The essay claims that this is the kernel of Luka\u0301csean reflection theory signified by an aesthetic of realism definitively opposed to Stalin\u2019s socialist realism. From this perspective, the essay takes Althusserian Marxism as the occasion to stage a wide consideration of anti-realism. It proposes to elucidate the implicit assumptions behind the decline of Luka\u0301cs\u2019s realism, and the reification of cultural fields that gradually came to dominate Western literary apparatuses.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "International Letters of Social and Humanistic Sciences",
+        "type": "journal",
+        "issn": [
+          "2300-2697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.scipress.com/ILSHS.61.145.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political theory and Gramsci",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2096634410"
+    },
+    {
+      "openalex_id": "W2767286532",
+      "doi": null,
+      "title": "Spectral Socialisms: Marxism-Leninism and the Future of Marxist Thought in Post-Socialist Bulgaria",
+      "authors": [
+        {
+          "name": "Zhivka Valiavicharska",
+          "openalex_id": "A5067460794"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Asking what discursive conditions enabled the unchallenged reign of neoliberal capitalism in Eastern Europe after 1989, this dissertation argues that Stalinist philosophy leaves a silent yet powerful structuring legacy in post-socialist politics and intellectual discourse. Stalinist Marxism-Leninism has survived in the presumption that there is a necessary relationship between authoritarianism and politics on the left, and conversely, between democracy and free-market capitalism. Rejecting the premise that there is an inevitable, trans-historical relationship between socialism and authoritarianism, this project locates the historical juncture that sealed them together in the discursive production of Leninism and the doctrines of Dialectical Materialism and Historical Materialism during Stalinist Soviet Union. With a focus on socialist Bulgaria, the dissertation examines the political uses and material effects of the Stalinist ideologemes throughout the intellectual history of East-European Marxist thought. In addition, it retrieves Marxist humanist intellectual movements from the post-Stalinist 1960s and 1970s, which contested the legitimacy of the Stalinist doctrine. Challenging Marxism-Leninism's claim to the historical inevitability of state authoritarianism, they imagined a \"third way\" for socialism's future--a third way between liberal democracy and authoritarian socialism. In conclusion, the dissertation turns to the question of what possibility for politics on the left remains in the post-socialist historical conditions, a left that finds itself inevitably implicated in the histories of state socialisms. Redressing these foreclosures requires recovering the emancipatory ideas and practices out of the contradictory experiences of the socialist past and reformulating their critical potentials for the future.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/6j85900c"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767286532"
+    },
+    {
+      "openalex_id": "W2786301194",
+      "doi": null,
+      "title": "Leninism, scientific socialism, and democracy",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-13",
+      "abstract": "During the twentieth century a number of accounts of Lenin\u2019s theory and practice argued that Leninism is incompatible with democracy. In doing so, various scholars advanced the now popular belief, that the theory of scientific socialism defended by Lenin and prevalent in the Third International is undemocratic. Liberal and conservative critics of socialism are not the only proponents of this argument. Leninism has been criticised on this basis within the currents of Russian Bolshevism, Left Communism and Western Marxism. It is for this reason that the Marxism of Lenin and the Third International has been rejected as dogmatic, vulgar, and positivist: few contemporary Marxists condone dogmatism, vulgarity, or positivism. This dissertation examines and rejects the claim that Lenin\u2019s theory of scientific socialism is anti-democratic. It argues that the Leninist conception of Marxism as a science is compatible with democratic practice, and promotes a democratic conception of socialism.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Nottingham ePrints (University of Nottingham)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.nottingham.ac.uk/48194/1/Leninism%20and%20democracy%20complete%20dissertation%20pdf%20version.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2786301194"
+    },
+    {
+      "openalex_id": "W2060208827",
+      "doi": "10.1086/227763",
+      "title": "The Radicalism of Tradition: Community Strength or Venerable Disguise and Borrowed Language?",
+      "authors": [
+        {
+          "name": "Craig Calhoun",
+          "openalex_id": "A5000966404",
+          "orcid": "https://orcid.org/0000-0001-7218-3780",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        }
+      ],
+      "publication_year": 1983,
+      "publication_date": "1983-03-01",
+      "abstract": "An equation has often been made, especially but not exclusively by Marxists, between radicalism and the rational understanding of objective interests. I argue that, on the contrary, commitments to traditional cultural values and immediate communal relations are crucial to many radical movements, (a) because these commitments provide populations with the extent of internal social organization necessary to concerted, radical collective action, and (b) because the largely defensive goals of these movements must be radically incompatible with the introduction of modern capitalist-dominated social formations. Reformism is the characteristic stance of the modern working class, for both social and cultural reasons. That revolutions are risky undertakings poses a problem for theorists of popular insurrections. Why, it has often been asked, would reasonable people place their lives and even their loved ones in jeopardy in pursuit of a highly uncertain goal? Neither the success of uprisings nor the desirability of postrevolutionary regimes has appeared likely enough to outweigh the probability of privation and physical harm. A conservative view, as old as Plato but more recently argued by LeBon (1909), Smelser (1962), and others, concludes simply that revolutionaries must not be very reasonable people. Revolutionaries and their defenders have, of course, disagreed. Most famous among them, Marx offered an important argument for the rationality of revolution. This argument combined a notion of necessary historical progress with the assertion that revolution would be in the rational interest of the class of workers created by industrial capitalism. It turned in part on the expectation that progressive immiseration of the proletariat would eliminate other possibilities for self-improvement and 1 Early versions of this paper, or closely related work, were presented to the Social Science",
+      "cited_by_count": 161,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Sociology",
+        "type": "journal",
+        "issn": [
+          "0002-9602",
+          "1537-5390"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.journals.uchicago.edu/doi/epdf/10.1086/227763"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Social and Cultural Dynamics",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 90,
+      "url": "https://openalex.org/W2060208827"
+    },
+    {
+      "openalex_id": "W2912637417",
+      "doi": "10.23889/suthesis.46244",
+      "title": "Raymond Williams and European Marxism: Lukacs, Sartre, Gramsci",
+      "authors": [
+        {
+          "name": "Daniel Gerke",
+          "openalex_id": "A5097546409",
+          "institutions": [
+            "Swansea University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The Western Marxist tradition from Lukacs to Colletti is usually considered a continental European one, with no major British representative. This thesis presents the Welsh cultural critic and novelist Raymond Williams as a critical Anglophone participant in that tradition. The development of Williams's cultural materialism, far from being the product of a rigid 'British' empiricism, was centrally influenced by the ideas of Western Marxist thinkers. At the core of this influence, and of the 'European' rationalist element in Williams's work, is the concept of 'totality', an abiding concern with which Williams shares with the Western Marxists. The three European Marxists to whom Williams's intellectual development is most indebted are those whom he described, in 1972, as 'Marxism's alternative tradition': Georg Lukacs (1885-1971), Jean-Paul Sartre and Antonio Gramsci (1891Gramsci ( -1937)). The work of these thinkers, as it slowly appears in English, confirms Williams's insistence on 'total' analysis and permits him to generate a Marxism capable of reconciling subjective experience with the complex materiality of social relations. I read the theoretical apparatus which results from these transnational interactions as a literary and a philosophical realism committed both to the aesthetic representation of the social totality and to the interaction of experience with objective reality. The form of political praxis engendered by these European influences is a 'revolutionary culturalism' in which the working-class attains hegemony by realising its experience and interests in a concrete culture.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://cronfa.swan.ac.uk/Record/cronfa46244/Download/0046244-06122018123054.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 216,
+      "url": "https://openalex.org/W2912637417"
+    },
+    {
+      "openalex_id": "W1990801563",
+      "doi": "10.2307/2928796",
+      "title": "Local Transcendence: Cultural Criticism, Postmodernism, and the Romanticism of Detail",
+      "authors": [
+        {
+          "name": "Alan Liu",
+          "openalex_id": "A5101726186",
+          "orcid": "https://orcid.org/0000-0003-2921-3037"
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-10-01",
+      "abstract": "To IMAGINE WORDSWORTH with his hands on a personal computer is to glimpse a descent, as if of software, from the romantic release of imagination to its various postmodern releases. Cyberpunk, for example. Romantic imagination is the source code (by way of Edgar Allan Poe, the Beats, Thomas Pynchon, and others) of Neuromancer, the novel that marked the emergence of the \"cyberpunk\" or \"mirrorshades\" movement in postmodern science fiction.2 The comparison is vulgar, but precisely so. Perhaps only our vulgate bards match the original banality, the transcendental everydayness, of the poet of Lyrical Ballads.",
+      "cited_by_count": 54,
+      "type": "article",
+      "source": {
+        "name": "Representations",
+        "type": "journal",
+        "issn": [
+          "0734-6018",
+          "1533-855X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://online.ucpress.edu/representations/article-pdf/doi/10.2307/2928796/329667/2928796.pdf"
+      },
+      "topics": [
+        "Contemporary Literature and Criticism",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W1990801563"
+    },
+    {
+      "openalex_id": "W2121506118",
+      "doi": "10.1177/0950017009337071",
+      "title": "In critical defence of \u2018emotional labour\u2019",
+      "authors": [
+        {
+          "name": "Paul Brook",
+          "openalex_id": "A5091307514",
+          "orcid": "https://orcid.org/0000-0002-3007-8728",
+          "institutions": [
+            "Manchester Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-09-01",
+      "abstract": "Sharon Bolton\u2019s comprehensive critique of Hochschild\u2019s concept of \u2018emotional labour\u2019 is flawed by her misinterpretation of its primary form as an aspect of labour power. Consequently, she erroneously argues that emotional labour is commodified only when transformed into commercial service work. However, emotion workers experience commodification of their labour power as wage-labour, irrespective of the nature of their product. Bolton also argues that Hochschild\u2019s notion of workers undergoing a \u2018transmutation of feelings\u2019 renders them \u2018crippled actors\u2019 in the grip of management control. Hochschild, however, theorizes transmutation as a contradictory and unstable condition albeit in an under-developed form. While Bolton correctly argues for a theory of emotion work that captures the complexity and contradictory nature of the emotional workplace, it is not necessary to reject the emotional labour concept. Rather, it needs to be more fully theorized and integrated within Labour Process Analysis.",
+      "cited_by_count": 117,
+      "type": "article",
+      "source": {
+        "name": "Work Employment and Society",
+        "type": "journal",
+        "issn": [
+          "0950-0170",
+          "1469-8722"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2381/10096"
+      },
+      "topics": [
+        "Emotional Labor in Professions",
+        "Employment and Welfare Studies",
+        "Labor Movements and Unions"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2121506118"
+    },
+    {
+      "openalex_id": "W2145714101",
+      "doi": "10.1086/317405",
+      "title": "A Critical Archaeology Revisited",
+      "authors": [
+        {
+          "name": "Laurie A. Wilkie",
+          "openalex_id": "A5006842317",
+          "orcid": "https://orcid.org/0000-0002-5785-1987"
+        },
+        {
+          "name": "Kevin M. Bartoy",
+          "openalex_id": "A5030226938"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-12-01",
+      "abstract": "In 1987, a small number of historical archaeologists issued a call for archaeologists to embrace the teachings of critical theory so that their research could be used to challenge societal structures of inequality. Although community partnering, an outgrowth of critical theory, has become increasingly important to archaeological practice, a true archaeological \u201cpraxis\u201d has yet to be achieved. Possible reasons for this include a decontextualization of critical theory from its historical origin, the subsequent reification of capitalism in critical research, and the obscuring of agency in critical interpretations because of an emphasis on top\u2010down or macroscale models of society. We suggest that true praxis can be achieved in historical archaeology through a reconceptualization of the relationship between individuals and society and through a structuring of archaeological research that seeks to create a discursive relationship between past and present peoples and between researchers and community partners. We present a critically informed archaeological case study from Louisiana to demonstrate how such a dialogue can lead to emanicipatory knowledge.",
+      "cited_by_count": 91,
+      "type": "article",
+      "source": {
+        "name": "Current Anthropology",
+        "type": "journal",
+        "issn": [
+          "0011-3204",
+          "1537-5382"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt93n067c5/qt93n067c5.pdf?t=lnouaa"
+      },
+      "topics": [
+        "Historical and Cultural Archaeology Studies",
+        "Archaeology and ancient environmental studies",
+        "Cultural Heritage Management and Preservation"
+      ],
+      "referenced_works_count": 172,
+      "url": "https://openalex.org/W2145714101"
+    },
+    {
+      "openalex_id": "W2171239180",
+      "doi": "10.1017/s0020859000004296",
+      "title": "The Works of Marx and Engels in Ethnology Compared",
+      "authors": [
+        {
+          "name": "Lawrence Krader",
+          "openalex_id": "A5039352788"
+        }
+      ],
+      "publication_year": 1973,
+      "publication_date": "1973-08-01",
+      "abstract": "The separation of the contributions to the theory and practice of socialism by Karl Marx and Friedrich Engels was not seriously posited during their lifetimes, but only in the following generation. The separation, as opposed to the contributions of their entire working lives, of the respective quality of thinking in either case, was a matter of which Engels was conscious, for he wrote: \u201cMarx was a genius, we others were at best talents. Without him the theory today would be far from what it is. Therefore it rightly bears his name.\u201d The evaluation by Engels of the relation between the two was duly repeated by their biographers. Mehring wrote: \u201cThere is no doubt that Marx was philosophically the greater of the two and that his brain was more highly trained.\u201d Mayer compared the two: \u201cMarx was driven by the harsh goad of genius; Engels lived under the gentler domination of his rich humanity.\u201d Ryazanov simply posited that the collaboration of the two and their mutual support proceeded in perfect harmony, with the minor thesis of Engels's supportive role. Both Mehring and Ryazanov cited Engels's own words of modesty quoted above. Auguste Cornu has written with reference to the beginning of the collaboration: \u201cEngels' study of the origin of communism was more on the economic and social level than on the philosophical and political plane, and portrayed it as a necessary product of the development of capitalist society. This lent definition to Marx's still theoretical and abstract conception.\u201d Cornu, who is of the orthodox school, had reference to the articles on political economy in the Deutsch-Franz\u00f6sische Jahrb\u00fccher (1844) by Engels. While he concedes nothing to the higher intellectual attainments of one over the other, he develops the theme of the power of abstraction of Marx, of concretion of Engels. That there was identity of thought and activity of Marx and Engels is the view which seeks to establish orthodoxy of the socialist doctrines of various parties; the qualitative difference of their brain power, accordingly, implies no difference in the substance of the production in either, whether in the theory or practice of socialism resp. communism.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/10E59AA8458A9DCDD05AEAB492871B7F/S0020859000004296a.pdf/div-class-title-the-works-of-marx-and-engels-in-ethnology-compared-div.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations",
+        "Soviet and Russian History",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2171239180"
+    },
+    {
+      "openalex_id": "W2775801838",
+      "doi": "10.16993/bam",
+      "title": "Working-Class Literature(s): Historical and International Perspectives",
+      "authors": [
+        {
+          "name": "Lennon, John",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University",
+            "Aarhus University",
+            "Linnaeus University",
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Nilsson, Magnus",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University",
+            "Aarhus University",
+            "Linnaeus University",
+            "Gender Studies"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-13",
+      "abstract": "The aim of this collection is to make possible the forging of a more robust, politically useful, and theoretically elaborate understanding of working-class literature(s). These essays map a substantial terrain: the history of working-class literature(s) in Russia/The Soviet Union, The USA, Finland, Sweden, The UK, and Mexico. Together they give a complex and comparative \u2013 albeit far from comprehensive \u2013 picture of working-class literature(s) from an international perspective, without losing sight of national specificities. By capturing a wide range of definitions and literatures, this collection gives a broad and rich picture of the many-facetted phenomenon of working-class literature(s), disrupts narrow understandings of the concept and phenomenon, as well as identifies and discusses some of the most important theoretical and historical questions brought to the fore by the study of this literature. If read as stand-alone chapters, each contribution gives an overview of the history and research of a particular nation\u2019s working-class literature. If read as an edited collection (which we hope you do), they contribute toward a more complex understanding of the global phenomenon of working-class literature(s). Malm\u00f6 University has published a short interview (2 min) with the editor Magnus Nilsson about the book. View the interview on the <a href=\"https://blog.stockholmuniversitypress.se/2018/01/31/latest-sup-book-puts-class-back-on-the-agenda/\">SUP blog</a>.",
+      "cited_by_count": 18,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.stockholmuniversitypress.se/site/books/10.16993/bam/download/1759/"
+      },
+      "topics": [
+        "Cultural History and Identity Formation",
+        "Modern American Literature Studies",
+        "American and British Literature Analysis"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W2775801838"
+    },
+    {
+      "openalex_id": "W4309168070",
+      "doi": "10.1093/oso/9780192867094.001.0001",
+      "title": "Social Europe, the Road not Taken",
+      "authors": [
+        {
+          "name": "Aur\u00e9lie Andry",
+          "openalex_id": "A5047176383",
+          "orcid": "https://orcid.org/0000-0003-0285-6462",
+          "institutions": [
+            "Institutions et Dynamiques Historiques de l'\u00c9conomie et de la Soci\u00e9t\u00e9",
+            "Universit\u00e9 d'\u00c9vry Val-d'Essonne"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-11-17",
+      "abstract": "Abstract This book examines the European Left\u2019s attempt to think and give shape to an alternative type of European integration\u2014a \u2018social Europe\u2019\u2014during the long 1970s. Based on fresh archival research, it shows that the western European Left\u2014in particular, social democratic parties, trade unions, and to a lesser extent \u2018Eurocommunist\u2019 parties\u2014formulated a broad project to turn \u2018capitalist Europe\u2019 into a \u2018workers\u2019 Europe\u2019. This alternative model of European unity favoured coordinated measures for wealth redistribution, market regulation, a democratization of the economy and of European institutions, upward harmonization of social and fiscal systems, more inclusive welfare regimes, guaranteed employment, economic and social planning with greater consideration for the environment, increased public spending to meet collective needs, greater control of capital flows and multinational corporations, a reduction in working time, and a fairer international economic order favouring the global South. During the pivotal years following 1968, deeply marked by labour militancy, new social movements, economic crisis, and the unmaking of the \u2018postwar compromise\u2019, a window of opportunity opened in which European integration could have taken different roads. The defeat of \u2018social Europe\u2019 was a result of a decade-long social conflict which ended with the affirmation of a neoliberal Europe. Investigating this forgotten power struggle and the reasons of its defeat can be useful not just to scholars and students eager to understand the historical evolution of European integration, the European Left, and European capitalism, but also to anyone interested in building alternative European and global futures.",
+      "cited_by_count": 24,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://academic.oup.com/book/44645/book-pdf/49854607/9780192692689_web.pdf"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements",
+        "Social Policy and Reform Studies",
+        "Political and Economic history of UK and US"
+      ],
+      "referenced_works_count": 250,
+      "url": "https://openalex.org/W4309168070"
+    },
+    {
+      "openalex_id": "W573147090",
+      "doi": null,
+      "title": "Book Reviews: Lenin: A Study of the Unity of his Thought",
+      "authors": [
+        {
+          "name": "Daphne Gollan",
+          "openalex_id": "A5032282733"
+        }
+      ],
+      "publication_year": 1971,
+      "publication_date": "1971-01-01",
+      "abstract": "GEORG LUKACS- SHORT STUDY of the thought of Lenin written in February 1024, just after Lenin's death has been well worth the republishing. At the time he wrote Lukacs had come strongly under the influence of Hegel and he performs something of a dialectical dance around his subject. Lenin is presented as an outstanding example of the revolutionary dialectical thinker who sees the main trends of the time behind specific events, a thinker able both to comprehend the revolution as the fundamental problem and to apply this understanding concretely to day to day happenings.",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Research Online (University of Wollongong)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ro.uow.edu.au/alr/vol1/iss31/11"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W573147090"
+    },
+    {
+      "openalex_id": "W4253360760",
+      "doi": "10.1007/978-1-349-17869-8",
+      "title": "Maurice Merleau-Ponty",
+      "authors": [
+        {
+          "name": "James Schmidt",
+          "openalex_id": "A5079416459",
+          "institutions": [
+            "Boston University"
+          ]
+        }
+      ],
+      "publication_year": 1985,
+      "publication_date": "1985-01-01",
+      "abstract": "Maurice Merleau-Ponty: Between phenomenology and structuralism",
+      "cited_by_count": 46,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/46966/1/external_content.pdf"
+      },
+      "topics": [
+        "Philosophical and Theoretical Analysis",
+        "Phenomenology and Existential Philosophy",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4253360760"
+    },
+    {
+      "openalex_id": "W2033696898",
+      "doi": "10.1016/j.cpa.2009.02.002",
+      "title": "Constructing meaning in the service of power: An analysis of the typical modes of ideology in accounting textbooks",
+      "authors": [
+        {
+          "name": "John Ferguson",
+          "openalex_id": "A5044498350",
+          "orcid": "https://orcid.org/0000-0002-2655-3258",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "David Collison",
+          "openalex_id": "A5113606052",
+          "institutions": [
+            "University of Dundee"
+          ]
+        },
+        {
+          "name": "David Power",
+          "openalex_id": "A5087376668",
+          "orcid": "https://orcid.org/0000-0002-3658-4744",
+          "institutions": [
+            "University of Dundee"
+          ]
+        },
+        {
+          "name": "Lorna Stevenson",
+          "openalex_id": "A5029951979",
+          "orcid": "https://orcid.org/0000-0001-8978-9383",
+          "institutions": [
+            "University of Dundee"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-03-23",
+      "abstract": null,
+      "cited_by_count": 72,
+      "type": "article",
+      "source": {
+        "name": "Critical Perspectives on Accounting",
+        "type": "journal",
+        "issn": [
+          "1045-2354",
+          "1095-9955"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Accounting Education and Careers",
+        "Accounting and Organizational Management",
+        "Management and Organizational Studies"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W2033696898"
+    },
+    {
+      "openalex_id": "W4300175369",
+      "doi": "10.31979/oer.005",
+      "title": "Marx's Theory of History",
+      "authors": [
+        {
+          "name": "William H. Shaw",
+          "openalex_id": "A5111553392"
+        }
+      ],
+      "publication_year": 1978,
+      "publication_date": "1978-01-01",
+      "abstract": "EARLIER v ER s Io N of this essay was submitted as a disser-~ tation to the London School of Economics and Political Science. I am grateful to them and to the Leverhulme Foundation for the financial support which allowed me to carry out the",
+      "cited_by_count": 60,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1004&context=oer"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Marxism and Critical Theory",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W4300175369"
+    },
+    {
+      "openalex_id": "W4403009865",
+      "doi": "10.33077/uw.25448730.zbkh.2024.879",
+      "title": "\"He was a European, an educated man\". Foreign contacts of Professor Adam Schaff (1913-2006) based on provenance analysis of selected copies from his book collection",
+      "authors": [
+        {
+          "name": "Katarzyna Jarzy\u0144ska",
+          "openalex_id": "A5047074070",
+          "orcid": "https://orcid.org/0000-0001-8181-963X",
+          "institutions": [
+            "Instytut Nauk Prawnych"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-30",
+      "abstract": "The article presents the results of the research conducted on the topic \u201cThe private book collection of Professor Adam Schaff in the collections of the Joint Libraries of the Faculties of Philosophy and Sociology of the University of Warsaw, Institute of Philosophy and Sociology of the Polish Academy of Sciences, and the Polish Philosophical Society\u201d[1]. Professor Adam Schaff (1913\u20132006) gathered an extensive book collection during his many years of academic work, falling during the Polish People\u2019s Republic period. After his death, it was transferred to the Joint Libraries of WFiS UW, IFiS PAN, and PTF[2]. A. Schaff maintained contact with many foreign scholars specializing in philosophy and sociology, which directly influenced the analyzed collection. The article contains a qualitative, quantitative, and provenance analysis of this book collection. Provenance and bibliographic methods were used to study the characteristics of selected copies, making it possible to reconstruct Schaff\u2019s contacts with the foreign scientific community. [1] Master\u2019s thesis, supervisor: Prof. Jacek Puchalski, University of Warsaw, 2023. [2] Joint Libraries of the Faculties of Philosophy and Sociology of the University of Warsaw, the Institute of Philosophy and Sociology of the Polish Academy of Sciences, and the Polish Philosophical Society (PB WFiS UW, IFiS PAN, and PTF) is the proper name of the institution established in the 1950s, which consisted of 3 combined libraries, with joint staff and premises, but separate assets and thematically complementary book collections in philosophy and sociology.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Z Bada\u0144 nad Ksi\u0105\u017ck\u0105 i Ksi\u0119gozbiorami Historycznymi",
+        "type": "journal",
+        "issn": [
+          "1897-0788",
+          "2544-8730"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://bookhistory.uw.edu.pl/index.php/zbadannadksiazka/article/download/879/849"
+      },
+      "topics": [
+        "Language and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4403009865"
+    },
+    {
+      "openalex_id": "W1693872418",
+      "doi": "10.11648/j.ijla.20150304.12",
+      "title": "Waiting for Godot: A Marxist Study",
+      "authors": [
+        {
+          "name": "Javed Akhter",
+          "openalex_id": "A5090187370",
+          "institutions": [
+            "University of Balochistan"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This study tends to focus on the different facets and meanings of \u2018\u2019Waiting for Godot\u2019\u2019 by Samuel Beckett. The different occurrences of conflicting and contradictory meanings within the text of the play show existence of the late modernist bourgeois ideology. Based on the theoretical concern of the discussions of Post-Structuralist Marxist theorists Louis Althusser and Pierre Macherey, the main concern of the discussion concentrates on the theory of decentred or disparate text, expounded by Pierre Macherey in his book, \u201cA Theory of Literary Production\u201d (1978). This paper asks how the significant gaps, silences, absences and non-saids in the text of \u201cWaiting for Godot\u201d reflect the presence of the late modernist bourgeois ideology. This paper aims to reflect on the significance of ideology to articulate Post-Structuralist Marxist theory of decentred or disparate text. To make vocal the non-saids of Samuel Beckett\u2019s text, the theory and methodology, I seek in this research paper is Post-Structuralist Althusserian Hermeneutics that helps to find conflict, disparity and contradiction of meaning within the text and between the text and its ideological content. It also helps to make speak and vocal the silences and non-saids of the play with conceptual framework of Post-Structuralist Althusserian theory of decentred or disparate text. The study would analyse how the ideological processes keep the author silent at certain stages in trying to tell the truth in his own way. It is hoped that this paper would enable the readers and students of literature to theoretical reading of the literary texts, making vocal the unspoken portions of them. They are also expected to find different, conflicting and contradictory meanings within the text of \u201cWaiting for Godot\u201d and between the text and its ideological content.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Literature and Arts",
+        "type": "journal",
+        "issn": [
+          "2331-0553",
+          "2331-057X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://article.sciencepublishinggroup.com/pdf/10.11648.j.ijla.20150304.12.pdf"
+      },
+      "topics": [
+        "Samuel Beckett and Modernism",
+        "Philosophy, Ethics, and Existentialism",
+        "Modernist Literature and Criticism"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W1693872418"
+    },
+    {
+      "openalex_id": "W2221352559",
+      "doi": null,
+      "title": "The \"Social Factory\" In Postwar Italian Radical Thought From Operaismo To Autonomia",
+      "authors": [
+        {
+          "name": "David P. Palazzo",
+          "openalex_id": "A5064312330"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "This dissertation examines the \"social factory\" as it developed conceptually within postwar Italian Autonomist Marxism. This concept is defined historically as an outgrowth of the critique of political economy that accompanied a rethinking of Marxism in postwar Italian working class political thought through the experience of Quaderni Rossi, which culminated in the theoretical and practical work of Potere Operaio, with fragments in the area of Autonomia. Historically, this dissertation locates the \"social factory\" as derivative of two figures: Raniero Panzieri and Mario Tronti, as well as two subsidiary movements that were articulated, separately, by Antonio Negri and Mariarosa Dalla Costa. Conceptually, the \"social factory\" is understood in two differing modes: as the result of capitalist accumulation and, the other, as the consequence of the increasing tertiarization of economic life. Both are problematic and unresolved within Italian workerist thought; Negri and Dalla Costa contribute to the discussion of a \"social factory\" critique of political economy in terms of extending the conceptualization of class and the understanding of social relations within advanced, post-Fordist capitalism. The idea of the \"social factory\" is understood historically to signify the relationship between capital and class, to understand the role of capital as an element of command within a particular, historical mode of production. In this regard, the development of operaismo is delineated in terms of the critique of political economy and its secondary concept: class composition. The history of a rather rich and varied political orientation constitutes the substantive matter of this work, with the conceptual apparatus forming the definitive characteristics of a distinct political movement: operaismo. In short, the \"social factory\" is explained historically through its articulation in Quaderni Rossi, Classe Operaio, the student movement, the \"hot autumn,\" Potere Operaio, and Autonomia. Between the early-1960s and the mid 1970s Italy was the country of class conflict. This dissertation tells a story of that historical moment as understood through the development of its main concept, the \"social factory,\" as a critique of political economy.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "CUNY Academic Works (City University of New York)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://academicworks.cuny.edu/gc_etds/262"
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2221352559"
+    },
+    {
+      "openalex_id": "W11984417",
+      "doi": "10.1097/00006205-200204000-00008",
+      "title": "\"What have the Romans ever done for us?\" Academic and activist forms of movement theorizing",
+      "authors": [
+        {
+          "name": "Colin Barker",
+          "openalex_id": "A5110383581"
+        },
+        {
+          "name": "Laurence Cox",
+          "openalex_id": "A5090745043",
+          "orcid": "https://orcid.org/0000-0002-8464-0464"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "The most common chronic bloodborne infection in the United States, hepatitis C virus (HCV) is the most frequent reason for liver transplantation. Unfortunately, most infected individuals don't realize they're HCV positive and only discover the disease after severe liver damage has occurred. Here, update your knowledge on the epidemiology, transmission and risk factors, diagnosis, clinical presentation, and management of chronic HCV. Insight on counseling and quality of life issues for infected patients is also included.",
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "The Nurse Practitioner",
+        "type": "journal",
+        "issn": [
+          "0361-1817",
+          "1538-8662"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.maynoothuniversity.ie/428/1/AFPPVIII.pdf"
+      },
+      "topics": [
+        "Oral History, Memory, Narrative Analysis"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W11984417"
+    },
+    {
+      "openalex_id": "W4389440289",
+      "doi": "10.1177/08969205231213281",
+      "title": "The Strictest Taboo: The Marginalization of Marxism in Mainstream Communication Studies",
+      "authors": [
+        {
+          "name": "Sa\u0161o Sla\u010dek Brlek",
+          "openalex_id": "A5035811445",
+          "orcid": "https://orcid.org/0000-0001-6270-3092",
+          "institutions": [
+            "University of Ljubljana"
+          ]
+        },
+        {
+          "name": "Boris Mance",
+          "openalex_id": "A5056225733",
+          "institutions": [
+            "University of Ljubljana"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-12-07",
+      "abstract": "Our study uses big data analysis to examine the influence of Marxism on communication studies throughout its history. We track citations of Marxist authors and the use of Marxist concepts in the titles, keywords, or abstracts of publications in the Web of Science scholarly database in the category of communication. We find that Marxian authors and ideas were almost completely absent from the mainstream of media studies until the end of the Cold War. The end of the Cold War and the Great Recession of 2008 significantly increased citations of Marxist authors. We use network analysis to identify different currents of thought or paradigmatic appropriations of Marxism within communication studies and identify five clusters of appropriation of Marx\u2019s ideas within communication studies: Theories of Democracy, Political Economy of Communication, Critique of Power Relations, Feminism and Antiracism, and Critical Discourse Analysis.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Critical Sociology",
+        "type": "journal",
+        "issn": [
+          "0896-9205",
+          "1569-1632"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/08969205231213281"
+      },
+      "topics": [
+        "Social Media and Politics",
+        "Media Studies and Communication",
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W4389440289"
+    },
+    {
+      "openalex_id": "W1947464300",
+      "doi": "10.22459/pcssp.12.2016",
+      "title": "The personality cult of Stalin in Soviet posters, 1929\u20131953",
+      "authors": [
+        {
+          "name": "Anita Pisch",
+          "openalex_id": "A5097375164"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-16",
+      "abstract": "From 1929 until 1953, Iosif Stalin\u2019s image became a central symbol in Soviet propaganda. Touched up images of an omniscient Stalin appeared everywhere: emblazoned across buildings and lining the streets; carried in parades and woven into carpets; and saturating the media of socialist realist painting, statuary, monumental architecture, friezes, banners, and posters. From the",
+      "cited_by_count": 38,
+      "type": "book",
+      "source": {
+        "name": "ANU Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://press-files.anu.edu.au/downloads/press/n2129/pdf/book.pdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Law in Society and Culture",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 604,
+      "url": "https://openalex.org/W1947464300"
+    },
+    {
+      "openalex_id": "W2113971462",
+      "doi": null,
+      "title": "The Individual, Auto/biography and History in South Africa",
+      "authors": [
+        {
+          "name": "Ciraj Shahid Rassool",
+          "openalex_id": "A5103544249"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "This dissertation has been long in gestation, and as a result the debts I owe to people on four continents",
+      "cited_by_count": 25,
+      "type": "dissertation",
+      "source": {
+        "name": "University of the Western Cape Electronic Theses and Dissertations Repository (University of the Western Cape)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11394/1479"
+      },
+      "topics": [
+        "South African History and Culture",
+        "Cultural Identity and Representation",
+        "Oral History, Memory, Narrative Analysis"
+      ],
+      "referenced_works_count": 223,
+      "url": "https://openalex.org/W2113971462"
+    },
+    {
+      "openalex_id": "W4310517998",
+      "doi": "10.1515/9781474490061",
+      "title": "Marx\u2019s Theory of Land, Rent and Cities",
+      "authors": [
+        {
+          "name": "Don Munro",
+          "openalex_id": "A5025952105",
+          "orcid": "https://orcid.org/0000-0001-8395-8692"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-11-22",
+      "abstract": "Examines how the control of land affects production, profit, prices and inequality in today\u2019s cities For the first time, this book brings together all of Karl Marx\u2019s writings on land, rent and the landed property class Shows how Marx\u2019s studies of cities in indigenous, ancient, Asiatic, feudal, capitalist and communist modes of production help explain the differences between contemporary cities in the Global North and Global South Provides insights into the causes of the problems facing many of today\u2019s cities including rampant urban property development, the financialisation of land, land grabbing, urban governance, megacities and climate change Fills a gap in Marxist political economic theory by showing the importance Marx always placed on land as an explanation of capitalist (and other modes of production) and not just on capital and labour Bringing together Marx\u2019s original writings on land, rent and the landed property class, this book applies them to contemporary cities in the Global North and Global South. The book shows how landed property, and not just labour and capital, directly affects urban economic development, the built environment, urban governance and the quality of life of people living in cities. It also shows how land, rent and class transform cities in different ways depending on the indigenous, Asiatic, feudal, capitalist or other modes of production that mould the form and substance of cities. Presenting a new comparative approach, this book provides novel insights into the origins of, and solutions to, many of today\u2019s urban problems including urban enclosures, exclusive property development, the financialisation of land, land grabbing, and climate change.",
+      "cited_by_count": 12,
+      "type": "book",
+      "source": {
+        "name": "Edinburgh University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1515/9781474490061"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 185,
+      "url": "https://openalex.org/W4310517998"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

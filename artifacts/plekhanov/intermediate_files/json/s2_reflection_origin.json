@@ -1,0 +1,71 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov theory of reflection Lenin epistemology origin', limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_348da3de15073d8e)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov theory of reflection Lenin epistemology origin",
+  "results": [
+    {
+      "paperId": "fbe2fe37190a3da368a15e0489db8d3a35326b37",
+      "title": "THEORETICAL AND METHODOLOGICAL FOUNDATIONS OF MARXIST EPISTEMOLOGY: THE ORIGINS, PROBLEMS, PROSPECTS",
+      "authors": [
+        {
+          "name": "V. M. Naidysh",
+          "authorId": "114980374"
+        },
+        {
+          "name": "\u041d\u0430\u0439\u0434\u044b\u0448 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447",
+          "authorId": "104490812"
+        },
+        {
+          "name": "O. V. Naidysh",
+          "authorId": "116269947"
+        },
+        {
+          "name": "\u041d\u0430\u0439\u0434\u044b\u0448 \u041e\u043b\u044c\u0433\u0430 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043e\u0432\u043d\u0430",
+          "authorId": "113793821"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Marxist epistemology should not be identified with either \u201cLenin\u2019s theory of reflection\u201d or the theory of reflection as such. Marxist epistemology - an open scientific and philosophical project, the theoretical basis of which are two principles, reflection and activities, and the methodological basis is the systemic-structural approach (systemcentric). The main problem of the theoretical foundations of Marxist epistemology is to find ways of synthesis of reflection and activity. The thing-centric methodology does not allow to correctly identify and solve this problem. In the light of Sistematizma the reflection principle does not contradict the active constructivism, activity appears as a moment of reflection. The subject constructs different interpretations of the external world, but admits the reality not of any interpretations, but only those that help him to navigate and survive in the surrounding world. The activity of reflection acquires a purposeful active character, starting from the level of perception. Perception is a cyclical, iterative process that unfolds through the nomination and change of hypotheses, their correlation with the expected result, aimed at clarifying the specific, individual characteristics of the perceived object. The principle of unity of reflection and activity makes it possible to clarify the process of thinking, presenting it as an active transformation by the subject of the sensual image by operations that are extracted from the image itself and fixed by the signs of the language. As a result of the interaction of operands (what the activity of the subject is directed at, i.e. images, their fragments, abstractions, etc.) and operations on them, an ideal model of the real object of knowledge is constructed. The analysis of such an ideal model, its abstractions and their connections with each other, allows the subject to identify the essential characteristics of the real object of knowledge.",
+      "citationCount": 1,
+      "doi": "10.22363/2313-2302-2018-22-4-421-433",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fbe2fe37190a3da368a15e0489db8d3a35326b37",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "421-433",
+        "volume": "22"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ffa166130d8e54e67c7faccc68086c48a690cbdf",
+      "title": "Marxist Science as Ordinary Science",
+      "authors": [
+        {
+          "name": "Richard H. Hudelson",
+          "authorId": "101611459"
+        }
+      ],
+      "year": 1986,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.2307/2215281",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ffa166130d8e54e67c7faccc68086c48a690cbdf",
+      "venue": "",
+      "journal": {
+        "name": "No\u00fbs",
+        "pages": "53",
+        "volume": "20"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

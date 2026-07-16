@@ -1,0 +1,880 @@
+[search_openalex.py] Searching OpenAlex: 'Pannekoek Lenin as Philosopher critical examination philosophical basis Leninism', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_8428f0ddf7439358)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Pannekoek Lenin as Philosopher critical examination philosophical basis Leninism",
+  "results": [
+    {
+      "openalex_id": "W3146596467",
+      "doi": null,
+      "title": "Lenin as philosopher: A critical examination of the philosophical basis of Leninism",
+      "authors": [
+        {
+          "name": "Antonie Pannekoek",
+          "openalex_id": "A5031650965"
+        }
+      ],
+      "publication_year": 1975,
+      "publication_date": "1975-01-01",
+      "abstract": "Pannekoek, Lenin, and the future of Marxist philosophy -- Note on the text -- Introduction -- Marxism -- Middle class materialism -- Dietzgen -- Mach -- Avenarius -- Lenin -- The criticism -- Natural science -- Materialism -- Plekhanov's views -- The Russian revolution -- The proletarian revolution.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Journal of International Crisis and Risk Communication Research",
+        "type": "journal",
+        "issn": [
+          "2576-0017",
+          "2576-0025"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://stars.library.ucf.edu/prism/577"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3146596467"
+    },
+    {
+      "openalex_id": "W2938135377",
+      "doi": "10.1007/s11212-019-09325-6",
+      "title": "Lenin without dogmatism",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371",
+          "institutions": [
+            "University of Nottingham",
+            "Keele University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-08",
+      "abstract": "A longstanding criticism of Lenin is that his epistemological contributions to the theory of scientific socialism prompted the decline of Marxism in dogmatism and despotism in the twentieth century. According to this narrative, Lenin claimed to possess the objective truth, and he therefore refused to tolerate alternative perspectives. This article subjects these claims to a textual analysis, and it argues that they are erroneous. Lenin defends a fallibilist account of science that affirms the uncertainty of knowledge in the natural, philosophical and social sciences. This fallibilism pervades the text that supposedly showcases his intolerance, Materialism and Empirio-Criticism. Lenin\u2019s scientific socialism opposes rigid conceptions of socialism, and it encourages an atmosphere of democratic debate. Whilst Lenin\u2019s writings have their flaws, they are not the founding documents of Marxist dogmatism that they are often portrayed as being. Lenin is not the narrow-minded vulgariser of Marxism that he is routinely taken to be.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-019-09325-6.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2938135377"
+    },
+    {
+      "openalex_id": "W2973223886",
+      "doi": "10.2307/j.ctvp7d57c",
+      "title": "Anton Pannekoek",
+      "authors": [
+        {
+          "name": "Tai, C.",
+          "openalex_id": ""
+        },
+        {
+          "name": "van der Steen, B.",
+          "openalex_id": ""
+        },
+        {
+          "name": "van Dongen, J.",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-09",
+      "abstract": "Anton Pannekoek (1873-1960), prominent astronomer and world-renowned socialist theorist, stood at the nexus of the revolutions in politics, science and the arts of the early twentieth century. His astronomy was uniquely visual and highly innovative, while his politics were radical. Anton Pannekoek: Ways of Viewing Science and Society collects essays on Pannekoek and his contemporaries at the crossroads of political history, the history of science and art history.",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Amsterdam University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.2307/j.ctvp7d57c"
+      },
+      "topics": [
+        "History and Developments in Astronomy",
+        "History and Theory of Mathematics",
+        "History of Science and Natural History"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2973223886"
+    },
+    {
+      "openalex_id": "W2786301194",
+      "doi": null,
+      "title": "Leninism, scientific socialism, and democracy",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-13",
+      "abstract": "During the twentieth century a number of accounts of Lenin\u2019s theory and practice argued that Leninism is incompatible with democracy. In doing so, various scholars advanced the now popular belief, that the theory of scientific socialism defended by Lenin and prevalent in the Third International is undemocratic. Liberal and conservative critics of socialism are not the only proponents of this argument. Leninism has been criticised on this basis within the currents of Russian Bolshevism, Left Communism and Western Marxism. It is for this reason that the Marxism of Lenin and the Third International has been rejected as dogmatic, vulgar, and positivist: few contemporary Marxists condone dogmatism, vulgarity, or positivism. This dissertation examines and rejects the claim that Lenin\u2019s theory of scientific socialism is anti-democratic. It argues that the Leninist conception of Marxism as a science is compatible with democratic practice, and promotes a democratic conception of socialism.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Nottingham ePrints (University of Nottingham)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.nottingham.ac.uk/48194/1/Leninism%20and%20democracy%20complete%20dissertation%20pdf%20version.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2786301194"
+    },
+    {
+      "openalex_id": "W4288414976",
+      "doi": "10.5281/zenodo.5984697",
+      "title": "Lenin and the Law (A case-study on the borders of legal normality)",
+      "authors": [
+        {
+          "name": "VARGA Csaba",
+          "openalex_id": "A5112864567",
+          "institutions": [
+            "P\u00e1zm\u00e1ny P\u00e9ter Catholic University",
+            "Institute for Legal Studies",
+            "Hungarian Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-15",
+      "abstract": "Marxist revolutionaries used to dedicate whole lifetimes to fight <em>the</em> enemy, the prevailing political and economic structure, believing breakthrough to be victory, and device to stand for purpose. Considering their position exhausted in agitation, the actual task of building a new society could not be on their practical agenda yet. Captive of the dogmatism of \u201cReligion and law are the ideologies of the suppressing classes, the latter gradually replacing the former\u201d, they were interested solely in a state and law withering away. Therefore not even law-graduate Lenin concerned with law in general and its strategic potential for state building in particular. Won into power, he made law used for tactical reasons in daily changes exclusively, in cases it was considered able to benefit the revolutionary cause. As an empty form for mass mobilisation or simple complementation to terror, it turned to become nothing but the direct means, or extension, of politics. In territories once bolshevised, it has never transformed into an autonomous phenomenon of social mediation, well-received by society at large as one of the main civilising factors. No wonder if it resulted in tsarist ukaz-government changed into Leninist decree-government, led by the Bolshevik party as a private organisation. In comparison, the victims\u02bc death toll due to Bolshevism meant sixteen times as many victims\u02bc lives as the last half of a century of tsarism. In sum, it was only good to fruit \u201clegalised lawlessness\u201d in the past and the lookalike of a dual state in the present.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/5984697"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Marxism and Critical Theory",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4288414976"
+    },
+    {
+      "openalex_id": "W3010139457",
+      "doi": "10.4337/9781788112895.00015",
+      "title": "Dialectics in critical international relations theory",
+      "authors": [
+        {
+          "name": "Shannon Brincat",
+          "openalex_id": "A5089186346",
+          "orcid": "https://orcid.org/0000-0002-1426-5793"
+        },
+        {
+          "name": "Susan de Groot Heupner",
+          "openalex_id": "A5018458421",
+          "orcid": "https://orcid.org/0000-0002-8573-9992"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-03",
+      "abstract": "This chapter outlines the utility of dialectics within Critical International Relations Theory as a method or approach towards a deeper understanding of both relations and change within world politics. As a way of thinking that captures what we call \u201cthe between\u201d, dialectics deepens analytical focus of the historical development of all phenomena through their relationality. By focusing on the conditions and relations of things and phenomena, the dialectical mode of analysis offers an effective approach to pierce through the appearance of the stability or giveness of things and instead perceive them in their perpetual processes of relationality and change. As an alternative to dualistic and oppositional modes of thinking, we emphasise the fundamentality of the philosophy of internal relations to dialectical thought. We provide a potential method for others to apply dialectics through five movements in accordance with the ontological premises of flux and internal relations.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Edward Elgar Publishing eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.elgaronline.com/downloadpdf/edcoll/9781788112888/9781788112888.00015.pdf"
+      },
+      "topics": [
+        "International Relations and Foreign Policy"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W3010139457"
+    },
+    {
+      "openalex_id": "W2970517021",
+      "doi": "10.15215/aupress/9781927356326.01",
+      "title": "The Undiscovered Country: Essays in Canadian Intellectual Culture",
+      "authors": [
+        {
+          "name": "Ian Angus",
+          "openalex_id": "A5011283950",
+          "orcid": "https://orcid.org/0000-0002-9784-1775"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-05-01",
+      "abstract": "In this sequence of essays, Ian Angus engages with themes of identity, power, and the nation as they emerge in contemporary English Canadian philosophical thought, seeking to prepare the groundwork for a critical theory of neoliberal globalization. The essays are organized into three parts. The opening part offers a nuanced critique of the Hegelian confidence and progressivism that has come to dominate Canadian intellectual life. Through an analysis of the work of several prominent Canadian thinkers, among them Charles Taylor and C. B. Macpherson, Angus suggests that Hegelian frames of reference are inadequate, failing as they do to accommodate the fact of English Canada",
+      "cited_by_count": 15,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120223_99Z_Angus_2013-The_Undiscovered_Country.pdf"
+      },
+      "topics": [
+        "Canadian Identity and History"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W2970517021"
+    },
+    {
+      "openalex_id": "W1971659936",
+      "doi": "10.1163/1569206043505275",
+      "title": "On Council Communism",
+      "authors": [
+        {
+          "name": "Marcel van der Linden",
+          "openalex_id": "A5104067922",
+          "orcid": "https://orcid.org/0000-0002-1950-8352"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": null,
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Historical Materialism",
+        "type": "journal",
+        "issn": [
+          "1465-4466",
+          "1569-206X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.knaw.nl/portal/en/publications/c7d0a71c-847f-49fb-b837-942ac3dd940a"
+      },
+      "topics": [
+        "European history and politics",
+        "Historical and Contemporary Political Dynamics",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W1971659936"
+    },
+    {
+      "openalex_id": "W2502558445",
+      "doi": null,
+      "title": "Alienation Effects: Performance and Self-Management in Yugoslavia, 1945-91",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-13",
+      "abstract": "Exciting new scholarship has been emerging as performance studies scholars begin to turn their attention to the performance of politics, nationhood, and jurisprudence. Branislav Jakovljevic's project on the history and eventual demise of the former Yugoslavia demonstrates how fruitful this approach can be. Jakovljevic considers the concept of theatricality as central to understanding the events that took place in Yugoslavia. He examines the country's trials, state ceremonies and festivals, army maneuvers, propaganda, and pop culture as rehearsals and temporary enactments of an ideologically formulated future. His first chapter reveals the surrealist, avant-garde origins of key members of the Yugoslav bureaucracy after WWII, suggesting that those connections helped the culture of socialist Yugoslavia become a performance-centered culture. Continuing to explore the relationship between the political avant-garde and the artistic avant-garde, he looks at the spectacle of student demonstrations in Belgrade in 1968, and, in their aftermath, the rise of performance art in the country. The third chapter (included here) zeros in on the various political performances of Slobodan Milosevic, including his courtroom testimony at the ICTY, the International Criminal Tribunal for the former Yugoslavia. The fourth chapter discusses the Peter Handke Affair, when the Austrian playwright had a major prize revoked after he attended Milosevic's funeral and recited a poem he had written in Milosevic's honor.",
+      "cited_by_count": 21,
+      "type": "book",
+      "source": {
+        "name": "BiblioBoard Library Catalog (Open Research Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://openresearchlibrary.org/ext/api/media/f410ace8-2b7b-4a1e-a5ec-10e6a95b2d9b/assets/external_content.pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2502558445"
+    },
+    {
+      "openalex_id": "W2945299670",
+      "doi": null,
+      "title": "Poetry, science and revolution: The enigma of Herman Gorter\u2019s Pan.",
+      "authors": [
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "textabstractHerman Gorter (1864-1927) became famous as the author of May (1889) and Poems (1890). His opus magnum Pan, published in 1916, hardly acquired any readership at all, which is remarkable, given the monumental size and scope of this unique achievement, celebrating the imminent proletarian revolution and the advent of the communist era: a visionary work of global proportions. Gorter\u2019s Pan will be assessed as thinking poetry, more precisely: as dialectical materialist poetry, as a work of art which articulates a dialectical materialist worldview, not only concerning political economy and society, but also concerning nature and the universe as such, from the stars and galaxies of modern astrophysics down to the atoms and molecules of modern chemistry and quantum physics. Gorter\u2019s monumental work is \u2018thinking poetry\u2019 in the Heideggerian sense of the term, sensitive to an imminent upheaval of Being as such, as well as a dialectical materialist artwork (albeit with a tinge of Spinozism) contributing (via the \u2018school of poetry\u2019) to a dialectical understanding of space, time, life and matter. In this article, I will focus on two crucial recurring motives: the motif of the shining crystal and the motif of the beaming galaxy. Via these motifs, so I suggest, Gorter aspires to bridge the gap between his epic-lyrical poetry and twentieth-century science.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "RePub (Erasmus University Rotterdam)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://repub.eur.nl/pub/121715"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Historical and Literary Studies",
+        "Evolution and Science Education"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2945299670"
+    },
+    {
+      "openalex_id": "W3176929889",
+      "doi": "10.16997/ahip.1056",
+      "title": "Materialism: A Caring Obituary",
+      "authors": [
+        {
+          "name": "Riccardo Baldissone",
+          "openalex_id": "A5046709681",
+          "institutions": [
+            "University of Westminster"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-24",
+      "abstract": "The notion of materialism initially appears in the writings of its Christian opponents in late seventeenth-century England. Only in eighteenth-century France materialism is first posthumously claimed by a catholic priest, Meslier, and then by authors such as La Mettrie and d\u2019Holbach, at the risk of persecution and imprisonment: Diderot enjoys the hospitality of the fortress of Vincennes for rearranging the materialist stance within his sensualist multiverse. In the nineteenth century, Marx reshapes materialism as part of his critique to decontextualized knowledge. Stirner\u2019s discontent with naturalistic objectivity anticipates Nietzsche\u2019s rejection of matter in favour of practices: Engels\u2019 historical materialism and his ahistorical dichotomic construction of materialism versus idealism are instead embraced by Lenin via Plekhanov, and they are further simplified by Stalin. Nietzsche\u2019s approach is recovered by Foucault, Deleuze, and Derrida, who challenge both political and theoretical representation. More recently, Barad recasts this challenge into a processual vocabulary, which renews the semantic constellation of realism, materialism, and materiality. Whilst not dismissing Barad\u2019s new tools, the essay suggests raising the wager: it proposes to extend its own genealogical practice, which reconnects materialism (and matter) with its historical process of production, to any other theoretical object. This recomposition may not only disentangle us from the lexicon of entities \u2013 including materialism and matter \u2013 but it may also help to construct a novel and potentially hegemonic language of practices.",
+      "cited_by_count": 1,
+      "type": "other",
+      "source": {
+        "name": "Anthropocenes \u2013 Human Inhuman Posthuman",
+        "type": "journal",
+        "issn": [
+          "2633-4321"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.anthropocenes.net/article/1056/galley/4919/download/"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Critical Theory and Philosophy",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3176929889"
+    },
+    {
+      "openalex_id": "W4411778028",
+      "doi": "10.59588/2243-7851.1154",
+      "title": "Mapagpalayang Pagbabago: Anibersaryo ng 1917 Bolshevik Revolution at ang Pambansang Demokratikong Himagsikan ng Sambayanang Filipino",
+      "authors": [
+        {
+          "name": "Epifanio San Juan",
+          "openalex_id": "A5118694816"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-30",
+      "abstract": "Sa ika-100 anibersaryo ng 1917 Rebolusyon sa Rusya, lumilitaw na mas mahalaga ang halimbawa ni Lenin sa pagsusuri ng mga problema sa pagbabagong radikal ngayon. Sinubukang sukatin dito sa perspektiba ng teorya\u2019t praktika ng Marxismo-Leninismo ang ilang suliranin ng pambansang himagsikang pagpapatuloy sa 1896 na pakikibaka laban sa kolonyalismong Espanyol at pagtutol sa imperyalismong Amerikano. Hinimay rito ang prinsipyo ng materyalismong historikal kaugnay ng usaping pangkapayapaan. Tinangka ritong talakayin ang ilang isyu tungkol sa tunggalian ng mga uri, tendensiyang anarkista-populista, at diyalektika ng masa\u2019t intelektuwal sa proyektong kontra-hegemonya. Diskursong metakomentaryo ang inadhikang mabuo sa paghahanay ng mga kontradiksiyong pumapaligid sa kasalukuyang yugto ng pakikihamok laban sa marahas na ordeng neoliberalismo, tungo sa demokratiko-pambansang kasarinlan.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Malay Journal",
+        "type": "journal",
+        "issn": [
+          "2243-7851"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1154&context=malay"
+      },
+      "topics": [
+        "Philippine History and Culture",
+        "Asian Culture and Media Studies",
+        "Hong Kong and Taiwan Politics"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4411778028"
+    },
+    {
+      "openalex_id": "W4233420936",
+      "doi": "10.3998/mpub.338565",
+      "title": "Alienation Effects",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "<DIV>In the 1970s, Yugoslavia emerged as a dynamic environment for conceptual and performance art. At the same time, it pursued its own form of political economy of socialist self-management. <I>Alienation Effects</I> argues that a deep relationship existed between the democratization of the arts and industrial democracy, resulting in a culture difficult to classify. The book challenges the assumption that the art emerging in Eastern Europe before 1989 was either \"official\" or \"dissident\" art; and shows that the break up of Yugoslavia was not a result of \"ancient hatreds\" among its peoples but instead came from the distortion and defeat of the idea of self-management.<BR /><BR /> The case studies include mass performances organized during state holidays; proto-performance art, such as the 1954 production of Waiting for Godot in a former concentration camp in Belgrade; student demonstrations in 1968; and body art pieces by Gina Pane, Joseph Beuys, Marina Abramovic, and others. <I>Alienation Effects</I> sheds new light on the work of well-known artists and scholars, including early experimental poetry by Slavoj \u017di\u017eek, as well as performance and conceptual artists that deserve wider, international attention.</DIV><BR />",
+      "cited_by_count": 11,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.fulcrum.org/ebooks/fq977v99t/download?locale=en"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4233420936"
+    },
+    {
+      "openalex_id": "W2623021422",
+      "doi": null,
+      "title": "Reproduction of Capitalism in the 21st Century: Higher Education and Ecological Crisis",
+      "authors": [
+        {
+          "name": "Toni Ruuska",
+          "openalex_id": "A5090176796",
+          "orcid": "https://orcid.org/0000-0002-5002-8429"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "In this thesis, the connection between capitalism, higher education, and ecological crisis is established and studied. It is presented, mainly theoretically, how capitalist socio-economic structure is reproduced, how higher education contributes to it, and how this is linked to the ongoing ecological crisis. &#13;\\nAs a part of the more general discussion on the reproduction of capitalism, higher education, and its ecological impacts, Finnish higher education is taken as a specific context to be discussed. In this regard, an empirical illustration is provided to strengthen the otherwise theoretical argument to portray how the purpose of higher education is perceived in Finnish education policy documents in the 21st century. &#13;\\nBased on existing literature, theoretical argumentation, and empirical illustration, it is argued that, as the orientation of higher education has been reformulated during the last decades, one of the primary purposes of higher education in the 21st century is to reproduce capitalism and conditions for capital accumulation and economic growth. In principle, this means that aims and demands concerning higher education, especially coming from state administration, are closely coupled with the needs of the capitalist growth economy and transnational capital accumulation. This development has had a significant impact to higher education \u2013 one these developments being that higher education is increasingly expected to serve as a means to an end to achieve goals such as economic growth and regional competitiveness. Furthermore, these developments imply, among other things, that the higher education institution is increasingly functioning in an unsustainable fashion from an ecological perspective. This is due to the capitalist structure and processes of accumulation with which higher education is increasingly integrated and to which it contributes.&#13;\\nThis study makes two primary contributions to the existing literature. The first contribution is the overall updated reproduction theory of capitalism. The theory as whole seeks to complement the existing reproduction theories in Marxist education studies and, more generally, the understandings of socio-economic reproduction of liberal capitalist societies by adding a transnational element to the analysis. The second contribution of this study is the established link between capitalism, contemporary higher education, and ecological crisis, a notion which has not been thoroughly dealt with or theorised previously in the Marxist studies on education.",
+      "cited_by_count": 9,
+      "type": "other",
+      "source": {
+        "name": "Aaltodoc (Aalto University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://aaltodoc.aalto.fi/handle/123456789/26627"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Political Economy and Marxism",
+        "Elite Sociology and Global Capitalism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2623021422"
+    },
+    {
+      "openalex_id": "W3116576074",
+      "doi": "10.14276/igj.v3i4.4251",
+      "title": "Walter Benjamin, Antonio Gramsci and the Problem of Elitist Traditions",
+      "authors": [
+        {
+          "name": "Frank Voigt",
+          "openalex_id": "A5028755110"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-22",
+      "abstract": "The article sheds light on Walter Benjamin\u2019s and Antonio Gramsci\u2019s treatments of elitist traditions. It provides a historical contextualization and brief comparison of the theoretical and political developments of the two contemporaries under this aspect. In the Origin of the German Trauerspiel (1924/25), Benjamin\u2019s historical-philosophical aesthetics are enriched by a history of concepts which increasingly takes up socio-historical aspects. This approach goes beyond Benjamin\u2019s programmatic formulations at the beginning of the 1920s, in which he regarded the work of art as a privileged medium of historical insight that, in theory and method, had to be isolated from history. As for Gramsci, the article elaborates an increasing mediation between social and literary history. This is done, on the one hand, by comparing Gramsci\u2019s statements on Italian Futurism between 1913 and 1922 and, on the other hand, by tracing and examining Gramsci\u2019s criticism of Benedetto Croce\u2019s assessment of the reasons leading to World War I in his History of Europe in the Nineteenth Century (1932) in the Prison Notebooks (Quaderno 10). Despite their differences, the examination of these developments in Benjamin and Gramsci shows three common features in their works of the 1930s: Firstly, both of them change their relation to radical democratic, Jacobin traditions. Secondly, they both display an increasingly historical understanding of concepts of literary intelligence under the aspect of their relationship to the reading public. Thirdly, this understanding led both of them to analyze the rise of fascism in Italy and Germany with regard also to \u2018elitist traditions\u2019 in which intellectuals distance themselves from the public for various reasons and motives, but with the consequence that an understanding of their participation in discourses and traditions becomes impossible.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Research Online (University of Wollongong)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ro.uow.edu.au/gramsci/vol3/iss4/8"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3116576074"
+    },
+    {
+      "openalex_id": "W4232874563",
+      "doi": "10.4324/9781351326728",
+      "title": "More than a Historian",
+      "authors": [
+        {
+          "name": "Clyde W. Barrow",
+          "openalex_id": "A5017719024",
+          "orcid": "https://orcid.org/0000-0002-6846-3728"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-17",
+      "abstract": "Charles A. Beard (1874-1948) was one of America's most influential historians and political scientists. He played a major role in founding the disciplines of history and political science, helped shape the teaching of social studies in the nation's public schools, and was one the nation's most popular public intellectuals. Yet in the second half of the twentieth century, Beard's reputation has been eroded by relentless criticism. Clyde W. Barrow argues that Beard's work has renewed relevance in light of recent theoretical debates about the new institutionalism, the crisis of the welfare state, and American foreign policy messianism. Barrow's takes Beard seriously as a political theorist, while challenging many misconceptions. For example, Beard's method of economic interpretation has been dismissed as Marxist, but Barrow carefully reconstructs the sources of Beard's thinking to demonstrate that his method owes more to historical and institutional economics and that his concept of state-society relations was in fact derived from Madison's Tenth Federalist. Barrow reconstructs Beard's theory of American political development using his concept of realistic dialectics, which viewed the clash between democracy (Jeffersonianism) and capitalism (Hamiltonianism) as the engine of American political development. During the 1930s, Beard suggested that the United States was making the transition to a higher form of social and industrial democracy that would supersede the contradiction of American political development. Notably, Beard was a critic of the New Deal and the liberal welfare state, because they failed to reconstruct the economic relations that reproduce inequalities of income, status, and power.Beard went on to voice his concern that at crucial junctures in American history, class struggle is diverted into international conflicts as popular leaders back down from a direct confrontation with the dominant capitalist elite. He analyzes American foreign policy as an extension of domestic economic policy and, in particular, a result of the failures of domestic economic policy. Beard's conception of American history plays itself out in a tragic cycle of imperialism and diversion that left him a disenchanted realist. This incisive study will be of interest to those intrested in the evolution of historical thinking.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781351326728&type=googlepdf"
+      },
+      "topics": [
+        "American History and Culture",
+        "Political Theory and Influence",
+        "American Constitutional Law and Politics"
+      ],
+      "referenced_works_count": 309,
+      "url": "https://openalex.org/W4232874563"
+    },
+    {
+      "openalex_id": "W2973165473",
+      "doi": "10.1515/9789048535002-010",
+      "title": "9. Popularizing the Cosmos: Pedagogies of Science and Society in Anton Pannekoek\u2019s Life and Work",
+      "authors": [
+        {
+          "name": "Jennifer Tucker",
+          "openalex_id": "A5064466404",
+          "orcid": "https://orcid.org/0000-0003-4524-5450",
+          "institutions": [
+            "Dutch Cancer Society"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-26",
+      "abstract": "New expectations about the role of the astronomer in modern life emerged in the early twentieth century.This chapter sketches Anton Pannekoek's role in fostering new forms of public and political engagements with astronomy.Through his scientific writings and photography, Pannekoek did more than foster the wonders of nature and science.He also presented astronomy as a field that instilled large-scale visions of society and human progress.After considering Pannekoek's efforts to build stronger connections between science and polity in both galactic astronomy and council communism, it concludes with thoughts about Pannekoek as a key early twentieth-century figure in a new tradition of historical writing about scientific instruments and practice.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Amsterdam University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/9789048535002-010/pdf"
+      },
+      "topics": [
+        "Scientific and Historical Analyses",
+        "Historical Education Studies Worldwide",
+        "History and Developments in Astronomy"
+      ],
+      "referenced_works_count": 39,
+      "url": "https://openalex.org/W2973165473"
+    },
+    {
+      "openalex_id": "W4414947430",
+      "doi": "10.1353/tae.2025.a971355",
+      "title": "From a Contemplative to a Critical Attitude: Luk\u00e1cs, Foucault, and the Partisanship of Critical Theory",
+      "authors": [
+        {
+          "name": "Tivadar Vervoort",
+          "openalex_id": "A5080452644",
+          "orcid": "https://orcid.org/0000-0001-9373-377X"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-10-01",
+      "abstract": "Abstract: The objective of critical theory is to advocate for emancipatory social transformation. The partisanship of contemporary critical theory has become increasingly unclear over time, however. This article proposes to restore critical theory\u2019s alignment with ongoing social struggles, rather than grounding it in normative social theory. To revive critical theory\u2019s partisan orientation, I draw on Georg Luk\u00e1cs\u2019 critique of reification. I argue that Luk\u00e1cs\u2019 dialectical relationship between reification and the proletarian standpoint provides the paradigmatic model for emancipatory social critique. In addition, I suggest that Michel Foucault\u2019s explorations of power, resistance, and the \u201ccritical attitude\u201d are consistent with Luk\u00e1cs\u2019 model of partisan critique. Returning to Luk\u00e1cs\u2019 assessment of the impediment of militant action caused by reification, this paper advocates for a model of social critique that prioritizes concrete social struggles. The comparison of Luk\u00e1cs and Foucault calls for an examination of contemporary social struggles as the primary point of orientation for social critique. Thus, the partisanship of critical theory not only aims to promote emancipatory politics, but is also necessary in order for theory to be critical at all.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Theory & Event",
+        "type": "journal",
+        "issn": [
+          "1092-311X",
+          "2572-6633"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://muse.jhu.edu/pub/1/article/971355/pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4414947430"
+    },
+    {
+      "openalex_id": "W4416859875",
+      "doi": "10.5117/9789462984349_ch09",
+      "title": "Popularizing the Cosmos",
+      "authors": [
+        {
+          "name": "Jennifer Tucker",
+          "openalex_id": "A5111535045"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-10-01",
+      "abstract": "New expectations about the role of the astronomer in modern life emerged in the early twentieth century. This chapter sketches Anton Pannekoek\u2019s role in fostering new forms of public and political engagements with astronomy. Through his scientific writings and photography, Pannekoek did more than foster the wonders of nature and science. He also presented astronomy as a field that instilled large-scale visions of society and human progress. After considering Pannekoek\u2019s efforts to build stronger connections between science and polity in both galactic astronomy and council communism, it concludes with thoughts about Pannekoek as a key early twentieth-century figure in a new tradition of historical writing about scientific instruments and practice.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.5117/9789462984349_CH09&type=chapterpdf"
+      },
+      "topics": [
+        "History and Developments in Astronomy",
+        "History of Science and Medicine",
+        "History of Science and Natural History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4416859875"
+    },
+    {
+      "openalex_id": "W4389016013",
+      "doi": "10.1163/9789004679023_011",
+      "title": "Dialectics",
+      "authors": [
+        {
+          "name": "Wolfgang Fritz Haug",
+          "openalex_id": "A5055905878"
+        },
+        {
+          "name": "P. C. Thomas",
+          "openalex_id": "A5011232501",
+          "orcid": "https://orcid.org/0000-0003-3072-7131"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-14",
+      "abstract": "The 'Algebra of Revolution' was the name given to the Hegelian dialectic by Alexander Herzen, and the materialist dialectic is often called, particularly following Lenin, the 'living soul' of Marxism.D is a key to the philosophic thought and the linguistic-aesthetic production of Brecht, who named it the Great Method.What D means is contested, and the dispute concerning D has always been at the same time a struggle over the correct way.'In its mystified form' -that is, the Hegelian -'dialectic became the fashion in Germany, because it seemed to transfigure and to glorify the existing state of things' .In the form which Marx gave it and which he named in the Afterword to the second edition of Capital (1873), 'its rational form' , 'it is a scandal and an abomination to bourgeoisdom and its doctrinaire professors' .It is 'a scandal and an abomination' , because it is subversive, because it brings movement into the dominating order as the order of domination, 'because it includes in its comprehension and affirmative recognition of the existing state of things, at the same time also, the recognition of the negation of that state, of its inevitable breaking up; because it regards every form in the flux of movement, and therefore takes into account its transient nature not less than its momentary existence; because it lets nothing impose upon it, and is in its essence critical and revolutionary ' (mecw 35/20; transl.corr.[mew 23/27 et sq.]).-D practised in this sense also became a 'scandal and an abomination' to the ruling order of state socialism.It appears almost impossible to speak about D without speaking un-dialectically, and thus, as the dialectician Brecht warned, to transform 'the flux of the things itself into a static thing' ( Jrnls, 6 January 1948; transl.corr.).On the other hand, if D is meaningful, it is quite impossible to speak correctly about the things themselves without speaking about them dialectically, and thus to bring the fixed things back into flux.The possible meaning of D must therefore be demonstrated by what all of the articles of a Marxist dictionary can contribute to D in practice, how, that is to say, D appears in the presentation of aut\u00e0 t\u00e0 pr\u00e1gmata, 'the things themselves' .Marx practised D at first negatively against metaphysical thinking, by which he understood a static mode of thought which assumes fixed divisions, which",
+      "cited_by_count": 0,
+      "type": "reference-entry",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/book/9789004679023/BP000010.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W4389016013"
+    },
+    {
+      "openalex_id": "W4415359131",
+      "doi": "10.1080/03017605.2025.2554034",
+      "title": "\u2018Cornelius Castoriadis and Marxism\u2019",
+      "authors": [
+        {
+          "name": "Anthony Burns",
+          "openalex_id": "A5060533361",
+          "orcid": "https://orcid.org/0000-0003-2259-499X"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-07-03",
+      "abstract": "In this paper I examine what Cornelius Castoriadis (1922\u20131997) has to say about Marx and Marxism. Castoriadis was throughout the post-War period, for three decades, a Marxist, albeit of an unorthodox or heterodox kind. However, after 1968, he claimed to have broken completely with Marxism and to have developed an alternative theoretical approach of his own, associated with his Autonomy Project. In this later period he argues that Marx's ideas have become irrelevant and have no contribution to make to addressing the problems of today. My article engages critically with that view. I argue not only that a number of Marx's ideas continue to be relevant today, but also that the views of the later Castoriadis himself rely heavily on them. Ultimately, therefore Castoriadis's attempt to break completely with Marxism is unsuccessful.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03017605.2025.2554034?needAccess=true"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4415359131"
+    },
+    {
+      "openalex_id": "W7136997942",
+      "doi": "10.56063/ms.0103.08112",
+      "title": "Organizational Hegemony: Rethinking Gramscian Power Analysis in Light of Bogdanov\u2019s Tektology",
+      "authors": [
+        {
+          "name": "\u00d6rsan \u015eenalp",
+          "openalex_id": "A5054052991",
+          "orcid": "https://orcid.org/0000-0003-2287-7391"
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-01-01",
+      "abstract": "This text explores the profound intellectual relationship between Antonio Gramsci and Alexander Bogdanov, two pivotal figures of 20th-century Marxism whose legacies have historically been viewed as parallel but independent.Recent discoveries, most notably Gramsci's 1920s Italian translation of Bogdanov's science fiction novel Red Star, conclusively prove that Gramsci directly and deeply engaged with Bogdanov's ideas during a critical phase of his own theoretical development even though explicit references are missing.Central to the text is the reconstruction of Gramscian hegemony through Bogdanov's Tektology (Universal Organizational Science).'Organization' is identified as the primary point of convergence.By integrating Gramsci's power analysis with Bogdanov's systemic insights-which pioneered the 'systems paradigm', the text proposes a new framework: Organizational Hegemony.This synthesis offers a sophisticated methodology for analyzing the complex, data-driven power structures of contemporary neoliberal globalization and provides a renewed foundation for revolutionary socialist strategy.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Marxism & Sciences",
+        "type": "journal",
+        "issn": [
+          "2822-2849"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.56063/ms.0103.08112"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Management and Organizational Studies",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7136997942"
+    },
+    {
+      "openalex_id": "W1894544863",
+      "doi": null,
+      "title": "Castoriadis on Althusser and the Crisis of Marxism",
+      "authors": [
+        {
+          "name": "Christos Memos",
+          "openalex_id": "A5059063213"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-11-01",
+      "abstract": "The issue concerning the crisis of Marxism has had a wide range of interpretations and has promoted debate and controversy. During the Cold War anti-communist hysteria and coming from a radical perspective, Castoriadis re-opened and participated in the above debate.Directing his critique against the theory and practice of Marxism, Castoriadis considered the crisis of Marxism as a crisis of Marx\u2019s original thought as well. The degeneration of Marxism andthe loss of its radical character were attributed to its transformation into a semi-religious dogma and a closed theoretical system. Castoriadis returned, again, to this issue after Althusser`s public announcement of the crisis of Marxism in 1977. This paper discusses Castoriadis\u2019s important, but still neglected fierce critique of the Althusser`s views and argues that it prompts a re-appreciation of considerable issues for contemporary emancipatory politics. First, Castoriadis\u2019s critical alternative approach to the crisis of Marxism is located within the Marxist theoretical discussions on the issue. Following an outline of Althusser`s attempt to formulate the fundamental causes for what he meant to be an overt eruption of the crisis of Marxism, the essay goes on to present Castoriadis\u2019s critique and investigates the grounds on which it was put forward. The paper concludes with an assessment of the implications of Castoriadis\u2019s arguments for the renewal of radical politics today.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Open Humanities Press - Cosmos and History: The Journal of Natural and Social Philosophy",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://cosmosandhistory.org/index.php/journal/article/view/254"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W1894544863"
+    },
+    {
+      "openalex_id": "W3046810422",
+      "doi": null,
+      "title": "Party and Strategy in Postwar European Marxist Theory",
+      "authors": [
+        {
+          "name": "Asad Haider",
+          "openalex_id": "A5082863178"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Unlike other terms in the discourse of social movements \u00e2\u0080\u0093 power, democracy, citizenship \u00e2\u0080\u0093 \u00e2\u0080\u009corganization\u00e2\u0080\u009d is rarely granted the status of a philosophical concept. My dissertation seeks to trace an underground current of political theory that focuses on the issue of organization, by examining certain aspects of the European Marxist debates over the party form and revolutionary strategy in the 1960s and 1970s. I focus on the development of Marxist philosophy in France and Italy by situating it not only in the debates over Communist Party strategy, but also in relation to the formation of new organizations that challenged the parties\u00e2\u0080\u0099 hegemony.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/0ng3q7j0"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3046810422"
+    },
+    {
+      "openalex_id": "W2399208946",
+      "doi": "10.15781/t2gx0q",
+      "title": "Black sails on the mediascape : towards an anarchist theory of news media and media-movement interactions",
+      "authors": [
+        {
+          "name": "Matthew Allen Tedrow",
+          "openalex_id": "A5067937949"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This dissertation provides an anarchist account of news media power and interactions between news media and social movement actors, by drawing on anarchist thought and practice, as well as theoretical traditions such as libertarian Marxism, critical media studies, science and technology studies, and social movement studies in sociology. Notable features of anarchist media theory include: a critique of communications technology and corruptions of information power; a critique of mass news media\u2019s corporate hierarchical structure; and a premium placed on communications practices and media that enable non-hierarchical forms of communication, as well as on widespread participation in the process of meaning making. This qualitative theory building and research, which addresses a glaring gap in anarchist literature about media, is rooted firmly in anarchism\u2019s rejection of authority and oppression, its commitment to liberty and autonomy, and its understanding of prefigurative politics as a form of direct action. Anarchism also brings its ethical-political commitments to bear on communications research, by challenging the administrative/critical researcher binary, questioning state-centric research perspectives, and calling on scholars to engage in activist research that could benefit activists and social movement actors. In addition, anarchism provides a theoretical basis for assessing established critical media theories according to their strategic or tactical implications for activists and other social movement actors, not simply according to how well these theoretical perspectives capture or explain different aspects of social-political reality. Moreover, unlike classical or orthodox Marxist theoretical perspectives, anarchism rejects vanguardism\u2014the strategic principle that a small but dedicated group of class-conscious revolutionaries bear primary responsibility for fomenting social change\u2014as well as the belief that capturing state power is indispensable to social transformation. An anarchist account of news media and media-movement interactions thus problematizes critical media theories such as framing, hegemony, and political economy, which proffer state-centric analyses and strategic implications. Besides promoting theoretical arguments, this study features an original research component consisting of in-depth, ethnographic interviews with activists based in Austin, Texas. The findings from this exploratory interview research suggest that some of the major theoretical arguments contained in this dissertation accurately reflect how some anarchists think about news media.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Texas ScholarWorks (Texas Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2152/33264"
+      },
+      "topics": [
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2399208946"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Marxism of the Second International...' author=Colletti
+[verify_paper.py] Paper found: The Marxism of the Second International... (score: 36.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Marxism of the Second International",
+    "author": "Colletti"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3817/0671008084",
+      "title": "The Marxism of the Second International",
+      "authors": [
+        {
+          "family": "Colletti",
+          "given": "L."
+        }
+      ],
+      "editors": [],
+      "year": 1971,
+      "container_title": "Telos",
+      "volume": "1971",
+      "issue": "8",
+      "page": "84-91",
+      "publisher": "Telos Press",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.3817/0671008084",
+      "score": 36.921432
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

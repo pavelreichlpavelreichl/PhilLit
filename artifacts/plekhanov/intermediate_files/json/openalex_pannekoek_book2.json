@@ -1,0 +1,487 @@
+[search_openalex.py] Searching OpenAlex: 'Pannekoek Lenin as Philosopher Merlin Press', limit=25
+[search_openalex.py] Retrieved 13 papers...
+[search_openalex.py] Search complete: 13 papers found
+[search_openalex.py] Cached results (cache key: openalex_19b5e78e66e3b061)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Pannekoek Lenin as Philosopher Merlin Press",
+  "results": [
+    {
+      "openalex_id": "W2938135377",
+      "doi": "10.1007/s11212-019-09325-6",
+      "title": "Lenin without dogmatism",
+      "authors": [
+        {
+          "name": "Joe Pateman",
+          "openalex_id": "A5014393063",
+          "orcid": "https://orcid.org/0000-0002-7623-9371",
+          "institutions": [
+            "University of Nottingham",
+            "Keele University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-08",
+      "abstract": "A longstanding criticism of Lenin is that his epistemological contributions to the theory of scientific socialism prompted the decline of Marxism in dogmatism and despotism in the twentieth century. According to this narrative, Lenin claimed to possess the objective truth, and he therefore refused to tolerate alternative perspectives. This article subjects these claims to a textual analysis, and it argues that they are erroneous. Lenin defends a fallibilist account of science that affirms the uncertainty of knowledge in the natural, philosophical and social sciences. This fallibilism pervades the text that supposedly showcases his intolerance, Materialism and Empirio-Criticism. Lenin\u2019s scientific socialism opposes rigid conceptions of socialism, and it encourages an atmosphere of democratic debate. Whilst Lenin\u2019s writings have their flaws, they are not the founding documents of Marxist dogmatism that they are often portrayed as being. Lenin is not the narrow-minded vulgariser of Marxism that he is routinely taken to be.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-019-09325-6.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W2938135377"
+    },
+    {
+      "openalex_id": "W2037532678",
+      "doi": "10.1080/10455759309358566",
+      "title": "Soviet environmentalism: The path not taken",
+      "authors": [
+        {
+          "name": "Arran Gare",
+          "openalex_id": "A5091008316",
+          "orcid": "https://orcid.org/0000-0003-4995-4035"
+        }
+      ],
+      "publication_year": 1993,
+      "publication_date": "1993-12-01",
+      "abstract": "Capitalism is a system that by its very nature must expand until it destroys the conditions of its own existence. It is hardly surprising, then, that Marxists in the Soviet Union argued that in the current environmental crisis lay the ultimate reason for replacing capitalism with socialism. [Introduction]",
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "Capitalism Nature Socialism",
+        "type": "journal",
+        "issn": [
+          "1045-5752",
+          "1548-3290"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/GARSET-2.pdf"
+      },
+      "topics": [
+        "Transboundary Water Resource Management",
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2037532678"
+    },
+    {
+      "openalex_id": "W4200351917",
+      "doi": "10.1007/978-3-030-84570-4_3",
+      "title": "Dialectical Materialism",
+      "authors": [
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213",
+          "institutions": [
+            "Erasmus University Rotterdam"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-18",
+      "abstract": "Abstract Although Karl Marx and Friedrich Engels strictly speaking never used the term, \u201cdialectical materialism\u201d refers to the philosophy of science and nature developed in (and on the basis of) their writings, emphasising the pivotal role of real-world socio-economic conditions (e.g. labour, class struggle, technological developments). As indicated by their correspondence (Marx &amp; Engels, 1983), their collaboration represented a unique intellectual partnership which began in Paris in 1844 and continued after Marx\u2019s death, when Engels took care of Marx\u2019s legacy, notably the sprawling mass of manuscripts which he managed to transform into Volume II and III of Capital . While their joint effort (resulting in no less than 44 volumes of collected writings known as the Marx Engels Werke , published by Dietz Verlag Berlin) began as co-authorship, they eventually decided on a division of labour (with Marx focussing on Capital ), although reading, reviewing, commenting on and contributing to each other\u2019s writings remained an important part of their research practice. As a result of this division of labour, while Marx focussed on political economy, Engels dedicated himself to elaborating a dialectical materialist philosophy of nature and the natural sciences, resulting in works such as the Anti-D\u00fchring and his unfinished Dialectics of Nature (published posthumously), although Engels (a voracious intellectual) wrote and published on may other topics as well, so that his output can be regarded as a dialectical materialist encyclopaedia in fragments. Again, although I will start with an exposition of dialectical materialism, my aim is not to contribute to scholarly discussions on dialectical materialism. My focus is on the how and now , and my aim is to explore how to practice dialectical materialism of technoscience today (cf. \u017di\u017eek, 2014/2015, p. 1; Hamza, 2016, p. 163).",
+      "cited_by_count": 7,
+      "type": "book-chapter",
+      "source": {
+        "name": "Philosophy of engineering and technology",
+        "type": "book series",
+        "issn": [
+          "1879-7202",
+          "1879-7210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-84570-4_3.pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Philosophy and History of Science",
+        "Philosophical and Theoretical Analysis"
+      ],
+      "referenced_works_count": 79,
+      "url": "https://openalex.org/W4200351917"
+    },
+    {
+      "openalex_id": "W1988333718",
+      "doi": "10.5901/mjss.2014.v5n4p681",
+      "title": "Historical and Sociological Origins of Sustainability as a Cultural Process",
+      "authors": [
+        {
+          "name": "Gianluca Senatore",
+          "openalex_id": "A5068968026",
+          "orcid": "https://orcid.org/0000-0003-2318-0908",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-01",
+      "abstract": "This paper aims to highlight the close connection existing between the main leading scholars, those considered the contemporary theorists of environmentalism and ecologism and some groups and movements that developed in Russia in the early twenties.The environmental crisis and its consequences, strongly perceived during the sixties and seventies, have given a strong impetus to sociology, they definitely introduced environmental issues as well as a new case study of environmental problems. Sociological disciplines use to study the relationship between man and nature. This kind of disciplines occurred at the end of the seventies of the last century. Before that time, environmental issues were not underestimated, they, rather, took scientist\u2019s interest. I would demonstrate that during the early twenties, Russia offers scientific studies, theories and relationships that in many cases inspired the majority of Western scholars seen as the leading scholars of an \u201cenvironmental issue\u201d. Moreover, I would demonstrate that there was already a strong perception of the modern meaning of terms such as ecology, nature, environment, crisis, limit risk. Those concepts were used mostly to assume a social and economic development of rational type (sustainable). Clearly many authors, not only sociologists and economists, such as Ludwig von Bertalanffy, Kenneth Boulding, Nicholas Georgescu-Roegen, Riley Dunlap, William Catton and many others, have been influenced by some intellectuals, scientists and environmentalists Russians. The question is not about following a Marxist-ideological path, because it is evident that there is no connection with Marxism stricto sensu. The environmental issue in Russia in fact was strongly put forward in ancient times yet by the scientific community (even the anti-Marxist ones) and continued by some motions trough 1917-1929, at first well seen by the regime. Lenin and Bogdanov where the main protectors of this kind of line. Bogdanov, especially, is a leading figure that contributed with his tektology theory, with his science fiction stories loaded, with deep scientific references, with the role of man in nature, with a fear for the increase in population ,with the recognition of the limits of the resources and of the same nature, 'industrial pollution and more.., he gave a real impetus to the process of cultural sustainability. This process in favor of a natural environment as well as of a sustainable development, is the same process known today. Bogdanov is simply the beginning of a tendance. DOI: 10.5901/mjss.2014.v5n4p681",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Mediterranean Journal of Social Sciences",
+        "type": "journal",
+        "issn": [
+          "2039-2117",
+          "2039-9340"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.richtmann.org/journal/index.php/mjss/article/download/2264/2248"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W1988333718"
+    },
+    {
+      "openalex_id": "W4411778028",
+      "doi": "10.59588/2243-7851.1154",
+      "title": "Mapagpalayang Pagbabago: Anibersaryo ng 1917 Bolshevik Revolution at ang Pambansang Demokratikong Himagsikan ng Sambayanang Filipino",
+      "authors": [
+        {
+          "name": "Epifanio San Juan",
+          "openalex_id": "A5118694816"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-30",
+      "abstract": "Sa ika-100 anibersaryo ng 1917 Rebolusyon sa Rusya, lumilitaw na mas mahalaga ang halimbawa ni Lenin sa pagsusuri ng mga problema sa pagbabagong radikal ngayon. Sinubukang sukatin dito sa perspektiba ng teorya\u2019t praktika ng Marxismo-Leninismo ang ilang suliranin ng pambansang himagsikang pagpapatuloy sa 1896 na pakikibaka laban sa kolonyalismong Espanyol at pagtutol sa imperyalismong Amerikano. Hinimay rito ang prinsipyo ng materyalismong historikal kaugnay ng usaping pangkapayapaan. Tinangka ritong talakayin ang ilang isyu tungkol sa tunggalian ng mga uri, tendensiyang anarkista-populista, at diyalektika ng masa\u2019t intelektuwal sa proyektong kontra-hegemonya. Diskursong metakomentaryo ang inadhikang mabuo sa paghahanay ng mga kontradiksiyong pumapaligid sa kasalukuyang yugto ng pakikihamok laban sa marahas na ordeng neoliberalismo, tungo sa demokratiko-pambansang kasarinlan.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Malay Journal",
+        "type": "journal",
+        "issn": [
+          "2243-7851"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1154&context=malay"
+      },
+      "topics": [
+        "Philippine History and Culture",
+        "Asian Culture and Media Studies",
+        "Hong Kong and Taiwan Politics"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4411778028"
+    },
+    {
+      "openalex_id": "W3037779954",
+      "doi": "10.36638/1981-061x.2020.v26.481",
+      "title": "La otra teor\u00eda de la reflexi\u00f3n de Lenin",
+      "authors": [
+        {
+          "name": "Manuel Alejandro Bonilla Bonilla",
+          "openalex_id": "A5017502155",
+          "orcid": "https://orcid.org/0000-0002-2334-9876",
+          "institutions": [
+            "Universidad T\u00e9cnica \"Luis Vargas Torres\""
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-25",
+      "abstract": "Este artigo discute a teoria do reflexo desenvolvida por Lenin em seu confronto com a filosofia hegeliana nos coment\u00e1rios que escreveu a The Science of Logic em 1915. Nesses coment\u00e1rios, Lenin apresenta a reflex\u00e3o no contexto de uma rela\u00e7\u00e3o reflexiva adaptativa entre o movimento da o conhecimento e o movimento da realidade; a din\u00e2mica do conhecimento segue o movimento da realidade e a influencia. Para Lenin desses coment\u00e1rios, a reflex\u00e3o \u00e9 um momento (mental) do processo de objetifica\u00e7\u00e3o humana que transforma a realidade e origina o ser humano.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Verinotio \u2013 Revista on-line de Filosofia e Ci\u00eancias Humanas",
+        "type": "journal",
+        "issn": [
+          "1981-061X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://verinotio.org/sistema/index.php/verinotio/article/download/481/424"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Critical Theory and Philosophy",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W3037779954"
+    },
+    {
+      "openalex_id": "W789409872",
+      "doi": "10.18743/pub.00040068",
+      "title": "The way out invisible insurrections and radical imaginaries in the UK underground 1961-1991",
+      "authors": [
+        {
+          "name": "Kasper Opstrup Frederiksen",
+          "openalex_id": "A5039158713"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "This thesis explores a 'hidden' cultural history of experiments to engineer culture to transform humanity. Through a mixture of ideas drawn from artistic avant-garde movements as well as new social and religious movements, it examines the radical political and hedonist imaginaries of the experimental fringes of the UK Underground. Even though the theatres of operation have changed more than once since 1991 with the rise of the internet and a globalised finance economy, these imaginaries still raise questions that speak directly to the contemporary. My central inquiry examines the relations between collective practices with an explicit agenda of cultural revolution and discourses of direct revolutionary action, cultural guerrilla warfare and patchwork spirituality, all aiming to generate new forms of social life. These expanded practices blurred the lines between inner and outer, the invisible and the material. Four singular concatenations of aesthetics, politics, education and mysticism in the period from 1961 to 1991 are the objects of my examination: the sigma project, London Anti-University, Academy 23 and thee Temple ov Psychick Youth. At the core of these imaginaries is an idea about a new type of 'action university', a communal affair which would improvise a new type of social relation into existence by de-programming and de-conditioning us without any blueprints for the future besides to 'make it happen'. The goal of its production would be to produce new subjectivities, new commons and new social relations, thus realising another world 'in the shell of the old' through simple acts of pooling resources, sharing knowledge and building international channels for the exchange of information. Instead of being turned upside down, the world was to be changed from the inside out. Besides historicising and contextualising parts of the 1960s underground which has been relegated to footnotes, the thesis promotes a reading which is neither solely aesthetic (artistic avant-garde) nor political (revolutionary communism) but argues that those tendencies are dependent upon each other. Instead, the case studies can be fruitfully examined as examples on cultural engineering, speculative techniques for igniting an invisible insurrection with cultural means. Thus, it contributes to a discussion of art, medias, politics and radical education in the contemporary.",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": {
+        "name": "BIROn (Birkbeck, University of London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.bbk.ac.uk/id/eprint/40068/1/PhD%202013%20Kasper%20Opstrup%20Frederiksen%20The%20Way%20Out%20-%20Final.pdf"
+      },
+      "topics": [
+        "Theatre and Performance Studies",
+        "Political and Economic history of UK and US",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W789409872"
+    },
+    {
+      "openalex_id": "W7119014083",
+      "doi": "10.7146/nja.v34i70.163582",
+      "title": "Marxist Aesthetics",
+      "authors": [
+        {
+          "name": "Mikkel Bolt",
+          "openalex_id": "A5122225079"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-12-31",
+      "abstract": "This essay discusses the current status and meaning of Marxist aesthetics. As a somewhat heavy-handed gesture, some might say breast-beating, it attempts to link Marxist aesthetics to the question of revolutionary politics. To achieve this, it examines the relationship between revolutionary strategy and imagination in a previous era discussing a short paragraph in Lenin\u2019s What is to be Done?, in which Lenin refers to Dmitry Pisarev. By comparing Lenin and Pisarev, the essay highlights two contrasting approaches within revolutionary Marxism, characterised by two divergent conceptions of art. Nevertheless, both sought to relate art to revolutionary politics. The essay ends by asking whether this is possible today, and, if not what this means for the project of Marxist aesthetics \u2013 does it even exist?",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "The Nordic Journal of Aesthetics",
+        "type": "journal",
+        "issn": [
+          "2000-1452",
+          "2000-9607"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://tidsskrift.dk/nja/article/download/163582/205081"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7119014083"
+    },
+    {
+      "openalex_id": "W4391084583",
+      "doi": "10.1162/grey_a_00374",
+      "title": "Plan and Council: Genealogies of Calculation, Organization, and Transvaluation",
+      "authors": [
+        {
+          "name": "S. L\u00fctticken",
+          "openalex_id": "A5018267646",
+          "orcid": "https://orcid.org/0000-0002-5636-7018"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "April 01 2023 Plan and Council: Genealogies of Calculation, Organization, and Transvaluation Sven L\u00fctticken Sven L\u00fctticken Sven L\u00fctticken is Associate Professor at Leiden University's Academy of Creative and Performing Arts and he coordinates the research master's program Critical Studies in Art and Culture at the Vrije Universiteit Amsterdam. Recent publications include the edited anthology Art and Autonomy: A Critical Reader (Afterall, 2022) and Objections: Forms of Abstraction, Volume 1 (Sternberg Press, 2022). Search for other works by this author on: This Site Google Scholar Author and Article Information Sven L\u00fctticken Sven L\u00fctticken is Associate Professor at Leiden University's Academy of Creative and Performing Arts and he coordinates the research master's program Critical Studies in Art and Culture at the Vrije Universiteit Amsterdam. Recent publications include the edited anthology Art and Autonomy: A Critical Reader (Afterall, 2022) and Objections: Forms of Abstraction, Volume 1 (Sternberg Press, 2022). Online ISSN: 1536-0105 Print ISSN: 1526-3819 \u00a9 2023 Grey Room, Inc. and the Massachusetts Institute of Technology.2023Grey Room, Inc. and the Massachusetts Institute of Technology. Grey Room (2023) (91): 92\u2013127. https://doi.org/10.1162/grey_a_00374 Cite Icon Cite Permissions Share Icon Share Facebook Twitter LinkedIn Email Views Icon Views Article contents Figures & tables Video Audio Supplementary Data Peer Review Search Site Citation Sven L\u00fctticken; Plan and Council: Genealogies of Calculation, Organization, and Transvaluation. Grey Room 2023; (91): 92\u2013127. doi: https://doi.org/10.1162/grey_a_00374 Download citation file: Ris (Zotero) Reference Manager EasyBib Bookends Mendeley Papers EndNote RefWorks BibTex toolbar search Search Dropdown Menu toolbar search search input Search input auto suggest filter your search All ContentAll JournalsGrey Room Search Advanced Search This content is only available as a PDF. \u00a9 2023 Grey Room, Inc. and the Massachusetts Institute of Technology.2023Grey Room, Inc. and the Massachusetts Institute of Technology. Article PDF first page preview Close Modal You do not currently have access to this content.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Grey Room",
+        "type": "journal",
+        "issn": [
+          "1526-3819",
+          "1536-0105"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.vu.nl/en/publications/6ba1d322-6835-478f-9683-17ae885c68c2"
+      },
+      "topics": [
+        "Slime Mold and Myxomycetes Research"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W4391084583"
+    },
+    {
+      "openalex_id": "W4415359131",
+      "doi": "10.1080/03017605.2025.2554034",
+      "title": "\u2018Cornelius Castoriadis and Marxism\u2019",
+      "authors": [
+        {
+          "name": "Anthony Burns",
+          "openalex_id": "A5060533361",
+          "orcid": "https://orcid.org/0000-0003-2259-499X"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-07-03",
+      "abstract": "In this paper I examine what Cornelius Castoriadis (1922\u20131997) has to say about Marx and Marxism. Castoriadis was throughout the post-War period, for three decades, a Marxist, albeit of an unorthodox or heterodox kind. However, after 1968, he claimed to have broken completely with Marxism and to have developed an alternative theoretical approach of his own, associated with his Autonomy Project. In this later period he argues that Marx's ideas have become irrelevant and have no contribution to make to addressing the problems of today. My article engages critically with that view. I argue not only that a number of Marx's ideas continue to be relevant today, but also that the views of the later Castoriadis himself rely heavily on them. Ultimately, therefore Castoriadis's attempt to break completely with Marxism is unsuccessful.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03017605.2025.2554034?needAccess=true"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4415359131"
+    },
+    {
+      "openalex_id": "W2004791748",
+      "doi": "10.1163/156920607x225951",
+      "title": "Weltmarkt und Imperialismus: Zur Entstehungsgeschichte der klassischen marxistischen Imperialismustheorie",
+      "authors": [
+        {
+          "name": "Daniel Gaido",
+          "openalex_id": "A5041499129",
+          "orcid": "https://orcid.org/0000-0001-9660-4834"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Historical Materialism",
+        "type": "journal",
+        "issn": [
+          "1465-4466",
+          "1569-206X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/hima/15/3/article-p242_13.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic and Social Issues",
+        "Global Economic and Social Development"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2004791748"
+    },
+    {
+      "openalex_id": "W3112091931",
+      "doi": "10.19090/arhe.2020.33.27-63",
+      "title": "KAKO JE PANEKUK TRI PUTA POSTAO OTPADNIK",
+      "authors": [
+        {
+          "name": "Lev Kreft",
+          "openalex_id": "A5020710198",
+          "institutions": [
+            "Institut za filozofiju"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-05",
+      "abstract": "Cilj istra\u017eivanja bio je prou\u010davanje Panekukove delatnosti i tekstova kao izvora obave\u0161tenja o kretanju kroz istoriju revolucionarnog pokreta i marksisti\u010dke teorije. U ovom \u010dlanku to je kretanje svedeno na tri raskola: izme\u0111u revizionizma i ortodoksije, izme\u0111u reformizma i revolucije, i izme\u0111u dr\u017eavnog komunizma i komunizma saveta. Time smo ostavili sa strane prvi sukob izme\u0111u anarhizma i Marksa odnosno marksizma, jer su anarhisti prvi isklju\u010deni, pa taj raskol Panekuk nije obilato komentirao. Zaklju\u010dak je da raskol izme\u0111u dr\u017eavnog komunizma i komunizma saveta jeste izgubljena karika podele na zapadni i isto\u010dni marksizam koja izvire iz sukoba oko strategije i taktike u komunisti\u010dkoj Internacionali (1920-1922) sve dok se nije u Levi\u010darstvu \u2013 De\u010djoj bolesti komunizma u\u010dvrstio Lenjinov strate\u0161ki i takti\u010dki pravac protiv svih koji su se protivili parlamentarnoj i sindikalnoj strategiji kao jedinom komunisti\u010dkom revolucionarnom anga\u017emanu. Panekuk se protivio tom ishodu sav svoj preostali teoretski i aktivisti\u010dki \u017eivot. Najvi\u0161u mogu\u0107u ta\u010dku razumevanja sa svoje ta\u010dke gledi\u0161ta postigao je u knjigama Lenjin kao filozof (1938) i Radni\u010dki saveti (1941-1947). Kada je na kraju uspostavio kontakt sa grupom Socijalizam ili varvarstvo Kornelijusa Kastorijadisa i Kloda Lefora 1953. godine, objasnio je svoje gledi\u0161te novim generacijama revolucionara i marksisti\u010dkih teoreti\u010dara kroz dopisivanje sa Kornelisuom Kastorijadisom. Konflikt i njegove razorne posledice daleko su od toga da pripadaju pro\u0161losti. U na\u0161e vreme, ozna\u010deno sa raznih strana kao prelazak u postkapitalizam, on se javlja ponovo, ovaj put na globalnoj razini.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "ARHE",
+        "type": "journal",
+        "issn": [
+          "1820-0958",
+          "1821-4940",
+          "2560-5593"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://arhe.ff.uns.ac.rs/index.php/arhe/article/download/2290/2303"
+      },
+      "topics": [
+        "Balkan and Eastern European Studies"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W3112091931"
+    },
+    {
+      "openalex_id": "W3046810422",
+      "doi": null,
+      "title": "Party and Strategy in Postwar European Marxist Theory",
+      "authors": [
+        {
+          "name": "Asad Haider",
+          "openalex_id": "A5082863178"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Unlike other terms in the discourse of social movements \u00e2\u0080\u0093 power, democracy, citizenship \u00e2\u0080\u0093 \u00e2\u0080\u009corganization\u00e2\u0080\u009d is rarely granted the status of a philosophical concept. My dissertation seeks to trace an underground current of political theory that focuses on the issue of organization, by examining certain aspects of the European Marxist debates over the party form and revolutionary strategy in the 1960s and 1970s. I focus on the development of Marxist philosophy in France and Italy by situating it not only in the debates over Communist Party strategy, but also in relation to the formation of new organizations that challenged the parties\u00e2\u0080\u0099 hegemony.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/0ng3q7j0"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3046810422"
+    }
+  ],
+  "count": 13,
+  "errors": []
+}

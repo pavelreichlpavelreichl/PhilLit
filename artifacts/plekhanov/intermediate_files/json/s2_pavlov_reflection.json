@@ -1,0 +1,101 @@
+[s2_search.py] Searching Semantic Scholar: 'Todor Pavlov theory of reflection Plekhanov', limit=20
+[s2_search.py] Retrieved 4/4 papers...
+[s2_search.py] Search complete: 4 papers found
+[s2_search.py] Cached results (cache key: s2_0b2706bc15db954f)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Todor Pavlov theory of reflection Plekhanov",
+  "results": [
+    {
+      "paperId": "db49046bb04c532303a697b694908afc3753514f",
+      "title": "Subverting the Theory of Reflection: Modernism against \u201cModern Realism\u201d",
+      "authors": [
+        {
+          "name": "Kamelia Spassova",
+          "authorId": "1506771895"
+        }
+      ],
+      "year": 2019,
+      "abstract": "The precepts of Bulgarian Stalinist philosopher Todor Pavlov\u2019s internationally recognized Theory of Reflection held almost absolute sway in Bulgaria reducing to silence other views on aesthetics, including those of Marxists such as Luk\u00e1cs and Adorno. In the early 1960s a young assistant professor, Isaac Passy, challenged those precepts in a forceful and hazardous confrontation with Pavlov\u2019s authority. The article explores the theoretical and political stakes of the clash.",
+      "citationCount": 4,
+      "doi": "10.1086/704853",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/db49046bb04c532303a697b694908afc3753514f",
+      "venue": "History of Humanities",
+      "journal": {
+        "name": "History of Humanities",
+        "pages": "357 - 364",
+        "volume": "4"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "4c4ecf23949e69ba680f0c1125201acffefb8a42",
+      "title": "Lifshits\u2019 ontognoseology as a version of Lenin\u2019s theory of reflection",
+      "authors": [
+        {
+          "name": "E. Mareeva",
+          "authorId": "84590454"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1007/S11212-016-9265-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4c4ecf23949e69ba680f0c1125201acffefb8a42",
+      "venue": "",
+      "journal": {
+        "name": "Studies in East European Thought",
+        "pages": "295-305",
+        "volume": "68"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9b8f77dc0a6e6697d89e7e3eaed27365a9540824",
+      "title": "Lifshits\u2019 ontognoseology as a version of Lenin\u2019s theory of reflection",
+      "authors": [
+        {
+          "name": "E. Mareeva",
+          "authorId": "84590454"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11212-016-9265-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9b8f77dc0a6e6697d89e7e3eaed27365a9540824",
+      "venue": "Studies in East European thought",
+      "journal": {
+        "name": "Studies in East European Thought",
+        "pages": "295 - 305",
+        "volume": "68"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b30608fd32ea80c2b61f2af73e49c02465621cb9",
+      "title": "AESTHETICAL VIEWS OF VOJISLAV VU (cid:253) KOVI (cid:251) IN THE LIGHT OF THEORY OF REFLECTION AND CRITICAL THEORY",
+      "authors": [
+        {
+          "name": "Milan Milojkovi",
+          "authorId": "2180357476"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b30608fd32ea80c2b61f2af73e49c02465621cb9",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    }
+  ],
+  "count": 4,
+  "errors": []
+}
