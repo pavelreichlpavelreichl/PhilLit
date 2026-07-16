@@ -1,0 +1,85 @@
+[s2_search.py] Searching Semantic Scholar: 'Kellogg Plekhanov authoritarian Russian socialism', limit=20
+[s2_search.py] Retrieved 3/3 papers...
+[s2_search.py] Search complete: 3 papers found
+[s2_search.py] Cached results (cache key: s2_d0308cdd67e13770)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Kellogg Plekhanov authoritarian Russian socialism",
+  "results": [
+    {
+      "paperId": "0f53f8cec7d3101ea0aec79281f96cca469abb82",
+      "title": "Plekhanov: The Father of Authoritarian Russian Socialism",
+      "authors": [
+        {
+          "name": "Michael Kellogg",
+          "authorId": "115695170"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0f53f8cec7d3101ea0aec79281f96cca469abb82",
+      "venue": "",
+      "journal": {
+        "name": "UCLA Historical Journal",
+        "volume": "19"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1cbd90a216a1e0b7b2f1b7d2cdc6377c539bf51c",
+      "title": "Plekhanov : The Father of Authoritarian Russian Socialism",
+      "authors": [
+        {
+          "name": "S. Baron",
+          "authorId": "145603803"
+        },
+        {
+          "name": "Y. Crowell",
+          "authorId": "1859549490"
+        },
+        {
+          "name": "I. Berlin",
+          "authorId": "73725260"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1cbd90a216a1e0b7b2f1b7d2cdc6377c539bf51c",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c94abb8a7271df9018abd978e83bc03257cbd5e8",
+      "title": "Russian Anarchism and the Bolshevization of Bakunin in the Early Soviet Period",
+      "authors": [
+        {
+          "name": "J. Goodwin",
+          "authorId": "2054888262"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1353/KRI.2007.0035",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c94abb8a7271df9018abd978e83bc03257cbd5e8",
+      "venue": "",
+      "journal": {
+        "name": "Kritika: Explorations in Russian and Eurasian History",
+        "pages": "533 - 560",
+        "volume": "8"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

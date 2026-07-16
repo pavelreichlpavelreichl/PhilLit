@@ -15,7 +15,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
-- [ ] Phase 3: Research domains (sequential)
+- [x] Phase 3: Research domains (sequential)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequential)
 - [ ] Phase 6: Assemble final review files
@@ -29,12 +29,14 @@
 [2026-07-16] Phase 3, Domain 3/6: domain-literature-researcher (Sonnet) produced literature-domain-3.bib — 11 entries (Aesthetics and Sociological Theory of Art). CORE/OpenAlex thin on play-theory sub-topic (noted gap); one mismatched NDPR abstract caught and corrected during QC.
 [2026-07-16] Phase 3, Domain 4/6: domain-literature-researcher (Sonnet) produced literature-domain-4.bib — 10 entries (Political Thought and Trajectory: Menshevism, 1903 split, WWI defencism). No dedicated SEP/IEP entries on Menshevism/RSDLP split (gap noted); CORE no hits.
 [2026-07-16] Phase 3, Domain 5/6: domain-literature-researcher (Sonnet) produced literature-domain-5.bib — 14 entries (Influence and Intellectual Relations: Lenin, Soviet diamat, Labriola, Western Marxism). CORE rate-limited for some queries; excluded one unverifiable citation (no DOI/venue/abstract) and one retracted paper per citation-integrity rules.
+[2026-07-16] Phase 3, Domain 6/6: domain-literature-researcher (Sonnet) produced literature-domain-6.bib — 14 entries (Historiographical/Marxology debates). NDPR no results (predates coverage); no dedicated SEP/IEP entry on Plekhanov; excluded one unverifiable lead; stripped two publisher-boilerplate "abstracts".
+Phase 3 COMPLETE: all 6 domain bibliographies produced (raw totals 19+18+12+11+15+15 entries across files, pre-dedup).
 
 ## Current Task
 
-Phase 3: domain-literature-researcher (Sonnet), sequential, domain 6 of 6 (Historiographical and Scholarly Debates / Marxology) — final domain
+Starting Phase 4: synthesis-planner (Opus) to design the review outline
 
 ## Next Steps
 
-1. Run domain-literature-researcher for domain 6 (Sonnet), commit+push
-2. Phase 4: synthesis-planner (Opus)
+1. Invoke synthesis-planner (Opus) reading all 6 .bib files -> synthesis-outline.md
+2. Commit+push, then Phase 5 (synthesis-writer, Sonnet, sequential per section)

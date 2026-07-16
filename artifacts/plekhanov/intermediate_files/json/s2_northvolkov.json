@@ -1,11 +1,11 @@
-[s2_search.py] Searching Semantic Scholar: 'David North Vladimir Volkov Plekhanov place in history Marxism', limit=20
-[s2_search.py] Retrieved 1/1 papers...
-[s2_search.py] Search complete: 1 papers found
-[s2_search.py] Cached results (cache key: s2_4909dcb4ada65450)
+[s2_search.py] Searching Semantic Scholar: 'David North Volkov Plekhanov place history Marxism', limit=20
+[s2_search.py] Retrieved 8/8 papers...
+[s2_search.py] Search complete: 8 papers found
+[s2_search.py] Cached results (cache key: s2_9c21f26fbf7b9ecc)
 {
   "status": "success",
   "source": "semantic_scholar",
-  "query": "David North Vladimir Volkov Plekhanov place in history Marxism",
+  "query": "David North Volkov Plekhanov place history Marxism",
   "results": [
     {
       "paperId": "eeb48eb6bcbe75031d31c67f797bfd5e88dfc088",
@@ -29,8 +29,168 @@
       "venue": "",
       "journal": null,
       "publicationTypes": null
+    },
+    {
+      "paperId": "6d07c0c58f0ad4aba8875336b23d3e3d4414567b",
+      "title": "Leon Trotsky and the Struggle for Socialism in the Twenty-First Century",
+      "authors": [
+        {
+          "name": "D. North",
+          "authorId": "145090287"
+        }
+      ],
+      "year": 2023,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6d07c0c58f0ad4aba8875336b23d3e3d4414567b",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2c88c4c3627d584edf8fa7e7df308b13c06fc210",
+      "title": "The Origins of Pabloite Revisionism, the Split Within the Fourth International and the Founding of the International Committee",
+      "authors": [
+        {
+          "name": "J. Kishore",
+          "authorId": "2183609373"
+        }
+      ],
+      "year": 2023,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2c88c4c3627d584edf8fa7e7df308b13c06fc210",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "773018c9e4dde41043458a253ce000e8396bfd72",
+      "title": "Marx, Marxism and Human Rights",
+      "authors": [
+        {
+          "name": "David Fasenfest",
+          "authorId": "116673528"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.1177/0896920516645720",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/773018c9e4dde41043458a253ce000e8396bfd72",
+      "venue": "",
+      "journal": {
+        "name": "Critical Sociology",
+        "pages": "777 - 779",
+        "volume": "42"
+      },
+      "publicationTypes": [
+        "Editorial"
+      ]
+    },
+    {
+      "paperId": "d4fb2703562ec6486aee400dd5f18b44d397e32b",
+      "title": "A companion to contemporary art since 1945",
+      "authors": [
+        {
+          "name": "Amelia Jones",
+          "authorId": "48020770"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 27,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d4fb2703562ec6486aee400dd5f18b44d397e32b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "32495470874ae3d48dc0cb546016f732a6893965",
+      "title": "Essay Review: Good Companions, Companion Encyclopedia of the History of Medicine",
+      "authors": [
+        {
+          "name": "C. Lawrence",
+          "authorId": "144886568"
+        }
+      ],
+      "year": 1995,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1177/007327539503300104",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/32495470874ae3d48dc0cb546016f732a6893965",
+      "venue": "",
+      "journal": {
+        "name": "History of Science",
+        "pages": "105 - 109",
+        "volume": "33"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "ef67a2721ad00b384ef9ec4b571c433ae5460eb6",
+      "title": "The Fate of Marxism in Russia. By Alexander Yakovlev. Trans. Catherine A. Fitzpatrick. New Haven: Yale University Press, 1993. xxi, 250 pp. Index. $29.95, hard bound.",
+      "authors": [
+        {
+          "name": "J. Moses",
+          "authorId": "145885839"
+        }
+      ],
+      "year": 1995,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2307/2501187",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ef67a2721ad00b384ef9ec4b571c433ae5460eb6",
+      "venue": "Slavic Review: Interdisciplinary Quarterly of Russian, Eurasian, and East European Studies",
+      "journal": {
+        "name": "Slavic Review",
+        "pages": "205 - 206",
+        "volume": "54"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "55a7e6133907195849a7f8e317cb3e45dee10954",
+      "title": "Thought-Provoking Books",
+      "authors": [
+        {
+          "name": "I. Demyanenko",
+          "authorId": "5490994"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Thought Provoking Books FREE DOWNLOAD THOUGHT PROVOKING BOOKS When writing can change your life, when writing can enrich you by offering much money, why don't you try it? Are you still very confused of where getting the ideas? Do you still have no idea with what you are going to write? Now, you will need reading. A good writer is a good reader at once. You can define how you write depending on what books to read. This thought provoking books can help you to solve the problem. It can be one of the right sources to develop your writing skill. It is not secret when connecting the writing skills to reading. Reading will make you get more sources and resources. It is a way that can improve how you overlook and understand the life. By reading this thought provoking books, you can more than what you get from other book. This is a well-known book that is published from famous publisher. Seen form the author, it can be trusted that this book will give many inspirations, about the life and experience and everything inside. You may not need to be doubt about this thought provoking books. It is not difficult way to get this book. You can just visit the set with the link that we provide. Here, you can purchase the book by on-line. By downloading, you can find the soft file of this book. This is the exact time for you to start reading. Even this is not printed book it will precisely give more benefits. Why? You may not bring the printed book or only pile the book in your house or the office. You can finely add the soft file to the gadget or every computer unit in your office or home. It will help you to always continue reading every time you have spare time. This is why, reading this thought provoking books doesn't give you problems. It will give you important sources for you who want to start writing, writing about the similar book are different book field. Get Another Ebooks Related With Thought Provoking Books That Can Be Interesting on You : make analog synthesizers management van processen medical terminology book mcgraw hill math grade 1 mccormack on negotiating maverick m210 user guide masterpiece of the month maurin maures french m y market research handbook magic charms from a to z makkum gemeentegids 1982 manual gol g3 volkswagen man destiny bernard shaw manuscript paper 8 stave meditations of the heart marinero por los caminos malibu images of america manual do carburador h30 maple manual precalculus mathemagic number tricks math for soil scientists marmiton cuisine de fete me and my sewing machine marketinggids voor belgi mastering the nikon d750 marty mcguire digs worms making the modern garden mama ingin hamil benihku mahatma of new york city manitowoc service manual mbamission insider guide mastering excel ms query mary mary quite contrary magnificently millennial meant to wake up feeling marnie the dog im a book mask lies hardman dianne mark mothersbaugh myopia maze agency volume 1 v 1 marcello the movie mouse math foundations grade k mazda 3 evaporator drain madame maigrets own case mattenpoesie susa brandt man its whats for dinner margreet vervult de wens mastercam mill tutorials make your own comic book man who loved north wind mba en diez dias conecta mastering manga studio 5 man and sea planet ocean marmion sir walter scott mastered boss opal carew mariquita malhumorada la medizin fr heilpraktiker making poverty a history me querras en 11 semanas magnolia bakery cookbook mala vida marc fernandez massage envy intake form max beerbohm caricatures masochism a jungian view mastering the nikon d810 managing time on purpose marlene de autobiografie macroeconomics for today make pdf fillable online manuel pratique dandelot marine blue t4 ai yazawa medically assisted death manga sekaiichi hatsukoi me tante op een houtvlot masonic emulation ritual massey 750 repair manual martin 214 december 1975 marble handicraft london mchale f550 baler manual managing an organization marching to zion a novel maximum ride manga vol 9 marketing charles w lamb me and that asperger kid married men on the loose mast gand chut photo com meditations for new moms mad een nummer van stand marcella hazan cookbooks making a family cookbook makalah biologi umum pdf make your own mandelbrot matlab attaway solutions manuel danatomie humaine maid in heaven yaoi deux mary the mother of jesus malabar sonadores xplora marathi chavat katha pdf marriage is like dancing madeline and the gypsies mack ch613 owners manual making an archtop guitar mazeppa lord byron ebook mcmi iii test manual pdf manual biblico de hunger meditaties over johannes marxism and human nature manual for brother vx847 mark of the dragon queen mary jones and her bible mallorca 2016 h w schawe man m sste mehr ans meer manhood the longest moan malais express collectif maman dit que cest faute mechanisms of perception mcteague signet classics mark twain and the river marjolein bastin dagboek matu chin in myanmar pdf marathi pranay katha pdf make my day rome anglais maserati a6g 2000 zagato martial arts for dummies mark one midway volume 1 mastercam gear tutorials mastering the nikon d800 maese perez el organista mazak t32 program manual manual fabia azq gasirbj mantak chia pdf francais marlys choice lora leigh march bam kero collectif manga the complete guide manual honda supra 100cc matter early bird energy math discovering careers meditatie stap voor stap mastering the nikon d700 mathematical impressions manifiesto neolibertario marin county booking log make your own book cover marriage cards ka matter magellan gps 2000 manual magic words a dictionary madam secretary a memoir marx biografische schets meditation for beginners mealtime high chair book mama logra tus objetivos meant love question book mcgraw hill math grade 3 masonic ritual idaho pdf maverick guide to hawaii magruder s 2007 american magyka the fifth element mack truck repair manual meaning of rnmobligation medicine in the old west malicious intent a novel marx train repair manual mary renault a biography management communication mass of light david haas madeline and the bad hat man 8 163 service manual marine community ecology mandalas a coloring book mathmatters 3 answer key martsje lit it net sitte mastering apple aperture macroeconomics barro pdf marlieske op de meihorst masquerade ninas revenge marjoleintje op vlieland medallion cabinetry spec marie godwin so hee park meat a kitchen education making your own cookbook mago terrenal onira no 1 may day krewe of hunters mazda cx 5 repair manual masks ordinary champions math jokes 4 mathy folks managing human resources mama no me dejes spanish master world jules verne many wests place culture manual iveco trakker 440 marathi chawat katha new maths et arts plastiques make your own board book map testing score ranges marruecos guias visuales magrada llibres sorpresa marcel mauss a biography math for marines answers malled a tale of revenge mariska de circusprinses make pdf editable online mailer his life en times manual engines 2r toyota madly the potion diaries making of hunting decoys make your own plush pals map of bones sigma force mary martins needlepoint madrid oculto para ninos md21a volvo penta manual mary poppins from a to z magic shifts read online mary poppins book series malvino solutions manual maroon angela pe?redondo manual of freediving pdf magnum 50 scooter manual me llamo galileo galilei maze beast deltora quest malibu boat manual wedge me and the pumpkin queen mark ryden the tree show managing church conflict making money by speaking medallion god jean ebook making rounds with oscar medicine woman set tarot marxism and christianity machomusiq video web com make me lee child sample maries 100 day diary lee medieval mind i ii ebook mechademia 4 war or time malomat an wedding night max s words story online marathi status nasik com meditacion b de bolsillo make in a weekend shawls man god and civilization meditations on the cross man of the year volume 1 making elberton enigma 1 married to a married man mcgraw hill quiz answers madame midas fergus hume me a book of remembrance mastering the nikon d600 manga love story band 59 meditation and the bible magic bites kate daniels margos spuren john green th ou gh pr v ki ng bo o s",
+      "citationCount": 0,
+      "doi": "10.21557/iaf.62138378",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/55a7e6133907195849a7f8e317cb3e45dee10954",
+      "venue": "",
+      "journal": {
+        "name": "International Affairs",
+        "pages": "295-297",
+        "volume": "66"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
     }
   ],
-  "count": 1,
+  "count": 8,
   "errors": []
 }

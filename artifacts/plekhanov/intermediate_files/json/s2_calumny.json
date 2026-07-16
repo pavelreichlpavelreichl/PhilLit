@@ -1,0 +1,37 @@
+[s2_search.py] Searching Semantic Scholar: 'Sockol Calumny Fetishism vulgar Marxism', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_3a1c286f8f41592d)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Sockol Calumny Fetishism vulgar Marxism",
+  "results": [
+    {
+      "paperId": "e18052136f88c3cd2b093aac6457b077e41d753b",
+      "title": "Calumny Fetishism: The Origins and Obscurantism of the Concept of \u201cVulgar Marxism\u201d",
+      "authors": [
+        {
+          "name": "David Sockol",
+          "authorId": "114716839"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e18052136f88c3cd2b093aac6457b077e41d753b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

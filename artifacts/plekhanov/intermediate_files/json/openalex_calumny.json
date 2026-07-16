@@ -1,0 +1,47 @@
+[search_openalex.py] Searching OpenAlex: 'Calumny Fetishism vulgar Marxism', limit=25
+[search_openalex.py] Retrieved 1 papers...
+[search_openalex.py] Search complete: 1 papers found
+[search_openalex.py] Cached results (cache key: openalex_4583c9f91686a542)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Calumny Fetishism vulgar Marxism",
+  "results": [
+    {
+      "openalex_id": "W3094979725",
+      "doi": null,
+      "title": "Rights Discourse and Economic Domination: Thinking Beyond the Narrow Horizon of Liberal Justice",
+      "authors": [
+        {
+          "name": "Igor Shoikhedbrod",
+          "openalex_id": "A5001309039",
+          "orcid": "https://orcid.org/0000-0002-1597-5121"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-01",
+      "abstract": "This dissertation offers a theoretical reconstruction of Karl Marx\u2019s materialist conception of right through a re-examination of his critique of liberalism. The liberal conception of justice regards individuals as equal rights-bearers in abstraction from material circumstances and asymmetries of economic power. The dominant interpretation among leading Marxist and Anglo-American political theorists is that Marx\u2019s critique of liberalism culminates with the \u201cwithering away\u201d of right and rights in post-capitalist society. Explanations for this view have been framed around the postulation that communist society transcends the \u201ccircumstances of justice,\u201d and that the end of class domination would pave the way for the disappearance of juridical relations. The first part of the dissertation questions this longstanding interpretation by reconstructing Marx\u2019s materialist conception of right. The central thesis of the dissertation is that Marx regards right as an essential feature of any mode of production, including the future communist society, and that standards of right undergo transformation throughout history. The historical expansion of human freedom also provides Marx with a normative basis for assessing between higher and lower standards of right across different modes of production. The second part of the dissertation tracks the enduring legacy of Marx\u2019s critique of liberal justice by examining how leading contemporary political theorists have responded to Marx\u2019s challenge in the face of global financial capitalism and the hollowing out of democratically-enacted law. The dissertation also reconsiders the relationship between Marxism and the idea of the rule of law in the current era of neoliberal hegemony. Taken together, the dissertation aims at reconstructing Marx\u2019s views on right and rights in ways that resonate with ongoing debates in political theory and the broader public sphere.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "TSpace (University of Toronto)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://utoronto.scholaris.ca/bitstreams/c32fbd16-8066-4ece-a07d-22cbdea87b51/download"
+      },
+      "topics": [
+        "Political Philosophy and Ethics",
+        "Political Economy and Marxism",
+        "Legal and Social Philosophy"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W3094979725"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

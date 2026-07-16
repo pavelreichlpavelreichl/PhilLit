@@ -1,0 +1,122 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Father Authoritarian Russian Socialism Kellogg', limit=25
+[search_openalex.py] Retrieved 3 papers...
+[search_openalex.py] Search complete: 3 papers found
+[search_openalex.py] Cached results (cache key: openalex_6fe3f301747b988d)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Father Authoritarian Russian Socialism Kellogg",
+  "results": [
+    {
+      "openalex_id": "W4395960307",
+      "doi": "10.17161/jras.v7i2.21430",
+      "title": "Under the Influence: A Sectarian Railway Worker, the Bolsheviks, and the 1905 Russian Revolution",
+      "authors": [
+        {
+          "name": "Susan Schibanoff",
+          "openalex_id": "A5070008841"
+        },
+        {
+          "name": "James M. Schibanoff",
+          "openalex_id": "A5002706420"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-03",
+      "abstract": "Of Moldovan-Ukrainian heritage, Hariton Czebanov (1886-1962) was administratively exiled with his family to Transcaucasia in 1892 as a religious dissenter (Stundist). Barred from an education, he went to work on the Transcaucasian Railway and joined the Bolshevik Party in protest of his discriminatory treatment. After the 1905 revolution, the party demanded increasingly criminal activity from him; Czebanov took part in robberies and terror attacks (\u201cexpropriation\u201d) to fund the party intelligentsia in exile. He was jailed by the tsarist police several times. In 1907, out on bail and facing a sentence of \u201ckatorga\u201d (penal servitude), Czebanov could no longer support the \u201cmuddy wave\u201d of violence sweeping over the party. He stowed away on a steamer in Poti on the Black Sea and, three months later, arrived at Ellis Island. Once admitted to the U.S., Czebanov wrote a series of three letters detailing his dramatic passage to freedom. The article includes a translation of these detailed letters.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Russian American Studies",
+        "type": "journal",
+        "issn": [
+          "2473-7348"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://dx.doi.org/10.17161/jras.v7i2.21430"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Historical and Contemporary Political Dynamics"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W4395960307"
+    },
+    {
+      "openalex_id": "W2915840671",
+      "doi": "10.5040/9781350058767.0020",
+      "title": "The Search for Authenticity and Singularity in European National History Writing: 1800 to the Present",
+      "authors": [
+        {
+          "name": "Stefan Berger",
+          "openalex_id": "A5073346023",
+          "orcid": "https://orcid.org/0000-0002-0461-2640"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.bloomsburycollections.com/book/roman-law-and-the-idea-of-europe/ch13-the-search-for-authenticity-and-singularity-in-european-national-history-writing-1800-to-the-present.pdf?dl"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2915840671"
+    },
+    {
+      "openalex_id": "W2745182505",
+      "doi": "10.26512/ripe.v2i35.21430",
+      "title": "UM MODELO DE CONTATO S\u00d3LIDO-S\u00d3LIDO PARA O M\u00c9TODO DE PART\u00cdCULAS MOVING PARTICLE SIMULATION",
+      "authors": [
+        {
+          "name": "Pedro Henrique Saggioratto Osello",
+          "openalex_id": "A5079618491"
+        },
+        {
+          "name": "Liang\u2010Yee Cheng",
+          "openalex_id": "A5048151405",
+          "orcid": "https://orcid.org/0000-0003-1719-7463"
+        },
+        {
+          "name": "Rubens Augusto Amaro",
+          "openalex_id": "A5066359159",
+          "orcid": "https://orcid.org/0000-0003-1568-5447"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-22",
+      "abstract": "Problemas de intera\u00e7\u00e3o flu\u00eddo-estrutura com presen\u00e7a de superf\u00edcie livre e s\u00f3lidos livres para deslocar s\u00e3o fen\u00f4menos hidrodin\u00e2micos altamente n\u00e3o lineares e de elevada complexidade, que trazem grandes desafios para a modelagem e simula\u00e7\u00e3o computacional. Nos casos de contato ou colis\u00e3o entre s\u00f3lidos, normalmente \u00e9 necess\u00e1rio realizar algum tratamento espec\u00edfico para impedir a penetra\u00e7\u00e3o entre corpos. Nesse contexto, o objetivo deste trabalho \u00e9 contribuir para o desenvolvimento de uma t\u00e9cnica de simula\u00e7\u00e3o dos fen\u00f4menos hidr\u00e1ulicos e costeiros que envolvem a intera\u00e7\u00e3o entre flu\u00eddos e s\u00f3lidos apresentando um modelo de contato s\u00f3lido-s\u00f3lido para o m\u00e9todo Moving Particle Simulation (MPS). O MPS \u00e9 um m\u00e9todo baseado na discretiza\u00e7\u00e3o do dom\u00ednio em part\u00edculas, sem utiliza\u00e7\u00e3o de malha, e capaz de modelar geometrias complexas com grandes deslocamentos e deforma\u00e7\u00e3o, incluindo superf\u00edcies livres com fragmenta\u00e7\u00e3o e jun\u00e7\u00e3o de flu\u00eddos e presen\u00e7a de multicorpos. O modelo de contato s\u00f3lido-s\u00f3lido proposto visa estender as funcionalidades do MPS, simplificando for\u00e7as interfaciais por meio de um sistema massa-mola-amortecedor, de forma a reproduzir as propriedades macrosc\u00f3picas da intera\u00e7\u00e3o entre multicorpos. Compara\u00e7\u00f5es entre resultados num\u00e9ricos e anal\u00edticos s\u00e3o realizados para calibra\u00e7\u00e3o de constantes do modelo. O modelo \u00e9 aplicado para um caso de carregamento de s\u00f3lido livre em escoamento com superf\u00edcie livre, e comparado com resultados num\u00e9ricos e experimentais.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Latin American Theatre Review (The University of Kansas)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://journals.ku.edu/jras/article/download/21430/19305"
+      },
+      "topics": [
+        "Fluid Dynamics Simulations and Interactions",
+        "Grouting, Rheology, and Soil Mechanics",
+        "Geotechnical Engineering and Underground Structures"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2745182505"
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

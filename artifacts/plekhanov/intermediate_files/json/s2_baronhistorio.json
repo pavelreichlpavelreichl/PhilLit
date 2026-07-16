@@ -1,0 +1,106 @@
+[s2_search.py] Searching Semantic Scholar: 'Baron Plekhanov historiography resurrection Plekhanovism', limit=20
+[s2_search.py] Rate limited, backing off (attempt 1/5)...
+[s2_search.py] Retrying after 1.1s backoff...
+[s2_search.py] Retrieved 4/4 papers...
+[s2_search.py] Search complete: 4 papers found
+[s2_search.py] Cached results (cache key: s2_b6b165f61abe33d6)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Baron Plekhanov historiography resurrection Plekhanovism",
+  "results": [
+    {
+      "paperId": "7cbff8252e452c8ba512272950d4c37090b71261",
+      "title": "The Resurrection of Plekhanovism in Soviet Historiography",
+      "authors": [
+        {
+          "name": "S. Baron",
+          "authorId": "145603803"
+        }
+      ],
+      "year": 1974,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.2307/128166",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7cbff8252e452c8ba512272950d4c37090b71261",
+      "venue": "",
+      "journal": {
+        "name": "The Russian Review",
+        "pages": "386",
+        "volume": "33"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c49212b55b721602c7a6493b5e6ce9f1941dc313",
+      "title": "Plekhanov in Russian History and Soviet Historiography",
+      "authors": [
+        {
+          "name": "S. Baron",
+          "authorId": "145603803"
+        }
+      ],
+      "year": 1995,
+      "abstract": "Known as \"the father of Russian Marxism\", G.V. Plekhanov (1856-1918) was an outstanding theoretician of prerevolutionary Marxism. Here, Baron brings together a number of Plekhanov's essays, which explore the place of this thinker in the history of the Russian revolutionary movement.",
+      "citationCount": 13,
+      "doi": "10.2307/jj.6380606",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c49212b55b721602c7a6493b5e6ce9f1941dc313",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "446ac0c2b4076b077d515c9bc9427d418e9f4cdd",
+      "title": "Plekhanov in Russian History and Soviet Historiography. By Samuel H. Baron. Pittsburgh: University of Pittsburgh Press, 1995. x, 255 pp. Bibliography. $59.95, hard bound.",
+      "authors": [
+        {
+          "name": "P. Pomper",
+          "authorId": "13607182"
+        }
+      ],
+      "year": 1996,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2307/2501267",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/446ac0c2b4076b077d515c9bc9427d418e9f4cdd",
+      "venue": "Slavic Review: Interdisciplinary Quarterly of Russian, Eurasian, and East European Studies",
+      "journal": {
+        "name": "Slavic Review",
+        "pages": "918 - 919",
+        "volume": "55"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "23a9e37fb47e04b0c5f6273a88288493c5879093",
+      "title": "Plekhanov, Trotsky, and the development of Soviet historiography",
+      "authors": [
+        {
+          "name": "S. Baron",
+          "authorId": "145603803"
+        }
+      ],
+      "year": 1974,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1080/09668137408410960",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/23a9e37fb47e04b0c5f6273a88288493c5879093",
+      "venue": "",
+      "journal": {
+        "name": "Europe-Asia Studies",
+        "pages": "380-395",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 4,
+  "errors": []
+}
