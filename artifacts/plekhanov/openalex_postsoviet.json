@@ -1,0 +1,975 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov reassessment post-Soviet' (year=1990-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_954cb18fa378bede)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov reassessment post-Soviet",
+  "results": [
+    {
+      "openalex_id": "W3173959635",
+      "doi": "10.1007/s11212-021-09412-7",
+      "title": "Reformulation of knowledge: epistemological reading of Soviet Marxism in the post-Soviet times",
+      "authors": [
+        {
+          "name": "Maria Chehonadskih",
+          "openalex_id": "A5075747004",
+          "institutions": [
+            "University of Oxford",
+            "Oxford BioMedica (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-30",
+      "abstract": "Abstract The paper questions an official narrative of Soviet Marxism that had been formulated both by the Bolshevik leaders and the Western European Marxists. It proposes to shift the discussion from a historically constituted understanding of Soviet Marxism as a partisanship of theory to the epistemic conditions of Marxism after the October Revolution. The paper argues that a post-revolutionary Soviet logic assumes that theory should start where Marx ended and that it should act in a Marxist fashion across all conceptual and practical realms. Instead of asking \u2018how\u2019, the Soviet thought returns to the old pre-critical question of \u2018what is\u2019, and reformulates this \u2018what is\u2019 in the Marxist post-critical terms. Constructing a new critical concept of Soviet Marxism, the paper proceeds with the analysis of the post-critical status of knowledge after the revolution and recovers forgotten and repressed epistemological alternatives to orthodox Bolshevism.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-021-09412-7.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W3173959635"
+    },
+    {
+      "openalex_id": "W2620642983",
+      "doi": null,
+      "title": "An examination of the significance of Soviet Socialist Realist art and practice in the Asia Pacific region",
+      "authors": [
+        {
+          "name": "Alison Carroll",
+          "openalex_id": "A5062594983"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Introduction: Western art historical practice and recent Asian art; some alternative ways of thinking.1. Art and politics: Soviet Socialist Realism and art history in the Asia Pacific region.2. Policy and practice: The significance of the new policies and practices created in the Soviet Union in the direction for art in Asia. 1. Political leaders on art 70 2. Arts leaders on politics 77 3. The Soviet practice of art in Asia: organisation 80 4. The Soviet practice of art in Asia: ideological innovations 95 5.The transmission of information from West to East 103 3. The Art: The influence of Soviet Socialist Realism on the art of the Asia Pacific region, 1917-1975.1. Social realism in the Asia Pacific region 114 2. Socialist Realism in the Asia Pacific region 1.Russia and China: (a) Socialist in content 121 Russia and China: (b) Realist in style 131 2. Vietnam 135 3. Japan 140 4. Southeast Asia 141 (a) Malaya/Singapore 141 (b) Indonesia 143 (c) The Philippines 146 2 5. Australia 3. Soviet influence further explored 147 1.Other Soviet art in the Asia Pacific region 147 2. The ideology of egalitarianism 152 4. The contemporary response: the 1970s to recent times.155 1.China (and Vietnam and other Communist states) 2. Indonesia 3. The Philippines (and Thailand and South Korea) 4.",
+      "cited_by_count": 11,
+      "type": "dissertation",
+      "source": {
+        "name": "Minerva Access (University of Melbourne)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11343/129832"
+      },
+      "topics": [
+        "Japanese History and Culture",
+        "Vietnamese History and Culture Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2620642983"
+    },
+    {
+      "openalex_id": "W2049623879",
+      "doi": "10.21435/sfh.12",
+      "title": "Modernisation in Russia since 1900",
+      "authors": [
+        {
+          "name": "Jeremy Smith",
+          "openalex_id": "A5110094462",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Markku Kangaspuro",
+          "openalex_id": "A5012381235",
+          "orcid": "https://orcid.org/0000-0002-5112-4244",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-27",
+      "abstract": "Modernisation has been a constant theme in Russian history at least since Peter the Great launched a series of initiatives aimed at closing the economic, technical and cultural gap between Russia and the more \u2018advanced\u2019 countries of Europe. All of the leaders of the Soviet Union and post-Soviet Russia have been intensely aware of this gap, and have pursued a number of strategies, some more successful than others, in order to modernise the country. But it would be wrong to view modernisation as a unilinear process which was the exclusive preserve of the state. Modernisation has had profound effects on Russian society, and the attitudes of different social groups have been crucial to the success and failure of modernisation. This volume examines the broad theme of modernisation in late imperial, Soviet, and post-Soviet Russia both through general overviews of particular topics, and specific case studies of modernisation projects and their impact. Modernisation is seen not just as an economic policy, but as a cultural and social phenomenon reflected through such diverse themes as ideology, welfare, education, gender relations, transport, political reform, and the Internet. The result is the most up to date and comprehensive survey of modernisation in Russia available, which highlights both one of the perennial problems and the challenges and prospects for contemporary Russia.",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://oa.finlit.fi/site/books/10.21435/sfh.12/download/7745/"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 284,
+      "url": "https://openalex.org/W2049623879"
+    },
+    {
+      "openalex_id": "W2736210711",
+      "doi": "10.17615/02ep-z389",
+      "title": "The Many Flavors of Socialism: Modernity and Tradition in Late Soviet Food Culture, 1965-1985",
+      "authors": [
+        {
+          "name": "Adrianne K. Jacobs",
+          "openalex_id": "A5031268951",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-08",
+      "abstract": "The first to provide an extensive exploration of late Soviet food culture, this dissertation focuses on the Russian Soviet Federative Socialist Republic (\"Soviet Russia\") during and immediately after General Secretary L. I. Brezhnev's tenure (1964-82). Here, the food sphere served as an important site for state-society interaction, ideological contestation, and building national and gender identities. Utilizing cooking advice literature, periodicals, memoirs, films, and the archival records of state trade and research organizations, this project addresses three central questions: How was authority structured in the late Soviet kitchen? How did changes in the culinary sphere reflect or influence larger transformations in late Soviet society, culture, and politics? What did late Soviet food culture share with larger global developments? Soviet culinary discourse typically followed a modernizing approach to food that emphasized scientific nutrition and mass production. In the 1960s and after, such efforts encountered competition from an alternative approach to cooking, which relied on history and \"tradition.\" Home cooks and experts used food to explore the national past and build identities that did not depend upon official ideology for their legitimacy. This trend permeated food writing and other forms of popular culture, which celebrated ethnic cookery and championed a \"traditional\" gendered division of kitchen labor. While officials encouraged such seemingly harmless expressions of national distinctiveness, discussions of food, history, and nation often implicitly critiqued the Soviet system. This suggests that neither \"stagnation\"--a label often applied to the Brezhnev years--nor \"dynamism\" alone captures the essence of this period. Rather, these decades saw a turn toward normalization: the appearance in Soviet Russia of cultural patterns similar to those found in the Western societies against which Soviet leaders judged their country's successes. Common concerns permeated food cultures on both sides of the \"Iron Curtain,\" and Soviet social and cultural life came to more closely mirror, for instance, the riotous heterogeneity found in late twentieth-century America. Tracking the emergence of new gastronomic viewpoints and attendant contests for authority in the food sphere, this dissertation uses culinary discourse to provide a critical reexamination of ideology, culture, and social life in late Soviet Russia.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cdr.lib.unc.edu/record/uuid:123695e5-654d-4112-8efb-38980ad8e51a"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2736210711"
+    },
+    {
+      "openalex_id": "W2955547780",
+      "doi": "10.5089/9781451870428.001",
+      "title": "Credit Growth in the Middle East, North Africa, and Central Asia Region",
+      "authors": [
+        {
+          "name": "Joe Crowley",
+          "openalex_id": "A5025196209",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        },
+        {
+          "name": "JCrowley@imf.org",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "The views expressed in this Working Paper are those of the author(s) and do not necessarily represent those of the IMF or IMF policy. Working Papers describe research in progress by the author(s) and are published to elicit comments and to further debate.",
+      "cited_by_count": 28,
+      "type": "article",
+      "source": {
+        "name": "IMF Working Paper",
+        "type": "journal",
+        "issn": [
+          "1018-5941",
+          "2227-8885"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.elibrary.imf.org/downloadpdf/journals/001/2008/184/001.2008.issue-184-en.xml"
+      },
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Islamic Finance and Banking Studies",
+        "Global Financial Crisis and Policies"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2955547780"
+    },
+    {
+      "openalex_id": "W2502558445",
+      "doi": null,
+      "title": "Alienation Effects: Performance and Self-Management in Yugoslavia, 1945-91",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-13",
+      "abstract": "Exciting new scholarship has been emerging as performance studies scholars begin to turn their attention to the performance of politics, nationhood, and jurisprudence. Branislav Jakovljevic's project on the history and eventual demise of the former Yugoslavia demonstrates how fruitful this approach can be. Jakovljevic considers the concept of theatricality as central to understanding the events that took place in Yugoslavia. He examines the country's trials, state ceremonies and festivals, army maneuvers, propaganda, and pop culture as rehearsals and temporary enactments of an ideologically formulated future. His first chapter reveals the surrealist, avant-garde origins of key members of the Yugoslav bureaucracy after WWII, suggesting that those connections helped the culture of socialist Yugoslavia become a performance-centered culture. Continuing to explore the relationship between the political avant-garde and the artistic avant-garde, he looks at the spectacle of student demonstrations in Belgrade in 1968, and, in their aftermath, the rise of performance art in the country. The third chapter (included here) zeros in on the various political performances of Slobodan Milosevic, including his courtroom testimony at the ICTY, the International Criminal Tribunal for the former Yugoslavia. The fourth chapter discusses the Peter Handke Affair, when the Austrian playwright had a major prize revoked after he attended Milosevic's funeral and recited a poem he had written in Milosevic's honor.",
+      "cited_by_count": 21,
+      "type": "book",
+      "source": {
+        "name": "BiblioBoard Library Catalog (Open Research Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://openresearchlibrary.org/ext/api/media/f410ace8-2b7b-4a1e-a5ec-10e6a95b2d9b/assets/external_content.pdf"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2502558445"
+    },
+    {
+      "openalex_id": "W3008391174",
+      "doi": "10.1080/09672567.2020.1720765",
+      "title": "Marxism before Marxism: Nikolaj Sieber and the birth of Russian social-democracy",
+      "authors": [
+        {
+          "name": "Fran\u00e7ois Allisson",
+          "openalex_id": "A5053849787",
+          "orcid": "https://orcid.org/0000-0002-4366-7548",
+          "institutions": [
+            "University of Lausanne"
+          ]
+        },
+        {
+          "name": "Federico D\u2019Onofrio",
+          "openalex_id": "A5010421690",
+          "orcid": "https://orcid.org/0000-0003-3519-3132",
+          "institutions": [
+            "Ca' Foscari University of Venice"
+          ]
+        },
+        {
+          "name": "\u0414\u0430\u043d\u0438\u043b\u0430 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 \u0420\u0430\u0441\u043a\u043e\u0432",
+          "openalex_id": "A5090600019",
+          "orcid": "https://orcid.org/0000-0003-2173-5949"
+        },
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447 \u0428\u0438\u0440\u043e\u043a\u043e\u0440\u0430\u0434",
+          "openalex_id": "A5076167038",
+          "orcid": "https://orcid.org/0000-0002-7006-5067",
+          "institutions": [
+            "St Petersburg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-19",
+      "abstract": "The Swiss-Russian economist Nikolaj Sieber was one of the first who wrote about Marx in Russia. In this article we reconstruct the development of his thought by mobilising evidence about the intellectual and political context he lived in. We document his involvement within the Ukrainian national movement of the 1870 s and argue that this closeness was consistent with his take on the capitalist evolution of the Russian Empire. We discuss his importance in the Russian debates on the future of the peasant commune and of Russia and conclude that his interpretation of Marx and capitalism was crucial for the development of the Russian social-democratic party.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "European Journal of the History of Economic Thought",
+        "type": "journal",
+        "issn": [
+          "0967-2567",
+          "1469-5936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://serval.unil.ch/notice/serval:BIB_8506F29A189A"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W3008391174"
+    },
+    {
+      "openalex_id": "W4233420936",
+      "doi": "10.3998/mpub.338565",
+      "title": "Alienation Effects",
+      "authors": [
+        {
+          "name": "Branislav Jakovljevi\u0107",
+          "openalex_id": "A5002015842",
+          "orcid": "https://orcid.org/0000-0003-2393-6648"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "<DIV>In the 1970s, Yugoslavia emerged as a dynamic environment for conceptual and performance art. At the same time, it pursued its own form of political economy of socialist self-management. <I>Alienation Effects</I> argues that a deep relationship existed between the democratization of the arts and industrial democracy, resulting in a culture difficult to classify. The book challenges the assumption that the art emerging in Eastern Europe before 1989 was either \"official\" or \"dissident\" art; and shows that the break up of Yugoslavia was not a result of \"ancient hatreds\" among its peoples but instead came from the distortion and defeat of the idea of self-management.<BR /><BR /> The case studies include mass performances organized during state holidays; proto-performance art, such as the 1954 production of Waiting for Godot in a former concentration camp in Belgrade; student demonstrations in 1968; and body art pieces by Gina Pane, Joseph Beuys, Marina Abramovic, and others. <I>Alienation Effects</I> sheds new light on the work of well-known artists and scholars, including early experimental poetry by Slavoj \u017di\u017eek, as well as performance and conceptual artists that deserve wider, international attention.</DIV><BR />",
+      "cited_by_count": 11,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.fulcrum.org/ebooks/fq977v99t/download?locale=en"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4233420936"
+    },
+    {
+      "openalex_id": "W3208946512",
+      "doi": "10.1080/23322039.2021.1985201",
+      "title": "Impact of institutional and regulatory quality on FDI inflow: case of a developing Indian economy",
+      "authors": [
+        {
+          "name": "Leena Ajit Kaushal",
+          "openalex_id": "A5017854357",
+          "orcid": "https://orcid.org/0000-0002-0813-632X",
+          "institutions": [
+            "University of Nottingham Malaysia Campus",
+            "Management Development Institute"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The study examines the impact of regulatory & institutional quality (IQ) on FDI inflows, focusing on select factors to explain evolving FDI patterns in India over 2006-2019. India, one of the top 5 FDI attracting nations in the Asian region, is taking various measures to improve IQ and encourages FDI. The reforms facilitating the Ease of starting business and reduction in EPU significantly and positively impacts FDI; however, the measures easing trade across border and resolving insolvency has a positive but insignificant impact of FDI. In addition, deteriorating Labor Freedom significantly inhibits FDI. The results demonstrate that improvement in IQ positively influences FDI; however, the IQ impact is insignificant in some cases due to the weak institutional structure. The study suggests that IQ factors tend to be pivotal in attracting FDI inflows, but India is yet to arrive.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Cogent Economics & Finance",
+        "type": "journal",
+        "issn": [
+          "2332-2039"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2021.1985201?needAccess=true"
+      },
+      "topics": [
+        "International Business and FDI",
+        "Global trade and economics",
+        "Corporate Finance and Governance"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W3208946512"
+    },
+    {
+      "openalex_id": "W2921110243",
+      "doi": "10.5565/rev/enrahonar.1231",
+      "title": "The vicissitudes of the politics of \u201clife:\u201d Max Horkheimer and Herbert Marcuse\u2019s reception of phenomenology and vitalism in Weimar Germany",
+      "authors": [
+        {
+          "name": "John Abromeit",
+          "openalex_id": "A5058977541",
+          "institutions": [
+            "Buffalo State University",
+            "University at Buffalo, State University of New York"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-07",
+      "abstract": "The following article attempts to clarify the ambivalent relationship that Max Horkheimer and Herbert Marcuse developed with the vitalist and phenomenological tendencies that permeated philosophy and the social sciences during the Weimar Republic. More precisely, it traces how both thinkers, in spite of acknowledging the \u201ctruth moment\u201d contained in the criticism that the philosophical exponents of both movements (Husserl, Bergson, Dilthey) developed of 19th century positivism, also recognized in its shallow popularization the advancement of a dangerous philosophical irrationalism, suspicious of science and Enlightenment values, that would soon become an accomplice to the rise of fascism.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Enrahonar An international journal of theoretical and practical reason",
+        "type": "journal",
+        "issn": [
+          "0211-402X",
+          "2014-881X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistes.uab.cat/enrahonar/article/download/v62-abromeit/1231-pdf-en"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Phenomenology and Existential Philosophy",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2921110243"
+    },
+    {
+      "openalex_id": "W4416050450",
+      "doi": "10.15863/tas.2025.10.150.6",
+      "title": "ON THE HISTORY OF THE COSSACK PHENOMENON OF THE SOVIET PERIOD",
+      "authors": [
+        {
+          "name": "Yulia Igorevna Prokhorova",
+          "openalex_id": "A5104292949"
+        },
+        {
+          "name": "Arthur Alexandrovich Blagorodov",
+          "openalex_id": "A5056778618"
+        },
+        {
+          "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u0438\u0447 \u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432",
+          "openalex_id": "A5049122629"
+        },
+        {
+          "name": "Svetlana Yurievna Korablina",
+          "openalex_id": "A5114924257"
+        },
+        {
+          "name": "Galina Yurievna Volkova",
+          "openalex_id": "A5001815040"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-10-30",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Theoretical & Applied Science",
+        "type": "journal",
+        "issn": [
+          "2308-4944",
+          "2409-0085"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.t-science.org/arxivDOI/2025/10-150/PDF/10-150-6.pdf"
+      },
+      "topics": [
+        "History and Theory of Mathematics",
+        "Historical Astronomy and Related Studies",
+        "History and Developments in Astronomy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4416050450"
+    },
+    {
+      "openalex_id": "W4237816107",
+      "doi": "10.3998/mpub.9221214",
+      "title": "Three-Way Street",
+      "authors": [
+        {
+          "name": "Jay Geller",
+          "openalex_id": "A5109160812"
+        },
+        {
+          "name": "Leslie Morris",
+          "openalex_id": "A5111874232"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "<DIV>As German Jews emigrated in the nineteenth and early twentieth centuries and as exiles from Nazi Germany, they carried the traditions, culture, and particular prejudices of their home with them. At the same time, Germany\u2014and Berlin in particular\u2014attracted both secular and religious Jewish scholars from eastern Europe. They engaged in vital intellectual exchange with German Jewry, although their cultural and religious practices differed greatly, and they absorbed many cultural practices that they brought back to Warsaw or took with them to New York and Tel Aviv. After the Holocaust, German Jews and non-German Jews educated in Germany were forced to reevaluate their essential relationship with Germany and Germanness as well as their notions of Jewish life outside of Germany.<BR /> <BR /> Among the first volumes to focus on German-Jewish transnationalism, this interdisciplinary collection spans the fields of history, literature, film, theater, architecture, philosophy, and theology as it examines the lives of significant emigrants. The individuals whose stories are reevaluated include German Jews Ernst Lubitsch, David Einhorn, and Gershom Scholem, the architect Fritz Nathan and filmmaker Helmar Lerski; and eastern European Jews David Bergelson, Der Nister, Jacob Katz, Joseph Soloveitchik, and Abraham Joshua Heschel\u2014figures not normally associated with Germany. <I>Three-Way Street</I> addresses the gap in the scholarly literature as it opens up critical ways of approaching Jewish culture not only in Germany, but also in other locations, from the mid-nineteenth century to the present.<BR /><BR /> </DIV><BR />",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "University of Michigan Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.fulcrum.org/ebooks/2z10wr357/download?locale=en"
+      },
+      "topics": [
+        "European history and politics",
+        "German History and Society",
+        "Religion, Theology, History, Judaism, Christianity"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4237816107"
+    },
+    {
+      "openalex_id": "W4309588424",
+      "doi": "10.1515/9783110400304-043",
+      "title": "Russian Theory in Africa: From Marxism to the Bakhtinian Postcolony",
+      "authors": [
+        {
+          "name": "Gesine Drews-Sylla",
+          "openalex_id": "A5031274542",
+          "orcid": "https://orcid.org/0000-0003-0423-3680"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-11-21",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110400304-043/pdf"
+      },
+      "topics": [
+        "Russian Literature and Bakhtin Studies",
+        "Political theory and Gramsci",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4309588424"
+    },
+    {
+      "openalex_id": "W4292454869",
+      "doi": "10.4324/9781003264972-1",
+      "title": "Introduction: Parties from Vanguards to Governments",
+      "authors": [
+        {
+          "name": "Ivan Sablin",
+          "openalex_id": "A5007258038",
+          "orcid": "https://orcid.org/0000-0002-6706-4223"
+        },
+        {
+          "name": "Egas Moniz Bandeira",
+          "openalex_id": "A5004964282",
+          "orcid": "https://orcid.org/0000-0002-8563-0380"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-09",
+      "abstract": "Over the course of the twentieth century, a broad array of parties as organizations of a new type took over state functions and replaced state institutions on the territories of the former Ottoman, Qing, Russian, and Habsburg Empires. In the context of roughly simultaneous imperial and postimperial transformations, organizations such as the Committee for Union and Progress (CUP) in the Ottoman Empire (one-party regime since 1913), the Anfu Club in China (parliamentary majority since 1918), and the Bolshevik Party in Russia (in control of parts of the former empire since 1918), not only took over government power but merged with government itself. Disillusioned with the outcomes of previous constitutional and parliamentary reforms, these parties justified their takeovers with slogans and programs of controlled or supervised economic and social development. Inheriting the previous imperial diversities, they furthermore took over the role of mediators between the various social and ethnic groups inhabiting the respective territories. In this respect, the parties appropriated some of the functions which dynastic and then constitutional and parliamentary regimes had ostensibly failed to perform. In a significant counter-example, in spite of prominent aspirations, no one-party regime emerged in Japan, for there the constitutional monarchy had survived the empire's transformation to a major industrialized imperialist power. One-party regimes thrived on both sides of the Cold War and in some of the non-aligned states. Whereas several state socialist one-party regimes collapsed in 1989\u20131991, some of the communist parties have continued to rule, and new parties managed to monopolize political power in different Eurasian contexts.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003264972-1&type=chapterpdf"
+      },
+      "topics": [
+        "European history and politics"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4292454869"
+    },
+    {
+      "openalex_id": "W4367052915",
+      "doi": "10.3390/su15097174",
+      "title": "Impact of Innovation and Exports on Productivity: Are There Complementary Effects?",
+      "authors": [
+        {
+          "name": "Sa\u0161a Petkovi\u0107",
+          "openalex_id": "A5078770179",
+          "orcid": "https://orcid.org/0000-0001-7354-5931",
+          "institutions": [
+            "University of Banja Luka"
+          ]
+        },
+        {
+          "name": "Jelica Rastoka",
+          "openalex_id": "A5050385400",
+          "orcid": "https://orcid.org/0009-0008-8173-8993",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        },
+        {
+          "name": "Dragana Radi\u010di\u0107",
+          "openalex_id": "A5029305037",
+          "orcid": "https://orcid.org/0000-0002-7118-0737"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-04-25",
+      "abstract": "The relationship between firms\u2019 exports and increases in productivity is generally regarded as positive. While the causal effects of process innovation are straightforward and positive, the effect of product innovation on productivity is ambiguous. However, there is a lack of empirical evidence on a joint effect that innovation and exports have on firms\u2019 productivity. In our attempt to fill this gap, we explore individual and joint effects of innovation and exports on productivity by employing cross-sectional firm-level data. We use the sixth wave of the Business Environment and Enterprise Performance Survey (BEEPS VI: 2018\u20132020) conducted by the EBRD and the World Bank. Using a stratified random sampling, the data was collected from interviews with representatives of randomly chosen firms from 32 countries. The overall results suggest that exporting firms are more productive than non-exporters, while the impact of innovation is more heterogeneous. Whereas EU and high-income countries reap the productivity benefits, this effect is absent in other regions and countries with medium and low-income levels. Finally, our results indicate the absence of a joint effect of innovation and exports on productivity, across different geographical regions and countries of different income levels.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Sustainability",
+        "type": "journal",
+        "issn": [
+          "2071-1050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/15/9/7174/pdf?version=1682427921"
+      },
+      "topics": [
+        "Global trade and economics",
+        "International Business and FDI",
+        "Firm Innovation and Growth"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W4367052915"
+    },
+    {
+      "openalex_id": "W766847108",
+      "doi": null,
+      "title": "In Search of \"The Russian Path\": Impact of the 2008 Crisis on Russia's Economic Policy",
+      "authors": [
+        {
+          "name": "Dasha Barannik",
+          "openalex_id": "A5032149906",
+          "institutions": [
+            "California University of Pennsylvania",
+            "University of Pennsylvania"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "Suggested Citation: Barannik, Dasha. (2010). \"In Search of 'The Russian Path': Impact of the 2008 Crisis on Russia's Economic Policy.\" 2009-2010 Penn Humanities Forum on Connections.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Scholarly Commons (University of Pennsylvania)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1002&context=uhf_2010"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Defense, Military, and Policy Studies",
+        "Canadian Policy and Governance"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W766847108"
+    },
+    {
+      "openalex_id": "W2623021422",
+      "doi": null,
+      "title": "Reproduction of Capitalism in the 21st Century: Higher Education and Ecological Crisis",
+      "authors": [
+        {
+          "name": "Toni Ruuska",
+          "openalex_id": "A5090176796",
+          "orcid": "https://orcid.org/0000-0002-5002-8429"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "In this thesis, the connection between capitalism, higher education, and ecological crisis is established and studied. It is presented, mainly theoretically, how capitalist socio-economic structure is reproduced, how higher education contributes to it, and how this is linked to the ongoing ecological crisis. &#13;\\nAs a part of the more general discussion on the reproduction of capitalism, higher education, and its ecological impacts, Finnish higher education is taken as a specific context to be discussed. In this regard, an empirical illustration is provided to strengthen the otherwise theoretical argument to portray how the purpose of higher education is perceived in Finnish education policy documents in the 21st century. &#13;\\nBased on existing literature, theoretical argumentation, and empirical illustration, it is argued that, as the orientation of higher education has been reformulated during the last decades, one of the primary purposes of higher education in the 21st century is to reproduce capitalism and conditions for capital accumulation and economic growth. In principle, this means that aims and demands concerning higher education, especially coming from state administration, are closely coupled with the needs of the capitalist growth economy and transnational capital accumulation. This development has had a significant impact to higher education \u2013 one these developments being that higher education is increasingly expected to serve as a means to an end to achieve goals such as economic growth and regional competitiveness. Furthermore, these developments imply, among other things, that the higher education institution is increasingly functioning in an unsustainable fashion from an ecological perspective. This is due to the capitalist structure and processes of accumulation with which higher education is increasingly integrated and to which it contributes.&#13;\\nThis study makes two primary contributions to the existing literature. The first contribution is the overall updated reproduction theory of capitalism. The theory as whole seeks to complement the existing reproduction theories in Marxist education studies and, more generally, the understandings of socio-economic reproduction of liberal capitalist societies by adding a transnational element to the analysis. The second contribution of this study is the established link between capitalism, contemporary higher education, and ecological crisis, a notion which has not been thoroughly dealt with or theorised previously in the Marxist studies on education.",
+      "cited_by_count": 9,
+      "type": "other",
+      "source": {
+        "name": "Aaltodoc (Aalto University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://aaltodoc.aalto.fi/handle/123456789/26627"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Political Economy and Marxism",
+        "Elite Sociology and Global Capitalism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2623021422"
+    },
+    {
+      "openalex_id": "W3110883802",
+      "doi": "10.7443/problemata.v11i4.52207",
+      "title": "Hegel\u2019s proto-modernist conception of Philosophy as Science",
+      "authors": [
+        {
+          "name": "Zeyad el Nabolsy",
+          "openalex_id": "A5047303979",
+          "orcid": "https://orcid.org/0009-0009-7932-4510",
+          "institutions": [
+            "Cornell University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-01",
+      "abstract": "I argue that the reception of Hegel in the sub-field of history and philosophy of science has been in part impeded by a misunderstanding of his mature metaphilosophical views. I take Alan Richardson\u2019s influential account of the rise of scientific philosophy as an illustration of such misunderstanding, I argue that the mature Hegel\u2019s metaphilosophical views place him much closer to the philosophers who are commonly taken as paradigms of scientific philosophy than it is commonly thought. Hegel is commonly presented as someone who conceived of philosophy as a science that relied on the solitary genius of the individual thinker, and as a science whose propositions could not and should not be made accessible to \u201cthe common people\u201d. Against this view, I argue that Hegel in fact thought that philosophy was a thoroughly anti-individualistic activity, and that he emphasized the importance of the intersubjective accessibility of philosophical discourse. I argue that when we carefully reconstruct Hegel\u2019s reasons for his break with Schelling, and if we pay close attention to his explicit metaphilosophical pronouncements, we can see that he in fact adhered to what I call a \u201cproto-modernist\u201d conception of philosophy as a science. I conclude by pointing out how the mischaracterization of Hegel has served to obscure the existence of a strand of scientific philosophy that emerged by way of an immanent critique of Hegel, namely Marxist philosophy.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Problemata",
+        "type": "journal",
+        "issn": [
+          "1516-9219",
+          "2236-8612"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://periodicos.ufpb.br/ojs/index.php/problemata/article/download/52207/32044"
+      },
+      "topics": [
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W3110883802"
+    },
+    {
+      "openalex_id": "W3216610962",
+      "doi": "10.1017/nps.2021.73",
+      "title": "The Democratic Conference and the Pre-Parliament in Russia, 1917: Class, Nationality, and the Building of a Postimperial Community",
+      "authors": [
+        {
+          "name": "Ivan Sablin",
+          "openalex_id": "A5007258038",
+          "orcid": "https://orcid.org/0000-0002-6706-4223",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-22",
+      "abstract": "Abstract The article offers a detailed analysis of the debates at the All-Russian Democratic Conference and in the Provisional Council of the Russian Republic (the Pre-Parliament), which followed the proclamation of the republic on September 1, 1917, and predated the Bolshevik-led insurgency on October 25. The two assemblies were supposed to help resolve the multilayered political, economic, and military crises of the First World War and the Revolution by consolidating a Russian postimperial political community and establishing a solid government. The debates demonstrated that grievances and antagonism, which were articulated in terms of class and nationality, made the idea of a broad nationalist coalition unpopular, since it would halt agrarian and other reforms and continue the negligence of non-Russian groups. Furthermore, those who still called for all-Russian national or civic unity split on the issue of community-building. The top-down, homogenizing and bottom-up, composite approaches proved irreconcilable and precluded a compromise between non-socialist and moderate socialist groups. The two assemblies hence failed to ensure a peaceful continuation of the postimperial transformation and did not lead to a broad coalition against right and left radicalism. The divisions, which were articulated in the two assemblies, translated into the main rifts of the Russian Civil War.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Nationalities Papers",
+        "type": "journal",
+        "issn": [
+          "0090-5992",
+          "1465-3923"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B3CD4B28BECDDFCB58A9BEAA65F7976/S0090599221000738a.pdf/div-class-title-the-democratic-conference-and-the-pre-parliament-in-russia-1917-class-nationality-and-the-building-of-a-postimperial-community-div.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Historical Geopolitical and Social Dynamics",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W3216610962"
+    },
+    {
+      "openalex_id": "W4411629951",
+      "doi": "10.37724/rsu.2025.73.1.007",
+      "title": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u0432 \u0440\u0435\u0448\u0435\u043d\u0438\u0438 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0437\u0430\u0434\u0430\u0447 \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f: \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u0438 \u0431\u0430\u0437\u043e\u0432\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f",
+      "authors": [
+        {
+          "name": "\u0422.\u0418. \u041f\u0443\u0434\u0435\u043d\u043a\u043e",
+          "openalex_id": "A5118625446"
+        },
+        {
+          "name": "\u041e.\u0410. \u0428\u0435\u0441\u0442\u0430\u043a\u043e\u0432\u0430",
+          "openalex_id": "A5118625447"
+        },
+        {
+          "name": "\u0410.\u0410. \u0420\u0443\u0434\u043d\u0435\u0432\u0430",
+          "openalex_id": "A5118625448"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-06-24",
+      "abstract": "\u041c\u043d\u043e\u0433\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043f\u044b\u0442 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u043f\u043e\u0434\u0440\u0430\u0441\u0442\u0430\u044e\u0449\u0435\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f, \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u0435\u0434\u0448\u0438\u0435 \u0432 \u043f\u043e\u0441\u0442\u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0438\u043e\u0434. \u041e\u0442\u043c\u0435\u0447\u0430\u044e\u0442\u0441\u044f \u0441\u0434\u0432\u0438\u0433\u0438 \u0432 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u043d\u044b\u0445 \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f\u0445 \u0432\u0437\u0440\u043e\u0441\u043b\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0447\u0430\u0441\u0442\u043e \u043e\u0441\u043b\u043e\u0436\u043d\u044f\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 (\u043f\u0440\u0438\u043c\u0435\u0440\u043d\u044b\u0445) \u0440\u0430\u0431\u043e\u0447\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f \u0432 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u0445, \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0435 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0446\u0435\u043b\u0435\u0432\u044b\u0445 \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432 \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u0442\u0435\u0439 \u0438 \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438. \u041f\u0440\u0438\u0447\u0438\u043d\u0430\u043c\u0438 \u043e\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u0438\u0439 \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u043b\u0430\u0431\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0441\u0435\u043c\u044c\u0438, \u043d\u043e \u0438 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u0430\u044f \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u044c \u0441\u0430\u043c\u0438\u0445 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u043a \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u0443 \u0434\u0435\u0442\u0435\u0439 \u0438 \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u043e\u0432 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0441\u043e\u0446\u0438\u043e\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0445, \u0434\u0443\u0445\u043e\u0432\u043d\u043e-\u043d\u0440\u0430\u0432\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u043f\u0440\u0430\u0432\u0438\u043b \u0438 \u043d\u043e\u0440\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f. \u0426\u0435\u043b\u044c\u044e \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u044f\u0432\u043b\u044f\u043b\u043e\u0441\u044c \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439 \u0432 \u043f\u043e\u0434\u0445\u043e\u0434\u0435 \u043a \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044e \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f \u043e\u0431\u0443\u0447\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \u0431\u0430\u0437\u043e\u0432\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u0438\u0445 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f. \u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u043f\u043e\u043b\u043d\u043e\u0442\u044b \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0446\u0438\u0439. \u041a \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u043c \u043e\u0442\u043d\u0435\u0441\u0435\u043d\u044b \u0437\u043d\u0430\u043d\u0438\u044f, \u0443\u043c\u0435\u043d\u0438\u044f, \u043d\u0430\u0432\u044b\u043a\u0438 \u0438 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u043d\u044b\u043c\u0438 \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f\u043c\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0430 \u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u043c\u0438 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430\u043c\u0438. \u0412 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043f\u0440\u0438\u043d\u044f\u0442\u043e\u0439 \u0433\u0438\u043f\u043e\u0442\u0435\u0437\u043e\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u044c\u044e, \u043d\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e\u0439 \u0437\u043e\u043d\u043e\u0439 \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u0445 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432. \u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u0437\u0430 \u0441\u0447\u0435\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u044b\u0445 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439 \u0432\u043e \u0432\u0441\u0435\u0445 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u0445 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0446\u0438\u0439. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0430\u044f \u0431\u0430\u0437\u043e\u0432\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0447\u043d\u044b\u0439 \u0446\u0438\u043a\u043b \u044d\u0442\u043e\u0433\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u0441 \u0434\u0435\u0442\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u043f\u043e \u0441\u0435\u043c\u0438 \u044d\u0442\u0430\u043f\u0430\u043c. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b, \u0438\u0437\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 \u0441\u0442\u0430\u0442\u044c\u0435, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u043f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u044f \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0443 \u00ab\u041d\u0430\u0443\u0447\u043d\u043e-\u043c\u0435\u0442\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0432 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u0445 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 (\u043f\u0440\u0438\u043c\u0435\u0440\u043d\u044b\u0445) \u0440\u0430\u0431\u043e\u0447\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f\u00bb (\u043a\u043e\u0434 \u043d\u0430\u0443\u0447\u043d\u043e\u0439 \u0442\u0435\u043c\u044b: IMLY-2024-0001; \u2116 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 1182023/1023071400004-0-5.3.1). \u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430: \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0432 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u0445, \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043e\u043c\u043f\u0435\u0442\u0435\u043d\u0446\u0438\u0438, \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432, \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435, \u043c\u043e\u0434\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432, \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0447\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u0446\u0435\u043b\u0435\u0432\u044b\u0435 \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u044b \u0432\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u044f. Numerous studies and practice of teachers in various educational organizations show significant changes in the system of values of the younger generation that have occurred in the post-Soviet period. We observe shifts in the value orientations of the adult population, which often complicates the implementation of federal (specific) syllabi for educational organizations and achievement of actual target orientations of upbringing of modern children and youth. The causes of complications can be not only weak support of pedagogical workers on part of the students\u2019 families, but also insufficient readiness of teachers to form traditional Russian socio-cultural, spiritual and moral values, rules and norms of behavior in children and adolescents. The aim of the present study was to substantiate conceptual changes in the approach to improving the competence of pedagogical staff in the field of educating students and to develop an appropriate basic model for their professional development. The paper substantiates the need to improve teachers\u2019 competence in the overall set of its professional constituents. The main components include knowledge, skills, abilities, skills and professional pedagogical position, which is determined by the teacher\u2019s personal value orientations and relevant professional attitudes. In accordance with the accepted hypothesis, the professional pedagogical position is of major importance, but it is a problematic area in the modern processes of professional education and professional development of pedagogical staff. The research suggests a conceptual approach to organizing the process of teachers\u2019 professional development through comprehensive positive changes in all components of relevant pedagogical competencies. The author\u2019s basic model of teachers professional development describes a single cycle of this process with detailing of its seven stages. The results stated in the article were obtained within the framework of the state assignment of the Ministry of Education of the Russian Federation as the project \u201cScientific and methodological support for the implementation of federal (specific) working syllabi for educational organizations\u201d (research topic code: IMLY-2024-0001; state registration No. 1182023/1023071400004-0-5.3.1).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "\u041f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u043e-\u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0438\u0441\u043a",
+        "type": "journal",
+        "issn": [
+          "2075-3500"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.37724/rsu.2025.73.1.007"
+      },
+      "topics": [
+        "Psychology of Development and Education",
+        "Education and Professional Development",
+        "Educational Innovations and Challenges"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4411629951"
+    },
+    {
+      "openalex_id": "W4380368559",
+      "doi": "10.1215/10418385-10427926",
+      "title": "The Pot Still Boils",
+      "authors": [
+        {
+          "name": "Nicholas Anderman",
+          "openalex_id": "A5092148236",
+          "orcid": "https://orcid.org/0000-0001-5299-7154"
+        },
+        {
+          "name": "Zachary Hicks",
+          "openalex_id": "A5092148237"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-01",
+      "abstract": "Abstract This special-issue introduction historicizes and seeks to move beyond the antinomy between totality and culture that is today a mainstay of much contemporary critical theory. The introduction proceeds in three parts. The first examines a midcentury crisis of Marxism that, concomitant with major shifts in global capitalism, set the scene for subsequent scholarly accounts of culture that have privileged the fragment, the supplement, the remainder, the site, the margins, and the like over against the totality. The second part consists of an analysis of two works of art\u2014by the American visual artists Allan Sekula and Ellen Gallagher, respectively\u2014which we take to be exemplary of the affordances of art, literature, and other forms of cultural expression for accessing totality anew. The third part briefly surveys recent theoretical work that aims to put a revitalized concept of totality at the center of cultural critique. The introduction concludes with summaries of the seven articles included herein. The special issue covers a lot of ground in terms of subject matter, theoretical milieu, disciplinary framework, and style. What binds the articles together is, in effect, a shared working method, which involves thinking through the relationship between a specific cultural object (or set of objects) and the social whole in and through which it emerged.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Qui Parle",
+        "type": "journal",
+        "issn": [
+          "1041-8385",
+          "1938-8020"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://read.dukeupress.edu/qui-parle/article-pdf/32/1/1/1932321/1anderman.pdf"
+      },
+      "topics": [
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W4380368559"
+    },
+    {
+      "openalex_id": "W4312273602",
+      "doi": "10.5040/9781350243163.ch-4",
+      "title": "Wartime logistics and the Provisional Government",
+      "authors": [
+        {
+          "name": "ANTHONY J. HEYWOOD",
+          "openalex_id": "A5052905832",
+          "institutions": [
+            "University of Aberdeen"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "The print version was published 12 Jan 2023.",
+      "cited_by_count": 1,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://aura.abdn.ac.uk/bitstream/2164/20877/1/Heywood_Wartime_Logistics_and_AAM.pdf"
+      },
+      "topics": [
+        "Military History and Strategy"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4312273602"
+    },
+    {
+      "openalex_id": "W4405347296",
+      "doi": "10.34660/inf.2021.86.60.001",
+      "title": "PARTICIPATION OF AZERBAIJAN IN DIVERSIFICATION OF NATURAL GAS SUPPLY ROUTES TO EUROPE",
+      "authors": [
+        {
+          "name": "\u042d.\u0420. \u0413\u0430\u0441\u0443\u043c\u043e\u0432",
+          "openalex_id": "A5015499736",
+          "orcid": "https://orcid.org/0000-0003-2704-0523",
+          "institutions": [
+            "Azerbaijan State Oil and Industry University"
+          ]
+        },
+        {
+          "name": "Vilayat M Veliyev",
+          "openalex_id": "A5084136069",
+          "institutions": [
+            "Azerbaijan Technical University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-12",
+      "abstract": "The frequency of occurrence of different",
+      "cited_by_count": 1,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2021.86.60.001"
+      },
+      "topics": [
+        "Global Energy Security and Policy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405347296"
+    },
+    {
+      "openalex_id": "W4403376117",
+      "doi": "10.59860/td.c48ce8e",
+      "title": "Part I",
+      "authors": [
+        {
+          "name": "Irena Maryniak",
+          "openalex_id": "A5009902198"
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "abstract": "The book presents an original, interdisciplinary analysis of religious and mythological perspectives in fiction published in the Soviet Union between the mid-1960s and the mid-1980s. In doing so, it points to ways in which anthropological theory can be used as a framework for literary criticism. It also shows how, in the two decades before perestroika, religion and mythology served as alternative models for the intellectual and political reorientation of Soviet society. Selected works are explored with reference to a formative debate in anthropological studies on the nature and development of religion, based on Edward B. Tylor\u2019s theory of \u2018animism\u2019 and Emile Durkheim\u2019s theory of \u2018totemism\u2019. It is shown how the animist/totemist dichotomy highlighted by the controversy is reflected in Russian religious thought before 1917 and, particularly, in the literature of the Soviet era. Novels by Valentin Rasputin, Chabua Amiredzhibi, Daniil Granin, Chingiz Aitmatov, and Vladimir Tendriakov are discussed in the light of a range of mythological and religious systems. The study also shows how Durkheim\u2019s theory of religion and group identity can be related to ideas put forward by the Russian nationalist writers Iurii Bondarev, Sergei Alekseev and Vasilii Belov, and suggests that examples of fiction by Petr Proskurin, Aitmatov, and Tendriakov indicate revived interest in the God-building theory of Gor\u2019kii and Lunacharskii. In conclusion, the book argues that subtextual religious and mythological narratives in Soviet fiction between 1964 and 1988 provided a model for new literary discourse under perestroika and for subsequent political transformations. This book, originally published in paperback in 1995 under the ISBN 978-0-901286-61-1, was made Open Access in 2024 as part of the MHRA Revivals programme.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Modern Humanities Research Association eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://mhra.org.uk/pdf/td-39-2.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Religious Studies and Spiritual Practices",
+        "European Linguistics and Anthropology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4403376117"
+    },
+    {
+      "openalex_id": "W4403375253",
+      "doi": "10.59860/td.c7bd666",
+      "title": "Spirit of the Totem",
+      "authors": [
+        {
+          "name": "Irena Maryniak",
+          "openalex_id": "A5009902198"
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "abstract": "The book presents an original, interdisciplinary analysis of religious and mythological perspectives in fiction published in the Soviet Union between the mid-1960s and the mid-1980s. In doing so, it points to ways in which anthropological theory can be used as a framework for literary criticism. It also shows how, in the two decades before perestroika, religion and mythology served as alternative models for the intellectual and political reorientation of Soviet society. Selected works are explored with reference to a formative debate in anthropological studies on the nature and development of religion, based on Edward B. Tylor\u2019s theory of \u2018animism\u2019 and Emile Durkheim\u2019s theory of \u2018totemism\u2019. It is shown how the animist/totemist dichotomy highlighted by the controversy is reflected in Russian religious thought before 1917 and, particularly, in the literature of the Soviet era. Novels by Valentin Rasputin, Chabua Amiredzhibi, Daniil Granin, Chingiz Aitmatov, and Vladimir Tendriakov are discussed in the light of a range of mythological and religious systems. The study also shows how Durkheim\u2019s theory of religion and group identity can be related to ideas put forward by the Russian nationalist writers Iurii Bondarev, Sergei Alekseev and Vasilii Belov, and suggests that examples of fiction by Petr Proskurin, Aitmatov, and Tendriakov indicate revived interest in the God-building theory of Gor\u2019kii and Lunacharskii. In conclusion, the book argues that subtextual religious and mythological narratives in Soviet fiction between 1964 and 1988 provided a model for new literary discourse under perestroika and for subsequent political transformations. This book, originally published in paperback in 1995 under the ISBN 978-0-901286-61-1, was made Open Access in 2024 as part of the MHRA Revivals programme.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "Modern Humanities Research Association eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://mhra.org.uk/pdf/td-39-6.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Religion and Society Interactions",
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4403375253"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

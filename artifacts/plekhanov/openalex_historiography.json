@@ -1,0 +1,912 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov historiography' (year=1990-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_d8ea55f801646b6d)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov historiography",
+  "results": [
+    {
+      "openalex_id": "W1997574417",
+      "doi": "10.2307/131670",
+      "title": "Plekhanov in Russian History and Soviet Historiography",
+      "authors": [
+        {
+          "name": "Donald J. Senese",
+          "openalex_id": "A5047961768"
+        },
+        {
+          "name": "Samuel H. Baron",
+          "openalex_id": "A5070477748"
+        }
+      ],
+      "publication_year": 1997,
+      "publication_date": "1997-04-01",
+      "abstract": "Known as father of Russian Marxism, G.V. Plekhanov (1856-1918) was an outstanding theoretician of prerevolutionary Marxism. Here, Baron brings together a number of Plekhanov's essays, which explore the place of this thinker in the history of the Russian revolutionary movement.",
+      "cited_by_count": 17,
+      "type": "article",
+      "source": {
+        "name": "The Russian Review",
+        "type": "journal",
+        "issn": [
+          "0036-0341",
+          "1467-9434"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1997574417"
+    },
+    {
+      "openalex_id": "W4386364659",
+      "doi": "10.2307/jj.6380606",
+      "title": "Plekhanov in Russian History and Soviet Historiography",
+      "authors": [
+        {
+          "name": "Samuel H. Baron",
+          "openalex_id": "A5070477748"
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-10-15",
+      "abstract": "Known as \"the father of Russian Marxism,\" G. V. Plekhanov (1856-1918) was an outstanding theoretician of prerevolutionary Marxism whose works were relegated to virtual oblivion during the Stalin era. In the wake of the collapse of Marxism-Leninism, his interpretation of Russian history and of the Bolshevik revolution are once again attracting the attention of Russian scholars",
+      "cited_by_count": 13,
+      "type": "book",
+      "source": {
+        "name": "University of Pittsburgh Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4386364659"
+    },
+    {
+      "openalex_id": "W3008842644",
+      "doi": "10.7765/9781847791344.00007",
+      "title": "Historical materialism",
+      "authors": [
+        {
+          "name": "Paul Blackledge",
+          "openalex_id": "A5058827161",
+          "orcid": "https://orcid.org/0009-0008-7681-6643"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-07-19",
+      "abstract": "The Second International of socialist parties was the undoubted custodian of Marxist 'orthodoxy' from its formation in 1889 until its de facto collapse at the outbreak of the First World War. For the interpretation of historical materialism associated with the sophisticated Second International thinkers in their best works, Karl Kautsky was much more powerful that either Perry Anderson or Steve Rigby. Like Lucio Colletti, Anderson had interpreted the shift from Second to Third International Marxism as including a 'voluntaristic' break with 'fatalistim'. Colletti suggested the evolutionary interpretation of Marxism, which he likened unfavourably to the 'voluntarist' Marxism of the Third International, was born out of Friedrich Engels's crude systemisation of Marx's thought and reached its zenith in Kautsky's theory of history. Kautsky was the dominant intellectual within the Second International, while the works of Georgi Plekhanov and Antonio Labriola informed the best historiography produced by the succeeding generation of Marxists.",
+      "cited_by_count": 10,
+      "type": "book-chapter",
+      "source": {
+        "name": "Manchester University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3008842644"
+    },
+    {
+      "openalex_id": "W4319746594",
+      "doi": "10.26907/2541-7738.2022.6.221-228",
+      "title": "Julius Martov (1873\u20131923) and Modern Russian Historiography",
+      "authors": [
+        {
+          "name": "A.A. Salnikova",
+          "openalex_id": "A5033469610",
+          "institutions": [
+            "Kazan Federal University"
+          ]
+        },
+        {
+          "name": "V. V. Astafiev",
+          "openalex_id": "A5052764851",
+          "institutions": [
+            "Kazan Federal University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "This article analyzes the current state of Russian historiography of the development of Menshevism in Russia. Particular attention is paid to A.L. Litvin and I.Kh. Urilov\u2019s monograph \u201cJulius Martov. A History of Life and Work. 1873\u20131923\u201d published in 2021. This is a historical and biographical study of Julius Osipovich Martov (Tsederbaum), one of the most prominent figures in the socio-political life of Russia during the late 19th\u2013the first quarter of the 20th centuries. Using a broad range of historical sources, including personal ones (such as the Ju.O. Martov Collection at the Russian State Archive of Social and Political History, Ju.O. Martov\u2019s memoirs (\u201cNotes of a Social Democrat\u201d (1924)), as well as the memoirs of his relatives, friends, colleagues, and political opponents), we managed to comprehensively cover all aspects of the life and work of Ju.O. Martov as an extraordinary person and politician, one of the strongest leaders of social democracy in Russia, and the closest associate of V.I. Lenin and G.V. Plekhanov. The approaches to studying the origins and evolution of Ju.O. Martov\u2019s views on the role played by the social democratic party in the history of Russia, his political and moral assessment of the essence and prospects of the Bolshevist regime, its influence on the struggle for a democratic future of the country were discussed. The place occupied by the monograph under consideration in modern Russian historiography of the problem was identified.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "U\u010d\u00ebnye zapiski Kazanskogo universiteta. Seri\u00e2 Gumanitarnye nauki/U\u010denye zapiski Kazanskogo gosudarstvennogo universiteta. Seri\u00e2 Gumanitarnye nauki/U\u010denye zapiski Kazanskogo universiteta. Seri\u00e2 Gumanitarnye nauki",
+        "type": "journal",
+        "issn": [
+          "1815-6126",
+          "2500-2171",
+          "2541-7738"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://kpfu.ru/portal/docs/F_1540428397/164_6_gum_17.pdf"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia",
+        "Security, Politics, and Digital Transformation"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4319746594"
+    },
+    {
+      "openalex_id": "W4386364691",
+      "doi": "10.2307/jj.6380606.7",
+      "title": "The Resurrection of Plekhanovism in Soviet Historiography",
+      "authors": [],
+      "publication_year": 1995,
+      "publication_date": "1995-10-15",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "University of Pittsburgh Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4386364691"
+    },
+    {
+      "openalex_id": "W4386364696",
+      "doi": "10.2307/jj.6380606.6",
+      "title": "Plekhanov, Trotskii, and the Development of Soviet Historiography",
+      "authors": [],
+      "publication_year": 1995,
+      "publication_date": "1995-10-15",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": {
+        "name": "University of Pittsburgh Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Eastern European Communism and Reforms",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4386364696"
+    },
+    {
+      "openalex_id": "W4321462656",
+      "doi": "10.31651/2076-5908-2022-1-23-30",
+      "title": "Marxist historiography in the scientific studies of G. Plekhanov and K. Kautsky",
+      "authors": [
+        {
+          "name": "G. Golysh",
+          "openalex_id": "A5109599139"
+        },
+        {
+          "name": "Larysa Lysytsya",
+          "openalex_id": "A5114042986"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Introduction. Despite the all-out crisis of the Marxist understanding of history, and the obvious discreditation of the idea of sustained progress, nevertheless, Marxist historiosophy has left a deep trace in worldly science as a methodological antithesis to the other paradigms of historical writing. To this, we epistemologically add the development of the direct development of the theory and practice of historical science to the beginning stages, which is enough for the scientific studios to fully represent the current adherents of Marxism G. Plekhanov and K. Kautsky. Purpose. I use this article to analyze the achievements of Marxist historiography on the basis of scientific studies on the basis of historiographical texts on the basis of scientific studios of prominent representatives of G. Plekhanov and K. Kautsky, who saw a prominent personality in their work. Results. On the basis of the analysis of the dzherel, it was established that both of them did not immediately adopt the Marxist doctrines of history writing. After the singing of methodological speculations, the stench shifted to the position of the roaming of history, characteristic of Marxism, as a formation-stage, vertically directed, economically determined susp\u0456lny process, accompanied by an unceasing class struggle. Recognizing historical materialism as a methodological non-alternative, G. Plekhanov and K. Kautsky demonstrated that the creative people were very close to the Marxist doctrines, zocrema, in the nutritional role of supple determinants (infusing the geographic social and spiritual community) and the significance of psychological social life There were few concrete-historical studios devoted to the political history, to the subsidiaries and the genesis of spirituality among the creative communities of Marxist scholars. While methodologically biased and practiced, they have become a major contribution to the development of light historiography. Originality. On a comparative basis, the author analyzes the historical and philosophical views of the scientific achievements of the past and the representatives of the Marxist historiography of G. Plekhanov and K. Kautsky. Conclusion. In the historical works of G. Plekhanov and K. Kautsky, there are several characteristics that are based on the Marxist paradigm of understanding the historical process. Despite the creative comprehension of the theoretical decay of the founders of Marxism and the introduction of the same innovations into the understanding of the historical process, both of them still did not improve their pretentiousness to orthodox Marxism. In a row z tsim vbachayutsya peevn\u0456 osoblinosti scientific studios tsikh scientists. The problem is christened in the article, it will require a further study of the relevant segments on the basis of diversification and the study of additional historiographical roots.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Cherkasy University Bulletin Historical Sciences",
+        "type": "journal",
+        "issn": [
+          "2076-5908",
+          "2518-1149"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://history-ejournal.cdu.edu.ua/article/download/4733/4985"
+      },
+      "topics": [
+        "Global Economic and Social Development",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4321462656"
+    },
+    {
+      "openalex_id": "W1981798251",
+      "doi": "10.1353/ecs.1995.0013",
+      "title": "Freemasonry and the Public in Eighteenth-Century Russia",
+      "authors": [
+        {
+          "name": "Douglas K. Smith",
+          "openalex_id": "A5103398347"
+        }
+      ],
+      "publication_year": 1995,
+      "publication_date": "1995-09-01",
+      "abstract": "Freemasonry and the Public in Eighteenth-Century Russia Douglas Smith (bio) Once primarily the province of its official chroniclers and conspiracy theorists of various stripes, Freemasonry has gained increasing scholarly attention in the past several decades. While numerous studies have been devoted to the history of the lodges in western and central Europe\u2014focusing particularly on their importance for early modern political culture\u2014Russia\u2019s significant Masonic movement composed of over 3,000 members active in more than 135 lodges in the eighteenth century has long been ignored and remains poorly understood. 1 By raising a series of new questions about Russian Masonry, this essay seeks to reexamine some of the traditional interpretations not only of the Masonic movement but also of the history of Imperial Russia. To assess adequately Freemasonry\u2019s historical significance necessitates laying bare its connections to a host of comparable institutions and practices that were then emerging to form a new Russian public sphere, one not unlike those taking shape in other parts of Europe. Before turning to the discussion of Masonry and its relationship to the changing structures of \u00e9lite life in Russia, however, a few words on the established historiography are in order. I Although the history of the lodges has been little studied for most of the past seventy years, Russian scholars working in the second half of the nineteenth and the beginning of the twentieth century did produce a sizable body of literature on the subject. 2 It is not at all surprising, therefore, given the lack of any substantive [End Page 25] reinterpretations, that this literature continues to shape greatly our understanding of the Russian Masonic movement. By adopting the existing interpretive framework, which, as I discuss below, is deeply flawed methodologically, the handful of recent studies fail to rethink Freemasonry and its importance for Russian history and uncritically reiterate the outmoded assumptions of earlier works. 3 Traditionally, scholars have relegated Freemasonry to the domain of intellectual history. More specifically, it has been problematized as a component in the history of the intelligentsia. According to this historiography, the pervasiveness of Voltairism (vol\u2019terianstvo) and free-thinking (vol\u2019nodumstvo) in eighteenth-century Russia\u2019s intellectual climate and, others sometimes add, the social tensions with which society was rife combined to produce a flight on the part of some of the educated \u00e9lite into the lodge\u2019s sanctuary of quietist self-contemplation and a more secularized religiosity. Historians\u2019 interpretations of this flight, however, have varied and can generally be divided into two opposing camps. For most positivist and Marxist historians, both pre- and post-revolutionary, Masonic membership marks the dividing line between progressive action and reactionary withdrawal. Thus, in his multi-volume study of Russian social thought, Georgii Plekhanov (1856\u20131918), the \u201cfather of Russian Marxism,\u201d saw Russian Masonry as an expression of a broader \u201creaction against liberating philosophy\u201d (osvoboditel\u2019naia filosofiia) coming out of France that characterized the socially \u201cbackward\u201d countries of eastern Europe. Equating Russian Masonic ideology with mysticism, Plekhanov attributed its popularity to Russians\u2019 intellectual immaturity vis-\u00e0-vis the West which, according to him, accounted for their shock and psychological discomfort when confronted with the age\u2019s \u201cmost progressive ideas\u201d and their ensuing \u201cflight from our sinful world\u201d into the Jenseits of the lodge. 4 The influential Soviet historian G. P. Makogonenko expressed a similar view in the 1950s, arguing that, unlike the intelligentsia who remained socially and politically engaged, the Masons represented those who \u201csimply ran from the world of reality into an inner universe, into a moral world.\u201d 5 The opposing interpretation has perhaps been best articulated in the writings of the historian and leading figure in Russia\u2019s Constitutional Democratic Party, Pavel Miliukov (1859\u20131943). For Miliukov, Voltairism was homologous to the court, the sphere in which it had most currency: while it initially attracted the literate classes with its sparkle and brilliance, Voltairism\u2019s charms, like those of court society, were artificial, superficial, fleeting, and ultimately rejected. In Milukov\u2019s view, many educated Russians floundered in a spiritual and intellectual no man\u2019s land between Voltairism and the traditional religious world view of their fathers, which they had earlier renounced but now felt lost without. Therefore...",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Eighteenth-Century Studies",
+        "type": "journal",
+        "issn": [
+          "0013-2586",
+          "1086-315X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices",
+        "Folklore, Mythology, and Literature Studies",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W1981798251"
+    },
+    {
+      "openalex_id": "W3198993847",
+      "doi": "10.21638/spbu12.2021.205",
+      "title": "The genesis of Western European sociological thought in the works of G. V. Plekhanov",
+      "authors": [
+        {
+          "name": "Svyatoslav S. Brazevich",
+          "openalex_id": "A5082984630",
+          "orcid": "https://orcid.org/0000-0002-4345-7428"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The article presents the results of the analysis by G.V.Plekhanov of the genesis of Western European sociological thought based on the consideration of the social ideas of the French materialists of the 18th century, the rudiments in their philosophical systems of the historical approach to the study of society and understanding the causes of social inequality and injustice as well as overcoming them. The sources and content of the philosophical and historical theories of the French historians of the Restoration period are revealed, those who recognized the struggle of classes as the cornerstone of the social, political and mental development of European society, including the interpretation of the concept of \u201csocial environment\u201d as a set of economic relations of classes, which was a contribution to the history of sociology. The analysis of the sociological views of utopian socialists and representatives of German classical philosophy is conducted. It was revealed that a significant contribution to the development of the theory of society were the ideas of social progress and the creation of a new social science that served the cause of social organization, developed by the utopian socialists, as well as the statement that the future of society is decided in the sphere of social and economic relations, and not political and legal ones. It is emphasized that Hegel\u2019s application of dialectics to the analysis of social changes meant undoubted progress in the development of sociological thought, which consisted in the advancement of the idea of the regularity of the social process. The methodological basis of the author\u2019s study of the problem of the genesis of Western European sociological thought in the works of G.V.Plekhanov is made up of dialectical-materialistic and comparative-historical methods, as well as the method of textological analysis and historical-philosophical reconstruction.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vestnik of Saint Petersburg University Sociology",
+        "type": "journal",
+        "issn": [
+          "2541-9374",
+          "2587-5809"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sociologyjournal.spbu.ru/article/download/11761/8151"
+      },
+      "topics": [
+        "Economic Development and Digital Transformation",
+        "Global Economic and Social Development"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3198993847"
+    },
+    {
+      "openalex_id": "W2175124963",
+      "doi": "10.18052/www.scipress.com/ilshs.51.42",
+      "title": "Narration and Historiography in McEwan\u2019s Selected Novels",
+      "authors": [
+        {
+          "name": "Maryam Sedaghat",
+          "openalex_id": "A5020029598",
+          "orcid": "https://orcid.org/0000-0001-7298-0907",
+          "institutions": [
+            "University of Isfahan"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-01",
+      "abstract": "As we saw in these three novels rewriting history may bring change of perspective, ideology and moral awakening for the reader. Linearity of history is challenged through depicting fragmented and multi-voiced personal histories. Historical traumas, although painful, bring an opportunity for revision and correction of our deeds. Without them human beings become complacent and immoral. For McEwan, writing about historical traumas is a solution to make historical traumas unforgettable and reminded to help us deal with our present situation which is vulnerable, violent and traumalogical. In these novels, self-reflection and self-transformation happens through writing about history",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "International Letters of Social and Humanistic Sciences",
+        "type": "journal",
+        "issn": [
+          "2300-2697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.scipress.com/ILSHS.51.42.pdf"
+      },
+      "topics": [
+        "Contemporary Literature and Criticism",
+        "Narrative Theory and Analysis",
+        "Hermeneutics and Narrative Identity"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W2175124963"
+    },
+    {
+      "openalex_id": "W4247418479",
+      "doi": "10.17223/15617793/415/9",
+      "title": "Domestic historiography of the second half of the 19th - early 20th centuries on the Peasant Reform of 1861",
+      "authors": [
+        {
+          "name": "Yuriy Yu. Ierusalimskiy",
+          "openalex_id": "A5034141597"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-01",
+      "abstract": "\u041e\u0422\u0415\u0427\u0415\u0421\u0422\u0412\u0415\u041d\u041d\u0410\u042f \u0418\u0421\u0422\u041e\u0420\u0418\u041e\u0413\u0420\u0410\u0424\u0418\u042f \u0412\u0422\u041e\u0420\u041e\u0419 \u041f\u041e\u041b\u041e\u0412\u0418\u041d\u042b",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Vestnik Tomskogo gosudarstvennogo universiteta",
+        "type": "journal",
+        "issn": [
+          "1561-7793",
+          "1561-803X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.tsu.ru/uploads/import/1542/files/415_071.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Regional Socio-Economic Development Trends"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4247418479"
+    },
+    {
+      "openalex_id": "W4206165577",
+      "doi": "10.21209/1996-7853-2021-16-3-24-33",
+      "title": "Clerical-Protective Direction in the Russian Historiography of the Old Believers of the 1850s: the Structure of Historical Research",
+      "authors": [
+        {
+          "name": "Madzharov Alexander S.",
+          "openalex_id": "A5071080492",
+          "orcid": "https://orcid.org/0000-0003-1933-8549",
+          "institutions": [
+            "Irkutsk State University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-01",
+      "abstract": "Understanding the historiography of the old believers depends on the level of development of the history of historical science, the development of its categorical apparatus. The lack of clarity of the research structure leads to uncertainty in terminology, in the description of scientific achievements and dead ends. The key historical works (historiographical facts) that defined the face of the science of their time are arbitrarily deleted from the literature, and the directions and stages of historiography are \u201cerased\u201d. The purpose of this work is to study the internal form and structure of clerical-protective historical research of old believers in the Russian literature of the 1850s: value, spatial, source \u2012 study, vector relations of the author to the object of research; a set of concepts that reveal the \u201cmechanism\u201d of explaining old believers; ways to gain knowledge about the split mediated by this structure. The analysis showed that the clerical ideological position expressed in the works of historians of this direction focused on the defense of the \u201cnew rite\u201d. It led to a narrowing of the subject of research, limiting it to \u201copinions\u201d and facts of the statement of schism, which produced the purpose of research \u2012 the \u201cexposure\u201d of schismatics and the moral-scholastic method of achieving it and pushed us to use a set of accusatory concepts in explaining the phenomenon under study. It became a barrier to the knowledge of anti-Church protest by the middle of the 19th century. The fact of the practical failure of the clerical doctrine, which was a consequence of its cognitive limitations, was also realized by the bearers of the accusatory tradition themselves. The question of the reasons for the emergence and development of the old believers has become relevant again. A new answer to this question in the late 1850s \u2012 early 1860s was given by the historian Afanasiy Prokopyevich Shchapov (1831\u20131876), who radically changed the theoretical and methodological foundations of the study. Keywords: historiography of the old believers, clerical-protective direction, structure of historical research, historiographical fact, direction, stage",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Humanitarian Vector",
+        "type": "journal",
+        "issn": [
+          "1996-7853",
+          "2542-0038"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.21209/1996-7853-2021-16-3-24-33"
+      },
+      "topics": [
+        "Regional Socio-Economic Development Trends"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4206165577"
+    },
+    {
+      "openalex_id": "W2908834952",
+      "doi": "10.17223/22220836/30/7",
+      "title": "CULTURE IN THE CONTEXT OF THE REVOLUTIONARY PROCESSES IN THE STRUGGLE FOR FAIR SOCIETY IN THE CONCEPTS MARXISM FOLLOWERS: QUESTIONS TO THE HISTORIOGRAPHY",
+      "authors": [
+        {
+          "name": "Olga M. Klimova",
+          "openalex_id": "A5065886936",
+          "institutions": [
+            "Ryazan State University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-01",
+      "abstract": "\u041a\u0423\u041b\u042c\u0422\u0423\u0420\u0410 \u0412 \u041a\u041e\u041d\u0422\u0415\u041a\u0421\u0422\u0415 \u0420\u0415\u0412\u041e\u041b\u042e\u0426\u0418\u041e\u041d\u041d\u042b\u0425 \u041f\u0420\u041e\u0426\u0415\u0421\u0421\u041e\u0412 \u0412 \u0411\u041e\u0420\u042c\u0411\u0415 \u0417\u0410 \u0421\u041f\u0420\u0410\u0412\u0415\u0414\u041b\u0418\u0412\u041e\u0415 \u041e\u0411\u0429\u0415\u0421\u0422\u0412\u041e \u0412 \u041a\u041e\u041d\u0426\u0415\u041f\u0426\u0418\u042f\u0425 \u041f\u041e\u0421\u041b\u0415\u0414\u041e\u0412\u0410\u0422\u0415\u041b\u0415\u0419 \u041c\u0410\u0420\u041a\u0421\u0418\u0417\u041c\u0410: \u041a \u0418\u0421\u0422\u041e\u0420\u0418\u041e\u0413\u0420\u0410\u0424\u0418\u0418 \u0412\u041e\u041f\u0420\u041e\u0421\u0410\u0421\u0442\u0430\u0442\u044c\u044f \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044e",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vestnik Tomskogo gosudarstvennogo universiteta Kul turologiya i iskusstvovedenie",
+        "type": "journal",
+        "issn": [
+          "2222-0836",
+          "2311-3685"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.tsu.ru/uploads/import/1718/files/30-068.pdf"
+      },
+      "topics": [
+        "Sustainable Urban and Rural Development"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W2908834952"
+    },
+    {
+      "openalex_id": "W2586558780",
+      "doi": "10.2307/2501267",
+      "title": "Plekhanov in Russian History and Soviet Historiography. By Samuel H. Baron. Pittsburgh: University of Pittsburgh Press, 1995. x, 255 pp. Bibliography. $59.95, hard bound.",
+      "authors": [
+        {
+          "name": "Philip Pomper",
+          "openalex_id": "A5062693568",
+          "institutions": [
+            "Wesleyan University"
+          ]
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-01-01",
+      "abstract": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Slavic Review",
+        "type": "journal",
+        "issn": [
+          "0037-6779",
+          "2325-7784"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2586558780"
+    },
+    {
+      "openalex_id": "W4365143871",
+      "doi": "10.4324/9781003419198",
+      "title": "The Hero in History",
+      "authors": [
+        {
+          "name": "Sydney Hook",
+          "openalex_id": "A5037821840"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-04-12",
+      "abstract": "The interaction of the individual in history and politics has posed major theoretical questions of historical analysis for the past two centuries: is social destiny shaped by forces beyond the power of the individual, or can the future be mastered by collective effort under the outstanding leadership of heroic men and women? In this classic study, a major philosopher and social theorist of the twentieth century offers a searching examination of the conditions under which individuals make choices that significantly alter the course of historical events and presents a scathing critique of various forms of social determinism that deny the individual freedom of action or a decisive role in history.The myth of the hero as the savior of the tribe or nation, as Hook notes, is older than written history. Until the ninteenth century, the hero functioned not merely as a cult figure but as a principle of historical explanation, a key to the rise and fall of countries and even of cultures. The exaggerations and omissions of this point of view produced an equally simplistic reaction with the formulation of determinist historiographies in which physical, racial, social, and economic forces replaced individuals as the dynamic factors in the development of events. Hook singles out orthodox Marxism as the most all-encompassing determinist system and subjects the historical thinking of Engels, Plekhanov, and Trotsky to sharp and meticulous scrutiny. Using the Russian Revolution as a test case, Hook observes that while the February 1917 Revolution was an inevitable development, the October revolution was, according to the best historical evidence, contingent upon the personality and actions of Lenin.In his 1978 reconsideration of the subject of heroism, appearing new to this edition, Hook defines a middle ground between the extremes of voluntarism and determinism that explains why the presence of strong personalities are decisive under certain conditions while under others key actors would appear to be almost interchangeable. He points us toward an understanding of a fascinating problem in history and raises essential questions about the role of \"great\" men and women in a democracy. The Hero in History will be of interest to intellectual historians, philosophers, political scientists, and sociologists.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Leadership, Courage, and Heroism Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4365143871"
+    },
+    {
+      "openalex_id": "W2002506017",
+      "doi": "10.1080/09546540500091043",
+      "title": "N.A. Rozhkov: His Bolshevik years and the origin of his polemics with Lenin",
+      "authors": [
+        {
+          "name": "John Gonz\u00e1lez",
+          "openalex_id": "A5054807150"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-06-01",
+      "abstract": "Abstract It is ironic, to say the least, that for a long time now the little known name of Nikolai Aleksandrovich Rozhkov (1868\u20131927) has been used to substantiate a range of claims about the world's most famous revolutionary \u2013 Lenin. Despite numerous one\u2010line references, so little has been written about Rozhkov that readers are unable to evaluate the validity of any statement written about him or his relationship to others, including Lenin. This article attempts to begin to address this issue by providing a very brief biography of Rozhkov, with particular reference to his revolutionary work in the Russian Social Democratic Labour Party (RSDLP) and his relationship with Lenin up to 1908. Notes See R. Hellie's article on CitationRozhkov in Wieczynski, ed., The Modern Encyclopedia of Russian and Soviet History, 217\u201321. CitationPipes, ed., The Unknown Lenin, 11\u201312; CitationVolkogonov, Lenin, 197, 362\u20133; CitationVolkogonov, The Rise and Fall of the Soviet Empire, 6\u20138; CitationService, Lenin, 459, 461. CitationMcNeal, Bride of the Revolution, 190. CitationService, Lenin, 458. See also CitationVolkogonov, Lenin, 416. CitationService, Lenin, 459. RTsKhIDNI, f.2, op.2, d.134, reprinted in Rodina no. 3 (1992), 49. CitationVolkogonov, The Rise and Fall of the Soviet Empire, 8. CitationPipes, ed., The Unknown Lenin, 12. CitationVolkogonov, Lenin, 103. CitationBarber, Soviet Historians in Crisis, 13. See also CitationBaron, Plekhanov, 39. N.A. Rozhkov, \u2018Avtobiografiia\u2019, in \u2018Pamiati N.A. Rozhkova\u2019, Katorga i ssylka no. 3 (Citation1927), 161. Rozhkov wrote his short autobiography in 1924 for the Granat entsiklopedicheskii slovar'. See CitationWolfe, Three Who Made a Revolution, 52\u201366. CitationRozhkov, \u2018Avtobiografiia\u2019, 161. Rozhkov, loc. cit. Rozhkov refers to this as the \u2018protsess pervomartovtsev\u2019; i.e. \u2018the events relating to the first of March\u2019. Rozhkov, loc. cit. The first of these works was a speech entitled \u2018An Attempt at Explaining the Fundamental Idea of Tragedy in Aeschylus's Prometheus Bound\u2019, which he had presented as a supernumerary teacher of classical languages to an audience of young men from the Perm' Men's Gimnaziia on their annual speech day on 4 October 1892; the second was a short paper that examined the primary source Russkaia pravda. See CitationSivkov, \u2018Materialy dlia bibliografii trudov N.A. Rozhkova\u2019, 166. CitationVernadsky, Russian Historiography, 276. CitationRozhkov, \u2018Avtobiografiia\u2019, 162. See also the encyclopaedia entry by Hellie (note 1). That is, a lecturer receiving a small salary supplemented by students' fees. CitationVernadsky, Russian Historiography, 276. It is interesting to note that Pokrovskii, after passing his master's examination, was not asked to remain with the department to continue his research. Kizevetter suggests that this might have been due to some conflict that Pokrovskii may have had with Kliuchevskii. See CitationKizevetter, Na rubezhe dvukh stoletii, 280\u20131. CitationSivkov, \u2018Materialy dlia bibliografii trudov N.A. Rozhkova\u2019, 164. CitationRozhkov, \u2018Neskol'ko spornykh sotsiologicheskikh voprosov\u2019, 87. CitationRozhkov, \u2018Uspekhi sovremennoi sotsiologii\u2019, 26. CitationRozhkov, \u2018Proiskhozhdenie soslovii v rossii\u2019, 30. CitationRozhkov, \u2018Neskol'ko spornykh sotsiologicheskikh voprosov\u2019, 88. CitationRozhkov, \u2018Otvet g. Vatinu\u2019, 25. See also CitationRozhkov, \u2018Uspekhi sovremennoi sotsiologii\u2019, 26. See CitationRozhkov, \u2018Nauchnoe mirosozertsanie i istorii\u2019, 105\u201312; and CitationRozhkov, \u2018Znachenie i sud'by noveishago idealizma\u2019, 314\u201333. Both these articles were included in CitationRozhkov, Istoricheskie i sotsiologicheskie ocherki, 20\u201346. CitationN.A. Rozhkov, Russkaia istoriia, 10. Rozhkov, loc.cit. CitationRozhkov, \u2018Uspekhi sovremennoi sotsiologii\u2019, 27. CitationRozhkov, \u2018Avtobiografiia\u2019, 162. Rozhkov, loc. cit. CitationSheehan, Marxism and the Philosophy of Science, 114. Plekhanov, \u2018Karl Marx\u2019, in his Selected Philosophical Works, Vol. 2, 676. CitationCopleston, Philosophy in Russia, 249. See also CitationKolakowski, Main Currents of Marxism, Vol. 2, 354. CitationRozhkov, Lektsii po istorii sotsializma, 75\u20136. Ibid., 76. Stepanov, \u2018Politicheskaia deiatel'nost' N.A. Rozhkova\u2019, 71. CitationRozhkov, \u2018Avtobiografiia\u2019, 162. See the note on the meaning of \u2018fraktsiia\u2019 in CitationWhite, Lenin, ix. Rozhkov and Sokolov, O Citation 1905 g., 5. See also CitationRozhkov, \u2018Avtobiografiia\u2019, 163. The full title was Pravda \u2013 ezhemesiachnyi zhurnal iskusstva, literatury, obshchestvennoi zhizni. CitationWhite, \u2018The First Pravda\u2019, 182. Rozhkov and Sokolov, O Citation 1905 g., 5. CitationWhite, \u2018The First Pravda\u2019, 181. CitationRozhkov, \u2018Avtobiografiia\u2019, 162. See also CitationVolobuev, \u2018N.A. Rozhkov v gody pervoi Russkoi revoliutsii\u2019, 109. Tsentral'nyi istoricheskii arkhiv Moskvy (TsIAM), f.418, op.501, ed. khr.4, ll.102\u20133. See also CitationRozhkov, \u2018Avtobiografiia\u2019, 162\u20133. Stepanov, \u2018Politicheskaia deiatel'nost' N.A. Rozhkova\u2019, 86. Rozhkov and Sokolov, O Citation 1905 g., 15, 22. See also CitationBobrovskaya, Twenty Years In Underground Russia, 124\u20135. Rozhkov and Sokolov, O Citation 1905 g., 14. CitationWhite, Lenin, 68\u201375. CitationVolobuev, \u2018N.A. Rozhkov v gody pervoi Russkoi revoliutsii\u2019, 109. CitationDesnitskii, M. Gorkii, 103. Twenty\u2010eight issues of Novaia Zhizn' appeared between 27 October (9 November, n.s.) and 3 (16) December 1905. Its official editor was the poet N.M. Minskii and the publisher was the actress and Bolshevik M.F. Andreeva. See CitationKrupskaya, Reminiscences of Lenin, 135. As James White pointed out in his unpublished doctoral thesis, the members of the editorial board are listed on each front page of Bor'ba. See CitationWhite, \u2018M.N. Pokrovsky and the Origins of Soviet Historiography\u2019, 84. CitationFedorchenko, \u2018O N.A. Rozhkove\u2019, 167. Rozhkov and Sokolov, O Citation 1905 g., 23. Rossiiskaia gosudarstvennaia biblioteka, f.170, k.3, ed. kr.6, l.165. Rozhkov and Sokolov, O Citation 1905 g., 25. Rozhkov, \u2018Citation1906 god\u2019, 55. CitationTompkins, The Triumph of Bolshevism, 163\u20134. See also Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 85\u20138. \u2018Otrezki\u2019 literally means \u2018cuts\u2019 or \u2018portions\u2019, but it historically refers to the plots of land, previously farmed by peasants, that the landlords \u2018cut\u2010off\u2019 or took from them when serfdom was abolished in 1861. See CitationWhite, Lenin, 75; Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 87\u20138; and CitationKrupskaya, Reminiscences of Lenin, 117. Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 87. V.I. Lenin, \u2018Revision of the Agrarian Programme of the Workers' Party\u2019, in CitationLenin, Collected Works, Vol. 10, 165\u201395. Ibid., 169. Ibid., 195. Lenin wrote that the \u2018comments and views of Comrades Finn, Plekhanov and Kautsky\u2019 were \u2018incomplete\u2019 and therefore could not be considered draft programmes. See ibid., 174. Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 93. See also CitationMaslov, Agrarnyi vopros v Rossii . CitationRozhkov, \u2018Proekt sotsial\u2010demokraticheskoi agrarnoi programmy\u2019. See also Lenin, \u2018Revision of the Agrarian Programme\u2019, in CitationLenin, Collected Works, 175; also Chetvertyi (Ob\u2033edinennyi) s\u2033ezd RSDRP. Protokoly. Lenin, \u2018Revision of the Agrarian Programme\u2019, 177. CitationRozhkov, Sel'skoe khoziaistvo Moskovskoi Rusi v XVI veke . These were the cadastres, or books containing detailed descriptions of all taxable objects, in early modern Muscovy. It is interesting to compare Rozhkov's thesis with I.N. Miklashevskii's economic study of the same period in Russian history (published in 1894 under the title K istorii khoziaistvennogo byta moskovskogo gosudarstva). Whereas Miklashevskii was concerned exclusively with economic phenomena, Rozhkov examined all aspects of Russian social development. For example, \u2018Natural'noe khoziaistvo i formy zemlevladeniia v drevnei rossii\u2019, Zhizn' no. 9 (1900), 41\u201365; Gorod i derevnia v russkoi istorii. (Kratkii ocherk ekonomicheskoi istorii rossii) (St Petersburg, 1902); \u2018K voprosu ob ekonomicheskikh prichinakh padeniia krepostnogo prava v rossii\u2019, Mir Bozhii no. 2 (1902), 160\u20135; \u2018K 50\u2010letiiu krest'ianskoi reformy. Programma N.A. Rozhkova\u2019, Trudy Permsk. Uch. Arkh. Kom. Tom VII (1904), 118\u201319; Istoriia krepostnogo prava v rossii (Rostov\u2010on\u2010Don, 1905); K agrarnomu voprosu (Moscow, 1905); Evoliutsiia khoziaistvennykh form (St Petersburg, 1905); Agrarnyi vopros v rossii i ego reshenie v programmakh razlichnykh partii. (Lektsii i referaty po voprosam programmy i taktiki sots.\u2010demokratii), Vyp. V (Moscow, 1906); Kak idet krest'ianskoe agrarnoe dvizhenie v rossii (St Petersburg, 1906); K. Kautskii, Agrarnyi vopros, translation edited by N.A. Rozhkov (Moscow, 1906); \u2018Proekt sotsial\u2010demokraticheskoi agrarnoi programmy\u2019, in Tekushchii moment (Moscow, 1906); \u2018Tekushchii moment\u2019, in Tekushchii moment (Moscow, 1906); \u2018Teoreticheskie predposylki resheniia agrarnogo voprosa\u2019, in Voprosy dnia (Moscow, 1906); and \u2018Ekonomicheskoe razvitie rossii v pervoi polovine XIX v.\u2019, Istoriia rossii v XIX veke, vol. 1 (Moscow, 1907). Rozhkov, \u2018Citation1906 god\u2019, 56. Ibid., 55. Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 92\u2013104. Rozhkov, \u2018Citation1906 god\u2019, 55. Ibid., 55\u20136. See also CitationVolobuev, \u2018N.A. Rozhkov v gody pervoi Russkoi revoliutsii\u2019, 110. Rozhkov also disagreed with the Bolshevik resolution in favour of \u2018partisan actions\u2019 (the so\u2010called \u2018expropriations\u2019, meaning robberies and the like staged to swell party funds), arguing that such a resolution was morally objectionable and open to misinterpretation during periods of social upheavals. See Rozhkov, \u2018Citation1906 god\u2019, 56. Ibid., 56. Ibid., 57. Ibid., 57. Nikoloai Pavlovich Shmidt, the wealthy owner of a Moscow furniture factory, who was murdered in prison after being arrested for his part in the December uprising of 1905, bequeathed his estate to the Social Democratic Party. This transaction became the subject of the so\u2010called \u2018Shmidt scandal\u2019. See CitationVolkogonov, Lenin, 58; CitationService, Lenin, 192, 220; CitationGetzler, Martov, 128, 130, 133; and CitationShub, Lenin, 127\u20138. Svetoch was a daily newspaper published in Moscow from 11 (24) May to 31 May (13 June n.s.), 1906. This law allowed the authorities to punish severely any individual or organisation that acted against the tsarist system. Rozhkov, \u2018Citation1906 god\u2019, 57. See CitationDesnitskii, M. Gorkii, 103. Rozhkov, loc. cit. Rozhkov, \u2018Citation1906 god\u2019, 58. Ibid., 58\u20139. See also CitationWhite, Lenin, 74\u20135; and CitationVolkogonov, Lenin, 58. CitationBaum, \u2018Neskol'ko faktov iz biografii N.A. Rozhkov\u2019, 168\u20139. Ibid., 169. Rozhkov, \u2018Citation1906 god\u2019, 60. In this period, Rozhkov used the name \u2018Viacheslav\u2019 as his new party pseudonym. Rozhkov, loc. cit. CitationKrupskaya, Reminiscences of Lenin, 152. Ibid., 61. Ibid., 61\u20132. See also E.A. Morokhovets, \u2018Kratkie biograficheskie svedeniia o N.A. Rozhkove\u2019 (Rossiiskaia Assotsiatsiia Nauchno\u2010Issledovatel'skikh Institutov Obshchestvennykh Nauk, Institut Istorii, Moskva), Uchenie zapiski (1928), 12. CitationMoskalev, Biuro tsentral'nogo komiteta RSDRP, 101. See also CitationWhite, Lenin, 77; and CitationService, Lenin, 180. Rozhkov, \u2018Citation1906 god\u2019, 61. See also CitationService, Lenin, 180\u20133. Rozhkov, \u2018Citation1906 god\u2019, 62. See Lenin's letter to his mother dated 15 October 1907, in CitationLenin, Collected Works, Vol. 37, 370\u20131. Citation Materialy po istorii professional'nogo dvizheniia v Rossii, 43. Piatyi (Londonskii) s\u2033ezd RSDRP, aprel'\u2013mai 1907 goda. Protokoly (Moscow: Gospolizdat, 1963), 247\u201359, 633\u20134. See also Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 107\u201315. Elwood, loc. cit. Citation Materialy po istorii professional'nogo dvizheniia v Rossii, 43. CitationAscher, ed., The Mensheviks in the Russian Revolution, 20. The twelve\u2010man Central Committee consisted of five Bolsheviks (N.A. Rozhkov, I.P. Goldenberg, I.F. Dubrovinskii, I.A. Teodorovich and V.P. Nogin), four Mensheviks (A.S. Martianov, Noi Zhordania, I.A. Isuv and Nikifor), two Poles (Adolf Warski and Feliks Dzierzyinski) and one Lett (Danishevsky). The other three representatives (one from the Latvian Social Democrats and two from the Bund) were to be named later by their organisation. CitationRozhkov, \u2018Pamiati I.F. Dubrovinskogo\u2019, 70. Rozhkov, \u2018Citation1906 god\u2019, 63. CitationRozhkov, \u2018Avtobiografiia\u2019, 164. Rossiiskii gosudarstvennyi arkhiv sotsial'no\u2010politicheskoi istorii (RGASPI), f.18, op.20, ed. khr.41411, l.3ob. Citation Materialy po istorii professional'nogo dvizheniia v Rossii, 44. See also Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 120\u20134. Materialy po istorii professional 'nogo dvizheniia v Rossii, 44. Stepanov, \u2018Politicheskaia deiatel'nost' N.A. Rozhkova\u2019, 89. CitationZelnik, A Radical Worker in Tsarist Russia, 232. Rozhkov had been arrested twice before in 1905 and 1906. See CitationRozhkov, \u2018Avtobiografiia\u2019, 163\u20134; and CitationKrupskaya, Reminiscences of Lenin, 183. CitationRozhkov, \u2018Avtobiografiia\u2019, 164. CitationRozhkov, Sud'by russkoi revoliutsii, 3. Ibid., 3\u20134. Ibid., 106. Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 38. CitationRozhkov, Sud'by russkoi revoliutsii, 10\u201312. Elwood, The Russian Social Democratic Labour Party, Citation 1898 \u2013October 1917, 39\u201345. Elwood, loc. cit. CitationRozhkov, Sud'by russkoi revoliutsii, 121. Ibid., 112. Ibid., 117. Karl Marx, Critique of Political Economy (1859), 10\u201313, cited in CitationSelsam and Martel, eds., Reader in Marxist Philosophy, 186. CitationRozhkov, Sud'by russkoi revoliutsii, 117. Ibid., 89. Ibid., 113\u201314. CitationGetzler, Martov, 101. CitationRozhkov, Sud'by russkoi revoliutsii, 104. Ibid., 104\u20135. Ibid., 104. CitationRozhkov, Osnovnye zakony razvitiia obshchestvennykh iavleni, 7\u20138, 42\u20134, 83\u20136. Ibid., 64. Ibid., 64\u201386. Ibid., 44, 87. Ibid., 86. Ibid., 44\u20138. Given recent events in Eastern Europe, Rozhkov's arguments a century later appear very relevant and plausible.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Revolutionary Russia",
+        "type": "journal",
+        "issn": [
+          "0954-6545",
+          "1743-7873"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W2002506017"
+    },
+    {
+      "openalex_id": "W4403294214",
+      "doi": "10.24147/2312-1300.2023.10(3).48-58",
+      "title": "The Method of G.V. Plekhanov in the Study of the Doctrines of A.P. Shchapov and N.G. Chernyshevsky (50-80s of the 19th Century)",
+      "authors": [
+        {
+          "name": "Alexander S. Madzharov",
+          "openalex_id": "A5108343803"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "G.V. Plekhanov's research attracted the attention of specialists. But not all of his works have become the subject of historiographical analysis. The article dedicated to the historian A.P. Shchapov and the applied methodology embodied in it were not studied. G.V. Plekhanov highly appreciated the importance of the scientist's personality and creativity in the formation of the populist ideology and the democratic concept of Russian history. He identified federalist (A.P. Shchapov) and centralist (N.G. Chernyshevsky) trends in the democratic direction of Russian historiography and stressed the need to study the works of the historian, but did not disclose the historical aspect of the topic. The doctrine of A.P. Shchapov, which highlights the creative role of the masses in the history of Russia, and its place in the historiography of the 60s of the 19th century, remained outside the study. Criticizing the narodnik model of historical knowledge, G.V. Plekhanov relied on Marxist ideas about the future: revolution, the state, the proletariat, class differentiation, the place of the people (peasantry) in this process. The critic's conclusions were based on comparative (analogy), deductive, probabilistic conclusions. His doctrine was a multi-vector, historiographical, political, futurological related Marxist scheme and the purpose of the study. It was structured in accordance with the task of criticism of populism and in this configuration correlated with the analyzed text, replacing the populist form (paradigm) of historical research with the Marxist one.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Herald of Omsk University Series Historical Studies",
+        "type": "journal",
+        "issn": [
+          "2312-1300",
+          "3034-3852"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://history-journal.omsu.ru/issues/366/10867.pdf"
+      },
+      "topics": [
+        "Historical and Literary Analyses",
+        "Historical and Modern Theater Studies",
+        "Russian Literature and Bakhtin Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4403294214"
+    },
+    {
+      "openalex_id": "W2996219376",
+      "doi": "10.21638/11701/spbu24.2019.206",
+      "title": "With Adventure Through Life: Maria Alexandrovna Grishina-Almazova (Mikhailova)",
+      "authors": [
+        {
+          "name": "\u0414. \u0418. \u041f\u0435\u0442\u0438\u043d",
+          "openalex_id": "A5045955902",
+          "orcid": "https://orcid.org/0000-0003-1614-8133"
+        },
+        {
+          "name": "Historical archive of Omsk region",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The publication is a historical and biographical study of a woman who played an important role in the highest socio-political circles of Omsk during the Civil War, becoming the beloved of two key political figures in anti-Bolshevik eastern Russia, and subsequently ended her days in emigration. Using previously classified documents in archives of the FSB Directorate for the Omsk Region and the State Archives of the Khabarovsk Territory and applying historical-biographical and chronological methods, the article considers historiography of the topic and unexplored lacunae. The most informative materials are diary fragments and judicial-investigative documents from the criminal case concerning the heroine (1920), and emigrant questionnaires of her and her son (1942, 1945), along with memoirs and published sources about the heroine\u2019s participation in the trial of Kolchak ministers in May 1920, as well as references on Russian emigration. These sources provide an ambiguous biography of the heroine.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Modern History of Russia",
+        "type": "journal",
+        "issn": [
+          "2219-9659",
+          "2309-7973"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://dspace.spbu.ru/bitstream/11701/15741/1/389-405.pdf"
+      },
+      "topics": [
+        "Scientific Research and Philosophical Inquiry",
+        "Discourse Analysis and Cultural Communication",
+        "Educational Methods and Teacher Development"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2996219376"
+    },
+    {
+      "openalex_id": "W4402965201",
+      "doi": "10.4324/9781003531487-10",
+      "title": "Socialism in Current Soviet Historiography",
+      "authors": [
+        {
+          "name": "Adam B. Ulam",
+          "openalex_id": "A5082049385"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-30",
+      "abstract": "The Soviet historian, wrote Voprosy Istorii in March 1957 (p. 4), dare not be merely \u2018a by-stander, or a copyist of materials, [or] a collector of evidence which by chance has fallen into his hand.\u2019 He is an active participant in the work of socialist construction, an exponent of Marxism-Leninism, an interpreter of the past in the light of guidance laid down by his party and the state. An exasperated western observer may feel, after having absorbed a quota of contemporary Soviet historiography, that the art of writing modern history in the ussr has come to resemble that of an American writer on etiquette. The problem of what to do with the bride\u2019s divorced father who shows up at the wedding typifies the major methodological and classificatory dilemmas involved in assigning a \u2018correct\u2019 place in history to, say, Plekhanov. The father of Russian Marxism cannot be assigned the place of honour because of the transgressions of his later days, nor can he be pushed out of the church because of his organic connection with the proceedings. Exactly where to put him in the church and what degree of reverence and cordiality to observe towards him are the questions which confront a conscientious Soviet historian, and his answers, like those of Emily Post, have to be precise and in complete agreement with accepted theory and practice.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4402965201"
+    },
+    {
+      "openalex_id": "W2049623879",
+      "doi": "10.21435/sfh.12",
+      "title": "Modernisation in Russia since 1900",
+      "authors": [
+        {
+          "name": "Jeremy Smith",
+          "openalex_id": "A5110094462",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Markku Kangaspuro",
+          "openalex_id": "A5012381235",
+          "orcid": "https://orcid.org/0000-0002-5112-4244",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-27",
+      "abstract": "Modernisation has been a constant theme in Russian history at least since Peter the Great launched a series of initiatives aimed at closing the economic, technical and cultural gap between Russia and the more \u2018advanced\u2019 countries of Europe. All of the leaders of the Soviet Union and post-Soviet Russia have been intensely aware of this gap, and have pursued a number of strategies, some more successful than others, in order to modernise the country. But it would be wrong to view modernisation as a unilinear process which was the exclusive preserve of the state. Modernisation has had profound effects on Russian society, and the attitudes of different social groups have been crucial to the success and failure of modernisation. This volume examines the broad theme of modernisation in late imperial, Soviet, and post-Soviet Russia both through general overviews of particular topics, and specific case studies of modernisation projects and their impact. Modernisation is seen not just as an economic policy, but as a cultural and social phenomenon reflected through such diverse themes as ideology, welfare, education, gender relations, transport, political reform, and the Internet. The result is the most up to date and comprehensive survey of modernisation in Russia available, which highlights both one of the perennial problems and the challenges and prospects for contemporary Russia.",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://oa.finlit.fi/site/books/10.21435/sfh.12/download/7745/"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 284,
+      "url": "https://openalex.org/W2049623879"
+    },
+    {
+      "openalex_id": "W2044124275",
+      "doi": "10.11606/issn.2316-901x.v0i58p35-50",
+      "title": "Esquerdas, pol\u00edtica e cultura no Brasil (1950-1970) um balan\u00e7o historiogr\u00e1fico",
+      "authors": [
+        {
+          "name": "Marcos Napolitano",
+          "openalex_id": "A5064503830",
+          "orcid": "https://orcid.org/0000-0002-5336-2350",
+          "institutions": [
+            "Centro Regional de Derechos Humanos y Justicia de G\u00e9nero, Corporaci\u00f3n Humanas",
+            "Universidade de S\u00e3o Paulo"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-30",
+      "abstract": "This article offers a critical assessment of the trajectory of committed left art in Brazil between end of the 1950\u2019s and end of the 1970\u2019s, based on established bibliographic debates and more recent historiographical revisions. The focus is on the trajectory of the national-popular culture and the aesthetic propositions developed by artists linked to the Brazilian Communist Party (PCB), which suffered a major criticism from the late 1960\u2019s by other left currents. From this central perspective, we analyze tensions and contradictions within the established historiography on Brazilian left culture, caused by its excessive tribute to the memory produced by historical protagonists involved in cultural struggles in the 1960\u2019s and 1970\u2019s.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Revista do Instituto de Estudos Brasileiros",
+        "type": "journal",
+        "issn": [
+          "0020-3874",
+          "2316-901X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.revistas.usp.br/rieb/article/download/82384/85361"
+      },
+      "topics": [
+        "Brazilian cultural history and politics",
+        "Youth, Politics, and Society",
+        "History, Culture, and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2044124275"
+    },
+    {
+      "openalex_id": "W2581479994",
+      "doi": "10.17223/18572685/46/8",
+      "title": "THE NORTHWEST CAUCASUS FROM ANCIENT TIMES TO THE 19TH\u00a0CENTURY: A HISTORIOGRAPHICAL REVIEW OF THE RECENT PUBLICATIONS IN THE\u00a0PERIODICALS",
+      "authors": [
+        {
+          "name": "Andrey Baibarin",
+          "openalex_id": "A5075748297",
+          "institutions": [
+            "307th Hospital of Chinese People\u2019s Liberation Army",
+            "South-West State University"
+          ]
+        },
+        {
+          "name": "Nikolay A. Mashkin",
+          "openalex_id": "A5084078261",
+          "orcid": "https://orcid.org/0000-0003-4890-1791",
+          "institutions": [
+            "Plekhanov Russian University of Economics"
+          ]
+        },
+        {
+          "name": "Pavel G. Shelengovskiy",
+          "openalex_id": "A5028835567",
+          "institutions": [
+            "Plekhanov Russian University of Economics"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-01",
+      "abstract": ", 2008-2015 . - XX . , . : 1) - ; 2) - ; 3)",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Rusin",
+        "type": "journal",
+        "issn": [
+          "1857-2685",
+          "2345-1149"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.tsu.ru/uploads/import/1484/files/4(46)_119.pdf"
+      },
+      "topics": [
+        "Historical and Cultural Archaeology Studies",
+        "American Environmental and Regional History",
+        "Archaeology and Natural History"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2581479994"
+    },
+    {
+      "openalex_id": "W228930601",
+      "doi": null,
+      "title": "Plekhanov: The Father of Authoritarian Russian Socialism",
+      "authors": [
+        {
+          "name": "Michael Kellogg",
+          "openalex_id": "A5076050885"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "the young fanatic confident that the ends justified the means.\"",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/2q60c3s9"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W228930601"
+    },
+    {
+      "openalex_id": "W3139242500",
+      "doi": "10.47946/rnera.v0i7.1456",
+      "title": "A DEFINI\u00c7\u00c3O DE CAMPON\u00caS: CONCEITUA\u00c7\u00d5ES E DESCONCEITUA\u00c7\u00d5ES \u2013 O VELHO E O NOVO EM UMA DISCUSS\u00c3O MARXISTA",
+      "authors": [
+        {
+          "name": "\u0422\u0435\u043e\u0434\u043e\u0440 \u0428\u0430\u043d\u0438\u043d",
+          "openalex_id": "A5016347963",
+          "institutions": [
+            "Moscow School of Social and Economic Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-29",
+      "abstract": "H\u00e1 raz\u00f5es para definir \u201ccampon\u00eas\u201d e h\u00e1 raz\u00f5es para deixar indefinida a palavra, uma figura de linguagem fora do dom\u00ednio onde residem as criteriosas categorias do conhecimento. Tal decis\u00e3o jamais \u00e9 inconseq\u00fcente, pois este conceito, se aceito como tal, vincula-se ao pr\u00f3prio \u00e2mago do pensamento te\u00f3rico sobre a sociedade global contempor\u00e2nea e reflete-se em conclus\u00f5es de imediato interesse pol\u00edtico e anal\u00edtico. O que importa s\u00e3o as maneiras com tais palavras s\u00e3o utilizadas. Sem d\u00favida, pode-se exagerar as preocupa\u00e7\u00f5es com terminologias, desviando-se para um discurso fastidioso, em que longas palavras s\u00e3o usadas para tecer mais palavras, ainda mais longas, sem jamais retornar ao mundo dos vivos. Para evit\u00e1-lo, o pensamento dos cientistas sociais deve sempre mergulhar diretamente nas realidades e nos problemas sociais e pol\u00edticos. Entretanto, de vez em quando, recomenda-se fazer um teste do conceito ou voltar \u00e0s suas ra\u00edzes epistemol\u00f3gicas. Para que, agora, o momento \u00e9 prop\u00edcio para isso, pois por raz\u00f5es \u00e0s quais retornaremos brevemente, a moda intelectual de \u201cestudos camponeses\u201d parece aproximar-se de um novo est\u00e1gio e de um momento decisivo.",
+      "cited_by_count": 37,
+      "type": "article",
+      "source": {
+        "name": "REVISTA NERA",
+        "type": "journal",
+        "issn": [
+          "1806-6755"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revista.fct.unesp.br/index.php/nera/article/download/1456/1432"
+      },
+      "topics": [
+        "Rural Development and Agriculture"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W3139242500"
+    },
+    {
+      "openalex_id": "W2099313189",
+      "doi": null,
+      "title": "Workers and Intelligentsia in Late Imperial Russia: Realities, Representations, Reflections",
+      "authors": [
+        {
+          "name": "Reginald E. Zelnik",
+          "openalex_id": "A5068134979"
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-01-01",
+      "abstract": "The collapse of the Soviet Union opened previously unimagined possibilities for insight into Russian social, intellectual, and political history.This volume, a collaboration of American, Russian, and West European scholars, illuminates the creation and complex dynamics of the Russian industrial working class from its peasant origins in the mid-nineteenth century to the collapse of the imperial system in 1917.The authors focus on the shifting attitudes, cultural norms, self-representations, and increasing self-consciousness of workers as they interacted with the new social movements, student groups, the Church, and most dramatically, the political (mainly radical and liberal) intelligentsia.But the authors also examine the obverse: the contending representations of workers by the intelligentsia as they interacted with each other ever more intensely during this turbulent period leading up to the Russian Revolution.The result is a fascinating and detailed account of social and cultural transformation in a key period of Russian -and world -history.",
+      "cited_by_count": 14,
+      "type": "book",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt27p076zk/qt27p076zk.pdf?t=leys6g"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Anarchism and Radical Politics",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2099313189"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

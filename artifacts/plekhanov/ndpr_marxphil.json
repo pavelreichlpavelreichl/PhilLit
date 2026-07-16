@@ -1,0 +1,19 @@
+[search_ndpr.py] Fetching NDPR sitemap...
+[search_ndpr.py] Found 6069 review URLs in sitemap
+{
+  "status": "success",
+  "source": "ndpr",
+  "query": {
+    "title": "Marxism and Philosophy",
+    "author": null
+  },
+  "results": [
+    {
+      "url": "https://ndpr.nd.edu/reviews/also-a-history-of-philosophy-vol-iii-rational-freedom-traces-of-the-discourse-on-faith-and-knowledge/",
+      "slug": "also-a-history-of-philosophy-vol-iii-rational-freedom-traces-of-the-discourse-on-faith-and-knowledge",
+      "score": 0.6666666666666666
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
