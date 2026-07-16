@@ -1,0 +1,388 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: hegel-dialectics
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Hegel’s Dialectics
+{
+  "status": "success",
+  "source": "sep",
+  "query": "hegel-dialectics",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/hegel-dialectics/",
+      "entry_name": "hegel-dialectics",
+      "title": "Hegel\u2019s Dialectics",
+      "preamble": "\u201cDialectics\u201d is a term used to describe a method of\nphilosophical argument that involves some sort of contradictory\nprocess between opposing sides. In what is perhaps the most classic\nversion of \u201cdialectics\u201d, the ancient Greek philosopher,\nPlato (see entry on Plato ),\n for instance, presented his philosophical argument as a\nback-and-forth dialogue or debate, generally between the character of\nSocrates, on one side, and some person or group of people to whom\nSocrates was talking (his interlocutors), on the other. In the course\nof the dialogues, Socrates\u2019 interlocutors propose definitions of\nphilosophical concepts or express views that Socrates challenges or\nopposes. The back-and-forth debate between opposing sides produces a\nkind of linear progression or evolution in philosophical views or\npositions: as the dialogues go along, Socrates\u2019 interlocutors\nchange or refine their views in response to Socrates\u2019 challenges\nand come to adopt more sophisticated views. The back-and-forth\ndialectic between Socrates and his interlocutors thus becomes\nPlato\u2019s way of arguing against the earlier, less sophisticated\nviews or positions and for the more sophisticated ones later. \u201cHegel\u2019s dialectics\u201d refers to the particular\ndialectical method of argument employed by the 19th Century German\nphilosopher, G.W.F. Hegel (see entry on Hegel ),\n which, like other \u201cdialectical\u201d methods, relies on a\ncontradictory process between opposing sides. Whereas Plato\u2019s\n\u201copposing sides\u201d were people (Socrates and his\ninterlocutors), however, what the \u201copposing sides\u201d are in\nHegel\u2019s work depends on the subject matter he discusses. In his\nwork on logic, for instance, the \u201copposing sides\u201d are\ndifferent definitions of logical concepts that are opposed to one\nanother. In the Phenomenology of Spirit , which presents\nHegel\u2019s epistemology or philosophy of knowledge, the\n\u201copposing sides\u201d are different definitions of\nconsciousness and of the object that consciousness is aware of or\nclaims to know. As in Plato\u2019s dialogues, a contradictory process\nbetween \u201copposing sides\u201d in Hegel\u2019s dialectics leads\nto a linear evolution or development from less sophisticated\ndefinitions or views to more sophisticated ones later. The dialectical\nprocess thus constitutes Hegel\u2019s method for arguing against the\nearlier, less sophisticated definitions or views and for the more\nsophisticated ones later. Hegel regarded this dialectical method or\n\u201cspeculative mode of cognition\u201d (PR \u00a710) as the\nhallmark of his philosophy and used the same method in the Phenomenology of Spirit [PhG], as well as in all of the\nmature works he published later\u2014the entire Encyclopaedia of\nPhilosophical Sciences (including, as its first part, the\n\u201cLesser Logic\u201d or the Encyclopaedia Logic [EL]),\nthe Science of Logic [SL], and the Philosophy of\nRight [PR]. Note that, although Hegel acknowledged that his dialectical method was\npart of a philosophical tradition stretching back to Plato, he\ncriticized Plato\u2019s version of dialectics. He argued that\nPlato\u2019s dialectics deals only with limited philosophical claims\nand is unable to get beyond skepticism or nothingness (SL-M\n55\u20136; SL-dG 34\u20135; PR, Remark to \u00a731). According to\nthe logic of a traditional reductio ad absurdum argument, if\nthe premises of an argument lead to a contradiction, we must conclude\nthat the premises are false\u2014which leaves us with no premises or\nwith nothing. We must then wait around for new premises to spring up\narbitrarily from somewhere else, and then see whether those new\npremises put us back into nothingness or emptiness once again, if\nthey, too, lead to a contradiction. Because Hegel believed that reason\nnecessarily generates contradictions, as we will see, he thought new\npremises will indeed produce further contradictions. As he puts the\nargument, then, the scepticism that ends up with the bare abstraction of nothingness\nor emptiness cannot get any further from there, but must wait to see\nwhether something new comes along and what it is, in order to throw it\ntoo into the same empty abyss. (PhG-M \u00a779) Hegel argues that, because Plato\u2019s dialectics cannot get beyond\narbitrariness and skepticism, it generates only approximate truths,\nand falls short of being a genuine science (SL-M 55\u20136; SL-dG\n34\u20135; PR, Remark to \u00a731; cf. EL Remark to \u00a781). The\nfollowing sections examine Hegel\u2019s dialectics as well as these\nissues in more detail.",
+      "bibliography": [
+        {
+          "raw": "[EL], The Encyclopedia Logic [Enzyklop\u00e4die der\nphilosophischen Wissenschaften I] . Because the translations of EL\nlisted below use the same section numbers as well as sub-paragraphs\n(\u201cRemarks\u201d) and sub-sub-paragraphs\n(\u201cAdditions\u201d), citations simply to \u201cEL\u201d refer\nto either translation. If the phrasing in English is unique to a\nspecific translation, the translators\u2019 initials are added.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[EL-BD], Encyclopedia of the Philosophical Sciences in Basic\nOutline Part I: Science of Logic [Enzyklop\u00e4die der\nphilosophischen Wissenschaften I] , translated by Klaus Brinkmann\nand Daniel O. Dahlstrom, Cambridge: Cambridge University Press,\n2010.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[EL-GSH], The Encyclopedia Logic: Part 1 of the Encyclopaedia\nof Philosophical Sciences [Enzyklop\u00e4die der philosophischen\nWissenschaften I] , translated by T.F. Geraets, W.A. Suchting, and\nH.S. Harris, Indianapolis: Hackett, 1991.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[LHP], Lectures on the History of Philosophy [Geschichte der\nPhilosophie] , in three volumes, translated by E.S. Haldane and\nFrances H. Simson, New Jersey: Humanities Press, 1974.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PhG], Phenomenology of Spirit [Ph\u00e4nomenologie des\nGeistes] . Because the translations of PhG listed below use the\nsame section numbers, citations simply to \u201cPhG\u201d refer to\neither translation. If the phrasing in English is unique to a specific\ntranslation, the translator\u2019s initial is added.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PhG-M], Hegel\u2019s Phenomenology of Spirit\n[Ph\u00e4nomenologie des Geistes] , translated by A.V. Miller,\nOxford: Oxford University Press, 1977.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PhG-P], Georg Wilhelm Friedrich Hegel: The Phenomenology of\nSpirit [Ph\u00e4nomenologie des Geistes] , translated and edited\nby Terry Pinkard, Cambridge: Cambridge University Press, 2018.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PR], Elements of the Philosophy of Right [Philosophie des\nRechts] , edited by Allen W. Wood and translated by H.B. Nisbet,\nCambridge: Cambridge University Press, 1991.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[SL-dG], Georg Wilhelm Friedrich Hegel: The Science of Logic\n[Wissenschaft der Logik] , translated by George di Giovanni, New\nYork: Cambridge University Press, 2010.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[SL-M], Hegel\u2019s Science of Logic [Wissenschaft der\nLogik] , translated by A.V. Miller, Oxford: Oxford University\nPress, 1977.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Aristotle, 1954, The Complete Works of Aristotle: The Revised\nOxford Translation (in two volumes), edited by Jonathan Barnes.\nPrinceton: Princeton University Press. (Citations to Aristotle\u2019s\ntext use the Bekker numbers, which appear in the margins of many\ntranslations of Aristotle\u2019s works.)",
+          "parsed": {
+            "authors": [
+              "Aristotle"
+            ],
+            "year": "1954",
+            "title": "Aristotle, 1954, The Complete Works of Aristotle: The Revised\nOxford Translation (in two volumes), edited by Jonathan Barnes.\nPrinceton: Princeton University Press. (Citations to Aristotle\u2019s\ntext use the Bekker numbers, which appear in the margins of many\ntranslations of Aristotle\u2019s works.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Fichte, J.G., 1982 [1794/95], The Science of Knowledge ,\ntranslated by Peter Heath and John Lachs, Cambridge: Cambridge\nUniversity Press. (Citations to Fichte\u2019s work include references\nto the volume and page number in the German edition of Fichte\u2019s\ncollected works edited by I.H Fichte, which are used in the margins of\nmany translations of Fichte\u2019s works.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kant, Immanuel, 1999 [1781], Critique of Pure Reason ,\ntranslated and edited by Paul Guyer and Allen Wood. Cambridge:\nCambridge University Press. (Citations to Kant\u2019s text use the\n\u201cAk.\u201d numbers, which appear in the margins of many\ntranslations of Kant\u2019s works.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Plato, 1961, The Collected Dialogues of Plato: Including the\nLetters , edited by Edith Hamilton and Huntington Cairns.\nPrinceton: Princeton University Press. (Citations to Plato\u2019s\ntext use the Stephanus numbers, which appear in the margins of many\ntranslations of Plato\u2019s works.)",
+          "parsed": {
+            "authors": [
+              "Plato"
+            ],
+            "year": "1961",
+            "title": "Plato, 1961, The Collected Dialogues of Plato: Including the\nLetters , edited by Edith Hamilton and Huntington Cairns.\nPrinceton: Princeton University Press. (Citations to Plato\u2019s\ntext use the Stephanus numbers, which appear in the margins of many\ntranslations of Plato\u2019s works.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Bencivenga, Ermanno, 2000, Hegel\u2019s Dialectical\nLogic , New York: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Berto, Francesco, 2007, \u201cHegel\u2019s Dialectics as a\nSemantic Theory: An Analytic Reading\u201d, European Journal of\nPhilosophy , 15(1): 19\u201339.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Burbidge, John, 1981, On Hegel\u2019s Logic: Fragments of a\nCommentary , Atlantic Highlands, NJ: Humanities Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "D\u00fcsing, Klaus, 2010, \u201cOntology and Dialectic in\nHegel\u2019s Thought\u201d, translated by Andr\u00e9s Colapinto,\nin The Dimensions of Hegel\u2019s Dialectic , Nectarios G.\nLimmnatis (ed.), London: Continuum, pp. 97\u2013122.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Findlay, J.N., 1962, Hegel: A Re-Examination , New York:\nCollier Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1966, Review of Hegel:\nReinterpretation, Texts, and Commentary , by Walter Kaufmann. The Philosophical Quarterly , 16(65): 366\u201368.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1966",
+            "title": "\u2013\u2013\u2013, 1966, Review of Hegel:\nReinterpretation, Texts, and Commentary , by Walter Kaufmann. The Philosophical Quarterly , 16(65): 366\u201368."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Forster, Michael, 1993, \u201cHegel\u2019s Dialectical\nMethod\u201d, in The Cambridge Companion to Hegel , Frederick\nC. Beiser (ed.), Cambridge: Cambridge University Press, pp.\n130\u2013170.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Fritzman, J.M., 2014, Hegel , Cambridge: Polity\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Harris, Errol E., 1983, An Interpretation of the Logic of\nHegel , Lanham, MD: University Press of America.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Harris, H.S. (Henry Silton), 1997, Hegel\u2019s Ladder (in two volumes: vol. I, The Pilgrimage of Reason , and vol.\nII, The Odyssey of Spirit ), Indianapolis, IN: Hackett).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hyppolite, Jean, 1974, Genesis and Structure of Hegel\u2019s\n\u201cPhenomenology of Spirit \u201d, Evanston, IL: Northwestern\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Inoue, Kazumi, 2014, \u201cDialectical Contradictions and\nClassical Formal Logic\u201d, International Studies in the\nPhilosophy of Science , 28(2), 113\u2013132.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ja\u015bkowski, Stanislaw, 1999 [1969], \u201cA Propositional\nCalculus for Inconsistent Deductive Systems\u201d, translated by\nOlgierd Wojtasiewicz and A. Pietruszczak, Logic and Logical\nPhilosophy (7)7: 35\u201356. (This article is a republication,\nwith some changes, of a 1969 translation by Wojtasiewicz entitled\n\u201cPropositional Calculus for Contradictory Deductive Systems\n(Communicated at the Meeting of March 19, 1948)\u201d, published in Studia Logica , 24, 143\u2013160.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kaufmann, Walter Arnold, 1965, Hegel: Reinterpretation, Texts,\nand Commentary , Garden City, NY: Doubleday and Company Inc.",
+          "parsed": {
+            "authors": [
+              "Kaufmann, Walter Arnold"
+            ],
+            "year": "1965",
+            "title": "Hegel: Reinterpretation, Texts",
+            "publisher": "and Commentary , Garden City, NY: Doubleday and Company Inc"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1966, A Reinterpretation , Garden\nCity, NY: Anchor Books. (This is a republication of the first part of Hegel: Reinterpretation, Texts, and Commentary .)",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1966",
+            "title": "\u2013\u2013\u2013, 1966, A Reinterpretation , Garden\nCity, NY: Anchor Books. (This is a republication of the first part of Hegel: Reinterpretation, Texts, and Commentary .)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1976 [1972], \u201cThe Hegel Myth and its\nMethod\u201d, in Hegel: A Collection of Critical Essays ,\nAlasdair MacIntyre (ed.), Notre Dame, IN: University of Notre Dame\nPress: 21\u201360. (This is a republication of the 1972 Anchor\nBooks/Doubleday edition.)",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1976",
+            "title": "\u2013\u2013\u2013, 1976 [1972], \u201cThe Hegel Myth and its\nMethod\u201d, in Hegel: A Collection of Critical Essays ,\nAlasdair MacIntyre (ed.), Notre Dame, IN: University of Notre Dame\nPress: 21\u201360. (This is a republication of the 1972 Anchor\nBooks/Doubleday edition.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Kosok, Michael, 1972, \u201cThe Formalization of Hegel\u2019s\nDialectical Logic: Its Formal Structure, Logical Interpretation and\nIntuitive Foundation\u201d, in Hegel: A Collection of Critical\nEssays , Alisdair MacIntyre (ed.), Notre Dame, IN: University of\nNotre Dame Press: 237\u201387.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lauer, Quentin, 1976, A Reading of Hegel\u2019s\n\u201cPhenomenology of Spirit\u201d , New York: Fordham\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Margolis, Joseph, 2010, \u201cThe Greening of Hegel\u2019s\nDialectical Logic\u201d, in The Dimensions of Hegel\u2019s\nDialectic , Nectarios G. Limmnatis (ed.), London: Continuum, pp.\n193\u2013215.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Maybee, Julie E., 2009, Picturing Hegel: An Illustrated Guide\nto Hegel\u2019s \u201cEncyclopaedia Logic\u201d , Lanham, MD:\nLexington Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McTaggart, John McTaggart Ellis, 1964 [1910], A Commentary of\nHegel\u2019s Logic , New York: Russell and Russell Inc. (This\nedition is a reissue of McTaggart\u2019s book, which was first\npublished in 1910.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mueller, Gustav, 1958, \u201cThe Hegel Legend of\n\u2018Synthesis-Antithesis-Thesis\u2019\u201d, Journal of the\nHistory of Ideas , 19(3): 411\u201314.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mure, G.R.G., 1950, A Study of Hegel\u2019s Logic ,\nOxford: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "Mure, G.R.G."
+            ],
+            "year": "1950",
+            "title": "A Study of Hegel\u2019s Logic ",
+            "publisher": "Oxford: Oxford University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Pinkard, Terry, 1988, Hegel\u2019s Dialectic: The Explanation\nof a Possibility , Philadelphia: Temple University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Priest, Graham, 1985, \u201cInconsistencies in Motion\u201d, American Philosophical Quarterly , 22(4): 339\u2013346.",
+          "parsed": {
+            "authors": [
+              "Priest, Graham"
+            ],
+            "year": "1985",
+            "title": "\u201cInconsistencies in Motion\u201d",
+            "publisher": "American Philosophical Quarterly , 22(4): 339\u2013346"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1989, \u201cDialectic and\nDialetheic\u201d, Science and Society , 53(4):\n388\u2013415.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1989",
+            "title": "\u2013\u2013\u2013, 1989, \u201cDialectic and\nDialetheic\u201d, Science and Society , 53(4):\n388\u2013415."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997 [2006], In Contradiction: A Study\nof the Transconsistent , expanded edition, Oxford: Oxford\nUniversity Press; first edition, Martinus Nijhoff, 1997.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997 [2006], In Contradiction: A Study\nof the Transconsistent , expanded edition, Oxford: Oxford\nUniversity Press; first edition, Martinus Nijhoff, 1997."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Popper, Karl R., 1940, \u201cWhat is Dialectic?\u201d, Mind , 49(196): 403\u2013426. (This article was reprinted,\nwith some changes, in two different editions of Conjectures and\nRefutations: The Growth of Scientific Knowledge , listed\nbelow.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1962, Conjectures and Refutations: The\nGrowth of Scientific Knowledge , New York: Basic Books.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1962",
+            "title": "\u2013\u2013\u2013, 1962, Conjectures and Refutations: The\nGrowth of Scientific Knowledge , New York: Basic Books."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002, Conjectures and Refutations: The\nGrowth of Scientific Knowledge , second edition, London: Routledge\nClassics.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002, Conjectures and Refutations: The\nGrowth of Scientific Knowledge , second edition, London: Routledge\nClassics."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, The Open Society and its\nEnemies , Princeton: Princeton University Press. (This is a\none-volume republication of the original, two-volume edition first\npublished by Princeton University Press in 1945.)",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, The Open Society and its\nEnemies , Princeton: Princeton University Press. (This is a\none-volume republication of the original, two-volume edition first\npublished by Princeton University Press in 1945.)"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Rosen, Michael, 1982, Hegel\u2019s Dialectic and its\nCriticism , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rosen, Stanley, 2014, The Idea of Hegel\u2019s \u201cScience\nof Logic\u201d , Chicago: University of Chicago Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Singer, Peter, 1983, Hegel , Oxford: Oxford University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Solomon, Robert C., 1983, In the Spirit of Hegel: A Study of\nG.W.F. Hegel\u2019s \u201cPhenomenology of Spirit\u201d , New\nYork: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Stace, W.T., 1955 [1924], The Philosophy of Hegel: A\nSystematic Exposition , New York: Dover Publications. (This\nedition is a reprint of the first edition, published in 1924.)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Stewart, Jon, 1996, \u201cHegel\u2019s Doctrine of Determinate\nNegation: An Example from \u2018Sense-certainty\u2019 and\n\u2018Perception\u2019\u201d, Idealistic Studies , 26(1):\n57\u201378.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, The Unity of Hegel\u2019s\n\u201cPhenomenology of Spirit\u201d: A Systematic\nInterpretation , Evanston, IL: Northwestern University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "\u2013\u2013\u2013, 2000, The Unity of Hegel\u2019s\n\u201cPhenomenology of Spirit\u201d: A Systematic\nInterpretation , Evanston, IL: Northwestern University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Taylor, Charles, 1975, Hegel , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wandschneider, Dieter, 2010, \u201cDialectic as the\n\u2018Self-Fulfillment\u2019 of Logic\u201d, translated by Anthony\nJensen, in The Dimensions of Hegel\u2019s Dialectic ,\nNectarios G. Limmnatis (ed.), London: Continuum, pp. 31\u201354.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Westphal, Kenneth R., 2003, Hegel\u2019s Epistemology: A\nPhilosophical Introduction to the \u201cPhenomenology of\nSpirit\u201d , Indianapolis, IN: Hackett Publishing Company.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Winfield, Richard Dien, 1990, \u201cThe Method of Hegel\u2019s Science of Logic \u201d, in Essays on Hegel\u2019s\nLogic , George di Giovanni (ed.), Albany, NY: State University of\nNew York, pp. 45\u201357.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

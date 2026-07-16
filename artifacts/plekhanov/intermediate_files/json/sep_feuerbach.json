@@ -1,0 +1,495 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: ludwig-feuerbach
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Ludwig Andreas Feuerbach
+{
+  "status": "success",
+  "source": "sep",
+  "query": "ludwig-feuerbach",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/ludwig-feuerbach/",
+      "entry_name": "ludwig-feuerbach",
+      "title": "Ludwig Andreas Feuerbach",
+      "preamble": "For a number of years in the mid-nineteenth century, Ludwig Feuerbach\n(1804\u20131872) played a pivotal role in the history of\npost-Hegelian German philosophy, and in the emergence of various forms\nof naturalism, materialism, and positivism that is one of the most\ncharacteristic developments of this period (cf. Mandelbaum 1971:\n3\u201337 and Arndt & Jaeschke 2000). As a public intellectual in\nGermany during the decade that culminated in the revolutionary\nuprising of 1848, Feuerbach embodied many of the democratic and\nprogressive aspirations that were frustrated by its eventual failure.\nThereafter, during a decade of political reaction, he was an\ninspiration to such populizers of scientific materialism as Carl Vogt,\nJacob Moleschott, and Ludwig B\u00fcchner, whose role in the\nsecularization of modern culture in the second half of the nineteenth\ncentury was considerable (cf. Gregory 1977). By virtue of the enduring\ninfluence of his most famous book, The Essence of\nChristianity , which was translated into English by George Eliot,\nFeuerbach has continued, since the beginning of the twentieth century,\nto attract the interest of theologians. The theological reception of\nFeuerbach has been shaped to a considerable extent by the disputed\ncontention first expressed in the 1920s by the Neo-Orthodox\ntheologian, Karl Barth, that Feuerbach\u2019s atheistic account of\nChristianity only brought to their most logically consistent\nconclusion the foundational premises of the liberal Protestant\ntheological enterprise inaugurated by Friedrich Schleiermacher at the\noutset of the nineteenth century. This enterprise, which Barth and a\nnumber of his contemporaries sought to repudiate, had, in the wake of\nHume and Kant, shifted the starting point of theological reflection\nfrom divine revelation and metaphysics to human religious experience.\nIn the field of religious studies (as distinct from theology),\nFeuerbach is often considered to have produced a classical\n\u201cprojection\u201d theory of religion. Such theories seek to\nidentify the underlying psychological and cognitive mechanisms that\ngive rise to, and explain the persistence of, various religious\nbeliefs and\n behaviors. [ 1 ] To the extent that Feuerbach is remembered today outside the context\nof theology and religious studies, it is mainly as the object of Karl\nMarx\u2019s criticism in his famous Theses on Feuerbach ,\noriginally penned in 1845, but first published posthumously by\nFriedrich Engels as an appendix to his book, Ludwig Feuerbach and\nthe End of Classical German Philosophy (Engels 1888). These\ntheses are often thought to represent the first cursory articulation\nof the theory that subsequently came to be known as historical\nmaterialism. This theory began to be spelled out in more detail by\nMarx and Engels in The German Ideology , a lengthy work in\nwhich they sought to distance themselves from their erstwhile Young\nHegelian compatriots. Renewed philosophical attention paid to\nFeuerbach in the middle of the twentieth century is largely\nattributable to the publication for the first time, beginning in the\nlate 1920s, of Marx\u2019s early philosophical manuscripts, including The German Ideology , which revealed the extent of\nFeuerbach\u2019s influence on Marx and Engels during the period\nculminating in its composition\n (1845\u201346). [ 2 ] In 1870, two years prior to his death, after having studied the first\nvolume of Marx\u2019s Capital (1867), Feuerbach became a\nmember of the Social Democratic Party, some financial support from\nwhich helped him to survive the penury to which he and his family were\nsubjected toward the end of his life. Feuerbach\u2019s funeral\nprocession in Nuremberg is said to have been attended by crowds waving\nred banners, the symbol of the worker\u2019s movement. Nevertheless,\nFeuerbach\u2019s direct public influence and popularity as a\nphilosophical writer declined rapidly in the 1850s in approximately\ninverse proportion to the rising, albeit belated, influence of\nSchopenhauer, whose spirit of pessimistic resignation was perhaps more\nin tune with the prevailing historical reality. Apart from the influences outlined above, Feuerbach\u2019s importance\nfor the history of modern philosophy is due to the fact that the\npublication of The Essence of Christianity in 1841 can be\ntaken, as it was by Engels, to symbolically mark the end of the period\nof classical German philosophy that had begun sixty years earlier with\nthe appearance of Kant\u2019s Critique of Pure\nReason \u2014though some might want to question the assumption\ninvolved in this way of putting things that classical German\nphilosophy culminated in the Hegelian system that Engels thought of\nFeuerbach as having\n overthrown. [ 3 ] In any case, Feuerbach\u2019s intellectual biography; his initially\ndeep investment in, and subsequent effort to distance himself from,\nthe Hegelian cause; and his attempt to inaugurate a new, sensualistic\n\u201cphilosophy of the future,\u201d are all closely intertwined\nwith political and intellectual developments in Germany during this\n period. [ 4 ] Although Feuerbach ultimately failed to adequately develop the\naphoristically formulated \u201cprinciples\u201d of the new\nphilosophy that he set out in 1843, the emphases in his later essays\non corporeality, the senses, finitude, inter-subjectivity, and drive\npsychology nevertheless succeeded in introducing into the history of\nmodern European thought themes developed further by Marx, Friedrich\nNietzsche, Sigmund Freud, Max Scheler, Martin Buber, Karl L\u00f6with,\nMaurice Merleau-Ponty and Alfred Schmidt, among\n others. [ 5 ]",
+      "bibliography": [
+        {
+          "raw": "[ AP ] \u201cEinige Bemerkungen \u00fcber den Anfang\nder Philosophie von D.J.F. Reiff\u201d (1841) = GW , v.\n9, 143\u2013153 = \u201cOn \u2018The Beginning of\nPhilosophy,\u2019\u201d in FB 135\u2013144.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ B ] \u201cZur Beurteilung der Schrift Das Wesen des\nChristentums \u201d (1842) = GW v. 9, 229\u2013242. No\ntranslation available.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ EEWR ] Erg\u00e4nzungen und Erl\u00e4uterungen zum\n\u201cWesen der Religion\u201d (1846) = GW v. 10,\n80\u2013121.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ FB ] The Fiery Brook: Selected Writings of Ludwig\nFeuerbach , trans. with an introduction by Z. Hanfi, Garden City,\nN.Y., Doubleday, 1972.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ GPZ ] Grunds\u00e4tze der Philosophie der\nZukunft = GW v. 9, 264\u2013341 = Principles of the\nPhilosophy of the Future , trans. M. Vogel with an intro by T.E.\nWartenberg, Indianapolis: Hackett, 1986.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ GTU ] Gedanken \u00fcber Tod und Unsterblichkeit aus\nden Papieren eines Denkers (1830), GW v. 1,\n175\u2013515 = Thoughts on Death and Immortality from the Papers\nof a Thinker , trans. with intro and notes by J.A. Massey,\nBerkeley: University of California Press, 1980.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ GW ] Feuerbach, L. (1981\u2013), Gesammelte\nWerke , W. Schuffenhauer (ed.), Berlin: Akademie Verlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ KPP ] Zur Kritik der \u201cpositiven\nPhilosophie\u201d (1839) = GW , v. 8, 181\u2013207. No\ntranslation available.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ M ] \u201cZur Moralphilosophie\u201d (1868), W.\nSchuffenhauer (ed.), in Braun, 1994: 353\u2013430. No translation\navailable.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ NV ] \u201cGrunds\u00e4tze der Philosophie:\nNotwendigkeit einer Ver\u00e4nderung\u201d (date uncertain), in\nFeuerbach, 1996: 119\u2013135 = \u201cThe Necessity of a Reform of\nPhilosophy\u201d, in FB , 145\u2013152. This unpublished\nmanuscript is not included in any of the volumes of GW that\nhave appeared to date.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ SM ] \u201c\u00dcber Spiritualismus und Materialismus,\nbesonders in Beziehung auf die Willensfreiheit\u201d (1866) = GW v. 11, 53\u2013186. No translation available.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ VGP ] Vorlesungen \u00fcber die Geschichte der\nneueren Philosophie , E. Thies (ed.), Darmstadt: Wissenschaftliche\nBuchgesellschaft, 1974. This volume contains notes for lectures on the\nhistory of modern philosophy delivered by Feuerbach in Erlangen during\nthe 1835/36 academic year.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ VWR ] Vorlesungen \u00fcber das Wesen der\nReligion = GW v. 6 = Lectures on the Essence of\nReligion , trans. R. Manheim, New York: Harper & Row,\n1967.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ VT ] \u201cVorl\u00e4ufige Thesen zur Reformation der\nPhilosophie\u201d (1842) = GW v. 9, 243\u2013263.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ WC ] Das Wesen des Christentums (1841) = GW , v. 5 = The Essence of Christianity , trans. G.\nEliot with an intro by K. Barth and a foreword by H.R. Niebuhr, New\nYork: Harper Torchbooks, 1957.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ WGL ] Das Wesen des Glaubens im Sinne Luthers = GW , v. 9, 353\u2013412 = The Essence of Faith According\nto Luther , trans. and with an introduction by M. Cherno, New\nYork: Harper & Row, 1967.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ WR ] Das Wesen der Religion (1846) = GW v. 10, 3\u201319.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[ T ] Theogonie nach den Quellen des klassischen,\nhebr\u00e4ischen und christlichen Altertums (1857) = GW v. 7.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ameriks, Karl, 2000, \u201cThe Legacy of Idealism in the\nPhilosophy of Feuerbach, Marx, and Kierkegaard\u201d, in The\nCambridge Companion to German Idealism , Karl Ameriks (ed.).\nCambridge: Cambridge University Press, 258\u2013281.\ndoi:10.1017/CCOL0521651786.014",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Arndt, Andreas (ed.), 2020, Ludwig Feuerbach: Das Wesen des\nChristentums , Klassiker Auslegen, Bd. 52, Berlin/Boston: de\nGruyter.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Arndt, Andreas and Walter Jaeschke (eds.), 2000, Materialismus\nund Spiritualismus: Philosophie und Wissenschaften nach 1848 ,\nHamburg: Meiner.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ascheri, Carlo, 1964, Review of Rawidowicz (1964) in Philosophische Rundschau , 11(1): 55\u201365.",
+          "parsed": {
+            "authors": [
+              "Ascheri, Carlo"
+            ],
+            "year": "1964",
+            "title": "Review of Rawidowicz (1964) in Philosophische Rundschau ",
+            "publisher": "11(1): 55\u201365"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Ascheri, Carlo, 1969, Feuerbachs Bruch mit der Spekulation;\nEinleitung zur kritischen Ausgabe von Feuerbach: Notwendigkeit einer\nVer\u00e4nderung (1842) , Frankfurt: Europ\u00e4ische\nVerlagsanstalt.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bishop, Paul, 2009, \u201cEudaimonism, Hedonism and\nFeuerbach\u2019s Philosophy of the Future\u201d, Intellectual\nHistory Review , 19(1): 65\u201381.\ndoi:10.1080/17496970902722908",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Braun, Hans-J\u00fcrg, 1971, Ludwig Feuerbachs Lehre vom\nMenschen . Stuttgart-Bad Cannstatt: F. Frommann.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1990, Ludwig Feuerbach und die\nPhilosophie der Zukunft , Berlin: Akademie-Verlag.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1990",
+            "title": "\u2013\u2013\u2013 (ed.), 1990, Ludwig Feuerbach und die\nPhilosophie der Zukunft , Berlin: Akademie-Verlag."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1994, Solidarit\u00e4t oder\nEgoismus: Studien zu einer Ethik bei und nach Ludwig Feuerbach ,\nBerlin: Akademie-Verlag.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013 (ed.), 1994, Solidarit\u00e4t oder\nEgoismus: Studien zu einer Ethik bei und nach Ludwig Feuerbach ,\nBerlin: Akademie-Verlag."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Breckman, Warren, 1999, Marx, the Young Hegelians, and the\nOrigins of Radical Social Theory , Cambridge: Cambridge University\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Brudney, Daniel, 1998, Marx\u2019s Attempt to Leave\nPhilosophy , Cambridge, MA: Harvard University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Buber, Martin, 1965, Between Man and Man , New York:\nMacmillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Cornehl, Peter, 1969, \u201cFeuerbach und die Naturphilosophie:\nZur Genese der Anthropologie und Religionskritik des jungen\nFeuerbachs\u201d, in Neue Zeitschrift f\u00fcr systematische\nTheologie und Religionsphilosophie , 11(1): 37\u201393.\ndoi:10.1515/nzst.1969.11.1.37",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Deranty, Jean-Philippe, 1973, \u201cFeuerbach\u2019s Theory of\nObject-Relations and Its Legacy in 20th Century Post-Hegelian\nPhilosophy,\u201d The Southern Journal of Philosophy , 53(3):\n286\u2013310.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Dickey, Laurence, \u201cHegel on Religion and Philosophy,\u201d\nin The Cambridge Companion to Hegel , Frederick C. Beiser\n(ed.), Cambridge: Cambridge University Press, 301\u2013347.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ebbinghaus, J., 1930, \u201cLudwig Feuerbach\u201d, in Deutsche Vierteljahrsschrift f\u00fcr Literaturwissenschaft und\nGeistesgeschichte , 8: 283\u2013305.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Engels, Friedrich, 1888, Ludwig Feuerbach und der Ausgang der\nklassischen deutschen Philosophie , Stuttgart: J.H.W. Dietz.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Feuerbach, Ludwig, 1996, Entw\u00fcrfe zu einer Neuen\nPhilosophie , W. Jaeschke and W. Schuffenhauer (eds.), Hamburg:\nMeiner.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2012, Abelard and Heloise or The Writer\nand the Human: A Series of Humorous Philosophical Aphorisms ,\ntrans. with an introduction by Eric v. d. Luft, foreword by Angela\nMoreira, North Syracuse: Gegensatz Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2012",
+            "title": "\u2013\u2013\u2013, 2012, Abelard and Heloise or The Writer\nand the Human: A Series of Humorous Philosophical Aphorisms ,\ntrans. with an introduction by Eric v. d. Luft, foreword by Angela\nMoreira, North Syracuse: Gegensatz Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "von Gagern, Michel, 1970, Ludwig Feuerbach: Philosophie- und\nReligionskritik; Die \u201cNeue\u201d Philosophie , Munich:\nAnton Pustet.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ged\u00f6, A., 1995, \u201cPhilosophie zwischen den Zeiten:\nAuseinandersetzungen um den Philosophiebegriff im Vorm\u00e4rz\u201d,\nin Walter Jaeschke (ed.), Philosophie und Literatur im\nVorm\u00e4rz: Der Streit um die Romantik (1820\u20131854) ,\nHamburg: Felix Meiner Verlag, 1\u201339.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gooch, Todd, 2011, \u201cSome Political Implications of\nFeuerbach\u2019s Theory of Religion\u201d, in Douglas Moggach (ed.), Politics, Religion, and Art: Hegelian Debates , Evanston, IL:\nNorthwestern University Press), 257\u2013280.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013a, \u201c\u2018Bruno\nReincarnate\u2019: The Early Feuerbach on God, Love and Death\u201d, Journal for the History of Modern Theology / Zeitschrift f\u00fcr\nNeuere Theologiegeschichte , 20(1): 1\u201323.\ndoi:10.1515/znth-2013-0005",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013a, \u201c\u2018Bruno\nReincarnate\u2019: The Early Feuerbach on God, Love and Death\u201d, Journal for the History of Modern Theology / Zeitschrift f\u00fcr\nNeuere Theologiegeschichte , 20(1): 1\u201323.\ndoi:10.1515/znth-2013-0005"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013b, \u201cPhilosophy, Religion and the\nPolitics of Bildung , in Hegel and Feuerbach,\u201d in Hegel on Religion and Politics , Angelica Nuzzo (ed.), Albany,\nNY: SUNY Press, 187\u2013211.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013b, \u201cPhilosophy, Religion and the\nPolitics of Bildung , in Hegel and Feuerbach,\u201d in Hegel on Religion and Politics , Angelica Nuzzo (ed.), Albany,\nNY: SUNY Press, 187\u2013211."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2019, \u201cCritique of Religion: Strauss,\nFeuerbach, Marx,\u201d in A Companion to Nineteenth-Century\nPhilosophy , ed. John Shand, Blackwell Companions to Philosophy,\nMalden, Mass.: Blackwell, 212\u2013235.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2019",
+            "title": "\u2013\u2013\u2013, 2019, \u201cCritique of Religion: Strauss,\nFeuerbach, Marx,\u201d in A Companion to Nineteenth-Century\nPhilosophy , ed. John Shand, Blackwell Companions to Philosophy,\nMalden, Mass.: Blackwell, 212\u2013235."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Gordon, Frederick M., 1979, \u201cThe Contradictory Nature of\nFeuerbachian Humanism\u201d, Philosophical Forum , 8(2):\n31\u201347.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Guidry, G.A., 1993, \u201cLudwig Anselm Feuerbach\n(1804\u20131872)\u201d, Dictionary of Literary Biography ,\nv. 133, Nineteenth-Century German Writers to 1840 , James\nHardin and Siegfried Mews (eds.), the Gale Group, 68\u201377.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gregory, Frederick, 1977, Scientific Materialism in Nineteenth\nCentury Germany , Dordrecht, Holland/Boston: D. Reidel.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Harvey, Van A., 1995, Feuerbach and the Interpretation of\nReligion , Cambridge/New York, Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2009, \u201cLudwig Feuerbach\u201d, in\nG.R. Oppy and N. Trakakis (eds.), The History of Western\nPhilosophy of Religion , v. 4, New York: Oxford University Press,\n133\u2013144.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2009",
+            "title": "\u2013\u2013\u2013, 2009, \u201cLudwig Feuerbach\u201d, in\nG.R. Oppy and N. Trakakis (eds.), The History of Western\nPhilosophy of Religion , v. 4, New York: Oxford University Press,\n133\u2013144."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hegel, Georg Wilhelm Friedrich, [1807] 1977, Phenomenology of\nSpirit , trans. A.V. Miller, Oxford: Oxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, [1812\u20131816] 1969, Hegel\u2019s\nScience of Logic , trans. A.V. Miller, London: Allen &\nUnwin.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, [L], Hegel: The Letters , trans. C.\nButler and C. Seiler. Bloomington: Indiana University Press,\n1984.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, [EPS], The Encyclopedia Logic: Part I\nof the Encyclopaedia of Philosophical Sciences with the\nZus\u00e4tze , trans. T.F. Geraets, W.A. Suchting & H.S.\nHarris, Indianapolis/Cambridge: Hackett, 1991.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jacobi, Friedrich Heinrich, [MPW], The Main Philosophical\nWritings and the Novel , Allwill, trans. George di Giovanni,\nMontreal & Kingston: McGill-Queen\u2019s University Press,\n1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Jaeschke, Walter, 1978, \u201cFeuerbach redivivus: Eine\nAuseinandersetzung mit der gegenw\u00e4rtigen Forschung im Blick auf\nHegel\u201d, Hegel-Studien , 13: 199\u2013237.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1990, Reason in Religion: The\nFoundations of Hegel\u2019s Philosophy of Religion , trans. J.\nMichael Stewart and Peter C. Hodgson, Berkeley: University of\nCalifornia Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1990",
+            "title": "\u2013\u2013\u2013, 1990, Reason in Religion: The\nFoundations of Hegel\u2019s Philosophy of Religion , trans. J.\nMichael Stewart and Peter C. Hodgson, Berkeley: University of\nCalifornia Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1992, Sinnlichkeit und\nRationalit\u00e4t: der Umbruch in der Philosophie des 19. Jahrhunderts\n: Ludwig Feuerbach , Berlin: Akademie Verlag.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013 (ed.), 1992, Sinnlichkeit und\nRationalit\u00e4t: der Umbruch in der Philosophie des 19. Jahrhunderts\n: Ludwig Feuerbach , Berlin: Akademie Verlag."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1980, \u201cSpeculative and\nAnthropological Criticism of Religion: A Theological Orientation to\nHegel and Feuerbach\u201d, Journal of the American Academy of\nReligion , 48(3): 345\u201364.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1980",
+            "title": "\u2013\u2013\u2013, 1980, \u201cSpeculative and\nAnthropological Criticism of Religion: A Theological Orientation to\nHegel and Feuerbach\u201d, Journal of the American Academy of\nReligion , 48(3): 345\u201364."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Jaeschke, Walter and Francesco Tomasoni (eds.), 1998, Ludwig\nFeuerbach und die Geschichte der Philosophie , Berlin: Akademie\nVerlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Johnston, Larry, 1995, Between Transcendence and Nihilism:\nSpecies-Ontology in the Philosophy of Ludwig Feuerbach , New York:\nPeter Lang.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lange, Friedrich Albert, [1866] 1974, Geschichte des\nMaterialismus und Kritik seiner Bedeutung in der Gegenwart ,\nAlfred Schmidt (ed.), 2 vols., Frankfurt am Main: Suhrkamp.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Levitt, Cyril and Anouk Turgeon, 2009, \u201cSigmund\nFreud\u2019s Intensive Reading of Ludwig Feuerbach,\u201d Canadian Journal of Psychoanalysis , 17(1): 14\u201335.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00f6with, Karl, 1964, From Hegel to Nietzsche: The\nRevolution in Nineteenth-Century Thought , David E. Green (tr.),\nNew York: Columbia University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00f6with, Karl, 1981, Das Individuum in seiner Rolle des\nMitmenschen , (1928), in Mensch und Menschenwelt:\nBeitr\u00e4ge zur Anthropologie , Klaus Stichweh (ed.), Stuttgart:\nMetzler, 9\u2013197.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00fcbbe, Hermann and Hans-Martin Sa\u00df (eds.), 1975, Atheismus in der Diskussion: Kontroversen um Ludwig\nFeuerbach , Munich: Kaiser; Mainz: Grunewald.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Marx, Karl, 1844, \u201cEconomic and Philosophical\nManuscripts\u201d, in Selected Writings , L.H. Simon (ed.),\nIndianapolis/Cambridge: Hackett, 1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mandelbaum, Maurice, 1971, History, Man, & Reason: A Study\nin Nineteenth-Century Thought , Baltimore and London: John Hopkins\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pinkard, Terry, 2002, German Philosophy 1760\u20131860: The\nLegacy of Idealism , Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2000, Hegel: A Biography ,\nCambridge: Cambridge University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2000",
+            "title": "Hegel: A Biography ",
+            "publisher": "Cambridge: Cambridge University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Rawidowicz, Simon, 1964, Ludwig Feuerbachs Philosophie:\nUrsprung und Schicksal , 2 nd edition, Berlin: Walter de\nGruyter.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Reitemeyer, Ursula, 1988, Philosophie Der Leiblichkeit: Ludwig\nFeuerbachs Entwurf Einer Philosophie Der Zukunft , Frankfurt am\nMain: Suhrkamp.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Schmidt, Alfred, 1973, Emanzipatorische Sinnlichkeit: Ludwig\nFeuerbachs anthropologischer Materialismus , Munich: Carl Hanser\nVerlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Schott, Uwe, 1973, Die Jugendentwicklung Ludwig Feuerbachs bis\nzum Fakult\u00e4tswechsel 1825 , G\u00f6ttingen: Vandenhoeck und\nRuprecht.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Spinoza, Baruch, [1677] 2007, Theological-Political\nTreatise , Jonathan Israel (ed.), Michael Silverstone and Jonathan\nIsrael (trs). Cambridge: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thies, Erich (ed.), 1976, Ludwig Feuerbach , Wege der\nForschung 438, Darmstadt: Wissenschaftliche Buchgesellschaft.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Toews, John E., 1980, Hegelianism: The Path Toward Dialectical\nHumanism, 1805\u20131841 , Cambridge/New York: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tomasoni, Francesco, 2015, Ludwig Feuerbach: Entstehung,\nEntwicklung und Bedeutung seines Werkes , trans. Gunnhild\nSchneider, M\u00fcnster/New York.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tomasoni, Francesco, 1990, Ludwig Feuerbach und die\nnicht-menschliche Natur: Das Wesen der Religion: Die\nEntstehungsgeschichte des Werks, rekonstruirt auf der Grundlage\nunver\u00f6ffintlichter Manuskripte , Stuttgart/Bad Cannstatt:\nFrommann-Holzboog.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wartofsky, Marx W., 1977, Feuerbach , Cambridge: Cambridge\nUniversity Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Weckwerth, Christine, 2002, Ludwig Feuerbach zur\nEinf\u00fchrung , Hamburg: Junius.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Winiger, Josef, 2004, Ludwig Feuerbach: Denker der\nMenschlichkeit : Biographie , Berlin: Aufbau Taschenbuch\nVerlag.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

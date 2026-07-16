@@ -1,0 +1,281 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: holbach
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Paul-Henri Thiry (Baron) d’Holbach
+{
+  "status": "success",
+  "source": "sep",
+  "query": "holbach",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/holbach/",
+      "entry_name": "holbach",
+      "title": "Paul-Henri Thiry (Baron) d\u2019Holbach",
+      "preamble": "Paul-Henri Thiry, Baron d\u2019Holbach was a philosopher, translator,\nand prominent social figure of the French Enlightenment. In his\nphilosophical writings Holbach developed a deterministic and\nmaterialistic metaphysics, which grounded his polemics against\norganized religion as well as his utilitarian ethical and political\ntheory. As a translator, Holbach made significant contributions to the\nEuropean Enlightenment in science and religion. He translated German\nworks on chemistry and geology into French, summarizing many of the\nGerman advances in these areas in his entries in Diderot\u2019s\nEncyclopedia. Holbach also translated important English works on\nreligion and political philosophy into French. Holbach remains best\nknown, however, for his role in Parisian society. The close circle of\nintellectuals that Holbach hosted and, in various ways, sponsored\nproduced the Encyclopedia and a number of revisionary religious,\nethical, and political works that contributed to the ideological basis\nfor the French Revolution. Despite the radical views of many members\nof his coterie, however, Holbach\u2019s broader visiting guest list\nincluded many of the most prominent intellectual and political figures\nin Europe. His salon, then, was at once a shelter for radical thought\nand a hub of mainstream culture.",
+      "bibliography": [
+        {
+          "raw": "Le Christianisme d\u00e9voil\u00e9 , Nancy, 1761.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Syst\u00e8me de la nature , 2 volumes, London,\n1770.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "System of Nature , translated by H.D. Robinson, New York:\nBurt Franklin, 1970.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Le Bons Sens , London, 1772.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "La Politique naturelle , London, 1773.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Syst\u00e8me social , 3 volumes, London, 1773.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "La Morale universelle , 3 volumes, Amsterdam, 1776.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u00c9thocratie , Amsterdam, 1776.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bergier, abb\u00e9, Examen du mat\u00e9rialisme , 2\nvolumes, Paris, 1769.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Goethe, J.W. von, Werke , 14 volumes, Hamburg, 1967.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hobbes, Thomas Leviathan , Edwin Curley (ed.),\nIndianapolis: Hackett, 1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Locke, John, An Essay Concerning Human Understanding ,\nPeter Nidditch (ed.), Clarendon: Oxford, 1975.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Spinoza, Benedictus, Spinoza Opera , Volume 2, Carl\nGebhart (ed.), Heidelberg: Carl Winters, 1925.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Blank, Andreas, 2016, \u201cD\u2019Holbach on Self-Esteem,\nJustice, and Cosmopolitanism,\u201d Eighteenth-Century\nStudies , 49(4): 439\u2013453.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017, \u201cD\u2019Holbach on self-esteem\nand the moral economy of oppression,\u201d British Journal for\nthe History of Philosophy , 25(6): 1116\u20131137.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017, \u201cD\u2019Holbach on self-esteem\nand the moral economy of oppression,\u201d British Journal for\nthe History of Philosophy , 25(6): 1116\u20131137."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, \u201cD\u2019Holbach on\n(Dis-)Esteeming Talent,\u201d Journal of Modern Philosophy ,\n2(1): 10. doi:10.32881/jomp.70",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, \u201cD\u2019Holbach on\n(Dis-)Esteeming Talent,\u201d Journal of Modern Philosophy ,\n2(1): 10. doi:10.32881/jomp.70"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Curran, Mark, 2012, Atheism, Religion and Enlightenment in\nPre-Revolutionary Europe , Woodbridge: Boydell Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Darnton, Robert, 1991, Edition et S\u00e9dition:\nL\u2019Univers de la Litt\u00e9rature Clandestine au XVIIIe\nSi\u00e8cle , Paris: Gallimard.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1992, \u201cUne Speculation sur\nl\u2019Irreligion: Le Syst\u00e8me de la nature de\nd\u2019Holbach,\u201d in Gens de Lettres: Gens du Livre ,\nRobert Darnton (ed.), Paris: Odile Jacob, pp. 220\u2013244.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1992",
+            "title": "\u2013\u2013\u2013, 1992, \u201cUne Speculation sur\nl\u2019Irreligion: Le Syst\u00e8me de la nature de\nd\u2019Holbach,\u201d in Gens de Lettres: Gens du Livre ,\nRobert Darnton (ed.), Paris: Odile Jacob, pp. 220\u2013244."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Devellennes, Charles, 2014, \u201cUtility contra utilitarianism:\nHolbach\u2019s international ethics,\u201d Journal of\nInternational Political Theory , 10(2): 188\u2013205.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2016, \u201cD\u2019Holbach Radical:\ncontrat social et \u00e9thocratie dans la pens\u00e9e politique du\nbaron,\u201d in Les lumiers radicales et le politique , Maria\nGarcia-Alonso (ed.), Paris: Honore Champion, pp. 321\u2013340.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2016",
+            "title": "\u2013\u2013\u2013, 2016, \u201cD\u2019Holbach Radical:\ncontrat social et \u00e9thocratie dans la pens\u00e9e politique du\nbaron,\u201d in Les lumiers radicales et le politique , Maria\nGarcia-Alonso (ed.), Paris: Honore Champion, pp. 321\u2013340."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, Positive Atheism: Bayle, Meslier,\nD\u2019Holbach, Diderot , Edinburgh: Edinburgh University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, Positive Atheism: Bayle, Meslier,\nD\u2019Holbach, Diderot , Edinburgh: Edinburgh University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Fonnesu, Luca, 2006, \u201cThe Problem of Theodicy,\u201d in The Cambridge History of Eighteenth Century Philosophy (Volume 2), Knud Haakonssen (ed.), New York: Cambridge University\nPress, pp. 749\u2013778.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Galvani, Enrico, 2020, \u201cLuxury, Mystification, and\nOppressive Power in d\u2019Holbach\u2019s Philosophical\nWritings,\u201d Journal of Modern Philosophy , 2(1): 7.\ndoi:10.25894/jmp.2089",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gourdon, Emilie and Michael LeBuffe, 2019, \u201cHolbach,\u201d\nin A Companion to Atheism and Philosophy , Graham Oppy (ed.),\nOxford: Wiley, pp. 28\u201342.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "H\u00e4m\u00e4l\u00e4inen, Hasse J., 2021, \u201cMoral\nConscience\u2019s Fall from Grace: An Investigation into Conceptual\nHistory,\u201d Intellectual History Review , 31(2):\n283\u2013299.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Israel, Jonathan, 2006, Enlightenment Contested: Philosophy,\nModernity, and the Emancipation of Man 1670\u20131752 , Oxford:\nOxford University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, Democratic Enlightenment:\nPhilosophy, Revolution, and Human Rights 1750\u20131790 , Oxford:\nOxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "\u2013\u2013\u2013, 2011, Democratic Enlightenment:\nPhilosophy, Revolution, and Human Rights 1750\u20131790 , Oxford:\nOxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2017 \u201cRousseau and d\u2019Holbach:\nThe Revolutionary Implications of la philosophie\nanti-Th\u00e9r\u00e9sienne,\u201d in Thinking with Rousseau:\nFrom Machiavelli to Schmitt , Helena Rosenblatt and Paul\nSchweigert (eds.), Cambridge: Cambridge University Press, pp.\n149\u2013174.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2017",
+            "title": "\u2013\u2013\u2013, 2017 \u201cRousseau and d\u2019Holbach:\nThe Revolutionary Implications of la philosophie\nanti-Th\u00e9r\u00e9sienne,\u201d in Thinking with Rousseau:\nFrom Machiavelli to Schmitt , Helena Rosenblatt and Paul\nSchweigert (eds.), Cambridge: Cambridge University Press, pp.\n149\u2013174."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Kors, Alan, 1976, D\u2019Holbach\u2019s Coterie ,\nPrinceton: Princeton University Press.",
+          "parsed": {
+            "authors": [
+              "Kors, Alan"
+            ],
+            "year": "1976",
+            "title": "D\u2019Holbach\u2019s Coterie ",
+            "publisher": "Princeton: Princeton University Press"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005, \u201cAtheism and Scepticism in the\nLate French Enlightenment,\u201d in Scepticisme et\nmodernit\u00e9 , Marc Andr\u00e9 Bernier and S\u00e9bastien\nCharles (eds.), Saint-\u00c9tienne: Publications de\nl\u2019Universit\u00e9 de Saint-\u00c9tienne.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005, \u201cAtheism and Scepticism in the\nLate French Enlightenment,\u201d in Scepticisme et\nmodernit\u00e9 , Marc Andr\u00e9 Bernier and S\u00e9bastien\nCharles (eds.), Saint-\u00c9tienne: Publications de\nl\u2019Universit\u00e9 de Saint-\u00c9tienne."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Ladd, Everett C., Jr., 1962, \u201cHelv\u00e9tius and\nd\u2019Holbach,\u201d Journal of the History of Ideas ,\n23(2): 221\u2013238.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Llana, James, 2000, \u201cNatural History and the\nEncyclop\u00e9die,\u201d Journal of the History of\nBiology , 33(1): 1\u201325.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mori, Gianluca, 2021, Early Modern Atheism from Spinoza to\nd\u2019Holbach , Liverpool: Liverpool University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nicoli, Laura (ed.), 2022, The Great Protector of Wits: Baron\nd\u2019Holbach and His Time , Leiden: Brill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Onfray, Michel, 2007, Atheist Manifesto: The Case against\nChristianity, Judaism, and Islam , Jeremy Leggatt (trans.), New\nYork: Arcade Publishing.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sandrier, Alain, 2004, Le style philosophique du baron\nd\u2019Holbach: conditions et contraintes du pros\u00e9lytisme\nath\u00e9e en France dans la seconde moiti\u00e9 du XVIIIe\nsi\u00e8cle , Paris: Honore Champion.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sciuto, Ruggero, 2023, Determinism and Enlightenment: The\nCollaboration of Diderot and d\u2019Holbach , Liverpool:\nLiverpool University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Topazio, Virgil W., 1956, D\u2019Holbach\u2019s Moral\nPhilosophy: Its Background and Development , Geneva: Institut et\nmus\u00e9e Voltaire.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Treuherz, Nick, 2016 \u201cThe diffusion and impact of Baron\nd\u2019Holbach\u2019s texts in Great Britain,\n1765\u20131800,\u201d in Radical Voices, Radical Ways ,\nLaurent Curelly and Nigel Smith (eds.), Manchester: Manchester\nUniversity Press, pp. 125\u2013148.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Vercruysse, J., 1971, Bibliographie descriptive des\n\u00e9crits du baron d\u2019Holbach , Paris: Lettres\nmodernes.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
