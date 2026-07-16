@@ -1,0 +1,245 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Estetika Plekhanova Marksistskoi Sotsiologii Iskusstva', limit=20
+[search_philpapers.py] Retrieved 20 entries...
+[search_philpapers.py] Search complete: 20 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Estetika Plekhanova Marksistskoi Sotsiologii Iskusstva",
+  "results": [
+    {
+      "title": "Georgii Valentinovich Plekhanov & Andrew Rothstein, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+      "page_age": null
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLETDO-2",
+      "philpapers_id": "PLETDO",
+      "snippet": "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+      "page_age": null,
+      "extra_snippets": [
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926 \u00b7 Esteticheskie Vzgliady G.V. Plekhanova.P. S. Trofimov - 1956 - Znanie. The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin.Avraham Yassour - 1983 - Studies in East European Thought 26 (1):21-38. Development of dialectical materialism in China.Chenshan Tian - 2008 - In Bo Mou, History of Chinese Philosophy. New York: Routledge. Estetika I Literaturnye Teorii G."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, A concepc\u0327a\u0303o materialista da histo\u0301ria",
+      "url": "https://philpapers.org/rec/PLEACM",
+      "philpapers_id": "PLEACM",
+      "snippet": "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+      "page_age": null
+    },
+    {
+      "title": "G. V. PLEKHANOV, Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/PLEFPO",
+      "philpapers_id": "PLEFPO",
+      "snippet": "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926 \u00b7 PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein. [REVIEW]C. Lewy - 1949 - Mind 58:258. Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185. G. V. Plekhanov i ego trudy po istorii filosofii.Mikhail Trifonovich Iovchuk - 1960 - Izd-Vo Sotsial -Ekon. Lit-Ry. Estetika I Literaturnye Teorii G.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. V. PLEKHANOV"
+        }
+      ],
+      "extra_snippets": [
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926 \u00b7 PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein. [REVIEW]C. Lewy - 1949 - Mind 58:258. Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185. G. V. Plekhanov i ego trudy po istorii filosofii.Mikhail Trifonovich Iovchuk - 1960 - Izd-Vo Sotsial -Ekon. Lit-Ry. Estetika I Literaturnye Teorii G."
+      ]
+    },
+    {
+      "title": "Jan Muka\u0159ovsk\u00fd, Pojem celku v teorii um\u011bn\u00ed",
+      "url": "https://philpapers.org/rec/MUKPCV",
+      "philpapers_id": "MUKPCV",
+      "snippet": "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - &quot;Iskusstvo&quot;.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Jan Muka\u0159ovsk\u00fd"
+        }
+      ],
+      "extra_snippets": [
+        "Um\u011bn\u00ed a v\u011bda: N\u00e1rys Popperi\u00e1nsk\u00e9 estetiky.Tom\u00e1\u0161 Kulka - forthcoming - Estetika: \u010casopis Pro Estetiku a Teorii Um\u011bn\u00ed.",
+        "Strukturalistick\u00e9 pojeti vztahu umen\u00ed a spolecnosti.Kv\u00ebtoslav Chvatlk - 1968 - Estetika: The European Journal of Aesthetics 5:315.",
+        "Jan Muka\u0159ovsk\u00fd: The Semiology of Art.Ond\u0159ej Sl\u00e1dek - 2016 - Estetika: The European Journal of Aesthetics 53 (2):184-235.",
+        "Probl\u00e9m stylu z hlediska obecn\u00e9 teorie um\u011bn\u00ed.K. Chvat\u00edk - 1988 - Estetika: The European Journal of Aesthetics 14:80-95."
+      ]
+    },
+    {
+      "title": "M. V. Pronina, T. I. Filimonova, Georgii\u0306 Valentinovich Plekhanov & N. A. Rubakin (eds.), Istorii\ufe20a\ufe21 sozdanii\ufe20a\ufe21 knigi G.V. Plekhanova",
+      "url": "https://philpapers.org/rec/PROISK",
+      "philpapers_id": "PROISK",
+      "snippet": "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - &quot;Iskusstvo&quot;.",
+      "page_age": null,
+      "extra_snippets": [
+        "Pomety G.V. Plekhanova na knigakh ego biblioteki.Irina Nikolaevna Kurbatova, S. S. Volk, T. I. Filimonova & Gosudarstvenna\u00ebi\u00eca Publichna\u00ebi\u00eca Biblioteka Imeni M. E. Saltykova-Shchedrina - 1900 - Leningrad: Gos. publichnai\ufe20a\ufe21 biblioteka im. M.E. Saltykova-Shchedrina.",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P.",
+        "Kritika idealizma i religii v trudakh G.V. Plekhanova.G.",
+        "E\u0307ticheskie vozzrenii\ufe20a\ufe21 G.V. Plekhanova.N. I. Shashkov - 1987 - Kishinev: \"Shtiint\ufe20s\ufe21a\". Edited by A."
+      ]
+    },
+    {
+      "title": "V. M. Friche, Problemy Iskusstvovedeniia Sbornik Statei Po Voprosam Sotsiologii Iskusstva I Literatury",
+      "url": "https://philpapers.org/rec/FRIPIS",
+      "philpapers_id": "FRIPIS",
+      "snippet": "Voprosy Teorii Sotsialisticheskogo Iskusstva Problemy Sotsialisticheskogo Realizma Sbornik Statei.Nataliia Aleksandrovna Iastrebova &amp; Vsesoiuznyi Nauchno-Issledovatel Skii Institut Iskusstvoznaniia - 1980 - Nauka. O Russkom Realizme Xix Veka I Voprosakh Narodnosti Literatury Sbornik Statei.Pavel Petrovich Gromov - 1960 - Gos. Izd-Vo Khudozh. Lit-Ry [Leningradskoe Otd-Nie]. Estetika, Iskusstvo, Chelovek o Sud Bakh Burzhuaznogo Iskusstva : Sbornik Statei.Mikhail Fedotovich Ovsiannikov, I.",
+      "page_age": null,
+      "extra_snippets": [
+        "Voprosy Teorii Sotsialisticheskogo Iskusstva Problemy Sotsialisticheskogo Realizma Sbornik Statei.Nataliia Aleksandrovna Iastrebova & Vsesoiuznyi Nauchno-Issledovatel Skii Institut Iskusstvoznaniia - 1980 - Nauka. O Russkom Realizme Xix Veka I Voprosakh Narodnosti Literatury Sbornik Statei.Pavel Petrovich Gromov - 1960 - Gos. Izd-Vo Khudozh. Lit-Ry [Leningradskoe Otd-Nie]. Estetika, Iskusstvo, Chelovek o Sud Bakh Burzhuaznogo Iskusstva : Sbornik Statei.Mikhail Fedotovich Ovsiannikov, I.",
+        "Aktual Nye Problemy Sotsialisticheskogo Iskusstva Sbornik Statei o Khudozhestvennoi Kul Ture Sotsialisticheskikh Stran Evropy.I."
+      ]
+    },
+    {
+      "title": "B. S. Meilakh, Voprosy Literatury I Estetiki Sbornik Statei",
+      "url": "https://philpapers.org/rec/MEIVLI",
+      "philpapers_id": "MEIVLI",
+      "snippet": "Problemy Iskusstvovedeniia Sbornik Statei Po Voprosam Sotsiologii Iskusstva I Literatury.V.",
+      "page_age": null
+    },
+    {
+      "title": "Wolfgang Welsch, Estetika onstran estetike",
+      "url": "https://philpapers.org/rec/WELEOE",
+      "philpapers_id": "WELEOE",
+      "snippet": "Zaradi tega postaja priporo\u010dljiva transdisciplinarna zgradba te discipline. Estetika bi naj postala raziskovalno podro\u010dje, ki zajema vsa vpra\u0161anja, ki zadevajo aisthesis \u2013 vklju\u010dno s prispevki iz filozofije, sociologije, umetnostne zgodovine, psihologije, antropologije, nevroznanosti itd.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Wolfgang Welsch"
+        }
+      ],
+      "extra_snippets": [
+        "\u010clanek zagovarja odpiranje estetike onkraj njenega ustaljenega prevladujo\u010dega okvira, namre\u010d razumevanja umetnosti. \u201cEstetika onkraj estetike\u201d pomeni estetiko onkraj artistike, onkraj gole kontemplacije umetnosti. Estetiko zastavlja kot disciplino, ki pokriva celotni razpon aisthesis in ki razkriva meddisciplinarno zgradbo.",
+        "Zaradi tega postaja priporo\u010dljiva transdisciplinarna zgradba te discipline. Estetika bi naj postala raziskovalno podro\u010dje, ki zajema vsa vpra\u0161anja, ki zadevajo aisthesis \u2013 vklju\u010dno s prispevki iz filozofije, sociologije, umetnostne zgodovine, psihologije, antropologije, nevroznanosti itd.",
+        "Estetika in filozofije.Ale\u0161 Erjavec - 1998 - Filozofski Vestnik 19 (3).",
+        "Estetika metafore.Heinz Paetzold - 1988 - Filozofski Vestnik 9 (1)."
+      ]
+    },
+    {
+      "title": "Katarzyna \u0141 Cz\u0119\u015bcik, Ontologicznie zorientowana teoria literatury",
+      "url": "https://philpapers.org/rec/CZCOZT",
+      "philpapers_id": "CZCOZT",
+      "snippet": "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Katarzyna \u0141 Cz\u0119\u015bcik"
+        }
+      ],
+      "extra_snippets": [
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "Siurrealizm I Avangard Materialy Rossiisko-Frantsuzskogo Kollokviuma, Sostoiavshegosia V Institute Mirovoi Literatury.S. A. Isaev, France) Rossiiskaia Akademiia Teatral Nogo Iskusstva, Institut Mirovoi Literatury Imeni A.",
+        "Vzaimodeistvie Drevnerusskoi Literatury I Izobrazitel Nogo Iskusstva.Dmitrii Sergeevich Likhachev, R. P. Dmitrieva, M."
+      ]
+    },
+    {
+      "title": "Meilin Lu, Wei wu shi guan yu mei xue",
+      "url": "https://philpapers.org/rec/LUWWSJ",
+      "philpapers_id": "LUWWSJ",
+      "snippet": "Esteticheskii Ideal Sovetskogo Iskusstva.Valentin Ivanovich Korovin - 1976 - Izdatel Stvo &quot;Znanie&quot;.",
+      "page_age": null,
+      "extra_snippets": [
+        "Esteticheskii Ideal Sovetskogo Iskusstva.Valentin Ivanovich Korovin - 1976 - Izdatel Stvo \"Znanie\".",
+        "Marxist-Leninist Aesthetics and the Arts.I. S. Marksistsko-Leninskaia Estetika I. Khudozhestvennoe Tvorchestvo, A."
+      ]
+    },
+    {
+      "title": "Gennadii Nikolaevich Pospelov, Iskusstvo I Estetika",
+      "url": "https://philpapers.org/rec/POSIIE",
+      "philpapers_id": "POSIIE",
+      "snippet": "Iskusstvo I Estetika Traditsionnye Kategorii I Sovremennye Problemy.A.",
+      "page_age": null,
+      "extra_snippets": [
+        "Estetika I Stvarala\u00e9stvo.Milan Damnjanovi\u00e2c - 1988 \u00b7 Istoriia Iskusstva I Estetika Izbrannye Stat I.I.",
+        "Estetika, Iskusstvo, Chelovek o Sud Bakh Burzhuaznogo Iskusstva : Sbornik Statei.Mikhail Fedotovich Ovsiannikov, I. S. Kulikova, E.",
+        "Estetika Nigilizma Iskusstvo I \"Novye Levye\".Iurii Nikolaevich Davydov - 1975 - Iskusstvo.",
+        "Iskusstvo I Estetika Traditsionnye Kategorii I Sovremennye Problemy.A."
+      ]
+    },
+    {
+      "title": "Georgi\u012d Valentinovich Plekhanov, Essays in the history of materialism",
+      "url": "https://philpapers.org/rec/PLEEIT",
+      "philpapers_id": "PLEEIT",
+      "snippet": "Esteticheskie Vzgliady G.V. Plekhanova.P. S. Trofimov - 1956 - Znanie. Von Holbach zu Marx: materialistischer Diskurs und ideologische Praxis.Michael Haupt - 1987 - Berlin: Argument-Verlag. Dialectical Materialism and the History of Philosophy: Essays on the History of Philosophy.Teodor Il\u00edch Oizerman - 1980 - Progress Publishers. G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+      "page_age": null,
+      "extra_snippets": [
+        "Esteticheskie Vzgliady G.V. Plekhanova.P. S. Trofimov - 1956 - Znanie. Von Holbach zu Marx: materialistischer Diskurs und ideologische Praxis.Michael Haupt - 1987 - Berlin: Argument-Verlag. Dialectical Materialism and the History of Philosophy: Essays on the History of Philosophy.Teodor Il\u00edch Oizerman - 1980 - Progress Publishers. G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926"
+      ]
+    },
+    {
+      "title": "V. P. Branskii, Iskusstvo I Filosofiia Rol Filosofii V Formirovanii I Vospriatii Khudozhestvennogo Proizvedeniia Na Primere Istorii Zhivopisi",
+      "url": "https://philpapers.org/rec/BRAIIF",
+      "philpapers_id": "BRAIIF",
+      "snippet": "Estetika i iskusstvo. Z istorii domarksistkoy mysli by P. S. Trofimov.P.",
+      "page_age": null,
+      "extra_snippets": [
+        "Estetika i iskusstvo. Z istorii domarksistkoy mysli by P. S. Trofimov.P."
+      ]
+    },
+    {
+      "title": "V\u00e1clav Tille, Filosofie Literatury U Taina a P Redch Udc U \u00davodem Do Literatury",
+      "url": "https://philpapers.org/rec/TILFLU",
+      "philpapers_id": "TILFLU",
+      "snippet": "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+      "page_age": null,
+      "extra_snippets": [
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "Siurrealizm I Avangard Materialy Rossiisko-Frantsuzskogo Kollokviuma, Sostoiavshegosia V Institute Mirovoi Literatury.S. A. Isaev, France) Rossiiskaia Akademiia Teatral Nogo Iskusstva, Institut Mirovoi Literatury Imeni A.",
+        "Vzaimodeistvie Drevnerusskoi Literatury I Izobrazitel Nogo Iskusstva.Dmitrii Sergeevich Likhachev, R. P. Dmitrieva, M."
+      ]
+    },
+    {
+      "title": "Vladimir Markovich Markovich, I.S. Turgenev i russki\u012d realisticheski\u012d roman XIX veka: 30-50-e gody",
+      "url": "https://philpapers.org/rec/MARITI-7",
+      "philpapers_id": "MARITI",
+      "snippet": "Soedinenie Prirody I Iskusstva Teatral Naia Estetika I.S.",
+      "page_age": null
+    },
+    {
+      "title": "I\ufe20U\ufe21rii\u0306 Nikolaevich Davydov, Iskusstvo i e\u0307lita",
+      "url": "https://philpapers.org/rec/DAVIIE",
+      "philpapers_id": "DAVIIE",
+      "snippet": "E\u0307stetika, iskusstvo, chelovek: O sud\u02b9bakh burzhuaznogo iskusstva: [Sbornik statei\u0306.Mikhail Fedotovich Ovsiannikov, I. S. Kulikova &amp; E. N. Kartseva (eds.) - 1977 - Moskva: Nauka. Iskusstvo I Progress.Nodar Dzhin - 1977 - Izd-Vo Tbilisskogo Universiteta. Iskusstvo I Protsess Poznaniia.A. S. Migunov - 1986 - Izd-Vo Moskovskogo Universiteta. Iskusstvo I Estetika ...",
+      "page_age": null,
+      "extra_snippets": [
+        "E\u0307stetika, iskusstvo, chelovek: O sud\u02b9bakh burzhuaznogo iskusstva: [Sbornik statei\u0306.Mikhail Fedotovich Ovsiannikov, I. S. Kulikova & E. N. Kartseva (eds.) - 1977 - Moskva: Nauka. Iskusstvo I Progress.Nodar Dzhin - 1977 - Izd-Vo Tbilisskogo Universiteta. Iskusstvo I Protsess Poznaniia.A. S. Migunov - 1986 - Izd-Vo Moskovskogo Universiteta. Iskusstvo I Estetika Traditsionnye Kategorii I Sovremennye Problemy.A.",
+        "Estetika I Iskusstvo.Pavel Sergeevich Akademiia Nauk Sssr & Trofimov - 1966 - Nauka.",
+        "Estetika i iskusstvo. Z istorii domarksistkoy mysli.P."
+      ]
+    },
+    {
+      "title": "A. L. Volynskii, Kniga Velikago Gnieva Kriticheskiia Stat I ; Zamietki ; Polemika",
+      "url": "https://philpapers.org/rec/VOLKVG",
+      "philpapers_id": "VOLKVG",
+      "snippet": "Estetika I Literaturnaia Kritika Izbrannye Stat I.Nikolay Gavrilovich Chernyshevsky - 1951 - Gos. Izd-Vo Khudozh. Lit-Ry \u00b7 Pereklichka Epokh Ocherki, Stat I, Portrety.Feliks Feodos Evich Kuznetsov - 1976 - Sovremennik \u00b7 Zabytyi Avangard Rossiia, Pervaia Tret Xx Stoletiia : Kniga 2 : Novyi ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Stat I Po Semiotike Kul Tury I Iskusstva.Iu M."
+      ]
+    },
+    {
+      "title": "Sreten Petrovic\u0301, Estetika i sociologija: uvod u savremenu sociologiju umetnosti",
+      "url": "https://philpapers.org/rec/PETEIS",
+      "philpapers_id": "PETEIS",
+      "snippet": "Socijalisti\u010dki realizam i Sreten Mari\u0107.Du\u0161an Bo\u0161kovi\u0107 - 2005 - Filozofija I Dru\u0161tvo 2005 (27):163-187 \u00b7 Uvod u savremenu filozofiju.Branko Pavlovic\u0301 - 2003 - Beograd: Plato. Edited by Ilija Maric\u0301 \u00b7 Politizacija estetskog: socijalistic\u030cki realizam u Jogoslaviji.Dragan \u0106alovi\u0107 - ...",
+      "page_age": null,
+      "extra_snippets": [
+        "U Istokov Sovetskogo Monumental Nogo Iskusstva, 1917-1923.Vladimir Pavlovich Tolstoi - 1983 - \"Izobrazitel Noe Iskusstvo\"."
+      ]
+    },
+    {
+      "title": "S. N. Travnikov, Pisateli Petrovskogo Vremeni Literaturno-Esteticheskie Vzgliady, Putevye Zapiski",
+      "url": "https://philpapers.org/rec/TRAPPV",
+      "philpapers_id": "TRAPPV",
+      "snippet": "Esteticheskie Otnosheniia Iskusstva I Deistvitel Nosti V Literature, Kritike, Literaturovedenii I Estetike Annotirovannyi Ukazatel Literatury.M. V. Stroganov - 1993 - Tverskoi Gos.",
+      "page_age": null,
+      "extra_snippets": [
+        "Esteticheskie Otnosheniia Iskusstva I Deistvitel Nosti V Literature, Kritike, Literaturovedenii I Estetike Annotirovannyi Ukazatel Literatury.M. V. Stroganov - 1993 - Tverskoi Gos."
+      ]
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

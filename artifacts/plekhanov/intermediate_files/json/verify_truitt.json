@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.2307/428491
+[verify_paper.py] DOI verified: Mr. Baxandall's Revisionism: "Marxism and Aestheti...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/428491"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/428491",
+      "title": "Mr. Baxandall's Revisionism: \"Marxism and Aesthetics\" (A Reply)",
+      "authors": [
+        {
+          "family": "Truitt",
+          "given": "Willis H."
+        }
+      ],
+      "editors": [],
+      "year": 1970,
+      "container_title": "The Journal of Aesthetics and Art Criticism",
+      "volume": "28",
+      "issue": "4",
+      "page": "511",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/428491"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

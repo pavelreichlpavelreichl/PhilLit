@@ -1,0 +1,62 @@
+[s2_search.py] Searching Semantic Scholar: 'Sockol vulgar Marxism Plekhanov aesthetics', limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_7f031514f74522fc)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Sockol vulgar Marxism Plekhanov aesthetics",
+  "results": [
+    {
+      "paperId": "e18052136f88c3cd2b093aac6457b077e41d753b",
+      "title": "Calumny Fetishism: The Origins and Obscurantism of the Concept of \u201cVulgar Marxism\u201d",
+      "authors": [
+        {
+          "name": "David Sockol",
+          "authorId": "114716839"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e18052136f88c3cd2b093aac6457b077e41d753b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "76f35a0a0ae224728f322dc58190e10751805669",
+      "title": "Verso of the \u201cVulgar\u201d Portrait: Georgi Plekhanov\u2019s Anti-Kantianism and Activist Aesthetic",
+      "authors": [
+        {
+          "name": "David Sockol",
+          "authorId": "114716839"
+        }
+      ],
+      "year": 2023,
+      "abstract": "This essay examines Georgi Plekhanov, founder of the Russian Marxist movement and a supposed exemplar of \u201cvulgar Marxism.\u201d It analyses Plekhanov's formulation of a Marxist aesthetic, interrogating the widespread image of Plekhanov's \u201cvulgar\u201d focus on economic determinism and his neglect of cultural forces' influence on revolutionary praxis, locating him instead within a fuller history of Marxist thought. A contextualization of Plekhanov's fin-de-siecle writings on art demonstrates that these texts were effectively a component of his contemporary polemics against critics of Marxist theory, and that within them he was pursuing his polemical agenda of criticizing Kantian philosophy and defending Marxist materialism. These dual aims manifested in Plekhanov's rejection of the Kantian notion of aesthetic disinterestedness and a stress on the formative role class conflict exerted on artistic creation, ultimately resulting in his formulation of an original aesthetic theory prescribing political commitment and thus mobilizing artworks towards revolutionary ends.",
+      "citationCount": 0,
+      "doi": "10.1080/08935696.2023.2251333",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/76f35a0a0ae224728f322dc58190e10751805669",
+      "venue": "Rethinking Marxism",
+      "journal": {
+        "name": "Rethinking Marxism",
+        "pages": "484 - 501",
+        "volume": "35"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

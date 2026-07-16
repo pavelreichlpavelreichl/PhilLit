@@ -1,0 +1,16 @@
+[search_openalex.py] Searching OpenAlex: 'ironic emergence activist aesthetic vulgar Sockol Plekhanov', limit=25
+[search_openalex.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "openalex",
+  "query": "ironic emergence activist aesthetic vulgar Sockol Plekhanov",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+[s2_search.py] Searching Semantic Scholar: 'Lifshitz Plekhanov realism aesthetics Marxist', limit=20
+[s2_search.py] Retrieved 3/3 papers...
+[s2_search.py] Search complete: 3 papers found
+[s2_search.py] Cached results (cache key: s2_ad8e031b78f66b31)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Lifshitz Plekhanov realism aesthetics Marxist",
+  "results": [
+    {
+      "paperId": "80de081919817cec4a3d8e41944e3e0e34805f2b",
+      "title": "An introduction on the politicization of arts in Imperial Russian left-wing movements: from Western models towards original developments",
+      "authors": [
+        {
+          "name": "V. Toma",
+          "authorId": "50570097"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Although the politicization of artistic content has been around us since Antiquity, a much more refined approach towards this segment came to shape during the nineteenth century, as philosophical, doctrinary and ideological thought became much more complex. Across Europe, during these times of ideological strifes, art has started to regain attention, but this time in political circles, on all sides of the political specter, as a tool to further and enhance various political agendas. Usually overlooked by historians in favour of studying more contemporary phenomenons such as Soviet-era Socialist Realism head-on, the basis for a politicised direction in arts by the left-wing movements in Russia was established much earlier than the postrevolutionary period. Due to a lack of first-hand articles on this certain aspect, this paper will be centered around the idea of a disseminator of general considerations, that is based upon text analysis of different fundamental political or philosophical works that hold such information regarding the evolution towards political aesthetics in the left-wing intelligentsia or political discourse in the Russian Empire. Given the fact that this concept is still underresearched, the main goal of this study is to give a framework to the main aspects of the prerevolutionary beginnings of political aesthetics or discourse on art in the aforementioned leftist movements. A secondary goal of this research is to create an efficient introduction resource for students or other interested readers. The paper is structured as follows: The beginnings of such processes from Western models to the Russian case, being represented by the contribution of Nikolay Gavrilovich Chernyshevsky, a view upon Classical Marxist approaches towards art and aesthetics, the birth of Russian Orthodox Marxist theory, starting with the works of Gerogi Valentinovich Plekhanov and ending with the political praxis of Plekhanov\u2019s ideas, represented by the actions of Vladimir Ilych Ulianov (Lenin). The authors that have been chosen in this study, especially on the Russian case studies, were selected based on their relevant contributions and impact on theory and practice as a whole, excluding peripheral opinions and contributions (e.g. Pisarev or Dobrolyubov in the Narodnik case).",
+      "citationCount": 0,
+      "doi": "10.31178/eas.2024.7.1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/80de081919817cec4a3d8e41944e3e0e34805f2b",
+      "venue": "Euro-Atlantic Studies",
+      "journal": {
+        "name": "Euro-Atlantic Studies"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "c95eb5a87dfaa825da76f7c93dcecfe834254087",
+      "title": "Marxist Literary Criticism",
+      "authors": [
+        {
+          "name": "T. Eagleton",
+          "authorId": "5927867"
+        }
+      ],
+      "year": 1977,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.1111/j.1467-954X.1977.tb03232.x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c95eb5a87dfaa825da76f7c93dcecfe834254087",
+      "venue": "",
+      "journal": {
+        "name": "The Sociological Review",
+        "pages": "85 - 91",
+        "volume": "25"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2a8bace675d828c35ccf4fca82fd212a2070bcab",
+      "title": "The Philosophical Foundations of Soviet Aesthetics: Theories and Controversies in the Post-War Years",
+      "authors": [
+        {
+          "name": "E. \u015awiderski",
+          "authorId": "114515065"
+        }
+      ],
+      "year": 1979,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.2307/129944",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2a8bace675d828c35ccf4fca82fd212a2070bcab",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    }
+  ],
+  "count": 3,
+  "errors": []
+}

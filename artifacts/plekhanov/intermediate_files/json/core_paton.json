@@ -1,0 +1,16 @@
+[search_core.py] Searching CORE: 'beginnings Russian Marxist literary criticism Plekhanov Paton', limit=20
+[search_core.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "core",
+  "query": "beginnings Russian Marxist literary criticism Plekhanov Paton",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

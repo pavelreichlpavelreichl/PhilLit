@@ -1,0 +1,63 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 2 paper(s)...
+[s2_batch.py] Processing 2 responses...
+[s2_batch.py] Found 2 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "2 paper IDs",
+  "results": [
+    {
+      "paperId": "36035a1df1d6162aaf715dba8d076d8f40727250",
+      "title": "Art and Social Life",
+      "authors": [
+        {
+          "name": "G. Plekhanov",
+          "authorId": "112826995"
+        }
+      ],
+      "year": 1987,
+      "abstract": null,
+      "citationCount": 26,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/36035a1df1d6162aaf715dba8d076d8f40727250",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "36035a1df1d6162aaf715dba8d076d8f40727250"
+    },
+    {
+      "paperId": "589aced1db0508fab6ab6ddb3305420128ccf515",
+      "title": "Unaddressed letters ; Art and social life",
+      "authors": [
+        {
+          "name": "G. Plekhanov",
+          "authorId": "112826995"
+        },
+        {
+          "name": "A. Fineberg",
+          "authorId": "49468377"
+        }
+      ],
+      "year": 1957,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/589aced1db0508fab6ab6ddb3305420128ccf515",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "589aced1db0508fab6ab6ddb3305420128ccf515"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

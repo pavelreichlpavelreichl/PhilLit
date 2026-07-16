@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/08935696.2023.2251333
+[verify_paper.py] DOI verified: Verso of the “Vulgar” Portrait: Georgi Plekhanov’s...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/08935696.2023.2251333"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/08935696.2023.2251333",
+      "title": "Verso of the \u201cVulgar\u201d Portrait: Georgi Plekhanov\u2019s Anti-Kantianism and Activist Aesthetic",
+      "authors": [
+        {
+          "family": "Sockol",
+          "given": "David"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "Rethinking Marxism",
+      "volume": "35",
+      "issue": "4",
+      "page": "484-501",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/08935696.2023.2251333"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

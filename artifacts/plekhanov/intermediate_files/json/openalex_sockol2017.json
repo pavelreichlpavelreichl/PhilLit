@@ -1,0 +1,16 @@
+[search_openalex.py] Searching OpenAlex: 'Calumny Fetishism Origins Obscurantism Vulgar Marxism Sockol', limit=25
+[search_openalex.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "openalex",
+  "query": "Calumny Fetishism Origins Obscurantism Vulgar Marxism Sockol",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

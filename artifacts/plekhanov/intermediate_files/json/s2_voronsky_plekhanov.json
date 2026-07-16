@@ -1,0 +1,35 @@
+[s2_search.py] Searching Semantic Scholar: 'Voronsky Plekhanov aesthetic realism cognition of life', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_082faf989fcc21d7)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Voronsky Plekhanov aesthetic realism cognition of life",
+  "results": [
+    {
+      "paperId": "4f7e07efc3bc8d6b825087027f44a94fcc6b044f",
+      "title": "Aleksandr Voronsky's Aesthetic Realism: \u2015Art Is the Cognition of Life\u2016",
+      "authors": [
+        {
+          "name": "A. David-West",
+          "authorId": "1419716827"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4f7e07efc3bc8d6b825087027f44a94fcc6b044f",
+      "venue": "",
+      "journal": {
+        "name": "American Society for Aesthetics Graduate E-Journal",
+        "volume": "6"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

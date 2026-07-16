@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.11606/ISSN.2317-4765.RUS.2014.88704
+[verify_paper.py] DOI verified: Plekhánov e a crítica estética marxista: entre a i...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.11606/ISSN.2317-4765.RUS.2014.88704"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.11606/issn.2317-4765.rus.2014.88704",
+      "title": "Plekh\u00e1nov e a cr\u00edtica est\u00e9tica marxista: entre a inten\u00e7\u00e3o e o gesto",
+      "authors": [
+        {
+          "family": "Nascimento",
+          "given": "Rodrigo Alves do"
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "RUS (S\u00e3o Paulo)",
+      "volume": "3",
+      "issue": "3",
+      "page": "85",
+      "publisher": "Universidade de Sao Paulo, Agencia USP de Gestao da Informacao Academica (AGUIA)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.11606/issn.2317-4765.rus.2014.88704"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
