@@ -1,0 +1,756 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: spinoza-political
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Spinoza’s Political Philosophy
+{
+  "status": "success",
+  "source": "sep",
+  "query": "spinoza-political",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/spinoza-political/",
+      "entry_name": "spinoza-political",
+      "title": "Spinoza\u2019s Political Philosophy",
+      "bibliography": [
+        {
+          "raw": "[CWS], The Collected Works of Spinoza , Edwin\nCurley (ed./trans.), 2 volumes, Princeton, NJ: Princeton University\nPress, 1985\u20132016.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[TTP] and [TP] refer to the chapter and section in [CWS] (e.g., TP\n6.4 refers to TP chapter 6, section 4). The following abbreviations\nfor the Ethics are used: Roman numerals refer to parts;\n\u201cP\u201d denotes proposition; \u201cC\u201d denotes\ncorollary; \u201cD\u201d denotes definition; \u201cdem.\u201d\ndenotes demonstration; \u201cS\u201d denotes scholium (e.g., E IIIP59S refers to Ethics , part III, proposition 59,\nscholium).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[SO], Spinoza Opera , Carl Gebhardt (ed.), 4\nvolumes, Heidelberg: Carl Winter, 1925.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[PW], The Political Works: The Tractatus\nTheologico-Politicus in Part, and the Tracatatus Politicus in\nFull , A. G. Wernham (ed./tran.), Oxford: Clarendon Press,\n1958.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hobbes, Thomas, 1640 [1994], The Elements of Law, Natural and\nPolitic , circulated manuscript. Included in The Elements of\nLaw, Natural and Politic: Part I, Human Nature, Part II, De corpore\npolitico\u202f; with Three Lives (World\u2019s Classics), J. C.\nA. Gaskin (ed.), Oxford/New York: Oxford University Press, 1994.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "[DCv] \u2013\u2013\u2013, 1642 [1998], De Cive , Paris;\ntranslated as On the Citizen (Cambridge Texts in the History\nof Political Thought), Richard Tuck and Michael Silverthorne\n(eds/trans), Cambridge/New York: Cambridge University Press, 1998.\ndoi:10.1017/CBO9780511808173",
+          "parsed": {
+            "authors": [
+              "[DCv] \u2013\u2013\u2013"
+            ],
+            "year": "1642",
+            "title": "[DCv] \u2013\u2013\u2013, 1642 [1998], De Cive , Paris;\ntranslated as On the Citizen (Cambridge Texts in the History\nof Political Thought), Richard Tuck and Michael Silverthorne\n(eds/trans), Cambridge/New York: Cambridge University Press, 1998.\ndoi:10.1017/CBO9780511808173"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1651 [1996], Leviathan , London:\nCrooke. Republished, Richard Tuck (ed.) (Cambridge Texts in the\nHistory of Political Thought), Cambridge/New York: Cambridge\nUniversity Press, 1996. doi:10.1017/CBO9780511808166",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1651",
+            "title": "\u2013\u2013\u2013, 1651 [1996], Leviathan , London:\nCrooke. Republished, Richard Tuck (ed.) (Cambridge Texts in the\nHistory of Political Thought), Cambridge/New York: Cambridge\nUniversity Press, 1996. doi:10.1017/CBO9780511808166"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Machiavelli, Niccol\u00f2, 1532 [1988], Il Principe ;\ntranslated as The Prince (Cambridge Texts in the History of\nPolitical Thought), Quentin Skinner and Russell Price (eds),\nCambridge/New York: Cambridge University Press, 1988.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Mendelssohn, Moses, 1783 [1983], Jerusalem oder \u00fcber\nreligi\u00f6se Macht und Judentum , Berlin: Friedrich Maurer;\ntranslated as Jerusalem, or, On Religious Power and Judaism ,\nAlexander Altmann (ed.), Allan Arkush (trans.),\nWaltham/Hanover/London: Brandeis University Press published by\nUniversity Press of New England, 1983.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pufendorf, Samuel, 1672 [1934], De jure naturae et gentium\nlibri octo , Lund: V. Haberegger. Republished with a translation,\n1934, Charles Henry Oldfather and W. A. Oldfather (trans), 2 volumes\n(The classics of international law 17), Oxford: The Clarendon Press\n(first volume is a reproduction of the 1688 edition; second volume is\nthe English translation).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Van Velthuysen, Lambert, 1651, Epistolica dissertatio de\nprincipiis justi et decori , amended and collected in his Opera omnia , 1680; first English translation in 1706 as A\nDissertation: Wherein the Fundamentals of Natural or Moral Justice and\nDecorum are State, according to the Principles of Mr. Hobbes. By a\nLearned Pen , Trans. anon, London; translated again in 2013 as A Letter on the Principles of Justness and Decency: Containing a\nDefence of the Treatise \u201cDe Cive\u201d of the Learned Mr.\nHobbes (Brill\u2019s Studies in Intellectual History 218),\nMalcolm de Mowbray (trans.), Leiden/Boston: Brill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Armstrong, Aurelia, 2009, \u201cNatural and Unnatural\nCommunities: Spinoza Beyond Hobbes\u201d, British Journal for the\nHistory of Philosophy , 17(2): 279\u2013305.\ndoi:10.1080/09608780902761687",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Balibar, \u00c9tienne, 1985 [1998], Spinoza et la\npolitique (Philosophie 8), Paris: Presses universitaires de\nFrance; translated as Spinoza and Politics , Peter Snowdon\n(trans.), London/New York: Verso, 1998.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Barbone, Steven, 2002, \u201cWhat Counts as an Individual for\nSpinoza?\u201d, in Spinoza: Metaphysical Themes , Olli I.\nKoistinen and John I. Biro (eds), New York: Oxford University Press,\n89\u2013112 (ch. 5). doi:10.1093/019512815X.003.0006",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Barbone, Steven and Lee Rice, 2000, \u201cIntroduction and\nNotes\u201d, in Spinoza: Political Treatise , Indianapolis:\nHackett.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bartuschat, Wolfgang, 1984, \u201cThe Ontological Basis of\nSpinoza\u2019s Theory of Politics\u201d, in Spinoza\u2019s\nPolitical and Theological Thought (Koninklijke Nederlandse\nAkademie van Wetenschappen), Cornelis de Deugd (ed.), Amsterdam:\nNorth-Holland Publishing, 30\u201336.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bennett, Jonathan, 1984, A Study of Spinoza\u2019s\nEthics , Indianapolis, IN: Hackett.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Berlin, Isaiah, 1958 [1969], Two Concepts of Liberty: An\nInaugural Lecture Delivered before the University of Oxford on 31\nOctober 1958 , Oxford: Clarendon Press. Collected in his Four\nEssays on Liberty , New York: Oxford University Press, 1969,\n118\u2013173.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Blom, Hans W., 1993, \u201cThe Moral and Political Philosophy of\nSpinoza\u201d, in Routledge History of Philosophy Volume IV: The\nRenaissance and Seventeenth Century Rationalism , G. H. R.\nParkinson (ed.), London: Routledge, 313\u2013348 (ch. 9).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1995, \u201cCausality and Morality in\nPolitics. The Rise of Naturalism in Dutch Seventeenth-Century\nPolitical Thought\u201d, Doctoral thesis, Utrecht: University of\nUtrecht.\n [ Blom 1995 available online ]",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1995",
+            "title": "\u2013\u2013\u2013, 1995, \u201cCausality and Morality in\nPolitics. The Rise of Naturalism in Dutch Seventeenth-Century\nPolitical Thought\u201d, Doctoral thesis, Utrecht: University of\nUtrecht.\n [ Blom 1995 available online ]"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2007, \u201cSpinoza on Res\nPublica , Republics, and Monarchies\u201d, in Monarchisms in\nthe Age of Enlightenment: Liberty, Patriotism, and the Common\nGood (UCLA Clark Memorial Library Series), Hans W. Blom, John\nChristian Laursen, and Luisa Simonutti (eds), Toronto: University of\nToronto Press, 19\u201344 (ch. 1). doi:10.3138/9781442684607-003",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2007",
+            "title": "\u2013\u2013\u2013, 2007, \u201cSpinoza on Res\nPublica , Republics, and Monarchies\u201d, in Monarchisms in\nthe Age of Enlightenment: Liberty, Patriotism, and the Common\nGood (UCLA Clark Memorial Library Series), Hans W. Blom, John\nChristian Laursen, and Luisa Simonutti (eds), Toronto: University of\nToronto Press, 19\u201344 (ch. 1). doi:10.3138/9781442684607-003"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Curley, Edwin, 1973, \u201cSpinoza\u2019s Moral\nPhilosophy\u201d, in Spinoza, a Collection of Critical\nEssays (Modern Studies in Philosophy), Marjorie Grene (ed.),\nGarden City, NY: Anchor Books, 354\u2013376.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1991, \u201cThe State of Nature and Its\nLaw in Hobbes and Spinoza\u201d, Philosophical Topics ,\n19(1): 97\u2013117. doi:10.5840/philtopics199119114",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1991",
+            "title": "\u2013\u2013\u2013, 1991, \u201cThe State of Nature and Its\nLaw in Hobbes and Spinoza\u201d, Philosophical Topics ,\n19(1): 97\u2013117. doi:10.5840/philtopics199119114"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1995, \u201cSamuel Pufendorf\n(1632\u20131694) as a Critic of Spinoza\u201d, in L\u2019H\u00e9r\u00e9sie spinoziste: la discussion sur le\nTractatus theologico-politicus, 1670\u20131677, et la\nr\u00e9ception imm\u00e9diate du spinozisme: actes du Colloque\ninternational de Cortona, 10\u201314 Avril 1991 , Paolo\nCristofolini (ed.), Amsterdam: APA-Holland University Press,\n89\u201396.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1995",
+            "title": "\u2013\u2013\u2013, 1995, \u201cSamuel Pufendorf\n(1632\u20131694) as a Critic of Spinoza\u201d, in L\u2019H\u00e9r\u00e9sie spinoziste: la discussion sur le\nTractatus theologico-politicus, 1670\u20131677, et la\nr\u00e9ception imm\u00e9diate du spinozisme: actes du Colloque\ninternational de Cortona, 10\u201314 Avril 1991 , Paolo\nCristofolini (ed.), Amsterdam: APA-Holland University Press,\n89\u201396."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1996, \u201cKissinger, Spinoza, and\nGenghis Khan\u201d, in The Cambridge Companion to Spinoza ,\nDon Garrett (ed.), New York: Cambridge University Press, 315\u2013342\n(ch. 7). doi:10.1017/CCOL0521392357.008",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1996",
+            "title": "\u2013\u2013\u2013, 1996, \u201cKissinger, Spinoza, and\nGenghis Khan\u201d, in The Cambridge Companion to Spinoza ,\nDon Garrett (ed.), New York: Cambridge University Press, 315\u2013342\n(ch. 7). doi:10.1017/CCOL0521392357.008"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Del Lucchese, Filippo, 2004 [2009], Tumulti e indignatio:\nconflitto, diritto e moltitudine in Machiavelli e Spinoza (Spinoziana 8), Milano: Ghibli; translated as Conflict, Power, and\nMultitude in Machiavelli and Spinoza: Tumult and Indignation (Continuum Studies in Philosophy), London/New York: Continuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Della Rocca, Michael, 1996, Representation and the Mind-Body\nProblem in Spinoza , New York: Oxford University Press.\ndoi:10.1093/oso/9780195095623.001.0001",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2008, Spinoza (Routledge\nPhilosophers), Abingdon, UK: Routledge. doi:10.4324/9780203894583",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2008",
+            "title": "\u2013\u2013\u2013, 2008, Spinoza (Routledge\nPhilosophers), Abingdon, UK: Routledge. doi:10.4324/9780203894583"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Den Uyl, Douglas J., 1983, Power, State and Freedom: An\nInterpretation of Spinoza\u2019s Political Philosophy (Philosophia Spinozae Perennis 5), Assen, Netherlands: Van\nGorcum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1985, \u201cSociality and Social Contract:\nA Spinozistic Perspective\u201d, Studia Spinozana: An\nInternational and Interdisciplinary Series , 1: 19\u201352.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1985",
+            "title": "\u2013\u2013\u2013, 1985, \u201cSociality and Social Contract:\nA Spinozistic Perspective\u201d, Studia Spinozana: An\nInternational and Interdisciplinary Series , 1: 19\u201352."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Eckstein, Walter, 1944, \u201cRousseau and Spinoza: Their\nPolitical Theories and Their Conception of Ethical Freedom\u201d, Journal of the History of Ideas , 5(3): 259\u2013291.\ndoi:10.2307/2707351",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Feuer, Lewis S., 1958 [1987], Spinoza and the Rise of\nLiberalism , Boston: Beacon Press. New edition, New Brunswick, NJ:\nTransaction Books, 1987.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Field, Sandra Leonie, 2014, \u201cHobbes and the Question of\nPower\u201d, Journal of the History of Philosophy , 52(1):\n61\u201385. doi:10.1353/hph.2014.0010",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, Potentia: Hobbes and Spinoza on\nPower and Popular Politics , New York: Oxford University Press.\ndoi:10.1093/oso/9780197528242.001.0001",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, Potentia: Hobbes and Spinoza on\nPower and Popular Politics , New York: Oxford University Press.\ndoi:10.1093/oso/9780197528242.001.0001"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Freudenthal, Jacob, 1899, Die Lebensgeschichte Spinoza\u2019s\nin Quellenschriften, Urkunden und nichtamtlichen Nachrichten ,\nLeipzig: Verlag Von Veit.\n [ Freudenthal 1899 available online ]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Garrett, Aaron, 2003, \u201cSpinoza as Natural Lawyer\u201d, Cardozo Law Review , 25(2): 627\u2013642.",
+          "parsed": {
+            "authors": [
+              "Garrett, Aaron"
+            ],
+            "year": "2003",
+            "title": "\u201cSpinoza as Natural Lawyer\u201d",
+            "publisher": "Cardozo Law Review , 25(2): 627\u2013642"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Garrett, Don, 1994, \u201cSpinoza\u2019s Theory of Metaphysical\nIndividuation\u201d, in Individuation and Identity in Early\nModern Philosophy: Descartes to Kant , Kenneth F. Barber and Jorge\nJ. E. Gracia (eds), Albany: State University of New York Press,\n73\u2013101.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gatens, Moira, 1996, Imaginary Bodies: Ethics, Power, and\nCorporeality , New York: Routledge. doi:10.4324/9780203418659",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Goetschel, Willi, 2004, Spinoza\u2019s Modernity:\nMendelssohn, Lessing, and Heine (Studies in German Jewish\nCultural History and Literature), Madison, WI: University of Wisconsin\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gottlieb, Michah, 2011, Faith and Freedom: Moses\nMendelssohn\u2019s Theological-Political Thought , Oxford/New\nYork: Oxford University Press.\ndoi:10.1093/acprof:oso/9780195398946.001.0001",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Grey, John, 2021, \u201cThe Metaphysics of Natural Right in\nSpinoza\u201d, in Oxford Studies in Early Modern Philosophy,\nVolume X , Donald Rutherford (ed.), Oxford: Oxford University\nPress, 37\u201360 (ch. 2).\ndoi:10.1093/oso/9780192897442.003.0002",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Haitsma Mulier, Eco O. G., 1980, The Myth of Venice and Dutch\nRepublican Thought in the Seventeenth Century (Speculum\nHistoriale 11), Gerard T. Moran (trans.), Assen, The Netherlands: Van\nGorcum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1991, \u201cA Controversial Republican:\nDutch Views of Machiavelli in the Seventeenth and Eighteenth\nCenturies\u201d, in Machiavelli and Republicanism , Gisela\nBock, Quentin Skinner, and Maurizio Viroli (eds), Cambridge: Cambridge\nUniversity Press, 247\u2013264 (ch. 12).\ndoi:10.1017/CBO9780511598463.012",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1991",
+            "title": "\u2013\u2013\u2013, 1991, \u201cA Controversial Republican:\nDutch Views of Machiavelli in the Seventeenth and Eighteenth\nCenturies\u201d, in Machiavelli and Republicanism , Gisela\nBock, Quentin Skinner, and Maurizio Viroli (eds), Cambridge: Cambridge\nUniversity Press, 247\u2013264 (ch. 12).\ndoi:10.1017/CBO9780511598463.012"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hoekstra, Kinch, 2004, \u201cThe de Facto Turn in Hobbes\u2019s\nPolitical Philosophy\u201d, in Leviathan after 350 Years ,\nTom Sorell and Luc Foisneau (eds), Oxford: Clarendon Press,\n33\u201374. doi:10.1093/acprof:oso/9780199264612.003.0003",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Israel, Jonathan I., 1995, The Dutch Republic: Its Rise,\nGreatness, and Fall, 1477\u20131806 (Oxford History of Early\nModern Europe), Oxford/New York: Oxford University Press.\ndoi:10.1093/oso/9780198730729.001.0001",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2001, Radical Enlightenment: Philosophy\nand the Making of Modernity, 1650\u20131750 , New York: Oxford\nUniversity Press. doi:10.1093/acprof:oso/9780198206088.001.0001",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2001",
+            "title": "\u2013\u2013\u2013, 2001, Radical Enlightenment: Philosophy\nand the Making of Modernity, 1650\u20131750 , New York: Oxford\nUniversity Press. doi:10.1093/acprof:oso/9780198206088.001.0001"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010, \u201cThe Early Dutch and German\nReaction to the Tractatus Theologico-Politicus : Foreshadowing\nthe Enlightenment\u2019s More General Spinoza Reception?\u201d, in Melamed and Rosenthal 2010 :\n 72\u2013100 (ch. 5). doi:10.1017/CBO9780511781339.006",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010, \u201cThe Early Dutch and German\nReaction to the Tractatus Theologico-Politicus : Foreshadowing\nthe Enlightenment\u2019s More General Spinoza Reception?\u201d, in Melamed and Rosenthal 2010 :\n 72\u2013100 (ch. 5). doi:10.1017/CBO9780511781339.006"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, Democratic Enlightenment:\nPhilosophy, Revolution, and Human Rights 1750\u20131790 ,\nOxford/New York: Oxford University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "\u2013\u2013\u2013, 2011, Democratic Enlightenment:\nPhilosophy, Revolution, and Human Rights 1750\u20131790 ,\nOxford/New York: Oxford University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2023, Spinoza, Life and Legacy ,\nOxford/New York: Oxford University Press.\ndoi:10.1093/oso/9780198857488.001.0001",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2023",
+            "title": "\u2013\u2013\u2013, 2023, Spinoza, Life and Legacy ,\nOxford/New York: Oxford University Press.\ndoi:10.1093/oso/9780198857488.001.0001"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "James, Susan, 2012, Spinoza on Philosophy, Religion, and\nPolitics: The Theologico-Political Treatise , Oxford: Oxford\nUniversity Press. doi:10.1093/acprof:oso/9780199698127.001.0001",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2020, Spinoza on Learning to Live\nTogether , Oxford: Oxford University Press.\ndoi:10.1093/oso/9780198713074.001.0001",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2020",
+            "title": "\u2013\u2013\u2013, 2020, Spinoza on Learning to Live\nTogether , Oxford: Oxford University Press.\ndoi:10.1093/oso/9780198713074.001.0001"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Joachim, Harold H., 1901, A Study of the Ethics of Spinoza:\nEthica ordine geometrico demonstrata , Oxford: Clarendon\nPress.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kisner, Matthew J., 2011, Spinoza on Human Freedom: Reason,\nAutonomy and the Good Life , Cambridge/New York: Cambridge\nUniversity Press. doi:10.1017/CBO9780511973512",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Klever, W. N . A., 1996, \u201cSpinoza\u2019s Life and\nWorks\u201d, in The Cambridge Companion to Spinoza , Don\nGarrett (ed.), New York: Cambridge University Press, 13\u201360 (ch.\n1). doi:10.1017/CCOL0521392357.002",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kline, George L. (ed.), 1952, Spinoza in Soviet Philosophy: A\nSeries of Essays , New York: Humanities Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Kossmann, E. H., 2000, Political Thought in the Dutch\nRepublic: Three Studies (Verhandelingen der Koninklijke\nNederlandse Akademie van Wetenschappen, Afd. Letterkunde, nieuwe\nreeks, d. 179), Amsterdam: Koninklijke Nederlandse Akademie van\nWetenschappen.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "L\u00e6rke, Mogens, 2010, \u201cG. W. Leibniz\u2019s Two\nReadings of the Tractatus Theologico-Politicus\u201d, in Melamed and Rosenthal 2010 :\n 101\u2013127 (ch. 6). doi:10.1017/CBO9780511781339.007",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2021, Spinoza and the Freedom of\nPhilosophizing , Oxford: Oxford University Press.\ndoi:10.1093/oso/9780192895417.001.0001",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2021",
+            "title": "\u2013\u2013\u2013, 2021, Spinoza and the Freedom of\nPhilosophizing , Oxford: Oxford University Press.\ndoi:10.1093/oso/9780192895417.001.0001"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "LeBuffe, Michael, 2021, \u201cCitizens and States in\nSpinoza\u2019s Political Treatise \u201d, Mind ,\n130(519): 809\u2013832. doi:10.1093/mind/fzaa028",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Malcolm, Noel, 1991, \u201cHobees and Spinoza\u201d, in The\nCambridge History of Political Thought 1450\u20131700 , J. H.\nBurns (ed.), Cambridge: Cambridge University Press, 530\u2013558.\ndoi:10.1017/CHOL9780521247160.020",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Matheron, Alexandre, 1969, Individu et communaut\u00e9 chez\nSpinoza (Le Sens commun), Paris: Editions de Minuit.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1990, \u201cLe probl\u00e8me de\nl\u2019\u00e9volution de Spinoza du Trait\u00e9\nth\u00e9ologico-politique au Trait\u00e9\npolitique \u201d, in Spinoza: Issues and Directions:\nProceedings of the Chicago Spinoza Conference, 1986 , Edwin Curley\nand Pierre-Fran\u00e7ois Moreau (eds), Leiden: Brill,\n258\u2013270.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1990",
+            "title": "\u2013\u2013\u2013, 1990, \u201cLe probl\u00e8me de\nl\u2019\u00e9volution de Spinoza du Trait\u00e9\nth\u00e9ologico-politique au Trait\u00e9\npolitique \u201d, in Spinoza: Issues and Directions:\nProceedings of the Chicago Spinoza Conference, 1986 , Edwin Curley\nand Pierre-Fran\u00e7ois Moreau (eds), Leiden: Brill,\n258\u2013270."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1997, \u201cThe Theoretical Function of\nDemocracy in Spinoza and Hobbes\u201d, in The New Spinoza (Theory out of Bounds 11), Warren Montag and Ted Stolze (eds),\nMinneapolis, MN: University of Minnesota Press, 207\u2013218 (ch.\n10).",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1997",
+            "title": "\u2013\u2013\u2013, 1997, \u201cThe Theoretical Function of\nDemocracy in Spinoza and Hobbes\u201d, in The New Spinoza (Theory out of Bounds 11), Warren Montag and Ted Stolze (eds),\nMinneapolis, MN: University of Minnesota Press, 207\u2013218 (ch.\n10)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Matysik, Tracie, 2022, When Spinoza Met Marx: Experiments in\nNonhumanist Activity (The Life of Ideas), Chicago/London: The\nUniversity of Chicago Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "McShea, Robert J., 1968, The Political Philosophy of\nSpinoza , New York: Columbia University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Meinecke, Friedrich, 1924 [1957], Die Idee der\nStaatsr\u00e4son in der neueren Geschichte , M\u00fcnchen: R.\nOldenbourg; translated as Machiavellism: The Doctrine of Raison\nd\u2019\u00e9tat and Its Place in Modern History , Douglas\nScott (trans.), New Haven, CT: Yale University Press, 1957.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Melamed, Yitzhak Y., 2013, \u201cCharitable Interpretations and\nthe Political Domestication of Spinoza, or, Benedict in the Land of\nthe Secular Imagination\u201d, in Philosophy and Its History:\nAims and Methods in the Study of Early Modern Philosophy , Mogens\nLaerke, Justin E. H. Smith, and Eric Schliesser (eds), New York:\nOxford University Press, 258\u2013277 (ch. 12).\ndoi:10.1093/acprof:oso/9780199857142.003.0013",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Melamed, Yitzhak Y. and Michael A. Rosenthal (eds.),\n2010, Spinoza\u2019s \u201cTheological-Political\nTreatise\u201d: A Critical Guide (Cambridge Critical Guides),\nCambridge/New York: Cambridge University Press.\ndoi:10.1017/CBO9780511781339",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Melamed, Yitzhak Y. and Hasana Sharp (eds), 2018, Spinoza\u2019s \u201cPolitical Treatise\u201d: A Critical\nGuide , Cambridge: Cambridge University Press.\ndoi:10.1017/9781316756607",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Miller, Jon, 2012, \u201cSpinoza and Natural Law\u201d, in Reason, Religion, and Natural Law: From Plato to Spinoza ,\nJonathan A. Jacobs (ed), Oxford/New York: Oxford University Press,\n201\u2013221 (ch. 8).\ndoi:10.1093/acprof:oso/9780199767175.003.0008",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Moreau, Pierre-Fran\u00e7ois, 1994, Spinoza:\nl\u2019exp\u00e9rience et l\u2019\u00e9ternit\u00e9 (Epim\u00e9th\u00e9e), Paris: Presses universitaires de\nFrance.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nadler, Steven M., 1999 [2018], Spinoza: A Life ,\nCambridge/New York: Cambridge University Press. Second edition, 2018.\ndoi:10.1017/9781108635387",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2011, A Book Forged in Hell:\nSpinoza\u2019s Scandalous Treatise and the Birth of the Secular\nAge , Princeton, NJ: Princeton University Press.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2011",
+            "title": "\u2013\u2013\u2013, 2011, A Book Forged in Hell:\nSpinoza\u2019s Scandalous Treatise and the Birth of the Secular\nAge , Princeton, NJ: Princeton University Press."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Negri, Antonio, 1981 [1991], L\u2019anomalia selvaggia:\nsaggio su potere e potenza in Baruch Spinoza (I Fatti e le\nidee\u202f; Filosofia 487), Milano: Feltrinelli; translated as The Savage Anomaly: The Power of Spinoza\u2019s Metaphysics and\nPolitics , Michael Hardt (trans.), Minneapolis, MN: University of\nMinnesota Press, 1991.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Nyden-Bullock, Tammy, 2007, Spinoza\u2019s Radical Cartesian\nMind (Continuum Studies in Philosophy), London/New York:\nContinuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Petry, Michael, 1984, \u201cHobbes and the Early Dutch\nSpinozists\u201d, in Spinoza\u2019s Political and Theological\nThought: International Symposium under the Auspices of the Royal\nNetherlands Academy of Arts and Sciences Commemorating the 350th\nAnniversary of the Birth of Spinoza, Amsterdam 24\u201327 November\n1982 , C. de Deugd (ed.), Amsterdam: North-Holland Publishing,\n63\u201372.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Plekhanov, Georgi, 1898 [1976], \u201cBernstein and\nMaterialism\u201d, Neue Zeit , 44(July), in German;\ntranslated in his Selected Philosophical Works , Julius Katzer\n(trans.), Moscow: Progress, 2:325\u2013339.\n [ Plekhanov 1898 [1976] available online ]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pocock, J. G. A., 1975, The Machiavellian Moment: Florentine\nPolitical Thought and the Atlantic Republican Tradition ,\nPrinceton, NJ: Princeton University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Prokhovnik, Raia, 2001, \u201cSpinoza\u2019s Conception of\nSovereignty\u201d, History of European Ideas , 27(3):\n289\u2013306. doi:10.1016/S0191-6599(01)00051-1",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2004, Spinoza and Republicanism ,\nBasingstoke/New York: Palgrave Macmillan.\ndoi:10.1057/9780230000902",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2004",
+            "title": "\u2013\u2013\u2013, 2004, Spinoza and Republicanism ,\nBasingstoke/New York: Palgrave Macmillan.\ndoi:10.1057/9780230000902"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Rice, Lee C., 1990, \u201cIndividual and Community in\nSpinoza\u2019s Social Psychology\u201d, in Spinoza: Issues and\nDirections , Edwin Curley and Pierre-Francois Moreau (eds),\nLeiden: Brill, 271\u2013285.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rosenthal, Michael A., 1998, \u201cTwo Collective Action Problems\nin Spinoza\u2019s Social Contract Theory\u201d, History of\nPhilosophy Quarterly , 15(4): 389\u2013409.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2001, \u201cTolerance as a Virtue in\nSpinoza\u2019s Ethics\u201d, Journal of the History of\nPhilosophy , 39(4): 535\u2013557. doi:10.1353/hph.2003.0155",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2001",
+            "title": "\u2013\u2013\u2013, 2001, \u201cTolerance as a Virtue in\nSpinoza\u2019s Ethics\u201d, Journal of the History of\nPhilosophy , 39(4): 535\u2013557. doi:10.1353/hph.2003.0155"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2003, \u201cSpinoza\u2019s Republican\nArgument for Toleration\u201d, Journal of Political\nPhilosophy , 11(3): 320\u2013337.\ndoi:10.1111/1467-9760.00180",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2003",
+            "title": "\u2013\u2013\u2013, 2003, \u201cSpinoza\u2019s Republican\nArgument for Toleration\u201d, Journal of Political\nPhilosophy , 11(3): 320\u2013337.\ndoi:10.1111/1467-9760.00180"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, \u201cThe Siren Song of Revolution:\nSpinoza on the Art of Political Change\u201d, Graduate Faculty\nPhilosophy Journal , 34(1): 111\u2013132.\ndoi:10.5840/gfpj20133417",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, \u201cThe Siren Song of Revolution:\nSpinoza on the Art of Political Change\u201d, Graduate Faculty\nPhilosophy Journal , 34(1): 111\u2013132.\ndoi:10.5840/gfpj20133417"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Russell, Paul, 2008, The Riddle of Hume\u2019s Treatise:\nSkepticism, Naturalism, and Irreligion , Oxford/New York: Oxford\nUniversity Press. doi:10.1093/acprof:oso/9780195110333.001.0001",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rutherford, Donald, 2010, \u201cSpinoza\u2019s Conception of\nLaw: Metaphysics and Ethics\u201d, in Melamed and Rosenthal 2010 :\n 143\u2013167 (ch. 8). doi:10.1017/CBO9780511781339.009",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sacksteder, William, 1980, \u201cHow Much of Hobbes Might Spinoza\nHave Read?\u201d, The Southwestern Journal of Philosophy ,\n11(2): 25\u201339.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sharp, Hasana, 2011, Spinoza and the Politics of\nRenaturalization , Chicago: University of Chicago Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2012, \u201cEve\u2019s Perfection:\nSpinoza on Sexual (In)Equality\u201d, Journal of the History of\nPhilosophy , 50(4): 559\u2013580. doi:10.1353/hph.2012.0068",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2012",
+            "title": "\u2013\u2013\u2013, 2012, \u201cEve\u2019s Perfection:\nSpinoza on Sexual (In)Equality\u201d, Journal of the History of\nPhilosophy , 50(4): 559\u2013580. doi:10.1353/hph.2012.0068"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2013, \u201c Violenta imperia nemo\ncontinuit diu : Spinoza and the Revolutionary Laws of Human\nNature\u201d, Graduate Faculty Philosophy Journal , 34(1):\n133\u2013148. doi:10.5840/gfpj20133418",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2013",
+            "title": "\u2013\u2013\u2013, 2013, \u201c Violenta imperia nemo\ncontinuit diu : Spinoza and the Revolutionary Laws of Human\nNature\u201d, Graduate Faculty Philosophy Journal , 34(1):\n133\u2013148. doi:10.5840/gfpj20133418"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Smith, Steven B., 1997, Spinoza, Liberalism, and the Question\nof Jewish Identity , New Haven, CT: Yale University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Steila, Daniela, 2022, \u201cInterpretations of Spinoza in Early\nRussian Marxism\u201d, Studies in East European Thought ,\n74(3): 279\u2013296. doi:10.1007/s11212-021-09410-9",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Steinberg, Justin D., 2008, \u201cSpinoza on Being sui\niuris and the Republican Conception of Liberty\u201d, History of European Ideas , 34(3): 239\u2013249.\ndoi:10.1016/j.histeuroideas.2008.01.002",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2009, \u201cSpinoza on Civil\nLiberation\u201d, Journal of the History of Philosophy ,\n47(1): 35\u201358. doi:10.1353/hph.0.0082",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2009",
+            "title": "\u2013\u2013\u2013, 2009, \u201cSpinoza on Civil\nLiberation\u201d, Journal of the History of Philosophy ,\n47(1): 35\u201358. doi:10.1353/hph.0.0082"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010a, \u201cBenedict Spinoza: Epistemic\nDemocrat\u201d, History of Philosophy Quarterly , 27(2):\n145\u2013164.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010a, \u201cBenedict Spinoza: Epistemic\nDemocrat\u201d, History of Philosophy Quarterly , 27(2):\n145\u2013164."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2010b, \u201cSpinoza\u2019s Curious\nDefense of Toleration\u201d, in Melamed and Rosenthal 2010 :\n 210\u2013230 (ch. 11). doi:10.1017/CBO9780511781339.012",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2010",
+            "title": "\u2013\u2013\u2013, 2010b, \u201cSpinoza\u2019s Curious\nDefense of Toleration\u201d, in Melamed and Rosenthal 2010 :\n 210\u2013230 (ch. 11). doi:10.1017/CBO9780511781339.012"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2018a, Spinoza\u2019s Political\nPsychology: The Taming of Fortune and Fear , Cambridge: Cambridge\nUniversity Press. doi:10.1017/9781316493465",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2018",
+            "title": "\u2013\u2013\u2013, 2018a, Spinoza\u2019s Political\nPsychology: The Taming of Fortune and Fear , Cambridge: Cambridge\nUniversity Press. doi:10.1017/9781316493465"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2018b, \u201cSpinoza and Political\nAbsolutism\u201d, in Melamed and Sharp 2018 :\n 175\u2013189 (ch. 11). doi:10.1017/9781316756607.012",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2018",
+            "title": "\u2013\u2013\u2013, 2018b, \u201cSpinoza and Political\nAbsolutism\u201d, in Melamed and Sharp 2018 :\n 175\u2013189 (ch. 11). doi:10.1017/9781316756607.012"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2019, \u201cBodies Politic and Civic\nAgreement\u201d, in Spinoza and Relational Autonomy: Being with\nOthers , Aurelia Armstrong, Keith Green, and Andrea Sangiacomo\n(eds), Edinburgh: Edinburgh University Press, 132\u2013148 (ch.\n7).",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2019",
+            "title": "\u2013\u2013\u2013, 2019, \u201cBodies Politic and Civic\nAgreement\u201d, in Spinoza and Relational Autonomy: Being with\nOthers , Aurelia Armstrong, Keith Green, and Andrea Sangiacomo\n(eds), Edinburgh: Edinburgh University Press, 132\u2013148 (ch.\n7)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, forthcoming, \u201cRussian Marxism and the\nMaterialist Interpretation of Spinoza\u201d, in The History and\nPhilosophy of Materialism , Charles T. Wolfe and John Symons\n(eds), London: Routledge, chapter 24.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Strauss, Leo, 1930 [1965], Die religionskritik Spinozas als\ngrundlage seiner Bibelwissenschaft: untersuchungen zu Spinozas\nTheologisch-politischem traktat (Ver\u00f6ffentlichungen der\nAkademie f\u00fcr die wissenschaft des judentums. Philosophische\nsektion 2), Berlin: Akademie-verlag; translated in Spinoza\u2019s\nCritique of Religion , E. M. Sinclair (trans.), New York: Schocken\nBooks, 1965.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tuck, Richard, 1979, Natural Rights Theories: Their Origin and\nDevelopment , Cambridge/New York: Cambridge University Press.\ndoi:10.1017/CBO9781139163569",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "van Bunge, Wiep, 2012, Spinoza Past and Present: Essays on\nSpinoza, Spinozism, and Spinoza Scholarship (Brill\u2019s\nStudies in Intellectual History 215), Boston: Brill.\ndoi:10.1163/9789004233522",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wernham, A. G., 1958, \u201cNotes and Introduction\u201d, to Spinoza [PW] .",
+          "parsed": {
+            "authors": [
+              "Wernham, A. G."
+            ],
+            "year": "1958",
+            "title": "\u201cNotes and Introduction\u201d",
+            "publisher": "to Spinoza [PW]"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "Williams, David Lay, 2010, \u201cSpinoza and the General\nWill\u201d, The Journal of Politics , 72(2): 341\u2013356.\ndoi:10.1017/S0022381609990776",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

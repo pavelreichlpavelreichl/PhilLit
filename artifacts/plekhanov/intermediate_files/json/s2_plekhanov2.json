@@ -1,0 +1,16 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov Narodnik subjectivist sociology Mikhailovsky' (year=1980-2025), limit=20
+[s2_search.py] Found 0 papers total
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "Plekhanov Narodnik subjectivist sociology Mikhailovsky",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

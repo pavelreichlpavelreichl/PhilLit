@@ -1,0 +1,977 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov ideology social psychology mediating', limit=25
+[search_openalex.py] Rate limited, backing off (attempt 1/5)...
+[search_openalex.py] Retrying after 1.7s backoff...
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_50fd3e3a338c6578)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov ideology social psychology mediating",
+  "results": [
+    {
+      "openalex_id": "W4200371040",
+      "doi": "10.3390/su132413689",
+      "title": "Corporate Social Responsibility and Football Clubs: The Value of Environmental Sustainability as a Basis for the Rebranding of Real Betis Balompi\u00e9 in Spain",
+      "authors": [
+        {
+          "name": "Gema Lobillo Mora",
+          "openalex_id": "A5046407102",
+          "orcid": "https://orcid.org/0000-0002-5315-3057",
+          "institutions": [
+            "Universidad de M\u00e1laga"
+          ]
+        },
+        {
+          "name": "Xavier Ginesta",
+          "openalex_id": "A5066638767",
+          "orcid": "https://orcid.org/0000-0002-2433-6209",
+          "institutions": [
+            "Universitat de Vic - Universitat Central de Catalunya"
+          ]
+        },
+        {
+          "name": "Jordi de San Eugenio Vela",
+          "openalex_id": "A5026759289",
+          "orcid": "https://orcid.org/0000-0003-3390-8819",
+          "institutions": [
+            "Universitat de Vic - Universitat Central de Catalunya"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-11",
+      "abstract": "On October 2020, Real Betis Balompi\u00e9, a football club located in Seville (Andalucia), presented the Forever Green programme, a global programme of Corporate Social Responsibility (CSR) that, through the club\u2019s foundation, enables the entity to position itself in areas of sustainable development and environment at a global level. This project was preceded by a sponsorship initiative with the Green Earth project, as well as having been the first football club to sign the United Nations\u2019 Climate Change Now initiative. This article aims to explain the rebranding process of a sports brand based on values linked to sustainability and to assess the impact this rebranding process has had on the fans\u2019 perception of the brand. The methodology used was a combination of in-depth interviews with the executives charged with leading the rebranding process and a convenience survey given to 100 fans to assess the impact of the initiative. The results show that both the entity and the fans agree on a holistic vision of what the CSR is, altruistic in nature, and that its initiatives should be applicable across the entire organisation. However, although the club\u2019s link with values of the environment and sustainability is highly valued by the fans, they still do not feel directly called upon to take part in actions that the club organises.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Sustainability",
+        "type": "journal",
+        "issn": [
+          "2071-1050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/13/24/13689/pdf?version=1639206177"
+      },
+      "topics": [
+        "Sport and Mega-Event Impacts",
+        "Environmental Sustainability in Business"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W4200371040"
+    },
+    {
+      "openalex_id": "W4379274501",
+      "doi": "10.5281/zenodo.8002571",
+      "title": "Subjectivity, psychology and the Cuban Revolution",
+      "authors": [
+        {
+          "name": "Fernando Gonz\u00e1lez-Rey",
+          "openalex_id": "A5056190694"
+        },
+        {
+          "name": "David Pav\u00f3n\u2010Cu\u00e9llar",
+          "openalex_id": "A5072244915",
+          "orcid": "https://orcid.org/0000-0003-1610-6531",
+          "institutions": [
+            "Universidad Michoacana de San Nicol\u00e1s de Hidalgo"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-04",
+      "abstract": "This article contains a discussion on the Cuban Revolution and its effects on subjectivity and psychology. The authors reflect on the historical and psychosocial background of the revolutionary process of 1956\u20131959, the Cuban exception in the Latin American context, the role of objective and subjective factors in the revolution and in the socialist regime, Cuban psychologists' lack of interest in subjectivity, the history of Cuban psychology from the 1950s until now, and the connection of this history with historical events and specifically with the influence of the Soviet Union in Cuba. The great social achievements of the revolution are recognized, but also the appropriation of the revolutionary legacy by the regime and its negative consequences on the subjective sphere.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/8002571"
+      },
+      "topics": [
+        "Cuban History and Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4379274501"
+    },
+    {
+      "openalex_id": "W2099313189",
+      "doi": null,
+      "title": "Workers and Intelligentsia in Late Imperial Russia: Realities, Representations, Reflections",
+      "authors": [
+        {
+          "name": "Reginald E. Zelnik",
+          "openalex_id": "A5068134979"
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-01-01",
+      "abstract": "The collapse of the Soviet Union opened previously unimagined possibilities for insight into Russian social, intellectual, and political history.This volume, a collaboration of American, Russian, and West European scholars, illuminates the creation and complex dynamics of the Russian industrial working class from its peasant origins in the mid-nineteenth century to the collapse of the imperial system in 1917.The authors focus on the shifting attitudes, cultural norms, self-representations, and increasing self-consciousness of workers as they interacted with the new social movements, student groups, the Church, and most dramatically, the political (mainly radical and liberal) intelligentsia.But the authors also examine the obverse: the contending representations of workers by the intelligentsia as they interacted with each other ever more intensely during this turbulent period leading up to the Russian Revolution.The result is a fascinating and detailed account of social and cultural transformation in a key period of Russian -and world -history.",
+      "cited_by_count": 14,
+      "type": "book",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt27p076zk/qt27p076zk.pdf?t=leys6g"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Anarchism and Radical Politics",
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2099313189"
+    },
+    {
+      "openalex_id": "W2965783604",
+      "doi": "10.1080/10758216.2019.1640068",
+      "title": "Proletarian Internationalism in Action? Communist Legacies and Attitudes Towards Migrants in Russia",
+      "authors": [
+        {
+          "name": "Alexander Libman",
+          "openalex_id": "A5061950449",
+          "orcid": "https://orcid.org/0000-0001-8504-3007",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          ]
+        },
+        {
+          "name": "Anastassia Obydenkova",
+          "openalex_id": "A5064596864",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Institut Barcelona d'Estudis Internacionals",
+            "Institut d'An\u00e0lisi Econ\u00f2mica"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-06",
+      "abstract": "The paper investigates the effect of Communist legacies on attitudes toward migrants in present-day Russia. Midway through the first decade of the 2000s, Russia established itself as an attractive center of labor migration. This rise of migration triggered an upsurge of xenophobic sentiment and nationalism. This paper examines the variation of anti-migrant sentiments across the regions of the Russian Federation and concludes that it is strongly affected by the legacies of the Communist regime. Regions with a higher share of CPSU members in their population in the 1970s are characterized by stronger negative attitudes towards migrants.",
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "Problems of Post-Communism",
+        "type": "journal",
+        "issn": [
+          "1075-8216",
+          "1557-783X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digital.csic.es/bitstream/10261/201931/3/Libman_Obydenkova_Migration.pdf"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Soviet and Russian History",
+        "Political Conflict and Governance"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W2965783604"
+    },
+    {
+      "openalex_id": "W4235461327",
+      "doi": "10.12731/978-5-907208-38-4",
+      "title": "Social risks in modern society",
+      "authors": [],
+      "publication_year": 2020,
+      "publication_date": "2020-11-30",
+      "abstract": "314/316 (082) 60.52 43 69",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Science and Innovation Center Publishing House eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.12731/978-5-907208-38-4"
+      },
+      "topics": [
+        "Business and Economic Development",
+        "Economic Issues in Ukraine",
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W4235461327"
+    },
+    {
+      "openalex_id": "W2138968326",
+      "doi": null,
+      "title": "Building a Movement: Filipino American Union and Community Organizing in Seattle in the 1970s",
+      "authors": [
+        {
+          "name": "Ligaya Rene Domingo",
+          "openalex_id": "A5046917022"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "AbstractBuilding a Movement: Filipino American Union and Community Organizing in Seattle in the 1970sbyLigaya Rene DomingoDoctor of Philosophy in EducationUniversity of California, BerkeleyProfessor Catherine Ceniza Choy, Co-ChairProfessor Ingrid Seyer-Ochi, Co-ChairThe Asian American Movement emerged in the late 1960s and early 1970s inspired by the Civil Rights Movement, Antiwar Movement, Black Liberation Movement, and struggles for liberation in Asia, Africa, Latin America, and the Middle East. Activists, including college students and community members throughout the United States, used \"mass line\" tactics to raise political awareness, build organizations, address community concerns, and ultimately to serve their communities. While the history of the Asian American Movement has been chronicled, the scholarship has been analytically and theoretically insufficient -and in some cases nonexistent- in terms of local struggles, how the movement unfolded, and the role of Filipino Americans. This dissertation focuses on one, untold story of the Asian American Movement: the role of activists in Seattle, Washington who were concerned with regional injustices affecting Filipino Americans. I argue that this local struggle in the Pacific Northwest not only demonstrates the diversity of action and strategy within the Asian American Movement but also deepens our understanding of the broader movement as both local and transnational - unique in its local strategies yet closely aligned with the goals of the era's social movements. Based on both historical and qualitative data, this dissertation uses a Gramscian framework to explore the possibilities and limitations of using civil society as instruments for social change. Specifically, I examine the efforts by a group of local activists in the 1970s to seek redress for the exclusion, discrimination and social dislocation experienced by Filipino Americans. I explore two local Asian American Movement case studies in which activists worked within two preexisting organizational formations of civil society, the Alaska Cannery Worker's Union and the Filipino Community of Seattle, to achieve their goals. This dissertation sheds light on the evolution of their organizing strategies and tactics with regard to broader processes of community and identity formation, as well as to their aims of bringing about revolutionary change. My research explored the following questions about attempts to serve and support the Filipino American community in Seattle in the 1970s: First, how do processes of community, identity, and ideological formation shape social movement organizing strategies? And second, how have changing patterns of immigration, institutional community formation, and international movement ideology shaped the strategies used by activists organizing on behalf of the Filipino American community in Seattle, Washington?\\tI argue that the efforts to organize in support of the Seattle Filipino American community in the 1970s unfolded in two phases. In the first phase, the activists were influenced and guided by the Civil Rights Movement and the ideas of the larger Asian American Movement. These movements provided activists with a framework from which to understand their grievances and activists started organizing using a Civil Rights and equity-based framework to address grievances and achieve social reforms. However, the declaration of martial law in the Philippines in 1972 coincided with a fracture within the Filipino American community in Seattle because one group of activists experienced an ideological shift to a more radical viewpoint. This schism amongst the activists and within the larger Filipino American community was complicated by differences based on time of immigration, class, and generation and was manifested in political questions regarding the mission, goals, and use of both the Filipino Community of Seattle and the Cannery Worker's Union. \\tIn the second phase of organizing, the radical activists were no longer intent on just reforming these local organizations; they also had a broader political agenda, and their organizing strategies changed to reflect this ideological shift. I argue that the strategy of the activists in this second phase was what Gramsci calls a \"War of Position,\" meaning that the activists tried to use civil society institutions - a non-profit and community organization and a union - as a means to build a social movement and as a way to wage an attack on the state. Ultimately, the findings of this study challenge previous claims that the Asian American Movement was either reformist or radical. In this case study of Filipino American activists in Seattle, the data demonstrates that they were agents for social reform and also revolutionaries, not one or the other. The findings of this study point to the need for more nuanced and complex frameworks for understanding social change processes and organizing strategies.",
+      "cited_by_count": 8,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/3t92p4n4"
+      },
+      "topics": [
+        "Asian American and Pacific Histories",
+        "Latin American and Latino Studies",
+        "Hong Kong and Taiwan Politics"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2138968326"
+    },
+    {
+      "openalex_id": "W4392731191",
+      "doi": "10.1186/s12992-024-01018-y",
+      "title": "The paradox of pandemic mitigation? Moderating role of pandemic severity on the impact of social distancing policies: a cultural value perspective",
+      "authors": [
+        {
+          "name": "Xingyang Ma",
+          "openalex_id": "A5114103684",
+          "orcid": "https://orcid.org/0000-0003-4583-6752",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Bing Chen",
+          "openalex_id": "A5100443119",
+          "orcid": "https://orcid.org/0000-0003-1041-4525",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Yufang Zhao",
+          "openalex_id": "A5022504253",
+          "orcid": "https://orcid.org/0000-0002-7726-7905",
+          "institutions": [
+            "Southwest University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-09",
+      "abstract": "BACKGROUND: Social distancing policies were of utmost importance during the early stages of the COVID-19 pandemic. These policies aimed to mitigate the severity of local outbreaks by altering public behavior. However, if the severity of the pandemic reduces, the impact of these policies on actual behavior may decrease. This study aims to examine, from a global perspective, whether the impact of social distancing policies on actual mobility is moderated by local pandemic severity and whether this moderating effect varies across cultural value contexts. METHODS: We combined multiple publicly available global datasets for structural equation model analysis. 17,513 rows of data from 57 countries included in all databases were analyzed. Multilevel moderated moderation models were constructed to test the hypotheses. RESULTS: More stringent policies in a region mean less regional mobility (\u03b2 = -0.572, p < 0.001). However, the severity of local outbreaks negatively moderated this effect (\u03b2 = -0.114, p < 0.001). When the pandemic was not severe, the influence of policy intensity on mobility weakened. Furthermore, based on Schwartz's cultural values theory, cultural values of autonomy (\u03b2 = -0.109, p = 0.011), and egalitarianism (\u03b2 = -0.108, p = 0.019) reinforced the moderating effect of pandemic severity. On the other hand, cultural values of embeddedness (\u03b2 = 0.119, p = 0.006) and hierarchy (\u03b2 = 0.096, p = 0.029) attenuated the moderating effect. CONCLUSIONS: Social distancing policies aim to reduce the severity of local pandemics; however, the findings reveal that mitigating local pandemics may reduce their impact. Future policymakers should be alert to this phenomenon and introduce appropriate incentives to respond. The results also show that the moderating role of pandemic severity varies across cultures. When policies are promoted to deal with global crises, policymakers must seriously consider the resistance and potential incentives of cultural values.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Globalization and Health",
+        "type": "journal",
+        "issn": [
+          "1744-8603"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://globalizationandhealth.biomedcentral.com/counter/pdf/10.1186/s12992-024-01018-y"
+      },
+      "topics": [
+        "Cultural Differences and Values",
+        "COVID-19 and Mental Health",
+        "COVID-19 epidemiological studies"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W4392731191"
+    },
+    {
+      "openalex_id": "W2109837901",
+      "doi": null,
+      "title": "Rethinking the Culture - Economy Dialectic",
+      "authors": [
+        {
+          "name": "Lajos L. Brons",
+          "openalex_id": "A5050090080",
+          "orcid": "https://orcid.org/0000-0002-0890-5678"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "The culture - economy dialectic (CED), the opposition of the concepts and phenomena of culture and economy, is one of the most important notions in the modern history of ideas. Both the disciplinary boundaries and much theoretical thought in social science are strongly influenced or even determined by the CED. Hence, a thorough analysis and evaluation of the CED might be useful to better understand the history of ideas in social science and the currently fashionable research on the cultural influences on economic differences between countries and regions.\\n\\nThis book, my PhD thesis, attempts to do just that. The concepts of \"culture\" and \"economy\" (and related concepts) and the (assumed) relationships therebetween are compared and analysed. Empirical results from earlier studies are summarised and some new test are presented. These new tests are partly based on a measurement of Dutch regional culture. However, it appeared that most theories of the CED are (nearly) impossible to (empirically) verify. There seems to be some influence of wealth on specific cultural phenomena (such individualism and post-materialism), but the often assumed influence of culture on entrepreneurship and economic growth remains unconfirmed. Moreover, from an analysis of the theories themselves, it appears that most of these cannot be falsified and are, therefore, hardly 'scientific'.\\n\\nMany of the theories of the CED and, in fact, many theories of social science in general are of a conceptual rather than a causal nature. These theories cannot easily be falsified by empirical means alone, but must be studied by means of conceptual analysis. In the final conclusions, this book, therefore, argues for conceptual analysis in, and a more anarchist approach to, social science.",
+      "cited_by_count": 14,
+      "type": "report",
+      "source": {
+        "name": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://mpra.ub.uni-muenchen.de/1625/1/MPRA_paper_1625.pdf"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Economic Analysis and Policy"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2109837901"
+    },
+    {
+      "openalex_id": "W4211228549",
+      "doi": "10.15215/aupress/9781771992732.01",
+      "title": "World Bolshevism",
+      "authors": [
+        {
+          "name": "Iulii Martov",
+          "openalex_id": "A5020447018"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-11",
+      "abstract": "Backwards 51 II. The Ideology of \"Sovietism\" 6 > The Mysticism of the Soviet System 59 7 > Dictatorship of a Minority 63 8 > Dictatorship over the Proletariat 71 9 > Metaphysical Materialism and Dialectical Materialism 81 Photograph of Iulii Martov, taken by police after his arrest in January 1896. 1 https://doi.org/10",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Athabasca University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.aupress.ca/app/uploads/120288_Martov_Kellogg_2022-World-Bolshevism.pdf"
+      },
+      "topics": [
+        "Communism, Protests, Social Movements",
+        "Italian Fascism and Post-war Society",
+        "European history and politics"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W4211228549"
+    },
+    {
+      "openalex_id": "W2161471159",
+      "doi": null,
+      "title": "Chen Duxiu's early years: The importance of personal connections in the social and intellectual transformation of China 1895--1920",
+      "authors": [
+        {
+          "name": "Anne S. Chao",
+          "openalex_id": "A5065086758"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Chen Duxiu (1879-1942), is without question one of the most significant figures in modern Chinese history. Yet his early life has been curiously neglected in Western scholarship. In this dissertation I examine the political, social and intellectual networks that played such an important role in his early career---a career that witnessed his transformation from a classical scholar in the Qing dynasty (1644-1912), to a reformer, to a revolutionary, to a renowned writer and editor, to a university dean, to a founder of the Chinese Communist Party, all in the space of about two decades.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "Rice Digital Scholarship Archive (Rice University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1911/61867"
+      },
+      "topics": [
+        "Chinese history and philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2161471159"
+    },
+    {
+      "openalex_id": "W2542574542",
+      "doi": null,
+      "title": "The Iraqi Kurdish Novel, 1970-2011: A Genetic Structuralist Approach",
+      "authors": [
+        {
+          "name": "Ameen Abdulqader Omar",
+          "openalex_id": "A5024886294"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-14",
+      "abstract": "Abstract This thesis explores the emergence and development of the Iraqi Kurdish novel between 1970 and 2011, aiming to demonstrate that it engages with political discourses, and that the political situation influenced the themes and structural development of the novel. It will seek to elucidate why, when we examine the history of Kurdish literature over the last fifty years, the first point that may attract our attention is its emergence from the political events. Based on this notion the current study has been divided into three historical phases; 1970-1991, 1991-2003 and 2003-2011. A chapter has been dedicated to each stage, examining two novels from each period, one from the Soran\u00ee and one from the Behd\u00een\u00ee dialect. Chapter Two discusses the historical background of Iraqi Kurdistan and its influence on the emergence of the novel. Chapter One has been allocated to establishing the methodological background of the textual analysis, which has adopted Lucien Goldmann\u2019s genetic structuralist theory. Such a theory, I will argue, proves helpful in order to discover the link between socio-political conditions and the form of literary works within a society, as Goldmann himself tried to do through his theoretical approach. Chapter Six discusses the results of the study. The thesis demonstrates how the political situation has formed the Iraqi Kurdish novel in terms of both formal and thematic structures, examining the notions of both the \u2019hero\u2019 and the \u2018world vision\u2019 in the novels. It explores the reasons behind the dominant tragic world vision in the first stage, the hopeless worldview in the second, and the self-critical vision in the third phase. In addition, it examines the problematic nature of the hero in the novels, from their emergence until 2011.",
+      "cited_by_count": 42,
+      "type": "dissertation",
+      "source": {
+        "name": "Open Research Exeter (University of Exeter)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10871/24105"
+      },
+      "topics": [
+        "Education and Islamic Studies",
+        "Islamic Studies and History"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2542574542"
+    },
+    {
+      "openalex_id": "W2991774564",
+      "doi": null,
+      "title": "Three International Studies Computational Social Science Inquiries Examining Large Corpora of Natural Data",
+      "authors": [
+        {
+          "name": "Daniel Taninecz Miller",
+          "openalex_id": "A5041530987",
+          "orcid": "https://orcid.org/0000-0002-6581-0747"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Thesis (Ph.D.)--University of Washington, 2019",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "ResearchWorks at the University of Washington (University of Washington)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1773/44684"
+      },
+      "topics": [
+        "Computational and Text Analysis Methods",
+        "Topic Modeling",
+        "Natural Language Processing Techniques"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W2991774564"
+    },
+    {
+      "openalex_id": "W4210621926",
+      "doi": "10.2478/csj-2021-0014",
+      "title": "Aleksandr Bogdanov and Lenin on \u201cThings-In-Themselves\u201d",
+      "authors": [
+        {
+          "name": "\u0412\u0435\u0441\u0430 \u041e\u0439\u0442\u0442\u0438\u043d\u0435\u043d",
+          "openalex_id": "A5056209509",
+          "orcid": "https://orcid.org/0000-0002-1022-9912",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract Questions on the theory of cognition formed one of the focal points in the dispute between orthodox Russian Marxists and Aleksandr Bogdanov and his followers. Bogdanov was an adherent of Mach\u2019s theory, which abandoned Kant\u2019s concept of \u201cthings-in-themselves\u201d ( Ding an sich ) outside the cognizing subject. According to Mach and Bogdanov, there is no need to duplicate human experience in appearances given in the senses and things behind these appearances. The orthodox Marxists, Lenin as well as Plekhanov, insisted that Kant\u2019s concept of things-in-themselves should be retained, but in a modified form: the things-in-themselves do not form a limit to our knowledge, as Kant (allegedly) thought, but turn into \u201cthings-for-us\u201d in the everyday processes of material and scientific production. Both solutions, the Machian and the orthodox Marxist, have their problems. In the Soviet era, Lenin was depicted as the winner of the dispute. But a closer examination of Bogdanov\u2019s arguments shows that he actually found some weak points in Lenin\u2019s conception. However, this does not mean that Lenin\u2019s critique of Bogdanov as a subjectivist in his theory of cognition was groundless.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0014"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophy, Science, and History",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W4210621926"
+    },
+    {
+      "openalex_id": "W4410212202",
+      "doi": "10.1017/s0305741025000177",
+      "title": "Surveying Internet Users in China: Comparing Representative Survey Data with Official Statistics",
+      "authors": [
+        {
+          "name": "Daniela Stockmann",
+          "openalex_id": "A5068245060",
+          "orcid": "https://orcid.org/0000-0003-0998-2752",
+          "institutions": [
+            "Hertie School"
+          ]
+        },
+        {
+          "name": "Ting Luo",
+          "openalex_id": "A5078784771",
+          "orcid": "https://orcid.org/0000-0003-0911-5835",
+          "institutions": [
+            "The Edgbaston Hospital",
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-05-08",
+      "abstract": "Abstract China is well known for providing official data, but how to treat these data is a longstanding debate among China scholars. This paper advances understandings of how to interpret Chinese official statistics about the internet. Using standards for evaluating surveys in the social sciences, we systematically compare official data from the China Network Information Center (CNNIC), which is under the supervision of China\u2019s main regulator of internet policy, with the China Internet Survey 2018 (CIS), which is, to our knowledge, the first nationally representative survey on internet use in China. Using three examples, we illustrate how methodological differences in sampling design and measurement can lead to vastly different conclusions about key indicators of internet use in mainland China, including the percentage of internet users, their regional and urban\u2013rural digital divide, and the percentage of specific social media platforms. We discuss the challenges of survey work on internet use in China and offer recommendations on how to interpret official statistics, especially in light of the limitations researchers face when conducting face-to-face surveys in China.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "The China Quarterly",
+        "type": "journal",
+        "issn": [
+          "0009-4439",
+          "0305-7410",
+          "1468-2648"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0F940B3D4480945DE06B515B21E9B425/S0305741025000177a.pdf/div-class-title-surveying-internet-users-in-china-comparing-representative-survey-data-with-official-statistics-div.pdf"
+      },
+      "topics": [
+        "China's Socioeconomic Reforms and Governance",
+        "Internet Traffic Analysis and Secure E-voting",
+        "Electoral Systems and Political Participation"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W4410212202"
+    },
+    {
+      "openalex_id": "W2605408564",
+      "doi": null,
+      "title": "Reclaiming Native Soil: Cultural Mythologies of Soil in Russia and Its Eastern Borderlands from the 1840s to the 1930s",
+      "authors": [
+        {
+          "name": "Laura Mieka Erley",
+          "openalex_id": "A5005893550"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "This dissertation explores the cultural topos of soil in Russian and early Soviet culture. Centered on the Soviet project of land reclamation in Central Asia in the 1930s, this dissertation traces the roots of Soviet utopian and dystopian fantasies of soil to the ideological and discursive traditions of the 19th century. It considers how Soviet cultural, scientific, and political figures renovated and adapted 19th-century discourse in order to articulate for their own age the national, revolutionary, and utopian values attached to soil. The intersection of national soil and national identity in this discourse is examined, along with the persistent fear that Russian identity and utopian aspirations are threatened by \"Asian\" land, both within and beyond Russia's borders.\\tProviding an overview of selected high points in the discursive history of soil in Russia, this study begins with romantic and materialist discourses of soil from the 1840s to the 1860s, tracing organicist concepts of native soil from German philosopher Herder to literary critic Vissarion Belinskii and thence to the symbolic uses of Russian pochva in the writings of the Slavophiles, the pochvenniki, and others. A case study follows on German chemist Justus Liebig and the transfer of scientific metaphors of soil into the cultural domain, concluding with a discussion of Liebig's influence on Marx's theory of social metabolism and its far-reaching influence on Soviet ideology.\\tThe study moves to its core discussion of Soviet poetics and ideologies of land use in the 1920s and 1930s. First, I examine writer and land reclamation engineer Andrei Platonov's novella Dzhan in the context of Soviet technological utopianism and the campaign to transform the sands of Central Asia into fertile soil. The following chapter extends the discussion of Soviet land reclamation to the dystopic themes of the Asiatic mode of production and \"reforging\" in the novels of Platonov, Bruno Jasienski, and Boris Pil'niak. This study closes with a discussion of the revival of organic conceptual metaphors of nationality and national soil in the context of the smychka, or union, between the Soviet center and its Asian periphery in the films of Vertov, Turin, Kalatozov, and Iarmatov.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/74g4p86x"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Eastern European Communism and Reforms",
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2605408564"
+    },
+    {
+      "openalex_id": "W4317790194",
+      "doi": "10.1002/sres.2923",
+      "title": "Alexander Bogdanov and the question of unity: An emerging research agenda",
+      "authors": [
+        {
+          "name": "\u00d6rsan \u015eenalp",
+          "openalex_id": "A5054052991",
+          "orcid": "https://orcid.org/0000-0003-2287-7391",
+          "institutions": [
+            "University of Hull",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Gerald Midgley",
+          "openalex_id": "A5031443120",
+          "orcid": "https://orcid.org/0000-0003-0390-1392",
+          "institutions": [
+            "The University of Queensland",
+            "University of Canterbury",
+            "University of Hull",
+            "Linnaeus University",
+            "Victoria University of Wellington",
+            "Agriculture and Food",
+            "M\u00e4lardalen University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-23",
+      "abstract": "Abstract In this paper, we propose a research agenda to support the recovery of Alexander Bogdanov's philosophical and systemic thinking that culminated in his magnum opus, Tektology . Our main reason for doing so is to re\u2010address enduring questions about the unity of science and the unity of the systems paradigm. Since the turn of the new millennium, there has been renewed interest in the ideal of the unity of science. General system theory (GST), cybernetics and complexity science are three significant intellectual sources inspiring this renewal. It is not unusual for these ideas to be grouped under the umbrella terms systems science or systems thinking , which are two ways to present a single systems paradigm , and we will explain why its \u201cunity\u201d is both necessary and problematic. Bringing Bogdanov's work back to address the unity question can help us to progress toward unity in diversity.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Systems Research and Behavioral Science",
+        "type": "journal",
+        "issn": [
+          "1092-7026",
+          "1099-1743"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sres.2923"
+      },
+      "topics": [
+        "Complex Systems and Decision Making",
+        "Earth Systems and Cosmic Evolution",
+        "Chaos, Complexity, and Education"
+      ],
+      "referenced_works_count": 193,
+      "url": "https://openalex.org/W4317790194"
+    },
+    {
+      "openalex_id": "W307684388",
+      "doi": "10.7765/9781526183705.00023",
+      "title": "Anarchism and the politics of utopia",
+      "authors": [
+        {
+          "name": "Ruth Kinna",
+          "openalex_id": "A5014581237",
+          "orcid": "https://orcid.org/0000-0002-1920-464X"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-04",
+      "abstract": "This article was published in the book, Anarchism and Utopianism [\u00a9 Manchester University Press]. Further details of this book are available at: http://www.manchesteruniversitypress.co.uk/catalogue/book.asp?id=1204464",
+      "cited_by_count": 8,
+      "type": "book-chapter",
+      "source": {
+        "name": "Manchester University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.lboro.ac.uk/2134/5900"
+      },
+      "topics": [
+        "Anarchism and Radical Politics",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W307684388"
+    },
+    {
+      "openalex_id": "W2511472677",
+      "doi": "10.1590/0103-656420140138",
+      "title": "Nem tudo que reluz \u00e9 Marx: cr\u00edticas stalinistas a Vigotski no \u00e2mbito da ci\u00eancia sovi\u00e9tica",
+      "authors": [
+        {
+          "name": "Gisele Toassa",
+          "openalex_id": "A5012407013",
+          "orcid": "https://orcid.org/0000-0003-3166-7935",
+          "institutions": [
+            "Universidade Federal de Goi\u00e1s"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-08-25",
+      "abstract": "Resumo No Brasil, tem havido not\u00e1vel crescimento da chamada \u201cteoria da atividade\u201d, cuja fundamenta\u00e7\u00e3o \u00e9 associada especialmente ao pesquisador russo A. N. Leontiev (1903-1979). Isso se tem feito em conex\u00e3o direta com a no\u00e7\u00e3o de que Vigotski, Luria e Leontiev compuseram uma troika, respons\u00e1vel pela elabora\u00e7\u00e3o da teoria hist\u00f3rico-cultural e da teoria da atividade. O objetivo deste artigo \u00e9 iniciar a problematiza\u00e7\u00e3o da pr\u00f3pria veracidade dessa narrativa a partir de uma an\u00e1lise do contexto no qual se disp\u00f4s o conte\u00fado das cr\u00edticas stalinistas a Vigotski de 1931-1937, da constru\u00e7\u00e3o do sistema de produ\u00e7\u00e3o cient\u00edfica no regime sovi\u00e9tico e dos contrastes pol\u00edticos e culturais entre os anos de 1920 e 1930 - especialmente o estabelecimento do marxismo-leninismo e o pragmatismo como marcas do regime stalinista. O texto contribui para a an\u00e1lise das ideias e frentes de trabalho vigotskianas condenadas pelos cr\u00edticos stalinistas e suas potenciais repercuss\u00f5es na psicologia sovi\u00e9tica elaborada nos anos de 1930.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Psicologia USP",
+        "type": "journal",
+        "issn": [
+          "0103-6564",
+          "1678-5177"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.scielo.br/pdf/pusp/v27n3/en_1678-5177-pusp-27-03-00553.pdf"
+      },
+      "topics": [
+        "Academic and Historical Perspectives in Psychology",
+        "Psychology and Mental Health",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W2511472677"
+    },
+    {
+      "openalex_id": "W4312326091",
+      "doi": "10.56063/ms.2201.01105",
+      "title": "Engels\u2019 Dialectics of\u2014Human Activity in\u2014Nature",
+      "authors": [
+        {
+          "name": "Siyave\u015f Azeri",
+          "openalex_id": "A5084372075"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-15",
+      "abstract": "Several Marxist theorists criticize Engels for his supposed non-dialectical and non-philosophical conceptualization of \"praxis,\" which, according to Lukacs, amounts to Engels' alleged misunderstanding of Kantian \"thing-in-itself.\" I argue that such \"criticisms\" of Engels is based on a dualistic understanding of practical vs. theoretical. Contrary to the critiques' allegations, Engels provides an account of praxis/labour as a philosophical category that is truthful to Marx's and his own earlier efforts for constituting a materialist dialectics-one that anticipates the concept of \"human activity\" elaborated particularly in philosophical works of Evald Ilyenkov and psychological studies of Lev Vygotsky. According to Engels, the so-called laws of dialectics are historical thus depending on human activity as it is \"with man [that] we enter history.\" Furthermore, it is through labour (the highest form of human activity) that not only the human hands but also social humanity and human consciousness have been constituted. Thus, laws of dialectics are the most general laws of human activity in social nature. Engels, truthful to Marx's materialist method, prioritizes action over substance.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Marxism & Sciences",
+        "type": "journal",
+        "issn": [
+          "2822-2849"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.56063/ms.2201.01105"
+      },
+      "topics": [
+        "German Social Sciences and History"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4312326091"
+    },
+    {
+      "openalex_id": "W7160111950",
+      "doi": "10.31811/ojomus.1862907",
+      "title": "Listening to the artist\u2019s identity: Music, artist, and hegemony",
+      "authors": [
+        {
+          "name": "Selim Tan",
+          "openalex_id": "A5004148828",
+          "orcid": "https://orcid.org/0000-0002-1343-9157",
+          "institutions": [
+            "Gazi Hastanesi",
+            "Gazi University"
+          ]
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-05-04",
+      "abstract": "This paper argues that musical reception is not merely an aesthetic experience but a sociomusical process shaped by the artist\u2019s identity and political stance within hegemonic relations. For Frith (1996), listeners\u2019 emotional alliances formed with the performer and the performer\u2019s other listeners are crucial for understanding how the bond with the artist is constructed. In conditions of heightened political intensity, the artist\u2019s political stance, articulated through their practices and statements as part of their public image, directly influences musical reception. Following Shiner\u2019s (2001) account of the \u201cinvention of art,\u201d it demonstrates that the concepts of art and the artist are historically linked to the rise of the bourgeoisie, highlighting how the connotations of \u201cgenius\u201d and \u201cfreedom\u201d have served as ideological foundations defining the artist\u2019s social role. In this regard, the paper examines anecdotes about the image of the artist, which Kris and Kurz (1934/1979) trace back to antiquity. By focusing on \u201clistening to the artist\u2019s identity,\u201d this paper demonstrates how the artist\u2019s political position transforms musical reception itself. The artist emerges as a symbolic center of power, shaped through discursive processes that extend beyond the individual subject, carrying historical and social meanings and representing political positions. Within the framework of Gramsci\u2019s (1947/2021) theory of hegemony, it is argued that artists have the potential to produce either \u201cconsent\u201d or \u201cresistance\u201d within the hegemonic order, as organic or traditional intellectuals. This paper presents a theoretical/critical review based on an interpretive reading of key literature and publicly available materials. Finally, it concludes that, because of the historical and ideological construction of the concepts of art and the artist, the artist\u2019s political stance can influence the listener\u2019s aesthetic experience. The paper highlights that the political alliance in which the artist, as a hegemonic subject, participates structures the emotional alliances listeners form with the artist. Thus, from a Gramscian perspective, artists \u2013 who are intellectuals by nature \u2013 can become key subjects influencing musical reception by assuming the organic or traditional intellectual roles within the hegemonic order.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Online Journal of Music Sciences",
+        "type": "journal",
+        "issn": [
+          "2536-4421"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.31811/ojomus.1862907"
+      },
+      "topics": [
+        "Music History and Culture",
+        "Diverse Musicological Studies",
+        "Musicology and Musical Analysis"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W7160111950"
+    },
+    {
+      "openalex_id": "W2979871170",
+      "doi": "10.31269/triplec.v17i2.1118",
+      "title": "M. N. Roy and the Frankfurt School: Socialist Humanism and the Critical Analysis of Communication, Culture, Technology, Fascism and Nationalism",
+      "authors": [
+        {
+          "name": "Christian Fuchs",
+          "openalex_id": "A5060268505",
+          "orcid": "https://orcid.org/0000-0003-0589-4579",
+          "institutions": [
+            "University of Westminster"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-09",
+      "abstract": "Manabendra Nath Roy (1887-1954) was the founder of the Communist Parties of Mexico and India and a socialist-humanist philosopher. In the Western world, his works are today widely ignored and forgotten. This article introduces some philosophical aspects of Roy\u2019s thought. It engages with foundations of his theory and shows its relevance for the study of communication, culture, technology, the human being, fascism, and nationalism. Frankfurt School thinkers such as Theodor W. Adorno, Max Horkheimer, Herbert Marcuse, and Erich Fromm were interested in similar topics to Roy. This article also compares the approach of Roy and the Frankfurt School. It shows parallels between Roy and the first generation of the Frankfurt School with respect to themes such as the dialectic of technology and society, the dialectic of the Enlightenment, fascism, nationalism, and authoritarianism. In the age of new nationalisms and authoritarian capitalism, global environmental crises, capitalist crisis, and the digital crisis, socialist-humanist theories such as M. N. Roy\u2019s can inspire struggles for a humanist and socialist society as antidotes to the acceleration and deepening of the three crises.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "tripleC Communication Capitalism & Critique Open Access Journal for a Global Sustainable Information Society",
+        "type": "journal",
+        "issn": [
+          "1726-670X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.triple-c.at/index.php/tripleC/article/download/1118/1299"
+      },
+      "topics": [
+        "Indian History and Philosophy",
+        "Critical Theory and Philosophy",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W2979871170"
+    },
+    {
+      "openalex_id": "W2005957060",
+      "doi": "10.2478/v10059-011-0010-1",
+      "title": "The Dialogical concept of consciousness in L.S. Vygotsky and G.H. Mead and its relevance for contemporary discussions on consciousness",
+      "authors": [
+        {
+          "name": "Leszek Koczanowicz",
+          "openalex_id": "A5033851186",
+          "orcid": "https://orcid.org/0000-0002-4204-1674",
+          "institutions": [
+            "University of Wroc\u0142aw"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The Dialogical concept of consciousness in L.S. Vygotsky and G.H. Mead and its relevance for contemporary discussions on consciousness In my paper I show the relevance of cultural-activity theory for solving the puzzles of the concept of consciousness which encounter contemporary philosophy. I reconstruct the main categories of cultural-activity theory as developed by M.M. Bakhtin, L.S. Vygotsky, G.H. Mead, and J. Dewey. For the concept of consciousness the most important thing is that the phenomenon of human consciousness is consider to be an effect of intersection of language, social relations, and activity. Therefore consciousness cannot be reduced to merely sensual experience but it has to be treated as a complex process in which experience is converted into language expressions which in turn are used for establishing interpersonal relationships. Consciousness thus can be accounted for by its reference to objectivity of social relationships rather than to the world of physical or biological phenomena.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Polish Psychological Bulletin",
+        "type": "journal",
+        "issn": [
+          "0079-2993",
+          "1641-7844"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.pan.pl/Content/99669/PDF/04.pdf"
+      },
+      "topics": [
+        "Innovative Education and Learning Practices",
+        "Social Representations and Identity",
+        "Educational and Psychological Assessments"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2005957060"
+    },
+    {
+      "openalex_id": "W2763531278",
+      "doi": null,
+      "title": "Soviet epistemologies and the materialist ontology of poor life : Andrei Platonov, Alexander Bogdanov and Lev Vygotsky",
+      "authors": [
+        {
+          "name": "Maria Chehonadskih",
+          "openalex_id": "A5075747004"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-01",
+      "abstract": "This thesis provides new perspectives on the epistemic conditions of pre- and post-revolutionary&#13;\\nSoviet thought (1910s\u2013early 1930s) and constructs a transdisciplinary entry point into a&#13;\\nmaterialist ontology of \u2018poor life\u2019. The concept of poor life engages contemporary debates on&#13;\\nclass composition and individuation from the materialist viewpoint of self-organising labour&#13;\\ncausality and social mediation. The thesis opens with a critical examination of the \u2018Western\u2019&#13;\\nand \u2018Eastern\u2019 divide in Marxist philosophy and shifts discussion from the official doctrine of&#13;\\nBolshevism to the under-represented epistemologies of Empirio-Marxism and Spinozist-&#13;\\nHegelianism in the philosophy and political theory of Alexander Bogdanov, the writings and art&#13;\\ncriticism of Andrei Platonov and the experimental philosophy and psychology of Lev Vygotsky.&#13;\\nA transdisciplinary, post-revolutionary logic assumes that theory should start where Marx ended&#13;\\nand that it should act in a Marxist fashion across all conceptual and practical realms. The&#13;\\nreconstruction of these epistemological conditions leads to an alternative philosophical&#13;\\ngenealogy of Soviet avant-garde art and the writings of Andrei Platonov. The thesis explores the&#13;\\nconnections between the Empirio-Marxism of Bogdanov and the problematic of construction,&#13;\\n\u2018life-building\u2019 and production in the theories of the Soviet avant-garde. Bogdanov proposes an&#13;\\norganisational ontology of the active and productive capacity of labour to compose and&#13;\\nconstruct historically determined \u2018life-complexes\u2019 and orders of material relations. In turn, the&#13;\\norganisation of sensibility, things and relations, or communist \u2018life-building\u2019, becomes the&#13;\\nprimary theoretical and practical agenda of Proletkult, Constructivism, Productivism and the&#13;\\nLiterature of Fact. The thesis demonstrates the unique place of Andrei Platonov within these&#13;\\nconceptual settings. The core of the thesis is a reconstruction of Platonov\u2019s method and form of&#13;\\nwriting, the aim of which is to demonstrate the conceptual reciprocity of the problems of \u2018lifebuilding\u2019&#13;\\nand \u2018poor life\u2019. Platonov stresses the negativity of partition and compartmentalisation&#13;\\nwithin the compositional logic of \u2018life-building\u2019. In the experience of social poverty, the selforganising&#13;\\nforce of labour produces a disjunctive unity of thinking and speech, reaction and act,&#13;\\ntime and space. Vygotsky\u2019s Spinozist-Hegelianism exposes the structural logic of this&#13;\\nnegativity. The reconstruction of his system shows how mediation produces a dialectical&#13;\\ndramaturgy of individuation out of the compositional materiality of poverty and the given&#13;\\nensemble of social relations. The thesis concludes by outlining a differential unity between the&#13;\\nthree authors. The Soviet problematisation of poor life links social and ontological degrees of&#13;\\norganisation, offering epistemological models of compositional productivity and of the&#13;\\nindividuating negativity of \u2018life-building\u2019. The epistemic conditions that we reconstruct in the&#13;\\nthesis may have vanished along with their revolutionary context, but they are likely to resurface&#13;\\nin the course of any new experiment in radical social transformation.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://eprints.kingston.ac.uk/id/eprint/38850/1/Chehonadskih-M.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2763531278"
+    },
+    {
+      "openalex_id": "W2773835510",
+      "doi": "10.33280/2310-3817-2017-5-2-218-246",
+      "title": "Boris Porshnev\u2019s Dialectic of History",
+      "authors": [
+        {
+          "name": "Art\u00e9my Magun",
+          "openalex_id": "A5086870277",
+          "orcid": "https://orcid.org/0000-0003-1665-3391",
+          "institutions": [
+            "European University at Saint Petersburg"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The article explores the legacy of Boris Porshnev, a remarkable Soviet Marxist thinker who contributed to history, psychology, physiology, and philosophy, from a particular dialectical perspective. Porshnev elaborated an innovative hypothesis of the origin of human species. He saw this origin in the emergence of language as (1) a means to mutual subjection and (2) means to resist subjection. A vivid, almost mythical picture of early human history is at the same time made rigorous through a consistent use of dialectical argument. This argument, in contrast with the Soviet doxa of \"dialectical materialism,\" privileges negativity as a special force and moment of development, and negativity takes the form of contrariness. The article discusses the value of Porshnev's theory in the international context, and puts it into the broader context of Soviet unorthodox philosophy, all the while contributing to a general theory of negativity.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Stasis",
+        "type": "journal",
+        "issn": [
+          "2310-3817",
+          "2500-0721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://stasisjournal.net/index.php/journal/article/download/22/25/"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Academic and Historical Perspectives in Psychology",
+        "Interdisciplinary Studies: Technology, Society, and Humanities"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W2773835510"
+    },
+    {
+      "openalex_id": "W4288414976",
+      "doi": "10.5281/zenodo.5984697",
+      "title": "Lenin and the Law (A case-study on the borders of legal normality)",
+      "authors": [
+        {
+          "name": "VARGA Csaba",
+          "openalex_id": "A5112864567",
+          "institutions": [
+            "P\u00e1zm\u00e1ny P\u00e9ter Catholic University",
+            "Institute for Legal Studies",
+            "Hungarian Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-15",
+      "abstract": "Marxist revolutionaries used to dedicate whole lifetimes to fight <em>the</em> enemy, the prevailing political and economic structure, believing breakthrough to be victory, and device to stand for purpose. Considering their position exhausted in agitation, the actual task of building a new society could not be on their practical agenda yet. Captive of the dogmatism of \u201cReligion and law are the ideologies of the suppressing classes, the latter gradually replacing the former\u201d, they were interested solely in a state and law withering away. Therefore not even law-graduate Lenin concerned with law in general and its strategic potential for state building in particular. Won into power, he made law used for tactical reasons in daily changes exclusively, in cases it was considered able to benefit the revolutionary cause. As an empty form for mass mobilisation or simple complementation to terror, it turned to become nothing but the direct means, or extension, of politics. In territories once bolshevised, it has never transformed into an autonomous phenomenon of social mediation, well-received by society at large as one of the main civilising factors. No wonder if it resulted in tsarist ukaz-government changed into Leninist decree-government, led by the Bolshevik party as a private organisation. In comparison, the victims\u02bc death toll due to Bolshevism meant sixteen times as many victims\u02bc lives as the last half of a century of tsarism. In sum, it was only good to fruit \u201clegalised lawlessness\u201d in the past and the lookalike of a dual state in the present.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/5984697"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Marxism and Critical Theory",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4288414976"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

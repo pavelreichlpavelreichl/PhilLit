@@ -1,0 +1,966 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov historical materialism' (year=1980-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_6037a3e91a00c40f)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov historical materialism",
+  "results": [
+    {
+      "openalex_id": "W4385993503",
+      "doi": "10.1002/9781118474396.wbept0470",
+      "title": "Historical Materialism",
+      "authors": [
+        {
+          "name": "\u0412\u0435\u0441\u0430 \u041e\u0439\u0442\u0442\u0438\u043d\u0435\u043d",
+          "openalex_id": "A5056209509",
+          "orcid": "https://orcid.org/0000-0002-1022-9912"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-15",
+      "abstract": "Abstract The expression \u201chistorical materialism\u201d was first used by G. V. Plekhanov, the \u201cfather\u201d of Russian Marxism, to indicate the social theory of Marxism. Marx and Engels, however, always referred to their doctrine as a \u201cmaterialist conception of history\u201d and never used the phrase \u201chistorical materialism.\u201d The foundation of the materialist theory of history was first formulated extensively in the manuscripts of 1845, later published under the name The German Ideology , a work in which the influence of the Scottish Enlightenment was clearly discernible, as Marx and Engels stressed the importance of the division of labor and forms of property as the moving forces behind the development of societies. On the other hand, Marx and Engels criticized Enlightenment social philosophies for their mechanical cause\u2013effect explanations and proposed instead a dialectical view of the development of human society.",
+      "cited_by_count": 10,
+      "type": "reference-entry",
+      "source": {
+        "name": "The Encyclopedia of Political Thought",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W4385993503"
+    },
+    {
+      "openalex_id": "W3008842644",
+      "doi": "10.7765/9781847791344.00007",
+      "title": "Historical materialism",
+      "authors": [
+        {
+          "name": "Paul Blackledge",
+          "openalex_id": "A5058827161",
+          "orcid": "https://orcid.org/0009-0008-7681-6643"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-07-19",
+      "abstract": "The Second International of socialist parties was the undoubted custodian of Marxist 'orthodoxy' from its formation in 1889 until its de facto collapse at the outbreak of the First World War. For the interpretation of historical materialism associated with the sophisticated Second International thinkers in their best works, Karl Kautsky was much more powerful that either Perry Anderson or Steve Rigby. Like Lucio Colletti, Anderson had interpreted the shift from Second to Third International Marxism as including a 'voluntaristic' break with 'fatalistim'. Colletti suggested the evolutionary interpretation of Marxism, which he likened unfavourably to the 'voluntarist' Marxism of the Third International, was born out of Friedrich Engels's crude systemisation of Marx's thought and reached its zenith in Kautsky's theory of history. Kautsky was the dominant intellectual within the Second International, while the works of Georgi Plekhanov and Antonio Labriola informed the best historiography produced by the succeeding generation of Marxists.",
+      "cited_by_count": 10,
+      "type": "book-chapter",
+      "source": {
+        "name": "Manchester University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3008842644"
+    },
+    {
+      "openalex_id": "W4250593853",
+      "doi": "10.1002/9781405165518.wbeosd062.pub2",
+      "title": "Dialectical Materialism",
+      "authors": [
+        {
+          "name": "Rob Beamish",
+          "openalex_id": "A5071427520",
+          "institutions": [
+            "Queen's University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-07",
+      "abstract": "Abstract Dialectical materialism became the dominant philosophy of Marxism during the Second International (1889\u20131917) and, in a different form, the official, formulaic philosophy of all communist parties during Joseph Stalin's dictatorship (1929\u20131953). Marx never used the term dialectical materialism. Nor did he write a comprehensive statement of ontology creating the opportunity to \u201cfinish\u201d his incomplete project even though Marx had resisted attempts to convert his \u201cmaterialist conception\u201d into a totalizing philosophy. Marx's materialism centered on the labor process as the mediating activity between humankind and nature and the real departure point for understanding social formations and social change. To bring coherence to \u201cMarxism,\u201d Engels used Anti\u2010D\u00fchring to link his work on nature with Marx's work to produce a single, comprehensive ontology. Seeking the credibility of \u201cscience,\u201d other Second International Marxists sought to develop Engels' \u201cdialectical materialism\u201d further. Soviet theorist Georgi Plekhanov and Lenin pursued their own Engelsian\u2010inspired materialist philosophy which Stalin, as Lenin's heir, instituted as the official philosophy of Marxism\u2013Leninism. Dialectical materialism (Diamat) brought together a simplistic notion of Hegel's dialectic with a crude materialism to constitute a single, allegedly coherent science that applied to all material, biological, historical, social, and political phenomena.",
+      "cited_by_count": 7,
+      "type": "reference-entry",
+      "source": {
+        "name": "The Blackwell Encyclopedia of Sociology",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4250593853"
+    },
+    {
+      "openalex_id": "W2905899945",
+      "doi": null,
+      "title": "The Validity of Karl Marx\u2019s Theory of Historical Materialism",
+      "authors": [
+        {
+          "name": "Kaleb Shimp",
+          "openalex_id": "A5067199893"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "Marx\u2019s theory of historical materialism uses the evolution of productive forces and class struggle to explain history. With the fall of communism in the 20th century, many components of historical materialism have come under fire. This paper is a defense of the validity of historical materialism and concludes that some of the arguments against Marx\u2019s theory are unfounded, while others still hold weight. What remains is a broad view of history that still has value.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "UNI ScholarWorks (University of Northern Iowa)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.uni.edu/mtie/vol11/iss1/5"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2905899945"
+    },
+    {
+      "openalex_id": "W4382180340",
+      "doi": "10.30884/seh/2023.01.07",
+      "title": "Historical Materialism: Does the Concept Have a Future?",
+      "authors": [
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5030688553",
+          "orcid": "https://orcid.org/0000-0003-0278-2619",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Institute of Oriental Studies"
+          ]
+        },
+        {
+          "name": "\u0410\u043d\u0442\u043e\u043d \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5058810903",
+          "orcid": "https://orcid.org/0000-0003-0912-0423",
+          "institutions": [
+            "Lomonosov Moscow State University",
+            "Moscow State University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "The article examines academic and intellectual merits of the central part of Marxism -historical materialism.The authors argue that historical materialism has many valuable findings and conclusions and analyze some of them, showing that they together with its methodology can be helpful for social scientist and for a historian theorizing and aspiring for wide analogues.There are given new explanations to this phenomenon as the restrictions are revealed of the existing model of historical materialism.A peculiar attention is paid to Marx's conclusion that the changing developmental level of productive forces inevitably leads to changes in all other spheres of societal life; moreover, these changes proceed far from automatically and immediately but through the resolution of structural and systemic crisis in a society.The article presents a survey on the history of the Western studies within historical materialism framework starting from the end of the nineteenth century at the general background of the ups and downs of the Western Marxism and its crisis after the collapse of socialism.The authors show the waves of the Western Marxists' attenuating and increasing interest in historical materialism.The latter to a certain extent should be considered as a program for scientific research which is far from its realization.The authors make a conclusion that today one can hardly work within the framework of historical materialism conception since many of its postulates should be revised.It is very important, that historical materialism can affect social science mainly in an indirect way through a creative acquiring and interpretation of its method, approaches, and par-",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Social Evolution & History",
+        "type": "journal",
+        "issn": [
+          "1681-4363"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sociostudies.org/upload/socionauki.ru/journal/seh/2023_1/007_Grinin.pdf"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W4382180340"
+    },
+    {
+      "openalex_id": "W2006960448",
+      "doi": "10.1080/09668136.2014.990707",
+      "title": "Lenin and Philosophy: The Historical Context",
+      "authors": [
+        {
+          "name": "James D. White",
+          "openalex_id": "A5019266038",
+          "orcid": "https://orcid.org/0000-0002-1796-221X",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-02",
+      "abstract": "The article follows the development of Lenin's philosophical conceptions and the historical context in which they emerged. It examines how Plekhanov's interpretation of Marxist philosophy was assimilated by Lenin. In the dispute between Plekhanov and Alexander Bogdanov Lenin took Plekhanov's side and in defence of Plekhanov wrote Materialism and Empiriocriticism. A major influence on Lenin was the correspondence between Marx and Engels published in 1913, which prompted him to study Hegel and other writers mentioned in the correspondence. Although Lenin's commentaries on Hegel and other philosophers were published as \u2018Philosophical Notebooks\u2019, the notes Lenin made on the Marx\u2013Engels correspondence were not, owing to Stalin's peculiar requirements of the Lenin cult.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Europe Asia Studies",
+        "type": "journal",
+        "issn": [
+          "0966-8136",
+          "1465-3427"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Marxism and Critical Theory",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W2006960448"
+    },
+    {
+      "openalex_id": "W4240322021",
+      "doi": "10.4324/9780415249126-e031-1",
+      "title": "Plekhanov, Georgii Valentinovich (1857\u20131918)",
+      "authors": [
+        {
+          "name": "James D. White",
+          "openalex_id": "A5006121948",
+          "orcid": "https://orcid.org/0000-0003-0112-6636"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-11",
+      "abstract": "Known as \u2019the Father of Russian Marxism\u2019, Plekhanov was the chief popularizer and interpreter of Marxism in Russia in the 1880s. His interest in the philosophical aspects of Marxism made him influential outside as well as inside Russia. He was a prolific writer, and dealt with several aspects of Marxist thought. Plekhanov was an important figure in the Russian revolutionary movement. He was a founder member of the Russian Social Democratic Party, and a leading figure in its Menshevik wing after it split into Bolsheviks and Mensheviks in 1903. As a politician, Plekhanov was constantly involved in polemics with political and ideological opponents. Most of his theoretical works are to some degree polemical, and it was the conflicts among Russian revolutionary groups that shaped Plekhanov\u2019s interpretation of Marx\u2019s thought. A basic feature of this interpretation was that Russia\u2019s historical development was like that of Western European countries, and would pass through a capitalist phase before progressing to socialism. Accordingly, Plekhanov gave prominence to those of Marx\u2019s writings which could be presented in a deterministic way. Plekhanov insisted that Marxism was a materialist doctrine (as opposed to an idealist one) and as such recognized the primacy of matter in all spheres of existence. Plekhanov was in many ways an innovator, being the writer who first coined the term \u2019dialectical materialism\u2019, and who drew attention to the Hegelian origins of Marx\u2019s system. His writings were quickly translated into several European languages. His interpretation of Marxism was much admired by Lenin, and was to form the basis of the official ideology of the Soviet Union. The conception of Marxism that Plekhanov propounded continues to exercise a profound influence on conceptions of Marxism throughout the world.",
+      "cited_by_count": 2,
+      "type": "reference-entry",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4240322021"
+    },
+    {
+      "openalex_id": "W2091156672",
+      "doi": "10.1007/bf01044986",
+      "title": "Plekhanov on the role of the individual in history",
+      "authors": [
+        {
+          "name": "William H. Shaw",
+          "openalex_id": "A5111553392",
+          "institutions": [
+            "San Jose State University"
+          ]
+        }
+      ],
+      "publication_year": 1988,
+      "publication_date": "1988-04-01",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2091156672"
+    },
+    {
+      "openalex_id": "W3176929889",
+      "doi": "10.16997/ahip.1056",
+      "title": "Materialism: A Caring Obituary",
+      "authors": [
+        {
+          "name": "Riccardo Baldissone",
+          "openalex_id": "A5046709681",
+          "institutions": [
+            "University of Westminster"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-24",
+      "abstract": "The notion of materialism initially appears in the writings of its Christian opponents in late seventeenth-century England. Only in eighteenth-century France materialism is first posthumously claimed by a catholic priest, Meslier, and then by authors such as La Mettrie and d\u2019Holbach, at the risk of persecution and imprisonment: Diderot enjoys the hospitality of the fortress of Vincennes for rearranging the materialist stance within his sensualist multiverse. In the nineteenth century, Marx reshapes materialism as part of his critique to decontextualized knowledge. Stirner\u2019s discontent with naturalistic objectivity anticipates Nietzsche\u2019s rejection of matter in favour of practices: Engels\u2019 historical materialism and his ahistorical dichotomic construction of materialism versus idealism are instead embraced by Lenin via Plekhanov, and they are further simplified by Stalin. Nietzsche\u2019s approach is recovered by Foucault, Deleuze, and Derrida, who challenge both political and theoretical representation. More recently, Barad recasts this challenge into a processual vocabulary, which renews the semantic constellation of realism, materialism, and materiality. Whilst not dismissing Barad\u2019s new tools, the essay suggests raising the wager: it proposes to extend its own genealogical practice, which reconnects materialism (and matter) with its historical process of production, to any other theoretical object. This recomposition may not only disentangle us from the lexicon of entities \u2013 including materialism and matter \u2013 but it may also help to construct a novel and potentially hegemonic language of practices.",
+      "cited_by_count": 1,
+      "type": "other",
+      "source": {
+        "name": "Anthropocenes \u2013 Human Inhuman Posthuman",
+        "type": "journal",
+        "issn": [
+          "2633-4321"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.anthropocenes.net/article/1056/galley/4919/download/"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Critical Theory and Philosophy",
+        "Psychoanalysis, Philosophy, and Politics"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3176929889"
+    },
+    {
+      "openalex_id": "W3131261551",
+      "doi": "10.37050/ci-20_15",
+      "title": "Materialism against Materialism",
+      "authors": [
+        {
+          "name": "Frieder Wolf",
+          "openalex_id": "A5064273094",
+          "orcid": "https://orcid.org/0000-0002-7423-7284"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "This text proposes to overcome the wide-spread error of dismissing Marx\u2019s critique of all materialism before him as being reductionist and therefore philosophically and scientifically unacceptable. Instead, it attempts to create a non-reductionist understanding and practice of materialism in philosophy \u2014 especially by referring to key contributions by Althusser and Bhaskar and by criticizing the \u2018materialist illusion\u2019 of the early Marx \u2014 thereby articulating another key element of the \u2018finite Marxism\u2019 defended by the author.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cultural inquiry",
+        "type": "book series",
+        "issn": [
+          "2627-728X",
+          "2627-731X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://press.ici-berlin.org/doi/10.37050/ci-20/wolf_materialism-against-materialism.pdf"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W3131261551"
+    },
+    {
+      "openalex_id": "W3166806701",
+      "doi": "10.1017/s1479591421000139",
+      "title": "The struggle for memory: Jian Bozan on historical materialism",
+      "authors": [
+        {
+          "name": "Dawid Rogacz",
+          "openalex_id": "A5069788825",
+          "orcid": "https://orcid.org/0000-0002-0007-7599",
+          "institutions": [
+            "Adam Mickiewicz University in Pozna\u0144"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-26",
+      "abstract": "Abstract This paper offers a first analysis of the philosophy of history developed by Jian Bozan (1898\u20131968), the author of China's earliest comprehensive exposition of historical materialism. Despite his central importance for the establishment of professional historical studies in PRC, the existing studies neglect Jian's original contribution to the development of Chinese Marxism and his pre-war works in general, focusing solely on his participation in the debate over the relation between history and theory in the 1960s. The paper seeks to fill this lacuna by providing a critical account of Jian Bozan's understanding of historical laws, progress, the stages of history, human freedom and the class struggle. Jian's synthesis of historicism and historical materialism, which at a time was seen as an alternative to the Maoist view of history, was officially condemned during the Cultural Revolution and led to his premature death. However, this paper demonstrates that, following the public rehabilitation of the thought of Jian Bozan in 1978, it was his system that had an important impact on the historiography in Dengist China. Furthermore, the paper argues that Jian's approach to historical materialism brought many novelties in relation to the preceding Sino-Marxist views of history.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Asian Studies",
+        "type": "journal",
+        "issn": [
+          "1479-5914",
+          "1479-5922"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/50E2B1C6C058E71A3B120C67A710D7F9/S1479591421000139a.pdf/div-class-title-the-struggle-for-memory-jian-bozan-on-historical-materialism-div.pdf"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W3166806701"
+    },
+    {
+      "openalex_id": "W1714666604",
+      "doi": null,
+      "title": "You Cannot Swim Twice in the Same River: The Genesis of Dialectical Materialism",
+      "authors": [
+        {
+          "name": "Vijayamohanan Pillai N.",
+          "openalex_id": "A5005496708"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "This constitutes a chapter of a book on \u2018Poverty of Communism: The Game of Filling in the Marxian Blanks\u2019. Dialectical materialism is the world outlook of Marxism; it is so called, because its approach to the phenomena of nature is dialectical, and its interpretation of these phenomena, its theory, is materialistic. Though the term \u2018dialectical materialism\u2019 owes its origin to Plekhanov and Lenin, its first expositor was Engels, who simply called it \u2018modern materialism\u2019 and asserted that it was essentially connected with the name of Marx. The present paper traces out the historical development of dialectical materialism, starting with its Greek philosophical origin in Heraclitus, who stressed the unity of opposites in a world of change, and passing through the dialogues of Socrates, and logic of Aristotle, Kant, Hegel, Chalybaus (famous for his exegetical characterization of Hegel\u2019s dialectics in terms of thesis-antithesis-synthesis triad) and Feuerbach, all culminating in Marxism. The paper also discusses the experimental games of Lenin and his followers in filling in the Marxian blanks in dialectical materialism.",
+      "cited_by_count": 1,
+      "type": "preprint",
+      "source": {
+        "name": "RePEc: Research Papers in Economics",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1714666604"
+    },
+    {
+      "openalex_id": "W2787994399",
+      "doi": "10.33280/2310-3817-2017-5-2-50-79",
+      "title": "\u201cWhen Was Caesar Born?\u201d Theory and Practice of Truth in Plekhanov and Bogdanov",
+      "authors": [
+        {
+          "name": "Evgeni V. Pavlov",
+          "openalex_id": "A5043138270",
+          "institutions": [
+            "Metropolitan State University of Denver"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Although political differences between various factions of the Russian SocialDemocratic Labor Party (RSDLP) have been studied quite extensively, theoretical debates about the nature of Marxism and the role such debates had in determining Party programs and strategic decisions remains in need of a more thorough engagement. One such theoretical discussion, the question of the nature of (absolute) truth, is the subject matter of the present essay. The primary debate was between Georgi Plekhanov, one of the most respected representatives of early Russian Marxism, and a group of theoreticians united around Alexander Bogdanov, an early collaborator of Lenin (until their break in 1909) and an author of several original theoretical works that attempted to challenge the established orthodoxy of Plekhanovite Marxism. The question of the nature of truth stood at the center of the debates between Plekhanov and Bogdanov. The ultimate challenge that Bogdanov threw to the representatives of (selfproclaimed) \"orthodox Marxism\" was the p. 50-79",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Stasis",
+        "type": "journal",
+        "issn": [
+          "2310-3817",
+          "2500-0721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://stasisjournal.net/index.php/journal/article/download/15/18/"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2787994399"
+    },
+    {
+      "openalex_id": "W4408230461",
+      "doi": "10.5922/0207-6918-2024-4-6",
+      "title": "Lyubov Axelrod on Kant: Reflections on Marxist Discussions of the 1920s and 1930s in the USSR",
+      "authors": [
+        {
+          "name": "Tatiana G. Shchedrina",
+          "openalex_id": "A5008025776",
+          "orcid": "https://orcid.org/0009-0002-5670-7921",
+          "institutions": [
+            "Moscow State Pedagogical University"
+          ]
+        },
+        {
+          "name": "Irina \u041e. Shchedrina",
+          "openalex_id": "A5001591676",
+          "orcid": "https://orcid.org/0000-0002-8780-0566",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        },
+        {
+          "name": "J\u00fcrgen Stolzenberg",
+          "openalex_id": "A5075515263",
+          "institutions": [
+            "Martin Luther University Halle-Wittenberg"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "The authors attempt to look back on discussions of Marxist philosophy and historical materialism in this country without censoring, obfuscating, or simplifying issues in order to assess the prospects of their development. They focus on the work of a follower of Georgy Plekhanov, Lyubov Axelrod, who, in developing the concept of historical materialism, turned to Kant. Axelrod\u2019s published works (from early articles and a dissertation on Tolstoy\u2019s worldview, to her mature works on the history of materialism and philosophical-sociological texts on literary classics) and her epistolary legacy (most notably her correspondence with Plekhanov) show that, for her, rethinking the ideas of Kant was a reference point in the \u201ccritique of criticism\u201d directed at the epistemological reasoning of Neo-Kantians, on the one hand, and at the Russian thinkers who had embraced \u201cidealism\u201d on the other. This was essentially the approach adopted by scholars at the Historical Materialism Department of the USSR Academy of Sciences (headed by Vladislav Zh. Kelle) and, even more importantly, this approach is still relevant to the study of the principle of historicity in philosophy and science in Russia today. Analysing the debates between \u201cdialecticians\u201d (headed up by Abram M. Deborin) and \u201cmechanicists\u201d (with whom Axelrod is often identified), the authors hold that, in epistemological terms, her scientific-philosophical concepts of the materialist interpretation of the tradition of historicity is a kind of bridge between the pre-revolutionary tradition of \u201cpositive\u201d philosophy on Russian soil, and Marxism as it existed in the USSR.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Kantian journal",
+        "type": "journal",
+        "issn": [
+          "0207-6918",
+          "2310-3701"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.kantiana.ru/upload/iblock/aba/jy4ngjzxjolvy19dx4dlk020ouilh4ek/6_155-168.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4408230461"
+    },
+    {
+      "openalex_id": "W3198993847",
+      "doi": "10.21638/spbu12.2021.205",
+      "title": "The genesis of Western European sociological thought in the works of G. V. Plekhanov",
+      "authors": [
+        {
+          "name": "Svyatoslav S. Brazevich",
+          "openalex_id": "A5082984630",
+          "orcid": "https://orcid.org/0000-0002-4345-7428"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The article presents the results of the analysis by G.V.Plekhanov of the genesis of Western European sociological thought based on the consideration of the social ideas of the French materialists of the 18th century, the rudiments in their philosophical systems of the historical approach to the study of society and understanding the causes of social inequality and injustice as well as overcoming them. The sources and content of the philosophical and historical theories of the French historians of the Restoration period are revealed, those who recognized the struggle of classes as the cornerstone of the social, political and mental development of European society, including the interpretation of the concept of \u201csocial environment\u201d as a set of economic relations of classes, which was a contribution to the history of sociology. The analysis of the sociological views of utopian socialists and representatives of German classical philosophy is conducted. It was revealed that a significant contribution to the development of the theory of society were the ideas of social progress and the creation of a new social science that served the cause of social organization, developed by the utopian socialists, as well as the statement that the future of society is decided in the sphere of social and economic relations, and not political and legal ones. It is emphasized that Hegel\u2019s application of dialectics to the analysis of social changes meant undoubted progress in the development of sociological thought, which consisted in the advancement of the idea of the regularity of the social process. The methodological basis of the author\u2019s study of the problem of the genesis of Western European sociological thought in the works of G.V.Plekhanov is made up of dialectical-materialistic and comparative-historical methods, as well as the method of textological analysis and historical-philosophical reconstruction.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vestnik of Saint Petersburg University Sociology",
+        "type": "journal",
+        "issn": [
+          "2541-9374",
+          "2587-5809"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sociologyjournal.spbu.ru/article/download/11761/8151"
+      },
+      "topics": [
+        "Economic Development and Digital Transformation",
+        "Global Economic and Social Development"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3198993847"
+    },
+    {
+      "openalex_id": "W2735391466",
+      "doi": "10.13128/aisthesis-20914",
+      "title": "The Organization of Pessimism: Profane Illumination and Anthropological Materialism in Walter Benjamin",
+      "authors": [
+        {
+          "name": "Ricardo Ibarluc\u00eda",
+          "openalex_id": "A5014840935",
+          "orcid": "https://orcid.org/0000-0003-3542-5212",
+          "institutions": [
+            "Universidad Nacional de San Mart\u00edn"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-09",
+      "abstract": "This paper explores Walter Benjamin\u2019s relationship with French Surrealism from sources rarely studied or practically unknown until now. First, I will set out the direct link between the theses on \u201cprofane illumination\u201d and the \u201corganization of pessimism\u201d in Der S\u00fcrrealismus. Die letzte Momentaufnahme der europ\u00e4ischen Intelligenz, and various texts by Pierre Naville, one of the most active figures in the Surrealist movement between 1925 and 1929. Second, I will consider Benjamin\u2019s commentaries in Pariser Passagen <i> and convolute \u201cS\u201d of the Passagen-Werk about Surrealist writings and Martin Heidegger\u2019s Sein und Zeit, flagging up the implications of this confrontation for Benjamin\u2019s ideas of secularization of mysticism and messianism. Lastly, I will seek to refine the meaning of Benjamin\u2019s \u201canthropological materialism\u201d and its relevance to those sections of the Passagenarbeit that are dedicated to the evolution of social movements since the French Revolution. </i>",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Americanae (AECID Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11336/76976"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Schopenhauer and Stefan Zweig",
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2735391466"
+    },
+    {
+      "openalex_id": "W4237385036",
+      "doi": "10.21825/philosophica.82133",
+      "title": "Vital Materialism and the Problem of Ethics in the Radical Enlightenment",
+      "authors": [
+        {
+          "name": "Charles T. Wolfe",
+          "openalex_id": "A5021104565",
+          "orcid": "https://orcid.org/0000-0002-7956-9085"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-02",
+      "abstract": "From Hegel to Engels, Sartre and Ruyer Science or scientism, on this view, reduces the living world to 'dead matter', 'brutish', 'mechanical, lifeless matter', thereby also stripping it of its freedom Materialism is often wrongly presented as 'mechanistic materialism' -with 'Death of Nature' echoes of de-humanization and hostility to the Scientific Revolution (which knew nothing of materialism!), also a powerful Christian theme in Cudworth, Clarke and beyond Here I challenge this view, building on some aspects of Israel's Radical Enlightenment concept",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Philosophica",
+        "type": "journal",
+        "issn": [
+          "0379-8402",
+          "2295-9084"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.philosophica.ugent.be/article/82133/galley/201947/download/"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Political Economy and Marxism",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4237385036"
+    },
+    {
+      "openalex_id": "W2038472810",
+      "doi": "10.1080/09546545.2013.787807",
+      "title": "Georgii Plekhanov and the Communist Manifesto: the Proletarian Revolution Revisited",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "Russian State Agrarian Correspondence University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-01",
+      "abstract": "This article discusses the question of Georgii Plekhanov's contributions to Marxist revolutionary strategy. It argues that the strategy Plekhanov proposed in Our Differences (1885) was very different from the one he had earlier proposed in Socialism and Political Struggle (1883). Plekhanov pretended to model his Russian policies on the Communist Manifesto's policies for Germany in the mid-nineteenth century. However, in proposing that Russia's democratic revolution was to be followed by a protracted period of capitalist economic development, Plekhanov was in fact taking Marxism in a new direction. Plekhanov was the first Marxist to have rejected Marx's scenario of social revolution by numerically small proletariats and to have predicated the proletarian revolution on the proletarianisation of the majority of the population and integral industrialisation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revolutionary Russia",
+        "type": "journal",
+        "issn": [
+          "0954-6545",
+          "1743-7873"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/georgii-plekhanov-and-the-communist-manifesto-the-proletarian-revolution-revisited(aa90e6ab-11ec-4ba4-8008-970c19e649c0).html"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Institutions",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2038472810"
+    },
+    {
+      "openalex_id": "W3131369027",
+      "doi": "10.37050/ci-20_000",
+      "title": "From \u2018Materialism\u2019 towards \u2018Materialities\u2019",
+      "authors": [
+        {
+          "name": "Bernardo Bianchi",
+          "openalex_id": "A5021851335",
+          "orcid": "https://orcid.org/0000-0002-1613-9846",
+          "institutions": [
+            "Centre Marc Bloch"
+          ]
+        },
+        {
+          "name": "\u00c9milie Filion-Donato",
+          "openalex_id": "A5035083324",
+          "orcid": "https://orcid.org/0000-0001-7513-6875",
+          "institutions": [
+            "Universit\u00e9 de Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Marlon Miguel",
+          "openalex_id": "A5063479625",
+          "orcid": "https://orcid.org/0000-0001-9680-9303",
+          "institutions": [
+            "Bauhaus-Universit\u00e4t Weimar"
+          ]
+        },
+        {
+          "name": "Ay\u015fe Yuva",
+          "openalex_id": "A5047278112",
+          "institutions": [
+            "Universit\u00e9 Paris 1 Panth\u00e9on-Sorbonne"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "What is the relevance of materialism for thinking politics? Throughout modernity, materialism has been associated with fatalism, naturalism, heresy, atheism, and linked to political ideas such as republicanism, democracy, and communism. In the nineteenth century, the field of confrontation in which materialism was engaged shifted beyond the theoretical and political dimensions to encompass the economic and the social as well. Materialism dethroned the conception of an abstract political subject and the centrality of state institutions in favour of a materialist critique centred on the materiality of social relations. However, the development of contemporary capitalism transformed the meaning of such a critique. The policies of neoliberal capitalism have sought to expand control beyond the state to regulate the materiality of social reproduction itself. Through multiple forms of expropriation, neoliberal policies have aimed at controlling the bodies and, more broadly, the materialities underlying the processes of capitalist domination.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "Cultural inquiry",
+        "type": "book series",
+        "issn": [
+          "2627-728X",
+          "2627-731X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://press.ici-berlin.org/doi/10.37050/ci-20/bianchi-filion-donato-miguel-yuva_materialism--materialities.pdf"
+      },
+      "topics": [
+        "Political and Economic history of UK and US"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W3131369027"
+    },
+    {
+      "openalex_id": "W4393082484",
+      "doi": "10.15691/0718-5448vol4iss2a357",
+      "title": "Materialism, Matter and Materiality in the Work of Althusser",
+      "authors": [
+        {
+          "name": "Warren Montag",
+          "openalex_id": "A5030426663",
+          "orcid": "https://orcid.org/0000-0002-3957-3979",
+          "institutions": [
+            "Occidental College"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-28",
+      "abstract": "Over a decade ago, a number of philosophers declared that the time of what they called \u201cthe linguistic turn,\u201d that is, a philosophical orientation to language as the sole medium through which reality could be apprehended, had come to an end, having foundered on its own contradictions. In its place, they proposed a turn to objects or things, that is, that to which we were previously told we could gain access only through language or consciousness, insofar as they reflected or represented reality from a position outside of it. Thus, they established the materiality of objects, but at the expense of a dematerialization of language. One of the principal targets of the new materialism was the concept of ideology, to them a realm of ideas, not things. In his famous essay, \u201cIdeology and Ideological State Apparatuses,\u201d published in 1970, Althusser preempted the arguments of the new materialism by asserting that ideology does not consist of ideas but exists in the materiality of apparatuses, practices and rituals. Just as importantly, discourse too possessed a materiality and a reality which was the necessary condition of its functions, including the production of meaning.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "S\u00edntesis Revista de Filosof\u00eda",
+        "type": "journal",
+        "issn": [
+          "2452-4476"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sintesis.uai.cl/index.php/intusfilosofia/article/download/357/328"
+      },
+      "topics": [
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4393082484"
+    },
+    {
+      "openalex_id": "W189607546",
+      "doi": "10.1007/978-3-319-24820-2_5",
+      "title": "Vital Materialism and the Problem of Ethics in the Radical Enlightenment",
+      "authors": [
+        {
+          "name": "Charles T. Wolfe",
+          "openalex_id": "A5021104565",
+          "orcid": "https://orcid.org/0000-0002-7956-9085",
+          "institutions": [
+            "Ghent University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": {
+        "name": "SpringerBriefs in philosophy",
+        "type": "book series",
+        "issn": [
+          "2211-4548",
+          "2211-4556"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://biblio.ugent.be/publication/4255943/file/6808479"
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Philosophical and Historical Studies"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W189607546"
+    },
+    {
+      "openalex_id": "W1273809832",
+      "doi": null,
+      "title": "A Unifying Field in Logics: Neutrosophic Logic. Neutrosophy, Neutrosophic Set, Neutrosophic Probability",
+      "authors": [
+        {
+          "name": "Florent\u00edn Smarandache",
+          "openalex_id": "A5012703845",
+          "orcid": "https://orcid.org/0000-0002-5560-5926"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-19",
+      "abstract": "Neutrosophy considers a proposition, theory, event, concept, or entity, \"A\" in relation to its opposite, \"Anti A\" and that which is not A, \"Non-A\", and that which is neither \"A\" nor \"Anti-A\", denoted by \"Neut-A\". Neutrosophy is the basis of neutrosophic logic, neutrosophic probability, neutrosophic set, and neutrosophic statistics.",
+      "cited_by_count": 723,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/SMAAUF-2.pdf"
+      },
+      "topics": [
+        "Computability, Logic, AI Algorithms",
+        "Advanced Mathematical Theories",
+        "Advanced Algebra and Logic"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W1273809832"
+    },
+    {
+      "openalex_id": "W4410233715",
+      "doi": "10.21146/2949-3102-2023-1-2-5-28",
+      "title": "The Content Analysis of Reception of Hegel\u2019s Philosophy in Dialectical Materialism (the Late 19th \u2013 the First Half of the 20th Century)",
+      "authors": [
+        {
+          "name": "Pavel Vladimirov",
+          "openalex_id": "A5015453742",
+          "orcid": "https://orcid.org/0000-0003-3993-3636",
+          "institutions": [
+            "Russian State University for the Humanities"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-02",
+      "abstract": "\u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u043e\u043f\u0440\u043e\u0441 \u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0435 \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u044f \u0440\u0430\u0431\u043e\u0442 \u0413\u0435\u0433\u0435\u043b\u044f \u0432 \u043e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043c\u0430\u0440\u043a\u0441\u0438\u0441\u0442\u0441\u043a\u043e\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u043a\u043e\u043d\u0446\u0430 XIX \u2013 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b XX \u0432. \u041f\u0440\u0438\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u043e\u0432\u0435\u0434\u0451\u043d\u043d\u043e\u0433\u043e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u043f\u043e\u0440\u044f\u0434\u043a\u0430 200 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u043e \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u043c\u0443. \u041e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u0439 \u043a\u0430\u043a \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u0413\u0435\u0433\u0435\u043b\u044f \u0432 \u0446\u0435\u043b\u043e\u043c, \u0442\u0430\u043a \u0438 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0435\u0451 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432. \u041f\u043e\u043a\u0430\u0437\u0430\u043d\u044b \u043a\u0430\u043a \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0432\u0448\u0438\u0445 \u0442\u0440\u0430\u043a\u0442\u043e\u0432\u043e\u043a, \u0442\u0430\u043a \u0438 \u0438\u0445 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0440\u0435\u0447\u0438\u0432\u043e\u0441\u0442\u044c. \u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0445\u0443\u0434\u0448\u0435\u043d\u0438\u044f \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043a \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u0413\u0435\u0433\u0435\u043b\u044f \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u043c \u043f\u0435\u0440\u0438\u043e\u0434\u0435, \u0447\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u043e \u043a\u0430\u043a \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c\u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u0430\u043c\u0438, \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u043c\u0443, \u0442\u0430\u043a \u0438 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430\u043c\u0438, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043e \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u0438 \u043a\u043e\u043d\u0442\u0435\u043d\u0442-\u0430\u043d\u0430\u043b\u0438\u0437\u0430, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0439 \u043a\u0430\u043a \u0434\u043b\u044f \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0437\u0438\u0441\u043e\u0432 \u0438\u0437 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0441\u043a\u0438\u0445 \u0440\u0430\u0431\u043e\u0442, \u0437\u0430\u0442\u0440\u0430\u0433\u0438\u0432\u0430\u044e\u0449\u0438\u0445 \u0433\u0435\u0433\u0435\u043b\u0435\u0432\u0441\u043a\u0443\u044e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u0442\u0438\u043a\u0443 (\u0441 \u0438\u0445 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u0438\u0440\u043e\u0432\u043a\u043e\u0439 \u043f\u043e \u0442\u0435\u043c\u0430\u043c \u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u043c \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u0439), \u0442\u0430\u043a \u0438 \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u043e \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u043c\u0443 \u043a \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 \u0413\u0435\u0433\u0435\u043b\u044f \u0432 \u0446\u0435\u043b\u043e\u043c \u043b\u0438\u0431\u043e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u043c \u0435\u0451 \u0430\u0441\u043f\u0435\u043a\u0442\u0430\u043c (\u043f\u043e \u0448\u043a\u0430\u043b\u0435 \u043e\u0442 \u043a\u0440\u0430\u0439\u043d\u0435 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0434\u043e \u043a\u0440\u0430\u0439\u043d\u0435 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u043e\u0433\u043e).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Ote\u010destvenna\u00e2 filosofi\u00e2.",
+        "type": "journal",
+        "issn": [
+          "2949-3102",
+          "3034-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://np.iphras.ru/article/download/9078/4433"
+      },
+      "topics": [
+        "Philosophical and Historical Studies",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4410233715"
+    },
+    {
+      "openalex_id": "W2266767238",
+      "doi": null,
+      "title": "Cultic revelations : studies in modern historical cult personalities and phenomena",
+      "authors": [
+        {
+          "name": "Anssi Halmesvirta",
+          "openalex_id": "A5017735714",
+          "orcid": "https://orcid.org/0000-0002-9865-9588"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This collection of articles contains history papers of the third conference of the joint project of the Hungarian Academy of Sciences and the Academy of Finland titled Cult and Community , held in Jyv\u00e4skyl\u00e4, 6 7 September, 2007. They are complemented by a couple of specialized, independent contributions by scholars working in the field of cults. It may be noted that the Finnish participants were newcomers in the cult research group since the Hungarian cult studies draw on traditions in the history of literature (e.g. P\u00e9ter D\u00e1vidh\u00e1zi on Shakespeare-cult, the publications of the Pet&#337;fi Museum of Literature, Budapest and the D\u00e9ri M\u00fazeum, Debrecen) and critical studies. Also studies in personality cults of the Communist leaders in the Eastern Europe have been launched there. In Finland the situation has been different. There have been lively cults of J. L. Runeberg (national poet), J. V. Snellman (philosopher for the Finnish nation) and other luminaries but genuine political cults have been relatively rare and ambiguous. In such a legalist country as Finland has been, revolutionary popular movements imitating National Socialism and Fascism impregnated by obsessive cultic practices, could not gain long-standing, firm foothold. That Vihtori Kosola, the leader of the fascismo of Finland the label of a British contemporary correspondent could call almost 13,000 peasants to demonstrate in 1930 at the main square in Helsinki, was the utmost he could manage and it was not enough to transform his popularity into a personality cult. And that he was donated a bust of Mussolini by the Italian Embassy rather was a symbolic diplomatic gesture not prone to elevate Kosola s figure to wider public acceptance. Nevertheless, usually in times of crisis, some strong men have been promoted to represent the ability to defend the country. One of them was, for example, President P.E. Svinhufvud for the White Finland in the early 1930s. In contrast, the feminine symbol of Finland, the whitedressed virgin, was a rather fragile figure but all the same politically utilized. Lenin and Mannerheim are exceptional types as they represent the heroism of the opposing political camps. It has been a great intellectual pleasure and refreshment to the Finnish participants to get acquainted with the Hungarian insights and methods to study cults during the project. Hopefully, the impact has been mutual. The Finnish contingent wishes to thank the Hungarian Academy of Sciences and the Academy of Finland for their support.",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "Jyv\u00e4skyl\u00e4 University Digital Archive (University of Jyv\u00e4skyl\u00e4)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://urn.fi/URN:NBN:fi:jyu-20103301368"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2266767238"
+    },
+    {
+      "openalex_id": "W3118095062",
+      "doi": "10.16993/bbf",
+      "title": "Working-Class Literature(s) Volume II. Historical and International Perspectives",
+      "authors": [
+        {
+          "name": "Lennon, John",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University"
+          ]
+        },
+        {
+          "name": "Nilsson, Magnus 1975-",
+          "openalex_id": "",
+          "institutions": [
+            "Stockholm University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-21",
+      "abstract": "The aim of this collection is to contribute to the forging of a more robust, politically useful, and theoretically elaborate understanding of working-class literature(s). These essays map a substantial terrain: the history of working-class literature(s) in Argentina, Denmark, Germany, Japan, Singapore, South Africa and Ireland. Together with the essays in a previous volume \u2013 which cover Russia/The Soviet Union, The USA, Finland, Sweden, The UK, and Mexico \u2013 they give a complex picture of working-class literature(s) from an international perspective, without losing sight of national specificities. By capturing a wide range of definitions and literatures, the two volumes give a broad and rich picture of the many-facetted phenomenon of working-class literature(s), disrupt narrow understandings of the concept and phenomenon, as well as identify and discuss some of the most important theoretical and historical questions brought to the fore by the study of this literature.If read as stand-alone chapters, each contribution gives an overview of the history and research of a particular nation\u2019s working-class literature. If read as a whole (which we hope you do), they contribute toward a more complex understanding of the global phenomenon of working-class literature(s).",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.stockholmuniversitypress.se/site/books/10.16993/bbf/download/3674/"
+      },
+      "topics": [
+        "Cultural History and Identity Formation",
+        "Poetry Analysis and Criticism"
+      ],
+      "referenced_works_count": 244,
+      "url": "https://openalex.org/W3118095062"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

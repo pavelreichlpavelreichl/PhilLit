@@ -1,0 +1,244 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov role of the individual in history', limit=20
+[search_philpapers.py] Retrieved 16 entries...
+[search_philpapers.py] Search complete: 16 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov role of the individual in history",
+  "results": [
+    {
+      "title": "Georgi\u00e6i Valentinovich Plekhanov, Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History",
+      "url": "https://philpapers.org/rec/PLEEIH",
+      "philpapers_id": "PLEEIH",
+      "snippet": "The materialist conception of history.Georgii Valentinovich Plekhanov - 1940 - New York: International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza. Fundamental Problems of Marxism.B. H. - 1969 - Review of Metaphysics 23 (2):352-352. Discourse and the Materialist Conception of History: Critical Comments on Critical Discourse Analysis.Peter Jones - 2004 - Historical Materialism 12 (1):97-125.",
+        "The materialist conception of history.Georgii Valentinovich Plekhanov - 1940 - New York: International Publishers.",
+        "Objective Process, Historical Law, and the Road of Social Development.Geng Yang - 2021 - In Basic Theoretical Research on Marxist Philosophy. Singapore: Springer Singapore.",
+        "Theory as history: essays on modes of production and exploitation.Jairus Banaji - 2010 - Boston: Brill."
+      ]
+    },
+    {
+      "title": "B. H., Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/HFPO",
+      "philpapers_id": "HFPO",
+      "snippet": "It is based on the Russian edition of the Institute of Philosophy of the Academy of Sciences of the USSR, edited by V. A. Fomina. The appendix contains two valuable additional essays by Plekhanov: The Materialist Conception of History and The Role of the Individual in History, both of which are reprints with some minor revisions of translations of 1940.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. H."
+        }
+      ],
+      "extra_snippets": [
+        "It is based on the Russian edition of the Institute of Philosophy of the Academy of Sciences of the USSR, edited by V. A. Fomina. The appendix contains two valuable additional essays by Plekhanov: The Materialist Conception of History and The Role of the Individual in History, both of which are reprints with some minor revisions of translations of 1940.",
+        "This is a new translation of one of Plekhanov's major works on historical materialism. It is based on the Russian edition of the Institute of Philosophy of the Academy of Sciences ...",
+        "Plekhanov, in this view, served as the link between Engels and Lenin in which a tendency in Engels toward a mechanistic materialism, manifested in his Anti-D\u00fchring and The Dialectics of Nature, was developed into a dominant theme. Dialectical materialism became the term applicable to the science of the laws of motion of man, society, and nature--of all reality. Historical materialism, or, as Marx and Engels called it, the materialist conception of history, became but a subordinate branch of dialectical materialism, dealing specifically with the laws of motion of man and society.",
+        "Regrettably, the introduction by the editor ignores these evaluations and interpretations and sticks to the more traditional Marxist areas of discussing Plekhanov's masterful refutation of economic determinism, his exaggeration of the importance of geographic conditions, and Lenin's criticisms of his theoretical weaknesses. Plekhanov's treatment of the materialist conception of history still stands as one of the most brilliant and coherent presentations of this seminal doctrine."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The materialist conception of history",
+      "url": "https://philpapers.org/rec/PLETMC",
+      "philpapers_id": "PLETMC",
+      "snippet": "Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History.Georgi\u00e6i Valentinovich Plekhanov - 1992 - International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "GV PLEKHANOV THE MATERIALIST CONCEPTION OF HISTORY Translated by A. ...",
+        "Philosophical Materialism or the Materialist Conception of History.Alison Assiter - 1979 - Radical Philosophy 23:12.",
+        "XI.\u2014The Materialist Conception of History.H.",
+        "The Materialist Conception of History and Karl Marx.Vladimir Il\u02b9ich Lenin - 1923 - [Labour Pub."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov & J. Fineberg, The Role of the Individual in History",
+      "url": "https://philpapers.org/rec/PLETRO-2",
+      "philpapers_id": "PLETRO",
+      "snippet": "Essays in Historical Materialism the Materialist Conception of History, the Role of the Individual in History.Georgii Valentinovich Plekhanov - 1940 - International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Georgii Valentinovich Plekhanov & J. Fineberg ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University's proxy server Configure custom proxy (use this if your affiliation does not provide a proxy) ... Sign in / register and customize your OpenURL resolver.. ... No references found. ... Marx, Popper, and 'Historicism'.W.",
+        "The Subjective-Objective Dimension in the Individual-Society Connection: A Duality Perspective.Tim J. Juckes & John Barresi - 1993 - Journal for the Theory of Social Behaviour 23 (2):197\u2013216. Historical Materialism.R.",
+        "Tendencies in Marxology and Tendencies in History:Karl Marx's Theory of History: A Defence. G. A. Cohen; Karl Marx's Theory of History: A Defence. Marx, Vol. 1. Une Philosophie de la Realite. Michel Henry; Karl Marx's Theory of History: A Defence. Vol 2. Une Philosophie de l'Economie.",
+        "Michel Henry; The Structure of Marx's World-View. John McMurtry; Marx's Interpretation of History. Melvin Rader. [REVIEW]William L."
+      ]
+    },
+    {
+      "title": "Robert Mayer, Plekhanov, Lenin and working-class consciousness",
+      "url": "https://philpapers.org/rec/MAYPLA",
+      "philpapers_id": "MAYPLA",
+      "snippet": "Plekhanov did not believe that workers would fail to develop a socialist consciousness in the absence of external intervention. Indeed, Plekhanov was a thorough-going optimist about proletarian capacities, and while he did assign an important role to the intelligentsia in the process of consciousness-raising, that role was carefully circumscribed.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Robert Mayer"
+        }
+      ],
+      "extra_snippets": [
+        "Plekhanov did not believe that workers would fail to develop a socialist consciousness in the absence of external intervention. Indeed, Plekhanov was a thorough-going optimist about proletarian capacities, and while he did assign an important role to the intelligentsia in the process of consciousness-raising, that role was carefully circumscribed.",
+        "The Attitude of Lenin and Plekhanov towards the Russian Revolution.Radzis\u0142awa Gortat, Piotr Marciniak & Aleksandra Rodzi\u0144ska - 1977 - Dialectics and Humanism 4 (3):25-36. Lenin and the jacobin identity in russia.Robert Mayer - 1999 - Studies in East European Thought 51 (2):127-154. A History of Marxist Hegemony.Sylus Smith - 2025 - Stance 18 (1):100-113.",
+        "The dictatorship of the proletariat from Plekhanov to Lenin.Robert Mayer - 1993 - Studies in East European Thought 45 (4):255 - 280.",
+        "The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin.Avraham Yassour - 1983 - Studies in East European Thought 26 (1):21-38."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLETDO",
+      "philpapers_id": "PLETDO",
+      "snippet": "In defence of materialism: the development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - London: Lawrence &amp; Wishart.",
+      "page_age": null,
+      "extra_snippets": [
+        "However, he condemned the methods of Lenin and the Bolsheviks soon after 1917. In books such as Socialism and the Political Struggle, Our Differences and On the Development of the Monist View of History, Plekhanov argued that a successful Marxist revolution could only take place after the development of capitalism.",
+        "Plekhanov was strongly opposed to the political views of people who argued that it would be possible for a small group of dedicated revolutionaries to seize power from the Tsar. Plekhanov warned that if this happened, you would replace one authoritarian regime with another and that a \"socialist caste\" would take control who would impose a system of \"patriarchal authoritarian communism. ... Materialism. History Philosophy",
+        "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185. Russian Marxism and the Materialist Interpretation of Spinoza.Justin Steinberg - 2024 - In John Symons & Charles Wolfe, The History and Philosophy of Materialism.",
+        "In defence of materialism: the development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - London: Lawrence & Wishart."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov, The materialist conception of history",
+      "url": "https://philpapers.org/rec/PLETMC-2",
+      "philpapers_id": "PLETMC",
+      "snippet": "Philosophical Materialism or the Materialist Conception of History.Alison Assiter - 1979 - Radical Philosophy 23:12.",
+      "page_age": null,
+      "extra_snippets": [
+        "Georgii Valentinovich Plekhanov \u00b7 New York: (1940) Copy BIBTEX \u00b7 This article has no associated abstract. (fix it) Cite \u00b7 Plain text \u00b7 BibTeX \u00b7 Formatted text \u00b7 Zotero \u00b7 EndNote \u00b7 Reference Manager \u00b7 RefWorks \u00b7 Options \u00b7 Edit \u00b7 Mark as duplicate \u00b7 Find it on Scholar \u00b7 Request removal from index \u00b7 Revision history \u00b7",
+        "History Philosophy.",
+        "The materialist conception of history.Dmitry Shlapentokh - 1991 - History of European Ideas 13 (3):282-284.",
+        "Philosophical Materialism or the Materialist Conception of History.Alison Assiter - 1979 - Radical Philosophy 23:12."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO-2",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov &amp; Romana Granas - 1949 - Ksiazka I Wiedza. The development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - Moscow,: Foreign Languages Pub.",
+      "page_age": null,
+      "extra_snippets": [
+        "PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein. [REVIEW]C. Lewy - 1949 - Mind 58:258. ... Sorry, there are not enough data points to plot this chart. How can I increase my downloads? Historical materialism in medieval China: The cases of Liu Zongyuan (773-819) and Li Gou (1009-1059).Dawid Rogacz - 2021 - Asian Philosophy 31 (4):385-401."
+      ]
+    },
+    {
+      "title": "G. V. PLEKHANOV, Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/PLEFPO",
+      "philpapers_id": "PLEFPO",
+      "snippet": "Vanguard of the Revolution: Plekhanov, Russian Marxism, and the Peasant Question.Matthew Day - 2023 - In No Bosses, No Gods: Marx, Engels, and the Twenty-first Century Study of Religion. Berlin, Boston: De Gruyter. pp. 133-160. A History of Marxist Hegemony.Sylus Smith - 2025 - Stance 18 ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. V. PLEKHANOV"
+        }
+      ],
+      "extra_snippets": [
+        "Vanguard of the Revolution: Plekhanov, Russian Marxism, and the Peasant Question.Matthew Day - 2023 - In No Bosses, No Gods: Marx, Engels, and the Twenty-first Century Study of Religion. Berlin, Boston: De Gruyter. pp. 133-160. A History of Marxist Hegemony.Sylus Smith - 2025 - Stance 18 (1):100-113.",
+        "G. V. PLEKHANOV",
+        "G. V. Plekhanov Kak Metodolog Literatury Opyt Postroeniia Marksistskoi Metodologii Literatury.Mikhail Aleksandrovich Iakovlev - 1926",
+        "PLEKHANOV, G. V. -In Defence of Materialism, trans. by A. Rothstein."
+      ]
+    },
+    {
+      "title": "Georgii Valentinovich Plekhanov & Andrew Rothstein, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov &amp; Romana Granas - 1949 - Ksiazka I Wiedza.",
+      "page_age": null,
+      "extra_snippets": [
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza.",
+        "Estetika Plekhanova Osnovnye Voprosy Marksistskoi Sotsiologii Iskusstva.A.",
+        "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - \"Iskusstvo\"."
+      ]
+    },
+    {
+      "title": "Frederick Charles Copleston, Philosophy in Russia: from Herzen to Lenin and Berdyaev",
+      "url": "https://philpapers.org/rec/COPPIR",
+      "philpapers_id": "COPPIR",
+      "snippet": "It offers a continuous history of the development of philosophical thought in Russia, and portraits of individual and influential thinkers. The author devotes careful analysis to radicals such as Bakunin, Herzen, Chernyshevsky and Lavrov, and to the Marxists such as Plekhanov and Lenin.",
+      "page_age": null,
+      "extra_snippets": [
+        "It offers a continuous history of the development of philosophical thought in Russia, and portraits of individual and influential thinkers. The author devotes careful analysis to radicals such as Bakunin, Herzen, Chernyshevsky and Lavrov, and to the Marxists such as Plekhanov and Lenin.",
+        "Personalism.Philipp Fluri - 1993 - Theoria: Revista de Teor\u00eda, Historia y Fundamentos de la Ciencia 8 (1):149-155.",
+        "Historical Introduction to Nicolai Hartmann\u2019s Concept of Possibility.Fr\u00e9d\u00e9ric Tremblay - 2017 - Axiomathes 27 (2):193-207."
+      ]
+    },
+    {
+      "title": "Avraham Yassour, The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin",
+      "url": "https://philpapers.org/rec/YASTEC",
+      "philpapers_id": "YASTEC",
+      "snippet": "The dictatorship of the proletariat from Plekhanov to Lenin.Robert Mayer - 1993 - Studies in East European Thought 45 (4):255 - 280.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Avraham Yassour"
+        }
+      ],
+      "extra_snippets": [
+        "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185."
+      ]
+    },
+    {
+      "title": "Vladimir N. Belov, Semyon Frank and the German Neo-Kantianism: Aspects of Debate",
+      "url": "https://philpapers.org/rec/BELSFA-2",
+      "philpapers_id": "BELSFA",
+      "snippet": "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians.Tatyana Gerardovna Rumyantseva - 2025 - Kantian Journal 44 (1):89-106.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Vladimir N. Belov"
+        }
+      ],
+      "extra_snippets": [
+        "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians.Tatyana Gerardovna Rumyantseva - 2025 - Kantian Journal 44 (1):89-106.",
+        "Thirdly and lastly, Frank paid particular attention, especially in his formative period as a philosopher, to the leading trend in the early twentieth century, namely German Neo-Kantianism, which led some students of his work to believe that German Neo-Kantianism played the decisive role in Frank\u2019s abandonment of Marxism in favour of religious ontology.",
+        "The Individual and the Cosmos in Renaissance Philosophy.Ernst Cassirer & Mario Domandi - 1964 - Philosophy 40 (153):259-260."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, Beitra\u0308ge zur Geschichte des Materialismus: Holbach, Helvetius, Marx",
+      "url": "https://philpapers.org/rec/PLEBZG",
+      "philpapers_id": "PLEBZG",
+      "snippet": "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov &amp; Romana Granas - 1949 - Ksiazka I Wiedza.",
+      "page_age": null,
+      "extra_snippets": [
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza.",
+        "Historical materialism.",
+        "Zur Rekonstruktion des historischen Materialismus.J\u00fcrgen Habermas - 1976 - Frankfurt am Main: Suhrkamp.",
+        "Habermas und der Marxismus: zur Aktualita\u0308t einer Rekonstruktion des historischen Materialismus.Friedrich Tomberg - 2003 - Wu\u0308rzburg: K\u00f6nigshausen & Neumann."
+      ]
+    },
+    {
+      "title": "Georgi\u012d Valentinovich Plekhanov, Essays in the history of materialism",
+      "url": "https://philpapers.org/rec/PLEEIT",
+      "philpapers_id": "PLEEIT",
+      "snippet": "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov &amp; Romana Granas - 1949 - Ksiazka I Wiedza.",
+      "page_age": null,
+      "extra_snippets": [
+        "Beitra\u0308ge zur Geschichte des Materialismus: Holbach, Helvetius, Marx.Georgii\u0306 Valentinovich Plekhanov - 1896 - Zittau: B.",
+        "Esteticheskie Vzgliady G.V. Plekhanova.P. S. Trofimov - 1956 - Znanie. Von Holbach zu Marx: materialistischer Diskurs und ideologische Praxis.Michael Haupt - 1987 - Berlin: Argument-Verlag. Dialectical Materialism and the History of Philosophy: Essays on the History of Philosophy.Teodor Il\u00edch Oizerman - 1980 - Progress Publishers."
+      ]
+    },
+    {
+      "title": "G. V. Plekhanov, Anarchism and socialism",
+      "url": "https://philpapers.org/rec/PLEAAS",
+      "philpapers_id": "PLEAAS",
+      "snippet": "G. V. Plekhanov",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. V. Plekhanov"
+        }
+      ],
+      "extra_snippets": [
+        "G. V. Plekhanov",
+        "Knowledge of God in Leviathan.Stewart Duncan - 2005 - History of Philosophy Quarterly 22 (1):31-48."
+      ]
+    }
+  ],
+  "count": 16,
+  "errors": []
+}

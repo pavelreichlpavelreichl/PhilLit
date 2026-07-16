@@ -1,0 +1,39 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov Mikhailovsky subjective sociology Narodnik', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_8a50e374b82b8266)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov Mikhailovsky subjective sociology Narodnik",
+  "results": [
+    {
+      "paperId": "68332299fa5c8d5a04358c42580bdf81fb42b3cc",
+      "title": "In defence of materialism : the development of the monist view of history",
+      "authors": [
+        {
+          "name": "G. Plekhanov",
+          "authorId": "112826995"
+        },
+        {
+          "name": "A. Rothstein",
+          "authorId": "112956185"
+        }
+      ],
+      "year": null,
+      "abstract": null,
+      "citationCount": 26,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/68332299fa5c8d5a04358c42580bdf81fb42b3cc",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

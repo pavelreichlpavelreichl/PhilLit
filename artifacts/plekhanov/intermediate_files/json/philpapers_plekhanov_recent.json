@@ -1,0 +1,53 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov', limit=20
+[search_philpapers.py] Retrieved 4 entries...
+[search_philpapers.py] Search complete: 4 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov",
+  "results": [
+    {
+      "title": "borders and migration management in the era of ...",
+      "url": "https://philpapers.org/rec/BLARWG",
+      "philpapers_id": "BLARWG",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2025-09-27T00:00:00"
+    },
+    {
+      "title": "Juan Carlos Ch\u00e1vez-Autor, From negative entropy to artificial creativity: A life-first telos for purpose-driven AI",
+      "url": "https://philpapers.org/rec/CHVFNE",
+      "philpapers_id": "CHVFNE",
+      "snippet": "Advanced AI lacks organismic will and felt stakes, yet it increasingly shapes knowledge, culture, and coordination. This article proposes a life-first telos for such systems: they should add structured order without ...",
+      "page_age": "2025-12-01T14:18:17",
+      "author": [
+        {
+          "type": "person",
+          "name": "Juan Carlos Ch\u00e1vez-Autor"
+        }
+      ]
+    },
+    {
+      "title": "Charles W. Mills, Theorizing Racial Justice",
+      "url": "https://philpapers.org/rec/MILTRJ-2",
+      "philpapers_id": "MILTRJ",
+      "snippet": "White philosophers in the liberal tradition have neglected the demands of racial justice even though liberalism arose in concert with the West\u2019s construction of a racist, imperialist global system that persists ...",
+      "page_age": "2026-03-19T08:35:04",
+      "author": [
+        {
+          "type": "person",
+          "name": "Charles W. Mills"
+        }
+      ]
+    },
+    {
+      "title": "Emanuel B. David, Meaning as the Mark of Mind: A Philosophical Case for the Irreducibility of Mind",
+      "url": "https://philpapers.org/rec/BDAMAT",
+      "philpapers_id": "BDAMAT",
+      "snippet": "This work argues that the apprehension of meaning entails a real ontological distinction between mind and body. Beginning from the phenomenological fact that human beings do not merely register the world ...",
+      "page_age": "2026-05-21T23:30:02"
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

@@ -1,0 +1,31 @@
+[search_sep.py] Connecting to Brave API for sep_via_brave search...
+[search_sep.py] Searching plato.stanford.edu: 'Georgi Plekhanov', limit=20
+[search_sep.py] Retrieved 2 entries...
+[search_sep.py] Search complete: 2 entries found
+{
+  "status": "success",
+  "source": "sep_via_brave",
+  "query": "Georgi Plekhanov",
+  "results": [
+    {
+      "title": "Vagueness (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/vagueness/",
+      "entry_name": "vagueness",
+      "snippet": "Hegelians believed this dialectical conception of vagueness solved the sorites and demonstrated the inadequacy of classical logic (Weber 2010). The Russian Marxist Georgi Plekhanov (1908 [1937]) proposed a logic of contradiction to succeed classical logic (Hyde 2008, 93\u20135).",
+      "page_age": "1997-02-08T00:00:00"
+    },
+    {
+      "title": "Spinoza\u2019s Political Philosophy (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/spinoza-political/",
+      "entry_name": "spinoza-political",
+      "snippet": "Most notably, Georgi Plekhanov (1856\u20131918), one of the primary expositors of the philosophical basis of Marxism, claimed that Marxism was but a \u201cvariety of Spinozism\u201d (cited in Kline 1952: 15) and reported that Engels told him in conversation that \u201cold Spinoza was quite right\u201d on ...",
+      "page_age": "2008-04-21T00:00:00",
+      "extra_snippets": [
+        "Most notably, Georgi Plekhanov (1856\u20131918), one of the primary expositors of the philosophical basis of Marxism, claimed that Marxism was but a \u201cvariety of Spinozism\u201d (cited in Kline 1952: 15) and reported that Engels told him in conversation that \u201cold Spinoza was quite right\u201d on matters of ontology (\u201cBernstein and Materialism\u201d, in Plekhanov 1898 [1976: 339]).",
+        "Lyubov Isaakovna Akselrod (1868\u20131946) and Abram Deborin (1881\u20131963) followed Plekhanov in defending Spinozism as the proper metaphysical foundation of Marxism (Steila 2022; Matysik 2022)."
+      ]
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

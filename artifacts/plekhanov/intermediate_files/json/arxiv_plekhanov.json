@@ -1,0 +1,477 @@
+[search_arxiv.py] Connecting to arXiv API...
+[search_arxiv.py] Searching arXiv: 'all:Plekhanov historical materialism', limit=20
+[search_arxiv.py] Search complete: 20 papers found
+[search_arxiv.py] Cached results (cache key: arxiv_d3c97827fef82e42)
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:Plekhanov historical materialism",
+  "results": [
+    {
+      "arxiv_id": "2607.14074",
+      "title": "Quantum Transport and Apparent Work Function Distributions of Atomic Contacts via a 3D-Printed High-Vacuum Platform",
+      "authors": [
+        "G. Pellicer",
+        "C. Sabater"
+      ],
+      "abstract": "We present a low-cost, 3D-printed high-vacuum platform integrating a mechanically controllable break-junction system and a custom logarithmic amplifier for room-temperature quantum transport measurements. Using copper as a highly reactive test case, we successfully resolve the $1G_0$ conductance quantum under both high vacuum and anhydrous glycerol, demonstrating the effectiveness of these environments against rapid atmospheric oxidation. In parallel, utilizing gold as a robust benchmark, we systematically extract the apparent work function ($\u03c6$) from thousands of tunneling traces across ambient air, vacuum, and glycerol. Our analysis demonstrates that the statistical distribution of $\u03c6$ rigorously follows a non-central chi-square distribution. The obtained gold work functions match existing literature across all environments. Although lower than bulk values, they perfectly align with theoretical models accounting for atomic-scale roughness, apex geometry, and environmental adsorbates. Ultimately, this methodology establishes an accessible and reproducible framework for systematic nanoscale research on reactive materials.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mes-hall",
+      "categories": [
+        "cond-mat.mes-hall"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14074v1",
+      "url": "https://arxiv.org/abs/2607.14074"
+    },
+    {
+      "arxiv_id": "2607.14041",
+      "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+      "authors": [
+        "Zhan Chen",
+        "Jiqiao Ma",
+        "Chih-wen Kuo"
+      ],
+      "abstract": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited labeled data. We study a multi-expert system that reuses checkpoints from an iterative fine-tuning process as domain specialists and uses a lightweight page-level image classifier to dispatch pages by visual style. When the checkpoint pool lacks a suitable specialist, we train an additional expert for that domain. On three frozen test sets, the routed system matches the selected specialist for each style at two-decimal precision: 0.30 percent CER on regular script, 1.57 percent on memorials, and 4.83 percent on running script. The router achieves 99.3 percent page-level domain accuracy and matches the domain-label oracle at the same precision. Two of the three selected specialists were not trained specifically for their final domain; only the running-script expert was trained with that domain as its target. We report the evaluation protocol, router design, and per-page predictions to make the comparison reproducible.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14041v1",
+      "url": "https://arxiv.org/abs/2607.14041"
+    },
+    {
+      "arxiv_id": "2607.14031",
+      "title": "Electric field controlled spin transport in a topological insulator interfaced with a ferroelectric antiferromagnet",
+      "authors": [
+        "Yogesh Kumar",
+        "Pushpendra Gupta",
+        "Xinyan Li",
+        "Richa Mudgal",
+        "Ashish Omar",
+        "Ryan Chen",
+        "Mito Funatsu",
+        "Maya Ramesh",
+        "Nicholas Reiterer",
+        "Yuanqi Lyu",
+        "Yiping Zeng",
+        "Darrell G. Schlom",
+        "Alessandra Lanzara",
+        "Robert J. Birgeneau",
+        "James G. Analytis",
+        "Ramamoorthy Ramesh",
+        "Sajid Husain"
+      ],
+      "abstract": "Topological insulators have been explored extensively for spin-charge interconversion via magnetic interfaces, yet the true response of their spin-charge conversion, particularly in the absence of an external magnetic field, remains to be studied. Here, we report electric-field control of spin-charge conversion in the topological insulator Bi$_2$Te$_3$ with the antiferromagnetic multiferroic BiFeO$_3$, employing a nonlocal spin transport device. A systematic thickness dependence of the spin transport across the interface between Bi$_2$Te$_3$ and BiFeO$_3$ reveals a signature of topological surface-state-dominated spin transport in the bilayer system. The spin-charge conversion remains robust for thicknesses above 10 nm but falls rapidly with reducing thickness and vanishes at 5 nm. This is consistent with the hybridization-induced emergence of a trivial insulating phase, which is supported by the coherency factor estimated from the magnetoconductance of Bi$_2$Te$_3$. These results establish that spin-momentum-locked surface states dominate interfacial spin transport in the decoupled regime. Beyond presenting efficient spin-charge interconversion at an entirely insulating magnetic interface, this work also highlights sputter-deposited Bi$_2$Te$_3$ as a high-quality and scalable platform for integrating quantum materials into devices. The nonlocal spin transport approach presented here provides a simple and direct evidence of spin-charge conversion and opens an efficient and practical pathway toward designing energy-efficient spin-based devices.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mes-hall",
+      "categories": [
+        "cond-mat.mes-hall",
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14031v1",
+      "url": "https://arxiv.org/abs/2607.14031"
+    },
+    {
+      "arxiv_id": "2607.14029",
+      "title": "Unified Terahertz Framework for Magnetic and Lattice Responses Reveals an Elusive Ordering Transition in Gd$_2$Ru$_2$O$_7$",
+      "authors": [
+        "Nicolas M. Kawahala",
+        "Rafael L. Sabainsk",
+        "Esteban Marulanda",
+        "Rafael S. Freitas",
+        "Felix G. G. Hernandez"
+      ],
+      "abstract": "Magnetic order in materials combining localized rare-earth moments with itinerant transition-metal sublattices generates internal fields whose lattice imprint is rarely accessed directly. In Gd pyrochlore ruthenate, we find that a single terahertz spectrum resolves an exchange-split Gd$^{3+}$ mode and an optical phonon. Their coupled evolution quantifies the internal field, oriented as predicted for cluster-multipolar order, and reveals a Gd-ordering transition elusive to bulk thermodynamic probes, establishing a unified framework for accessing magnetic and lattice responses in correlated quantum materials.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.str-el",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14029v1",
+      "url": "https://arxiv.org/abs/2607.14029"
+    },
+    {
+      "arxiv_id": "2607.14026",
+      "title": "From Forecasts to Auditable Reports: Evidence Contracts for LLM-Assisted Housing-Guarantee Risk Monitoring",
+      "authors": [
+        "Hyeongcheol Kim",
+        "Yoontae Hwang"
+      ],
+      "abstract": "Translating next-month housing-guarantee risk forecasts into auditable operational reports is essential yet challenging because upper-tail events are sparse, source records are confidential, and generated narratives can distort the underlying evidence. Using monthly South Korean \\textit{jeonse} deposit guarantee data from September 2015 to December 2025, we introduce an evidence-constrained reporting pipeline that prioritizes upper-tail monitoring, retrieves historical precedents aligned with the forecasting rationale, organizes admissible information into typed evidence contracts, and verifies generated claims before analyst review. We train and select the forecasting backbone on the original panel, whereas the reporting experiments use synthetic aggregate scenarios calibrated to its empirical ranges and temporal structure. The selected forecasting model substantially improves high-risk detection while retaining competitive average error. Across eight LLMs, structured evidence consistently increases report quality, numerical fidelity, and claim-level grounding. A practitioner evaluation involving 51 analysts and related domain professionals further indicates that the reports support real-world review and decision-making: most participants rated them as practically useful and endorsed an operational pilot. These findings demonstrate that reliable LLM-assisted reporting requires predictive models to be coupled with structured evidence, explicit verification, and analyst oversight.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.CE",
+      "categories": [
+        "cs.CE"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14026v1",
+      "url": "https://arxiv.org/abs/2607.14026"
+    },
+    {
+      "arxiv_id": "2607.14025",
+      "title": "The WEST code for large-scale excited-state materials simulations",
+      "authors": [
+        "Victor Wen-zhe Yu",
+        "Siyuan Chen",
+        "Yu Jin",
+        "Vrindaa Somjit",
+        "Stefano Paolo Villani",
+        "Jiawei Zhan",
+        "Marco Govoni",
+        "Giulia Galli"
+      ],
+      "abstract": "We present WEST, an open-source plane-wave pseudopotential code for large-scale excited-state materials simulations, and describe its theoretical foundations, software architecture, and capabilities. WEST implements full-frequency GW, quantum defect embedding theory, the Bethe-Salpeter equation, and time-dependent density functional theory within a common algorithmic framework that avoids the explicit computation of virtual electronic states. By combining density functional and density matrix perturbation theory, low-rank representations of the dielectric screening and exact exchange, and localization techniques, WEST achieves favorable computational scaling with system size. The code supports the calculation of quasi-particle and neutral excitation energies, optical and photoluminescence spectra, excited-state forces, and non-adiabatic couplings, with interoperable workflows connecting to quantum chemistry, vibronic coupling, and quantum computing packages. A hierarchical parallelization strategy and GPU acceleration deliver near-ideal strong scaling to thousands of GPUs, enabling accurate excited-state simulations of systems with more than a thousand atoms. Representative applications, spanning the full optical cycle of solid-state spin defects, self-trapped excitons in metal-halide perovskites, and the optical response of liquid water and ice, demonstrate the accuracy and versatility of the code across diverse material classes. The capabilities implemented in WEST establish the code as a scalable platform for predictive excited-state simulations, high-throughput materials discovery, and the generation of high-fidelity datasets for machine learning in computational materials science.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14025v1",
+      "url": "https://arxiv.org/abs/2607.14025"
+    },
+    {
+      "arxiv_id": "2607.14011",
+      "title": "Thermodynamic and electrical transport properties of the half-Heusler plumbide TbAuPb",
+      "authors": [
+        "Abhinav Agarwal",
+        "Snehashish Chatterjee",
+        "Maciej J. Winiarski",
+        "Orest Pavlosiuk",
+        "Dorota A. Kowalska",
+        "Piotr Wisniewski",
+        "Dariusz Kaczorowski"
+      ],
+      "abstract": "Structural, thermodynamic and electrical transport properties of TbAuPb were investigated on single crystals. The compound was found to crystallize with the cubic MgAgAs-type structure characteristic of half-Heusler materials. It orders antiferromagnetically at TN = 5 K and undergoes a transition into a different antiferromagnetic phase emerging in high magnetic fields. Electrical transport in TbAuPb exhibits a multiband character, with a predominance of hole-like carriers. Angular magnetoresistance evolves systematically with applied magnetic field and changes its symmetry near the spin-reorientation transition, highlighting strong coupling between the charge transport and the magnetic order. The results of first-principles calculations indicate that TbAuPb is a band inverted semimetal in the non-magnetic state, which becomes topologically trivial in the field-induced ferromagnetic state.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.str-el",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": "10.1103/hjtb-zs5w",
+      "journal_ref": "Phys. Rev. Materials 10, 064407 (2026)",
+      "pdf_url": "https://arxiv.org/pdf/2607.14011v1",
+      "url": "https://arxiv.org/abs/2607.14011"
+    },
+    {
+      "arxiv_id": "2607.14006",
+      "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+      "authors": [
+        "Mohammad Allahbakhsh",
+        "Mohammad Hassan Bahari",
+        "Moslem Attar-Raouf"
+      ],
+      "abstract": "Penetration testing traditionally evaluates whether adversaries can exploit weaknesses in software, infrastructure, configurations, or operational controls to achieve security-relevant compromise. This paradigm remains necessary for AI-enabled systems, but it is no longer sufficient. In such systems, adversaries may influence prompts, retrieved content, sensor inputs, training data, memory, tools, or human-AI interaction loops to alter system behavior without directly compromising the underlying infrastructure. This paper reframes penetration testing for AI-enabled systems as objective-driven behavioral evaluation. We define an AI-enabled system as one in which learned models materially influence behavior affecting operational outcomes, and we define AI-enabled penetration as the feasible induction of AI-governed behavior that violates one or more operational objectives under an explicit threat model. This definition preserves conventional penetration testing while extending it to adversarial pathways such as prompt injection, indirect prompt injection, data poisoning, sensor manipulation, retrieval poisoning, tool misuse, and agentic misalignment. We further propose a testing workflow that identifies operational objectives, maps AI-governed behavior, analyzes adversarial influence surfaces, defines behavioral failure criteria, executes scenario-based tests, and reports evidence linking adversarial action to objective violation. A running example involving an AI-enabled security operations center assistant illustrates how penetration may occur through behavioral influence rather than infrastructure compromise. Together, the definitions, workflow, and example provide a technical framework for evaluating adversarial success in deployed AI-enabled systems.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.CR",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.14006v1",
+      "url": "https://arxiv.org/abs/2607.14006"
+    },
+    {
+      "arxiv_id": "2607.13993",
+      "title": "$\\texttt{iNORG}$: An open-source quantum impurity solver package based on the natural orbitals renormalization group",
+      "authors": [
+        "Jia-Ming Wang",
+        "Yi-Heng Tian",
+        "Yin Chen",
+        "Ru Zheng",
+        "Rong-Qiang He",
+        "Zhong-Yi Lu"
+      ],
+      "abstract": "In the context of dynamical mean-field theory (DMFT) calculations for strongly correlated electron systems, quantum impurity solvers play a central computational role in treating correlated lattice models and realistic materials. Consequently, developing efficient and robust quantum impurity solvers remains a key challenge. In this paper, we present an open-source quantum impurity solver package based on the natural orbitals renormalization group (NORG) method, dubbed $\\texttt{iNORG}$. This software delivers high accuracy with reduced computational cost by optimizing the bath representation using natural orbitals and incorporating advanced features such as efficient Hilbert space selection and efficient algorithms for computing Green's functions. We first introduce the basic principle of the NORG method and then discuss the implementation details. The software framework, major features, and installation procedure for $\\texttt{iNORG}$ are explained as well. Finally, several simple examples are presented to demonstrate the usage of $\\texttt{iNORG}$.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.str-el",
+      "categories": [
+        "cond-mat.str-el",
+        "physics.comp-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13993v1",
+      "url": "https://arxiv.org/abs/2607.13993"
+    },
+    {
+      "arxiv_id": "2607.13967",
+      "title": "DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation",
+      "authors": [
+        "Son Ha Xuan",
+        "Xuan-Bach Le",
+        "Phat T. Tran-Truong"
+      ],
+      "abstract": "Adapting a multilingual encoder to a new language \\emph{and} a new task with only a few hundred gold examples is a common low-resource NLP setting, yet the two axes are usually fused via an expensive language--task fine-tuning run. We ask whether they can instead be trained separately and recombined in weight space. \\DeltaMergeLowRes{} learns a language delta $\u0394_L$ from unlabeled monolingual text and a task delta $\u0394_T$ from labeled English data, then composes them at inference under one of four rules: additive, activation-guided, sparsity-aware, and a novel \\emph{cross-axis TIES}. The new rule adapts the TIES-Merging steps of trimming, sign election, and merging to the language and task axes rather than to two task axes. Holding $(\u0394_L,\u0394_T)$ fixed across rules on four task families and four African languages ($158$ evaluated cells, $10{,}000$-sample paired bootstrap per cell), we find: (i) cross-axis TIES wins summarisation on $3/4$ languages by $+4$ to $+7$ chrF (chrF $18.59$ vs.\\ $13.80$ task-only); (ii) it improves QA F1 by $+2.32$ and EM by $+2.91$; and (iii) sparsity-aware merging cuts classification ECE by $36\\%$ at parity macro-F1. The composition rule materially changes what the merged model preserves, suppresses, and calibrates. We release all JSON traces and a claim ledger.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13967v1",
+      "url": "https://arxiv.org/abs/2607.13967"
+    },
+    {
+      "arxiv_id": "2607.13949",
+      "title": "Dolomite Mineral-Inspired Equilateral Triangular-Lattice Magnets for Quantum Magnetism",
+      "authors": [
+        "Yang Zhao",
+        "Zhaoyi Li",
+        "Zhibin Qiu",
+        "Jianqiao Wang",
+        "Bo Wen",
+        "Shu Guo"
+      ],
+      "abstract": "Equilateral triangular lattice magnets provide a versatile materials platform for exploring exotic quantum spin phenomena, while their field-tunable magnetic entropy offers opportunities for low-temperature adiabatic demagnetization refrigeration. Inspired by the natural mineral, we proposed a chemical strategy to achieve equilateral TL magnets, leveraging the high crystal symmetry of a large family of dolomite-type materials. As typical examples, the dolomite-type materials SnM(BO3)2 (M = Co, Mn) were synthesized, and structural analysis reveals that Co2+ and Mn2+ ions form equilateral triangular lattices with an A-B-C stacking fashion. The magnetic susceptibilities and specific heat measurements reveal dominant antiferromagnetic interactions, with Neel temperatures of 0.49K for SnCo(BO3)2 and 0.96K for SnMn(BO3)2, respectively. Our results establish the dolomite-type M'M(X)2 (M'and M sites allow various valence states, e.g., +4/+2 or +3/+3; X = CO32- or BO33-) system as a chemically flexible and structurally perfect material platform for exploring frustrated magnetism and low-temperature magnetocaloric applications.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13949v1",
+      "url": "https://arxiv.org/abs/2607.13949"
+    },
+    {
+      "arxiv_id": "2607.13947",
+      "title": "PRomop: A Decision-Ready Longitudinal Patient Health Record on the OMOP Common Data Model",
+      "authors": [
+        "Adam Blum",
+        "Louis Ferger-Andrews"
+      ],
+      "abstract": "Objective: Health systems and biopharma face a persistent gap between storing patient data and acting on it. Records are fragmented across providers, structured for storage rather than decision-making, and each downstream application independently reconstructs patient clinical state. We present PRomop (PatientRecord on OMOP), an open-source longitudinal patient record designed to close that gap.   Materials and Methods: PRomop extends the OMOP Common Data Model (CDM 5.4) with oncology extensions and introduces PatientRecord, a flattened projection that collapses each patient's longitudinal history into a single decision-ready row of 286 columns. Clinical state--including lines of therapy, disease status, and normalized biomarkers--is derived once during projection and materialized for reuse by analytics, clinical trial matching, and standard-of-care evaluation. We report production deployments and a controlled benchmark on synthetic data.   Results: PRomop is deployed by two independently governed oncology organizations--the HealthTree Foundation (14,000 blood-cancer patients) and CancerBot (3,500)--supporting trial matching across 19,500 actively recruiting trials in five cancer types. A representative 20-criterion eligibility query requiring 27-39 joins on raw OMOP requires none against PatientRecord (analytical estimate: 30x-200x reduction). In a benchmark using 100 Synthea-generated breast-cancer patients, eligibility screening averaged 0.92 ms versus 20.7 ms from raw OMOP, a 23.9x speedup.   Discussion and Conclusion: PatientRecord provides a shared, decision-ready foundation for downstream applications, eliminating repeated clinical-state derivation while preserving OMOP conformance. PRomop demonstrates that a flattened projection over a standards-based longitudinal record is a practical, deployed architecture for analytics, AI/ML, clinical trial matching, and decision support.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.DB",
+      "categories": [
+        "cs.DB"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13947v1",
+      "url": "https://arxiv.org/abs/2607.13947"
+    },
+    {
+      "arxiv_id": "2607.13893",
+      "title": "Revealing the MoS2 Growth Mechanism in Chemical Vapor Deposition: Real-Time Imaging and Statistical Analysis",
+      "authors": [
+        "Faizal Arifurrahman",
+        "Tianshu Zhai",
+        "Yuguo Wang",
+        "Jing Zhang",
+        "Andrew L. Hitt",
+        "Jun Lou",
+        "Ming Tang"
+      ],
+      "abstract": "Chemical Vapor Deposition (CVD) is a promising method for scalable synthesis of two-dimensional transitional metal dichalcogenides (TMDs) such as MoS2, but challenges in reproducibility and controllability persist due to an incomplete understanding of their dynamic growth mechanisms. While in-situ characterization methods could provide valuable insights, it remains challenging to track a large ensemble of crystals to enable quantitative, statistical analysis. Here, we address this gap by developing and applying a semi-automated image processing pipeline to analyze in-situ optical microscopy footage of MoS2 growth. This framework enables the high-throughput reconstruction of complete growth trajectories for over 400 individual crystals from a single experiment. Our statistical analysis demonstrates that MoS2 crystallization is governed by an edge-attachment-limited mechanism rather than by precursor diffusion. Furthermore, MoS2 crystals exhibit non-competitive growth, indicating that precursor supply does not limit the growth of neighboring flakes until physical impingement occurs. These findings provide direct, quantitative evidence that advances the fundamental understanding of TMD growth, establishing a powerful methodology for rational optimization of the CVD growth of two-dimensional materials.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13893v1",
+      "url": "https://arxiv.org/abs/2607.13893"
+    },
+    {
+      "arxiv_id": "2607.13878",
+      "title": "Realization and manipulation of spiral charge density waves in a two-dimensional metal",
+      "authors": [
+        "Lili Zhou",
+        "Ruizi Zhang",
+        "Chen Si",
+        "Zhaoteng Dong",
+        "Mengya Ren",
+        "Keru Guo",
+        "Can Zhang",
+        "Jizheng Wu",
+        "Fudi Zhou",
+        "Huixia Yang",
+        "Yaxin Zhao",
+        "Guoyuan Yang",
+        "Xiaolong Xu",
+        "Yuanxiao Ma",
+        "Xiao Kong",
+        "Yu Zhang",
+        "Yeliang Wang"
+      ],
+      "abstract": "Nearly degenerate charge-density-wave (CDW) states play a central role in the competition among collective phenomena. In real materials, however, these states are often intertwined by disorder, hindering their disentanglement and control. Here we show that strain can lift this near-degeneracy and spatially separate distinct CDW states in NbSe2. Using van der Waals (vdW) interactions, we stabilize a micron-scale strain network that produces spatially inhomogeneous strain fields. Within this landscape, the intrinsic 3 * 3 CDW superlattice of pristine NbSe2 transforms into an isolated unidirectional 4 * 1 order under 1D-confined compression, and into a 2 * 2 order under biaxial tension. The 4 * 1 CDW has a multiband origin and exhibits markedly enhanced thermal stability, persisting up to 70 K. At strain-network nodes, it further develops into chiral spiral textures, which can be melted by voltage pulses. These results establish strain as a powerful approach to disentangle, stabilize and manipulate competing electronic orders.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mes-hall",
+      "categories": [
+        "cond-mat.mes-hall"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13878v1",
+      "url": "https://arxiv.org/abs/2607.13878"
+    },
+    {
+      "arxiv_id": "2607.13875",
+      "title": "Lexicographic Direct Access with Functional Dependencies",
+      "authors": [
+        "Florent Capelli",
+        "Nofar Carmeli",
+        "Stefan Mengel"
+      ],
+      "abstract": "We study the complexity of lexicographic direct access to join query answers over databases that satisfy functional dependencies (FDs). More precisely, we give fine-grained lower and upper bounds on the preprocessing time required to achieve polylogarithmic access time. We start by considering the simple approach of a reordered extension, which first incorporates the FDs in the query and order, and then ignores the FDs during evaluation. We show that this simple approach gives tight bounds for unary FDs but fails for general FDs. We then consider a second approach, inspired by size bounds for query answers using information theory, that takes the FDs into account while materializing the bags of a decomposition tailored to the direct access task at hand. Interestingly, we show that the same reordering is also useful while constructing the decomposition in this second approach for reducing the complexity. While the obtained upper and lower bounds are generally not tight, we show that they yield a complete characterization of lexicographic direct access with linear preprocessing time. All lower bounds in this paper apply only to queries without self-joins and rely on the Zero-Clique Conjecture.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cs.DB",
+      "categories": [
+        "cs.DB"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13875v1",
+      "url": "https://arxiv.org/abs/2607.13875"
+    },
+    {
+      "arxiv_id": "2607.13870",
+      "title": "Phonon down-conversion by normal metals for superconducting devices",
+      "authors": [
+        "Guglielmo La Magna",
+        "Gianluigi Catelani"
+      ],
+      "abstract": "Thanks to low dissipation, superconducting devices are promising for a number of applications, such as detectors and implementations of quantum computation. However, their working can be adversely impacted by quasiparticles, which is why so-called quasiparticle poisoning mechanisms and their mitigation are under intense investigation. Here we focus on one poisoning mechanism, namely pair-breaking phonons, and its mitigation through down-conversion by a normal-metal film - the process in which scattering of high-energy phonons by electrons lowers the energy of the former below the pair-breaking threshold. To study the down-conversion, we introduce a model based on kinetic equations, which we solve both analytically (approximately) and numerically in the steady state. We use the solution the estimate a properly-defined down-conversion efficiency which depends on material parameters (such as the strength of electron-phonon interaction and the phonon transmission coefficient at interfaces) and film and substrate thicknesses. Interestingly, we find that the efficiency is nearly optimal over a finite range of metal thicknesses, with the minimum near-optimal thickness being typically of the order of a micron.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "cond-mat.mes-hall",
+      "categories": [
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con",
+        "quant-ph"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13870v1",
+      "url": "https://arxiv.org/abs/2607.13870"
+    },
+    {
+      "arxiv_id": "2607.13867",
+      "title": "Cradle of Life: From the Formation of Stars to Habitable Worlds with the SKAO",
+      "authors": [
+        "Eleonora Bianchi",
+        "Joseph R. Callingham",
+        "the Cradle of Life working group"
+      ],
+      "abstract": "This chapter provides an overview of the different science cases covered by the \"Cradle of Life\" working group, which aims to leverage the capabilities of the Square Kilometre Array Observatory (SKAO) to trace the physical and chemical pathways toward stars and planets formation, how such stars impact their planets, and whether life could exist in such conditions. At its highest frequencies, the SKAO will probe the earliest stages of the raw material fuelling planet formation, while enabling deep, unprecedented searches for prebiotic molecules both in high-mass and solar-type protostars. Concurrently, the lowest frequencies will be deployed to detect and characterize exoplanetary magnetic fields via their auroral radio emission, and the type of space weather a planet experiences from its host star. Across the entire frequency range, the SKA telescopes will conduct systematic searches of technosignatures. Together, these high-impact research areas establish a comprehensive roadmap for the SKAO to uncover the origins of life in the universe.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "astro-ph.SR",
+      "categories": [
+        "astro-ph.SR",
+        "astro-ph.EP",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13867v1",
+      "url": "https://arxiv.org/abs/2607.13867"
+    },
+    {
+      "arxiv_id": "2607.13835",
+      "title": "Neural-network-based material identification in photon-counting computed tomography using region-of-interest spectral features",
+      "authors": [
+        "A. Miadzvetski",
+        "V. Rozhkov",
+        "R. Sotenskii",
+        "D. Shashurin",
+        "G. Chelkov"
+      ],
+      "abstract": "This work investigates the feasibility of neural-network-based material identification based on photon-counting computed tomography (PCCT) data. The input data were spectral vectors extracted from regions of interest (ROIs) in reconstructed tomographic slices of a phantom containing La-, Nd-, and Gd-based samples, as well as air, water, bone, and polymethyl methacrylate (PMMA). The original tomographic slices were acquired at 12 detector threshold settings (THL = 45, 55, 65, 75, 85, 95, 105, 115, 125, 135, 145, 165). For model training, the spectra were interpolated onto a uniform grid from THL 45 to THL 165 with a step of one THL unit. Large ROIs, small ROIs, and their combined dataset were considered. To avoid an overestimated performance caused by correlated ROIs extracted from the same tomographic slice, the data were split into training, validation, and test subsets at the slice level.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "physics.ins-det",
+      "categories": [
+        "physics.ins-det"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13835v1",
+      "url": "https://arxiv.org/abs/2607.13835"
+    },
+    {
+      "arxiv_id": "2607.13797",
+      "title": "Experimental Characterization and Prediction of Radial and Thickness Mode Power Transfer Capability in Through-Metal Acoustic Power Transfer",
+      "authors": [
+        "Anwesha Mukhopadhyay",
+        "Avinash Arya",
+        "Daniel Costinett",
+        "Sarah S. Bedair",
+        "Victor Farm-Guoo Tseng"
+      ],
+      "abstract": "Through metal acoustic power transfer is an emerging wireless solution for battery charging in hazardous and sensitive environments where electronics are enclosed within sealed metal structures without electrical feed through. Power transfer is achieved utilizing reverse and direct piezoelectric effects via acoustic wave propagation through the metal barrier. The achievable power, often targeting hundreds of watts, is strongly influenced by different factors, such as, material properties, geometry, dimensions of the metal and piezo, and their bonding, making maximization of power transfer capability critical. This work experimentally investigates the terminal electrical characteristics of multiple prototypes, representing realistic scenarios. It compares power transfer capability in thickness and radial resonance modes for piezo metal assemblies, enabling appropriate mode selection and power electronics interface design. A figure of merit (FOM) is proposed for rapid screening and ranking of configurations as far as the power transfer capability is concerned.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "eess.SY",
+      "categories": [
+        "eess.SY"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13797v1",
+      "url": "https://arxiv.org/abs/2607.13797"
+    },
+    {
+      "arxiv_id": "2607.13793",
+      "title": "Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry",
+      "authors": [
+        "Lorenzo Cesario",
+        "Tim Lichtenberg",
+        "Mara Attia",
+        "Harrison Nicholls",
+        "Imre Kisvardai",
+        "Quentin Changeat"
+      ],
+      "abstract": "We demonstrate that the redox-sensitivity of mantle outgassing can trigger transient episodes of atmospheric re-inflation in highly irradiated and geochemically-reduced super-Earths, a mechanism we term reflation. Mantle redox governs the outgassing and speciation of CHONS volatiles, setting the background secondary atmospheric composition during extended photoevaporation at highly irradiated conditions. Using simulations of the coupled atmosphere-interior evolution of irradiated super-Earths, we illustrate that reduced mantles close to the iron-wustite buffer initially produce CO-dominated atmospheres. Hydrodynamic escape continuously removes volatiles while outgassing from the melt replenishes the atmosphere with H2, converted from H2O dissolved in the underlying magma ocean. This leads to a late-stage transition from C- to H-dominated gas that transiently re-inflates super-Earth atmospheres and decreases their bulk densities by up to $\\sim$60$\\%$ between several hundreds of Myr to Gyr after their formation, prior to complete atmospheric erosion by photoevaporation. In contrast, oxidised mantles, closer to Earth-like geochemistry, strongly buffer their atmospheric composition while exposed to hydrodynamic escape, producing monotonic radius deflation. Reflation events are triggered by geochemically-reduced mantles, intermediate escape efficiencies, high irradiation, and initial water inventories $\\gtrsim$ 5 Earth oceans. This redox-dependent evolutionary divergence hinges on the sensitive feedback between interior and atmospheric evolution serving as a potential tracer of historical geochemical state. Population-level reflation signatures of close-in super-Earths may thus serve as tracers of interior geochemistry and formation conditions.",
+      "published": "2026-07-15",
+      "updated": "2026-07-15",
+      "primary_category": "astro-ph.EP",
+      "categories": [
+        "astro-ph.EP"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2607.13793v1",
+      "url": "https://arxiv.org/abs/2607.13793"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

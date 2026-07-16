@@ -1,0 +1,1104 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov five factors social structure productive forces', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_4f9fae041e98583b)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov five factors social structure productive forces",
+  "results": [
+    {
+      "openalex_id": "W2170353571",
+      "doi": "10.1257/jep.28.3.109",
+      "title": "Informality and Development",
+      "authors": [
+        {
+          "name": "Rafael La Porta",
+          "openalex_id": "",
+          "institutions": [
+            "Dartmouth College"
+          ]
+        },
+        {
+          "name": "Andrei Shleifer",
+          "openalex_id": "A5110890240",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-07-30",
+      "abstract": "In developing countries, informal firms account for up to half of economic activity. They provide livelihood for billions of people. Yet their role in economic development remains controversial with some viewing informality as pent-up potential and others viewing informality as a parasitic organizational form that hinders economic growth. In this paper, we assess these perspectives. We argue that the evidence is most consistent with dual models, in which informality arises out of poverty and the informal and formal sectors are very different. It seems that informal firms have low productivity and produce low-quality products; and, consequently, they do not pose a threat to the formal firms. Economic growth comes from the formal sector, that is, from firms run by educated entrepreneurs and exhibiting much higher levels of productivity. The expansion of the formal sector leads to the decline of the informal sector in relative and eventually absolute terms. A few informal firms convert to formality, but more generally they disappear because they cannot compete with the much more-productive formal firms.",
+      "cited_by_count": 1415,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Economic Perspectives",
+        "type": "journal",
+        "issn": [
+          "0895-3309",
+          "1944-7965"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.28.3.109"
+      },
+      "topics": [
+        "Taxation and Compliance Studies",
+        "Microfinance and Financial Inclusion",
+        "Innovation and Socioeconomic Development"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W2170353571"
+    },
+    {
+      "openalex_id": "W4410773845",
+      "doi": "10.3390/su17114935",
+      "title": "How Does the Digital Ecosystem Foster New Quality Productive Forces? A Dynamic QCA of Sustainable Development Pathways in China",
+      "authors": [
+        {
+          "name": "Yanhua Li",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0009-0001-3786-748X",
+          "institutions": [
+            "North University of China"
+          ]
+        },
+        {
+          "name": "Tingyu Zhang",
+          "openalex_id": "A5034012892",
+          "institutions": [
+            "North University of China"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-05-27",
+      "abstract": "The digital ecosystem is playing an increasingly pivotal role in shaping the sustainable development of new quality productive forces (NQPFs), enabling cross-regional and cross-temporal optimization of production factors and efficiency enhancement. To uncover the complex mechanisms underpinning this process, this study constructs a \u201cWuli\u2013Shili\u2013Renli\u201d (WSR) framework to analyze how digital ecosystems drive NQPF development. Using panel data from 30 Chinese provinces (2019\u20132022), we employed dynamic qualitative comparative analysis (QCA) to explore the causal configurations and temporal\u2013spatial dynamics of this relationship. The key findings include: (1) the development of NQPFs necessitates the interaction among multiple objects, events, and individuals, and no single condition can be considered a necessary condition; (2) there are four distinct configuration pathways for high NQPF development: application-oriented comprehensive WSR-driven, innovation-oriented WR-driven, talent-supported WS-driven, and infrastructure-supported WS-driven; (3) in terms of the temporal dimension, no significant temporal effect is observed; (4) spatial heterogeneity is pronounced, with less developed regions facing constraints in leveraging digital ecosystems for NQPF growth. By disentangling the multidimensional roles of digital ecosystems in promoting sustainable productivity, this research provides empirical evidence and practical strategies for regional policymakers to optimize digital infrastructure, capitalize on local strengths, and bridge development gaps, ultimately fostering inclusive and efficient new quality productive forces aligned with global sustainability goals.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Sustainability",
+        "type": "journal",
+        "issn": [
+          "2071-1050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/17/11/4935/pdf?version=1748357039"
+      },
+      "topics": [
+        "Qualitative Comparative Analysis Research",
+        "Intellectual Property and Patents",
+        "Economic and Technological Innovation"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W4410773845"
+    },
+    {
+      "openalex_id": "W3125878831",
+      "doi": "10.1257/jep.27.1.23",
+      "title": "Patents and Innovation: Evidence from Economic History",
+      "authors": [
+        {
+          "name": "Petra Moser",
+          "openalex_id": "A5104099849",
+          "institutions": [
+            "National Bureau of Economic Research"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-01",
+      "abstract": "What is the optimal system of intellectual property rights to encourage innovation? Empirical evidence from economic history can help to inform important policy questions that have been difficult to answer with modern data: For example, does the existence of strong patent laws encourage innovation? What proportion of innovations is patented? Is this share constant across industries and over time? How does patenting affect the diffusion of knowledge? How effective are prominent mechanisms, such as patent pools and compulsory licensing, that have been proposed to address problems with the patent system? This essay summarizes results of existing research and highlights promising areas for future research.",
+      "cited_by_count": 453,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Economic Perspectives",
+        "type": "journal",
+        "issn": [
+          "0895-3309",
+          "1944-7965"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.27.1.23"
+      },
+      "topics": [
+        "Intellectual Property and Patents",
+        "Firm Innovation and Growth",
+        "Innovation Policy and R&D"
+      ],
+      "referenced_works_count": 99,
+      "url": "https://openalex.org/W3125878831"
+    },
+    {
+      "openalex_id": "W3088435379",
+      "doi": "10.1016/j.jbusres.2020.09.065",
+      "title": "Perceived corruption, business process digitization, and SMEs\u2019 degree of internationalization in sub-Saharan Africa",
+      "authors": [
+        {
+          "name": "Samuel Adomako",
+          "openalex_id": "A5024496075",
+          "orcid": "https://orcid.org/0000-0002-7139-0988",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Joseph Amankwah\u2010Amoah",
+          "openalex_id": "A5026548376",
+          "orcid": "https://orcid.org/0000-0003-0383-5831",
+          "institutions": [
+            "University of Kent"
+          ]
+        },
+        {
+          "name": "Shlomo Y. Tarba",
+          "openalex_id": "A5076666054",
+          "orcid": "https://orcid.org/0000-0002-1919-084X",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        },
+        {
+          "name": "Zaheer Khan",
+          "openalex_id": "A5003071337",
+          "orcid": "https://orcid.org/0000-0001-5538-3123",
+          "institutions": [
+            "University of Aberdeen"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-08",
+      "abstract": null,
+      "cited_by_count": 129,
+      "type": "article",
+      "source": {
+        "name": "Journal of Business Research",
+        "type": "journal",
+        "issn": [
+          "0148-2963",
+          "1873-7978"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Corporate Finance and Governance",
+        "International Business and FDI",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 178,
+      "url": "https://openalex.org/W3088435379"
+    },
+    {
+      "openalex_id": "W4224295940",
+      "doi": "10.29333/ejmste/12033",
+      "title": "STEM technology-based model helps create an educational environment for developing students' technical and creative thinking",
+      "authors": [
+        {
+          "name": "Aleksey A. Oschepkov",
+          "openalex_id": "A5080826244",
+          "orcid": "https://orcid.org/0000-0003-0755-4578"
+        },
+        {
+          "name": "Alexey V. Kidinov",
+          "openalex_id": "A5063364369",
+          "orcid": "https://orcid.org/0000-0002-1826-208X",
+          "institutions": [
+            "Financial University"
+          ]
+        },
+        {
+          "name": "Nigina S. Babieva",
+          "openalex_id": "A5045275444",
+          "orcid": "https://orcid.org/0000-0001-8076-3494",
+          "institutions": [
+            "Sechenov University"
+          ]
+        },
+        {
+          "name": "A.S. VRUBLEVSKIY",
+          "openalex_id": "A5004882639",
+          "orcid": "https://orcid.org/0000-0002-9973-8659",
+          "institutions": [
+            "Plekhanov Russian University of Economics"
+          ]
+        },
+        {
+          "name": "Eleonora V. Egorova",
+          "openalex_id": "A5108193035",
+          "institutions": [
+            "Ulyanovsk State University"
+          ]
+        },
+        {
+          "name": "\u0421. \u041f. \u0416\u0434\u0430\u043d\u043e\u0432",
+          "openalex_id": "A5091517369",
+          "orcid": "https://orcid.org/0000-0002-1330-8165",
+          "institutions": [
+            "Russian University of Transport",
+            "Moscow Region State University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-04-20",
+      "abstract": "For successful technology adaptation today, individuals need not so much acquired experience and knowledge as certain personality traits in the form of skills, competencies, and abilities for collaborative problem solving, as well as achievement motivation and self-development. The purpose of this study was to develop and test a model for the formation of personality traits associated with the development of technical and creative thinking. The study was conducted using the modeling method and a psychodiagnostic approach based on the characteristics of creative thinking. An experimental study was conducted with a sample of 120 students from Plekhanov Russian College of Economics. The age range of the respondents was from 19 to 21 years. The results showed 1) the characteristics and dynamics of students' value systems and creative thinking, 2) a developed program for the development of intrinsic motivation, 3) a model for designing a pedagogical environment for students' engineering and creative thinking in education STEM; 4) testing the developed programs and models. The results also showed that there is a statistically significant relationship between the development of students' intrinsic motivation and the reorientation from normative-limited to creative-free thinking. Considering the results of this study, it was concluded that the model developed by the authors helped to shape and develop students' engineering and creative thinking. Implications for further research and teaching are drawn.",
+      "cited_by_count": 28,
+      "type": "article",
+      "source": {
+        "name": "Eurasia Journal of Mathematics Science and Technology Education",
+        "type": "journal",
+        "issn": [
+          "1305-8215",
+          "1305-8223"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.ejmste.com/download/stem-technology-based-model-helps-create-an-educational-environment-for-developing-students-12033.pdf"
+      },
+      "topics": [
+        "Educational Innovations and Challenges",
+        "Psychology of Development and Education",
+        "Educational Methods and Teacher Development"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W4224295940"
+    },
+    {
+      "openalex_id": "W3199260623",
+      "doi": "10.37930/1990-9780-2021-3-69-82-91",
+      "title": "The impact of problematic factors on Saint-Petersburg\u2019s industrial sector: 2020 year in review",
+      "authors": [
+        {
+          "name": "Evgeny A. Gorin",
+          "openalex_id": "A5086828595"
+        },
+        {
+          "name": "Alexander A. Zolotarev",
+          "openalex_id": "A5072276811"
+        },
+        {
+          "name": "\u0421. \u0412. \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
+          "openalex_id": "A5101892851",
+          "orcid": "https://orcid.org/0000-0002-3460-2574"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "\u041c\u0410\u0422\u0415\u0420\u0418\u0410\u041b\u042b \u041a\u041e\u041d\u0424\u0415\u0420\u0415\u041d\u0426\u0418\u0418 \u00ab\u041f\u041b\u0410\u041d\u0418\u0420\u041e\u0412\u0410\u041d\u0418\u0415 \u0412 \u0420\u042b\u041d\u041e\u0427\u041d\u041e\u0419 \u042d\u041a\u041e\u041d\u041e\u041c\u0418\u041a\u0415:\u0412\u041e\u0421\u041f\u041e\u041c\u0418\u041d\u0410\u041d\u0418\u042f \u041e \u0411\u0423\u0414\u0423\u0429\u0415\u041c\u00bb",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Economic Revival of Russia",
+        "type": "journal",
+        "issn": [
+          "1990-9780"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.37930/1990-9780-2021-3-69-82-91"
+      },
+      "topics": [
+        "Innovation Policy and R&D"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W3199260623"
+    },
+    {
+      "openalex_id": "W2049623879",
+      "doi": "10.21435/sfh.12",
+      "title": "Modernisation in Russia since 1900",
+      "authors": [
+        {
+          "name": "Jeremy Smith",
+          "openalex_id": "A5110094462",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Markku Kangaspuro",
+          "openalex_id": "A5012381235",
+          "orcid": "https://orcid.org/0000-0002-5112-4244",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-27",
+      "abstract": "Modernisation has been a constant theme in Russian history at least since Peter the Great launched a series of initiatives aimed at closing the economic, technical and cultural gap between Russia and the more \u2018advanced\u2019 countries of Europe. All of the leaders of the Soviet Union and post-Soviet Russia have been intensely aware of this gap, and have pursued a number of strategies, some more successful than others, in order to modernise the country. But it would be wrong to view modernisation as a unilinear process which was the exclusive preserve of the state. Modernisation has had profound effects on Russian society, and the attitudes of different social groups have been crucial to the success and failure of modernisation. This volume examines the broad theme of modernisation in late imperial, Soviet, and post-Soviet Russia both through general overviews of particular topics, and specific case studies of modernisation projects and their impact. Modernisation is seen not just as an economic policy, but as a cultural and social phenomenon reflected through such diverse themes as ideology, welfare, education, gender relations, transport, political reform, and the Internet. The result is the most up to date and comprehensive survey of modernisation in Russia available, which highlights both one of the perennial problems and the challenges and prospects for contemporary Russia.",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://oa.finlit.fi/site/books/10.21435/sfh.12/download/7745/"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 284,
+      "url": "https://openalex.org/W2049623879"
+    },
+    {
+      "openalex_id": "W2560635536",
+      "doi": "10.1016/j.ruje.2016.11.002",
+      "title": "Institutional constraints and economic development",
+      "authors": [
+        {
+          "name": "E. Gurvich",
+          "openalex_id": "A5047179518",
+          "orcid": "https://orcid.org/0000-0002-4356-1866",
+          "institutions": [
+            "Economic Expert Group (Russia)"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-01",
+      "abstract": "This article is an attempt to find a grounded answer to the question of why many large-scale economic development programs worked out in Russia from 2000 through 2010 have failed to yield the expected results. To this end, the author has diagnosed the Russian economy, including a comparative analysis against 20 countries at similar levels of development and analyzed both the Russian and global experience in developing and implementing economic programs. The author concludes that the development of the Russian economy is currently hindered by a rigid institutional framework and that growth cannot accelerate without removing it as part of the political process. Based on the analysis of various types of institutional reforms, specific measures are proposed that can ensure the country's evolutional development and can mitigate the economic and social risks threatening Russia if the status quo is maintained.",
+      "cited_by_count": 53,
+      "type": "article",
+      "source": {
+        "name": "Russian Journal of Economics",
+        "type": "journal",
+        "issn": [
+          "2405-4739",
+          "2618-7213"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://rujec.org/article/27975/download/pdf/"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Economic Growth and Productivity",
+        "Natural Resources and Economic Development"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W2560635536"
+    },
+    {
+      "openalex_id": "W3149680428",
+      "doi": "10.57938/2875a783-043e-4b10-879a-720dfc1db860",
+      "title": "Uncertainty and exploitation in history",
+      "authors": [
+        {
+          "name": "Engelbert Stockhammer",
+          "openalex_id": "A5008415036",
+          "orcid": "https://orcid.org/0000-0002-5329-3535"
+        },
+        {
+          "name": "Paul Ramskogler",
+          "openalex_id": "A5069245961"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-11-01",
+      "abstract": "The paper builds on the Marxist concept of exploitation to explore the meaning of the Post Keynesian notion of uncertainty. Uncertainty is mediated by institutions and is distributed unevenly among different social groups. As different historical social formations entail different institutional structures, the distribution and nature of uncertainty also differ. The configurations between class relations and uncertainty are analyzed for the capitalist, feudal and slave modes of production. It is demonstrated that modes of production do not only imply specific exploitative relations but also different relative distributions of uncertainty amongst classes. Joining Marxian and Post Keynesian approaches allows a richer understanding of exploitive relations and illuminates the full societal impact of uncertainty. It is shown that only in capitalism is the exploited class exposed to a substantial degree of economic uncertainty. (author's abstract)",
+      "cited_by_count": 28,
+      "type": "article",
+      "source": {
+        "name": "WU Research",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.wu.ac.at/de/publications/2875a783-043e-4b10-879a-720dfc1db860"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Policy",
+        "Economic Theory and Institutions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3149680428"
+    },
+    {
+      "openalex_id": "W4405347334",
+      "doi": "10.34660/inf.2021.70.25.003",
+      "title": "PROTECTION OF RIGHTS AS A TYPE OF SOCIAL ACTIVITY: CONCEPT, CONTENT, FORMS",
+      "authors": [
+        {
+          "name": "\u0410. \u0412. \u041f\u0435\u0442\u0440\u043e\u0432",
+          "openalex_id": "A5002377800",
+          "orcid": "https://orcid.org/0000-0001-7580-7202",
+          "institutions": [
+            "N. I. Lobachevsky State University of Nizhny Novgorod"
+          ]
+        },
+        {
+          "name": "N.J. Kirjushina",
+          "openalex_id": "A5115423799",
+          "institutions": [
+            "N. I. Lobachevsky State University of Nizhny Novgorod"
+          ]
+        },
+        {
+          "name": "A.V. Shartynova",
+          "openalex_id": "A5115423800",
+          "institutions": [
+            "N. I. Lobachevsky State University of Nizhny Novgorod"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-12",
+      "abstract": "The current epidemiological crisis has caused a stir in the discussion of the topic of organizing remote work places in both foreign and Russian companies.The article presents the results of the author's research on the organization of remote work in the \"Teleperformance Russia Group\" based on a survey of its employees.The key problems of adaptation of workers who have chosen a remote mode of work are considered.Recommendations are formulated for the management of organizations and companies aimed at rationalizing and optimizing the adaptation processes of remote workers.In preparing the article, the recommendations of individual scientists, researchers, given in the list of references, were used.",
+      "cited_by_count": 7,
+      "type": "conference-paper",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.34660/inf.2021.70.25.003"
+      },
+      "topics": [
+        "Legal and Policy Issues"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4405347334"
+    },
+    {
+      "openalex_id": "W4300175369",
+      "doi": "10.31979/oer.005",
+      "title": "Marx's Theory of History",
+      "authors": [
+        {
+          "name": "William H. Shaw",
+          "openalex_id": "A5111553392"
+        }
+      ],
+      "publication_year": 1978,
+      "publication_date": "1978-01-01",
+      "abstract": "EARLIER v ER s Io N of this essay was submitted as a disser-~ tation to the London School of Economics and Political Science. I am grateful to them and to the Leverhulme Foundation for the financial support which allowed me to carry out the",
+      "cited_by_count": 60,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1004&context=oer"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Marxism and Critical Theory",
+        "Political Theory and Influence"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W4300175369"
+    },
+    {
+      "openalex_id": "W2608260329",
+      "doi": "10.1453/ter.v4i1.1234",
+      "title": "The Effect of Corruption on Foreign Direct Investment: A Panel Data Study",
+      "authors": [
+        {
+          "name": "Manamba Epaphra",
+          "openalex_id": "A5019912810",
+          "orcid": "https://orcid.org/0000-0002-3515-6086",
+          "institutions": [
+            "Institute of Accountancy Arusha"
+          ]
+        },
+        {
+          "name": "John Massawe",
+          "openalex_id": "A5034441462"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-31",
+      "abstract": "Foreign direct investment (FDI) has become an important factor of development in low income countries. At the same time, corruption continues to be one of the greatest obstacles to economic and social development in these countries. However, in East Africa, the study of the nature of corruption as well as its relationship with FDI is scanty in socio-economic literature. In addition, the existing literature provides controversial results. Motivated by these issues, this paper examines the effects of corruption on FDI inflows by incorporating an econometric method based on panel data from 5 East African countries over the 1996-2015 period. The paper contributes to the existing literature by modeling the relationship between corruption and FDI inflows using two measures of corruption, namely corruption perception index (CPI) and control of corruption (CC). Equally important, both economic factors such as GDP per capita, GDP growth, inflation and degree of openness, and quality of institutions or governance indicators such as voice and accountability, political stability and absence of violence, government effectiveness and rule of law are considered in the analysis. Data were obtained from Transparency International, World Bank Development Indicators, Worldwide Governance Indicators and United Nations Conference on Trade and Development. Analytically the paper uses fixed effects (FE) as the preferable model. The results show that the corruption level in the host country has an adverse effect on FDI inflows when eliminating GDP per capita in the regression. Nonetheless, the results show that the GDP per capita as a proxy for market size and country\u2019s quality of institutions are more important than the level of corruption in encouraging FDI inflows into the country. The key implication of these results is that improvement in the quality of institutions and control of corruption may be an important strategy for increase FDI inflows. The key implication of these results is that an increase in the real GDP per capita, improvement in the quality of institutions as well as control of corruption may be an important strategy for increase FDI inflows.",
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "KSP Journals - Journal of Economics Bibliography",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://kspjournals.org/index.php/TER/article/view/1234"
+      },
+      "topics": [
+        "Economic Growth and Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2608260329"
+    },
+    {
+      "openalex_id": "W2996772666",
+      "doi": "10.37043/jura.2019.11.2.3",
+      "title": "REGIONAL COMPETITIVENESS RESPONSE TO INNOVATION CHANGES: ISSUES OF EVALUATION",
+      "authors": [
+        {
+          "name": "Aleksandra Polyakova",
+          "openalex_id": "A5031740156",
+          "orcid": "https://orcid.org/0000-0002-3674-4111",
+          "institutions": [
+            "Plekhanov Russian University of Economics",
+            "Industrial University of Tyumen"
+          ]
+        },
+        {
+          "name": "Vladimir Kolmakov",
+          "openalex_id": "A5102947147",
+          "orcid": "https://orcid.org/0000-0002-2801-4290",
+          "institutions": [
+            "Plekhanov Russian University of Economics"
+          ]
+        },
+        {
+          "name": "Olga Yamova",
+          "openalex_id": "A5001914759",
+          "institutions": [
+            "Industrial University of Tyumen"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-12-30",
+      "abstract": "Our research addresses regional competitiveness as the function of innovation activity. We use 15 indicators to cluster the Russian regions in five different groups, and to propose and to estimate the composite competitiveness quotient of a region in order to further regress it by innovation activity indicators. We prove that different groups of regions \u2013 \u201cpotential competitiveness leaders\u201d, \u201ctraditional competitiveness factor employers\u201d, \u201ccompetitiveness outsiders\u201d, \u201cmoderate competitiveness regions\u201d, \u201ccompetitiveness leaders\u201d \u2013 are prone to respond to innovation parameters change in a different manner, thus uniform regulation and strategies are irrelevant. We contribute to the methodology of regional competitiveness estimation by presenting a ready-to-deploy set of data structures and model propositions. Our measure of competitiveness is economy related and easily adjustable regarding the specific innovation phenomena that influence the corporate and aggregate performance, value or efficiency of regions.",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Journal of Urban and Regional Analysis",
+        "type": "journal",
+        "issn": [
+          "2067-4082",
+          "2068-9969"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.jurareview.ro/resources/pdf/volume_28_regional_competitiveness_response_to_innovation_changes:_issues_of_evaluation_abstract.pdf"
+      },
+      "topics": [
+        "Global Trade and Competitiveness",
+        "Regional Development and Policy",
+        "Economic and Technological Innovation"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2996772666"
+    },
+    {
+      "openalex_id": "W4322762318",
+      "doi": "10.1016/j.techfore.2023.122451",
+      "title": "Do financial innovations improve financial inclusion? Evidence from mobile money adoption in Africa",
+      "authors": [
+        {
+          "name": "D\u00e9sir\u00e9 Avom",
+          "openalex_id": "A5020689227",
+          "orcid": "https://orcid.org/0000-0002-5793-4547",
+          "institutions": [
+            "Centre d'Etudes et de Recherches Appliqu\u00e9es \u00e0 la Gestion",
+            "Universit\u00e9 de Yaound\u00e9 I",
+            "Universit\u00e9 de Yaound\u00e9 II"
+          ]
+        },
+        {
+          "name": "Chrysost Bangak\u00e9",
+          "openalex_id": "A5103994884",
+          "institutions": [
+            "Universit\u00e9 d'Artois",
+            "Lille \u00c9conomie Management",
+            "Universit\u00e9 de Lille"
+          ]
+        },
+        {
+          "name": "Hermann Ndoya",
+          "openalex_id": "A5077328374",
+          "orcid": "https://orcid.org/0000-0001-9989-4267",
+          "institutions": [
+            "Direction de la Recherche Fondamentale",
+            "Universit\u00e9 de Dschang"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-02",
+      "abstract": null,
+      "cited_by_count": 72,
+      "type": "article",
+      "source": {
+        "name": "Technological Forecasting and Social Change",
+        "type": "journal",
+        "issn": [
+          "0040-1625",
+          "1873-5509"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hal.science/hal-04125452/document"
+      },
+      "topics": [
+        "Microfinance and Financial Inclusion",
+        "Economic Growth and Development",
+        "FinTech, Crowdfunding, Digital Finance"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W4322762318"
+    },
+    {
+      "openalex_id": "W2014466562",
+      "doi": "10.1525/aa.1962.64.3.02a00050",
+      "title": "Two Converging Lines of Influence in Cultural Evolutionary Theory",
+      "authors": [
+        {
+          "name": "Morris E. Opler",
+          "openalex_id": "A5037040395",
+          "institutions": [
+            "Cornell University"
+          ]
+        }
+      ],
+      "publication_year": 1962,
+      "publication_date": "1962-06-01",
+      "abstract": "carriers. The dependence of science and technology on the conservation and communication of knowledge-on the development of common labels and vocabularies-dramatized the role of the symbol in culture building and stimulated the study of the relationship between language and culture. The success in probing the secrets of nature-the development through scientific research of marvels that overshadow even those pictured in Holy Writfostered an impatience with revelation and a generous optimism concerning what could be accomplished in man's interests through the application of science, conceived in practical form as the control and utilization of energy for human purposes. All of these tendencies and convictions are present in the writings of Ostwald and many of his contemporaries.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "American Anthropologist",
+        "type": "journal",
+        "issn": [
+          "0002-7294",
+          "1548-1433"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1525/aa.1962.64.3.02a00050"
+      },
+      "topics": [
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2014466562"
+    },
+    {
+      "openalex_id": "W3014298612",
+      "doi": "10.35808/ijeba/440",
+      "title": "Public Survey Instruments for Business Administration Using Social Network Analysis and Big Data",
+      "authors": [
+        {
+          "name": "Vladimir Kolmakov",
+          "openalex_id": "A5102947147",
+          "orcid": "https://orcid.org/0000-0002-2801-4290"
+        },
+        {
+          "name": "L.N. Rudneva",
+          "openalex_id": "A5022423321"
+        },
+        {
+          "name": "Eleftherios Thalassinos",
+          "openalex_id": "A5010462592",
+          "orcid": "https://orcid.org/0000-0003-3526-4930"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-01",
+      "abstract": "The subject matter of this research is closely intertwined with the scientific discussion about the necessity of developing and implementing practice-oriented means of measuring social well-being taking into account the intensity of contacts between individuals. The aim of the research is to test the toolkit for analyzing social networks and to develop a research algorithm to identify sources of consolidation of public opinion and key agents of influence. The research methodology is based on postulates of sociology, graph theory, social network analysis and cluster analysis. Design/Methodology/Approach: The basis for the empirical research was provided by the data representing the reflection of social media users on the existing image of Russia and its activities in the Arctic, chosen as a model case.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Economics and Business Administration",
+        "type": "journal",
+        "issn": [
+          "2241-4754"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.ijeba.com/journal/440/download"
+      },
+      "topics": [
+        "Sociopolitical Dynamics in Russia",
+        "Social and Behavioral Studies"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W3014298612"
+    },
+    {
+      "openalex_id": "W4383955492",
+      "doi": "10.3390/economies11070187",
+      "title": "A Theoretical Review of Socio-Economic Dynamics and Structural Transformation of Society: Traits and Constraints in Validating Response Processes Due to Unpredictable Factors",
+      "authors": [
+        {
+          "name": "Sergey Vasin",
+          "openalex_id": "A5059938528",
+          "orcid": "https://orcid.org/0000-0002-0371-5517",
+          "institutions": [
+            "Penza State University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-10",
+      "abstract": "To investigate and create theories of socio-economic dynamics has always been relevant for professionals in theoretical and applied economics. These theories are urgent in periods of global and catastrophic events since, on the one hand, they can explain the emergence of critical structural changes in society, and on the other hand, they can determine the likelihood of surviving of crisis processes. However, there are some drawbacks involved therein, and the poor ability to predict unexpected and shocking events, such as the COVID-19 pandemic, is a key one. The presented review outlines transformation patterns of socio-economic systems stemming from diverse contradictions. Some widely known transformation theories of socio-economic systems are presented. The major traits of such theories and specific approaches to explaining the features of the emergence and development of dynamic processes are demonstrated. The feasibility of practical application, as well as constraints in explaining and predicting the transformation of society, is indicated. Some theories that consider the transformation of society as a distinct process are specified, and approaches that characterize major transformations as elements of socio-economic dynamics are defined.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Economies",
+        "type": "journal",
+        "issn": [
+          "2227-7099"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-7099/11/7/187/pdf?version=1689135091"
+      },
+      "topics": [
+        "Economic Development and Digital Transformation",
+        "Economic and Technological Innovation",
+        "Economic and Technological Developments in Russia"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W4383955492"
+    },
+    {
+      "openalex_id": "W4382180340",
+      "doi": "10.30884/seh/2023.01.07",
+      "title": "Historical Materialism: Does the Concept Have a Future?",
+      "authors": [
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5030688553",
+          "orcid": "https://orcid.org/0000-0003-0278-2619",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Institute of Oriental Studies"
+          ]
+        },
+        {
+          "name": "\u0410\u043d\u0442\u043e\u043d \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5058810903",
+          "orcid": "https://orcid.org/0000-0003-0912-0423",
+          "institutions": [
+            "Lomonosov Moscow State University",
+            "Moscow State University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": "The article examines academic and intellectual merits of the central part of Marxism -historical materialism.The authors argue that historical materialism has many valuable findings and conclusions and analyze some of them, showing that they together with its methodology can be helpful for social scientist and for a historian theorizing and aspiring for wide analogues.There are given new explanations to this phenomenon as the restrictions are revealed of the existing model of historical materialism.A peculiar attention is paid to Marx's conclusion that the changing developmental level of productive forces inevitably leads to changes in all other spheres of societal life; moreover, these changes proceed far from automatically and immediately but through the resolution of structural and systemic crisis in a society.The article presents a survey on the history of the Western studies within historical materialism framework starting from the end of the nineteenth century at the general background of the ups and downs of the Western Marxism and its crisis after the collapse of socialism.The authors show the waves of the Western Marxists' attenuating and increasing interest in historical materialism.The latter to a certain extent should be considered as a program for scientific research which is far from its realization.The authors make a conclusion that today one can hardly work within the framework of historical materialism conception since many of its postulates should be revised.It is very important, that historical materialism can affect social science mainly in an indirect way through a creative acquiring and interpretation of its method, approaches, and par-",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Social Evolution & History",
+        "type": "journal",
+        "issn": [
+          "1681-4363"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sociostudies.org/upload/socionauki.ru/journal/seh/2023_1/007_Grinin.pdf"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W4382180340"
+    },
+    {
+      "openalex_id": "W4393141868",
+      "doi": "10.3390/smartcities7020034",
+      "title": "Exploring the Symbiotic Relationship between Digital Transformation, Infrastructure, Service Delivery, and Governance for Smart Sustainable Cities",
+      "authors": [
+        {
+          "name": "Dillip Kumar Das",
+          "openalex_id": "A5058104427",
+          "orcid": "https://orcid.org/0000-0003-3071-6109",
+          "institutions": [
+            "University of KwaZulu-Natal"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-25",
+      "abstract": "Infrastructure, service delivery, governance, and digital transformation stand as indispensable cornerstones, playing pivotal roles in the establishment of intelligent and sustainable urban centers. While the extant literature has underscored the significance of each of these elements, their interconnected and symbiotic relationship demands a more profound exploration. Grounded in a systematic review of the existing literature and relevant case studies, this paper explored the intricate interplay between digital transformation, infrastructure development, service delivery, and governance in contemporary society, all in the pursuit of cultivating smart sustainable cities. It contends that by collaboratively working together, these four pillars possess the transformative potential to turn cities into smart and sustainable cities. Digital transformation emerges as the catalyst, propelling innovation and efficiency, while infrastructure forms the bedrock for the seamless delivery of services. Effective governance, in turn, ensures alignment with the evolving needs of citizens. In essence, this study underscores the transformative power of combined action, asserting that the interdependent elements within can transform cities beyond merely having smart or sustainable status to become smart sustainable cities. This paradigm shift harmonizes technological advancements with the foundational goals of sustainable development, steering towards a holistic and inclusive urban future.",
+      "cited_by_count": 117,
+      "type": "article",
+      "source": {
+        "name": "Smart Cities",
+        "type": "journal",
+        "issn": [
+          "2624-6511"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2624-6511/7/2/34/pdf?version=1711358274"
+      },
+      "topics": [
+        "Smart Cities and Technologies",
+        "Economic and Technological Systems Analysis",
+        "Innovative Approaches in Technology and Social Development"
+      ],
+      "referenced_works_count": 168,
+      "url": "https://openalex.org/W4393141868"
+    },
+    {
+      "openalex_id": "W2898147740",
+      "doi": null,
+      "title": "The Struggle for Hegemony and the Articulation of Plurinationality: Contrasting Visions of Social Change and State Transformation in Bolivia\u2019s Proceso de Cambio",
+      "authors": [
+        {
+          "name": "Aaron Augsburger",
+          "openalex_id": "A5002079892",
+          "orcid": "https://orcid.org/0000-0001-8362-5732"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Evo Morales and the MAS came to power in 2006 promising fundamental social, cultural, economic and political change, what they called el proceso de cambio (the process of change). While Bolivia has witnessed a number of important social, political, and economic changes, while also experiencing the most prolonged period of political stability in its history, significant disputes over land, territory, resources, identity, democracy, and the state remain. These differences have provoked conflicts over the vision, future direction, and transformational potential of Bolivia\u2019s process of change. In this dissertation I argue that the central axis along which many of these conflicts rest can be theorized as an antagonism between two differing visions of social change and state transformation, conceptualized on the one hand as a struggle for hegemony, and on the other hand as a demand for plurinationality. Based on 16 months of ethnographic fieldwork, I argue that Morales and the MAS have pursued a vision of state-centered hegemonic change. In contrast, many of the actors that brought Morales to power have challenged the very legitimacy of the nation-state form and its culturally homogenizing practices. As an alternative, they offer a vision of plurinationality that seeks to \u201crefound\u201d Bolivia and recognize the cultures, economies, systems of social and political organization, and overall world visions that co-exist and interact within the geographic boundaries of the country.",
+      "cited_by_count": 3,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/5m41477m"
+      },
+      "topics": [
+        "Politics and Society in Latin America",
+        "Political and Social Dynamics in Chile and Latin America",
+        "Latin American Cultural Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2898147740"
+    },
+    {
+      "openalex_id": "W2109837901",
+      "doi": null,
+      "title": "Rethinking the Culture - Economy Dialectic",
+      "authors": [
+        {
+          "name": "Lajos L. Brons",
+          "openalex_id": "A5050090080",
+          "orcid": "https://orcid.org/0000-0002-0890-5678"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "The culture - economy dialectic (CED), the opposition of the concepts and phenomena of culture and economy, is one of the most important notions in the modern history of ideas. Both the disciplinary boundaries and much theoretical thought in social science are strongly influenced or even determined by the CED. Hence, a thorough analysis and evaluation of the CED might be useful to better understand the history of ideas in social science and the currently fashionable research on the cultural influences on economic differences between countries and regions.\\n\\nThis book, my PhD thesis, attempts to do just that. The concepts of \"culture\" and \"economy\" (and related concepts) and the (assumed) relationships therebetween are compared and analysed. Empirical results from earlier studies are summarised and some new test are presented. These new tests are partly based on a measurement of Dutch regional culture. However, it appeared that most theories of the CED are (nearly) impossible to (empirically) verify. There seems to be some influence of wealth on specific cultural phenomena (such individualism and post-materialism), but the often assumed influence of culture on entrepreneurship and economic growth remains unconfirmed. Moreover, from an analysis of the theories themselves, it appears that most of these cannot be falsified and are, therefore, hardly 'scientific'.\\n\\nMany of the theories of the CED and, in fact, many theories of social science in general are of a conceptual rather than a causal nature. These theories cannot easily be falsified by empirical means alone, but must be studied by means of conceptual analysis. In the final conclusions, this book, therefore, argues for conceptual analysis in, and a more anarchist approach to, social science.",
+      "cited_by_count": 14,
+      "type": "report",
+      "source": {
+        "name": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://mpra.ub.uni-muenchen.de/1625/1/MPRA_paper_1625.pdf"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Economic Analysis and Policy"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2109837901"
+    },
+    {
+      "openalex_id": "W616326824",
+      "doi": "10.31390/gradschool_dissertations.2170",
+      "title": "Problems of modernization in late imperial Russia: Maksim M. Kovalevskii on social and economic reform",
+      "authors": [
+        {
+          "name": "Evgeny Badredinov",
+          "openalex_id": "A5004705703",
+          "institutions": [
+            "Louisiana State University Agricultural Center"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-05-18",
+      "abstract": "The problems of social and economic reform were at the center of academic and political activities of Maksim M. Kovalevskii (1851-1916), a prominent Russian historian and sociologist. The comparative study of rural communal institutions led him to conclude that the village commune remained a viable social and economic institution in late imperial Russia. Although he believed firmly in private agriculture, he criticized the Stolypin land reform for attempting to pressure peasants to separate from communes. Kovalevskii argued that in a country dominated by communal traditions the state must not destroy the collective economy by legislative fiat. He urged Russian policy-makers to support the village commune instead of destroying it and pointed to substantial evidence of the commune's economic potential. Recent studies have confirmed Kovalevskii's assertions that communal economic arrangements in the post-Emancipation Russian village were flexible enough to allow for innovation and improvement. Kovalevskii's analysis challenges us to revise our understanding of rural communal institutions and of the general dynamic of social and economic change.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=3169&context=gradschool_dissertations"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Soviet and Russian History",
+        "Agricultural Development and Policies"
+      ],
+      "referenced_works_count": 397,
+      "url": "https://openalex.org/W616326824"
+    },
+    {
+      "openalex_id": "W4387402396",
+      "doi": "10.1057/s42214-023-00167-y",
+      "title": "Geopolitics, conflict, and decoupling: evidence of Western divestment from Russia during 2022",
+      "authors": [
+        {
+          "name": "Simon J. Evenett",
+          "openalex_id": "A5050765674",
+          "orcid": "https://orcid.org/0000-0002-9323-7474",
+          "institutions": [
+            "University of St.Gallen"
+          ]
+        },
+        {
+          "name": "Niccol\u00f2 Pisani",
+          "openalex_id": "A5055209420",
+          "orcid": "https://orcid.org/0000-0002-5304-3472"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-06",
+      "abstract": "Abstract How foreign firms doing business in Russia responded to the invasion of Ukraine in 2022 has received extensive media scrutiny. Publication lags in official and private databases on international corporate activity, traditionally used to investigate cross-national commercial ties, preclude short-term assessments of foreign firms\u2019 responses. However, as geopolitical events unfold quickly, such assessments can offer valuable insights. In this paper, we advocate for and implement a replicable, near-time methodology that is executed at arms-length to track foreign corporate responses to geopolitical events which can inform both academic debate and policy deliberation. We apply it to the ongoing Russia\u2013Ukraine conflict, estimating Western corporate divestment rates from Russia during the first 9 months of the conflict. Our findings, confirmed by extensive robustness checks, result in divestment rates in the range of 5\u201313%. This range is interpreted in light of the prevailing sanctions regime as well as the divestment rate witnessed after Russia\u2019s invasion of Crimea in 2014. We also discuss the competing, often policy-induced, incentives facing international business during a time of growing geopolitical rivalry and draw implications for the design of sanctions regimes. Avenues for future research are also outlined.",
+      "cited_by_count": 58,
+      "type": "article",
+      "source": {
+        "name": "Journal of International Business Policy",
+        "type": "journal",
+        "issn": [
+          "2522-0691",
+          "2522-0705"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/s42214-023-00167-y.pdf"
+      },
+      "topics": [
+        "Economic Sanctions and International Relations",
+        "Environmental and Biological Research in Conflict Zones"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W4387402396"
+    },
+    {
+      "openalex_id": "W2101453464",
+      "doi": "10.1080/00213624.2008.11507120",
+      "title": "Uncertainty and Exploitation in History",
+      "authors": [
+        {
+          "name": "Engelbert Stockhammer",
+          "openalex_id": "A5008415036",
+          "orcid": "https://orcid.org/0000-0002-5329-3535",
+          "institutions": [
+            "Vienna University of Economics and Business"
+          ]
+        },
+        {
+          "name": "Paul Ramskogler",
+          "openalex_id": "A5069245961",
+          "institutions": [
+            "Vienna University of Economics and Business"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-03-01",
+      "abstract": "The paper builds on the Marxist concept of exploitation to explore the meaning of the Post Keynesian notion of uncertainty. Uncertainty is mediated by institutions and is distributed unevenly among different social groups. As different historical social formations entail different institutional structures, the distribution and nature of uncertainty will also differ. The configurations between class relations and uncertainty are analyzed for the capitalist, feudal and slave modes of production. It is demonstrated that modes of production do not only imply specific exploitative relations but also different relative distributions of uncertainty amongst classes. The joining of Marxian and Post Keynesian approaches allows for a richer understanding of exploitive relations and illuminates the full societal impact of uncertainty. It is shown that only in capitalism is the exploited class exposed to a substantial degree of economic uncertainty.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Journal of Economic Issues",
+        "type": "journal",
+        "issn": [
+          "0021-3624",
+          "1946-326X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/abs/10.1080/00213624.2008.11507120"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Policy",
+        "Economic Theory and Institutions"
+      ],
+      "referenced_works_count": 122,
+      "url": "https://openalex.org/W2101453464"
+    },
+    {
+      "openalex_id": "W2171239180",
+      "doi": "10.1017/s0020859000004296",
+      "title": "The Works of Marx and Engels in Ethnology Compared",
+      "authors": [
+        {
+          "name": "Lawrence Krader",
+          "openalex_id": "A5039352788"
+        }
+      ],
+      "publication_year": 1973,
+      "publication_date": "1973-08-01",
+      "abstract": "The separation of the contributions to the theory and practice of socialism by Karl Marx and Friedrich Engels was not seriously posited during their lifetimes, but only in the following generation. The separation, as opposed to the contributions of their entire working lives, of the respective quality of thinking in either case, was a matter of which Engels was conscious, for he wrote: \u201cMarx was a genius, we others were at best talents. Without him the theory today would be far from what it is. Therefore it rightly bears his name.\u201d The evaluation by Engels of the relation between the two was duly repeated by their biographers. Mehring wrote: \u201cThere is no doubt that Marx was philosophically the greater of the two and that his brain was more highly trained.\u201d Mayer compared the two: \u201cMarx was driven by the harsh goad of genius; Engels lived under the gentler domination of his rich humanity.\u201d Ryazanov simply posited that the collaboration of the two and their mutual support proceeded in perfect harmony, with the minor thesis of Engels's supportive role. Both Mehring and Ryazanov cited Engels's own words of modesty quoted above. Auguste Cornu has written with reference to the beginning of the collaboration: \u201cEngels' study of the origin of communism was more on the economic and social level than on the philosophical and political plane, and portrayed it as a necessary product of the development of capitalist society. This lent definition to Marx's still theoretical and abstract conception.\u201d Cornu, who is of the orthodox school, had reference to the articles on political economy in the Deutsch-Franz\u00f6sische Jahrb\u00fccher (1844) by Engels. While he concedes nothing to the higher intellectual attainments of one over the other, he develops the theme of the power of abstraction of Marx, of concretion of Engels. That there was identity of thought and activity of Marx and Engels is the view which seeks to establish orthodoxy of the socialist doctrines of various parties; the qualitative difference of their brain power, accordingly, implies no difference in the substance of the production in either, whether in the theory or practice of socialism resp. communism.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/10E59AA8458A9DCDD05AEAB492871B7F/S0020859000004296a.pdf/div-class-title-the-works-of-marx-and-engels-in-ethnology-compared-div.pdf"
+      },
+      "topics": [
+        "World Systems and Global Transformations",
+        "Soviet and Russian History",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2171239180"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

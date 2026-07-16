@@ -1,0 +1,19 @@
+[fetch_iep.py] Connecting to Internet Encyclopedia of Philosophy...
+[fetch_iep.py] Fetching IEP article: russian
+[fetch_iep.py] Parsing article content...
+[fetch_iep.py] Article fetched: Internet Encyclopedia of Philosophy
+{
+  "status": "success",
+  "source": "iep",
+  "query": "russian",
+  "results": [
+    {
+      "url": "https://iep.utm.edu/russian/",
+      "entry_name": "russian",
+      "title": "Internet Encyclopedia of Philosophy",
+      "sections": {}
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

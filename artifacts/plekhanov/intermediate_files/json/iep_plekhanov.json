@@ -1,0 +1,125 @@
+[search_iep.py] Connecting to Brave API for iep_via_brave search...
+[search_iep.py] Searching iep.utm.edu: 'Georgi Plekhanov', limit=20
+[search_iep.py] Retrieved 15 entries...
+[search_iep.py] Search complete: 15 entries found
+{
+  "status": "success",
+  "source": "iep_via_brave",
+  "query": "Georgi Plekhanov",
+  "results": [
+    {
+      "title": "Science and Ideology",
+      "url": "https://iep.utm.edu/sci-ideo/",
+      "entry_name": "sci-ideo",
+      "snippet": "Many socialists seized on the materialist implications of evolution\u2014that biological history could be explained in terms of natural laws\u2014to support their view that social history was likewise governed by laws. Some said that Marx had anticipated Darwin by developing an evolutionary picture of social change. The philosopher Georgi Plekhanov went further, practically equating the two theories: \u201cMarxism is Darwinism in its application to social science\u201d (1956).",
+      "page_age": null,
+      "extra_snippets": [
+        "Many socialists seized on the materialist implications of evolution\u2014that biological history could be explained in terms of natural laws\u2014to support their view that social history was likewise governed by laws. Some said that Marx had anticipated Darwin by developing an evolutionary picture of social change. The philosopher Georgi Plekhanov went further, practically equating the two theories: \u201cMarxism is Darwinism in its application to social science\u201d (1956).",
+        "Plekhanov, Georgi. 1956. The Development of the Monist View of History."
+      ]
+    },
+    {
+      "title": "MacIntyre",
+      "url": "https://iep.utm.edu/mac-over/",
+      "entry_name": "mac-over",
+      "snippet": "Rejecting this implicit distinction between society and those superior to it, Marx insisted that the leaders and followers of the revolution can only act together, discovering together the ends and methods of the revolution (ToF:RNT, p. 230-1). Marx made this proposal, but did not pursue it. Later Marxist revivals of philosophy have followed two main roads of research, \u201cthe dialectical and historical materialism of Plekhanov .",
+      "page_age": null,
+      "extra_snippets": [
+        "Rejecting this implicit distinction between society and those superior to it, Marx insisted that the leaders and followers of the revolution can only act together, discovering together the ends and methods of the revolution (ToF:RNT, p. 230-1). Marx made this proposal, but did not pursue it. Later Marxist revivals of philosophy have followed two main roads of research, \u201cthe dialectical and historical materialism of Plekhanov ."
+      ]
+    },
+    {
+      "title": "A",
+      "url": "https://iep.utm.edu/a/",
+      "entry_name": "a",
+      "snippet": "Internet Encyclopedia of Philosophy \u00b7 Search \u00b7 A Priori and A Posteriori \u00b7 Abelard, Peter \u00b7 Logic \u00b7 Abortion \u00b7 Abstractionism in Mathematics \u00b7 Academy, Plato\u2019s \u00b7 Addams, Jane \u00b7 Adorno, Theodor",
+      "page_age": null
+    },
+    {
+      "title": "Home",
+      "url": "https://iep.utm.edu/home/",
+      "entry_name": "home",
+      "snippet": "Internet Encyclopedia of Philosophy \u00b7 Search \u00b7 Welcome \u00b7 An encyclopedia of philosophy articles written by professional philosophers \u00b7 Stay Connected \u00b7 &amp;nbsp&amp;nbsp &amp;nbsp&amp;nbsp &amp;nbsp&amp;nbsp \u00b7 Browse by Topic \u00b7 \u00a9 Copyright Internet Encyclopedia of Philosophy and its Authors | ISSN 2161-0002",
+      "page_age": null
+    },
+    {
+      "title": "M",
+      "url": "https://iep.utm.edu/m/",
+      "entry_name": "m",
+      "snippet": "Internet Encyclopedia of Philosophy \u00b7 Search \u00b7 Machiavelli, Niccol\u00f2 \u00b7 MacIntyre, Alasdair Chalmers \u00b7 Political Philosophy \u00b7 Madhva \u00b7 Madhyamaka Buddhism \u00b7 Maimon, Solomon \u00b7 Maimonides \u00b7 Maintenon, Fran\u00e7oise d\u2019Aubign\u00e9, Madame de",
+      "page_age": null
+    },
+    {
+      "title": "Evolutionary Ethics",
+      "url": "https://iep.utm.edu/evol-eth/",
+      "entry_name": "evol-eth",
+      "snippet": "Evolutionary ethics tries to bridge the gap between philosophy and the natural sciences by arguing that natural selection has instilled human beings with a moral sense, a disposition to be good. If this were true, morality could be understood as a phenomenon that arises automatically during ...",
+      "page_age": null
+    },
+    {
+      "title": "Author Guidelines",
+      "url": "https://iep.utm.edu/submissions-author/",
+      "entry_name": "submissions-author",
+      "snippet": "Authors should follow these guidelines before submitting their final draft. Here is a short list of the main ones. For more details on other topics and to understand why a copyeditor changed your article on one of these topics, see the longer list of topics that follow the short list \u00b7 In ...",
+      "page_age": null
+    },
+    {
+      "title": "History, Philosophy of",
+      "url": "https://iep.utm.edu/history/",
+      "entry_name": "history",
+      "snippet": "History is the study of the past in all its forms. Philosophy of history examines the theoretical foundations of the practice, application, and social consequences of history and historiography. It is similar to other area studies \u2013 such as philosophy of science or philosophy of religion ...",
+      "page_age": null
+    },
+    {
+      "title": "Metaphilosophy",
+      "url": "https://iep.utm.edu/con-meta/",
+      "entry_name": "con-meta",
+      "snippet": "What is philosophy? What is philosophy for? How should philosophy be done? These are metaphilosophical questions, metaphilosophy being the study of the nature of philosophy. Contemporary metaphilosophies within the Western philosophical tradition can be divided, rather roughly, according to ...",
+      "page_age": "2010-11-17T00:00:00"
+    },
+    {
+      "title": "Ethnoepistemology",
+      "url": "https://iep.utm.edu/ethno-ep/",
+      "entry_name": "ethno-ep",
+      "snippet": "As a species of naturalized epistemology, ethnoepistemology treats all human epistemological activities as fully natural phenomena to be described, understood, and evaluated from a broadly anthropological and fully a posteriori perspective. In this spirit it examines the entire gamut of human ...",
+      "page_age": null
+    },
+    {
+      "title": "Language of Thought Hypothesis",
+      "url": "https://iep.utm.edu/lot-hypo/",
+      "entry_name": "lot-hypo",
+      "snippet": "The language of thought hypothesis (LOTH) is the hypothesis that mental representation has a linguistic structure, or in other words, that thought takes place within a mental language. The hypothesis is sometimes expressed as the claim that thoughts are sentences in the head.",
+      "page_age": null
+    },
+    {
+      "title": "Anthropology, The Philosophy of",
+      "url": "https://iep.utm.edu/philosophy-of-anthropology/",
+      "entry_name": "philosophy-of-anthropology",
+      "snippet": "The Philosophy of Anthropology refers to the central philosophical perspectives which underpin, or have underpinned, the dominant schools in anthropological thinking. It is distinct from Philosophical Anthropology which attempts to define and understand what it means to be human \u00b7 This article ...",
+      "page_age": null
+    },
+    {
+      "title": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/2015/",
+      "entry_name": "2015",
+      "snippet": "It is often said that belief has an aim. This aim has been traditionally identified with truth and, since the late 1990s, with knowledge. With this claim, philosophers designate a feature of belief according to which believing a proposition carries with it some sort of commitment or teleological ...",
+      "page_age": null
+    },
+    {
+      "title": "Evidence",
+      "url": "https://iep.utm.edu/evidence/",
+      "entry_name": "evidence",
+      "snippet": "The concept of evidence is crucial to epistemology and the philosophy of science. In epistemology, evidence is often taken to be relevant to justified belief, where the latter, in turn, is typically thought to be necessary for knowledge. Arguably, then, an understanding of evidence is vital ...",
+      "page_age": null
+    },
+    {
+      "title": "Madhyamaka Buddhist Philosophy",
+      "url": "https://iep.utm.edu/madhyamaka-buddhist-philosophy/",
+      "entry_name": "madhyamaka-buddhist-philosophy",
+      "snippet": "Madhyamaka and Yog\u0101c\u0101ra are the two main philosophical trajectories associated with the Mah\u0101y\u0101na stream of Buddhist thought. According to Tibetan doxographical literature, Madhyamaka represents the philosophically definitive expression of Buddhist doctrine.",
+      "page_age": null
+    }
+  ],
+  "count": 15,
+  "errors": []
+}
