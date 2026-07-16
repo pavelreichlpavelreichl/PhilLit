@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.4324/9780415249126-e031-1
+[verify_paper.py] DOI verified: Plekhanov, Georgii Valentinovich (1857–1918)...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.4324/9780415249126-e031-1"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9780415249126-e031-1",
+      "title": "Plekhanov, Georgii Valentinovich (1857\u20131918)",
+      "authors": [
+        {
+          "family": "White",
+          "given": "James D."
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Routledge Encyclopedia of Philosophy",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.4324/9780415249126-e031-1"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

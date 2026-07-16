@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/s11212-026-09851-0
+[verify_paper.py] DOI verified: Plekhanov’s reconstruction of Marx’s social organi...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11212-026-09851-0"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-026-09851-0",
+      "title": "Plekhanov\u2019s reconstruction of Marx\u2019s social organism: A new approach to contemporary ecological Marxism",
+      "authors": [
+        {
+          "family": "Hu",
+          "given": "Jingduo"
+        }
+      ],
+      "editors": [],
+      "year": 2026,
+      "container_title": "Studies in East European Thought",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11212-026-09851-0"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

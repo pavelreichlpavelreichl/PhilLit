@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The empiriomonist critique of dialectical material...' author=Avraham Yassour year=1983
+[verify_paper.py] Paper found: The empiriomonist critique of dialectical material... (score: 113.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin",
+    "author": "Avraham Yassour",
+    "year": 1983
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/bf00832209",
+      "title": "The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin",
+      "authors": [
+        {
+          "family": "Yassour",
+          "given": "Avraham"
+        }
+      ],
+      "editors": [],
+      "year": 1983,
+      "container_title": "Studies in Soviet Thought",
+      "volume": "26",
+      "issue": "1",
+      "page": "21-38",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/bf00832209",
+      "score": 113.21093
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

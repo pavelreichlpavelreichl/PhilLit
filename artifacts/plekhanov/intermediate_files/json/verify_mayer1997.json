@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Plekhanov, Lenin and working-class consciousness...' author=Robert Mayer year=1997
+[verify_paper.py] Paper found: PLEKHANOV, LENIN AND WORKING-CLASS CONSCIOUSNESS... (score: 60.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Plekhanov, Lenin and working-class consciousness",
+    "author": "Robert Mayer",
+    "year": 1997
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1023/a:1017952306992",
+      "title": "PLEKHANOV, LENIN AND WORKING-CLASS CONSCIOUSNESS",
+      "authors": [
+        {
+          "family": "MAYER",
+          "given": "ROBERT"
+        }
+      ],
+      "editors": [],
+      "year": 1997,
+      "container_title": "Studies in East European Thought",
+      "volume": "49",
+      "issue": "3",
+      "page": "159-185",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1023/a:1017952306992",
+      "score": 60.26281
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

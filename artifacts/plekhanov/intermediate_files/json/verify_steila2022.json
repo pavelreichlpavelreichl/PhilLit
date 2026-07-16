@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/s11212-021-09410-9
+[verify_paper.py] DOI verified: Interpretations of Spinoza in early Russian Marxis...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11212-021-09410-9"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-021-09410-9",
+      "title": "Interpretations of Spinoza in early Russian Marxism",
+      "authors": [
+        {
+          "family": "Steila",
+          "given": "Daniela"
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Studies in East European Thought",
+      "volume": "74",
+      "issue": "3",
+      "page": "279-296",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11212-021-09410-9"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

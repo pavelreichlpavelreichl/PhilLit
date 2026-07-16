@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Vanguard of the Revolution: Plekhanov, Russian Mar...' author=Matthew Day year=2023
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Vanguard of the Revolution: Plekhanov, Russian Marxism, and the Peasant Question",
+    "author": "Matthew Day",
+    "year": 2023
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (24.1) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

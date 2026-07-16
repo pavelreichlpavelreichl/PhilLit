@@ -1,0 +1,114 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov Kareyev sociology critique', limit=20
+[s2_search.py] Retrieved 4/4 papers...
+[s2_search.py] Search complete: 4 papers found
+[s2_search.py] Cached results (cache key: s2_2f628d6cd8b10f9a)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov Kareyev sociology critique",
+  "results": [
+    {
+      "paperId": "8eeafc0d552f0fb3a4cc108b51dd7d395d0448f5",
+      "title": "Lyubov Axelrod on Kant: Reflections on Marxist Discussions of the 1920s and 1930s in the USSR",
+      "authors": [
+        {
+          "name": "T. Shchedrina",
+          "authorId": "116392454"
+        },
+        {
+          "name": "I. Shchedrina",
+          "authorId": "2277071779"
+        },
+        {
+          "name": "J\u00fcrgen Stolzenberg",
+          "authorId": "2349132355"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The authors attempt to look back on discussions of Marxist philosophy and historical materialism in this country without censoring, obfuscating, or simplifying issues in order to assess the prospects of their development. They focus on the work of a follower of Georgy Plekhanov, Lyubov Axelrod, who, in developing the concept of historical materialism, turned to Kant. Axelrod\u2019s published works (from early articles and a dissertation on Tolstoy\u2019s worldview, to her mature works on the history of materialism and philosophical-sociological texts on literary classics) and her epistolary legacy (most notably her correspondence with Plekhanov) show that, for her, rethinking the ideas of Kant was a reference point in the \u201ccritique of criticism\u201d directed at the epistemological reasoning of Neo-Kantians, on the one hand, and at the Russian thinkers who had embraced \u201cidealism\u201d on the other. This was essentially the approach adopted by scholars at the Historical Materialism Department of the USSR Academy of Sciences (headed by Vladislav Zh. Kelle) and, even more importantly, this approach is still relevant to the study of the principle of historicity in philosophy and science in Russia today. Analysing the debates between \u201cdialecticians\u201d (headed up by Abram M. Deborin) and \u201cmechanicists\u201d (with whom Axelrod is often identified), the authors hold that, in epistemological terms, her scientific-philosophical concepts of the materialist interpretation of the tradition of historicity is a kind of bridge between the pre-revolutionary tradition of \u201cpositive\u201d philosophy on Russian soil, and Marxism as it existed in the USSR.",
+      "citationCount": 1,
+      "doi": "10.5922/0207-6918-2024-4-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8eeafc0d552f0fb3a4cc108b51dd7d395d0448f5",
+      "venue": "Kantian journal",
+      "journal": {
+        "name": "Kantian journal"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "c8e033ad15b9ebfbe9b624aa72c27b65ddd23d2e",
+      "title": "Critique of taste",
+      "authors": [
+        {
+          "name": "Galvano Della Volpe",
+          "authorId": "134041015"
+        }
+      ],
+      "year": 1978,
+      "abstract": null,
+      "citationCount": 14,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c8e033ad15b9ebfbe9b624aa72c27b65ddd23d2e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d613fa7a3e7f5717002c993f0f97468867a862d8",
+      "title": "Letter on the Bogdanov Issue",
+      "authors": [
+        {
+          "name": "A. Yassour",
+          "authorId": "115451526"
+        }
+      ],
+      "year": 1990,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2307/130527",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d613fa7a3e7f5717002c993f0f97468867a862d8",
+      "venue": "",
+      "journal": {
+        "name": "The Russian Review",
+        "pages": "467",
+        "volume": "49"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "c149cd8b74978494f2a45bd371b75e15f52ebba6",
+      "title": "Dualistic Economic Development: Theory and History . By Allen C. Kelley, Jeffrey G. Williamson and Russell J. Cheetham. (Chicago, Illinois: University of Chicago Press, 1972. Pp. 339. $12.50.)",
+      "authors": [
+        {
+          "name": "G. Ranis",
+          "authorId": "88718881"
+        }
+      ],
+      "year": 1975,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.2307/1955301",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c149cd8b74978494f2a45bd371b75e15f52ebba6",
+      "venue": "American Political Science Review",
+      "journal": {
+        "name": "American Political Science Review",
+        "pages": "1425 - 1427",
+        "volume": "69"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

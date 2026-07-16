@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1080/09546545.2013.787807
+[verify_paper.py] DOI verified: Georgii Plekhanov and the Communist Manifesto: the...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/09546545.2013.787807"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09546545.2013.787807",
+      "title": "Georgii Plekhanov and the Communist Manifesto: the Proletarian Revolution Revisited",
+      "authors": [
+        {
+          "family": "van Ree",
+          "given": "Erik"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Revolutionary Russia",
+      "volume": "26",
+      "issue": "1",
+      "page": "32-51",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/09546545.2013.787807"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

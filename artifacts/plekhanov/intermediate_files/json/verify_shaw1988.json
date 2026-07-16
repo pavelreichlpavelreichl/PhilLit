@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/bf01044986
+[verify_paper.py] DOI verified: Plekhanov on the role of the individual in history...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/bf01044986"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/bf01044986",
+      "title": "Plekhanov on the role of the individual in history",
+      "authors": [
+        {
+          "family": "Shaw",
+          "given": "William H."
+        }
+      ],
+      "editors": [],
+      "year": 1988,
+      "container_title": "Studies in Soviet Thought",
+      "volume": "35",
+      "issue": "3",
+      "page": "247-265",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/bf01044986"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

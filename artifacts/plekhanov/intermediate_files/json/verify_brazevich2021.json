@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.21638/spbu12.2021.205
+[verify_paper.py] DOI verified: The genesis of Western European sociological thoug...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.21638/spbu12.2021.205"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.21638/spbu12.2021.205",
+      "title": "The genesis of Western European sociological thought in the works of G. V. Plekhanov",
+      "authors": [
+        {
+          "family": "St. Petersburg State University of Economics",
+          "given": ""
+        },
+        {
+          "family": "Brazevich",
+          "given": "Svyatoslav S."
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Vestnik of Saint Petersburg University. Sociology",
+      "volume": "14",
+      "issue": "2",
+      "page": "171-184",
+      "publisher": "Saint Petersburg State University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.21638/spbu12.2021.205"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

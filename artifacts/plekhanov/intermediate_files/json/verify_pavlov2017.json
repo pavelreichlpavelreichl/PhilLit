@@ -1,0 +1,40 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.33280/2310-3817-2017-5-2-50-79
+[verify_paper.py] DOI verified: “When Was Caesar Born?” Theory and Practice of Tru...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.33280/2310-3817-2017-5-2-50-79"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.33280/2310-3817-2017-5-2-50-79",
+      "title": "\u201cWhen Was Caesar Born?\u201d Theory and Practice of Truth in Plekhanov and Bogdanov",
+      "authors": [
+        {
+          "family": "Metropolitan State University of Denver",
+          "given": ""
+        },
+        {
+          "family": "Pavlov",
+          "given": "Evgeni V."
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Stasis",
+      "volume": "5",
+      "issue": "2",
+      "page": "50-79",
+      "publisher": "European University at Saint-Petersburg",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.33280/2310-3817-2017-5-2-50-79"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

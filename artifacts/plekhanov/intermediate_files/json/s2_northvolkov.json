@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'David North Vladimir Volkov Plekhanov place in history Marxism', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_4909dcb4ada65450)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "David North Vladimir Volkov Plekhanov place in history Marxism",
+  "results": [
+    {
+      "paperId": "eeb48eb6bcbe75031d31c67f797bfd5e88dfc088",
+      "title": "Georgi Valentinovich Plekhanov (1856\u20131918): His Place in the History of Marxism",
+      "authors": [
+        {
+          "name": "David S. North",
+          "authorId": "2302507682"
+        },
+        {
+          "name": "Vladimir Volkov",
+          "authorId": "144204482"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/eeb48eb6bcbe75031d31c67f797bfd5e88dfc088",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
