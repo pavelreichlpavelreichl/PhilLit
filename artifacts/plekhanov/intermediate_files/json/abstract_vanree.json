@@ -1,0 +1,12 @@
+[get_abstract.py] Trying Semantic Scholar: DOI:10.1080/09546545.2013.787807
+[get_abstract.py] S2: Paper found but no abstract
+[get_abstract.py] Trying OpenAlex: 10.1080/09546545.2013.787807
+[get_abstract.py] Found abstract from OpenAlex (866 chars)
+{
+  "status": "success",
+  "query": {
+    "doi": "10.1080/09546545.2013.787807"
+  },
+  "abstract": "This article discusses the question of Georgii Plekhanov's contributions to Marxist revolutionary strategy. It argues that the strategy Plekhanov proposed in Our Differences (1885) was very different from the one he had earlier proposed in Socialism and Political Struggle (1883). Plekhanov pretended to model his Russian policies on the Communist Manifesto's policies for Germany in the mid-nineteenth century. However, in proposing that Russia's democratic revolution was to be followed by a protracted period of capitalist economic development, Plekhanov was in fact taking Marxism in a new direction. Plekhanov was the first Marxist to have rejected Marx's scenario of social revolution by numerically small proletariats and to have predicated the proletarian revolution on the proletarianisation of the majority of the population and integral industrialisation.",
+  "abstract_source": "openalex"
+}

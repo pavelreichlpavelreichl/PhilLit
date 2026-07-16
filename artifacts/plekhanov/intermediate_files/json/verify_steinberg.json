@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Russian Marxism and the Materialist Interpretation...' author=Steinberg
+[verify_paper.py] Paper found: Russian Marxism and the Materialist Interpretation... (score: 62.9)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Russian Marxism and the Materialist Interpretation of Spinoza",
+    "author": "Steinberg"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.4324/9781003118879-30",
+      "title": "Russian Marxism and the Materialist Interpretation of Spinoza",
+      "authors": [
+        {
+          "family": "Steinberg",
+          "given": "Justin"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "The History and Philosophy of Materialism",
+      "volume": "",
+      "issue": "",
+      "page": "351-363",
+      "publisher": "Routledge",
+      "type": "book-chapter",
+      "suggested_bibtex_type": "incollection",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.4324/9781003118879-30",
+      "score": 62.85666
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

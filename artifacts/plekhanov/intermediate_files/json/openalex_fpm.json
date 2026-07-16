@@ -1,0 +1,925 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov Fundamental Problems of Marxism', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_7ac4d99c186b4104)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov Fundamental Problems of Marxism",
+  "results": [
+    {
+      "openalex_id": "W2911809398",
+      "doi": "10.4312/as.2019.7.1.55-73",
+      "title": "Hegel and Chinese Marxism",
+      "authors": [
+        {
+          "name": "Tom Rockmore",
+          "openalex_id": "A5041354930",
+          "orcid": "https://orcid.org/0000-0003-4446-335X",
+          "institutions": [
+            "Peking University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-31",
+      "abstract": "China is presently embarking on the huge task of realizing what President Xi Jinping recently called the Chinese Dream. China is officially Marxist, and Marx thus inspires this dream in his assigned status as the \u201cofficial guide\u201d to the ongoing Chinese Revolution. This paper will focus on the crucial relation between Hegel and Chinese Marxism. Marx is a key Hegelian, critical of, but strongly dependent on, Hegel. Since the Chinese Dream is not Hegelian, but rather anti-Hegelian, it is unlikely, as I will be arguing, to be realized in a recognizably Marxian form.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Asian Studies",
+        "type": "journal",
+        "issn": [
+          "2232-5131",
+          "2350-4226"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revije.ff.uni-lj.si/as/article/download/7895/8490"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2911809398"
+    },
+    {
+      "openalex_id": "W3100821596",
+      "doi": "10.26530/oapen_613393",
+      "title": "On the Formation of Marxism",
+      "authors": [
+        {
+          "name": "J. Gronow",
+          "openalex_id": "A5097245181"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "On the Formation of Marxism analyses Karl Kautsky",
+      "cited_by_count": 8,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.26530/oapen_613393"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W3100821596"
+    },
+    {
+      "openalex_id": "W1504681148",
+      "doi": null,
+      "title": "Marxism and revisionism",
+      "authors": [
+        {
+          "name": "Vladimir Il\u02b9ich Lenin",
+          "openalex_id": "A5051169801"
+        },
+        {
+          "name": "Iosif Vissarionovich Stalin",
+          "openalex_id": "A5055973287"
+        }
+      ],
+      "publication_year": 1946,
+      "publication_date": "1946-01-01",
+      "abstract": "&amp;quot;Marxism and revisionism. &amp;quot; by Lenin, Vladimir Il\u2019ich, 1870-1924. 1 image. Has additional notes.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Journal of International Crisis and Risk Communication Research",
+        "type": "journal",
+        "issn": [
+          "2576-0017",
+          "2576-0025"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://stars.library.ucf.edu/prism/397"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Political theory and Gramsci",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1504681148"
+    },
+    {
+      "openalex_id": "W2787994399",
+      "doi": "10.33280/2310-3817-2017-5-2-50-79",
+      "title": "\u201cWhen Was Caesar Born?\u201d Theory and Practice of Truth in Plekhanov and Bogdanov",
+      "authors": [
+        {
+          "name": "Evgeni V. Pavlov",
+          "openalex_id": "A5043138270",
+          "institutions": [
+            "Metropolitan State University of Denver"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Although political differences between various factions of the Russian SocialDemocratic Labor Party (RSDLP) have been studied quite extensively, theoretical debates about the nature of Marxism and the role such debates had in determining Party programs and strategic decisions remains in need of a more thorough engagement. One such theoretical discussion, the question of the nature of (absolute) truth, is the subject matter of the present essay. The primary debate was between Georgi Plekhanov, one of the most respected representatives of early Russian Marxism, and a group of theoreticians united around Alexander Bogdanov, an early collaborator of Lenin (until their break in 1909) and an author of several original theoretical works that attempted to challenge the established orthodoxy of Plekhanovite Marxism. The question of the nature of truth stood at the center of the debates between Plekhanov and Bogdanov. The ultimate challenge that Bogdanov threw to the representatives of (selfproclaimed) \"orthodox Marxism\" was the p. 50-79",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Stasis",
+        "type": "journal",
+        "issn": [
+          "2310-3817",
+          "2500-0721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://stasisjournal.net/index.php/journal/article/download/15/18/"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2787994399"
+    },
+    {
+      "openalex_id": "W3081963754",
+      "doi": "10.1080/10455752.2020.1811363",
+      "title": "After Neoliberalism: From Eco-Marxism to Ecological Civilization, Part 1",
+      "authors": [
+        {
+          "name": "Arran Gare",
+          "openalex_id": "A5091008316",
+          "orcid": "https://orcid.org/0000-0003-4995-4035",
+          "institutions": [
+            "Swinburne University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-27",
+      "abstract": "This is Part 1 of an article aimed at defending Marx against orthodox Marxists to reveal the possibilities for overcoming capitalism. It is argued that Marx\u2019s general theory of history as technological determinism along with his call for the dictatorship of the proletariat is inconsistent with his profound insights into alienation and commodity fetishism as the foundations of capitalism. Humanist Marxists focused on the latter in opposition to Orthodox Marxists but, without fully acknowledging this inconsistency and its implications, failed to realize the full potential of Marx\u2019s work. The outcome has been the triumph of \u201cneoliberalism,\u201d effectively a synthesis of the worst aspects of capitalism with Soviet managerialism. Here I argue that eco-Marxists should combine humanistic Marxism with the defence of genuine science to revive a tradition of thought going back to Aleksander Bogdanov and Ernst Bloch, and to Marx himself. However, traditional Marxists\u2019 lack of appreciation of the importance of the \u201csuperstructure\u201d has hindered even eco-Marxists from developing the culture required to replace capitalism. In Part 2, I will argue that the call for an \u201cecological civilisation\u201d brings into focus what is required: a realistic vision of the future based on ecological concepts.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Capitalism Nature Socialism",
+        "type": "journal",
+        "issn": [
+          "1045-5752",
+          "1548-3290"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/GARANF-2.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Global Energy and Sustainability Research",
+        "Earth Systems and Cosmic Evolution"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3081963754"
+    },
+    {
+      "openalex_id": "W1993845978",
+      "doi": "10.1080/03017605.2014.984494",
+      "title": "Louis Althusser and the End of Classical Russian Marxism: Spinoza, Hegel and the Critique of Dogmatic Marxism",
+      "authors": [
+        {
+          "name": "David Campbell",
+          "openalex_id": "A5084981072",
+          "orcid": "https://orcid.org/0000-0001-8789-4876",
+          "institutions": [
+            "Lancaster University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-10-02",
+      "abstract": "An attempt to restate Marx's critical method in terms of Spinozist dogmatic epistemology was central to Louis Althusser's conception of Marxist philosophy. Although it is no longer necessary to argue that this \u2018restatement\u2019 had almost no ground in Marx's own thinking, it was a highly significant expression of the essence of dialectical materialism. Through discussion of Hegel's critique of Spinoza, it will be argued that a democratically acceptable method of criticism of the mistaken beliefs of others, such as Marx developed in Capital, must take a resolutely anti-dogmatic approach which has the principle of winning subjective conviction at its core.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.lancs.ac.uk/id/eprint/72513/5/Louis_Althusser_and_the_End_of_Classical_Russian_Marxism.pdf"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W1993845978"
+    },
+    {
+      "openalex_id": "W2322017582",
+      "doi": "10.2307/2493541",
+      "title": "Marxism in Bulgaria Before 1891",
+      "authors": [
+        {
+          "name": "Marin Pundeff",
+          "openalex_id": "A5025021433"
+        }
+      ],
+      "publication_year": 1971,
+      "publication_date": "1971-09-01",
+      "abstract": "The gestation period of Marxism in Bulgaria before a Marxist party came into existence in 1891 is one of the least studied periods in the history of the Bulgarian Communist Party. In Bulgaria and the Soviet Union, where most of the work on BCP historiography has been done, attention has primarily, and understandably, gone to the activities of Dimit\u016dr Blagoev, the so-called father of Bulgarian Marxism, whose early career as propagandist and organizer of the new movement included a notable effort while he was a student at the University of St. Petersburg to form the first Marxist group in Russia. The story of the penetration and dissemination of Marxism in Bulgaria, however, is by no means exhausted with accounts of Blagoev's life to 1891. Yet, Bulgarian Marxist historians have done little to date to reconstruct this story in monographic investigations of the kind they have produced for other phases of their party's history. Of the general accounts they have produced, the best one, relatively speaking, is in the latest Istorita na B\u016dlgarskata Komunisttcheska Partiia , which devotes fifteen pages (out of 699) to Blagoev's early activities and the party's prehistory, including the founding congress of 1891.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Slavic Review",
+        "type": "journal",
+        "issn": [
+          "0037-6779",
+          "2325-7784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E09B0CFB4CA02CA4B8C6BFB01208357C/S0037677900151186a.pdf/div-class-title-marxism-in-bulgaria-before-1891-div.pdf"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Political Economy and Marxism",
+        "Elite Sociology and Global Capitalism"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2322017582"
+    },
+    {
+      "openalex_id": "W2913059722",
+      "doi": "10.4312/as.2019.7.1.75-96",
+      "title": "Mao\u2019s Marxist Negation of Marxism",
+      "authors": [
+        {
+          "name": "Ozan Alt\u0131nok",
+          "openalex_id": "A5022121215",
+          "orcid": "https://orcid.org/0000-0003-2239-3258"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-31",
+      "abstract": "In this paper, my main aim is to analyse Mao\u2019s conception of Marxist theory and his Marxist subjectivity in theory construction in his three articles. While doing so, I will use two main approaches, first is the idea that Karl Marx\u2019s method in understanding social relations and his theory of knowledge is in many aspects compatible and in continuation with an epistemological reading of Hegel\u2019s subjectivity, and the second is the general structure about the relationship between the object and subject\u2019s process of knowing is similar in all three thinkers. While doing so, I will advocate the position that Mao\u2019s epistemology is compatible with the Marxist understanding of Hegelian epistemology, and that from such an epistemological understanding it is possible to investigate Mao\u2019s three texts in a way that yields, not an orthodox or \u201cend result\u201d Marxism, but instead a more general, meta epistemological understanding of Marx, that is understood better structurally. Eventually, I will claim that while using \u201cscientific\u201d or \u201corthodox\u201d Marxism as a method to understand society, Mao further uses the subjective element in the same way as Hegel and Marx used it, although eventually he diverts the Marxist subjective manoeuvre to another direction.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Asian Studies",
+        "type": "journal",
+        "issn": [
+          "2232-5131",
+          "2350-4226"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revije.ff.uni-lj.si/as/article/download/8029/8491"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Chinese history and philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W2913059722"
+    },
+    {
+      "openalex_id": "W2786781119",
+      "doi": "10.33280/2310-3817-2017-5-2-136-163",
+      "title": "The Ilyenkov Triangle: Marxism in Search of its Philosophical Roots",
+      "authors": [
+        {
+          "name": "Andrey Maidansky",
+          "openalex_id": "A5049056611",
+          "orcid": "https://orcid.org/0000-0003-2061-3878",
+          "institutions": [
+            "Belgorod National Research University",
+            "Czech Academy of Sciences, Institute of Philosophy"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Studying the phenomena of the ideal, Evald Ilyenkov checks every important step in his thinking with Hegel and Spinoza.Their philosophical teachings form the foundation for the triangle of \"dialectical logic,\" at the peak of which is Marx with his method of \"ascending to the concrete.\"This work will carry out a comparison of the conceptions of Ilyenkov and Western European Marxists along the \"Hegel-Spinoza\" line.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Stasis",
+        "type": "journal",
+        "issn": [
+          "2310-3817",
+          "2500-0721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://stasisjournal.net/index.php/journal/article/download/18/21/"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2786781119"
+    },
+    {
+      "openalex_id": "W799862460",
+      "doi": "10.11179/ker1926.36.2_21",
+      "title": "THE CONTROVERSIES CONCERNING RUSSIAN CAPITALISM:AN ANALYSIS OF THE VIEWS OF PLEKHANOV AND LENIN",
+      "authors": [
+        {
+          "name": "Masaharu Tanaka",
+          "openalex_id": "A5085964614",
+          "institutions": [
+            "Kyoto University",
+            "Kyoto University of Education"
+          ]
+        }
+      ],
+      "publication_year": 1966,
+      "publication_date": "1966-10-01",
+      "abstract": "nOrOJl.HH and A. Bruckner, regarded him as a transitional figure between mercantilism and classical economics and even think that he was the forerunner of A. Smith.pointing out that he considered production as the foundation of national wealth.Rut that fact can not give enough reason to qualify him as a classical economist.The essence of classical (esp.Smithian) economics consists not only in laying stress on production, but in grasping 01 the system 01 social division 01 labour, related to one another by way 01 circulation 01 commodities, and this view-point is lacking in Pososhkov.About his book this much can be said; that it did not represent the transition from mercantilism to classical economics, bUl the economic thoughl of an agriculturebased absolutism or Oriental despotism, 'Yhich happened to have some aspects of mercantilism.It is true that he talked about the exclusion of foreign merchants and preventive measures to check the outflow of gold and silver; it is also significant that he was considering the kind of policy that would contribute to the maintenance of serfdom and to the increase of the power of czarism.Moreover.international trade never occupied an important place in the Russian economy, so long as Russia was hardly a maritime nation and the use of hard money was not yet fully developed.Hence the characteristic view of the monetary system did not develop in full in Russia.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Kyoto University Research Information Repository (Kyoto University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2433/125487"
+      },
+      "topics": [
+        "Russia and Soviet political economy",
+        "Economic Development and Digital Transformation"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W799862460"
+    },
+    {
+      "openalex_id": "W2038472810",
+      "doi": "10.1080/09546545.2013.787807",
+      "title": "Georgii Plekhanov and the Communist Manifesto: the Proletarian Revolution Revisited",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "Russian State Agrarian Correspondence University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-01",
+      "abstract": "This article discusses the question of Georgii Plekhanov's contributions to Marxist revolutionary strategy. It argues that the strategy Plekhanov proposed in Our Differences (1885) was very different from the one he had earlier proposed in Socialism and Political Struggle (1883). Plekhanov pretended to model his Russian policies on the Communist Manifesto's policies for Germany in the mid-nineteenth century. However, in proposing that Russia's democratic revolution was to be followed by a protracted period of capitalist economic development, Plekhanov was in fact taking Marxism in a new direction. Plekhanov was the first Marxist to have rejected Marx's scenario of social revolution by numerically small proletariats and to have predicated the proletarian revolution on the proletarianisation of the majority of the population and integral industrialisation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Revolutionary Russia",
+        "type": "journal",
+        "issn": [
+          "0954-6545",
+          "1743-7873"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dare.uva.nl/personal/pure/en/publications/georgii-plekhanov-and-the-communist-manifesto-the-proletarian-revolution-revisited(aa90e6ab-11ec-4ba4-8008-970c19e649c0).html"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Economic Theory and Institutions",
+        "Economic Theory and Policy"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2038472810"
+    },
+    {
+      "openalex_id": "W4309588735",
+      "doi": "10.1515/9783110400304-029",
+      "title": "Marxism in Poland",
+      "authors": [
+        {
+          "name": "Micha\u0142 Mrugalski",
+          "openalex_id": "A5007382949"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-11-21",
+      "abstract": "Marxism in",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110400304-029/pdf"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Polish Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W4309588735"
+    },
+    {
+      "openalex_id": "W4389016231",
+      "doi": "10.1163/9789004679023_025",
+      "title": "Lenin\u2019s Marxism",
+      "authors": [
+        {
+          "name": "Wolfgang K\u00fcttler",
+          "openalex_id": "A5019281484"
+        },
+        {
+          "name": "Loren Balhorn",
+          "openalex_id": "A5115488999"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-14",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "reference-entry",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/book/9789004679023/BP000024.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W4389016231"
+    },
+    {
+      "openalex_id": "W3173959635",
+      "doi": "10.1007/s11212-021-09412-7",
+      "title": "Reformulation of knowledge: epistemological reading of Soviet Marxism in the post-Soviet times",
+      "authors": [
+        {
+          "name": "Maria Chehonadskih",
+          "openalex_id": "A5075747004",
+          "institutions": [
+            "University of Oxford",
+            "Oxford BioMedica (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-30",
+      "abstract": "Abstract The paper questions an official narrative of Soviet Marxism that had been formulated both by the Bolshevik leaders and the Western European Marxists. It proposes to shift the discussion from a historically constituted understanding of Soviet Marxism as a partisanship of theory to the epistemic conditions of Marxism after the October Revolution. The paper argues that a post-revolutionary Soviet logic assumes that theory should start where Marx ended and that it should act in a Marxist fashion across all conceptual and practical realms. Instead of asking \u2018how\u2019, the Soviet thought returns to the old pre-critical question of \u2018what is\u2019, and reformulates this \u2018what is\u2019 in the Marxist post-critical terms. Constructing a new critical concept of Soviet Marxism, the paper proceeds with the analysis of the post-critical status of knowledge after the revolution and recovers forgotten and repressed epistemological alternatives to orthodox Bolshevism.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-021-09412-7.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W3173959635"
+    },
+    {
+      "openalex_id": "W2159177738",
+      "doi": "10.1080/01916599.2011.652474",
+      "title": "German Marxism and the Decline of the Permanent Revolution, 1870\u20131909",
+      "authors": [
+        {
+          "name": "Erik van Ree",
+          "openalex_id": "A5111653859",
+          "institutions": [
+            "Europeana Foundation",
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-03-20",
+      "abstract": "This article discusses the development of German Social Democratic Party strategy in the fourth quarter of the nineteenth century and the first decade of the twentieth, as a result of the works of Friedrich Engels and Karl Kautsky. It ties the evolution of Marxist orthodoxy to the emergence of parliamentary democracy in different European societies. In particular, it discusses the way parliamentary conditions impacted on how the proletarian revolution was imagined. Revolution was newly defined as the establishment through parliamentary means of a new government representing a new social class. Also, the early Marxist strategy of \u2018permanent revolution\u2019, which had allowed proletarian-socialist minority rule, was abandoned.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "History of European Ideas",
+        "type": "journal",
+        "issn": [
+          "0191-6599",
+          "1873-541X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.uva.nl/ws/files/1862015/115261_GermanMarxismPeRe.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "European history and politics",
+        "Communism, Protests, Social Movements"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2159177738"
+    },
+    {
+      "openalex_id": "W4389674951",
+      "doi": "10.3917/rip.261.0399",
+      "title": "Christianity or Communism? \u017di\u017eek's Marxian Hegelianism and Hegelian Marxism",
+      "authors": [
+        {
+          "name": "Lorenzo Chiesa",
+          "openalex_id": "A5032396396",
+          "orcid": "https://orcid.org/0000-0003-1810-5735"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-09-01",
+      "abstract": "The work of Slavoj &#381;i&#382;ek has long been known for its idiosyncratic superimposition of Lacanian, Hegelian, and Marxian themes. While &#381;i&#382;ek&#8217;s re-elaboration of Lacan, and partly of Hegel, has attracted an enormous amount of critical attention, his appropriation of Marx remains relatively unexplored. In this paper, I intend to carry out a systematic analysis of the role played by Marx in relation to Hegel in two of &#381;i&#382;ek recent writings. Initially, the authors in question appear to be, against all expectations, repeatedly opposed to each other, with conflicting results. On the one hand, Hegel&#8217;s philosophy of religion would be the only philosophy which allows us appropriately to approach the question concerning human nature and the related problem of freedom in a materialist way, while Marx&#8217;s critique of religion would propose a &#8216;direct dis-alienation&#8217; that would ultimately rely on an idealist bias. On the other hand, &#381;i&#382;ek&#8217;s own &#8216;communist hypothesis&#8217; tacitly recuperates the early Marx&#8217;s notion of critique and, precisely in doing so, unveils a version of Hegelianism that is irreparably conservative.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Revue internationale de philosophie",
+        "type": "journal",
+        "issn": [
+          "0048-8143",
+          "2033-0138"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cairn.info/load_pdf.php?ID_ARTICLE=RIP_261_0399&download=1"
+      },
+      "topics": [
+        "Psychoanalysis, Philosophy, and Politics",
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4389674951"
+    },
+    {
+      "openalex_id": "W4288357441",
+      "doi": "10.5281/zenodo.2756209",
+      "title": "Lacanizing Marxism: the Effects of Lacan in Readings of Marx and Marxist Thinkers",
+      "authors": [
+        {
+          "name": "David Pav\u00f3n\u2010Cu\u00e9llar",
+          "openalex_id": "A5072244915",
+          "orcid": "https://orcid.org/0000-0003-1610-6531",
+          "institutions": [
+            "Universidad Michoacana de San Nicol\u00e1s de Hidalgo"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-12",
+      "abstract": "In this essay I discuss the ways that Marxism is read through the lens of Lacanian theory by Lacan\u2019s followers and not by Lacan himself. I distinguish between different Lacanian approaches to Marxism and between Lacan\u2019s diverse effects on the subjects that are approached. I scrutinize five affirmative effects, namely those of problematising, historicising, generalising, confirming and completing what is read. I first explicate these effects briefly in discussing classic works of the 1980s and then at length in presenting my own Lacanian approach to Marxism. I show how the realisation of such effects implies a Lacanization of Marxism and the resulting constitution of a Lacanian Marxism that I openly assume.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/2756209"
+      },
+      "topics": [
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4288357441"
+    },
+    {
+      "openalex_id": "W4414596165",
+      "doi": "10.1007/s11212-025-09759-1",
+      "title": "The antinomies of man and the detotalization of thinking: escaping from Marxism towards Kant in Hungarian philosophy in the 1970\u20131980s",
+      "authors": [
+        {
+          "name": "\u00c1d\u00e1m Tak\u00e1cs",
+          "openalex_id": "A5101707594",
+          "orcid": "https://orcid.org/0000-0002-1485-9647",
+          "institutions": [
+            "Babe\u0219-Bolyai University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-09-12",
+      "abstract": "Abstract The present paper focuses on a case of a Marxist \u201creturn to Kant\u201d which played an important role in shaping the philosophical landscape during the final two decades of state socialism in Hungary. We intend to explore the ideological underpinnings and interpretative opportunities that sparked the Marxist Kant renaissance from the early 1970s onward, and to showcase the ways it evolved into one of the most advanced segments of Hungarian philosophical research at the time. Besides outlining the ideologically driven but quickly shifting theses of Marxist interpretations of Kant, our objective will be to examine how the engagement with various aspects of Kantian thought led to theoretical approaches that increasingly promoted the progressive and professional study of philosophical issues. Against this backdrop, we will argue that by the 1980s, strategies aimed at circumventing or neutralizing traditional Marxist perspectives were willingly embraced within this field. These strategies sought to escape the tutelage of Marxist ideology precisely in the name of adhering to the standards of academic professionalism.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Studies in East European Thought",
+        "type": "journal",
+        "issn": [
+          "0925-9392",
+          "1573-0948"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11212-025-09759-1.pdf"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Hannah Arendt's Political Philosophy",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W4414596165"
+    },
+    {
+      "openalex_id": "W2767286532",
+      "doi": null,
+      "title": "Spectral Socialisms: Marxism-Leninism and the Future of Marxist Thought in Post-Socialist Bulgaria",
+      "authors": [
+        {
+          "name": "Zhivka Valiavicharska",
+          "openalex_id": "A5067460794"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Asking what discursive conditions enabled the unchallenged reign of neoliberal capitalism in Eastern Europe after 1989, this dissertation argues that Stalinist philosophy leaves a silent yet powerful structuring legacy in post-socialist politics and intellectual discourse. Stalinist Marxism-Leninism has survived in the presumption that there is a necessary relationship between authoritarianism and politics on the left, and conversely, between democracy and free-market capitalism. Rejecting the premise that there is an inevitable, trans-historical relationship between socialism and authoritarianism, this project locates the historical juncture that sealed them together in the discursive production of Leninism and the doctrines of Dialectical Materialism and Historical Materialism during Stalinist Soviet Union. With a focus on socialist Bulgaria, the dissertation examines the political uses and material effects of the Stalinist ideologemes throughout the intellectual history of East-European Marxist thought. In addition, it retrieves Marxist humanist intellectual movements from the post-Stalinist 1960s and 1970s, which contested the legitimacy of the Stalinist doctrine. Challenging Marxism-Leninism's claim to the historical inevitability of state authoritarianism, they imagined a \"third way\" for socialism's future--a third way between liberal democracy and authoritarian socialism. In conclusion, the dissertation turns to the question of what possibility for politics on the left remains in the post-socialist historical conditions, a left that finds itself inevitably implicated in the histories of state socialisms. Redressing these foreclosures requires recovering the emancipatory ideas and practices out of the contradictory experiences of the socialist past and reformulating their critical potentials for the future.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/6j85900c"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767286532"
+    },
+    {
+      "openalex_id": "W4309588424",
+      "doi": "10.1515/9783110400304-043",
+      "title": "Russian Theory in Africa: From Marxism to the Bakhtinian Postcolony",
+      "authors": [
+        {
+          "name": "Gesine Drews-Sylla",
+          "openalex_id": "A5031274542",
+          "orcid": "https://orcid.org/0000-0003-0423-3680"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-11-21",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/9783110400304-043/pdf"
+      },
+      "topics": [
+        "Russian Literature and Bakhtin Studies",
+        "Political theory and Gramsci",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4309588424"
+    },
+    {
+      "openalex_id": "W4385874303",
+      "doi": "10.1057/s41282-023-00394-5",
+      "title": "The deconstructive effects of combining discourses. A case study: Marxism and psychoanalysis",
+      "authors": [
+        {
+          "name": "Adri\u00e0 Porta Caball\u00e9",
+          "openalex_id": "A5020689346",
+          "orcid": "https://orcid.org/0000-0002-0578-7362",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-16",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Psychoanalysis Culture & Society",
+        "type": "journal",
+        "issn": [
+          "1088-0763",
+          "1543-3390"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/PORTDE-2.pdf"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Psychoanalysis, Philosophy, and Politics",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4385874303"
+    },
+    {
+      "openalex_id": "W2587311421",
+      "doi": "10.25071/1913-9632.6963",
+      "title": "The Many Deaths of Mr. Marx: Or, What Left Historians Might Contribute to Debates About the \"Crisis of Marxism\"",
+      "authors": [
+        {
+          "name": "Ian McKay",
+          "openalex_id": "A5110503927"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-04-01",
+      "abstract": "Left History features articles from a variety of theoretical approaches; these include feminist, marxist, and postmodernist deliberations on topics such as race, ethnicity, class, gender, sexuality, culture, the state, labour, the environment, theory, and method.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Left History An Interdisciplinary Journal of Historical Inquiry and Debate",
+        "type": "journal",
+        "issn": [
+          "1192-1927",
+          "1913-9632"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://lh.journals.yorku.ca/index.php/lh/article/download/6963/6147"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Italian Fascism and Post-war Society"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2587311421"
+    },
+    {
+      "openalex_id": "W2597002539",
+      "doi": "10.32678/ijei.v7i2.42",
+      "title": "PARADIGMA PEMBANGUNAN EKONOMI; SATU ANALISIS TINJAUAN ULANG DARI PERSPEKTIF EKONOMI ISLAM",
+      "authors": [
+        {
+          "name": "Syamsuri Syamsuri",
+          "openalex_id": "A5061529580",
+          "orcid": "https://orcid.org/0000-0001-6741-7765",
+          "institutions": [
+            "University of Darussalam Gontor"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-28",
+      "abstract": "Abstract. Paradigm of Economic Development; Perspective of Islamic Economics Analysis. The capitalist economic system has failed because the rich exploiting the poor and a socialist economic system justifies the poor seize property of the rich. This problem becomes an important issue for the Muslim economists. Paradigm both the liberal system is exploitative, unfair and treats people not as people. Not pay attention to moral values and akhlaqs, a dichotomy between religion and economics, make man a slave of development and not development for human. This paper is a reflection phenomenon of damage to the environment, social inequality and poverty not been abated. So the liberal economic theories and concepts need to be reviewed by presenting a new economic development concept that comes from revelation that is the Quran and hadith. Finally, from the discussion can be concluded that economic development can not be achieved except with implementing Islamic guidance in everything. And the nature of development must necessarily multi-dimensional, included the gratification of physical and ruh. Economic development must also be able to create a balance between individual interests and the interests of society, kindness balanced and consistent according the rules of Islam. Measure of the success of development if the concept of caliphate, \u2018adalah, and tazkiyah can meet all basic needs of every human being and nature conservation around for the long term future generations.Abstrak. Paradigma Pembangunan Ekonomi; Satu Analisis Tinjauan Ulang Dari Perspektif Ekonomi Islam. Kegagalan sistem ekonomi kapitalis yang membenarkan orang kaya mengeksploitasi orang miskin, dan sistem sosialis membenarkan orang miskin merampas harta orang kaya menjadi satu isu penting bagi para ekonom muslim. Paradigma kedua sistem liberal tersebut bersifat eksploitatif dan tidak fair serta memperlakukan manusia bukan sebagai manusia. Mengesampingkan nilai moral dan akhlak, memisahkan antara agama dengan ekonomi, dan menjadikan manusia hamba pembangunan, bukan pembangunan untuk manusia. Makalah ini merupakan satu refleksi fenomena dari kerusakan alam, ketimpangan sosial, kemiskinan yang tidak berkunjung reda. Sehingga teori dan konsep ekonomi liberal perlu ditinjau ulang dengan menyajikan satu konsep pembangunan ekonomi baru yang bersumber dari wahyu yaitu al-Quran maupun hadith. Akhirnya dari pembahasan dapat disimpulkan bahwa pembangunan ekonomi tidak akan dapat dicapai melainkan dengan menjalankan ajaran Islam secara kaffah, dan sifat pembangunan mestilah multi dimensi yang merangkumi pemuasan secara fisik maupun ruh. Termasuk pembangunan ekonomi juga mesti dapat menciptakan keseimbangan antara kepentingan individu dan kepentingan masyarakat, kebaikan yang seimbang dan konsisten sesuai kaedah-kaedah agama Islam. Tolak ukur keberhasilan pembangunan ini apabila tuntutan khilafah, \u2018adalah dan tazkiyah dapat memenuhi seluruh keperluan dasar setiap insan dan pelestarian alam sekitar untuk jangka panjang generasi selanjutnya.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "ISLAMICONOMIC Jurnal Ekonomi Islam",
+        "type": "journal",
+        "issn": [
+          "2085-3696",
+          "2541-4127"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://journal.islamiconomic.or.id/index.php/ijei/article/download/42/43"
+      },
+      "topics": [
+        "Islamic Finance and Banking Studies"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2597002539"
+    },
+    {
+      "openalex_id": "W2049623879",
+      "doi": "10.21435/sfh.12",
+      "title": "Modernisation in Russia since 1900",
+      "authors": [
+        {
+          "name": "Jeremy Smith",
+          "openalex_id": "A5110094462",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Markku Kangaspuro",
+          "openalex_id": "A5012381235",
+          "orcid": "https://orcid.org/0000-0002-5112-4244",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-27",
+      "abstract": "Modernisation has been a constant theme in Russian history at least since Peter the Great launched a series of initiatives aimed at closing the economic, technical and cultural gap between Russia and the more \u2018advanced\u2019 countries of Europe. All of the leaders of the Soviet Union and post-Soviet Russia have been intensely aware of this gap, and have pursued a number of strategies, some more successful than others, in order to modernise the country. But it would be wrong to view modernisation as a unilinear process which was the exclusive preserve of the state. Modernisation has had profound effects on Russian society, and the attitudes of different social groups have been crucial to the success and failure of modernisation. This volume examines the broad theme of modernisation in late imperial, Soviet, and post-Soviet Russia both through general overviews of particular topics, and specific case studies of modernisation projects and their impact. Modernisation is seen not just as an economic policy, but as a cultural and social phenomenon reflected through such diverse themes as ideology, welfare, education, gender relations, transport, political reform, and the Internet. The result is the most up to date and comprehensive survey of modernisation in Russia available, which highlights both one of the perennial problems and the challenges and prospects for contemporary Russia.",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://oa.finlit.fi/site/books/10.21435/sfh.12/download/7745/"
+      },
+      "topics": [
+        "Russia and Soviet political economy"
+      ],
+      "referenced_works_count": 284,
+      "url": "https://openalex.org/W2049623879"
+    },
+    {
+      "openalex_id": "W938500601",
+      "doi": "10.12759/hsr.34.2009.2.88-98",
+      "title": "Chance and Necessity in History: E.H. Carr and Leon Trotsky Compared",
+      "authors": [
+        {
+          "name": "Ann Talbot",
+          "openalex_id": "A5027448451"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "'In seinem Buch 'Was ist Geschichte?' bezeichnete der britische Historiker E.H. Car die kontrafaktische Geschichte (oder die 'Was w\u00e4re wenn...'-Schule) als 'parlour game' - als Gesellschaftsspiel. Carrs Ablehnung dieser Str\u00f6mung war eine Antowrt auf Isaiah Berlins Kritik all jener, die an 'vast impersonal forces' (gro\u00dfen, abstrakten Kr\u00e4ften) in der Geschichte glaubten und die Rolle von Individuum und Zufall vernachl\u00e4ssigten. In den Augen Berlins trat Carr in die Fu\u00dfstapfen von Hegel und Marx und sah die Geschichte als einen pr\u00e4-determinierten Prozess, der von Notwendigkeit und nicht von Zufall geleitet wird. W\u00e4hrend sich die Einfl\u00fcsse sowohl von Hegel wie auch von Marx in Carrs Arbeit wiederfinden, wird dieser Artikel zeigen, dass Carrs Geschichtsbild sich klar von jenem von Marx, Engels, Plekhanov, Labriola und Trotsky (welcher die Rolle von Zufall in der Geschichte immer einger\u00e4umt hat) unterscheidet. Der Text vergleicht Carrs historische Methode mit jener von Trotsky in Geschichte der Russischen Revolution.' (Autorenreferat)",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Social Science Open Access Repository (GESIS \u2013 Leibniz Institute for the Social Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.ssoar.info/ssoar/handle/document/28672"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Political theory and Gramsci",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W938500601"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'empiriomonist critique of dialectical materialism Bogdanov Plekhanov Lenin Yassour', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_ff31ff92fda69b9e)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "empiriomonist critique of dialectical materialism Bogdanov Plekhanov Lenin Yassour",
+  "results": [
+    {
+      "paperId": "3497507e80709210cacb5852aeb033a041d24703",
+      "title": "The empiriomonist critique of dialectical materialism: Bogdanov, Plekhanov, Lenin",
+      "authors": [
+        {
+          "name": "A. Yassour",
+          "authorId": "115451526"
+        }
+      ],
+      "year": 1983,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/BF00832209",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3497507e80709210cacb5852aeb033a041d24703",
+      "venue": "",
+      "journal": {
+        "name": "Studies in Soviet Thought",
+        "pages": "21-38",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

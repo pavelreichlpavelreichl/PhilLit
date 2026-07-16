@@ -1,0 +1,896 @@
+[search_openalex.py] Searching OpenAlex: 'Plekhanov epistemology reflection theory sensation', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_1fc65b0bb8c23806)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Plekhanov epistemology reflection theory sensation",
+  "results": [
+    {
+      "openalex_id": "W1273809832",
+      "doi": null,
+      "title": "A Unifying Field in Logics: Neutrosophic Logic. Neutrosophy, Neutrosophic Set, Neutrosophic Probability",
+      "authors": [
+        {
+          "name": "Florent\u00edn Smarandache",
+          "openalex_id": "A5012703845",
+          "orcid": "https://orcid.org/0000-0002-5560-5926"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-19",
+      "abstract": "Neutrosophy considers a proposition, theory, event, concept, or entity, \"A\" in relation to its opposite, \"Anti A\" and that which is not A, \"Non-A\", and that which is neither \"A\" nor \"Anti-A\", denoted by \"Neut-A\". Neutrosophy is the basis of neutrosophic logic, neutrosophic probability, neutrosophic set, and neutrosophic statistics.",
+      "cited_by_count": 723,
+      "type": "book",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/SMAAUF-2.pdf"
+      },
+      "topics": [
+        "Computability, Logic, AI Algorithms",
+        "Advanced Mathematical Theories",
+        "Advanced Algebra and Logic"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W1273809832"
+    },
+    {
+      "openalex_id": "W4281636328",
+      "doi": "10.12697/sss.2022.50.1.08",
+      "title": "Is language a system of signs? Lenin, Saussure and the theory of hieroglyphics",
+      "authors": [
+        {
+          "name": "Patrick S\u00e9riot",
+          "openalex_id": "A5042750798",
+          "orcid": "https://orcid.org/0000-0002-4805-883X",
+          "institutions": [
+            "University of Lausanne"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-01",
+      "abstract": "This paper strives to pursue two goals at the same time: how can one get to know in depth the intellectual life of the USSR in the 1930s\u20131950s; and, what can the virulent anti-Saussurean criticism in Russia at that time tell us about the specificity of the Marxist-Leninist theory of signs? We propose the following angle of attack: the recurring theme of this criticism, namely that Saussure\u2019s Cours presents a \u201ctheory of hieroglyphics\u201d, therefore a type of \u201cbourgeois idealist\u201d theory that Lenin assailed in his 1909 book Materialism and Empiriocriticism about Ernst Mach. Yet thinking about hieroglyphics is based on much older controversies, dating back to the 17th century and concerning the deciphering of Egyptian writing. The issue which arises here is semiotic in nature: it is the scalar opposition between transparency and opacity of the sign that is at stake. Does the sign hide or reveal? The Soviet discourse on language and signs in the 1930s\u20131950s seems to be based on an interrogation of the sign/referent, language/ thought, form/content relationship. A part of the history of semiotics can thus be discovered from the critique of the \u201chieroglyphic theory\u201d, a little-known episode in a debate on the interpretation of Saussurism.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Sign Systems Studies",
+        "type": "journal",
+        "issn": [
+          "1406-4243",
+          "1736-7409"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ojs.utlib.ee/index.php/sss/article/download/SSS.2022.50.1.08/13693"
+      },
+      "topics": [
+        "Historical Linguistics and Language Studies"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W4281636328"
+    },
+    {
+      "openalex_id": "W2994092906",
+      "doi": null,
+      "title": "Neutrosophy, A New Branch of Philosophy",
+      "authors": [
+        {
+          "name": "Florent\u00edn Smarandache",
+          "openalex_id": "A5012703845",
+          "orcid": "https://orcid.org/0000-0002-5560-5926"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "In this paper is presented a new branch of philosophy, called neutrosphy, which studies the origin, nature, and scope of neutralities, as well as their interactions with different ideational spectra. The Fundamental Thesis: Any idea is T% true, I% indeterminate, and F% false, - where T, I, F are standard or non-standard subsets included in ]0-, 1+[. The Fundamental Theory: Every idea tends to be neutralized, diminished, balanced by ideas (not only , as Hegel asserted) - as a state of equilibrium. Neutrosophy is the base of neutrosophic logic, a multiple value logic that generalizes the fuzzy logic, of neutrosophic set that generalizes the fuzzy set, and of neutrosphic probability and neutrosophic statistics, which generalize the classical and imprecise probability and statistics respectively.",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "UNM\u2019s Digital Repository (University of New Mexico)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalrepository.unm.edu/math_fsp/24"
+      },
+      "topics": [
+        "Cognitive Science and Mapping",
+        "Advanced Mathematical Theories"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2994092906"
+    },
+    {
+      "openalex_id": "W2763531278",
+      "doi": null,
+      "title": "Soviet epistemologies and the materialist ontology of poor life : Andrei Platonov, Alexander Bogdanov and Lev Vygotsky",
+      "authors": [
+        {
+          "name": "Maria Chehonadskih",
+          "openalex_id": "A5075747004"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-01",
+      "abstract": "This thesis provides new perspectives on the epistemic conditions of pre- and post-revolutionary&#13;\\nSoviet thought (1910s\u2013early 1930s) and constructs a transdisciplinary entry point into a&#13;\\nmaterialist ontology of \u2018poor life\u2019. The concept of poor life engages contemporary debates on&#13;\\nclass composition and individuation from the materialist viewpoint of self-organising labour&#13;\\ncausality and social mediation. The thesis opens with a critical examination of the \u2018Western\u2019&#13;\\nand \u2018Eastern\u2019 divide in Marxist philosophy and shifts discussion from the official doctrine of&#13;\\nBolshevism to the under-represented epistemologies of Empirio-Marxism and Spinozist-&#13;\\nHegelianism in the philosophy and political theory of Alexander Bogdanov, the writings and art&#13;\\ncriticism of Andrei Platonov and the experimental philosophy and psychology of Lev Vygotsky.&#13;\\nA transdisciplinary, post-revolutionary logic assumes that theory should start where Marx ended&#13;\\nand that it should act in a Marxist fashion across all conceptual and practical realms. The&#13;\\nreconstruction of these epistemological conditions leads to an alternative philosophical&#13;\\ngenealogy of Soviet avant-garde art and the writings of Andrei Platonov. The thesis explores the&#13;\\nconnections between the Empirio-Marxism of Bogdanov and the problematic of construction,&#13;\\n\u2018life-building\u2019 and production in the theories of the Soviet avant-garde. Bogdanov proposes an&#13;\\norganisational ontology of the active and productive capacity of labour to compose and&#13;\\nconstruct historically determined \u2018life-complexes\u2019 and orders of material relations. In turn, the&#13;\\norganisation of sensibility, things and relations, or communist \u2018life-building\u2019, becomes the&#13;\\nprimary theoretical and practical agenda of Proletkult, Constructivism, Productivism and the&#13;\\nLiterature of Fact. The thesis demonstrates the unique place of Andrei Platonov within these&#13;\\nconceptual settings. The core of the thesis is a reconstruction of Platonov\u2019s method and form of&#13;\\nwriting, the aim of which is to demonstrate the conceptual reciprocity of the problems of \u2018lifebuilding\u2019&#13;\\nand \u2018poor life\u2019. Platonov stresses the negativity of partition and compartmentalisation&#13;\\nwithin the compositional logic of \u2018life-building\u2019. In the experience of social poverty, the selforganising&#13;\\nforce of labour produces a disjunctive unity of thinking and speech, reaction and act,&#13;\\ntime and space. Vygotsky\u2019s Spinozist-Hegelianism exposes the structural logic of this&#13;\\nnegativity. The reconstruction of his system shows how mediation produces a dialectical&#13;\\ndramaturgy of individuation out of the compositional materiality of poverty and the given&#13;\\nensemble of social relations. The thesis concludes by outlining a differential unity between the&#13;\\nthree authors. The Soviet problematisation of poor life links social and ontological degrees of&#13;\\norganisation, offering epistemological models of compositional productivity and of the&#13;\\nindividuating negativity of \u2018life-building\u2019. The epistemic conditions that we reconstruct in the&#13;\\nthesis may have vanished along with their revolutionary context, but they are likely to resurface&#13;\\nin the course of any new experiment in radical social transformation.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://eprints.kingston.ac.uk/id/eprint/38850/1/Chehonadskih-M.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2763531278"
+    },
+    {
+      "openalex_id": "W2761216843",
+      "doi": "10.2478/csj-2021-0017",
+      "title": "Knowledge as Film vs. Knowledge as Photo: Alternative Models in Early Soviet Thought",
+      "authors": [
+        {
+          "name": "\u0414\u0430\u043d\u0438\u044d\u043b\u0430 \u0421\u0442\u0435\u0439\u043b\u0430",
+          "openalex_id": "A5080848100",
+          "orcid": "https://orcid.org/0000-0002-1374-5699",
+          "institutions": [
+            "University of Turin"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract While Lenin considered human knowledge to be similar to a mirror-like reflection of the object, Aleksandr Bogdanov emphasized the creative role of the subject in organizing the world. On the basis of some textual evidence, it is possible to describe the epistemologies of the two most influential Russian Marxists at the beginning of the twentieth century using the two metaphors of photography, on the one hand, and cinema, on the other. In particular, while discussing Einstein\u2019s relativity, Bogdanov considers sense organs, memory, and all the apparatus of human knowledge \u2018as a certain kind of cinematographic device\u2019. Sergei Eisenstein deems that cinema is \u2018an excellent instrument of perception \u2026 for the sensation of movement\u2019. Although it is difficult to find compelling proof of exchange and influence, this is an actual \u2018tangential point\u2019 between Bogdanov\u2019s and Eisenstein\u2019s ideas on human knowledge.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0017"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Italian Fascism and Post-war Society",
+        "Cinema and Media Studies"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2761216843"
+    },
+    {
+      "openalex_id": "W2466167772",
+      "doi": "10.1057/9781137011749_1",
+      "title": "The Riddles of Monism: An Introductory Essay",
+      "authors": [
+        {
+          "name": "Todd H. Weir",
+          "openalex_id": "A5077872001",
+          "orcid": "https://orcid.org/0000-0002-2840-2736"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Recent developments in the cognitive sciences point to a convergence, for some a clash, of the humanities and natural science. In 2004, a group of leading neurobiologists published a manifesto in the German journal Gehirn und Geist (Brain and Mind), claiming that advances in their discipline meant that it was poised to tackle the problems of consciousness and free will. In the growing field of evolutionary psychology, the leading research question \"what is the evolutionary good of God?\" indicates that religion has been subsumed under the explanatory framework of Darwinian natural selection.1 In the humanities, meanwhile, some scholars are looking to the physiology of affective response to support new theories of emotions, subjectivity, and cognition, while others have argued that historical inquiry needs to extend its reach beyond written and archaeological sources and examine the brain itself as an evolving social product, where the \"features of culture\" have been \"wired in human physiology.\"2 As they cross over the disciplinary boundaries of natural science and the humanities, these varied scholarly endeavors represent a common challenge to the Cartesian conception of mind and body as essentially separate domains. Against dualistic understandings of human reality, they seek to analyze nature and culture from a single vantage point. Philosophically, this stance is called monism.3KeywordsNatural SciencePopular ScienceRacial HygieneState ChurchMonistic ElementThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+      "cited_by_count": 24,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan US eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/9781137011749_1.pdf"
+      },
+      "topics": [
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2466167772"
+    },
+    {
+      "openalex_id": "W4210621926",
+      "doi": "10.2478/csj-2021-0014",
+      "title": "Aleksandr Bogdanov and Lenin on \u201cThings-In-Themselves\u201d",
+      "authors": [
+        {
+          "name": "\u0412\u0435\u0441\u0430 \u041e\u0439\u0442\u0442\u0438\u043d\u0435\u043d",
+          "openalex_id": "A5056209509",
+          "orcid": "https://orcid.org/0000-0002-1022-9912",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract Questions on the theory of cognition formed one of the focal points in the dispute between orthodox Russian Marxists and Aleksandr Bogdanov and his followers. Bogdanov was an adherent of Mach\u2019s theory, which abandoned Kant\u2019s concept of \u201cthings-in-themselves\u201d ( Ding an sich ) outside the cognizing subject. According to Mach and Bogdanov, there is no need to duplicate human experience in appearances given in the senses and things behind these appearances. The orthodox Marxists, Lenin as well as Plekhanov, insisted that Kant\u2019s concept of things-in-themselves should be retained, but in a modified form: the things-in-themselves do not form a limit to our knowledge, as Kant (allegedly) thought, but turn into \u201cthings-for-us\u201d in the everyday processes of material and scientific production. Both solutions, the Machian and the orthodox Marxist, have their problems. In the Soviet era, Lenin was depicted as the winner of the dispute. But a closer examination of Bogdanov\u2019s arguments shows that he actually found some weak points in Lenin\u2019s conception. However, this does not mean that Lenin\u2019s critique of Bogdanov as a subjectivist in his theory of cognition was groundless.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0014"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophy, Science, and History",
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W4210621926"
+    },
+    {
+      "openalex_id": "W3037243157",
+      "doi": "10.1521/siso.2020.84.3.369",
+      "title": "Friedrich Engels and the Technoscientific Reproducibility of Life: Synthetic Cells as Case Material for Practicing Dialectics of Science Today",
+      "authors": [
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213",
+          "institutions": [
+            "Erasmus University Rotterdam"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-23",
+      "abstract": "Friedrich Engels\u2019 dialectical assessment of modern science resulted from his fascination with the natural sciences (cell physiology, thermodynamics, theory of evolution) in combination with his resurging interest in the work of \u201cold Hegel.\u201d Engels became especially interested in what he saw as the molecular essence of life, namely proteins or, more specifically, albumin ( Eiwei\u00df ), seeing life as the mode of existence of these enigmatic substances. Hegelian dialectics is crucial for a dialectical materialist understanding of contemporary technoscience. The dialectical materialist understanding of technoscience as a research practice builds on Engels, but also on later (scientific) authors who were inspired by his writings, e.g. , life scientists such as Haldane and Bernal. Considering the criticism raised against Engels\u2019 dialectics by 20th-century Marxists, a dialectical diagnostic of contemporary technoscience can be achieved, which shifts the focus from artificial albumin as \u201cliving matter\u201d (as discussed by Engels) to contemporary research on synthetic cells (as anticipated by Engels).",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Science & Society",
+        "type": "journal",
+        "issn": [
+          "0036-8237",
+          "1943-2801"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pure.eur.nl/files/48253536/Engels-Technoscience.pdf"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Cybernetics and Technology in Society"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W3037243157"
+    },
+    {
+      "openalex_id": "W2948301086",
+      "doi": null,
+      "title": "Defining the Monster: The Social Science and Rhetoric of Neo-Marxist Theories of Imperialism in the United States and Latin America, 1945-1973",
+      "authors": [
+        {
+          "name": "Christopher Cody Stephens",
+          "openalex_id": "A5105286543"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Drawing from a range of newly available archival materials gathered from multiple countries, my dissertation traces the North American academic reception of Latin American anti-imperialist intellectual traditions in the 1960s and 1970s. Obviously this is a broad story, to which I only contribute a piece. To limit the scope of the narrative, I have focused primarily on the intellectuals surrounding the independent socialist journal Monthly Review, and used that as a frame for bringing in other actors. The archival source base includes the personal papers of Paul Sweezy, Paul Baran, Andre Gunder Frank, and Harry Magdoff; the journals Monthly Review, Studies on the Left, American Socialist; and the international records of the Trotskyist Socialist Workers\u2019 Party (SWP). The correspondence of the editors of Monthly Review and the records of the SWP reveal a broad and overlapping network of actors spanning virtually the entire globe. I have also drawn from a wide range of South American sources to provide the context and background for the intellectual currents these North American thinkers encountered when they turned their attention to South American thought, as indicated in their correspondence. Notable examples include the works of Jos\u00e9 Carlos Mari\u00e1tegui, Silvio Frondizi, Milc\u00edades Pe\u00f1a, Sergio Bag\u00fa, Theotonio dos Santos, Ruy Mauro Marini, Regis Debray, and Adolfo Gilly as well as internal documents of the University of Chile\u2019s Centro de Estudios Socioeconomicos, an interdisciplinary research center that housed many of the most influential dependentistas from 1966 to 1973.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/9gr303h9"
+      },
+      "topics": [
+        "Political and Social Dynamics in Chile and Latin America"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2948301086"
+    },
+    {
+      "openalex_id": "W2169746056",
+      "doi": "10.1080/10455759409358588",
+      "title": "Aleksandr Bogdanov:<i>Proletkult</i>and conservation\u2217",
+      "authors": [
+        {
+          "name": "Arran Gare",
+          "openalex_id": "A5091008316",
+          "orcid": "https://orcid.org/0000-0003-4995-4035"
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-06-01",
+      "abstract": "The most important figure among Russia's radical Marxists was A.A. Bogdanov (the pseudonym of Aleksandr Aleksandrovich Malinovskii). Not only was he the prime exponent of a proletarian cultural revolution; it was Bogdanov's ideas which provided justification for concern for the environment. And his ideas are not only important to environmentalists because they were associated with this conservation movement; more significantly they are of continuing relevance because they confront the root causes of environmental destruction in the present, and offer what is perhaps the only way to overcome these causes. Bogdanov's career and ideas are therefore worth investigating in more depth. [Introduction]",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Capitalism Nature Socialism",
+        "type": "journal",
+        "issn": [
+          "1045-5752",
+          "1548-3290"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/abs/10.1080/10455759409358588"
+      },
+      "topics": [
+        "Literature and Cultural Memory",
+        "German History and Society",
+        "Narrative Theory and Analysis"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W2169746056"
+    },
+    {
+      "openalex_id": "W4387391673",
+      "doi": "10.34632/philosophyandsocialvalues.2018.2710",
+      "title": "Marx\u2019s Epistemology and the Problem of Conflated Idealisms",
+      "authors": [
+        {
+          "name": "Vicent L. Casil",
+          "openalex_id": "A5093014576"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-30",
+      "abstract": "Focusing on the conceptual terms of the idealist-realist debate, the paper shows that the inability of the realists to recognize Marx\u2019s idealist heritage is out of the realists\u2019 limited understanding of the category of idealism in their reading. To prove the paper\u2019s case, the first section starts with elucidation of Marx\u2019s concept of epistemological idealism as read by his interpreters. It shows the actual meaning of epistemological idealism as used by Kolakowski, Lukacs, and other idealist readers of Marx. The second section shows how the realists conflate the two idealisms, how the realist reading is erroneously grounded on failure to clarify the difference between the concept of ontological and epistemological idealism. The third section highlights the differences between epistemological and ontological idealism. It explains that Ontological idealism claims that idea is the fundamental reality, while epistemological idealism suggests that knowledge is dependent upon the subject.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://revistas.ucp.pt/index.php/philosophyandsocialvalues/article/view/2710"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4387391673"
+    },
+    {
+      "openalex_id": "W4388872160",
+      "doi": "10.1515/9783111331843",
+      "title": "Left-Kantianism in the Marburg School",
+      "authors": [
+        {
+          "name": "Elisabeth Theresia Widmer",
+          "openalex_id": "A5091490165",
+          "orcid": "https://orcid.org/0000-0002-8939-0978"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-31",
+      "abstract": "Widmer sheds light on a neglected aspect of the Western philosophical tradition. Following an era of Hegelianism, the members of the neo-Kantian \"Marburg School,\" such as Friedrich Albert Lange, Hermann Cohen, Rudolf Stammler, Paul Natorp, and Ernst Cassirer defended socialism or left-wing ideals on Kantian principles. In doing so, Widmer breaks with two mistaken assumptions. First, Widmer demonstrates that the left-Hegelian and Marxist traditions were not the only significant philosophical sources of socialist critique in nineteenth-century Germany, as the left-Kantians identified problems of normativity that the left-Hegelians could not adequately address. Second, Widmer challenges the prevailing assumption that the political philosophies developed in the Marburg School can be comprehensively characterized as a unified school of \"ethical socialism.\" By showing that they varied fundamentally regarding their political views and their philosophical foundations of socialism, Widmer fills a gap in the studies of neo-Kantianism that is long overdue.",
+      "cited_by_count": 7,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1515/9783111331843"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "German Social Sciences and History"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W4388872160"
+    },
+    {
+      "openalex_id": "W3120749111",
+      "doi": "10.4312/as.2021.9.1.227-262",
+      "title": "Shadowlands of Objectivism and Comprehensiveness",
+      "authors": [
+        {
+          "name": "Jan Vrhovski",
+          "openalex_id": "A5010664830",
+          "orcid": "https://orcid.org/0000-0002-5962-5051",
+          "institutions": [
+            "Charles University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-08",
+      "abstract": "The article aims at presenting an overview of the main concepts in the philosophical thought of Zhang Shenfu, one of the leading intellectuals from Republican China (1912\u20131949). The study sets out from a brief summary of Zhang\u2019s intellectual achievements, and proceeds by offering a more concise picture of the main influences, developmental stages and finally also central ideas of Zhang\u2019s thought. By offering a general view on the concrete confluences and dissonances between the keystones of Zhang\u2019s philosophy on one side, and its alleged sources in Western and Chinese philosophy on the other, this study further aims at presenting a new insight into the unique characteristics of Zhang\u2019s philosophy. At the same time, by setting the discussion on Zhang\u2019s philosophy in a broader context of contemporary intellectual discourse, the article also endeavours to establish a tentative basis for the future critical analyses and potential revaluations of Zhang Shenfu\u2019s role in intellectual history of modern China.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Asian Studies",
+        "type": "journal",
+        "issn": [
+          "2232-5131",
+          "2350-4226"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revije.ff.uni-lj.si/as/article/download/9220/9318"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Indian and Buddhist Studies"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W3120749111"
+    },
+    {
+      "openalex_id": "W2099632699",
+      "doi": null,
+      "title": "Yithi Uyindoda! (Say, you are a man!) : an ethnographic study on the religion and masculinities in initiation schools in Cape Town Townships",
+      "authors": [
+        {
+          "name": "Mawethu Ncaca",
+          "openalex_id": "A5035351891"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-01",
+      "abstract": "This thesis investigates the construction of masculinity in the Xhosa initiation school (ulwaluko) in the townships of Cape Town, South Africa from a religio-cultural perspective.This ethnographic study utilized interviews with participants, observations of the initiation school, and is also complemented with documents that are written by Xhosa authors Thando Mqolozana, Nelson Mandela, Peter Mtuze, and A.N.N.Ngxamngxa.The documentary by Mayenzeke Baza and a blog post by Xhosa journalist Luzuko Pongoma were also used.The data collection and analysis was done with the Grounded Theory Approach using Atlas.tiversion 7. The ontological and epistemological premise is of the constructivist understanding.The conceptual framework is grounded within the African philosophy of Ubuntu and African religio-cultural underpinnings.A new term, ancestral masculinity, was given to depict the type of masculinity described by the findings.It is marked by participating in a 'manhood' rites of passage and adhering to its prescribed processes and procedures, according to the 'living and dead' ancestors, in order for one to be accepted and recognized as part of the community.The findings show that",
+      "cited_by_count": 5,
+      "type": "dissertation",
+      "source": {
+        "name": "SUNScholar (Stellenbosch University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10019.1/86595"
+      },
+      "topics": [
+        "Poverty, Education, and Child Welfare",
+        "African cultural and philosophical studies",
+        "Religious Education and Schools"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2099632699"
+    },
+    {
+      "openalex_id": "W3086445319",
+      "doi": null,
+      "title": "Friedrich Engels and the technoscientific reproducibility of life",
+      "authors": [
+        {
+          "name": "Hub Zwart",
+          "openalex_id": "A5045481716",
+          "orcid": "https://orcid.org/0000-0001-8846-5213"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-03",
+      "abstract": "Friedrich Engels' dialectical assessment of modern science resulted from his fascination with the natural sciences (cell physiology, thermodynamics, theory of evolution) in combination with his resurging interest in the work of \"old Hegel.\"Engels became especially interested in what he saw as the molecular essence of life, namely proteins or, more specifically, albumin (Eiwei), seeing life as the mode of existence of these enigmatic substances.Hegelian dialectics is crucial for a dialectical materialist understanding of contemporary technoscience.The dialectical materialist understanding of technoscience as a research practice builds on Engels, but also on later (scientific) authors who were inspired by his writings, e.g., life scientists such as Haldane and Bernal.Considering the criticism raised against Engels' dialectics by 20th-century Marxists, a dialectical diagnostic of contemporary technoscience can be achieved, which shifts the focus from artificial albumin as \"living matter\" (as discussed by Engels) to contemporary research on synthetic cells (as anticipated by Engels).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ZWAFEA.pdf"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3086445319"
+    },
+    {
+      "openalex_id": "W2605408564",
+      "doi": null,
+      "title": "Reclaiming Native Soil: Cultural Mythologies of Soil in Russia and Its Eastern Borderlands from the 1840s to the 1930s",
+      "authors": [
+        {
+          "name": "Laura Mieka Erley",
+          "openalex_id": "A5005893550"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "This dissertation explores the cultural topos of soil in Russian and early Soviet culture. Centered on the Soviet project of land reclamation in Central Asia in the 1930s, this dissertation traces the roots of Soviet utopian and dystopian fantasies of soil to the ideological and discursive traditions of the 19th century. It considers how Soviet cultural, scientific, and political figures renovated and adapted 19th-century discourse in order to articulate for their own age the national, revolutionary, and utopian values attached to soil. The intersection of national soil and national identity in this discourse is examined, along with the persistent fear that Russian identity and utopian aspirations are threatened by \"Asian\" land, both within and beyond Russia's borders.\\tProviding an overview of selected high points in the discursive history of soil in Russia, this study begins with romantic and materialist discourses of soil from the 1840s to the 1860s, tracing organicist concepts of native soil from German philosopher Herder to literary critic Vissarion Belinskii and thence to the symbolic uses of Russian pochva in the writings of the Slavophiles, the pochvenniki, and others. A case study follows on German chemist Justus Liebig and the transfer of scientific metaphors of soil into the cultural domain, concluding with a discussion of Liebig's influence on Marx's theory of social metabolism and its far-reaching influence on Soviet ideology.\\tThe study moves to its core discussion of Soviet poetics and ideologies of land use in the 1920s and 1930s. First, I examine writer and land reclamation engineer Andrei Platonov's novella Dzhan in the context of Soviet technological utopianism and the campaign to transform the sands of Central Asia into fertile soil. The following chapter extends the discussion of Soviet land reclamation to the dystopic themes of the Asiatic mode of production and \"reforging\" in the novels of Platonov, Bruno Jasienski, and Boris Pil'niak. This study closes with a discussion of the revival of organic conceptual metaphors of nationality and national soil in the context of the smychka, or union, between the Soviet center and its Asian periphery in the films of Vertov, Turin, Kalatozov, and Iarmatov.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/74g4p86x"
+      },
+      "topics": [
+        "Soviet and Russian History",
+        "Eastern European Communism and Reforms",
+        "Religious Studies and Spiritual Practices"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W2605408564"
+    },
+    {
+      "openalex_id": "W3215020736",
+      "doi": "10.1007/s13412-021-00731-z",
+      "title": "The aesthetic ideology of Juliana v. United States and its impact on environmentally engaged citizenship",
+      "authors": [
+        {
+          "name": "Dana Neac\u0219u",
+          "openalex_id": "A5056437826",
+          "institutions": [
+            "Duquesne University",
+            "Barnard College"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-24",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Journal of Environmental Studies and Sciences",
+        "type": "journal",
+        "issn": [
+          "2190-6483",
+          "2190-6491"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13412-021-00731-z.pdf"
+      },
+      "topics": [
+        "Ecocriticism and Environmental Literature",
+        "Environmental law and policy",
+        "Geographies of human-animal interactions"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W3215020736"
+    },
+    {
+      "openalex_id": "W4389016235",
+      "doi": "10.1163/9789004679023_030",
+      "title": "Theory of Ideology",
+      "authors": [
+        {
+          "name": "Jan Rehmann",
+          "openalex_id": "A5038326155"
+        },
+        {
+          "name": "Peter D. G. Thomas",
+          "openalex_id": "A5041930110",
+          "orcid": "https://orcid.org/0000-0002-7906-196X"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-14",
+      "abstract": "The concept of \"ti\" was coined in the 1970s in order to designate a refoundation of Marxist research into ideology stimulated by Louis Althusser.It was distinguished from three other approaches: 1. the reduction of ideologies to epiphenomena of the economic (\"economism\"); 2. an ideology-critique that focuses on the critique of \"false consciousness\" from the standpoint of a \"correct consciousness\"; 3. bourgeois \"legitimation theories\" from Max Weber to Niklas Luhmann, which pose the question of the capacity of ideological integration in a \"social-technological\" way, from the perspective of domination and its self-justification.The need for ti resulted from the fact that none of these traditions were able to explain the stability of bourgeois society and its state, let alone to develop a strategy of socialist transformation capable of gaining hegemony.The approaches of ti attempted to fulfil this need by inquiring into the social constitution and unconscious modes of functioning and efficacy of the ideological.ti focuses upon ideology's \"materiality\", i.e. its existence as an ensemble of apparatuses, intellectuals, rituals, and forms of praxis.ti should not be comprehended as a new discovery, but, rather, as a rearticulation and new re-evaluation of questions that had already been worked on by Marx and Engels and later, in particular, by Antonio Gramsci.The distinction from the approaches of \"ideology-critique\" is not absolute: on the one hand, because these also deal with the social conditions of constitution and efficacy of ideologies; on the other hand, because ti approaches also contain a component of critique, which differs, however, in that the paradigm of the truth-falsity dichotomy is transferred to the analysis of the mode of efficacy and the opposition is transformed into one of the reproduction of domination versus emancipation.1.The term ideology was introduced in 1796 by Destutt de Tracy as a neologism (analogous to ontology) to signal an analytical science that aimed, following the model of the exact natural science (in particular, physiology), to dissect ideas into elementary component parts and -derived from the Greek sense",
+      "cited_by_count": 0,
+      "type": "reference-entry",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/book/9789004679023/BP000029.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Marxism and Critical Theory",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W4389016235"
+    },
+    {
+      "openalex_id": "W655214775",
+      "doi": "10.15123/pub.3897",
+      "title": "Affect and Cultural Change: The Rise of Popular Zionism in the British Jewish Community After the Six Day War (1967)",
+      "authors": [
+        {
+          "name": "Jamie Hakim",
+          "openalex_id": "A5088112449",
+          "orcid": "https://orcid.org/0000-0001-6767-6564"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "In current Jewish Studies scholarship there is a broad consensus that the Arab-Israeli war of June 1967 caused both an intense emotional response in Britain\u2019s Jewish community and a change in the relationship this community had with the State of Israel. What this scholarship has yet to provide is either a detailed account of the ways that the June 1967 war impacted on this community or a sustained theorisation of how the intensity generated by a world-historical event might bring about change. This thesis attempts to address these gaps by interviewing twelve British Jews who lived through their community\u2019s response to the war and supplement this data with original archival research, adding detail that is currently missing from the historical record. It then interprets this data using a cultural studies approach grounded, primarily, in the thought of Gilles Deleuze and Felix Guattari. In using this approach this thesis reveals that it was the intense affectivity generated by the Zionist representation of the war as the \u2018Six Day War\u2019 that caused the community to change in the post-1967 conjuncture. It then identifies these changes as cultural \u00ac\u2013 occurring on the planes of identity, representation, everyday life, cultural practice and, most crucially, affectivity. In revealing the centrality of affect in the impact of the war on the British Jewish community, this thesis argues that the hegemonic form of Zionism that emerges within that community after 1967 is \u2018Popular Zionism\u2019, defined as an intensely charged affective disposition towards the State of Israel that is lived out in the cultural identities, everyday lives and cultural practices of British Jews.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "ROAR (University of East London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://repository.uel.ac.uk/download/f2fd2c23f2dc65cc48bfea0d48045bad9664a5aef4194461836cbeef2ffc230b/2035451/Jamie_Hakim_PhD_Thesis_Amended.pdf"
+      },
+      "topics": [
+        "Jewish and Middle Eastern Studies",
+        "Music History and Culture",
+        "Rhetoric and Communication Studies"
+      ],
+      "referenced_works_count": 177,
+      "url": "https://openalex.org/W655214775"
+    },
+    {
+      "openalex_id": "W2235879704",
+      "doi": null,
+      "title": "Yoshimoto Taka\u2019aki, Communal Illusion, and the Japanese New Left",
+      "authors": [
+        {
+          "name": "Manuel Yang",
+          "openalex_id": "A5011852443",
+          "institutions": [
+            "University of Toledo"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "In completing this manuscript, I am also keenly aware of how much \"transformation\" I need to call for my own writing, which, unlike Marx and Engels' s brilliant tract, is inspired with neither poetic nor analytical genius of compression.In fact, if I am to be utterly candid, the following essay is barely aware of its own \"theses,\" let alone capable of calling for their transformation.Paradoxically, however, I believe this to be the major merit of what I have written here: that at the end of wading through the mires of lackluster, pedestrian prose and disorganized, redundant trajectories of thought I have finally come to realize just what my theses are.Sometimes this is indeed the case, that at the end of a struggle, even as half-hearted and somewhat convoluted as this one, one finds only the beginning of an investigation.In the great likelihood that these theses that I have only retrospectively discovered may not be self-evident in the main body of the text, I shall note them here, in necessarily telegraphic, open-ended, incomplete fashion, with the dual purpose of self-criticism and reminder that the thesis itself is nothing more than a self-effacing preface to an as-yet unwritten work.That there is also a specter that haunts this \"preface\" masquerading as a thesis, a specter that traces an embryonic outline of a work that was never written but might yet be, hinting at premonitions for writings that were implicitly promised but remain potential, unarticulated, dormant, demanding an unexpected arrival in a future work:1.The Japanese working class: Yoshimoto Taka' aki is an \"organic intellectual\" of the Japanese working class, but the Japanese working radicalization, which is to say also in the tradition of a certain Marxism, in a certain spirit of 14 Marx and Engels % a D q 2 B , !B Ky sant sengen, g 4 2 ( ! ! (Tokyo: Iwanami shoten, 1971), 37.Both uchi and Sakisaka are leading Marxist scholars of the Old Left, both associated with prewar R n -ha Marxism and long active as left-wing figures in the postwar Japanese Socialist Party.xxvi screen when an internally echoing strike on the bell signaled around two to two-thirty in the morning, bakmono appeared on various occasions. 15 With its intimacy with capitalistically modernized urban setting, lack of fixed ties to the land, individuated focus on their potential hosts, and bondage to time, y rei shared those characteristics of quotidian experience that the Japanese industrial proletariat had themselves undergone in the first two decades of the twentieth century when K toku and Sakai were translating and publishing the Manifesto.One of most significant cores of this new working class were the y rei of dead Japanese coalminers who were starting to haunt the underground hell of Japanese capitalism.Restricting ourselves only to the Chikuh region between the years 1907 and 1918, we find that 1656 miners died from a handful of gas explosions in coalmines owned by Mitsubishi, Sumitomo, Nittetsu, and other companies. 16 Fused with legends of the Japanese commons, these coalminers developed their own proletarian folklore of ghosts and spirits.Many of these stories featured ghosts of miners who died inside the mines and, condemned to wander in search of an exit aboveground, sought their desperate escape by humping on the backs of the living miners; these tales usually ended with the dead and living achieving liberation through proper burial rituals conducted by the living.In the early years of the coalmining industry when many of the miners were women, many of these ghosts took female forms.The most important characteristic of these underground legends, however, concerned \"the cooperation of labor between the dead and the living.\"15 Yanagita Kunio D D , Y kai dangi ( 4 (Tokyo: K dansha, 1977), 14-16. 16 Ueno Eishin !4 4 , Chi no soko no warai D W2 (Tokyo: Iwanami-shoten, 1967), 29.xxvii From a singular desire to come up aboveground, the dead voluntarily helped the work of the living...The dead appeared just as they were while they were alive, as workers, and, for a period of time, worked with the living as direct extractors of coal and as transporters.They had no aim except to climb up aboveground.Coming up aboveground was here inextricably and firmly bound up with the act of working together.Moreover, as noted in the previous story, without exception they appeared next to the living at a time when the latter were driven to struggle desperately in despair under the dangerous condition when the coal face was about to collapse at any moment.We can clearly observe in such a fantastic ghost story what great weight of fateful solidarity even the extremely elementary and simple labor form of working as a transporter at the face had for underground workers.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "OhioLink ETD Center (Ohio Library and Information Network)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://rave.ohiolink.edu/etdc/view?acc_num=toledo1122656731"
+      },
+      "topics": [
+        "Japanese History and Culture",
+        "Chinese history and philosophy",
+        "Asian Culture and Media Studies"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2235879704"
+    },
+    {
+      "openalex_id": "W237865153",
+      "doi": null,
+      "title": "Full Spectrum of Selves in Modern Chinese Literature: From Lu Xun to Xiao Hong",
+      "authors": [
+        {
+          "name": "Felicia Jiawen Ho",
+          "openalex_id": "A5014491252"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Despite postcolonial theory's rejection of legacies of Western imperial dominance and cultural hierarchy, the superiority of Euro-American notions of subjectivity remains a persistent theme in third world cross-cultural literary analysis. Interpretations of the Chinese May Fourth era often reduce the period to one of wholesale westernization and cultural self-repudiation. Euro-American notions of the self often reify ideologies of individuality, individualism, rationalism, evolution, and a \"self-versus-society\" dichotomy, viewing such positions as universal and applicable for judging decolonizing others. To interrogate this assumption, I examine the writing of Lu Xun and Xiao Hong, two May Fourth writers whose fictional characters present innovative, integrated, heterogeneous selves that transcend Western critical models. This \"full spectrum of selves\" sustains contradicting pulls of identity--the mental (the rational, the individual), the bodily (the survivalist, the affective), the cerebral (the moral), the social (the relational, the organismic), as well as the spiritual and the cosmic. I argue that Lu Xun's \"A Madman's Diary\" transcends limited Euro-American notions of subjectivity and the self by blending Buddhist, Daoist, and Confucian elements and by creating a \"both/and\" dynamic, inclusive of collectivist allegory and personal interiority. With regard to gender, I argue that Xiao Hong's characters cannot be circumscribed by Euro-American notions of subjectivity and feminism, or by Chinese patriarchal nationalism. Contrasting Lu Xun's tendency to kill-off female characters with Xiao Hong's themes of female survivorship, agency, and accountability--I highlight the latter's focus on agency over victimization, innovation over mimicry. Moreover, I explicate how Xiao Hong's notion of female subjectivity re-introduces survival as agency, challenging the covert links among agency, accountability, subjectivity, and judgment. Moreover, her stories contest the assumptions of the Great Man theory of history, asserting that quotidian details offer an alternative narrative and undo History as such. I thus posit that May Fourth did not enact a totalistic iconoclastic rejection of China's cultural self, but was an era of phenomenal self-inventory, re-invention, and change. By illustrating how different experiences of historic events, culture, gender, and class impacted cultural concepts of the self, I seek to recuperate cultural specificity from the dominion of Euro-American notions of subjectivity.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/5022k8qv"
+      },
+      "topics": [
+        "Chinese history and philosophy",
+        "Japanese History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W237865153"
+    },
+    {
+      "openalex_id": "W4390713961",
+      "doi": "10.52056/9791254694961",
+      "title": "Cultural Interactions in the Medieval Subcaucasian Region: Historiographical and Art-Historical Perspectives Vol. I. The Othering Gaze: Imperialism, Colonialism, and Orientalism in Studies on Medieval Art in the Southern Caucasus (1801\u20131991)",
+      "authors": [
+        {
+          "name": "Annalisa Moraschi",
+          "openalex_id": "A5059025555"
+        },
+        {
+          "name": "Kl\u00e1ra Dole\u017ealov\u00e1",
+          "openalex_id": "A5086420210"
+        },
+        {
+          "name": "Ruben Campini",
+          "openalex_id": "A5007817142"
+        },
+        {
+          "name": "Adrien Palladino",
+          "openalex_id": "A5006506621",
+          "orcid": "https://orcid.org/0000-0002-8553-1067"
+        },
+        {
+          "name": "Ivan Foletti",
+          "openalex_id": "A5032698808",
+          "orcid": "https://orcid.org/0000-0002-3080-7177"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-10",
+      "abstract": "This collaborative volume explains the nineteenth and twentieth century marginalization of one of the major centers of medieval culture and creativity, the Southern Caucasus, through an in depth histo-riographical approach. Tracing research traditions created within different linguistic spheres (Russian, German, French, Italian, and English) across time, it shows how and to what extent the birth of art historical studies on the region were conditioned by geopolitical stakes and by the social and cul-tural perception of the modern regions. From the creation of the Russian Caucasus Viceroyalty in 1801 until the end of the Cold War in 1991, the volume dissects how the region\u2019s medieval art was rediscov-ered, studied, and presented. In doing so, it decon-structs some of the most deeply rooted stereotypes of the discipline while at the same actively partici-pating in demarginalizing this region and affording it its rightful place in world art history.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Viella editrice eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.52056/9791254694961"
+      },
+      "topics": [
+        "Eurasian Exchange Networks",
+        "Ancient Mediterranean Archaeology and History",
+        "Archaeological Research and Protection"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W4390713961"
+    },
+    {
+      "openalex_id": "W7165234626",
+      "doi": null,
+      "title": "The spacetime of regional economic systems: Methodology, history, potentia",
+      "authors": [
+        {
+          "name": "E. P. Dyatel",
+          "openalex_id": "A5049577900"
+        }
+      ],
+      "publication_year": null,
+      "publication_date": null,
+      "abstract": "Implementing time and space into the conceptual framework of economic theory and regional economics is a relevant direction of research. The article particularly focuses on the issue of how the space-time continuum of economic systems is formed. Methodologically, the study rests on the dialectical-materialistic and formal systems approaches, both having its advantages and limitations, which are revealed in the process of verification and falsification. In the article, these methods of verifying scientific theory, along with the reinterpretation of fundamental concepts, are used to examine the works of the classics of Marxism and Russian Marxists (Georgi Plekhanov and Vladimir Lenin), the creator of tektology Alexander Bogdanov and his philosophical predecessor Ernst Mach as well as our contemporaries who are making a significant contribution to the application of general systems analysis to investigate economic phenomena (Gennady Kleiner, etc.). In our opinion, the gap in these studies is the underestimation of the a priori nature of human ideas about time and space as a result of \u201cpure contemplation (reine Anschauung)\u201d (Immanuel Kant). The understanding of social practice as a dialectical unity of the objective and the subjective helps to overcome the solely empirical perception of these phenomena. Then, of particular importance is an information carrier materialised in the space-time continuum, that is, infrastructure as a supporting framework of an economic system. Analysing the patterns of its formation and functioning is on the agenda of the economic science. We believe that a significant aspect in such research is the localisation of the boundaries of the economic system as a result of an optimal combination of environmental, production, and other elements of the supporting framework. The starting point of such studies can be the proposed hypothesis about an infrastructural cell of the initial spacetime environment of human activities.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "CyberLeninK (CyberLeninka)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cyberleninka.ru/article/n/the-spacetime-of-regional-economic-systems-methodology-history-potentia/pdf"
+      },
+      "topics": [
+        "Economic Development and Digital Transformation",
+        "Economic and Technological Developments in Russia",
+        "Regional Economic Development and Innovation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7165234626"
+    },
+    {
+      "openalex_id": "W4417491599",
+      "doi": "10.26520/ijtps.2025.9.16.82-94",
+      "title": "RELIGION OF MAN-GOD BY L. FEUERBACH BY BULGAKOV",
+      "authors": [
+        {
+          "name": "Michael Yurievich KUZNETSOV",
+          "openalex_id": "A5120855182"
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-05-21",
+      "abstract": "This study examines Sergei Nikolaevich Bulgakov\u2019s perspectives on Vladimir Solovyov\u2019s concept of Sophia and Ludwig Feuerbach\u2019s epistemology, as well as Bulgakov\u2019s political views on monarchy, constitutional monarchy, liberal republic, and the workers\u2019 state. It explores the author\u2019s stance on sensualism and idealism, providing a comparative analysis of Feuerbach\u2019s and Bulgakov\u2019s epistemological frameworks",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Theology Philosophy and Science",
+        "type": "journal",
+        "issn": [
+          "2601-1689",
+          "2601-1697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.26520/ijtps.2025.9.16.82-94"
+      },
+      "topics": [
+        "Vladimir Nabokov Literary Studies",
+        "Political Theology and Sovereignty",
+        "European Linguistics and Anthropology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4417491599"
+    },
+    {
+      "openalex_id": "W4387042007",
+      "doi": "10.22363/2313-2302-2023-27-3-582-597",
+      "title": "Receptions of Kant\u2019s Philosophy in Russian Empiriocriticism",
+      "authors": [
+        {
+          "name": "Aleksandr E. Rybas",
+          "openalex_id": "A5039669001",
+          "orcid": "https://orcid.org/0000-0003-2120-2667",
+          "institutions": [
+            "St Petersburg University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-15",
+      "abstract": "The article analyzes the influence of Kantian philosophy on the problems and development of Russian empiriocriticism. It is shown that the critical pathos of Kant\u2019s philosophy, as well as his call for intellectual honesty in philosophy, was appreciated first of all. Relying on Kant, Russian empiriocritics proved the inconsistency of metaphysics in both its religious and materialistic forms. In addition, the teachings of the founders of empiriocriticism, E. Mach and R. Avenarius, were also criticized because some dogmatic assumptions were found in them. Attempts to eliminate these assumptions resulted in a dynamic concept of experience, based on which the concepts of empiriomonism (A. Bogdanov), empiriosymbolism (P. Yushkevich), scientific philosophy (V. Lesevich), positive philosophy of life (S. Suvorov), positive aesthetics (A. Lunacharsky), ethics of mutual joy (A. Bogdanov) and many others were developed. Special attention was paid to the analysis of the \u201cthing-in-itself\u201d since this very concept of Kantian philosophy was used by G. Plekhanov to justify \u201corthodox\u201d Marxism. Russian empiriocritics opposed Plekhanov\u2019s identification of the \u201cthing in itself\u201d and the material object, arguing that the concept of matter is a metaphysical assumption and, for this reason, cannot contribute to refuting dualism and Kantian \u201cagnosticism.\u201d From the monistic point of view, the \u201cthing-in-itself\u201d should be understood on the basis of experience as a necessary form of its organization. According to Bogdanov, there is nothing a priori in the \u201cthing-in-itself\u201d; this idea appeared as a result of substituting the known for the unknown and expressed a process rather than essence. Kant\u2019s aesthetics and moral philosophy were also actively discussed in Russian empiriocriticism. The interpretation of beauty as \u201cexpediency without purpose\u201d was extended to the fundamental principle of the \u201caesthetic worldview,\u201d which gave credibility to the doctrine of the ideal, the practice of social construction, etc. As a result of the polemic with the ethics of compassion, of which Kant was considered the most authoritative defender, an alternative ethic of mutual joy was created. Thus, the influence of Kantian philosophy on Russian empiriocritics was complex and contributed to the development of new ideas.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "RUDN Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "2313-2302",
+          "2408-8900"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.rudn.ru/philosophy/article/download/36049/22503"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4387042007"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

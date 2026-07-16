@@ -1,0 +1,15 @@
+[get_abstract.py] Trying Semantic Scholar: DOI:10.2307/130879
+[get_abstract.py] S2: Paper found but no abstract
+[get_abstract.py] Trying OpenAlex: 10.2307/130879
+[get_abstract.py] OpenAlex: Paper found but no abstract
+[get_abstract.py] Trying CORE: DOI 10.2307/130879
+[get_abstract.py] CORE: No abstract found
+[get_abstract.py] No abstract found from any source
+{
+  "status": "not_found",
+  "query": {
+    "doi": "10.2307/130879"
+  },
+  "abstract": null,
+  "abstract_source": null
+}

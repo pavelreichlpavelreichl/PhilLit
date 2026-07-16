@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.12697/sss.2022.50.1.08
+[verify_paper.py] DOI verified: Is language a system of signs? Lenin, Saussure and...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.12697/sss.2022.50.1.08"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.12697/sss.2022.50.1.08",
+      "title": "Is language a system of signs? Lenin, Saussure and the theory of hieroglyphics",
+      "authors": [
+        {
+          "family": "S\u00e9riot",
+          "given": "Patrick"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "Sign Systems Studies",
+      "volume": "50",
+      "issue": "1",
+      "page": "143-162",
+      "publisher": "University of Tartu",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.12697/sss.2022.50.1.08"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

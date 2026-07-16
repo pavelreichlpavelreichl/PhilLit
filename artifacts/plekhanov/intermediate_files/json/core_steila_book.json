@@ -1,0 +1,16 @@
+[search_core.py] Searching CORE: 'Genesis and Development of Plekhanov's Theory of Knowledge Steila', limit=20
+[search_core.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "core",
+  "query": "Genesis and Development of Plekhanov's Theory of Knowledge Steila",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

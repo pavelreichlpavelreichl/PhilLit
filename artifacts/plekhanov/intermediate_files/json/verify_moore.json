@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Marx and the origin of dialectical materialism...' author=Stanley Moore year=1971
+[verify_paper.py] Paper found: Marx and the origin of dialectical materialism<sup... (score: 57.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Marx and the origin of dialectical materialism",
+    "author": "Stanley Moore",
+    "year": 1971
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00201747108601641",
+      "title": "Marx and the origin of dialectical materialism<sup>1</sup>",
+      "authors": [
+        {
+          "family": "Moore",
+          "given": "Stanley"
+        }
+      ],
+      "editors": [],
+      "year": 1971,
+      "container_title": "Inquiry",
+      "volume": "14",
+      "issue": "1-4",
+      "page": "420-429",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1080/00201747108601641",
+      "score": 57.433052
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,59 @@
+[s2_search.py] Searching Semantic Scholar: 'Karl Marx and the intellectual origins of dialectical materialism White', limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_8b5eb6fbcb156e37)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Karl Marx and the intellectual origins of dialectical materialism White",
+  "results": [
+    {
+      "paperId": "ec686cc40e5440cfef60c409fbd142d9e48388bc",
+      "title": "Review of James D. White, Karl Marx and the Intellectual Origins of Dialectical Materialism",
+      "authors": [
+        {
+          "name": "S. Sayers",
+          "authorId": "143985733"
+        }
+      ],
+      "year": 1999,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1163/156920699794750948",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ec686cc40e5440cfef60c409fbd142d9e48388bc",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "19f7430c991f33193dcb949cf4894ddd96af4f9d",
+      "title": "19. White's Karl Marx and the intellectual origins of dialectical materialism",
+      "authors": [
+        {
+          "name": "V. Barnett",
+          "authorId": "115112454"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1016/S0743-4154(00)18039-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/19f7430c991f33193dcb949cf4894ddd96af4f9d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

@@ -1,0 +1,19 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Genesis and Development of Plekhanov's Theory of K...' year=1992
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Genesis and Development of Plekhanov's Theory of Knowledge",
+    "year": 1992
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (28.2) below threshold (50)",
+      "recoverable": false
+    }
+  ]
+}

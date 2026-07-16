@@ -1,0 +1,42 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Genesis and Development of Plekhanov's Theory of K...' author=Daniela Steila
+[verify_paper.py] Paper found: Genesis and Development of Plekhanov's Theory of K... (score: 85.6)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Genesis and Development of Plekhanov's Theory of Knowledge. A Marxist between Anthropological Materialism and Physiology",
+    "author": "Daniela Steila"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/130879",
+      "title": "Genesis and Development of Plekhanov's Theory of Knowledge: A Marxist between Anthropological Materialism and Physiology",
+      "authors": [
+        {
+          "family": "Wagner",
+          "given": "William G."
+        },
+        {
+          "family": "Steila",
+          "given": "Daniela"
+        }
+      ],
+      "editors": [],
+      "year": 1993,
+      "container_title": "Russian Review",
+      "volume": "52",
+      "issue": "1",
+      "page": "114",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/130879",
+      "score": 85.56581
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Evolution of Dialectical Materialism: A Philos...' author=Zbigniew Jordan year=1967
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Evolution of Dialectical Materialism: A Philosophical and Sociological Analysis",
+    "author": "Zbigniew Jordan",
+    "year": 1967
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Author 'Zbigniew Jordan' not found in result authors",
+      "recoverable": false
+    }
+  ]
+}

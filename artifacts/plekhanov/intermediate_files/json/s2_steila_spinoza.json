@@ -1,0 +1,36 @@
+[s2_search.py] Searching Semantic Scholar: 'Interpretations of Spinoza in early Russian Marxism Steila', limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_5a23f8d3a3b345cd)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Interpretations of Spinoza in early Russian Marxism Steila",
+  "results": [
+    {
+      "paperId": "54c0108a4fac9c692afb4e28fb09396b75879836",
+      "title": "Interpretations of Spinoza in early Russian Marxism",
+      "authors": [
+        {
+          "name": "D. Steila",
+          "authorId": "108224764"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The roots of the controversial readings of Spinoza during Soviet times date back to the history of Russian Marxism. Spinoza was a most influential figure whom different Marxist currents and thinkers wanted to have on their side. This article examines the most relevant interpretations. First, it sketches some fundamental traits of Plekhanov\u2019s understanding of Spinoza\u2019s ontology and epistemology, from his critique of German revisionism at the end of the 1890s to his polemics against empiriocriticism and its Russian impact. Spinoza was a particularly relevant and authoritative thinker for the so-called \u201cMachists\u201d as well, and some of their different interpretations are analyzed as representing their critical approach to Marxism. Finally, Lunacharskii\u02bcs discussion is considered as a peculiar alternative to Plekhanov\u2019s orthodox understanding not only of Spinoza but of Marxism itself. While Plekhanov judged Spinoza\u2019s \u201ctheological\u201d language a relic of his epoch, Lunacharskii maintained that it was precisely his \u201creligious\u201d feelings that made Spinoza a forerunner of Marxism.",
+      "citationCount": 0,
+      "doi": "10.1007/s11212-021-09410-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/54c0108a4fac9c692afb4e28fb09396b75879836",
+      "venue": "Studies in East European thought",
+      "journal": {
+        "name": "Studies in East European Thought",
+        "pages": "279 - 296",
+        "volume": "74"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

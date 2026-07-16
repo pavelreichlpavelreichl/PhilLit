@@ -1,0 +1,448 @@
+[search_openalex.py] Searching OpenAlex: 'Steila Genesis Development Plekhanov Theory Knowledge', limit=25
+[search_openalex.py] Retrieved 11 papers...
+[search_openalex.py] Search complete: 11 papers found
+[search_openalex.py] Cached results (cache key: openalex_5ab223d2730ca176)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Steila Genesis Development Plekhanov Theory Knowledge",
+  "results": [
+    {
+      "openalex_id": "W2787994399",
+      "doi": "10.33280/2310-3817-2017-5-2-50-79",
+      "title": "\u201cWhen Was Caesar Born?\u201d Theory and Practice of Truth in Plekhanov and Bogdanov",
+      "authors": [
+        {
+          "name": "Evgeni V. Pavlov",
+          "openalex_id": "A5043138270",
+          "institutions": [
+            "Metropolitan State University of Denver"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Although political differences between various factions of the Russian SocialDemocratic Labor Party (RSDLP) have been studied quite extensively, theoretical debates about the nature of Marxism and the role such debates had in determining Party programs and strategic decisions remains in need of a more thorough engagement. One such theoretical discussion, the question of the nature of (absolute) truth, is the subject matter of the present essay. The primary debate was between Georgi Plekhanov, one of the most respected representatives of early Russian Marxism, and a group of theoreticians united around Alexander Bogdanov, an early collaborator of Lenin (until their break in 1909) and an author of several original theoretical works that attempted to challenge the established orthodoxy of Plekhanovite Marxism. The question of the nature of truth stood at the center of the debates between Plekhanov and Bogdanov. The ultimate challenge that Bogdanov threw to the representatives of (selfproclaimed) \"orthodox Marxism\" was the p. 50-79",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Stasis",
+        "type": "journal",
+        "issn": [
+          "2310-3817",
+          "2500-0721"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://stasisjournal.net/index.php/journal/article/download/15/18/"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2787994399"
+    },
+    {
+      "openalex_id": "W2761216843",
+      "doi": "10.2478/csj-2021-0017",
+      "title": "Knowledge as Film vs. Knowledge as Photo: Alternative Models in Early Soviet Thought",
+      "authors": [
+        {
+          "name": "\u0414\u0430\u043d\u0438\u044d\u043b\u0430 \u0421\u0442\u0435\u0439\u043b\u0430",
+          "openalex_id": "A5080848100",
+          "orcid": "https://orcid.org/0000-0002-1374-5699",
+          "institutions": [
+            "University of Turin"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract While Lenin considered human knowledge to be similar to a mirror-like reflection of the object, Aleksandr Bogdanov emphasized the creative role of the subject in organizing the world. On the basis of some textual evidence, it is possible to describe the epistemologies of the two most influential Russian Marxists at the beginning of the twentieth century using the two metaphors of photography, on the one hand, and cinema, on the other. In particular, while discussing Einstein\u2019s relativity, Bogdanov considers sense organs, memory, and all the apparatus of human knowledge \u2018as a certain kind of cinematographic device\u2019. Sergei Eisenstein deems that cinema is \u2018an excellent instrument of perception \u2026 for the sensation of movement\u2019. Although it is difficult to find compelling proof of exchange and influence, this is an actual \u2018tangential point\u2019 between Bogdanov\u2019s and Eisenstein\u2019s ideas on human knowledge.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0017"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Italian Fascism and Post-war Society",
+        "Cinema and Media Studies"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2761216843"
+    },
+    {
+      "openalex_id": "W4317790194",
+      "doi": "10.1002/sres.2923",
+      "title": "Alexander Bogdanov and the question of unity: An emerging research agenda",
+      "authors": [
+        {
+          "name": "\u00d6rsan \u015eenalp",
+          "openalex_id": "A5054052991",
+          "orcid": "https://orcid.org/0000-0003-2287-7391",
+          "institutions": [
+            "University of Hull",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Gerald Midgley",
+          "openalex_id": "A5031443120",
+          "orcid": "https://orcid.org/0000-0003-0390-1392",
+          "institutions": [
+            "The University of Queensland",
+            "University of Canterbury",
+            "University of Hull",
+            "Linnaeus University",
+            "Victoria University of Wellington",
+            "Agriculture and Food",
+            "M\u00e4lardalen University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-23",
+      "abstract": "Abstract In this paper, we propose a research agenda to support the recovery of Alexander Bogdanov's philosophical and systemic thinking that culminated in his magnum opus, Tektology . Our main reason for doing so is to re\u2010address enduring questions about the unity of science and the unity of the systems paradigm. Since the turn of the new millennium, there has been renewed interest in the ideal of the unity of science. General system theory (GST), cybernetics and complexity science are three significant intellectual sources inspiring this renewal. It is not unusual for these ideas to be grouped under the umbrella terms systems science or systems thinking , which are two ways to present a single systems paradigm , and we will explain why its \u201cunity\u201d is both necessary and problematic. Bringing Bogdanov's work back to address the unity question can help us to progress toward unity in diversity.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Systems Research and Behavioral Science",
+        "type": "journal",
+        "issn": [
+          "1092-7026",
+          "1099-1743"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sres.2923"
+      },
+      "topics": [
+        "Complex Systems and Decision Making",
+        "Earth Systems and Cosmic Evolution",
+        "Chaos, Complexity, and Education"
+      ],
+      "referenced_works_count": 193,
+      "url": "https://openalex.org/W4317790194"
+    },
+    {
+      "openalex_id": "W4410789077",
+      "doi": "10.5922/0207-6918-2025-1-4",
+      "title": "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians",
+      "authors": [
+        {
+          "name": "Tatyana Gerardovna Rumyantseva",
+          "openalex_id": "",
+          "institutions": [
+            "Belarusian State University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "The history of the reception and interpretation of Neo-Kantian ideas in the late nineteenth and early twentieth centuries shows the special role played by those who took a negative stand with regard to Neo-Kantianism and sought to dissociate it from and oppose it to Kant\u2019s legacy. A prominent place among the latter was occupied by Georgy V. Plekhanov, most of whose works were fiercely polemical. Highly rating Kant\u2019s works, in which he even found some coincidences with materialism, Plekhanov for a number of years engaged in polemics on philosophical and political issues with the German Neo-Kantians and Eduard Bernstein, who shared many of their views. Calling Neo-Kantianism, after Friedrich Engels, \u201ca step backwards\u201d from Kant\u2019s philosophy, he argued that Neo-Kantians had misunderstood Kant\u2019s philosophy and, in advocating a return to Kant\u2019s theoretical philosophy in order to use it to refute contemporary materialism, had distorted Kant\u2019s doctrine. Plekhanov\u2019s so-called \u201cdefence\u201d of Kant against Neo-Kantians should not be understood and accepted literally. Being a Marxist, Plekhanov tried to defend above all the views of Marx and Engels by revealing the flaws in the Neo-Kantian interpretation of Kant. Although he himself in some ways misinterpreted Kant, his views command some interest today because many of them played a certain role in the perception of Kant in the Soviet and post-Soviet times and were reflected in the discussions of the Kantian philosophy as a whole, especially its fundamental concept of the \u201cthing-in-itself\u201d.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Kantian journal",
+        "type": "journal",
+        "issn": [
+          "0207-6918",
+          "2310-3701"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.kantiana.ru/upload/iblock/f96/gg1l53aaa6ou3k817ij2ww2du037tk6v/4_89-106.pdf"
+      },
+      "topics": [
+        "Philosophy, Ethics, and Existentialism",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W4410789077"
+    },
+    {
+      "openalex_id": "W1993845978",
+      "doi": "10.1080/03017605.2014.984494",
+      "title": "Louis Althusser and the End of Classical Russian Marxism: Spinoza, Hegel and the Critique of Dogmatic Marxism",
+      "authors": [
+        {
+          "name": "David Campbell",
+          "openalex_id": "A5084981072",
+          "orcid": "https://orcid.org/0000-0001-8789-4876",
+          "institutions": [
+            "Lancaster University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-10-02",
+      "abstract": "An attempt to restate Marx's critical method in terms of Spinozist dogmatic epistemology was central to Louis Althusser's conception of Marxist philosophy. Although it is no longer necessary to argue that this \u2018restatement\u2019 had almost no ground in Marx's own thinking, it was a highly significant expression of the essence of dialectical materialism. Through discussion of Hegel's critique of Spinoza, it will be argued that a democratically acceptable method of criticism of the mistaken beliefs of others, such as Marx developed in Capital, must take a resolutely anti-dogmatic approach which has the principle of winning subjective conviction at its core.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.lancs.ac.uk/id/eprint/72513/5/Louis_Althusser_and_the_End_of_Classical_Russian_Marxism.pdf"
+      },
+      "topics": [
+        "Marxism and Critical Theory",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W1993845978"
+    },
+    {
+      "openalex_id": "W2799105500",
+      "doi": "10.31049/1853.7049.v0.n9.15107",
+      "title": "La relaci\u00f3n necesidad - libertad en la concepci\u00f3n materialista de la historia: los aportes de Georgi Plej\u00e1nov",
+      "authors": [
+        {
+          "name": "Francisco Filippi",
+          "openalex_id": "A5038479892",
+          "institutions": [
+            "Universidad Nacional de C\u00f3rdoba"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-08-13",
+      "abstract": "This paper seeks to offer an interpretation of the philosophical thought of the Russian Marxist author Georgi Plekhanov through the exegesis of some of his major works. We focus on the analysis that this thinker made of the relationship between objective necessity and subjective freedom, and its implications for the explanation of historical development. The point of departure is the discussion about the place of free will in the historical process, and we try to develop the ideas that Plekhanov employed to address this issue in terms of historical materialism. As this is an ontological and epistemological discussion derived from the subject-object relationship in the social sciences, the retrieval of the ideas of this somewhat forgotten author seeks to contribute to a still ongoing debate in the field of the theory of history.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Anuario de la Escuela de Historia - Facultad de Filosofi\u0301a y Humanidades, Universidad Nacional de Co\u0301rdoba/Anuario de la Escuela de Historia Virtual",
+        "type": "journal",
+        "issn": [
+          "1666-5856",
+          "1853-7049"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.unc.edu.ar/index.php/anuariohistoria/article/download/15107/15042"
+      },
+      "topics": [
+        "Philosophical Thought and Analysis",
+        "Philosophical and Cultural Analysis",
+        "Memory, violence, and history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2799105500"
+    },
+    {
+      "openalex_id": "W4387042007",
+      "doi": "10.22363/2313-2302-2023-27-3-582-597",
+      "title": "Receptions of Kant\u2019s Philosophy in Russian Empiriocriticism",
+      "authors": [
+        {
+          "name": "Aleksandr E. Rybas",
+          "openalex_id": "A5039669001",
+          "orcid": "https://orcid.org/0000-0003-2120-2667",
+          "institutions": [
+            "St Petersburg University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-15",
+      "abstract": "The article analyzes the influence of Kantian philosophy on the problems and development of Russian empiriocriticism. It is shown that the critical pathos of Kant\u2019s philosophy, as well as his call for intellectual honesty in philosophy, was appreciated first of all. Relying on Kant, Russian empiriocritics proved the inconsistency of metaphysics in both its religious and materialistic forms. In addition, the teachings of the founders of empiriocriticism, E. Mach and R. Avenarius, were also criticized because some dogmatic assumptions were found in them. Attempts to eliminate these assumptions resulted in a dynamic concept of experience, based on which the concepts of empiriomonism (A. Bogdanov), empiriosymbolism (P. Yushkevich), scientific philosophy (V. Lesevich), positive philosophy of life (S. Suvorov), positive aesthetics (A. Lunacharsky), ethics of mutual joy (A. Bogdanov) and many others were developed. Special attention was paid to the analysis of the \u201cthing-in-itself\u201d since this very concept of Kantian philosophy was used by G. Plekhanov to justify \u201corthodox\u201d Marxism. Russian empiriocritics opposed Plekhanov\u2019s identification of the \u201cthing in itself\u201d and the material object, arguing that the concept of matter is a metaphysical assumption and, for this reason, cannot contribute to refuting dualism and Kantian \u201cagnosticism.\u201d From the monistic point of view, the \u201cthing-in-itself\u201d should be understood on the basis of experience as a necessary form of its organization. According to Bogdanov, there is nothing a priori in the \u201cthing-in-itself\u201d; this idea appeared as a result of substituting the known for the unknown and expressed a process rather than essence. Kant\u2019s aesthetics and moral philosophy were also actively discussed in Russian empiriocriticism. The interpretation of beauty as \u201cexpediency without purpose\u201d was extended to the fundamental principle of the \u201caesthetic worldview,\u201d which gave credibility to the doctrine of the ideal, the practice of social construction, etc. As a result of the polemic with the ethics of compassion, of which Kant was considered the most authoritative defender, an alternative ethic of mutual joy was created. Thus, the influence of Kantian philosophy on Russian empiriocritics was complex and contributed to the development of new ideas.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "RUDN Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "2313-2302",
+          "2408-8900"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journals.rudn.ru/philosophy/article/download/36049/22503"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Philosophical Ethics and Theory",
+        "Humanities and Social Sciences"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4387042007"
+    },
+    {
+      "openalex_id": "W4210766008",
+      "doi": "10.2478/csj-2021-0015",
+      "title": "Aleksandr Bogdanov\u2019s Concept of Culture: From Workers\u2019 Circles to the Proletkult Movement",
+      "authors": [
+        {
+          "name": "Jutta Scherrer",
+          "openalex_id": "A5086467425",
+          "institutions": [
+            "\u00c9cole des Hautes \u00c9tudes en Sant\u00e9 Publique"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-12-01",
+      "abstract": "Abstract This paper analyses the historical genesis of Aleksandr Bogdanov\u2019s conception of proletarian culture. In particular, the author deals with Bogdanov\u2019s activity during his exile in Vologda, his organization of the Vpered group , and the debates over cultural politics amongst Russian Marxism in emigration. The systematic focus of the paper is on the concept of culture as based on the material and non-material capacities of the comprehension and the working and living conditions of the worker. The role of art in a system of culture is another important systematic focus of this analysis.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Cultural Science Journal",
+        "type": "journal",
+        "issn": [
+          "1836-0416"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://sciendo.com/pdf/10.2478/csj-2021-0015"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W4210766008"
+    },
+    {
+      "openalex_id": "W2494507621",
+      "doi": "10.26034/la.cdclsl.2016.439",
+      "title": "Reflections on the Work of R.O. \u0160or: Materials from Institutional Archives",
+      "authors": [
+        {
+          "name": "Craig Brandist",
+          "openalex_id": "A5004733061",
+          "institutions": [
+            "University of Sheffield"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-04",
+      "abstract": "The work of R.O. \u0160or (1894-1939) is examined through materials held in the ar- chives of institutions in which she worked. Particularly important is the text of her self-criticism of 1932 in which she examines the formation of her own ideas and the influences on her work. This is supplemented with reflections on her published work and new information about aspects of her contribution to Soviet linguistic thought in the 1920s and 1930s that have remained unexplored. This brings new light to bear on \u0160or\u2019s work by illustrating her relationship to European linguistic thought and the development of period of the ascen- dency of the ideas of N.Ja. Marr.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Cahiers du Centre de Linguistique et des Sciences du Langage",
+        "type": "journal",
+        "issn": [
+          "2674-1415",
+          "2813-0103"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cahiers-clsl.ch/article/download/439/367"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Historical Linguistics and Language Studies",
+        "Language and Culture"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2494507621"
+    },
+    {
+      "openalex_id": "W2613758483",
+      "doi": null,
+      "title": "Chelovecheskaja dejatel'nost' i istina: rannie russkie marksisty i pragmatizm",
+      "authors": [
+        {
+          "name": "D. Steila",
+          "openalex_id": "A5050407078"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "\" \", 29-30 2010 . .",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Institutional Research Information System University of Turin (University of Turin)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2318/101022"
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2613758483"
+    },
+    {
+      "openalex_id": "W4402632753",
+      "doi": "10.53844/flsf.1481099",
+      "title": "AKSELROD VE DEBOR\u0130N: SP\u0130NOZA\u2019NIN AKOZM\u0130ZM\u0130 \u00dcZER\u0130NE B\u0130R POLEM\u0130K",
+      "authors": [
+        {
+          "name": "Bar\u0131\u015fcan DEM\u0130R",
+          "openalex_id": "A5009552634",
+          "orcid": "https://orcid.org/0000-0003-3281-4917",
+          "institutions": [
+            "Hacettepe University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-19",
+      "abstract": "Salomon Maimon\u2019un \u00fcnl\u00fc yorumuna g\u00f6re Spinoza\u2019n\u0131n sistemi Tanr\u0131\u2019n\u0131n de\u011fil, d\u00fcnyan\u0131n varolu\u015funun ink\u00e2r\u0131n\u0131 i\u00e7erir ve bu nedenle de o ateizm olarak de\u011fil, akozmizm olarak tan\u0131mlanmal\u0131d\u0131r. Daha sonra Hegel de bu yorumu devam ettirmi\u015f ve Spinoza\u2019n\u0131n d\u00fcnyaya, sonlu varolu\u015fa ve evrene de\u011fil de sadece Tanr\u0131\u2019ya realite ve kal\u0131c\u0131l\u0131k atfetti\u011fini s\u00f6ylemi\u015ftir. Bu yorum, Spinoza\u2019n\u0131n bir idealist oldu\u011funu, onun Tanr\u0131, T\u00f6z ya da Do\u011fa tasar\u0131m\u0131n\u0131n donmu\u015f, \u00f6l\u00fc, hareketsiz ve de\u011fi\u015fmez bir ideal oldu\u011funu ve sonlu kiplerin bu sistemde herhangi bir etkinli\u011finin s\u00f6z konusu olmad\u0131\u011f\u0131n\u0131 varsayd\u0131\u011f\u0131m\u0131z s\u00fcrece ge\u00e7erlidir. Bu nedenle bu \u00e7al\u0131\u015fmada ilkin, burada s\u00f6z konusu olan \u201cSpinoza\u2019n\u0131n akozmizmi\u201d arg\u00fcman\u0131n\u0131n nas\u0131l \u015fekillendi\u011fini belirgin k\u0131laca\u011f\u0131z. Devam\u0131nda devrim \u00f6ncesi Rus d\u00fc\u015f\u00fcncesinde bu arg\u00fcman\u0131 benimseyen ve savunan fig\u00fcrlerin yorumlar\u0131n\u0131 de\u011ferlendirece\u011fiz. Ard\u0131ndan, Plekhanov\u2019un s\u00f6z konusu gelenekte belli k\u0131r\u0131lmalar yaratmaya ba\u015flayan yeni bir Spinoza yorumu geli\u015ftirdi\u011fini ve Akselrod\u2019un bu k\u0131r\u0131lmalar\u0131 engellemeye \u00e7al\u0131\u015ft\u0131\u011f\u0131n\u0131 g\u00f6rece\u011fiz. Son olarak da Deborin\u2019in fikirlerinden yararlanarak, \u201cSpinoza\u2019n\u0131n akozmizmi\u201d arg\u00fcman\u0131na ra\u011fmen \u201cSpinoza\u2019n\u0131n d\u00fcnyas\u0131\u201dndan nas\u0131l bahsedebilece\u011fimizi ortaya koyaca\u011f\u0131z. B\u00f6ylelikle Spinoza\u2019n\u0131n Do\u011fa tasar\u0131m\u0131n\u0131n canl\u0131, hareketli ve de\u011fi\u015fken bir unsur olarak da ele al\u0131nabilece\u011fini g\u00f6sterece\u011fiz.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "FLSF Felsefe ve Sosyal Bilimler Dergisi",
+        "type": "journal",
+        "issn": [
+          "2618-5784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://dergipark.org.tr/tr/download/article-file/3917292"
+      },
+      "topics": [
+        "Seventeenth-Century Political and Philosophical Thought",
+        "Families in Therapy and Culture",
+        "Turkish Literature and Culture"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W4402632753"
+    }
+  ],
+  "count": 11,
+  "errors": []
+}

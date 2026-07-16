@@ -1,0 +1,36 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 1 paper(s)...
+[s2_batch.py] Processing 1 responses...
+[s2_batch.py] Found 1 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "1 paper IDs",
+  "results": [
+    {
+      "paperId": "5c6f5d383739f8adc3ae48127496895892942b03",
+      "title": "Genesis and Development of Plekhanov\u2019s Theory of Knowledge: A Marxist Between Anthropological Materialism and Physiology",
+      "authors": [
+        {
+          "name": "D. Steila",
+          "authorId": "108224764"
+        }
+      ],
+      "year": 1990,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.2307/130879",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5c6f5d383739f8adc3ae48127496895892942b03",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.2307/130879"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

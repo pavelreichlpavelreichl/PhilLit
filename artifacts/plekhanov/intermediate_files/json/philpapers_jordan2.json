@@ -1,0 +1,209 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Jordan Evolution Dialectical Materialism St Martin's Press New York 1967', limit=20
+[search_philpapers.py] Retrieved 13 entries...
+[search_philpapers.py] Search complete: 13 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Jordan Evolution Dialectical Materialism St Martin's Press New York 1967",
+  "results": [
+    {
+      "title": "Z. A. Jordan, The Evolution of Dialectical Materialism",
+      "url": "https://philpapers.org/rec/JORTEO-6",
+      "philpapers_id": "JORTEO",
+      "snippet": "The evolution of dialectical materialism: a philosophical and sociological analysis.Zbigniew Antoni Jordan - 1967 - New York,: St. Martin&#x27;s Press.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Z. A. Jordan"
+        }
+      ],
+      "extra_snippets": [
+        "Dialectical Materialism and Modern Science.Kenneth Neill Cameron - 1995 - New York: International Publishers. Filosofskii\u0306 analiz teorii e\u0307voli\ufe20u\ufe21t\ufe20s\ufe21ii.Igor\u02b9 Nikolaevich Smirnov - 1979 - Moskva: Znanie. Reason in Revolt: Marxist Philosophy and Modern Science.Alan Woods & Ted Grant - 1995 \u00b7 Dialectical Materialism and Modern Science.J.",
+        "The evolution of dialectical materialism.R.",
+        "The Evolution of Dialectical Materialism. By Z. A. Jordan. [REVIEW]George J.",
+        "Escaping the Throne Room.Ian McKay - 2014 - Historical Materialism 22 (2):63-98."
+      ]
+    },
+    {
+      "title": "G. Healy, Studies in dialectical materialism",
+      "url": "https://philpapers.org/rec/HEASID",
+      "philpapers_id": "HEASID",
+      "snippet": "The Evolution of Dialectical Materialism: A Philosophical and Sociological Analysis.Zbigniew A. Jordan - 1967 - New York: St. Martin&#x27;s Press.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "Subjective idealism today -- Scientific cognition and the external world -- 80 years on, Lenin's \"What is to be done?\" -- Studies on dialectical materialism -- Some lessons from our summer school on dialectical materialism.",
+        "The Evolution of Dialectical Materialism: A Philosophical and Sociological Analysis.Zbigniew A. Jordan - 1967 - New York: St. Martin's Press.",
+        "Dialectical and Historical Materialism (September 1938).Joseph Stalin - 1952 - Moscow: Foreign Languages Pub. House. Dialogues on the Philosophy of Marxism, From the Proceedings of the Society for the Philosophical Study of Dialectical Materialism.John Somerville & Howard L.",
+        "Negativity and dialectical materialism: Zhang shiying's reading of Hegel's dialectical logic.Peter Button - 2007 - Philosophy East and West 57 (1):63-82."
+      ]
+    },
+    {
+      "title": "Gustav Andreas Wetter, Dialectical materialism",
+      "url": "https://philpapers.org/rec/WETDMA",
+      "philpapers_id": "WETDMA",
+      "snippet": "The categories of dialectical materialism.Guy Planty-Bonjour - 1967 - New York,: Praeger.",
+      "page_age": null,
+      "extra_snippets": [
+        "Dialectical materialism.Henri Lefebvre - 1968 - London,: Jonathan Cape.",
+        "Dialectical materialism.Viktor Grigor Evich Afanas Ev - 1987 - New York: International Publishers.",
+        "Dialectical materialism.Maurice Campbell Cornforth - 1952 - London: Lawrence & Wishart.",
+        "Dialectical Materialism.Henri Lefebvre - 2009 - Minneapolis: Univ Of Minnesota Press."
+      ]
+    },
+    {
+      "title": "Henri Lefebvre, Dialectical Materialism",
+      "url": "https://philpapers.org/rec/STUDM",
+      "philpapers_id": "STUDM",
+      "snippet": "Dialectical materialism.Henri Lefebvre - 1968 - London,: Jonathan Cape.",
+      "page_age": null,
+      "extra_snippets": [
+        "[REVIEW]Rex Martin - 1969 - Philosophical Studies (Dublin) 18:285-287. Dialectical materialism.Viktor Grigor\u02b9evich Afanas\u02b9ev - 1987 - New York: International Publishers. The categories of dialectical materialism.Guy Planty-Bonjour - 1967 - New York,: Praeger.",
+        "Dialectical materialism.Henri Lefebvre - 1968 - London,: Jonathan Cape.",
+        "Dialectical materialism.Gustav Andreas Wetter - 1959 - New York,: Praeger.",
+        "Dialectical materialism.Maurice Campbell Cornforth - 1952 - London: Lawrence & Wishart."
+      ]
+    },
+    {
+      "title": "Sean Sayers, Karl Marx and the Intellectual Origins of Dialectical Materialism",
+      "url": "https://philpapers.org/rec/SAYKMA-3",
+      "philpapers_id": "SAYKMA",
+      "snippet": "Review of James D. White, Karl Marx and the Intellectual Origins of Dialectical Materialism. [REVIEW]Sean Sayers - 1999 - Historical Materialism (5):359-366 \u00b7 Karl Marx and the intellectual origins of dialectical materialism.James D. White - 1996 - New York: St.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Sean Sayers"
+        }
+      ],
+      "extra_snippets": [
+        "[REVIEW]Sean Sayers - 1999 - Historical Materialism (5):359-366. Karl Marx and the intellectual origins of dialectical materialism.James D. White - 1996 - New York: St.",
+        "Karl Marx, L'homme et l'oeubre: De l'h\u00e9g\u00e9lianisme au materialisme historique (1818-1845).Auguste Cornu - 1934 - F\u00e9lix Alcan.",
+        "Karl Marks i sovremennai\ufe20a\ufe21 filosofii\ufe20a\ufe21: sbornik materialov nauchnoi\u0306 konferent\ufe20s\ufe21ii k 180-letii\ufe20u\ufe21 so dni\ufe20a\ufe21 rozhdenii\ufe20a\ufe21 K. Marksa.A. A. Gusei\u0306nov & N."
+      ]
+    },
+    {
+      "title": "James D. White, Karl Marx and the intellectual origins of dialectical materialism",
+      "url": "https://philpapers.org/rec/WHIKMA",
+      "philpapers_id": "WHIKMA",
+      "snippet": "The Book Provides A Genealogy Of `Dialectical Materialism` By Tracing The Development Of Marxist Ideas From Their Origins In German Philosophical Thought To The Ideology Of The Socio-Democratic Groups In Russia ...",
+      "page_age": null,
+      "extra_snippets": [
+        "The Book Provides A Genealogy Of `Dialectical Materialism` By Tracing The Development Of Marxist Ideas From Their Origins In German Philosophical Thought To The Ideology Of The Socio-Democratic Groups In Russia In The 1890S, From Which Lenin And The Revolutionary Generation Emerged.",
+        "It Reconstructs Marx`S Original Conceptions And Examines The Modifications That Were Made To Them By Himself And By His Russian Followers, Which Eventually Gave Rise To The Doctrine Of `Dialectical Materialism`, Expounded By Plekhanov.",
+        "Philosophy, Marxist History. Philosophy, Marxist Dialectical materialism",
+        "Karl Marx and the Intellectual Origins of Dialectical Materialism.Sean Sayers - 1999 - Historical Materialism 5 (1):359-366."
+      ]
+    },
+    {
+      "title": "B. H., The Categories of Dialectical Materialism",
+      "url": "https://philpapers.org/rec/HTCO-6",
+      "philpapers_id": "HTCO",
+      "snippet": "[REVIEW]Rex Martin - 1969 - Philosophical Studies (Dublin) 18:285-287. The Categories of Dialectical Materialism: Contemporary Soviet Ontology.Anthony Holloway &amp; Guy Planty-Bonjour - 1970 - Philosophical Quarterly 20 (79):182. The categories of dialectical materialism.Guy Planty-Bonjour - 1967 - New York,: Praeger.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. H."
+        }
+      ],
+      "extra_snippets": [
+        "[REVIEW]Rex Martin - 1969 - Philosophical Studies (Dublin) 18:285-287. The Categories of Dialectical Materialism: Contemporary Soviet Ontology.Anthony Holloway & Guy Planty-Bonjour - 1970 - Philosophical Quarterly 20 (79):182. The categories of dialectical materialism.Guy Planty-Bonjour - 1967 - New York,: Praeger.",
+        "It is a concise and critical examination of Soviet philosophical thought since the death of Stalin. The study is restricted to dialectical materialism probably on the supposition that this crucial area would provide significant clues to the status of Marxist philosophy as a whole in the post-Stalin period.",
+        "Soviet Russian Dialectical Materialism (Diamat). [REVIEW]Richard T.",
+        "In the author's view, Soviet philosophers are inevitably led to a dead-end by the incompatible and nonjustified concepts that the real is rational and that the real is matter. This incompatibility makes diamat inherently incoherent. Hegel's dialectic cannot serve as a means of avoiding the problem of transcendence toward which the basically realistic attitude of Soviet philosophy is leading."
+      ]
+    },
+    {
+      "title": "S. L. Rubinstein, Consciousness in the Light of Dialectical Materialism",
+      "url": "https://philpapers.org/rec/RUBCIT",
+      "philpapers_id": "RUBCIT",
+      "snippet": "The Evolution of Dialectical Materialism.Z. A. Jordan - 1970 - Science and Society 34 (3):356-360.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "S. L. Rubinstein"
+        }
+      ],
+      "extra_snippets": [
+        "Dialectical Materialism and Modern Science.J.",
+        "Althusser, Dialectical Materialism and the Philosophy of Science.David W.",
+        "Dialectical materialism.Viktor Grigor\u02b9evich Afanas\u02b9ev - 1987 - New York: International Publishers."
+      ]
+    },
+    {
+      "title": "Miriam Jordan-Haladyn, Dialogic materialism: Bakhtin, embodiment, and moving image art",
+      "url": "https://philpapers.org/rec/JORDMB",
+      "philpapers_id": "JORDMB",
+      "snippet": "The main focus of this first part ... which builds upon the Marxism inherent in Bakhtin, examining the material processes of cultural exchange with a particular emphasis on multi-perspective subjective relations....",
+      "page_age": null,
+      "extra_snippets": [
+        "Dialogic Materialism: Bakhtin, Embodiment and Moving Image Art argues for the relevance of Mikhail Bakhtin's theories of dialogism as a means of examining the interdisciplinary nature of contemporary moving image art forms. The volume comprises six chapters divided into two sections.",
+        "The Dialectical Approach to the Art of the Moving Image.Kevin L.",
+        "The main focus of this first part is the proposal of what the author terms dialogic materialism, which builds upon the Marxism inherent in Bakhtin, examining the material processes of cultural exchange with a particular emphasis on multi-perspective subjective relations.",
+        "Part II consists of case studies that apply dialogic materialism to the moving image artwork of three artists: Stan Douglas, Jamelie Hassan and Chris Marker."
+      ]
+    },
+    {
+      "title": "Gustav W. Wetter, Dialectical Materialism",
+      "url": "https://philpapers.org/rec/WETDM-2",
+      "philpapers_id": "WETDM",
+      "snippet": "Dialectical materialism.H. B. Acton - 1967 - In Paul Edwards, The Encyclopedia of philosophy. New York,: Macmillan.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gustav W. Wetter"
+        }
+      ],
+      "extra_snippets": [
+        "Fundamentals of dialectical materialism.Georgy Alekseevich Kursanov - 1967 - Moscow,: Progress Publishers.",
+        "Dialectic and Dialetheic.Graham Priest - 1989 - Science and Society 53 (4):388 - 415. Hegel\u2019s Interpretation of the Liar Paradox.Franca D\u2019Agostini & Elena Ficara - 2021 - History and Philosophy of Logic 43 (2):105-128. Marxism as a Natural Science: Alexander Bogdanov\u2019s Anti-Revisionist Revisionism.David G. Rowley - forthcoming - Historical Materialism:1-30.",
+        "Dialectical materialism.Gustav Andreas Wetter - 1973 - Westport, Conn.,: Greenwood Press.",
+        "Dialectical materialism.Viktor Grigor Evich Afanas Ev - 1987 - New York: International Publishers."
+      ]
+    },
+    {
+      "title": "Georgi\u012d Valentinovich Plekhanov, Essays in the history of materialism",
+      "url": "https://philpapers.org/rec/PLEEIT",
+      "philpapers_id": "PLEEIT",
+      "snippet": "Materialism. Dialectical materialism",
+      "page_age": null,
+      "extra_snippets": [
+        "Russkaia Progressivnaia Mysl Xix V. Ot Geograficheskogo Determinizma K Istoricheskomu Materializmu.Mikhail Georgievich Fedorov - 1972 - Nauka. Karl Marx and the intellectual origins of dialectical materialism.James D. White - 1996 - New York: St.",
+        "Von Holbach zu Marx: materialistischer Diskurs und ideologische Praxis.Michael Haupt - 1987 - Berlin: Argument-Verlag. Dialectical Materialism and the History of Philosophy: Essays on the History of Philosophy.Teodor Il\u00edch Oizerman - 1980 - Progress Publishers.",
+        "Materialism. Dialectical materialism"
+      ]
+    },
+    {
+      "title": "E\u0307val\u02b9d Vasil\u02b9evich Il\u02b9enkov, Dialectical logic: essays on its history and theory",
+      "url": "https://philpapers.org/rec/ILEDLE",
+      "philpapers_id": "ILEDLE",
+      "snippet": "Logic. Dialectic. Dialectical materialism",
+      "page_age": null,
+      "extra_snippets": [
+        "Logic. Dialectic. Dialectical materialism",
+        "From Idealist to Materialist Dialectics: Karl Marx\u2019s Critical Engagement.Manolis Dafermos - 2025 - In Dialectics as Mode of Thought and Method in History. Cham: Springer Nature Switzerland.",
+        "La dialectique mat\u00e9rialiste dans Le Capital.Ludovic Hetzel - 2012 - Actuel Marx 51 (1):118-133.",
+        "Negativity and dialectical materialism: Zhang shiying's reading of Hegel's dialectical logic.Peter Button - 2007 - Philosophy East and West 57 (1):63-82."
+      ]
+    },
+    {
+      "title": "Vladimir Il'ich Lenin, Materialism and Empirio-Criticism: Critical Comments on A Reactionary Philosophy",
+      "url": "https://philpapers.org/rec/LENMAE-2",
+      "philpapers_id": "LENMAE",
+      "snippet": "This text is a classic of Lenin - his essay explores materialism and its relation to capitalism and how Communism can get over this psychological wish for material and empirical ownership. ... Dialectical materialism. Knowledge, Theory of.",
+      "page_age": null,
+      "extra_snippets": [
+        "This text is a classic of Lenin - his essay explores materialism and its relation to capitalism and how Communism can get over this psychological wish for material and empirical ownership. ... Dialectical materialism. Knowledge, Theory of.",
+        "Materialism and empirio-criticism.Vladimir Il\u02b9ich Lenin - 1967 - Moscow,: Progress Publishers.",
+        "Materialism and empirio-criticism: critical notes concerning a reactionary philosophy.Vladimir Il\u02b9ich Lenin - 1927 - New York: International Publishers.",
+        "V. L. Lenin, Materialism and Empirio-Criticism: Critical Notes concerning a Reactionary Philosophy. [REVIEW]N. A."
+      ]
+    }
+  ],
+  "count": 13,
+  "errors": []
+}

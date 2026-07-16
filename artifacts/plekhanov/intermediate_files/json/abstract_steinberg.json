@@ -1,0 +1,12 @@
+[get_abstract.py] Trying Semantic Scholar: DOI:10.4324/9781003118879-30
+[get_abstract.py] S2: Paper not found
+[get_abstract.py] Trying OpenAlex: 10.4324/9781003118879-30
+[get_abstract.py] Found abstract from OpenAlex (1541 chars)
+{
+  "status": "success",
+  "query": {
+    "doi": "10.4324/9781003118879-30"
+  },
+  "abstract": "Spinoza was not a materialist, at least not as typically understood today. He was a substance monist and a pluralist about what kinds of things exist. Nevertheless, Spinoza has often been read as a materialist, and one prominent strand of this materialist reading may be traced back to the Russian Marxist Georgi Plekhanov, who, beginning in the 1890s, engaged in a series of polemics in which he defended a comprehensive materialist reading of Spinoza \u2013 one that would cover both ontological and dialectical materialism, or \u201cold\u201d and \u201cnew\u201d materialism \u2013 that would cement Spinoza\u2019s status as the great progenitor of political radicalism. In the controversies that would follow, Plekhanov\u2019s followers Abram Deborin and Lyubov Akselrod, offered their own materialist readings of Spinoza. In this chapter, I analyze the distinct materialist readings of Spinoza advanced by Deborin, Akselrod, and Plekhanov. I argue that Deborin\u2019s approach, according to which Spinoza identifies Nature with matter, fails as an interpretation, that Akselrod\u2019s alternative, according to which ideas are in some sense asymmetrically dependent on bodies, fails either as an interpretation of Spinoza or as an account of materialism, leaving Plekhanov\u2019s interpretation of Spinoza, which takes materialism to be compatible with panpsychism, as the most plausible of the bunch. While Spinoza\u2019s metaphysics is probably not best described as materialism, it is, in crucial respects, closer than many early modern versions of materialism are to contemporary materialism.",
+  "abstract_source": "openalex"
+}

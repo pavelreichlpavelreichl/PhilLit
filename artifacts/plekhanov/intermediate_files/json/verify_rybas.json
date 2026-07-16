@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.22363/2313-2302-2023-27-3-582-597
+[verify_paper.py] DOI verified: Receptions of Kant’s Philosophy in Russian Empirio...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.22363/2313-2302-2023-27-3-582-597"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.22363/2313-2302-2023-27-3-582-597",
+      "title": "Receptions of Kant\u2019s Philosophy in Russian Empiriocriticism",
+      "authors": [
+        {
+          "family": "Rybas",
+          "given": "Aleksandr E."
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "RUDN Journal of Philosophy",
+      "volume": "27",
+      "issue": "3",
+      "page": "582-597",
+      "publisher": "Peoples' Friendship University of Russia",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.22363/2313-2302-2023-27-3-582-597"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

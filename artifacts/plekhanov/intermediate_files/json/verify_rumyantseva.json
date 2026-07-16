@@ -1,20 +1,36 @@
 [verify_paper.py] Connecting to CrossRef API...
-[verify_paper.py] Searching CrossRef: title='Plekhanov as Defender of Kant from Neo-Kantians...' author=Tatyana Rumyantseva year=2025
+[verify_paper.py] Verifying DOI: 10.5922/0207-6918-2025-1-4
+[verify_paper.py] DOI verified: Plekhanov as “Defender” of Kant from Neo-Kantians...
 {
-  "status": "error",
+  "status": "success",
   "source": "crossref",
   "query": {
-    "title": "Plekhanov as Defender of Kant from Neo-Kantians",
-    "author": "Tatyana Rumyantseva",
-    "year": 2025
+    "doi": "10.5922/0207-6918-2025-1-4"
   },
-  "results": [],
-  "count": 0,
-  "errors": [
+  "results": [
     {
-      "type": "not_found",
-      "message": "Author 'Tatyana Rumyantseva' not found in result authors",
-      "recoverable": false
+      "verified": true,
+      "doi": "10.5922/0207-6918-2025-1-4",
+      "title": "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians",
+      "authors": [
+        {
+          "family": "Rumyantseva",
+          "given": "Tatyana Gerardovna"
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Kantian journal",
+      "volume": "44",
+      "issue": "1",
+      "page": "89-106",
+      "publisher": "Immanuel Kant Baltic Federal University",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.5922/0207-6918-2025-1-4"
     }
-  ]
+  ],
+  "count": 1,
+  "errors": []
 }

@@ -1,0 +1,12 @@
+[get_abstract.py] Trying Semantic Scholar: DOI:10.1057/9780230374218
+[get_abstract.py] S2: Paper not found
+[get_abstract.py] Trying OpenAlex: 10.1057/9780230374218
+[get_abstract.py] Found abstract from OpenAlex (200 chars)
+{
+  "status": "success",
+  "query": {
+    "doi": "10.1057/9780230374218"
+  },
+  "abstract": "The book provides a genealogy of 'dialectical materialism' by tracing the development of Marxist ideas from their origins in German philosophical thought to the ideology of the social-democratic group",
+  "abstract_source": "openalex"
+}

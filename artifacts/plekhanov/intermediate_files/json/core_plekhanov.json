@@ -1,0 +1,18 @@
+[search_core.py] Searching CORE: 'Plekhanov monism dialectical materialism' (year=2010-2026), limit=20
+[search_core.py] Rate limited, backing off (attempt 1/5)...
+[search_core.py] Retrying after 1.5s backoff...
+[search_core.py] Search complete: 0 papers found
+{
+  "status": "error",
+  "source": "core",
+  "query": "Plekhanov monism dialectical materialism",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

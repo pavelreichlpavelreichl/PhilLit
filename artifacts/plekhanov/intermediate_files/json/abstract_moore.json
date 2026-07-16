@@ -1,0 +1,12 @@
+[get_abstract.py] Trying Semantic Scholar: DOI:10.1080/00201747108601641
+[get_abstract.py] S2: Paper found but no abstract
+[get_abstract.py] Trying OpenAlex: 10.1080/00201747108601641
+[get_abstract.py] Found abstract from OpenAlex (792 chars)
+{
+  "status": "success",
+  "query": {
+    "doi": "10.1080/00201747108601641"
+  },
+  "abstract": "Dialectical materialism was born in 1857, when Marx returned to studying Hegel. In opposition to Hegel, Marx adopted a realist epistemology. Abandoning the pragmatist ambiguities of his Economic\u2010Philosophical Manuscripts, he became a materialist in the traditional sense of that word. Influenced by Hegel, Marx simultaneously attempted a dialectical proof for the labor theory of value. Abandoning his positivist critique in The Holy Family, he started using dialectic to discover beneath appearances an otherwise inaccessible reality. But his dialectic was incompatible with his materialism. The identification of reality with Praxis, rejected at the level of philosophical statement, was retained at the level of economic argument. Turning Hegel upside down proved harder than Marx thought.",
+  "abstract_source": "openalex"
+}

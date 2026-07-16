@@ -1,0 +1,22 @@
+[s2_search.py] Searching Semantic Scholar: 'Marx and the origin of dialectical materialism Stanley Moore', limit=20
+[s2_search.py] Rate limited, backing off (attempt 1/5)...
+[s2_search.py] Retrying after 1.9s backoff...
+[s2_search.py] Rate limited, backing off (attempt 2/5)...
+[s2_search.py] Retrying after 2.3s backoff...
+[s2_search.py] Rate limited, backing off (attempt 3/5)...
+[s2_search.py] Retrying after 4.1s backoff...
+[s2_search.py] Found 0 papers total
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "Marx and the origin of dialectical materialism Stanley Moore",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "No papers found matching query",
+      "recoverable": false
+    }
+  ]
+}

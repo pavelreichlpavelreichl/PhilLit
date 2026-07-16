@@ -1,0 +1,44 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov defender of Kant Neo-Kantians Rumyantseva', limit=20
+[s2_search.py] Rate limited, backing off (attempt 1/5)...
+[s2_search.py] Retrying after 1.0s backoff...
+[s2_search.py] Rate limited, backing off (attempt 2/5)...
+[s2_search.py] Retrying after 2.8s backoff...
+[s2_search.py] Rate limited, backing off (attempt 3/5)...
+[s2_search.py] Retrying after 4.8s backoff...
+[s2_search.py] Rate limited, backing off (attempt 4/5)...
+[s2_search.py] Retrying after 8.7s backoff...
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_3902eda2a4ab6631)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov defender of Kant Neo-Kantians Rumyantseva",
+  "results": [
+    {
+      "paperId": "56350b044259b75f9058f99ccfa80b29d39d7af4",
+      "title": "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians",
+      "authors": [
+        {
+          "name": "T. Rumyantseva",
+          "authorId": "2363770651"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The history of the reception and interpretation of Neo-Kantian ideas in the late nineteenth and early twentieth centuries shows the special role played by those who took a negative stand with regard to Neo-Kantianism and sought to dissociate it from and oppose it to Kant\u2019s legacy. A prominent place among the latter was occupied by Georgy V. Plekhanov, most of whose works were fiercely polemical. Highly rating Kant\u2019s works, in which he even found some coincidences with materialism, Plekhanov for a number of years engaged in polemics on philosophical and political issues with the German Neo-Kantians and Eduard Bernstein, who shared many of their views. Calling Neo-Kantianism, after Friedrich Engels, \u201ca step backwards\u201d from Kant\u2019s philosophy, he argued that Neo-Kantians had misunderstood Kant\u2019s philosophy and, in advocating a return to Kant\u2019s theoretical philosophy in order to use it to refute contemporary materialism, had distorted Kant\u2019s doctrine. Plekhanov\u2019s so-called \u201cdefence\u201d of Kant against Neo-Kantians should not be understood and accepted literally. Being a Marxist, Plekhanov tried to defend above all the views of Marx and Engels by revealing the flaws in the Neo-Kantian interpretation of Kant. Although he himself in some ways misinterpreted Kant, his views command some interest today because many of them played a certain role in the perception of Kant in the Soviet and post-Soviet times and were reflected in the discussions of the Kantian philosophy as a whole, especially its fundamental concept of the \u201cthing-in-itself\u201d.",
+      "citationCount": 0,
+      "doi": "10.5922/0207-6918-2025-1-4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/56350b044259b75f9058f99ccfa80b29d39d7af4",
+      "venue": "Kantian journal",
+      "journal": {
+        "name": "Kantian journal"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

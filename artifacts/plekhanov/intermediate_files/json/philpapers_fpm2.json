@@ -1,0 +1,184 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov Fundamental Problems Marxism International Publishers Katzer', limit=20
+[search_philpapers.py] Retrieved 11 entries...
+[search_philpapers.py] Search complete: 11 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov Fundamental Problems Marxism International Publishers Katzer",
+  "results": [
+    {
+      "title": "G. V. PLEKHANOV, Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/PLEFPO",
+      "philpapers_id": "PLEFPO",
+      "snippet": "G. V. PLEKHANOV ... This article has no associated abstract. (fix it) ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fundamental Problems of Marxism.B.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. V. PLEKHANOV"
+        }
+      ],
+      "extra_snippets": [
+        "G. V. PLEKHANOV ... This article has no associated abstract. (fix it) ... This entry has no external links. Add one. Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Fundamental Problems of Marxism.B.",
+        "The dictatorship of the proletariat from Plekhanov to Lenin.Robert Mayer - 1993 - Studies in East European Thought 45 (4):255 - 280. Marxism and aesthetics: A critique of the contribution of George Plekhanov.Lee Baxandall - 1967 - Journal of Aesthetics and Art Criticism 25 (3):267-279.",
+        "Vanguard of the Revolution: Plekhanov, Russian Marxism, and the Peasant Question.Matthew Day - 2023 - In No Bosses, No Gods: Marx, Engels, and the Twenty-first Century Study of Religion. Berlin, Boston: De Gruyter.",
+        "Estetika I Literaturnye Teorii G. V. Plekhanova.Petr Alekseevich Nikolaev - 1968 - \"Iskusstvo\"."
+      ]
+    },
+    {
+      "title": "B. H., Fundamental Problems of Marxism",
+      "url": "https://philpapers.org/rec/HFPO",
+      "philpapers_id": "HFPO",
+      "snippet": "This is a new translation of one of Plekhanov&#x27;s major works on historical materialism. It is based on the Russian edition of the Institute of Philosophy of the Academy of Sciences ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. H."
+        }
+      ],
+      "extra_snippets": [
+        "Plekhanov's treatment of the materialist conception of history still stands as one of the most brilliant and coherent presentations of this seminal doctrine. It is a pity and a historical deprivation that he became so preoccupied with the polemics of the day as to never sit down to write a systematic exposition of Marxism.--H.",
+        "Russian Marxism and the Materialist Interpretation of Spinoza.Justin Steinberg - 2024 - In John Symons & Charles Wolfe, The History and Philosophy of Materialism. New York, NY: Routledge.",
+        "Was Lenin a Marxist? The Populist Roots of Marxism-Leninism.Simon Clarke - 1998 - Historical Materialism 3 (1):3-28."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLETDO",
+      "philpapers_id": "PLETDO",
+      "snippet": "The &quot;father of Russian Marxism&quot;, George Plekhanov directed most of his writings against the Russian &quot;populist&quot; movement to which he once belonged. He insisted that although, in principle, in semi-feudal societies ...",
+      "page_age": null,
+      "extra_snippets": [
+        "The \"father of Russian Marxism\", George Plekhanov directed most of his writings against the Russian \"populist\" movement to which he once belonged. He insisted that although, in principle, in semi-feudal societies such as the Russian, the first revolution would of necessity have to be a \"capitalist\" one.",
+        "Plekhanov, Lenin and working-class consciousness.Robert Mayer - 1997 - Studies in East European Thought 49 (3):159-185. Russian Marxism and the Materialist Interpretation of Spinoza.Justin Steinberg - 2024 - In John Symons & Charles Wolfe, The History and Philosophy of Materialism.",
+        "Vanguard of the Revolution: Plekhanov, Russian Marxism, and the Peasant Question.Matthew Day - 2023 - In No Bosses, No Gods: Marx, Engels, and the Twenty-first Century Study of Religion. Berlin, Boston: De Gruyter.",
+        "However, he condemned the methods of Lenin and the Bolsheviks soon after 1917. In books such as Socialism and the Political Struggle, Our Differences and On the Development of the Monist View of History, Plekhanov argued that a successful Marxist revolution could only take place after the development of capitalism."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, The materialist conception of history",
+      "url": "https://philpapers.org/rec/PLETMC",
+      "philpapers_id": "PLETMC",
+      "snippet": "Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History.Georgi\u00e6i Valentinovich Plekhanov - 1992 - International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Essays in Historical Materialism: The Materialist Conception of History ; The Role of the Individual in History.Georgi\u00e6i Valentinovich Plekhanov - 1992 - International Publishers."
+      ]
+    },
+    {
+      "title": "Georgii\u0306 Valentinovich Plekhanov, In defence of materialism: the development of the monist view of history",
+      "url": "https://philpapers.org/rec/PLEIDO-2",
+      "philpapers_id": "PLEIDO",
+      "snippet": "Lun yi yuan lun li shi guan zhi ... Plekhanov - 1961 - Beijing: Xin hua shu dian fa xing. Edited by Gu [From Old Catalog] Bo. Russkaia Progressivnaia Mysl Xix V. Ot Geograficheskogo Determinizma K Istoricheskomu Materializmu.Mikhail Georgievich Fedorov - 1972 - Nauka. &quot;Yuibutsuron to keiken hihanron&quot; kenkyu\u0304.Hiroshi Nagata (ed.) - 1936 - To\u0304kyo\u0304: Naukasha. Scrutiny of Marxism.James Munro ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Lun yi yuan lun li shi guan zhi fa zhan.Georgii\u0306 Valentinovich Plekhanov - 1961 - Beijing: Xin hua shu dian fa xing. Edited by Gu [From Old Catalog] Bo. Russkaia Progressivnaia Mysl Xix V. Ot Geograficheskogo Determinizma K Istoricheskomu Materializmu.Mikhail Georgievich Fedorov - 1972 - Nauka. \"Yuibutsuron to keiken hihanron\" kenkyu\u0304.Hiroshi Nagata (ed.) - 1936 - To\u0304kyo\u0304: Naukasha. Scrutiny of Marxism.James Munro Cameron - 1948 - Scm Press.",
+        "Przyczynek do zagadnienia rozwoju monistycznego pojmowania dziej\u00f3w.Georgii Valentinovich Plekhanov & Romana Granas - 1949 - Ksiazka I Wiedza.",
+        "The development of the monist view of history.Georgii\u0306 Valentinovich Plekhanov - 1947 - Moscow,: Foreign Languages Pub."
+      ]
+    },
+    {
+      "title": "Karl Marx, Economic & philosophical manuscripts of 1844",
+      "url": "https://philpapers.org/rec/MAREP",
+      "philpapers_id": "MAREP",
+      "snippet": "Marx/Engels Collected Works, Vol. 5.Karl Marx &amp; Friedrich Engels - 1975 - International Publishers.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Karl Marx"
+        }
+      ],
+      "extra_snippets": [
+        "This entry is not archived by us. If you are the author and have permission from the publisher, we recommend that you archive it. Many publishers automatically grant permission to authors to archive pre-prints. By uploading a copy of your work, you will enable us to better index it, making it easier to find.",
+        "Marx/Engels Collected Works, Vol. 5.Karl Marx & Friedrich Engels - 1975 - International Publishers."
+      ]
+    },
+    {
+      "title": "Vladimir N. Belov, Semyon Frank and the German Neo-Kantianism: Aspects of Debate",
+      "url": "https://philpapers.org/rec/BELSFA-2",
+      "philpapers_id": "BELSFA",
+      "snippet": "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians.Tatyana Gerardovna Rumyantseva - 2025 - Kantian Journal 44 (1):89-106.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Vladimir N. Belov"
+        }
+      ],
+      "extra_snippets": [
+        "Thirdly and lastly, Frank paid particular attention, especially in his formative period as a philosopher, to the leading trend in the early twentieth century, namely German Neo-Kantianism, which led some students of his work to believe that German Neo-Kantianism played the decisive role in Frank\u2019s abandonment of Marxism in favour of religious ontology. Frank\u2019s fundamental disagreement with German Neo-Kantianism was expressed in his work The Object of Knowledge in which he criticised the Neo-Kantian concepts of number and time.",
+        "Plekhanov as \u201cDefender\u201d of Kant from Neo-Kantians.Tatyana Gerardovna Rumyantseva - 2025 - Kantian Journal 44 (1):89-106.",
+        "This entry is not archived by us. If you are the author and have permission from the publisher, we recommend that you archive it. Many publishers automatically grant permission to authors to archive pre-prints. By uploading a copy of your work, you will enable us to better index it, making it easier to find."
+      ]
+    },
+    {
+      "title": "Andrea Sau, A Marxist Theory of Ideology: Praxis, Thought and the Social World",
+      "url": "https://philpapers.org/rec/SAUAMT",
+      "philpapers_id": "SAUAMT",
+      "snippet": "The German Ideology.Karl Marx &amp; Friedrich Engels - 1975 - In Karl Marx &amp; Friedrich Engels, Marx/Engels Collected Works, Vol. 5. International Publishers.",
+      "page_age": null,
+      "extra_snippets": [
+        "Marxism and ideology.Ferruccio Rossi-Landi - 1990 - New York: Oxford University Press. L\u2019estensione del concetto di ideologia in Gramsci e la genesi delle sue articolazioni.Gianni Francioni - 2018 - Materialismo Storico 4 (2):130-149. Marx's Capital and One Free World: A Fundamental Reappraisal of His Political Economy.Tadao Horie - 1991",
+        "Marxism and Ideology: From Marx to Althusser.David Leopold - 2013 - In Michael Freeden, Lyman Tower Sargent & Marc Stears, The Oxford Handbook of Political Ideologies. Oxford, GB: Oxford University Press.",
+        "The German Ideology.Karl Marx & Friedrich Engels - 1975 - In Karl Marx & Friedrich Engels, Marx/Engels Collected Works, Vol. 5. International Publishers."
+      ]
+    },
+    {
+      "title": "Tom Rockmore, Marx the Fichtean",
+      "url": "https://philpapers.org/rec/ROCMTF",
+      "philpapers_id": "ROCMTF",
+      "snippet": "Marxism and philosophy.Karl Korsch - 1970 - New York,: M[onthly] R[eview Press. Ludwig Feuerbach and the end of classical German philosophy.Friedrich Engels - 1976 - Peking: Foreign Languages Press. Edited by Karl Marx &amp; Georgii\u0306 Valentinovich Plekhanov.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "We ignore the history of philosophy at our peril. Engels, who typically conflates Marx and Marxism, points to the relation of Marxism to the tradition while also denying it. In his little book on Feuerbach, Engels depicts Feuerbach as leading Marx away from Hegel, away from classical German philosophy, away from philosophy and towards materialism and science.",
+        "Marxism and philosophy.Karl Korsch - 1970 - New York,: M[onthly] R[eview Press. Ludwig Feuerbach and the end of classical German philosophy.Friedrich Engels - 1976 - Peking: Foreign Languages Press. Edited by Karl Marx & Georgii\u0306 Valentinovich Plekhanov.",
+        "On recovering Marx after Marxism.Tom Rockmore - 2000 - Philosophy and Social Criticism 26 (4):95-106.",
+        "Marxism and German scientific materialism.Ian Mitchell - 1978 - Annals of Science 35 (4):379-400."
+      ]
+    },
+    {
+      "title": "Michael A. Lebowitz, Beyond Capital: Marx\u2019s Political Economy of the Working Class",
+      "url": "https://philpapers.org/rec/LEBBCM",
+      "philpapers_id": "LEBBCM",
+      "snippet": "Marxism has long been accused of economic determinism, reductionism and a silence on human experience. Beyond Capital argues that these problems can be traced back to Marx&#x27;s failure to write his ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Marxism has long been accused of economic determinism, reductionism and a silence on human experience. Beyond Capital argues that these problems can be traced back to Marx's failure to write his planned book on Wage-Labour. Added to this the subsequent ignorance of Marx's method, the result has been an inaccurate presentation of Marxian.",
+        "Marxism: Karl Marx's fifteen key concepts for cultural and communication studies.Christian Fuchs - 2019 - New York: Routledge.",
+        "Political Marxism and Value Theory: Bridging the Gap between Theory and History.Samuel Knafo - 2007 - Historical Materialism 15 (2):75-104.",
+        "Marx's Capital and One Free World: A Fundamental Reappraisal of His Political Economy.Tadao Horie - 1991"
+      ]
+    },
+    {
+      "title": "A. G. Kharchev & B. D. Iakovlev, The Development of Marxist-Leninist Ethics in the Period of Socialist Construction in the USSR",
+      "url": "https://philpapers.org/rec/KHATDO-2",
+      "philpapers_id": "KHATDO",
+      "snippet": "Moreover, as a rule, these two currents of scientific-ideological activity developed in constant interaction with each other, so that delimitation and study of each of them separately are not always possible. Marxist-Leninist ethics, like Marxism as a whole, has never been a sphere of &quot;pure knowledge,&quot; but was always an implement of the revolutionary practice of the proletariat, resolving problems propounded by that practice, and in intimate association with it",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "A. G. Kharchev"
+        },
+        {
+          "type": "person",
+          "name": "B. D. Iakovlev"
+        }
+      ],
+      "extra_snippets": [
+        "Moreover, as a rule, these two currents of scientific-ideological activity developed in constant interaction with each other, so that delimitation and study of each of them separately are not always possible. Marxist-Leninist ethics, like Marxism as a whole, has never been a sphere of \"pure knowledge,\" but was always an implement of the revolutionary practice of the proletariat, resolving problems propounded by that practice, and in intimate association with it"
+      ]
+    }
+  ],
+  "count": 11,
+  "errors": []
+}

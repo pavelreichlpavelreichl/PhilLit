@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Karl Marx and the Intellectual Origins of Dialecti...' author=James D. White year=1996
+[verify_paper.py] Paper found: Karl Marx and the Intellectual Origins of Dialecti... (score: 77.7)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Karl Marx and the Intellectual Origins of Dialectical Materialism",
+    "author": "James D. White",
+    "year": 1996
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1057/9780230374218",
+      "title": "Karl Marx and the Intellectual Origins of Dialectical Materialism",
+      "authors": [
+        {
+          "family": "White",
+          "given": "James D."
+        }
+      ],
+      "editors": [],
+      "year": 1996,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Palgrave Macmillan UK",
+      "type": "book",
+      "suggested_bibtex_type": "book",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1057/9780230374218",
+      "score": 77.685074
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

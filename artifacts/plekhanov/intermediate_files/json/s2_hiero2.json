@@ -1,0 +1,58 @@
+[s2_search.py] Searching Semantic Scholar: 'Plekhanov hieroglyph theory of knowledge Helmholtz', limit=20
+[s2_search.py] Retrieved 2/2 papers...
+[s2_search.py] Search complete: 2 papers found
+[s2_search.py] Cached results (cache key: s2_760a700628990d22)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Plekhanov hieroglyph theory of knowledge Helmholtz",
+  "results": [
+    {
+      "paperId": "5c6f5d383739f8adc3ae48127496895892942b03",
+      "title": "Genesis and Development of Plekhanov\u2019s Theory of Knowledge: A Marxist Between Anthropological Materialism and Physiology",
+      "authors": [
+        {
+          "name": "D. Steila",
+          "authorId": "108224764"
+        }
+      ],
+      "year": 1990,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.2307/130879",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5c6f5d383739f8adc3ae48127496895892942b03",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "85de1428d292cf456e11f92ee32bd64072f9e34f",
+      "title": "John Zachary Young (1907\u20131997)",
+      "authors": [
+        {
+          "name": "P. Wall",
+          "authorId": "2075872"
+        }
+      ],
+      "year": 1997,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": "10.1017/S0025315400038832",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/85de1428d292cf456e11f92ee32bd64072f9e34f",
+      "venue": "Journal of the Marine Biological Association of the United Kingdom",
+      "journal": {
+        "name": "Journal of the Marine Biological Association of the United Kingdom",
+        "pages": "1261 - 1262",
+        "volume": "77"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

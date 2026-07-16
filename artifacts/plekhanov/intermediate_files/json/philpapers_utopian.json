@@ -1,0 +1,253 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Plekhanov utopian socialism Fourier Saint-Simon', limit=20
+[search_philpapers.py] Retrieved 14 entries...
+[search_philpapers.py] Search complete: 14 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Plekhanov utopian socialism Fourier Saint-Simon",
+  "results": [
+    {
+      "title": "N. Scott Arnold, Marx, Central Planning, and Utopian Socialism",
+      "url": "https://philpapers.org/rec/ARNMCP",
+      "philpapers_id": "ARNMCP",
+      "snippet": "Marx believed that what most clearly distinguished him and Engels from the nineteenth-century French socialists was that their version of socialism was \u201cscientific\u201d while the latters&#x27; was Utopian. What he intended by this contrast is roughly the following: French socialists such as Proudhon and Fourier constructed elaborate visions of a future socialist society without an adequate understanding of existing capitalist society.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "N. Scott Arnold"
+        }
+      ],
+      "extra_snippets": [
+        "Marx believed that what most clearly distinguished him and Engels from the nineteenth-century French socialists was that their version of socialism was \u201cscientific\u201d while the latters' was Utopian. What he intended by this contrast is roughly the following: French socialists such as Proudhon and Fourier constructed elaborate visions of a future socialist society without an adequate understanding of existing capitalist society.",
+        "Marx's historical materialism is a systematic attempt to discover the laws governing the inner dynamics of capitalism and class societies generally. Although this theory issues in a prediction of the ultimate triumph of socialism, it is a commonplace that Marx had little to say about the details of post-capitalist society.",
+        "Capitalism and Socialism: How Can they be Compared?Peter Rutland - 1988 - Social Philosophy and Policy 6 (1):197.",
+        "Karl Marx and British Socialism.David Leopold - 2014 - In W. J. Mander, The Oxford Handbook of British Philosophy in the Nineteenth Century."
+      ]
+    },
+    {
+      "title": "John P. Hooper, The Ethical Socialism of Saint-Simon, Fourier, and Proudhon",
+      "url": "https://philpapers.org/rec/HOOTES",
+      "philpapers_id": "HOOTES",
+      "snippet": "Saint-Simon, Fourier, and Proudhon: \u201cUtopian\u201d French socialism.Diane Morgan - 2019 - In Alan D. Schrift, The History of Continental Philosophy. Chicago: University of Chicago Press.",
+      "page_age": null,
+      "extra_snippets": [
+        "The Prophets of Paris Turgot, Condorcet, Saint-Simon, Fourier, and Comte.Frank Edward Manuel - 1965 - Harper & Row."
+      ]
+    },
+    {
+      "title": "Tom Rockmore, Marx the Fichtean",
+      "url": "https://philpapers.org/rec/ROCMTF",
+      "philpapers_id": "ROCMTF",
+      "snippet": "In the preface to Socialism, Utopian and Scientific, Engels wrote: \u201cWe German socialists are proud that we trace our descent not only from Saint Simon, Fourier and Owen, but also from Kant, Fichte and Hegel\u201d. In this paper I will focus on Marx\u2019s relation to Fichte.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Rockmore"
+        }
+      ],
+      "extra_snippets": [
+        "We ignore the history of philosophy at our peril. Engels, who typically conflates Marx and Marxism, points to the relation of Marxism to the tradition while also denying it. In his ...",
+        "Ludwig Feuerbach and the end of classical German philosophy.Friedrich Engels - 1976 - Peking: Foreign Languages Press. Edited by Karl Marx & Georgii\u0306 Valentinovich Plekhanov.",
+        "Is Marx a Fichtean?Tom Rockmore - 2010 - Philosophy and Social Criticism 36 (1):93-104.",
+        "On recovering Marx after Marxism.Tom Rockmore - 2000 - Philosophy and Social Criticism 26 (4):95-106."
+      ]
+    },
+    {
+      "title": "J. H. M. Salmon, Pierre-Joseph Proudhon and the rise of French Republican socialism",
+      "url": "https://philpapers.org/rec/SALPPA-3",
+      "philpapers_id": "SALPPA",
+      "snippet": "Saint-Simon, Fourier, and Proudhon: \u201cUtopian\u201d French socialism.Diane Morgan - 2019 - In Alan D. Schrift, The History of Continental Philosophy. Chicago: University of Chicago Press.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "J. H. M. Salmon"
+        }
+      ],
+      "extra_snippets": [
+        "Pierre Joseph Proudhon, socialist, anarkist, federalist.Britta Gr\u00f6ndahl - 1959 - Stockholm,: Frihetliga bokgillet.",
+        "Feminism, socialism, and French romanticism.K."
+      ]
+    },
+    {
+      "title": "David G. Rowley, Marxism as a Natural Science: Alexander Bogdanov\u2019s Anti-Revisionist Revisionism",
+      "url": "https://philpapers.org/rec/ROWMAA-3",
+      "philpapers_id": "ROWMAA",
+      "snippet": "Discussion of Alexander Bogdanov as a Marxist revisionist has largely centred on his philosophy of being and cognition and on Plekhanov\u2019s and Lenin\u2019s accusation that Bogdanov was an idealist renegade from Marxism. However, the real issue of revisionism at the time was not materialism but determinism: the question of whether socialism would appear by the working of the objective laws of nature or the subjective will of human beings.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "David G. Rowley"
+        }
+      ],
+      "extra_snippets": [
+        "Discussion of Alexander Bogdanov as a Marxist revisionist has largely centred on his philosophy of being and cognition and on Plekhanov\u2019s and Lenin\u2019s accusation that Bogdanov was an idealist renegade from Marxism. However, the real issue of revisionism at the time was not materialism but determinism: the question of whether socialism would appear by the working of the objective laws of nature or the subjective will of human beings.",
+        "He conceived of society as a form of life subject to biological laws of nature: the need to assimilate energy from the environment and the need to adapt to the environment in the struggle to survive. He reinterpreted the key elements of scientific socialism \u2013 the idea that existence determines consciousness and the labour theory of value \u2013 in terms of this worldview.",
+        "Was Lenin a Marxist? The Populist Roots of Marxism-Leninism.Simon Clarke - 1998 - Historical Materialism 3 (1):3-28."
+      ]
+    },
+    {
+      "title": "Franc\u0327ois Dagognet, Trois philosophies revisite\u0301es: Saint-Simon, Proudhon, Fourier",
+      "url": "https://philpapers.org/rec/DAGTPR",
+      "philpapers_id": "DAGTPR",
+      "snippet": "Saint-Simon, Fourier, and Proudhon: \u201cUtopian\u201d French socialism.Diane Morgan - 2019 - In The History of Continental Philosophy. Chicago: University of Chicago Press.",
+      "page_age": null,
+      "extra_snippets": [
+        "The Ethical Socialism of Saint-Simon, Fourier, and Proudhon.John P. Hooper - 1978 \u00b7 Lerminier lecteur de Saint-Simon, Fourier et Proudhon: les trois chapitres ajout\u00e9s \u00e0 l'\u00e9dition de la Philosophie du droit de 1853.[author unknown] - 2011 - Corpus: Revue de philosophie 60:119-166. The Prophets of Paris Turgot, Condorcet, Saint-Simon, Fourier, and Comte.Frank Edward Manuel - 1965 - Harper & Row.",
+        "L'id\u00e9e du progr\u00e8s social chez Saint-Simon et Fourier.T."
+      ]
+    },
+    {
+      "title": "Gareth Stedman-Jones, Saint Simon and the liberal origins of the socialist critique of Political Economy",
+      "url": "https://philpapers.org/rec/STESSA-2",
+      "philpapers_id": "STESSA",
+      "snippet": "The particular association of socialism with a language of productivism - with work, producers, the character of labour, and a critique of political economy - goes back to the commentaries of the 1830s and 1840s. Adolphe Blanqui, the brother of the famous revolutionary, in his History of Political Economy in Europe published in 1837, described Fourier and Owen as &#x27;utopian economists&#x27;,1 while Lorenz von Stein in his Der Sozialismus und Kommunismus des heutigen Frankreichs, first published in 1842, defined socialism as a theory which made work the sole basis of..",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gareth Stedman-Jones"
+        }
+      ],
+      "extra_snippets": [
+        "The particular association of socialism with a language of productivism - with work, producers, the character of labour, and a critique of political economy - goes back to the commentaries of the 1830s and 1840s. Adolphe Blanqui, the brother of the famous revolutionary, in his History of Political Economy in Europe published in 1837, described Fourier and Owen as 'utopian economists',1 while Lorenz von Stein in his Der Sozialismus und Kommunismus des heutigen Frankreichs, first published in 1842, defined socialism as a theory which made work the sole basis of..",
+        "Backwards into the future: Neorepublicanism as a postsocialist critique of market society.Gerald F. Gaus - 2003 - Social Philosophy and Policy 20 (1):59-91.",
+        "The Uses of Failure: Christian Socialism as a Nomadic City of the Gift Economy.Trevor Hogan - 2005 - Thesis Eleven 80 (1):74-93.",
+        "The Philosophy and Economics of Market Socialism: A Critical Study.N."
+      ]
+    },
+    {
+      "title": "Neil McWilliam, Dreams of Happiness: Social Art and the French Left, 1830-1850",
+      "url": "https://philpapers.org/rec/MCWDOH",
+      "philpapers_id": "MCWDOH",
+      "snippet": "In this full-length investigation of social romanticism, Neil McWilliam explores the profound impact of radical philosophies on contemporary aesthetics and art criticism, and traces efforts to conscript the arts for doctrinal ends. He highlights the complexity and diversity of systems such as Saint-Simonianism, Fourierism, Republicanism, and Christian Socialism--movements that set out to exploit the ameliorative effect of aesthetic form on human consciousness--and challenges the previous linking of social art to narrow didacticism.",
+      "page_age": null,
+      "extra_snippets": [
+        "In this full-length investigation of social romanticism, Neil McWilliam explores the profound impact of radical philosophies on contemporary aesthetics and art criticism, and traces efforts to conscript the arts for doctrinal ends. He highlights the complexity and diversity of systems such as Saint-Simonianism, Fourierism, Republicanism, and Christian Socialism--movements that set out to exploit the ameliorative effect of aesthetic form on human consciousness--and challenges the previous linking of social art to narrow didacticism.",
+        "The Notion of Art Social in France From Saint-Simon to the Second Republic the Utopian Perspective.Neil Mcwilliam - 1985",
+        "Drawing on a broad spectrum of previously neglected journalistic criticism, visual material, and archival sources, together with key political texts by figures such as Saint-Simon, Philippe Buchez, and Pierre Leroux, this work reveals an important facet of radical history and modifies received understandings of French art in the wake of Romanticism. In the process it probes the role of culture within oppositional political practice, arguing that the ultimate failure to realize a social art exposes the limits of the radicals' break with dominant discourse and their hesitancy in forging links with a culturally disenfranchised working class.",
+        "Feminism, Socialism, and French Romanticism.Claire Goldberg Moses & Leslie W. Rabine - 1993 \u00b7 The Struggle for the Soul of the French Novel: French Catholic and Realist Novelists, 1850-1970.Malcolm Scott - 1989 - MacMillan Publishing Company. The concave mirror: from imitation to expression in French esthetic theory, 1800-1830.Marguerite Iknayan - 1983 - Saratoga, Calif.: ANMA Libri. Saint-Georges de Bouh\u00e9lier's Naturisme: An Anti-symbolist Movement in Late Nineteenth-century French Poetry.Patrick L."
+      ]
+    },
+    {
+      "title": "Thomas Bouchet, A transient allergy: Owen and the Owenites according to Charles Fourier and the Fourierists, from the 1820s to 1837",
+      "url": "https://philpapers.org/rec/BOUATA-3",
+      "philpapers_id": "BOUATA",
+      "snippet": "Fourierism Owenism Saint-Simonianism socialism utopianism Victor Considerant Jules Lechevalier Adrien Berbrugger Alexandre Baudet-Dulary Am\u00e9d\u00e9e Paget",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Thomas Bouchet"
+        }
+      ],
+      "extra_snippets": [
+        "Fourierism Owenism Saint-Simonianism socialism utopianism Victor Considerant Jules Lechevalier Adrien Berbrugger Alexandre Baudet-Dulary Am\u00e9d\u00e9e Paget",
+        "The article pays special attention to the work of Fourier\u2019s leading disciple, Victor Considerant. It contrasts Fourier\u2019s highly critical evaluation of Owen\u2019s work, with Considerant\u2019s more considered reading of Owen and conciliatory approach in dealing with other socialists, such as the Saint-Simonians and Owen\u2019s French disciples.",
+        "Sabotaged: Dreams of Utopia in Texas by James Pratt.Carl J. Guarneri - 2021 - Utopian Studies 32 (3):679-681."
+      ]
+    },
+    {
+      "title": "Walter M. Simon, History for Utopia: Saint-Simon and the Idea of Progress",
+      "url": "https://philpapers.org/rec/SIMHFU",
+      "philpapers_id": "SIMHFU",
+      "snippet": "Saint-Simon, the Utopian Precursor of the League of Nations.Elliot H. Polinger - 1943 - Journal of the History of Ideas 4 (1/4):475 \u00b7 Lectures on ideology and utopia.Paul Ric\u0153ur - 1986 - New York: Columbia University Press. Edited by George H. Taylor \u00b7 Vittorio Martino, &quot;saint-Simon tra ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Walter M. Simon"
+        }
+      ],
+      "extra_snippets": [
+        "Socialism and Saint-Simon. [REVIEW]Harold J.",
+        "The historical imaginary of social science in post-Revolutionary France: Bonald, Saint-Simon, Comte.W."
+      ]
+    },
+    {
+      "title": "Jos\u00e9 Manuel Menudo Pach\u00f3n & Fernando L\u00f3pez Castellano, Robert Owen\u2019s quest for the \u2018new moral world\u2019 in a non-industrialized country",
+      "url": "https://philpapers.org/rec/MENROQ",
+      "philpapers_id": "MENROQ",
+      "snippet": "It follows recent historiographic trends in the history of early Spanish socialism to show that although Owen\u2019s ideas could not have a decisive impact in a largely agricultural economy and society, his ideas did draw more significant attention that has been thought. The article examines how Owen\u2019s ideas, like those of Fourier and Saint-Simon, were transmitted in Spain through different channels, in particular in education through the work of Pablo Montesino, and in the 1850s and 60s how they proved important to the creation of workers\u2019 co-operatives in Valencia and Madrid.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Jos\u00e9 Manuel Menudo Pach\u00f3n"
+        },
+        {
+          "type": "person",
+          "name": "Fernando L\u00f3pez Castellano"
+        }
+      ],
+      "extra_snippets": [
+        "It follows recent historiographic trends in the history of early Spanish socialism to show that although Owen\u2019s ideas could not have a decisive impact in a largely agricultural economy and society, his ideas did draw more significant attention that has been thought. The article examines how Owen\u2019s ideas, like those of Fourier and Saint-Simon, were transmitted in Spain through different channels, in particular in education through the work of Pablo Montesino, and in the 1850s and 60s how they proved important to the creation of workers\u2019 co-operatives in Valencia and Madrid.",
+        "Perspectives on human and social capital theories and the role of education: An approach from Mediterranean thought.Marina Garc\u00eda-Carmona, Fernando Garc\u00eda-Quero & Fernando L\u00f3pez Castellano - 2018 - Educational Philosophy and Theory 51 (1):51-62. Thinking of a Utopian Future: Fourierism in Nineteenth-Century Spain.Juan Pro - 2015 - Utopian Studies 26 (2):329-348.",
+        "Robert Owen\u2019s influence on French republicanism in the first half of the nineteenth century: the role of former Saint-Simonians and their networks (Pierre Leroux, Jean Reynaud, and George Sand).Quentin Schwanck - 2021 - History of European Ideas 47 (2):299-314. A Quest for Harmony: The Role of Music in Robert Owen\u2019s New Lanark Community.Lorna Davidson - 2010 - Utopian Studies 21 (2):232-251."
+      ]
+    },
+    {
+      "title": "Carl J. Guarneri, The Utopian Alternative. Fourierism in Nineteenth-Century America",
+      "url": "https://philpapers.org/rec/GUATUA",
+      "philpapers_id": "GUATUA",
+      "snippet": "The Americanization of Utopia: Fourierism and the Dilemma of Utopian Dissent in the United States.Carl J.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Carl J. Guarneri"
+        }
+      ],
+      "extra_snippets": [
+        "Popular Radicalism in Nineteenth-Century Britain.John Belchem - 1997 - Utopian Studies 8 (1):136-138. Added to PP 2015-02-05 Downloads 1 (#2,304,979) 6 months 1 (#2,251,541) ... Sorry, there are not enough data points to plot this chart. How can I increase my downloads? J. S. Mill's Liberal Utilitarian Assessment of Capitalism Versus Socialism.Jonathan Riley - 1996 - Utilitas 8 (1):39-71.",
+        "The Americanization of Utopia: Fourierism and the Dilemma of Utopian Dissent in the United States.Carl J.",
+        "Thinking of a Utopian Future: Fourierism in Nineteenth-Century Spain.Juan Pro - 2015 - Utopian Studies 26 (2):329-348.",
+        "Romancing the Cause: Fourierism, Feminism, and Free Love in Papa's Own Girl.Susan Lynch Foster - 1997 - Utopian Studies 8 (1):31 - 54."
+      ]
+    },
+    {
+      "title": "Carl J. Guarneri, Sabotaged: Dreams of Utopia in Texas by James Pratt",
+      "url": "https://philpapers.org/rec/GUASDO",
+      "philpapers_id": "GUASDO",
+      "snippet": "The Americanization of Utopia: Fourierism and the Dilemma of Utopian Dissent in the United States.Carl J. Guarneri - 1994 - Utopian Studies 5 (1):72 - 88. Search for a New Eden. James Pierrepont Greaves : The Sacred Socialist and his Followers.J.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Carl J. Guarneri"
+        }
+      ],
+      "extra_snippets": [
+        "Languishing in exile after Louis Napoleon's coup d'\u00e9tat of December 1851 shut down socialist agitation, the followers of the utopian theorist Charles Fourier turned their attention to the New World as an \"asylum\" where Fourierism's communal ideals might be realized.",
+        "In so doing they joined a long line of utopian dreamers who saw the young United States as a promised land of free expression and social experimentation. The head of the French Fourierists, Victor Considerant, made contacts with the remnant of the American Fourierist movement, toured the United States in 1853, and was thrilled by the vast open spaces of Texas.",
+        "Victor Considerant and the Rise and Fall of French Romantic Socialism.Jonathan Beecher - 2002 - Utopian Studies 13 (1):173-175. A transient allergy: Owen and the Owenites according to Charles Fourier and the Fourierists, from the 1820s to 1837.Thomas Bouchet - 2021 - History of European Ideas 47 (2):345-358.",
+        "The Americanization of Utopia: Fourierism and the Dilemma of Utopian Dissent in the United States.Carl J. Guarneri - 1994 - Utopian Studies 5 (1):72 - 88. Search for a New Eden. James Pierrepont Greaves : The Sacred Socialist and his Followers.J."
+      ]
+    },
+    {
+      "title": "Leopold David, The Structure Of Marx And Engels' Considered Account Of Utopian Socialism",
+      "url": "https://philpapers.org/rec/DAVTSO-28",
+      "philpapers_id": "DAVTSO",
+      "snippet": "There is an underlying structure to their views which renders their considered account of utopian socialism consistent. Two distinctions provide that structure: a chronological distinction ; and a textual distinction. These two distinctions correspond to a difference in the degree of approbation that Marx and Engels bestow.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Leopold David"
+        }
+      ],
+      "extra_snippets": [
+        "Marx and Engels are frequently portrayed as holding an unremittingly hostile view of utopian socialism. This negative reading is undermined by the approving comments on the same subject also found in their writings. However, it does not follow that Marx and Engels disparage and laud utopian socialism in an ambiguous or inconsistent manner.",
+        "There is an underlying structure to their views which renders their considered account of utopian socialism consistent. Two distinctions provide that structure: a chronological distinction ; and a textual distinction. These two distinctions correspond to a difference in the degree of approbation that Marx and Engels bestow.",
+        "Scott Arnold - 1989 - Social Philosophy and Policy 6 (2):160. The Utopian Marxism of Ernst Bloch.Wayne Hudson - 1976",
+        "Marx and Engels in the Landscape of Utopia.Frank E. Manuel & Fritzie P. Manuel - 1979 - In Frank E. Manuel & Fritzie P. Manuel, Utopian Thought in the Western World. Cambridge, MA and London, England: Harvard University Press. pp. 697-716. Marx, Marxism, and Utopia.Darren Webb - 2000 - Ashgate Publishing. On the Possibility of Marxist Ethics.Buket Korkut Raptis - 2018 - Beytulhikme An International Journal of Philosophy 8 (1):131-155. Marx, Engels, Marxism.Vladimir Il\u02b9ich Lenin - 1954 - \u00c9ditions Sociales Internationales."
+      ]
+    }
+  ],
+  "count": 14,
+  "errors": []
+}

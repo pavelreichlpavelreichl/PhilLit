@@ -25,12 +25,13 @@
 [2026-07-16] Phase 1: Environment verified (check_setup.py status=ok). Working dir artifacts/plekhanov/ created.
 [2026-07-16] Phase 2: literature-review-planner (Opus) produced lit-review-plan.md — 6 domains (Philosophy of History [primary], Philosophical Foundations, Aesthetics, Political Thought/Trajectory, Influence & Intellectual Relations, Historiographical Debates).
 [2026-07-16] Phase 3, Domain 1/6: domain-literature-researcher (Sonnet) produced literature-domain-1.bib — 18 entries (Philosophy of History and Historical Materialism, PRIMARY FOCUS). No source issues.
+[2026-07-16] Phase 3, Domain 2/6: domain-literature-researcher (Sonnet) produced literature-domain-2.bib — 17 entries (Philosophical Foundations: monism, dialectics, hieroglyph theory, Hegel/Marx/Engels/French materialists). No source issues (CORE returned 0 matches but no error).
 
 ## Current Task
 
-Phase 3: domain-literature-researcher (Sonnet), sequential, domain 2 of 6 (Philosophical Foundations)
+Phase 3: domain-literature-researcher (Sonnet), sequential, domain 3 of 6 (Aesthetics and Sociological Theory of Art)
 
 ## Next Steps
 
-1. Run domain-literature-researcher for domains 2-6 sequentially (Sonnet), commit+push after each
+1. Run domain-literature-researcher for domains 3-6 sequentially (Sonnet), commit+push after each
 2. Phase 4: synthesis-planner (Opus)
