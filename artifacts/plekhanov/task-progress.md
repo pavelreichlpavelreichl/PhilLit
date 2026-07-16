@@ -16,7 +16,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequential)
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequential)
 - [ ] Phase 6: Assemble final review files
 
@@ -31,12 +31,13 @@
 [2026-07-16] Phase 3, Domain 5/6: domain-literature-researcher (Sonnet) produced literature-domain-5.bib — 14 entries (Influence and Intellectual Relations: Lenin, Soviet diamat, Labriola, Western Marxism). CORE rate-limited for some queries; excluded one unverifiable citation (no DOI/venue/abstract) and one retracted paper per citation-integrity rules.
 [2026-07-16] Phase 3, Domain 6/6: domain-literature-researcher (Sonnet) produced literature-domain-6.bib — 14 entries (Historiographical/Marxology debates). NDPR no results (predates coverage); no dedicated SEP/IEP entry on Plekhanov; excluded one unverifiable lead; stripped two publisher-boilerplate "abstracts".
 Phase 3 COMPLETE: all 6 domain bibliographies produced (raw totals 19+18+12+11+15+15 entries across files, pre-dedup).
+[2026-07-16] Phase 4 COMPLETE: synthesis-planner (Opus) produced synthesis-outline.md — Introduction + 5 thematic sections (Philosophy of History [core, 1600-2000w], Foundations, Aesthetics, Politics, Influence & Historiographical Verdict) + Conclusion. ~60 unique papers, target 5000-6500 words.
 
 ## Current Task
 
-Starting Phase 4: synthesis-planner (Opus) to design the review outline
+Starting Phase 5: synthesis-writer (Sonnet), sequential, section 1 of 7 (Introduction)
 
 ## Next Steps
 
-1. Invoke synthesis-planner (Opus) reading all 6 .bib files -> synthesis-outline.md
-2. Commit+push, then Phase 5 (synthesis-writer, Sonnet, sequential per section)
+1. Write sections sequentially in order: Introduction, Section 1 (Philosophy of History), Section 2 (Foundations), Section 3 (Aesthetics), Section 4 (Politics), Section 5 (Influence/Verdict), Conclusion. Commit+push after each.
+2. Phase 6: assemble, dedupe bib, generate bibliography, lint, cleanup
