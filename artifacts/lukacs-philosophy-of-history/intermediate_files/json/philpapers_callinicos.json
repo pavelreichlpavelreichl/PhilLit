@@ -1,0 +1,300 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Callinicos Althusser Marxism', limit=20
+[search_philpapers.py] Retrieved 17 entries...
+[search_philpapers.py] Search complete: 17 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Callinicos Althusser Marxism",
+  "results": [
+    {
+      "title": "Alex Callinicos, Althusser's Marxism",
+      "url": "https://philpapers.org/rec/CALAM",
+      "philpapers_id": "CALAM",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "Siemek and Althusser.Katarzyna Bieli\u0144ska-Kowalewska - 2016 - Dialogue and Universalism 26 (2):193-204. One-dimensional Marxism: Althusser and the politics of culture.Simon Clarke (ed.) - 1980 - New York N.Y.: Schocken Books.",
+        "Althusser's Marxism.Tom Good - 1976 - Telos: Critical Theory of the Contemporary 1976 (30):226-230.",
+        "Concrete Critical Theory: Althusser\u2019s Marxism.William S.",
+        "Agency and dialectics: What critical realism can learn from Althusser's Marxism.Kathryn Dean - 2006 - In Realism, philosophy and social science. New York: Palgrave-Macmillan."
+      ]
+    },
+    {
+      "title": "Tom Good, Althusser's Marxism",
+      "url": "https://philpapers.org/rec/GOOACA-3",
+      "philpapers_id": "GOOACA",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": "2015-02-06T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Good"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos: \"Althusser's Marxism\".Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+        "Alex Callinicos, Althusser's Marxism.",
+        "Siemek and Althusser.Katarzyna Bieli\u0144ska-Kowalewska - 2016 - Dialogue and Universalism 26 (2):193-204. The Marxism and Anti-Marxism of Wilhelm Reich.Howard Press - 1971 - Telos: Critical Theory of the Contemporary 1971 (9):65-82.",
+        "Concrete Critical Theory: Althusser\u2019s Marxism.William S."
+      ]
+    },
+    {
+      "title": "Howard Feather, Callinicos, Is there a Future for Marxism?",
+      "url": "https://philpapers.org/rec/FEACIT",
+      "philpapers_id": "FEACIT",
+      "snippet": "Marxism and Philosophy. By Alex Callinicos. [REVIEW]William R. Rehg - 1985 - Modern Schoolman 62 (3):201-203. Alex Callinicos, Equality.D. Murray &amp; M. Neocleous - forthcoming - Radical Philosophy. Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Howard Feather"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Althusser's Marxism.",
+        "Marxism and philosophy.Alex Callinicos - 1983 - New York: Oxford University Press. Alex Callinicos, Marxism and Philosophy. Oxford, Clarendon Press, 1983, pp. 177, \u00a39.50. David McLellan, Marx: The First Hundred Years. London, Fontana, 1983, pp. 316, paperback \u00a33.95.C."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Liberalism, Marxism, and democracy: A response to David Held",
+      "url": "https://philpapers.org/rec/CALLMA",
+      "philpapers_id": "CALLMA",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Althusser's Marxism.",
+        "Liberalism, Marxism, and democracy.David Held - 1993 - Theory and Society 22 (2):249-281. Alex Callinicos, \"making history: Agency, structure and change in social theory\".",
+        "Alex Callinicos, Equality.D. Murray & M. Neocleous - forthcoming - Radical Philosophy. Reason and Faith in Modern Society: Liberalism, Marxism and Democracy.Eduard Heimann - 1963 - Science and Society 27 (3):359-362.",
+        "Alex Callinicos, Marxism and Philosophy. Oxford, Clarendon Press, 1983, pp. 177, \u00a39.50. David McLellan, Marx: The First Hundred Years. London, Fontana, 1983, pp. 316, paperback \u00a33.95.C."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Marxism and philosophy",
+      "url": "https://philpapers.org/rec/CALMAP",
+      "philpapers_id": "CALMAP",
+      "snippet": "In recent years, Western Marxism has been more concerned with philosophy than with research or political activity, and in this book Callinicos explores the ambivalent relationship between Marxism and philosophy. Beginning with Marx and the legacy of Hegelianism, he surveys the schools of Marxist philosophy from Engels and the Second International through the revolutionary Hegelianism, of the 1920s, the Frankfurt School, and the anti-Hegelian Marxism of Adorno and Althusser.",
+      "page_age": null,
+      "extra_snippets": [
+        "In recent years, Western Marxism has been more concerned with philosophy than with research or political activity, and in this book Callinicos explores the ambivalent relationship between Marxism and philosophy. Beginning with Marx and the legacy of Hegelianism, he surveys the schools of Marxist philosophy from Engels and the Second International through the revolutionary Hegelianism, of the 1920s, the Frankfurt School, and the anti-Hegelian Marxism of Adorno and Althusser.",
+        "Marxism began with the repudiation of philosophy, yet Marxists have often resorted to distinctively philosophical modes of reasoning. In recent years, Western Marxism has been more concerned with philosophy than with ...",
+        "Marxism and Philosophy.Alex Callinicos - 1984 - Studies in Soviet Thought 28 (1):71-73.",
+        "Marxism and Philosophy. By Alex Callinicos. [REVIEW]William R. Rehg - 1985 - Modern Schoolman 62 (3):201-203. Marxism and philosophy.Karl Korsch - 1970 - New York,: M[onthly] R[eview Press."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Marxism and contemporary political thought",
+      "url": "https://philpapers.org/rec/CALMAC-3",
+      "philpapers_id": "CALMAC",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ]
+    },
+    {
+      "title": "T. Good, Althusser's Marxism",
+      "url": "https://philpapers.org/rec/GOOAM-3",
+      "philpapers_id": "GOOAM",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "T. Good"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos: \"Althusser's Marxism\".Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+        "Alex Callinicos, Althusser's Marxism.",
+        "Concrete Critical Theory: Althusser's Marxism.William S.",
+        "Agency and dialectics: What critical realism can learn from Althusser's Marxism.Kathryn Dean - 2006 - In Realism, philosophy and social science. New York: Palgrave-Macmillan."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Postmodernism, Post-Structuralism, Post-Marxism?",
+      "url": "https://philpapers.org/rec/CALPPP",
+      "philpapers_id": "CALPPP",
+      "snippet": "Post-Marxism: An Intellectual History.Stuart Sim - 2000 - Routledge. Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Althusser's Marxism.",
+        "Reviews : Fredric Jameson, Postmodernism, or, The Cultural Logic of Late Capitalism (Duke/verso, 1991); Margaret Rose, The Post-Modern and the Post-Industrial (Cambridge University Press, 1991); Alex Callinicos, Against Postmodernism: A Marxist Critique (Cambridge, Polity, 1990)."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, The Revenge of History: Marxism and the East European Revolutions",
+      "url": "https://philpapers.org/rec/CALTRO-28",
+      "philpapers_id": "CALTRO",
+      "snippet": "The Revenge of History: Marxism and the East European Revolutions.Alex Callinicos - 1991 - Pennsylvania State University Press. Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Marxism and Philosophy. By Alex Callinicos. [REVIEW]William R. Rehg - 1985 - Modern Schoolman 62 (3):201-203. Alex Callinicos, Althusser's Marxism.",
+        "Alex Callinicos, \"making history: Agency, structure and change in social theory\". [REVIEW]Eero Loone - 1990 - History and Theory 29 (3):331. The New Marxism: Soviet and East European Marxism since 1956.Richard T.",
+        "Alex Callinicos, Marxism and Philosophy. Oxford, Clarendon Press, 1983, pp. 177, \u00a39.50. David McLellan , Marx: The First Hundred Years. London, Fontana, 1983, pp. 316, paperback \u00a33.95.C."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Messianic ruminations-Derrida, Stirner and Marx",
+      "url": "https://philpapers.org/rec/CALMRS",
+      "philpapers_id": "CALMRS",
+      "snippet": "Alex Callinicos, Marxism and Philosophy. Oxford, Clarendon Press, 1983, pp. 177, \u00a39.50. David McLellan, Marx: The First Hundred Years. London, Fontana, 1983, pp. 316, paperback \u00a33.95.C. J. Arthur - 1984 - Hegel Bulletin 5 (2):56-58. Ghost Hunters: Karl Marx \u2014 Max Stirner, Jacques Derrida and Hauntology.Hanifi Macit M. - 2021 - Philosophy International Journal 4 (2). Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Marxism and Philosophy. Oxford, Clarendon Press, 1983, pp. 177, \u00a39.50. David McLellan, Marx: The First Hundred Years. London, Fontana, 1983, pp. 316, paperback \u00a33.95.C. J. Arthur - 1984 - Hegel Bulletin 5 (2):56-58. Ghost Hunters: Karl Marx \u2014 Max Stirner, Jacques Derrida and Hauntology.Hanifi Macit M. - 2021 - Philosophy International Journal 4 (2). Alex Callinicos: \"Althusser's Marxism\".Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+        "Marxism and Philosophy. By Alex Callinicos. [REVIEW]William R. Rehg - 1985 - Modern Schoolman 62 (3):201-203. Marx Through Post-Structuralism: Lyotard, Derrida, Foucault, Deleuze.Simon Choat - 2010 - New York: Continuum. Complex Egalitarianism: A Review of Alex Callinicos 'Equality'. [REVIEW]Erik Olin Wright & Harry Brighouse - 2001 - Historical Materialism 10 (1):193-222. Alex Callinicos, Althusser's Marxism.",
+        "Alex Callinicos, Equality.D.",
+        "Alex Callinicos, Theories and Narratives.M."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, 4 Equality of What?",
+      "url": "https://philpapers.org/rec/CALEO",
+      "philpapers_id": "CALEO",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Althusser's Marxism.",
+        "Alex Callinicos, Equality.D.",
+        "Complex Egalitarianism: A Review of Alex Callinicos 'Equality'. [REVIEW]Erik Olin Wright & Harry Brighouse - 2001 - Historical Materialism 10 (1):193-222.",
+        "Alex Callinicos, \"making history: Agency, structure and change in social theory\"."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, David Harvey and Marxism",
+      "url": "https://philpapers.org/rec/CALDHA",
+      "philpapers_id": "CALDHA",
+      "snippet": "Capital Accumulation and the State System: Assessing David Harvey&#x27;s The New Imperialism.Sam Ashman, Ellen Meiksins Wood, Noel Castree, Bob Sutcliffe, Robert Brenner, Alex Callinicos, Ben Fine, David Harvey, Michael A. Lebowitz &amp; Stuart Elden - 2006 - Historical Materialism 14 (4):107-131. The fate of marxism and the future of civilization.V. S. Stepin - 1993 - Studies in East European Thought 45 (1-2):117 - 133. History versus Theory: A Commentary on Marx\u2019s Method in Capital.David Harvey - 2012 - Historical Materialism 20 (2):3-38. Althusser&#x27;s Marxism.Alex Callinicos - 1976 - Pluto Press.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Capital Accumulation and the State System: Assessing David Harvey's The New Imperialism.Sam Ashman, Ellen Meiksins Wood, Noel Castree, Bob Sutcliffe, Robert Brenner, Alex Callinicos, Ben Fine, David Harvey, Michael A. Lebowitz & Stuart Elden - 2006 - Historical Materialism 14 (4):107-131. The fate of marxism and the future of civilization.V. S. Stepin - 1993 - Studies in East European Thought 45 (1-2):117 - 133. History versus Theory: A Commentary on Marx\u2019s Method in Capital.David Harvey - 2012 - Historical Materialism 20 (2):3-38. Althusser's Marxism.Alex Callinicos - 1976 - Pluto Press.",
+        "Marxism and Philosophy.Alex Callinicos - 1983 - Oxford University Press.",
+        "Liberalism, Marxism, and democracy: A response to David Held. [REVIEW]Alex Callinicos - 1993 - Theory and Society 22 (2):283-288.",
+        "Globalization and Primitive Accumulation: The Contributions of David Harvey's Dialectical Marxism.Nancy Hartsock - 2006 - In Noel Castree & Derek Gregory (eds.), David Harvey: A Critical Reader. Blackwell. pp."
+      ]
+    },
+    {
+      "title": "Simon Clarke (ed.), One-dimensional Marxism: Althusser and the politics of culture",
+      "url": "https://philpapers.org/rec/CLAOMA",
+      "philpapers_id": "CLAOMA",
+      "snippet": "Althusser&#x27;s Marxism.Alex Callinicos - 1976 - London: Pluto Press.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "Althusserian Marxism.Simon Clarke - 1980 - In One-dimensional Marxism: Althusser and the politics of culture. New York N.Y.: Schocken Books.",
+        "Louis Althusser on Science, Marxism and Politics.John Fraser - 1976 - Science and Society 40 (4):438 - 464.",
+        "La multiplicidad contra el uno: una cartograf\u00eda de la presencia de Louis Althusser en Am\u00e9rica Latina y el Caribe / The multiplicity against the one: a cartography of the presence of Louis Althusser in Latin America and the Caribbean.Jaime Ortega Reyna - 2017 - Estudios de Filosof\u00eda Pr\u00e1ctica E Historia de Las Ideas 19:1-11.",
+        "Philosophical Strategies: Althusser and Spinoza.Peter Thomas - 2002 - Historical Materialism 10 (3):71-113."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Marxism and the status of critique",
+      "url": "https://philpapers.org/rec/CALMAT-3",
+      "philpapers_id": "CALMAT",
+      "snippet": "Althusser&#x27;s Marxism.Alex Callinicos - 1976 - Pluto Press.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Marxism and Philosophy.Alex Callinicos - 1983 - Oxford University Press.",
+        "Marxism And Morality.Sean Sayers - 2007 - Philosophical Researches 2007 (9):8-12.",
+        "Marxism and Philosophy. (The Present State of the Problem of Marxism and Philosophy: an Anti-critique.-Introduction to the Critique of the Gotha Programme.) (Translated ..."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Against the New Dialectic",
+      "url": "https://philpapers.org/rec/ALEATN-2",
+      "philpapers_id": "ALEATN",
+      "snippet": "Alex Callinicos: &quot;Althusser&#x27;s Marxism&quot;.Corina de Yturbe - 1978 - Dianoia 24 (24):244.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Alex Callinicos, Althusser's Marxism.",
+        "Alex Callinicos, \"making history: Agency, structure and change in social theory\". [REVIEW]Eero Loone - 1990 - History and Theory 29 (3):331. Marxism and Philosophy. By Alex Callinicos. [REVIEW]William R.",
+        "Reviews : Fredric Jameson, Postmodernism, or, The Cultural Logic of Late Capitalism (Duke/verso, 1991); Margaret Rose, The Post-Modern and the Post-Industrial (Cambridge University Press, 1991); Alex Callinicos, Against Postmodernism: A Marxist Critique (Cambridge, Polity, 1990).",
+        "On The Global Third Way Debate, edited by Anthony Giddens, Anthony Giddens's Where Now for New Labour?, and Alex Callinicos's Against the Third Way.Paul Wetherly - 2004 - Historical Materialism 12 (1):181-196."
+      ]
+    },
+    {
+      "title": "Alex Callinicos, Althusser: A Critical Reader",
+      "url": "https://philpapers.org/rec/CALAAC-3",
+      "philpapers_id": "CALAAC",
+      "snippet": "Althusser&#x27;s theory of ideology.Paul Ricoeur - 1994 - In Gregory Elliott, Althusser: a critical reader. Cambridge, Mass., USA: Blackwell. pp. 44--72. Alex Callinicos, Equality.D.",
+      "page_age": "2015-02-05T00:00:00",
+      "author": [
+        {
+          "type": "person",
+          "name": "Alex Callinicos"
+        }
+      ],
+      "extra_snippets": [
+        "Gregory Elliott, ed., Althusser: A Critical Reader.A. Callinicos - forthcoming - Radical Philosophy.",
+        "Althusser: a critical reader.Gregory Elliott (ed.) - 1994 - Cambridge, Mass., USA: Blackwell.",
+        "Message in a Bottle: Althusser in Literary Studies.Francis Mulhern - 1994 - In Gregory Elliott, Althusser: a critical reader. Cambridge, Mass., USA: Blackwell.",
+        "Althusser, structuralism, and the French epistemological tradition.Peter Dews - 1994 - In Gregory Elliott, Althusser: a critical reader. Cambridge, Mass., USA: Blackwell."
+      ]
+    },
+    {
+      "title": "E. Ann Kaplan & Michael Sprinker (eds.), The Althusserian legacy",
+      "url": "https://philpapers.org/rec/KAPTAL",
+      "philpapers_id": "KAPTAL",
+      "snippet": "What is living and what is dead in the philosophy of Althusser.Alex Callinicos - 1993 - In E. Ann Kaplan &amp; Michael Sprinker (eds.), The Althusserian legacy. New York: Verso.",
+      "page_age": null,
+      "extra_snippets": [
+        "Louis Althusser remained until his death in 1990 the most controversial of the \u201cmaster thinkers\u201d who emerged from the turbulent Parisian intellectual scene of the 1960s. The publication of his bestselling posthumous \u201cautobiography\u201d, L'avenir dure longtemps, has now refueled some of these controversies.",
+        "What is living and what is dead in the philosophy of Althusser. (pages 39--50)Alex Callinicos",
+        "What is living and what is dead in the philosophy of Althusser.Alex Callinicos - 1993 - In E. Ann Kaplan & Michael Sprinker (eds.), The Althusserian legacy. New York: Verso.",
+        "Hugely influential, whether lauded or vilified, Althusser occupies a unique place in contemporary philosophy. What is certain is that Althusserian themes and motifs continue to constitute a vital region in materialist thought. The Althusserian Legacy is the first collective attempt to draw up a balance sheet, not on Althusser alone but on the questions that his work helped to bring to the forefront of Marxist theory."
+      ]
+    }
+  ],
+  "count": 17,
+  "errors": []
+}

@@ -1,0 +1,303 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Perry Anderson Considerations on Western Marxism NLB 1976', limit=20
+[search_philpapers.py] Retrieved 18 entries...
+[search_philpapers.py] Search complete: 18 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Perry Anderson Considerations on Western Marxism NLB 1976",
+  "results": [
+    {
+      "title": "Perry Anderson, Considerations on Western Marxism",
+      "url": "https://philpapers.org/rec/ANDCOW-2",
+      "philpapers_id": "ANDCOW",
+      "snippet": "Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson. New York: Humanities Press, 1976. Pp. 125. $9.00.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Perry Anderson"
+        }
+      ],
+      "extra_snippets": [
+        "Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson. New York: Humanities Press, 1976. Pp. 125. $9.00.",
+        "Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+        "Perry Anderson, \"Arguments Within English Marxism\"."
+      ]
+    },
+    {
+      "title": "Paul Piccone, Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro",
+      "url": "https://philpapers.org/rec/PICPAC-4",
+      "philpapers_id": "PICPAC",
+      "snippet": "[REVIEW]Paul Piccone - 1976 - Telos: Critical Theory of the Contemporary 30:213. Paul K. Feyerabend, &quot;Against Method&quot;; Paul K. Feyerabend, &quot;Science in a Free Society&quot;.Andrew Mclaughlin - 1979 - Telos: Critical Theory of the Contemporary 41. Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paul Piccone"
+        }
+      ],
+      "extra_snippets": [
+        "Ends in Sight: Marx/Fukuyama/Hobsbawm/Anderson.Benjamin Noys - 2009 - Historical Materialism 17 (4):157-163. On materialism.Sebastiano Timpanaro - 1975 - Atlantic Highlands [N.J.]: Humanities Press. Freudian Slip: Psychoanalysis and Textual Criticism.Sebastiano Timpanaro - 1976 - NLB."
+      ]
+    },
+    {
+      "title": "Paul Piccone, Considerations on Western Marxism",
+      "url": "https://philpapers.org/rec/PICCOW",
+      "philpapers_id": "PICCOW",
+      "snippet": "Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson. New York: Humanities Press, 1976. Pp. 125. $9.00.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paul Piccone"
+        }
+      ],
+      "extra_snippets": [
+        "Further Considerations on Anderson's Considerations on Western Marxism.Martin Jay - 1977 - Telos: Critical Theory of the Contemporary 1977 (32):162-167. Perry Anderson's Considerations on Western Marxism.John Mepham - 1977 - Radical Philosophy 16:39.",
+        "Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+        "Considerations on Western Marxism.Perry Anderson - 1979 - Studies in Soviet Thought 19 (3):251-256.",
+        "German Idealism, Marxism, and Luk\u00e1cs\u2019 Concept of Dialectical Ontology.Michael J."
+      ]
+    },
+    {
+      "title": "Richard Ashcraft, Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson. New York: Humanities Press, 1976. Pp. 125. $9.00",
+      "url": "https://philpapers.org/rec/ASHBIR-3",
+      "philpapers_id": "ASHBIR",
+      "snippet": "New York and London: Cambridge University Press, 1976. Pp. vi, 250. $15.95. [REVIEW]Richard Wasserstrom - 1977 - Political Theory 5 (4):545-550. Perry Anderson, &quot;Considerations on Western Marxism&quot;; Sebastiano Timpanaro, &quot;On Materialism&quot;: Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Richard Ashcraft"
+        }
+      ],
+      "extra_snippets": [
+        "New York and London: Cambridge University Press, 1976. Pp. vi, 250. $15.95. [REVIEW]Richard Wasserstrom - 1977 - Political Theory 5 (4):545-550. Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+        "New York and London: Cambridge University Press, 1976. Pp. xv, 216. $14.95. [REVIEW]Z. A. Pelczynski - 1977 - Political Theory 5 (1):127-130. Reason and Scepticism. By Michael A. Slote. London: George Allen & Unwin; New York: Humanities Press. 1970. pp. 224. $9.00. [REVIEW]Bruce Freed - 1971 - Dialogue 10 (4):799-802. Perry Anderson, Marxism and the New Left.",
+        "Books in Review : Vico and Herder: Two Studies in hteHistory of Ideas by Isaiah Berlin. New York: Viking Press, 1976. Pp. xxvii, 228."
+      ]
+    },
+    {
+      "title": "Russell Jacoby, Perry Anderson, \"Arguments Within English Marxism\"",
+      "url": "https://philpapers.org/rec/JACPAA-7",
+      "philpapers_id": "JACPAA",
+      "snippet": "Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson. New York: Humanities Press, 1976. Pp. 125. $9.00.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Russell Jacoby"
+        }
+      ],
+      "extra_snippets": [
+        "Book Reviews : Dialectic of Defeat: Contours of Western Marxism by Russell Jacoby, Cambridge: Cambridge University Press, 1982, pp x + 202, \u00a315 The Two Marxisms: Contradictions and Anomalies in the Development of Theory by Alvin W. Gouldner London: Macmillan, 1980, pp x + 397, \u00a36.95 (paperback). [REVIEW]Martin Shaw - 1982 - Theory, Culture and Society 1 (2):120-124. Perry Anderson, \"Passages from Antiquity to Feudalism\"; Perry Anderson, \"Lineages of the Absolutist State\".Nick Xenos - 1976 - Telos: Critical Theory of the Contemporary 28.",
+        "Russell Jacoby, \"Dialectic of Defeat: Contours of Western Marxism\". [REVIEW]Allen Sica - 1982 - Telos: Critical Theory of the Contemporary 52. Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+        "Marxism and critical theory: Martin Jay and Russell Jacoby. [REVIEW]Martin Jay & Russell Jacoby - 1975 - Theory and Society 2 (1):257-263. Russell Jacoby, \"Dialectic of Defeat: Contours of Western Marxism\"."
+      ]
+    },
+    {
+      "title": "Perry Anderson, In the tracks of historical materialism",
+      "url": "https://philpapers.org/rec/ANDITT-2",
+      "philpapers_id": "ANDITT",
+      "snippet": "Perry Anderson, &quot;Considerations on Western Marxism&quot;; Sebastiano Timpanaro, &quot;On Materialism&quot;: Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+      "page_age": null,
+      "extra_snippets": [
+        "Marxism, Structuralism, and Post-StructuralismIn the Tracks of Historical Materialism.",
+        "Language, Agency and Hegemony: A Gramscian Response to Post\u2010Marxism.Peter Ives - 2005 - Critical Review of International Social and Political Philosophy 8 (4):455-468."
+      ]
+    },
+    {
+      "title": "Benjamin Noys, Ends in Sight: Marx/Fukuyama/Hobsbawm/Anderson",
+      "url": "https://philpapers.org/rec/NOYEIS",
+      "philpapers_id": "NOYEIS",
+      "snippet": "Perry Anderson, &quot;Considerations on Western Marxism&quot;; Sebastiano Timpanaro, &quot;On Materialism&quot;: Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Benjamin Noys"
+        }
+      ],
+      "extra_snippets": [
+        "Perry Anderson, \"Arguments Within English Marxism\". [REVIEW]Russell Jacoby - 1982 - Theory and Society 11 (2):251. Le \u00abpessimisme historique\u00bb de Perry Anderson.Gilbert Achcar - 2000 - Actuel Marx 28 (2):196-202. Perry Anderson, \"Passages from Antiquity to Feudalism\"; Perry Anderson, \"Lineages of the Absolutist State\".Nick Xenos - 1976 - Telos: Critical Theory of the Contemporary 28. Books in Review : CONSIDERATIONS ON WESTERN MARXISM by Perry Anderson.",
+        "Perry Anderson, \"Considerations on Western Marxism\"; Sebastiano Timpanaro, \"On Materialism\": Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+        "Perry Anderson, Marxism and the New Left.",
+        "Perry Anderson on Europe.Alex Callinicos - 2013 - Historical Materialism 21 (1):159-176."
+      ]
+    },
+    {
+      "title": "Terry Eagleton & Perry Anderson, Marxism, Structuralism, and Post-StructuralismIn the Tracks of Historical Materialism",
+      "url": "https://philpapers.org/rec/EAGMSA-2",
+      "philpapers_id": "EAGMSA",
+      "snippet": "Perry Anderson, &quot;Considerations on Western Marxism&quot;; Sebastiano Timpanaro, &quot;On Materialism&quot;: Title: Considerations on Western Marxism Publisher: Verso ISBN: 0860917207 Author: Perry Anderson Title: On Materialism Publisher: Verso ISBN: 0860917215 Author: Sebastiano Timpanaro.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Terry Eagleton"
+        },
+        {
+          "type": "person",
+          "name": "Perry Anderson"
+        }
+      ],
+      "extra_snippets": [
+        "On Gregory Elliott's Perry Anderson: The Merciless Laboratory of History.Simon Bromley - 2002 - Historical Materialism 10 (3):245-260. Antinomias Althusserianas: do Marxismo ao P\u00f3s-marxismo.Ac\u00edlio Rocha - 2015 - Revista Portuguesa de Filosofia 71 (1):146-172.",
+        "Terry Eagleton, \"Marxism and Literary Criticism\".Robert Kentor - 1980 - Telos: Critical Theory of the Contemporary 43:199. Perry Anderson on Europe.Alex Callinicos - 2013 - Historical Materialism 21 (1):159-176."
+      ]
+    },
+    {
+      "title": "H. Harootunian, Perry Anderson, The Origins of Postmodernity",
+      "url": "https://philpapers.org/rec/HARPAT-18",
+      "philpapers_id": "HARPAT",
+      "snippet": "Perry Anderson, Marxism and the New Left. [REVIEW]Liam Ruairc - 2004 - Radical Philosophy 128. Olympus Mislaid?: A Profile of Perry Anderson.Gregory Elliott - 1995 - Radical Philosophy 71. The Origins of Postmodernity. [REVIEW]Harry Harootunian - 1999 - Radical Philosophy 98. Perry Anderson, &quot;Passages from Antiquity to Feudalism&quot;; Perry Anderson, &quot;Lineages of the Absolutist State&quot;.Nick Xenos - 1976 - Telos: Critical Theory of the Contemporary 28.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "H. Harootunian"
+        }
+      ],
+      "extra_snippets": [
+        "Perry Anderson, Marxism and the New Left. [REVIEW]Liam Ruairc - 2004 - Radical Philosophy 128. Olympus Mislaid?: A Profile of Perry Anderson.Gregory Elliott - 1995 - Radical Philosophy 71. The Origins of Postmodernity. [REVIEW]Harry Harootunian - 1999 - Radical Philosophy 98. Perry Anderson, \"Passages from Antiquity to Feudalism\"; Perry Anderson, \"Lineages of the Absolutist State\".Nick Xenos - 1976 - Telos: Critical Theory of the Contemporary 28."
+      ]
+    },
+    {
+      "title": "Andrew Arato & Paul Breines, The Young Luk\u00e1cs and the Origins of Western Marxism",
+      "url": "https://philpapers.org/rec/ARATYL-3",
+      "philpapers_id": "ARATYL",
+      "snippet": "Lenin, Hegel and western marxism: From the 1920s to 1953.Kevin Anderson - 1992 - Studies in East European Thought 44 (2):79-129. Considerations on Western Marxism.Perry Anderson - 1979 - Studies in Soviet Thought 19 (3):251-256.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andrew Arato"
+        },
+        {
+          "type": "person",
+          "name": "Paul Breines"
+        }
+      ],
+      "extra_snippets": [
+        "Michael Lowy, \"Georg Lukacs - From Romanticism to Bolshevism\" & Andrew Arato and Paul Breines, \"The Young Lukacs and the Origins of Western Marxism\".Robert Anchor - 1981 - Telos: Critical Theory of the Contemporary 48.",
+        "Book Reviews : Michael Lowy, Georg Lukacs: From Romanticism to Bolshevism, New Left Books, London, 1979 (rrp A$32.00). Andrew Arato & Paul Breines, The Young Lukacs and the Origins of Western Marxism, Pluto Press, London, 1979 (rrp A$14.95).&nbsp;[REVIEW]John Murphy - 1981 - Thesis Eleven 3 (1):181-187.",
+        "Reformulation of knowledge: epistemological reading of Soviet Marxism in the post-Soviet times.Maria Chehonadskih - 2021 - Studies in East European Thought 74 (1):75-91. ... Sorry, there are not enough data points to plot this chart. How can I increase my downloads? ... The Colonization Thesis: Habermas on Reification.Timo J\u00fctten - 2011 - International Journal of Philosophical Studies 19 (5):701 - 727. The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93."
+      ]
+    },
+    {
+      "title": "Paul Blackledge, Perry Anderson and the End of History",
+      "url": "https://philpapers.org/rec/PAUPAA",
+      "philpapers_id": "PAUPAA",
+      "snippet": "He writes that, back then, a third of the planet had broken with capitalism, the discrediting of Stalinism in 1956 had unleashed a vital process of the rediscovery of authentic Marxism, while, culturally, there had been a qualitative break with the conformism of the 1950s. Today, by contrast, American capitalism has reasserted its international primacy, European social-democratic governments are implementing policies designed to follow the American model, Japan is suffering from a slump, while the Russian catastrophe has produced no popular backlash. Moreover, the Western powers have recently asserted themselves successfully in the Balkans, and, despite upsurges against capital in the 1990s, \u2018no collective agency able to match the power of capital is yet on the horizon\u2019. How are socialists to respond to this diagnosis?",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paul Blackledge"
+        }
+      ],
+      "extra_snippets": [
+        "He writes that, back then, a third of the planet had broken with capitalism, the discrediting of Stalinism in 1956 had unleashed a vital process of the rediscovery of authentic Marxism, while, culturally, there had been a qualitative break with the conformism of the 1950s. Today, by contrast, American capitalism has reasserted its international primacy, European social-democratic governments are implementing policies designed to follow the American model, Japan is suffering from a slump, while the Russian catastrophe has produced no popular backlash. Moreover, the Western powers have recently asserted themselves successfully in the Balkans, and, despite upsurges against capital in the 1990s, \u2018no collective agency able to match the power of capital is yet on the horizon\u2019. How are socialists to respond to this diagnosis?",
+        "Marxism and the philosophy of language.V. N. Voloshinov - 1973 - Cambridge: Harvard University Press. Edited by Ladislav Matejka & I."
+      ]
+    },
+    {
+      "title": "Jonathan Martineau (ed.), Marxisme anglo-saxon: figures contemporaines: de Perry Anderson a\u0300 David McNally",
+      "url": "https://philpapers.org/rec/MARMAF-6",
+      "philpapers_id": "MARMAF",
+      "snippet": "Perry Anderson, Edward Palmer Thompson, David Harvey, Moishe Postone, Derek Sayer, Simon Clarke, Robert Brenner, Ellen Meiksins Wood et David McNally : neuf penseurs importants dont l&#x27;influence grandissante marque un renouveau ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Perry Anderson, Edward Palmer Thompson, David Harvey, Moishe Postone, Derek Sayer, Simon Clarke, Robert Brenner, Ellen Meiksins Wood et David McNally : neuf penseurs importants dont l'influence grandissante marque un renouveau de l'apport de l'oeuvre de Marx et de ses successeurs au champ des sciences sociales.",
+        "Perry Anderson: The Merciless Laboratory of History.Gregory Elliott - 1998 - Univ of Minnesota Press. Thomas N. Hall and Donald Scragg, eds., Anglo-Saxon Books and Their Readers: Essays in Celebration of Helmut Gneuss's \u201cHandlist of Anglo-Saxon Manuscripts.\u201d Kalamazoo, Mich.: Medieval Institute Publications, Western Michigan University, 2008.",
+        "In the tracks of historical materialism.Perry Anderson - 1984 - Chicago: University of Chicago Press. Le marxisme analytique anglo-saxon: introduction au marxisme analytique.A.",
+        "Chaque chapitre d\u00e9crit le parcours intellectuel de l'une de ces figures et analyse sa contribution \u00e0 une pens\u00e9e en mouvement, offrant ainsi pour la premi\u00e8re fois au public francophone un tour d'horizon des diff\u00e9rentes formes du marxisme anglo-saxon contemporain."
+      ]
+    },
+    {
+      "title": "Perry Anderson, Components of the National Culture",
+      "url": "https://philpapers.org/rec/ANDCOT-13",
+      "philpapers_id": "ANDCOT",
+      "snippet": "Perry Anderson, 1969: A coherent and militant student movement has not yet emerged in England. But it may now be only a matter of time before it does. Britain is the ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Perry Anderson"
+        }
+      ]
+    },
+    {
+      "title": "Perry Anderson, The Origins of Postmodernity",
+      "url": "https://philpapers.org/rec/ANDTOO-11",
+      "philpapers_id": "ANDTOO",
+      "snippet": "On Perry Anderson&#x27;s The Origins Of Postmodernity, Clint Burnham&#x27;s The Jamesonian Unconscious: The Aesthetics Of Marxist Theory, Steven Helmling&#x27;s The Success And Failure Of Fredric Jameson: Writing, The Sublime, And The Dialectic Of Critique, Sean Homer&#x27;s Fredric Jameson: Marxism, Hermeneutics, Postmodernism, Adam Roberts&#x27;s Fredric Jameson and Christopher Wise&#x27;s The Marxian Hermeneutics Of Fredric Jameson.Ian Buchanan - 2002 - Historical Materialism 10 (3):223-243.",
+      "page_age": null,
+      "extra_snippets": [
+        "On Perry Anderson's The Origins Of Postmodernity, Clint Burnham's The Jamesonian Unconscious: The Aesthetics Of Marxist Theory, Steven Helmling's The Success And Failure Of Fredric Jameson: Writing, The Sublime, And The Dialectic Of Critique, Sean Homer's Fredric Jameson: Marxism, Hermeneutics, Postmodernism, Adam Roberts's Fredric Jameson and Christopher Wise's The Marxian Hermeneutics Of Fredric Jameson.Ian Buchanan - 2002 - Historical Materialism 10 (3):223-243.",
+        "Fredric Jameson: Marxism, Hermeneutics, Postmodernism; The Eagleton Reader."
+      ]
+    },
+    {
+      "title": "Perry Anderson, English Questions",
+      "url": "https://philpapers.org/rec/ANDEQI",
+      "philpapers_id": "ANDEQI",
+      "snippet": "\u201cThe Figures of Descent\u201d reconsiders the problem of national decline; \u201cA Culture in Contraflow\u201d traces some of the intellectual reversals of the recent period. The book concludes with a survey of the political conjuncture after the fall of Thatcher, which considers the prospects of the Labour Party within the context of the wider changes that have reshaped European social democracy in these years.",
+      "page_age": null,
+      "extra_snippets": [
+        "\u201cThe Figures of Descent\u201d reconsiders the problem of national decline; \u201cA Culture in Contraflow\u201d traces some of the intellectual reversals of the recent period. The book concludes with a survey of the political conjuncture after the fall of Thatcher, which considers the prospects of the Labour Party within the context of the wider changes that have reshaped European social democracy in these years."
+      ]
+    },
+    {
+      "title": "Perry Anderson, A zone of engagement",
+      "url": "https://philpapers.org/rec/ANDAZO",
+      "philpapers_id": "ANDAZO",
+      "snippet": "The texts in this volume offer critical assessments of a number of leading figures in contemporary intellectual life, who are in different ways thinkers at the intersection of history and politics. ...",
+      "page_age": null,
+      "extra_snippets": [
+        "Croix and Isaac Deutscher; the philosophers of liberalism, Norberto Bobbio and Isaiah Berlin; the sociologists of power, Michael Mann and W.G. Runciman; the exponents of national identity, Andreas Hillgruber and Fernand Braudel; the ironists of science, Max Weber and Ernest Gellner; Carlo Ginzburg, explorer of cultural continuity, and Marshall Berman, herald of modernity. A concluding chapter looks at the idea of the end of history, recently advanced by Francis Fukuyama, in its successive versions from the nineteenth century to the present, and considers the situation of socialism today in the light of it."
+      ]
+    },
+    {
+      "title": "Fredric Jameson, Late Marxism: Adorno, or, the persistence of the dialectic",
+      "url": "https://philpapers.org/rec/JAMLMA-5",
+      "philpapers_id": "JAMLMA",
+      "snippet": "Late Marxism: Adorno, or the Persistence of the Dialectic; Postmodernism, or the Cultural Logic of Late Capitalism. [REVIEW]lan Craib - 1993 - Radical Philosophy 63. Adorno&#x27;s Aesthetic Theory.Eva Geulen - 2020 - In Peter Eli Gordon, A companion to Adorno. Hoboken: Wiley. pp. 397\u2013411. On Perry Anderson&#x27;s The Origins Of Postmodernity, Clint Burnham&#x27;s The Jamesonian Unconscious: The Aesthetics Of Marxist Theory, Steven Helmling&#x27;s The Success And Failure Of Fredric Jameson: Writing, The Sublime, And The Dialectic Of Critique, Sean Homer&#x27;s Fredric Jameson: Marxism, Hermeneutics, Postmodernism, Adam Roberts&#x27;s Fredric Jameson and Christopher Wise&#x27;s The Marxian Hermeneutics Of Fredric Jameson.Ian Buchanan - 2002 - Historical Materialism 10 (3):223-243.",
+      "page_age": null,
+      "extra_snippets": [
+        "In the name of an assault on \"totalization\" and \"identity,\" a number of contemporary theorists have been busily washing Marxism's dialectical and utopian projects down the plug-hole of postmodernism and \"post-politics.\" A case in point is recent interpretation of one of the greatest twentieth-century philosophers, Theodor Adorno.",
+        "Late Marxism: Adorno, or the Persistence of the Dialectic; Postmodernism, or the Cultural Logic of Late Capitalism. [REVIEW]lan Craib - 1993 - Radical Philosophy 63. Adorno's Aesthetic Theory.Eva Geulen - 2020 - In Peter Eli Gordon, A companion to Adorno. Hoboken: Wiley. pp. 397\u2013411. On Perry Anderson's The Origins Of Postmodernity, Clint Burnham's The Jamesonian Unconscious: The Aesthetics Of Marxist Theory, Steven Helmling's The Success And Failure Of Fredric Jameson: Writing, The Sublime, And The Dialectic Of Critique, Sean Homer's Fredric Jameson: Marxism, Hermeneutics, Postmodernism, Adam Roberts's Fredric Jameson and Christopher Wise's The Marxian Hermeneutics Of Fredric Jameson.Ian Buchanan - 2002 - Historical Materialism 10 (3):223-243.",
+        "In this powerful book, Fredric Jameson proposes a radically different reading of Adorno's work, especially of his major works on philosophy and aesthetics: Negative Dialectics and Aesthetic Theory. Jameson argues persuasively that Adorno's contribution to the development of Marxism remains unique and indispensable.",
+        "Above all, he illuminates the subtlety and richness of Adorno's continuing emphasis on late capitalism as a totality within the very forms of our culture. In its lucidity, Late Marxism echoes the writing of its subject, to whose critical, utopian intelligence Jameson remains faithful."
+      ]
+    },
+    {
+      "title": "Fr\u00e9d\u00e9rick-Guillaume Dufour, Jonathan Martineau & Ellen Meiksins Wood, Le Marxisme politique et ses d\u00e9bats",
+      "url": "https://philpapers.org/rec/DUFLMP-2",
+      "philpapers_id": "DUFLMP",
+      "snippet": "Jonathan MARTINEAU (dir.). Marxisme anglo-saxon : figures contemporaines. De Perry Anderson \u00e0 David McNally, Montr\u00e9al, Lux \u00c9diteur, 2013, 432 pages.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Fr\u00e9d\u00e9rick-Guillaume Dufour"
+        },
+        {
+          "type": "person",
+          "name": "Jonathan Martineau"
+        },
+        {
+          "type": "person",
+          "name": "Ellen Meiksins Wood"
+        }
+      ],
+      "extra_snippets": [
+        "Jonathan MARTINEAU (dir.). Marxisme anglo-saxon : figures contemporaines. De Perry Anderson \u00e0 David McNally, Montr\u00e9al, Lux \u00c9diteur, 2013, 432 pages.",
+        "Capitalism and the Science of History: Appleby, Marx, and Postmodernism.Patrick D. Anderson - unknown \u00b7 Weil critique du marxisme : le\u00e7ons pour repenser l'organisation du travail.Christine No\u00ebl-Lema\u00eetre & Renato Di Ruzza - 2014 - Actuel Marx 56 (2):133-146. Symposium on Ellen Meiksins Wood's Empire of Capital: Editorial Introduction.Paul Blackledge - 2007 - Historical Materialism 15 (3):45-55. The Ellen Meiksins Wood reader.Ellen Meiksins Wood - 2012 - Boston: Brill. Edited by Larry Patriquin. A social history of Western political thought.Ellen Meiksins Wood - 2022 - London: Verso."
+      ]
+    }
+  ],
+  "count": 18,
+  "errors": []
+}

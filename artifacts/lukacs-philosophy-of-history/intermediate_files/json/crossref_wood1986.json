@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/00201748608602077"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00201748608602077",
+      "title": "Historical materialism and functional explanation",
+      "authors": [
+        {
+          "family": "Wood",
+          "given": "Allen W."
+        }
+      ],
+      "editors": [],
+      "year": 1986,
+      "container_title": "Inquiry",
+      "volume": "29",
+      "issue": "1-4",
+      "page": "11-27",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/00201748608602077"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

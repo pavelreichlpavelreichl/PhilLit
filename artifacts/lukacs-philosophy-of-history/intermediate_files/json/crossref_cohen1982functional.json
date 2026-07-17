@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/00201748208601953"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00201748208601953",
+      "title": "Functional explanation, consequence explanation, and Marxism",
+      "authors": [
+        {
+          "family": "Cohen",
+          "given": "G. A."
+        }
+      ],
+      "editors": [],
+      "year": 1982,
+      "container_title": "Inquiry",
+      "volume": "25",
+      "issue": "1",
+      "page": "27-56",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/00201748208601953"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

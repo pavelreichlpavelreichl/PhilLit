@@ -1,0 +1,755 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: althusser
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Louis Althusser
+{
+  "status": "success",
+  "source": "sep",
+  "query": "althusser",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/althusser/",
+      "entry_name": "althusser",
+      "title": "Louis Althusser",
+      "preamble": "Louis Pierre Althusser (1918\u20131990) was one of the most\ninfluential Marxist philosophers of the 20 th Century. As\nthey seemed to offer a renewal of Marxist thought as well as to render\nMarxism philosophically respectable, the claims he advanced in the\n1960s about Marxist philosophy were discussed and debated worldwide.\nDue to apparent reversals in his theoretical positions, to the\nill-fated facts of his life, and to the historical fortunes of Marxism\nin the late twentieth century, this intense interest in\nAlthusser\u2019s reading of Marx did not survive the 1970s. Despite\nthe comparative indifference shown to his work as a whole after these\nevents, the theory of ideology Althusser developed within it has been\nbroadly deployed in the social sciences and humanities and has\nprovided a foundation for much \u201cpost-Marxist\u201d philosophy.\nIn addition, aspects of Althusser\u2019s project have served as\ninspiration for Analytic Marxism as well as for Critical\nRealism and Discourse Analysis. Though this influence is not\nalways explicit, Althusser\u2019s work and that of his students\ncontinues to inform the research programs of literary studies,\npolitical philosophy, history, economics, and sociology. At present,\nAlthusser\u2019s philosophy as a whole is undergoing a critical\nreevaluation by scholars who have benefited from the anthologization\nof previously unpublished texts. His concepts are also being\nincreasingly employed by philosophers, political theorists, and\nactivists who have returned to Marx and to Marxian analyses in order\nto explain and to envision alternatives to our present socio-economic\nconjuncture.",
+      "bibliography": [
+        {
+          "raw": "(1940\u201345) Journal de captivit\u00e9 (Stalag XA\n1940\u201345) , (Paris: Stock/IMEC, 1992)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1946) \u201cL\u2019internationale des bons sentiments\u201d,\nin Ecrits Philosophiques et Politiques I (Paris: Stock/IMEC\n1994), 35\u201357; tr. as \u201cThe International of Decent\nFeelings,\u201d by G.M. Goshgarian in The Spectre of Hegel: Early\nWritings (London, NY: Verso, 1997).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1947) \u201cDu contenu dans la pens\u00e9e de G.W.F.\nHegel\u201d in Ecrits Philosophiques et Politiques I (Paris:\nStock/IMEC 1994), 59\u2013238; tr. as \u201cOn Content in the\nThought of G.W.F. Hegel,\u201d by G.M. Goshgarian in The Spectre\nof Hegel: Early Writings (London, NY: Verso, 1997).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1950) \u201cLe retour \u00e0 Hegel. Dernier mot du\nr\u00e9visionisme universitaire,\u201d La Nouvelle\nCritique 20 (1950); tr. as \u201cThe Return of Hegel: The Latest\nWord in Academic Revisionism,\u201d by G.M. Goshgarian in The\nSpectre of Hegel: Early Writings (London, NY: Verso, 1997).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1953a) \u201c\u00c0 propos du marxisme,\u201d Revue de\nl\u2019enseignement philosophique , 3:4 (1953): 15\u201319; tr.\nas \u201cOn Marxism,\u201d by G.M. Goshgarian in The Spectre of\nHegel: Early Writings (London, NY: Verso, 1997).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1953b) \u201cNote sur le mat\u00e9rialisme dialectique,\u201d Revue de l\u2019enseignement philosophique , 3:5 (1953):\n11\u201317; tr. as \u201cOn Marxism,\u201d by G.M. Goshgarian in The Spectre of Hegel: Early Writings (London, NY: Verso,\n1997).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1958) Montesquieu, la politique et l\u2019histoire (Paris: Presses Universitaires de France, 1959); tr. as\n\u201cMontesquieu: Politics and History\u201d by Ben Brewster, in Politics and History: Montesquieu, Rousseau, Marx , (London:\nVerso, 2007).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1960) \u201cLes \u2018Manifestes philosophiqes\u2019 de\nFeuerbach,\u201d La Nouvelle Critique 121 (1960):\n32\u201338; tr. as \u201cFeuerbach\u2019s Philosophical\nManifestoes\u201d by Ben Brewster in Louis Althusser, For\nMarx (London: Verso, 2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1961) \u201cSur le jeune Marx (Questions de\nth\u00e9orie),\u201d La Pens\u00e9e 96\n(1961):3\u201326; tr. as \u201cOn the Young Marx: Theoretical\nQuestions,\u201d by Ben Brewster in For Marx (London: Verso\n2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1962) \u201cContradiction et surdetermination (Notes pour un\nrecherche),\u201d La Pens\u00e9e 106 (1962): 3\u201322;\ntr. as \u201cContradiction and Overdetermination: Notes for an\nInvestigation\u201d by Ben Brewster in For Marx (London:\nVerso 2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1963a) \u201cMarxisme et humanisme\u201d Cahiers de\nl\u2019Institut des Sciences \u00c9conomique Appliqu\u00e9es 20 (1964): 109\u2013133; tr. as \u201cMarxism and Humanism\u201d by\nBen Brewster in For Marx (London: Verso 2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1963b) \u201cSur la dialectique mat\u00e9rialiste (De\nl\u2019in\u00e9galit\u00e9 des origines),\u201d La\nPens\u00e9e 110 (1963): 5\u201346; tr. as \u201cOn the\nMaterialist Dialectic: On the Unevenness of Origins,\u201d by Ben\nBrewster in For Marx (London: Verso 2005).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1964) \u201cFreud et Lacan,\u201d La Nouvelle Critique 161\u2013162 (1964\u20131965): 88\u2013108; tr. as \u201cFreud and\nLacan\u201d by Ben Brewster in Lenin and Philosophy and Other\nEssays (New York: Monthly Review, 2002.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1965a) Lire le Capital, Tome 1 & 2 , with\n\u00c9tienne Balibar, Roger Establet, Pierre Macherey, and Jacques\nRanci\u00e8re (Paris: Maspero, coll. \u201cTh\u00e9orie\u201d);\ntr. by Ben Brewster as Reading Capital with the contributions\nof Establet, Macherey, and Ranci\u00e8re omitted (London: Verso\n2016)",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1965b) \u201cTheory, Theoretical Practice and Theoretical\nFormation\u201d tr. by James Kavanaugh, in Gregory Elliott ed. Philosophy and the Spontaneous Philosophy of the Scientists (London: Verso, 1990).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1966a) \u201cLettre sur la connaissance de l\u2019art\n(r\u00e9ponse \u00e0 Andr\u00e9 Daspre) (In Ecrits\nphilosophiques et politiques, Tome II, edited by Fran\u00e7ois\nMatheron, 559\u201368. Ecrits philosophiques et politiques. Paris:\nStock IMEC, 1995.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1966b) \u201cSur la gen\u00e8se,\u201d D\u00e9calages 1(2) (2013). J. Smith (trans.), 2012,\n\u201cOn Genesis\u201d, D\u00e9calages 1 (2).",
+          "parsed": {
+            "authors": [
+              "(1966b) \u201cSur la gen\u00e8se,\u201d D\u00e9calages 1(2) (2013). J. Smith (trans.)"
+            ],
+            "year": "2012",
+            "title": "\u201cOn Genesis\u201d",
+            "publisher": "D\u00e9calages 1 (2)"
+          },
+          "confidence": "high"
+        },
+        {
+          "raw": "(1966c) \u201cSur L\u00e9vi-Strauss,\u201d in \u00c9crits philosophiques et politiques , Tome 2 (Paris:\nStock/IMEC, 1997), 417\u2013432; tr. by G.M. Goshgarian in The\nHumanist Controversy and Other Writings (London: Verso\n2003).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1967a) Philosophie et philosophie spontan\u00e9e des\nsavants (1967) , (Maspero, coll. \u201cTh\u00e9orie\u201d,\n1974); tr. Warren Montag as \u201cPhilosophy and the Spontaneous\nPhilosophy of the Scientists,\u201d in Gregory Elliott ed. Philosophy and the Spontaneous Philosophy of the Scientists (London: Verso, 1990).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1967b) \u201cLa t\u00e2che historique de la philosophie\nmarxiste\u201d tr. by G.M. Goshgarian as \u201cThe Historical Task\nof Marxist Philosophy\u201d in in The Humanist Controversy and\nOther Writings (London: Verso 2003).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1968a) \u201cLenine et la Philosophie,\u201d Bulleting de\nla Soci\u00e9t\u00e9 de Philosophie 4 (1968): 127\u2013181;\ntr. as \u201cLenin and Philosophy\u201d by Ben Brewster in Lenin\nand Philosophy and Other Essays (New York: Monthly Review\n2002).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1968c) \u201cSur le rapport de Marx \u00e0 Hegel,\u201d in\nJacques l\u2019Hondt ed. Hegel et la pens\u00e9e moderne (Paris: Presses Universitaires de France, 1970), 85\u2013111; tr. as\n\u201cMarx\u2019s Relation to Hegel\u201d by Ben Brewster in Lenin and Philosophy and Other Essays (New York: Monthly\nReview 2002).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1969b) Ideologie et appareils id\u00e9ologiques\nd\u2019\u00c9tat (notes pour une recherche) La\nPens\u00e9e 151 (1970): 3\u201338; tr. as \u201cIdeology and\nIdeology and Ideological State Apparatuses: Notes Towards an\nInvestigation\u201d by Ben Brewster in Lenin and Philosophy and\nOther Essays (New York: Monthly Review 2002).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1969c) On The Reproduction Of Capitalism: Ideology And\nIdeological State Apparatuses , tr. G. M. Goshgarian (London &\nNew York: Verso 2013).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1972a) \u00c9lements d\u2019autocritique (Paris:\nHachette coll. \u201cAnalyse\u201d, 1974); tr. as \u201cElements of\nSelf-Criticism\u201d by Grahame Lock in Essays in\nSelf-Criticism (New Left Books, London, 1976).",
+          "parsed": {
+            "authors": [
+              "(1972a) \u00c9lements d\u2019autocritique (Paris:\nHachette coll. \u201cAnalyse\u201d"
+            ],
+            "year": "1974",
+            "title": "(1972a) \u00c9lements d\u2019autocritique (Paris:\nHachette coll. \u201cAnalyse\u201d, 1974); tr. as \u201cElements of\nSelf-Criticism\u201d by Grahame Lock in Essays in\nSelf-Criticism (New Left Books, London, 1976)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1973) \u201cLivre sur l\u2019imperialisme\u201d tr. As\n\u201cBook on Imperialism\u201d by G.M. Goshgarian in History and\nImperialism (Cambridge, UK and Medford, MA: Polity Press, 202",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1975) \u201cEst-il simple d\u2019\u00eatre marxiste en\nphilosophie? (Soutenance d\u2019Amiens)\u201d La\nPens\u00e9e 183 (1975): 3\u201331; tr. as \u201cIs it Simple\nto be a Marxist in Philosophy?\u201d by Grahame Locke in Essays\nin Self-Criticism (New Left Books, London, 1976).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1976a) 22\u00e9me Congr\u00e9s (Paris: Maspero,\n1977); tr. as \u201cOn the Twenty-Second Congress of the French\nCommunist Party\u201d by Ben Brewster in New Left Review 104\n(1977): 3\u201322.",
+          "parsed": {
+            "authors": [
+              "(1976a) 22\u00e9me Congr\u00e9s (Paris: Maspero"
+            ],
+            "year": "1977",
+            "title": "(1976a) 22\u00e9me Congr\u00e9s (Paris: Maspero,\n1977); tr. as \u201cOn the Twenty-Second Congress of the French\nCommunist Party\u201d by Ben Brewster in New Left Review 104\n(1977): 3\u201322."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1976b) Etre marxiste en philsophie (Paris: Presses universitaires\nde France 2016) tr. as How to Be a Marxist in Philosophy, by G.M.\nGoshgarian (London: Bloomsbury, 2017).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1976c) \u201cLa transformation de la philosophie,\u201d Sur\nla philosophie (Paris: Gallimard, 1994), 139\u2013178; tr. as\n\u201cThe Transformation of Philosophy\u201d by Thomas E. Lewis in\nGregory Elliott ed. Philosophy and the Spontaneous Philosophy of\nthe Scientists (London: Verso, 1990).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1977a) \u201cAvant-propos du livre de G. Dum\u00e9nil,\n\u2018Le concept de loi \u00e9conomique dans \u2018Le\nCapital\u2019\u201d, in Solitude de Machiavel et autres\ntextes , ed. Yves Sintomer (Paris: Presses Universitaires de\nFrance, 1998), 245\u2013266.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1977b) \u201cEnfin la crise du marxisme!\u201d in Pouvoir\net opposition dans les soci\u00e9t\u00e9s\npost-r\u00e9volutionnaires (Le Seuil, coll.\n\u201cCombats\u201d, 1978), 242\u2013253.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1977c) \u201cSolitude de Machiavel\u201d in Solitude de\nMachiavel et autres texts (Paris: Presses Universitaires de\nFrance, 1998), 311\u2013324; tr. as \u201cMachiavell\u2019s\nSolitude\u201d by Ben Brewster in Machiavelli and Us (London: Verso, 1999).",
+          "parsed": {
+            "authors": [
+              "(1977c) \u201cSolitude de Machiavel\u201d in Solitude de\nMachiavel et autres texts (Paris: Presses Universitaires de\nFrance"
+            ],
+            "year": "1998",
+            "title": "(1977c) \u201cSolitude de Machiavel\u201d in Solitude de\nMachiavel et autres texts (Paris: Presses Universitaires de\nFrance, 1998), 311\u2013324; tr. as \u201cMachiavell\u2019s\nSolitude\u201d by Ben Brewster in Machiavelli and Us (London: Verso, 1999)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1977d) Les v\u00e2ches noires: interview imaginaire (le\nmalaise du XXIIe congr\u00e8s) ce qui ne va pas camarades! , ed.\nby G. M. Goshgarian (Paris: Presses Universitaires de France,\n2016).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1978a) \u201cCe qui ne peut plus durer dans le Parti\nCommuniste,\u201d (Paris: Fran\u00e7ois Maspero 1978).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1978b) \u201cMarx dans ses limites,\u201d in \u00c9crits\nphilosophiques et politiques , Tome 1 (Paris: Stock/IMEC, 1994),\n357\u2013524.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1978c) \u201cLe marxisme aujourd\u2019hui,\u201d in Solitude de Machiavel et autres texts (Paris: Presses\nUniversitaires de France, 1998), 292\u2013310; tr. as \u201cMarxism\nToday\u201d by James H. Kavanaugh in Gregory Elliott ed. Philosophy and the Spontaneous Philosophy of the Scientists (London: Verso, 1990).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1978d) Que Faire (Paris: Presses Universitaires de\nFrance, 2018) tr. as What Is to Be Done? , by G. M. Goshgarian\n(Cambridge [U.K.]: Polity, 2020).",
+          "parsed": {
+            "authors": [
+              "(1978d) Que Faire (Paris: Presses Universitaires de\nFrance"
+            ],
+            "year": "2018",
+            "title": "(1978d) Que Faire (Paris: Presses Universitaires de\nFrance, 2018) tr. as What Is to Be Done? , by G. M. Goshgarian\n(Cambridge [U.K.]: Polity, 2020)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1980) Initiation \u00e0 la philosophie pour les non-philosophes\n(Paris: Presses Universitaires de France, 2013) tr. as Philosophy\nfor Non-Philosophers , by G.M. Goshgarian (New York: Bloomsbury,\n2017).",
+          "parsed": {
+            "authors": [
+              "(1980) Initiation \u00e0 la philosophie pour les non-philosophes\n(Paris: Presses Universitaires de France"
+            ],
+            "year": "2013",
+            "title": "(1980) Initiation \u00e0 la philosophie pour les non-philosophes\n(Paris: Presses Universitaires de France, 2013) tr. as Philosophy\nfor Non-Philosophers , by G.M. Goshgarian (New York: Bloomsbury,\n2017)."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1982) \u201cSur la pens\u00e9e Marxiste,\u201d in Future\nanterieur, Sur Althusser. Passages (Paris: L\u2019Harmattan,\n1993), 11\u201329; and \u201cLe courant souterrain du\nmat\u00e9rialisme de la rencontre,\u201din \u00c9crits\nphilosophiques et politiques , Tome 1 (Paris: Stock/IMEC, 1994),\n583\u2013594; and \u2018Notes sur les Th\u00e8ses sur\nFeuerbach,\u2019 Magazine Litt\u00e9raire , 324 (1994):\n38\u201342; extracts translated as \u201cThe Underground Current of\nthe Materialism of the Encounter\u201d by G.M. Goshgarian in Philosophy of the Encounter: Later Writings 1978\u20131987 (London: Verso, 2006).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1984\u20131987a) \u201cLettres de Louis Althusser \u00e0\nFernanda Navarro,\u201d (1984), Sur la philosophie (Paris:\nGallimard, 1994), 89\u2013138; tr. as \u201cLetters from Louis\nAlthusser to Fernanda Navarro\u201d by G.M. Goshgarian in Philosophy of the Encounter: Later Writings 1978\u20131987 (London: Verso, 2006).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "(1984\u20131987a) \u201cPhilosophie et marxisme: entretiens avec\nFernanda Navarra (1984\u20131987)\u201d in Sur la\nphilosophie (Paris: Gallimard, 1994), 13\u201379.",
+          "parsed": {
+            "authors": [
+              "(1984\u20131987a) \u201cPhilosophie et marxisme: entretiens avec\nFernanda Navarra (1984\u20131987)\u201d in Sur la\nphilosophie (Paris: Gallimard"
+            ],
+            "year": "1994",
+            "title": "(1984\u20131987a) \u201cPhilosophie et marxisme: entretiens avec\nFernanda Navarra (1984\u20131987)\u201d in Sur la\nphilosophie (Paris: Gallimard, 1994), 13\u201379."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "(1985) \u201cL\u2019avenir dure longtemps,\u201d in L\u2019avenir dure longtemps, suivi de Les Faits (Paris:\nStock/IMEC, 1992), 7\u2013279; tr. as \u201cThe Future Lasts\nForever\u201d by Richard Veasey in The Future Lasts Forever: A\nMemoir (New York: New Press, 1993).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Althusser, Louis, et al ., 1993. Sur Althusser:\nPassages , Paris: \u00c9ditions l\u2019Harmattan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Atkinson, D., 1984. \u201cThe Anatomy of Knowledge:\nAlthusser\u2019s Epistemology and its Consequences,\u201d Philosophical Papers , 13: 1\u201319.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Balibar, \u00c9tienne, 1974. \u201cSur la dialectique\nhistorique. Quelques remarques critiques \u00e0 propos de Lire le\nCapital,\u201d in: Cinq \u00e9tudes du mat\u00e9rialisme\nhistorique , Paris: Fran\u00e7ois Maspero: 203\u2013245.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Badiou, Alain, 2009. \u201cLouis Althusser,\u201d in Pocket\nPantheon: figures of postwar philosophy (David Macey trans.),\nLondon: Verso: 54\u201390.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2012. \u201cThe Recommencement of\nDialectical Materialism\u201d, in The Adventures of French\nPhilosophy , Bruno Bosteels (trans.), London: Verso:",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2012",
+            "title": "\u2013\u2013\u2013, 2012. \u201cThe Recommencement of\nDialectical Materialism\u201d, in The Adventures of French\nPhilosophy , Bruno Bosteels (trans.), London: Verso:"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Balibar, \u00c9tienne, 1991. \u00c9crits pour\nAlthusser , Paris: \u00c9ditions la D\u00e9couverte.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 1994. \u201cAlthusser\u2019s\nobject,\u201d Social Text , 39: 157\u2013188.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013, 1994. \u201cAlthusser\u2019s\nobject,\u201d Social Text , 39: 157\u2013188."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Baltas, Aristide, 1993. \u201c Philosophy and the Spontaneous\nPhilosophy of the Scientists and Other Essays , by Louis\nAlthusser,\u201d Philosophy of Science , 60(4):\n647\u2013658.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bargu, Banu, 2015. \u201cAlthusser\u2019s Materialist Theater:\nIdeology and Its Aporias,\u201d Differences , 26(3):\n81\u2013106.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bargu, Banu, and William S Lewis, 2020.  \u201cDisjecta\nMembra: Althusser\u2019s Aestethics\nReconsidered.\u201d Filozofski Vestnik , 41(1):\n7\u201359.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Benton, Ted, 1984. The Rise and Fall of Structural Marxism:\nAlthusser and his Influence , London: McMillan.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bidet, Jacques, 1997. \u201cLa Lecture du Capital par\nLouis Althusser,\u201d in P. Raymond (ed.), Althusser\nPhilosophe , Paris: Presses Universitaires de France.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Boer, Roland, 2007. Criticism of Heaven: On Marxism and\nTheology (Historical Materialism Book Series), New York: Brill\nAcademic.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bourdin, Jean-Claude, 2000. \u201cThe Uncertain Materialism of\nLouis Althusser,\u201d Graduate Faculty Philosophy Journal ,\n22(1): 271\u2013287.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bourgeois, Bernard, 1997. \u201cAlthusser et Hegel\u201d in P.\nRaymond (ed.), Althusser Philosophe , Paris: Presses\nUniversitaires de France, 87\u2013104.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Breton, Stanislas, 1997. \u201cAlthusser et la religion,\u201d\nin P. Raymond (ed.), Althusser Philosophe , Paris: Presses\nUniversitaires de France, 155\u2013166.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Bruschi, Fabio, 2020. Le mat\u00e9rialisme politique de Louis\nAlthusser, Paris: Mimesis.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Callinicos, Alex, 1976. Althusser\u2019s Marxism (London: Pluto\nPress).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Carmichael, Thomas, 2022. \u201c\u2018[A]Nother Kind of\nRain\u2019: Aesthetic Ontology and Contagious Imaginations in\nAlthusser\u2019s Aleatory Materialism.\u201d Historical Materialism\n1: 1\u201328.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Cavazzini, Andr\u00e9, 2015. \u201cAlthusser/Bachelard: Une\nCoupure et Ses Enjeux,\u201d Revue Synth\u00e8se (Philosophie et\nmath\u00e9matique), 136(1-2): 117\u201333.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Cr\u00e9z\u00e9gut, Anthony, 2016. \u201cAlthusser,\n\u00c9trange Lecteur de Gramsci. Lire \u00abLe Marxisme N\u2019est\nPas Un Historicisme\u00bb: 1965\u20132015,\u201d D\u00e9calages,\n2(1).\n[ Cr\u00e9z\u00e9gut 2016 available online ]",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Dupuis-D\u00e9ri, F., 2015. \u201cLa banalit\u00e9 du\nm\u00e2le. Louis Althusser a tu\u00e9 sa conjointe,\nH\u00e9l\u00e8ne Rytmann-Legotien, qui voulait le quitter,\u201d Nouvelles Questions F\u00e9ministes , 34(1): 84\u2013101.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Erdem, Erdin\u00e7, 2019. \u201cAlthusser\u2019s Relation to\nHegel: French Hegelianism, Marxism, and Aleatory Materialism.\u201d\nRethinking Marxism 31(3): 380\u2013401.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ekici, Ekrim, J\u00f6rk Nowak, and Freider Otto Wolf (eds.), 2015. Althusser \u2013 Die Reproduktion des Marxismus ,\nM\u00fcnster: Westf\u00e4lisches Dampfboot.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Elliot, Gregory, 2006 [1987]. Althusser: The Detour of\nTheory , New York: Verso.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013 (ed.), 1994. Althusser: A critical\nReader , Oxford: Blackwell.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013 (ed.)"
+            ],
+            "year": "1994",
+            "title": "\u2013\u2013\u2013 (ed.), 1994. Althusser: A critical\nReader , Oxford: Blackwell."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Geerlandt, Robert, 1978. Garaudy et Althusser: le\nd\u00e9bate sur l\u2019humanisme dans le Parti Communiste\nFran\u00e7ais et son Enjeu , Paris: Presses Universitaires de\nFrance.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Gillot, Pascale, 2009. Althusser et la psychanalyse ,\nParis: Presses universitaires de France.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Goshgarian, G.M., 2003. \u201cIntroduction,\u201d In The\nHumanist Controversy and Other Writings , London: Verso,\nxi\u2013lxii.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2006. \u201cTranslator\u2019s\nIntroduction,\u201d in Louis Althusser: Philosophy of the\nEncounter (Later Writings 1978\u20131987), London: Verso,\nxiii\u2013l",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2006",
+            "title": "\u2013\u2013\u2013, 2006. \u201cTranslator\u2019s\nIntroduction,\u201d in Louis Althusser: Philosophy of the\nEncounter (Later Writings 1978\u20131987), London: Verso,\nxiii\u2013l"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2015a. \u201cA Marxist in\nPhilosophy,\u201d Diacritics , 43(2): 24\u201346.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2015",
+            "title": "\u2013\u2013\u2013, 2015a. \u201cA Marxist in\nPhilosophy,\u201d Diacritics , 43(2): 24\u201346."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2015b. \u201cPhilosophie et\nr\u00e9volution. Althusser sans le th\u00e9oricisme\u202f,\u201d P\u00e9riode , February 19, 2015.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2015",
+            "title": "\u2013\u2013\u2013, 2015b. \u201cPhilosophie et\nr\u00e9volution. Althusser sans le th\u00e9oricisme\u202f,\u201d P\u00e9riode , February 19, 2015."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Hardy, N., 2014. \u201cWolff, Althusser, and Hegel: Outlining an\nAleatory Materialist Epistemology,\u201d Rethinking Marxism ,\n26(4): 454\u201371.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Hamza, Agon, 2011. Louis Althusser , Kosovo: Kolektivi\nMaterializmi Dialektik.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Harnecker, Marta, 1994. \u201cAlthusser and the Theoretical\nAnti-Humanism of Marx,\u201d Nature, Society, and Thought , 7\n(3): 325\u2013329.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lazarus, Sylvain (ed.), 1993. Politique et Philosophie dans\nl\u2019oeuvre de Louis Althusser , Paris: Presses Universitaires\nde France.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lewis, William S., 2005. Louis Althusser and the Traditions of\nFrench Marxism , Lanham, MD: Lexington Books.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lewis, William S., 2022. Concrete Critical Theory:\nAlthusser\u2019s Marxism , Leiden: Brill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lindner, Kolja, 2007. \u201cLire le Capital: Althusser et\nl\u2019impasse du tournant politiciste,\u201d Contretemps ,\n20: 71\u201381.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Lindner, Urs, 2011. \u201cRepenser la \u00abcoupure\n\u00e9pist\u00e9mologigue\u00bb lire Marx avec et Contre\nAlthusser,\u201d Actuel Marx , 1 (49): 121\u2013139",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Macey, David, 1994. \u201cThinking With Borrowed Concepts:\nAlthusser and Lacan,\u201d in Gregory Elliott (ed.), Althusser: a\nCritical Reader , Oxford: Blackwell, 142\u2013158.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Macherey, Pierre, 2002. \u201cAlthusser et le jeune Marx,\u201d Actuel-Marx , 31: 159\u2013175.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Malabou, Catherine, 2016. \u201cO\u00f9 va le\nmat\u00e9rialisme\u202f? Althusser/Darwin,\u201d Lignes ,\n51: 3\u201351.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Matheron, Fran\u00e7ois, 1998. \u201cThe Recurrence of the Void\nin Louis Althusser,\u201d Rethinking Marxism , 10(3):\n22\u201327.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Matheron, Fran\u00e7ois, 2004. \u201cLouis Althusser, or, the\nImpure Purity of the Concept,\u201d Graduate Faculty Philosophy\nJournal , 25(1): 137\u2013159.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005. \u201c\u2018des probl\u00e8mes\nqu\u2019il faudra bien appeler d\u2019un autre nom et\npeut-\u00eatre politique\u2019: Althusser et\nl\u2019instabilit\u00e9 de la politique,\u201d Multitudes , 22: 21\u201335.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005. \u201c\u2018des probl\u00e8mes\nqu\u2019il faudra bien appeler d\u2019un autre nom et\npeut-\u00eatre politique\u2019: Althusser et\nl\u2019instabilit\u00e9 de la politique,\u201d Multitudes , 22: 21\u201335."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Montag, Warren, 1998. \u201cAlthusser\u2019s Nominalism:\nStructure and Singularity (1962\u201366),\u201d Rethinking\nMarxism , 10(3): 64\u201373.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2002. Louis Althusser , New York:\nPalgrave.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2002",
+            "title": "\u2013\u2013\u2013, 2002. Louis Althusser , New York:\nPalgrave."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2005a. \u201cPolitics: Transcendent or\nImmanent?: A response to Miguel Vatter\u2019s \u2018Machiavelli\nafter Marx\u2019,\u201d Theory and Event , 7(4); doi:\n10.1353/tae.2005.0052",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2005",
+            "title": "\u2013\u2013\u2013, 2005a. \u201cPolitics: Transcendent or\nImmanent?: A response to Miguel Vatter\u2019s \u2018Machiavelli\nafter Marx\u2019,\u201d Theory and Event , 7(4); doi:\n10.1353/tae.2005.0052"
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2009. Althusser and His Contemporaries:\nPhilosophy\u2019s Perpetual War , Durham, NC: Duke University\nPress.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2009",
+            "title": "\u2013\u2013\u2013, 2009. Althusser and His Contemporaries:\nPhilosophy\u2019s Perpetual War , Durham, NC: Duke University\nPress."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Moreau, Pierre-Fran\u00e7ois, 1997. \u201cAlthusser et\nSpinoza,\u201d in P. Raymond (ed.), Althusser Philosophe ,\nParis: Presses Universitaires de France, 75\u201386.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Morfino, Vitorrio, 2005. \u201cAn Althusserian Lexicon,\u201d\ntranslated by Jason Smith, Borderlands e-journal , 4(2).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Morfino, Vittorio, 2022. \u201cThe Prince between Gramsci and\nAlthusser\u201d in Machiavelli Then and Now: History, Politics,\nLiterature, ed. by Prasanta Chakravarty and Sukanta Chaudhuri,\n296\u2013315. Cambridge [UK]: Cambridge University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Moulier-Boutang, Yann, 1992. Louis Althusser: Une\nBiographie (Tome I: La Formation du mythe,\n1918\u20131956) , Paris: Bernard Grasset.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Negri, Antonio, 2000. The Savage Anomaly: The Power of\nSpinoza\u2019s Metaphysics and Politics , New York: University of\nMinnesota Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "O\u2019Boyle, B., and T. McDonough, 2016. \u201cCritical\nRealism and the Althusserian Legacy,\u201d Journal for the Theory\nof Social Behaviour , 46(2): 143\u2013164.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Patton, Paul, 1978. \u201cAlthusser\u2019s Epistemology: The\nLimits of the Theory of Theoretical Practice,\u201d Radical\nPhilosophy , 19: 8\u201318.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pfeifer, Geoff., 2015. The New Materialism: Althusser, Badiou,\nZizek , London: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pippa, Stefano., 2020. \u201cA Heap of Splinters On the\nFloor.\u201d SoftPower 7(1):125\u201344.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Pippa, Stefano., 2019. Althusser and Contingenc y, Milan:\nMimesis.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "O\u2019Hagan, Timothy, 1982. \u201cAlthusser: How to be a\nMarxist in Philosophy,\u201d in G. H. R. Parkinson (ed.), Marx\nand Marxisms , Cambridge: Cambridge University Press,\n243\u2013264.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Ranci\u00e8re, Jacques, 2011. Althusser\u2019s Lesson ,\nEmiliano Battista (trans.), Continuum, 2011",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Raymond, Pierre, 1997. \u201cLe mat\u00e9rialisme\nd\u2019Althusser,\u201d in P. Raymond (ed.), Althusser\nPhilosophe , Paris: Presses Universitaire de France,\n167\u2013179; trans. by Ted Stolze, 2015, \u201cAlthusser\u2019s\nMaterialism,\u201d Historical Materialism , 23(2):\n176\u201388.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Resch, Robert Paul, 1992. Althusser and the Renewal of Marxist\nSocial Theory , Berkeley: University of California Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rodr\u00edguez Arriagada, Marcelo, and Starcenbaum, Marcelo,\n2017. Lecturas de Althusser En Am\u00e9rica Santiago de Chile :\nDoble Ciencia.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Rom\u00e9, Natalia, 2021. For Theory: Althusser and\nthe Politics of Time . Lanham (Md.): Rowman &\nLittlefield.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Roudinesco, Elisabeth, 2008. Philosophy in Turbulent Times:\nCanguilhem, Sartre, Foucault, Althusser, Deleuze, Derrida , New\nYork: Columbia University Press.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sanchez Estop, Juan Domingo, and Louis Althusser, 2022. Althusser et Spinoza, d\u00e9tours et retours: avec trois textes\nin\u00e9dits de Louis Althusser sur Spinoza . Brussels: Editions\nde l\u2019Universit\u00e9 de Bruxelles",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "S\u00e8ve, Lucien, 1997. \u201cAlthusser et la\ndialectique,\u201d in P. Raymond (ed.), Althusser Philosophe, Paris:\nPresses Universitaire de France, 105\u2013136.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "\u2013\u2013\u2013, 2004. Penser avec Marx\naujourd\u2019hui , Paris: La Dispute.",
+          "parsed": {
+            "authors": [
+              "\u2013\u2013\u2013"
+            ],
+            "year": "2004",
+            "title": "\u2013\u2013\u2013, 2004. Penser avec Marx\naujourd\u2019hui , Paris: La Dispute."
+          },
+          "confidence": "low"
+        },
+        {
+          "raw": "Sotiris, Panagiotis, 2020. A Philosophy for Communism:\nRethinking Althusser. A Philosophy for Communism . Leiden:\nBrill.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Sprinker, Michael, 1995. \u201cThe Legacies of Althusser,\u201d Yale French Studies , 88: 201\u2013225.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Suchtig, Wal, 2004. \u201cAlthusser\u2019s Late Thinking About\nMaterialism,\u201d Historical Materialism , 12(1):\n3\u201370.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thomas, Peter, 2002. \u201cPhilosophical Strategies: Althusser\nand Spinoza,\u201d Historical Materialism , 10(3):\n71\u2013113.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thomas, Peter, Gal Kirn, Sara Farris, and Katja Diefenbach (eds.),\n2012. Encountering Althusser: politics and materialism in\ncontemporary radical thought , London: Continuum.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thomas, Paul, 2008. Marxism and scientific socialism: from\nEngels to Althusser , London: Routledge.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Thompson, E. P., 1978. \u201cThe Poverty of Theory, or an Orrery\nof Errors,\u201d The Poverty of Theory and Other Essays ,\nLondon: Merlin.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Tosel, Andr\u00e9, 2005. \u201cLes al\u00e9as du\nmat\u00e9rialisme al\u00e9atoire dans la derni\u00e8re philo de\nLouis Althusser,\u201d in E. Kouvelakis, et al . (eds.), Sartre, Luk\u00e1cs, Althusser: des Marxistes en\nphilosophie , Paris: Presses Universitaires de France,\n169\u2013196",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Vatter, Miguel, 2004. \u201cMachiavelli After Marx: the\nSelf-Overcoming of Marxism in the Late Althusser,\u201d Theory\nand Event 7(4).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Viparelli, I., 2015, \u201cAlthusser. La n\u00e9cessit\u00e9\ndu \u00ab\u202ftournant\u202f\u00bb ontologique,\u201d I. Pinto\n(trans.), Cahiers du GRM , 8 (December).",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Williams, Caroline, 2001. Contemporary French Philosophy:\nModernity and the Persistence of the Subject , London,\nAthlone.",
+          "parsed": null,
+          "confidence": "unparseable"
+        },
+        {
+          "raw": "Wolf, Frieder Otto, 2008. \u201cReproduktion und Ideologie bei\nLouis Althusser. Eine aktualisierende Ann\u00e4herung\u201d, in\nFrieder O. Wolf and Gerd Peter (eds.), Welt ist Arbeit. Im Kampf\num die neue Ordnung , M\u00fcnster: Westf\u00e4lisches Dampfboot,\n41\u201354.",
+          "parsed": null,
+          "confidence": "unparseable"
+        }
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

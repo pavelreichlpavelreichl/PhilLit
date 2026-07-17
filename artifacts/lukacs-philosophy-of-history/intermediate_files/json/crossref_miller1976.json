@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.2307/2504820"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/2504820",
+      "title": "Merleau-Ponty's Marxism: Between Phenomenology and the Hegelian Absolute",
+      "authors": [
+        {
+          "family": "Miller",
+          "given": "James"
+        }
+      ],
+      "editors": [],
+      "year": 1976,
+      "container_title": "History and Theory",
+      "volume": "15",
+      "issue": "2",
+      "page": "109",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.2307/2504820"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

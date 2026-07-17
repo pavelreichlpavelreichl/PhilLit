@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/bf02342517"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/bf02342517",
+      "title": "Merleau-Ponty, Marx, and Marxism: The problem of history",
+      "authors": [
+        {
+          "family": "Rockmore",
+          "given": "Tom"
+        }
+      ],
+      "editors": [],
+      "year": 1996,
+      "container_title": "Studies in East European Thought",
+      "volume": "48",
+      "issue": "1",
+      "page": "63-81",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/bf02342517"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

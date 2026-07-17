@@ -1,0 +1,273 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Althusser Lukacs historicism', limit=20
+[search_philpapers.py] Retrieved 17 entries...
+[search_philpapers.py] Search complete: 17 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Althusser Lukacs historicism",
+  "results": [
+    {
+      "title": "Louis Althusser, History and imperialism: writings, 1963-1986",
+      "url": "https://philpapers.org/rec/ALTHAI-2",
+      "philpapers_id": "ALTHAI",
+      "snippet": "Writings on History brings together a selection of texts by Louis Althusser dating from 1963 to 1986, including essays, a lecture, notes to his collaborators, and the transcript of an informal 1963 discussion of literary history. These writings are concerned with the place of history in Marxist theory--Provided by publisher. ... History Philosophy. Historicism",
+      "page_age": null,
+      "extra_snippets": [
+        "Writings on History brings together a selection of texts by Louis Althusser dating from 1963 to 1986, including essays, a lecture, notes to his collaborators, and the transcript of an informal 1963 discussion of literary history. These writings are concerned with the place of history in Marxist theory--Provided by publisher. ... History Philosophy. Historicism",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Lenin and philosophy, and other essays.Louis Althusser - 1971 - New York: Monthly Review Press.",
+        "Louis Althusser.Warren Montag - 2019 - In Alan D. Schrift, The History of Continental Philosophy. Chicago: University of Chicago Press."
+      ]
+    },
+    {
+      "title": "Manolis Dafermos, The Adventures of Dialectics in Western Marxism",
+      "url": "https://philpapers.org/rec/DAFTAO",
+      "philpapers_id": "DAFTAO",
+      "snippet": "Finally, the chapter considers Louis Althusser\u2019s structural Marxism, situating his redefinition of dialectics within his broader theoretical agenda. This agenda emphasises the \u2018anti-humanism\u2019, \u2018anti-historicism\u2019 and the \u2018epistemological break\u2019 that Althusser identified in Marx\u2019s thought.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Manolis Dafermos"
+        }
+      ],
+      "extra_snippets": [
+        "Finally, the chapter considers Louis Althusser\u2019s structural Marxism, situating his redefinition of dialectics within his broader theoretical agenda. This agenda emphasises the \u2018anti-humanism\u2019, \u2018anti-historicism\u2019 and the \u2018epistemological break\u2019 that Althusser identified in Marx\u2019s thought.",
+        ": Georg Luk\u00e1s, Dialectics, and Hegelian Marxism.Anders Burman - 2018 - In Anders Burman & Anders Baronek, Hegelian Marxism: The Uses of Hegel\u2019s Philosophy in Marxist Theory from Georg Luk\u00e1cs to Slavoj \u017di\u017eek. S\u00f6dert\u00f6rns h\u00f6gskola. pp. 17-34. Adorno et Althusser, lecteurs de Hegel.Jean-Baptiste Vuillerod - 2020 - Ast\u00e9rion 22 (22).",
+        "Herbert Marcuse : No Dialectics, No Critique.Anders Bartonek - 2018 - In Anders Burman & Anders Baronek, Hegelian Marxism: The Uses of Hegel\u2019s Philosophy in Marxist Theory from Georg Luk\u00e1cs to Slavoj \u017di\u017eek. S\u00f6dert\u00f6rns h\u00f6gskola."
+      ]
+    },
+    {
+      "title": "Karl Marx, Friedrich Engels, I. Lasker & S. Ryazanskaya, Selected Correspondence",
+      "url": "https://philpapers.org/rec/MARSC-3",
+      "philpapers_id": "MARSC",
+      "snippet": "Rethinking Structure and Conjuncture in Althusser.Panagiotis Sotiris - 2014 - Historical Materialism 22 (3-4):5-51.",
+      "page_age": null,
+      "extra_snippets": [
+        "Marx, Popper, and 'historicism'.W.",
+        "Selected Correspondence, 1902-1920.Georg Luk\u00e1cs, Judith Marcus & Zoltan Tar - 1988 - Science and Society 52 (2):237-239."
+      ]
+    },
+    {
+      "title": "Louis Althusser, E\u0301crits sur l'histoire: 1963-1986",
+      "url": "https://philpapers.org/rec/ALTESL",
+      "philpapers_id": "ALTESL",
+      "snippet": "History Philosophy. Historicism ... Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... History and imperialism: writings, 1963-1986.Louis Althusser - 2020 - Medford, MA, USA: Polity.",
+      "page_age": null,
+      "extra_snippets": [
+        "Louis Althusser: \"Montesquieu: La politique et l'histoire\".Freddy T\u00c9llez - 1968 - Ideas Y Valores 18 (30-31):87.",
+        "Louis Althusser, \"Montesquieu, la politique et l'histoire\".Silvia Federici - 1969 - Telos: Critical Theory of the Contemporary 4:236.",
+        "E\u0301crits pour Althusser.E\u0301tienne Balibar - 1977 - Paris: E\u0301ditions la De\u0301couverte.",
+        "Edited by Louis Althusser."
+      ]
+    },
+    {
+      "title": "Panagiotis Sotiris, Althusser and Poulantzas: Hegemony and the State",
+      "url": "https://philpapers.org/rec/SOTAAP",
+      "philpapers_id": "SOTAAP",
+      "snippet": "Based on this elaboration, I try to stress the need for new theorizations of both State and strategy based upon both Gramsci and the work of Althusser and Poulantzas. ... Setup an account with your affiliations in order to access resources via your University&#x27;s proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Neither an Instrument nor a Fortress.Panagiotis Sotiris - 2014 - Historical Materialism 22 (2):135-157.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Panagiotis Sotiris"
+        }
+      ],
+      "extra_snippets": [
+        "Regarding Althusser, I stress the influence Gramsci had upon his conceptualization of the Ideological Apparatuses of the State but also his inability to discern the non idealist and non teleological character of Gramsci\u2019s historicism and his tendency to underestimate the complexity of the notion of hegemony and Gramsci\u2019s conception of the integral State.",
+        "Based on this elaboration, I try to stress the need for new theorizations of both State and strategy based upon both Gramsci and the work of Althusser and Poulantzas. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Neither an Instrument nor a Fortress.Panagiotis Sotiris - 2014 - Historical Materialism 22 (2):135-157.",
+        "Reclaiming Gramsci's \u201chistoricity\u201d: A critical analysis of the British appropriation in light of the \u201ccrisis of democracy\u201d.Marzia Maccaferri - 2023 - Constellations 30 (4):445-461. Gramsci and Althusser Encountering Machiavelli: Hegemony and/as New Practice of Politics.Panagiotis Sotiris - 2020 - Jus Cogens 3 (2):119-139."
+      ]
+    },
+    {
+      "title": "Cornel Ronald West, Ethics, Historicism and the Marxist Tradition",
+      "url": "https://philpapers.org/rec/WESEHA",
+      "philpapers_id": "WESEHA",
+      "snippet": "Therefore they remain only moderate historicists, falling short of Marx&#x27;s radical historicism. ;I then critically reconstruct the arguments of three major Marxist thinkers--Engels, Kautsky and Lukacs--who, in their own ways, subscribe to the traditional vision of philosophy.",
+      "page_age": null,
+      "extra_snippets": [
+        "Therefore they remain only moderate historicists, falling short of Marx's radical historicism. ;I then critically reconstruct the arguments of three major Marxist thinkers--Engels, Kautsky and Lukacs--who, in their own ways, subscribe to the traditional vision of philosophy.",
+        "Lastly, I claim that Lukacs' ontological quest is a sophisticated Hegelian move to overcome traditional, especially modern positivisit, foundationalism in epistemology and science only to arrive at a new form of foundationalism--in science and ethics--in ontological garb. I try to show that these three quests for moral objectivity fail. ;I try to show that Marx adopts a radical historicist approach to ethics only after a tortuous philosophic journey which leaves him disenchanted and disillusioned with the vision of philosophy as the quest for certainty and search for foundations.",
+        "I argue that he makes a crucial metaphilosophical move in order to take seriously historical consciousness and the constructionist conventionalism revealed by his political activism. I try to explain this metaphilosophical move in terms of a complex philosophic-theoretic shift in his approach to ethics.",
+        "My concern is to focus specifically on the status of ethics--issues of objectivity and validity of moral principles and judgments--and to confine the particular historicists I examine to those of the Marxist tradition. ;I begin this examination of historicism in ethics by distinguishing between moderate historicism and radical historicism."
+      ]
+    },
+    {
+      "title": "Georg Luk\u00e1cs, History and Class Consciousness: Studies in Marxist Dialectics",
+      "url": "https://philpapers.org/rec/LUKHAC",
+      "philpapers_id": "LUKHAC",
+      "snippet": "A series of essays treating, among other topics, the definition of orthodox Marxism, the question of legality and illegality, Rosa Luxemburg as a Marxist, the changing function of Historic Marxism, class ...",
+      "page_age": null,
+      "extra_snippets": [
+        "A series of essays treating, among other topics, the definition of orthodox Marxism, the question of legality and illegality, Rosa Luxemburg as a Marxist, the changing function of Historic Marxism, class consciousness, and the ...",
+        "The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93.",
+        "Images of society: Essays on the sociological theories of tocqueville, Marx and Durkheim. By Gianfranco Poggi. Stanford and London: Oxford university press, 1972. Pp. XVI+ 267. $8.95. History and class consciousness: Studies in Marxist dialectics. By Georg Luk\u00e1cs.",
+        "History and Class Consciousness: Studies in Marxist Dialectics. By Georg Luk\u00e1cs, trans. Rodney Livingstone. London: Merlin Press, 1971. Pp. xxxix, 356."
+      ]
+    },
+    {
+      "title": "James Robinson, Reification and hegemony : the politics of culture in the writings of Georg Luk\u00e1cs and Antonio Gramsci, 1918-1938",
+      "url": "https://philpapers.org/rec/ROBRAH-3",
+      "philpapers_id": "ROBRAH",
+      "snippet": "The solutions that both theorists sought in order to overcome reification and hegemony are embedded in their neo-Hegelian interpretations of Marxism, where historical materialism is defined as a methodology characterised by its utilisation of the conceptual tools of &quot;dialectic,&quot; &quot;totality,&quot; and &quot;absolute historicism.&quot; However, Lukacs was forced by historical circumstances to retreat into the realm of aesthetics, although he continued the critique of reification by way of his theory of critical realism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Robinson"
+        }
+      ],
+      "extra_snippets": [
+        "The solutions that both theorists sought in order to overcome reification and hegemony are embedded in their neo-Hegelian interpretations of Marxism, where historical materialism is defined as a methodology characterised by its utilisation of the conceptual tools of \"dialectic,\" \"totality,\" and \"absolute historicism.\" However, Lukacs was forced by historical circumstances to retreat into the realm of aesthetics, although he continued the critique of reification by way of his theory of critical realism.",
+        "Toward a political critique of reification: Luk\u00e1cs, Honneth and the aims of critical theory.Anita Chari - 2010 - Philosophy and Social Criticism 36 (5):587-606.",
+        "Reification in and through law: Elements of a theory in Marx, Luk\u00e1cs, and Honneth.Todd Hedrick - 2014 - European Journal of Political Theory 13 (2):178-198.",
+        "Reification, Materialism, and Praxis: Adorno's Critique of Luk\u00e1cs.Timothy Hall - 2011 - Telos: Critical Theory of the Contemporary 2011 (155):61-82."
+      ]
+    },
+    {
+      "title": "Frank R. Ankersmit, Historicism: an attempt at synthesis",
+      "url": "https://philpapers.org/rec/ANKHAA",
+      "philpapers_id": "ANKHAA",
+      "snippet": "Is Historicism Relativism?\u2014The Distinction between Luk\u00e1cs\u2019 and Leo Strauss\u2019 \u201cHistoricism\u201d by Class Consciousness.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Frank R. Ankersmit"
+        }
+      ],
+      "extra_snippets": [
+        "According to German theorists historicism was the result of a dynamization of the static world-view of the Enlightenment. According to contemporary Anglo-Saxon theorists historicism resulted from a de-rhetoricization of Enlightenment historical writing. It is argued that, contrary to appearances, these two views do not exclude but support each other.",
+        "Is Historicism Relativism?\u2014The Distinction between Luk\u00e1cs\u2019 and Leo Strauss\u2019 \u201cHistoricism\u201d by Class Consciousness.",
+        "This can be explained if the account of change implicit in Enlightenment historical writing is compared to that suggested by historicism and, more specifically, by the historicist notion of the \"historical idea.\" Aspects of the contemporary debate about the nature and the task of historical writing can be clarified from the perspective of the differences between Enlightenment and historicist historical writing",
+        "Comments on F. R. Ankersmit's Paper, \"Historicism: An Attempt at Synthesis\".Georg G."
+      ]
+    },
+    {
+      "title": "Herman Paul & Adriaan van Veldhuizen (eds.), Historicism: a travelling concept",
+      "url": "https://philpapers.org/rec/PAUHAT",
+      "philpapers_id": "PAUHAT",
+      "snippet": "Is Historicism Relativism?\u2014The Distinction between Luk\u00e1cs\u2019 and Leo Strauss\u2019 \u201cHistoricism\u201d by Class Consciousness.",
+      "page_age": null,
+      "extra_snippets": [
+        "Throughout the twentieth century, scholars, artists and politicians have accused each other of \"historicism.\" But what exactly did this mean? Judging by existing scholarship, the answers varied enormously. Like many other \"isms,\" historicism could mean nearly everything, to the point of becoming meaningless.",
+        "Is Historicism Relativism?\u2014The Distinction between Luk\u00e1cs\u2019 and Leo Strauss\u2019 \u201cHistoricism\u201d by Class Consciousness.",
+        "Yet the questions remain: What made generations of scholars throughout the humanities and social sciences worry about historicism? Why did even musicians and members of parliament warn against historicism? And what explains this remarkable career of the term across generations, fields, regions, and languages?",
+        "Focusing on the \"travels\" that historicism made, this volume uses historicism as a prism for exploring connections between disciplines and intellectual traditions usually studied in isolation from each other."
+      ]
+    },
+    {
+      "title": "Andr\u00e9 Tosel, Da Spinoza a Gramsci. La formazione filosofica e politica di A. Tosel - Seconda parte",
+      "url": "https://philpapers.org/rec/TOSDSA-2",
+      "philpapers_id": "TOSDSA",
+      "snippet": "In this interview, Andr\u00e9 Tosel recalls the most important phases of his scientific commitment. He focuses on the different aspects of his theoretical experiences: the left-wing Catholicism, his meeting with Althusser, his discovery of Gramsci\u2019s role in the Marxist historicism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Andr\u00e9 Tosel"
+        }
+      ],
+      "extra_snippets": [
+        "In this interview, Andr\u00e9 Tosel recalls the most important phases of his scientific commitment. He focuses on the different aspects of his theoretical experiences: the left-wing Catholicism, his meeting with Althusser, his discovery of Gramsci\u2019s role in the Marxist historicism.",
+        "Tosel emphasizes the differences between Althusser and Gramsci, recognizing the Italian Marxist \u2013 an author not sufficiently studied in France \u2013 as a point of reference for the elaboration of a critical analysis of the structure of the contemporary capitalism. Of course, according to Tosel, such an appreciation of Gramsci\u2019s work does not exclude critical evaluations of his contribution. ... Marx Historical materialism Spinoza Althusser Gramsci Religion Hegemony Languages and practices of the resilience"
+      ]
+    },
+    {
+      "title": "George Markus, Alienation and Reification in Marx and Lukacs",
+      "url": "https://philpapers.org/rec/MARAAR-2",
+      "philpapers_id": "MARAAR",
+      "snippet": "Immediacy and Experience in Luk\u00e1cs&#x27; Theory of Reification.Iaan Reynolds - 2021 - Metodo: International Studies in Phenomenology and Philosophy 9 (2):89-119.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "George Markus"
+        }
+      ],
+      "extra_snippets": [
+        "Marxism and Ideology: From Marx to Althusser.David Leopold - 2013 - In Michael Freeden, Lyman Tower Sargent & Marc Stears, The Oxford Handbook of Political Ideologies. Oxford, GB: Oxford University Press.",
+        "Immediacy and Experience in Luk\u00e1cs' Theory of Reification.Iaan Reynolds - 2021 - Metodo: International Studies in Phenomenology and Philosophy 9 (2):89-119.",
+        "What is reification in Georg Luk\u00e1cs\u2019s early Marxist work?Konstantinos Kavoulakos - 2020 - Thesis Eleven 157 (1):41-59."
+      ]
+    },
+    {
+      "title": "Paul Wake & Simon Malpas (eds.), The Routledge Companion to Critical Theory",
+      "url": "https://philpapers.org/rec/WAKTRC",
+      "philpapers_id": "WAKTRC",
+      "snippet": "This book defines what is generically ... and guides readers through some of the most complex and fundamental concepts in the field, ranging from Historicism to Postmodernism, from Psychoanalytic Criticism to Race and Postcoloniality...",
+      "page_age": null,
+      "extra_snippets": [
+        "This book defines what is generically referred to as \"critical theory,\" and guides readers through some of the most complex and fundamental concepts in the field, ranging from Historicism to Postmodernism, from Psychoanalytic Criticism to Race and Postcoloniality.",
+        "Historicism.Paul Hamilton - 2003 - Psychology Press.",
+        "Names and terms.Theodor Wiesengrund Adorno, Giorgio Agamben, Louis Althusser, Hannah Arendt, John Langshaw Austin, Gaston Bachelard, Alain Badiou, Mikhail Mikhaylovich Bakhtin, Roland Barthes & Georges Bataille"
+      ]
+    },
+    {
+      "title": "Michael Thompson (ed.), Georg Luka\u0301cs and the possibility of critical social ontology",
+      "url": "https://philpapers.org/rec/THOGLA-2",
+      "philpapers_id": "THOGLA",
+      "snippet": "Luk\u00e1cs in the 1920s and the 2020s: The practice and praxis of intellectual history.Richard Westerman - 2020 - Thesis Eleven 157 (1):24-40.",
+      "page_age": null,
+      "extra_snippets": [
+        "Luk\u00e1cs' critical ontology and critical realism.M\u00e1rio Duayer & Jo\u00e3o Leonardo Medeiros - 2005 - Journal of Critical Realism 4 (2):395-425. Disrespect: The Normative Foundations of Critical Theory.Axel Honneth - 2007 - Cambridge: Polity. Concrete Critical Theory: Althusser\u2019s Marxism.William S.",
+        "Social Ontology and the Past, Present and Future of Critical Theory: A Critical Reading of Georg Luk\u00e1cs and the Possibility of Critical Social Ontology.J.",
+        "German Idealism, Marxism, and Luk\u00e1cs\u2019 Concept of Dialectical Ontology.Michael J.",
+        "Luk\u00e1cs in the 1920s and the 2020s: The practice and praxis of intellectual history.Richard Westerman - 2020 - Thesis Eleven 157 (1):24-40."
+      ]
+    },
+    {
+      "title": "Esteve Morera Dulsat, Gramsci's Historicism: A Realist Interpretation",
+      "url": "https://philpapers.org/rec/DULGHA",
+      "philpapers_id": "DULGHA",
+      "snippet": "Gramsci\u2019s Path through the Tension between \u201cAbsolute Historicism\u201d and Materialist Dialectics: Marxism as Historical Philosophy.Andras Gedo - 1993 - Nature, Society, and Thought 6 (1):5-6. Gramsci&#x27;s Philosophy. [REVIEW]S. W. W. - 1982 - Review of Metaphysics 35 (4):888-889. Althusser and Poulantzas: Hegemony and the State.Panagiotis Sotiris - 2017 - Materialismo Storico 2 (1):115-163.",
+      "page_age": null,
+      "extra_snippets": [
+        "Gramsci's historicism is defined as a general philosophy of social explanation. It offers a number of epistemological, ontological, and methodological principles which are developed on the basis of four uses of the term 'historicism' found in the Quaderni del Carcere.",
+        "Gramsci\u2019s Path through the Tension between \u201cAbsolute Historicism\u201d and Materialist Dialectics: Marxism as Historical Philosophy.Andras Gedo - 1993 - Nature, Society, and Thought 6 (1):5-6. Gramsci's Philosophy. [REVIEW]S. W. W. - 1982 - Review of Metaphysics 35 (4):888-889. Althusser and Poulantzas: Hegemony and the State.Panagiotis Sotiris - 2017 - Materialismo Storico 2 (1):115-163.",
+        "These are related to historical time, historical necessity, realism, and humanism. ;After a general description of various forms of historicism, Gramsci's use of the term 'historicism' is analyzed. The argument focuses on his definition of 'historicism' as realism.",
+        "The ambiguities of some of his concepts are elucidated, and an alternative interpretation of some of his theses will be offered. ;In the second chapter, the four uses of historicism previously elucidated are given a general interpretation in terms of related historical, sociological, and political analysis in the Quaderni."
+      ]
+    },
+    {
+      "title": "Martin Jay, Fidelity to the Event? Luk\u00e1cs\u2019 History and Class Consciousness and the Russian Revolution",
+      "url": "https://philpapers.org/rec/JAYFTT",
+      "philpapers_id": "JAYFTT",
+      "snippet": "The underlying assumption of Luk\u00e1cs\u2019 History and Class Consciousness is that \u201chistory\u201d can be understood as a unified and meaningful meta-narrative, which can be read along the lines of a realist ...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Martin Jay"
+        }
+      ],
+      "extra_snippets": [
+        "To salvage the revolutionary potential of Luk\u00e1cs\u2019 work, it has been read instead in terms of \u201cfidelity to the Event\u201d by such latter-day Leninists as Alain Badiou and Slavoj \u017di\u017eek. But their recourse to a meta-historical notion of pre-figuration and future realization is itself no less beholden to a literary or rhetorical device, that of figura, which was traced by Erich Auerbach in originally religious terms.",
+        "The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93.",
+        "Luk\u00e1cs\u2019 antinomic \u2018standpoint of the proletariat\u2019: From philosophical to socio-historical determination.Aaron Jaffe - 2020 - Thesis Eleven 157 (1):60-79.",
+        "Georg [Gy\u00f6rgy] Luk\u00e1cs.Titus Stahl - 2013 - Stanford Encyclopedia of Philosophy."
+      ]
+    },
+    {
+      "title": "Cornel West, Frederic Jameson's Marxist Hermeneutics",
+      "url": "https://philpapers.org/rec/WESFJM-2",
+      "philpapers_id": "WESFJM",
+      "snippet": "His ingenious interpretations (prior to accessible translations) of major figures of the Frankfurt School, Russian formalism, French structuralism and poststructuralism as well as of Georg Luk\u00e0cs, Jean-Paul Sartre, Louis Althusser, Max Weber and Louis Marin are significant contributions to the intellectual history of twentieth century Marxist and European thought.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Cornel West"
+        }
+      ],
+      "extra_snippets": [
+        "His ingenious interpretations (prior to accessible translations) of major figures of the Frankfurt School, Russian formalism, French structuralism and poststructuralism as well as of Georg Luk\u00e0cs, Jean-Paul Sartre, Louis Althusser, Max Weber and Louis Marin are significant contributions to the intellectual history of twentieth century Marxist and European thought.",
+        "Louis Althusser.Luke Ferretter - 2006 - New York: Routledge.",
+        "Louis Althusser and the Traditions of French Marxism.William Lewis (ed.) - 2005 - Lexington Books."
+      ]
+    }
+  ],
+  "count": 17,
+  "errors": []
+}

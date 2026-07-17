@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/s0957042x00003564"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s0957042x00003564",
+      "title": "Further Adventures of the Dialectic: Merleau-Ponty, Sartre, Althusser",
+      "authors": [
+        {
+          "family": "Elliott",
+          "given": "Gregory"
+        }
+      ],
+      "editors": [],
+      "year": 1987,
+      "container_title": "Royal Institute of Philosophy Lecture Series",
+      "volume": "21",
+      "issue": "",
+      "page": "195-214",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s0957042x00003564"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

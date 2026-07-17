@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/08913818808459543"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/08913818808459543",
+      "title": "Western Marxism: A tale of woe?",
+      "authors": [
+        {
+          "family": "Kruks",
+          "given": "Sonia"
+        }
+      ],
+      "editors": [],
+      "year": 1988,
+      "container_title": "Critical Review",
+      "volume": "2",
+      "issue": "4",
+      "page": "114-126",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/08913818808459543"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

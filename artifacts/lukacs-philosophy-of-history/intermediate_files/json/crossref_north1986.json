@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/00201748608602080"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/00201748608602080",
+      "title": "Is it worth making sense of Marx?",
+      "authors": [
+        {
+          "family": "North",
+          "given": "Douglass C."
+        }
+      ],
+      "editors": [],
+      "year": 1986,
+      "container_title": "Inquiry",
+      "volume": "29",
+      "issue": "1-4",
+      "page": "57-63",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/00201748608602080"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

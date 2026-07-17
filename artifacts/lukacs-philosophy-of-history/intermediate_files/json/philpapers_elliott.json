@@ -1,0 +1,304 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Gregory Elliott Althusser detour of theory', limit=20
+[search_philpapers.py] Retrieved 19 entries...
+[search_philpapers.py] Search complete: 19 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Gregory Elliott Althusser detour of theory",
+  "results": [
+    {
+      "title": "Gregory Elliott, Althusser: the detour of theory",
+      "url": "https://philpapers.org/rec/ELLATD",
+      "philpapers_id": "ELLATD",
+      "snippet": "Drawing on a wide range of hitherto untranslated material, it examined the political and intellectual contexts of Althusser&#x27;s `return to Marx&#x27; in the mid-1960s and proclamaed of a `crisis of Marxism&#x27;.",
+      "page_age": null,
+      "extra_snippets": [
+        "First published in 1987, Althusser, The Detour of Theory was widely received as the fullest account of its subject to date. Drawing on a wide range of hitherto untranslated material, it examined the political and intellectual contexts of Althusser's `return to Marx' in the mid-1960s and proclamaed of a `crisis of Marxism'. It concluded with a balance-sheet of Althusser's contribution to historical materialism. In this second edition, Gregory Elliott has added a substantial postscript in which he surveys the posthumous edition of the French philosopher's work.",
+        "Edited and introduced by Gregory P. Elliott, xx + 285 pp. [REVIEW]Christopher Butler - 1990 - Paragraph 13 (3):301-325. Althusser, The Infinite Farewell.Emilio de \u00cdpola - 2018 - Durham: Duke University Press. The Legal Subject in Althusser\u2019s Political Theory.Roberto Buonamano - 2014 - Law and Critique 25 (3):231-248.",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. \u201cEditorial Introduction to Louis Althusser\u2019s \u2018Letter to the Central Committee of the PCF, 18 March, 1966\u2019.\u201d.William Lewis - 2007 - Historical Materialism 15 (2):20.",
+        "The \u2018Two Marxisms\u2019 Revisited: Humanism, Structuralism and Realism in Marxist Social Theory.Sean Creaven - 2015 - Journal of Critical Realism 14 (1):7-53. Note introductive \u00e0 un document d\u2019archive de Louis Althusser, 'Lettre au Comit\u00e9 central du PCF, 18 mars 1966' .William S."
+      ]
+    },
+    {
+      "title": "Gregory Elliott (ed.), Althusser: a critical reader",
+      "url": "https://philpapers.org/rec/ELLAAC",
+      "philpapers_id": "ELLAAC",
+      "snippet": "Gregory Elliott, ed., Althusser: A Critical Reader.A. Callinicos - forthcoming - Radical Philosophy. Althusser: the detour of theory.Gregory Elliott - 1987 - New York: Verso.",
+      "page_age": null,
+      "extra_snippets": [
+        "This book situates Althusser and his texts within the wider histories and cultures to which they belong, drawing in contributors from a wide range of cultures and countries.",
+        "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Althusser and the Renewal of Marxist Social Theory.Robert Paul Resch - 1992 - University of California Press. Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott, xx + 285 pp."
+      ]
+    },
+    {
+      "title": "Panagiotis Sotiris, Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory",
+      "url": "https://philpapers.org/rec/SOTLAL",
+      "philpapers_id": "SOTLAL",
+      "snippet": "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985 \u00b7 Althusser: the detour of theory.Gregory Elliott - 1987 - New York: Verso.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Panagiotis Sotiris"
+        }
+      ],
+      "extra_snippets": [
+        "In the past few years there has been a renewed interest in the work of Louis Althusser, although, in some cases, this interest has been one-sided, focusing mainly on his later ...",
+        "The three books reviewed in this article, however, offer balanced and insightful overviews of the totality of Althusser's work, placing it in the wider context of Marxist political and theoretical debates and stressing both its originality and strengths, but also its contradictions.",
+        "A Theory of Literary Production by Pierre Macherey.Stephen Zelnick - 1979 - Journal of Aesthetics and Art Criticism 38 (2):213-215. Un, deux, trois, quatre, dix mille Althusser ?Yoshihiko Ichida & Fran\u00e7ois Matheron - 2002 - Multitudes 2 (2):167-178.",
+        "Reviews: William S. Lewis, Louis Althusser and the Traditions of French Marxism (Lexington Books, 2005); Louis Althusser, Philosophy of the Encounter: Later Writings, 1978\u20141987 (Verso, 2006); Alain Badiou, Infinite Thought: Truth and the Return to Philosophy (Continuum, 2003); Alain Badiou, Metapolitics (Verso, 2005); Slavoj \u017di\u017eek (ed.), Lacan: The Silent Partners (Verso, 2006)."
+      ]
+    },
+    {
+      "title": "Alasdair Macintyre, Philosophy and the Spontaneous Philosophy of the Scientists and Other Essays. Louis Althusser, Gregory Elliott, Ben Brewster, James H. Kavanagh, Thomas E. Lewis, Grahame Lock, Warren Montag",
+      "url": "https://philpapers.org/rec/MACPAT-20",
+      "philpapers_id": "MACPAT",
+      "snippet": "Edited and introduced by Gregory P. Elliott, xx + 285 pp. [REVIEW]Christopher Butler - 1990 - Paragraph 13 (3):301-325. Warren Montag, Louis Althusser.L. O. Ruairc - forthcoming - Radical Philosophy. Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory...",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Alasdair Macintyre"
+        }
+      ],
+      "extra_snippets": [
+        "Edited and introduced by Gregory P. Elliott, xx + 285 pp. [REVIEW]Christopher Butler - 1990 - Paragraph 13 (3):301-325. Warren Montag, Louis Althusser.L. O. Ruairc - forthcoming - Radical Philosophy. Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Philosophy and the Spontaneous Philosophy of The Scientists and Other Essays; Althusser and Feminism; Scientific Realism and Socialist Thought. [REVIEW]Ted Benton - 1991 - Radical Philosophy 59. Gregory Elliott, ed., Althusser: A Critical Reader.A."
+      ]
+    },
+    {
+      "title": "William Lewis, \u201cEditorial Introduction to Louis Althusser\u2019s \u2018Letter to the Central Committee of the PCF, 18 March, 1966\u2019.\u201d",
+      "url": "https://philpapers.org/rec/LEWEIT-2",
+      "philpapers_id": "LEWEIT",
+      "snippet": "Althusser: the detour of theory.Gregory Elliott - 1987 - New York: Verso.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "William Lewis"
+        }
+      ],
+      "extra_snippets": [
+        "As an accompaniment to the translation into English of Louis Althusser's 'Letter to the Central Committee of the PCF, March 18th, 1966', this note provides the historical and theoretical context necessary to understand Althusser's 'anti-humanist' interventions into French Communist Party policy decisions during the mid-1960s.",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Because nowhere else in Althusser's published writings do we see as clearly the political stakes involved in his philosophical project, nor the way in which this project evolved from a 'theoreticist' pursuit into a more practical one, the note also argues that the letter is of importance to Althusser scholars, to historians of Marxist thought, and to those interested in the relevance of Althusser's work to contemporary Marxist philosophy.",
+        "Letter to the Central Committee of the PCF, 18 March 1966.Louis Althusser - 2007 - Historical Materialism 15 (2):153-172."
+      ]
+    },
+    {
+      "title": "William S. Lewis, The Purification of Theory for Practice: Louis Althusser and the Traditions of French Marxism",
+      "url": "https://philpapers.org/rec/LEWTPO-19",
+      "philpapers_id": "LEWTPO",
+      "snippet": "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "extra_snippets": [
+        "Through tracing the articulation, rise and eventual fall of Marxist theory in France, I seek in my dissertation to show the difficulties of wedding Marxist theory to ameliorative political practices.Specifically, I follow the development of French Marxism between 1920--1965 in order to demonstrate how the thought of Althusser is a reaction to and correction of both the crude materialist philosophy of the French Communist Party and of the more sophisticated humanist Marxism of such intellectuals as Cornu, Lefebvre, Garaudy, Sartre and Merleau-Ponty.",
+        "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "I do not affect this tracing to show that Marx's notions are untenable or artificial and that they will therefore always lead to problems in their application. Instead, I argue with Louis Althusser that Marx's philosophical insights into the relationship between humans and world remain of value and that they may serve as a guide for political practice."
+      ]
+    },
+    {
+      "title": "Ted Benton, The rise and fall of structural Marxism: Althusser and his influence",
+      "url": "https://philpapers.org/rec/BENTRA-2",
+      "philpapers_id": "BENTRA",
+      "snippet": "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott, xx + 285 pp.",
+      "page_age": null,
+      "extra_snippets": [
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott, xx + 285 pp.",
+        "Entrepreneurial subjectivity and the political economy of daily life in the time of finance.Niamh Mulcahy - 2017 - European Journal of Social Theory 20 (2):216-235. Critical Realism and the Althusserian Legacy.Brian O\u2019 Boyle & Terrence McDonough - 2016 - Journal for the Theory of Social Behaviour 46 (2):143-164.",
+        "Althusser and the Renewal of Marxist Social Theory.Robert Paul Resch - 1992 - University of California Press.",
+        "The Purification of Theory for Practice: Louis Althusser and the Traditions of French Marxism.William S."
+      ]
+    },
+    {
+      "title": "Gregory Elliott, The Lonely Hour of the Last Instance: Louis Pierre Althusser, 1918\u20131990",
+      "url": "https://philpapers.org/rec/ELLTLH",
+      "philpapers_id": "ELLTLH",
+      "snippet": "Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott , xx + 285 pp.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Gregory Elliott"
+        }
+      ],
+      "extra_snippets": [
+        "Obituary: Louis Pierre Althusser, 1918-1990.Gregory Elliott - 1991 - Radical Philosophy 57.",
+        "Gregory Elliott, ed., Althusser: A Critical Reader.A.",
+        "Philosophy and the Spontaneous Philosophy of the Scientists and Other Essays. Louis Althusser, Gregory Elliott, Ben Brewster, James H. Kavanagh, Thomas E."
+      ]
+    },
+    {
+      "title": "Steven B. Smith, Reading Althusser: an essay on structural Marxism",
+      "url": "https://philpapers.org/rec/SMIRAA",
+      "philpapers_id": "SMIRAA",
+      "snippet": "Edited and introduced by Gregory P. Elliott , xx + 285 pp. [REVIEW]Christopher Butler - 1990 - Paragraph 13 (3):301-325. Louis Althusser and the Traditions of French Marxism.William S. Lewis - 2005 - Lexington Books. Castoriadis on Althusser and the Crisis of Marxism.Christos Memos - 2012 - Cosmos and History : The Journal of Natural and Social Philosophy 8 (2):100-116. Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "Edited and introduced by Gregory P. Elliott , xx + 285 pp. [REVIEW]Christopher Butler - 1990 - Paragraph 13 (3):301-325. Louis Althusser and the Traditions of French Marxism.William S. Lewis - 2005 - Lexington Books. Castoriadis on Althusser and the Crisis of Marxism.Christos Memos - 2012 - Cosmos and History : The Journal of Natural and Social Philosophy 8 (2):100-116. Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Steven B. Smith, \"Reading Althusser: An Essay on Structural Marxism\". [REVIEW]Robert Resch - 1986 - Theory and Society 15 (6):921.",
+        "Althusser and the Renewal of Marxist Social Theory.Robert Paul Resch - 1992 - University of California Press."
+      ]
+    },
+    {
+      "title": "Louis Althusser, Philosophy of the encounter: later writings, 1978-87",
+      "url": "https://philpapers.org/rec/ALTPOT",
+      "philpapers_id": "ALTPOT",
+      "snippet": "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "extra_snippets": [
+        "From Althusser's most prolific period, this book is destined to become a classic.In the late 1970s and 1980s, Louis Althusser endured a period of intense mental ...",
+        "Le mate\u0301rialisme politique de Louis Althusser.Fabio Bruschi - 2020 - [Paris]: Postmodern Materialism and the Future of Marxist Theory: Essays in the Althusserian Tradition.Antonio Callari & David F.",
+        "Studying like a communist: Affect, the Party, and the educational limits to capitalism.Derek R. Ford - 2017 - Educational Philosophy and Theory 49 (5):452-461. \u2018Rideaux rouges\u2019: The Scene of Ideology and the Closure of Representation.Thomas Cl\u00e9ment Mercier - 2022 - Derrida Today 15 (1):5-30. More Than One Encounter: Exploring the Second-Person Perspective and the In-Between.Hansen Bjarke M\u00f8rk\u00f8re Stigel - 2024 - Open Philosophy 7 (1):81-6. Rethinking Structure and Conjuncture in Althusser.Panagiotis Sotiris - 2014 - Historical Materialism 22 (3-4):5-51.",
+        "Althusser: das Schweigen im Text : Epistemologie, Psychoanalyse und Nominalismus in Louis Althussers Theorie der Lekt\u00fcre.Robert Pfaller - 1997"
+      ]
+    },
+    {
+      "title": "Roland Boer, Althusser, Myth & Genesis 1-3",
+      "url": "https://philpapers.org/rec/BOEAMA",
+      "philpapers_id": "BOEAMA",
+      "snippet": "Thinking with borrowed concepts: Althusser and Lacan.David Macey - 1994 - In Gregory Elliott (ed.), Althusser: A Critical Reader.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Roland Boer"
+        }
+      ],
+      "extra_snippets": [
+        "Althusser, structuralism, and the French epistemological tradition.Peter Dews - 1994 - In Gregory Elliott (ed.), Althusser: A Critical Reader. Blackwell. pp. 104--141. Althusser's Marx, Althusser's Lacan.Mich\u00e8le Barrett - 1993 - In E. Ann Kaplan & Michael Sprinker (eds.), The Althusserian Legacy. Verso. pp. 169--82. Althusser in literary studies'.Francis Mulhern - 1994 - In Gregory Elliott (ed.), Althusser: A Critical Reader.",
+        "Thinking with borrowed concepts: Althusser and Lacan.David Macey - 1994 - In Gregory Elliott (ed.), Althusser: A Critical Reader.",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Philosophy of the Encounter: Later Writings, 1978-87.Louis Althusser - 2006 - Verso."
+      ]
+    },
+    {
+      "title": "Louis Althusser, Olivier Corpet, Yann Moulier Boutang & Richard Veasey, The Future Lasts a Long Time: And, The Facts",
+      "url": "https://philpapers.org/rec/ALTTFL-2",
+      "philpapers_id": "ALTTFL",
+      "snippet": "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985 \u00b7 Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+      "page_age": null,
+      "extra_snippets": [
+        "On the morning of 16th November 1980, the French Marxist philosopher Louis Althusser burst out of his university apartment into the courtyard of the Ecole Normale, screaming that he had killed his wife.",
+        "The First Death of Louis Althusser or Totality's Revenge.Ned Jackson - 1996 - History and Theory 35 (1):131-146.",
+        "The Future Lasts a Long Time and The Facts, The Althusserian Legacy.",
+        "Louis Althusser, The Future Lasts a Long Time and The Facts; E. Ann Kaplan and Michael Sprinker (eds), The Althusserian Legacy.D."
+      ]
+    },
+    {
+      "title": "Louis Althusser, The humanist controversy and other writings, 1966-67",
+      "url": "https://philpapers.org/rec/ALTTHC",
+      "philpapers_id": "ALTTHC",
+      "snippet": "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "extra_snippets": [
+        "The philosophical conjuncture and Marxist theoretical research -- On L\u00e9vi-Strauss -- Three notes on the theory of discourses -- On Feuerbach -- The historical task of Marxist philosophy -- The humanist controversy. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... 1. Althusser, Louis, The Humanist Controversy and Other Writings, 1966\u201367, trans.",
+        "Le mate\u0301rialisme politique de Louis Althusser.Fabio Bruschi - 2020 - [Paris]: Mimesis. The Humanist Controversy and Other Writings; Critical Humanisms: Humanist/Anti-Humanist Dialogue. [REVIEW]Nina Power - 2004 - Radical Philosophy 124. The Marxist-Humanist Theory of State Capitalism.",
+        "Louis Althusser, The Humanist Controversy and Other Writings Martin Halliwell and Andy Mousley, Critical Humanisms: Humanist/Anti-Humanist Dialogue.N.",
+        "\u201cEditorial Introduction to Louis Althusser\u2019s \u2018Letter to the Central Committee of the PCF, 18 March, 1966\u2019.\u201d.William Lewis - 2007 - Historical Materialism 15 (2):20."
+      ]
+    },
+    {
+      "title": "William Lewis, Louis Althusser",
+      "url": "https://philpapers.org/rec/LEWLA",
+      "philpapers_id": "LEWLA",
+      "snippet": "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "William Lewis"
+        }
+      ],
+      "extra_snippets": [
+        "Literaturverzeichnis.Sebastian Neubauer - 2023 - In Louis Althusser und das politische Denken der Fr\u00fchen Neuzeit: Zwischen Marx und der postmarxistischen Theorie. Baden-Baden: Nomos Verlagsgesellschaft mbH & Co. KG. pp. 361-375. Building Beauty: Kantian aesthetics in a time of dark ecology.K. August - unknown ... Encountering Althusser: politics and materialism in contemporary radical thought.Katja Diefenbach (ed.)",
+        "Louis Althusser.Susan James - 1985 - In Quentin Skinner, The Return of grand theory in the human sciences. New York: Cambridge University Press.",
+        "Althusser and the Renewal of Marxist Social Theory.Robert Paul Resch - 1992 - University of California Press.",
+        "Louis Althusser.\u0130nsan Bilimlerinde Psikanalizin Yeri - 2006 - Cogito 49:117."
+      ]
+    },
+    {
+      "title": "Luke Ferretter, Louis Althusser",
+      "url": "https://philpapers.org/rec/FERLA",
+      "philpapers_id": "FERLA",
+      "snippet": "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142. Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "extra_snippets": [
+        "Best known for his theories of ideology and its impact on politics and culture Louis Althusser revolutionized Marxist theory. His writing changed the face of literary and cultural studies and continues to influence political modes of criticism such as feminism, postcolonialism and queer theory.",
+        "Beginning with an introduction to the crucial context of Marxist theory, this book goes on to explain: - How Althusser interpreted and developed Marx's work - The political implications of reading - Ideology and its significance for culture and criticism - Althusser's aesthetic criticism of literature, theatre and art Placing Althusser's key ideas in the context of earlier Marxist thought, as well as tracing their development and impact, Luke Ferretter provides a wide-ranging yet accessible guide, ideal for those new to the work of this influential critical thinker.",
+        "Louis Althusser and the problems of a marxist theory of structure.Michael Kelly - unknown \u00b7 Louis Althusser.Justice Duty - 1999 - In Jessica Evans & Stuart Hall, Visual culture: the reader. Thousand Oaks: SAGE Publications in association with the Open University. pp. 317. Louis Althusser.Susan James - 1985 - In Quentin Skinner, The Return of grand theory in the human sciences."
+      ]
+    },
+    {
+      "title": "Katarzyna Bieli\u0144ska-Kowalewska, Siemek and Althusser",
+      "url": "https://philpapers.org/rec/BIESAA-2",
+      "philpapers_id": "BIESAA",
+      "snippet": "Althusser: the detour of theory.Gregory Elliott - 2006 - Chicago, IL: Haymarket Books.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Katarzyna Bieli\u0144ska-Kowalewska"
+        }
+      ],
+      "extra_snippets": [
+        "The paper analyses relations between Marek J. Siemek\u2019s views and Louis Althusser\u2019s Marxism. The French philosophical tradition, especially structuralism, plays an important role in Siemek\u2019s standpoint which overcomes the opposition between ...",
+        "Law, Recognition and Labor. Some Remarks on Marek Siemek\u2019s Theory of Modernity.Janusz Ostrowski - 2009 - Dialogue and Universalism 19 (3-5):237-244."
+      ]
+    },
+    {
+      "title": "Antonio Callari & David F. Ruccio, Postmodern Materialism and the Future of Marxist Theory: Essays in the Althusserian Tradition",
+      "url": "https://philpapers.org/rec/CALPMA",
+      "philpapers_id": "CALPMA",
+      "snippet": "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Antonio Callari"
+        },
+        {
+          "type": "person",
+          "name": "David F. Ruccio"
+        }
+      ],
+      "extra_snippets": [
+        "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+        "Le mate\u0301rialisme politique de Louis Althusser.Fabio Bruschi - 2020 - [Paris]: Mimesis.",
+        "Spinoza and Political Critique:: Thinking the Political in the Wake of Althusser.Caroline Williams - 1900 - University of Wales Press.",
+        "Rethinking Structure and Conjuncture in Althusser.Panagiotis Sotiris - 2014 - Historical Materialism 22 (3-4):5-51."
+      ]
+    },
+    {
+      "title": "Pierre Raymond, Althusser philosophe",
+      "url": "https://philpapers.org/rec/RAYAP",
+      "philpapers_id": "RAYAP",
+      "snippet": "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+      "page_age": null,
+      "extra_snippets": [
+        "Louis Althusser a voulu \u00e9tablir une liaison forte entre les mouvements populaires et la philosophie. Au centre de cette tentative : ses rapports avec Marx, Montesquieu, Spinoza, Hegel. Et quelques questions, \u00e0 ses yeux d\u00e9cisives : la dialectique, l'humanisme, la religion, le mat\u00e9rialisme.",
+        "Louis Althusser and the Politics of Theory.Gregory Elliott - 1985",
+        "Louis Althusser Louis Althusser and the Traditions of French Marxism Althusser: The Detour of Theory.Panagiotis Sotiris - 2009 - Historical Materialism 17 (4):121-142.",
+        "Althusser: das Schweigen im Text : Epistemologie, Psychoanalyse und Nominalismus in Louis Althussers Theorie der Lekt\u00fcre.Robert Pfaller - 1997"
+      ]
+    },
+    {
+      "title": "Louis Althusser, Philosophy and the spontaneous philosophy of the scientists & other essays",
+      "url": "https://philpapers.org/rec/ALTPAT",
+      "philpapers_id": "ALTPAT",
+      "snippet": "Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott, xx + 285 pp.",
+      "page_age": null,
+      "extra_snippets": [
+        "New York: Verso. Edited by Gregory Elliott (1990) ... Theory, theoretical practice, and theoretical formation -- On theoretical work -- Philosophy and the spontaneous philosophy of the scientists (1967) -- Lenin and philosophy -- Is it simple to be a Marxist in philosophy?",
+        "Spinoza, Marx, Althusser: \u2018Structural Marxism\u2019 revisitedLouis Althusser, \u2018Philosophy and the Spontaneous Philosophy of the Scientists\u2019 and other essays. Edited and introduced by Gregory P. Elliott, xx + 285 pp.",
+        "Philosophy and the Spontaneous Philosophy of the Scientists and Other Essays. Louis Althusser, Gregory Elliott, Ben Brewster, James H. Kavanagh, Thomas E.",
+        "Althusser and the Concept of the Spontaneous Philosophy of Scientists.Pierre Macherey - 2009 - Parrhesia 6:14-27. Postmodern Materialism and the Future of Marxist Theory: Essays in the Althusserian Tradition.Antonio Callari & David F."
+      ]
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

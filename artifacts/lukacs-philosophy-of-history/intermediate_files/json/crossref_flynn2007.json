@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11007-007-9053-6"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11007-007-9053-6",
+      "title": "The development of the political philosophy of Merleau-Ponty",
+      "authors": [
+        {
+          "family": "Flynn",
+          "given": "Bernard"
+        }
+      ],
+      "editors": [],
+      "year": 2007,
+      "container_title": "Continental Philosophy Review",
+      "volume": "40",
+      "issue": "2",
+      "page": "125-138",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11007-007-9053-6"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
