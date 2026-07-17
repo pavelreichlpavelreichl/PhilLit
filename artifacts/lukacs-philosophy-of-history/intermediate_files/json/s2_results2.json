@@ -1,0 +1,48 @@
+[s2_search.py] Searching Semantic Scholar: 'Lukacs History and Class Consciousness 1967 preface self-criticism' (year=1990-2025), limit=20
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_1254cd9e6621bda3)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Lukacs History and Class Consciousness 1967 preface self-criticism",
+  "results": [
+    {
+      "paperId": "e6cd70851e56d7d432e8c5d8cea244c4e9bfc0ac",
+      "title": "Theory of the Novel: An Historical Approach",
+      "authors": [
+        {
+          "name": "M. Galchinsky",
+          "authorId": "116908326"
+        },
+        {
+          "name": "C. Ash",
+          "authorId": "79611035"
+        },
+        {
+          "name": "Laura Moakler",
+          "authorId": "120718171"
+        },
+        {
+          "name": "Michael Mckeon",
+          "authorId": "144291716"
+        }
+      ],
+      "year": 2001,
+      "abstract": null,
+      "citationCount": 111,
+      "doi": "10.2307/3202078",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e6cd70851e56d7d432e8c5d8cea244c4e9bfc0ac",
+      "venue": "",
+      "journal": {
+        "name": "South Atlantic Review",
+        "pages": "179",
+        "volume": "66"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

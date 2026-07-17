@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.17234/ZGB.29.2
+[verify_paper.py] DOI verified: Young Georg Lukács as a Crisis Thinker. Subjectivi...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.17234/ZGB.29.2"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.17234/zgb.29.2",
+      "title": "Young Georg Luk\u00e1cs as a Crisis Thinker. Subjectivism and the Problem of Form",
+      "authors": [
+        {
+          "family": "Gilbert",
+          "given": "Andrew Simon"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Zagreber germanistische Beitr\u00e4ge",
+      "volume": "29",
+      "issue": "",
+      "page": "15-37",
+      "publisher": "Faculty of Humanities and Social Sciences, University of Zagreb",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.17234/zgb.29.2"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

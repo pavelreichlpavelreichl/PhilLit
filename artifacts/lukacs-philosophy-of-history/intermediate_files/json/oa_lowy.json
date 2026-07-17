@@ -1,0 +1,176 @@
+[search_openalex.py] Searching OpenAlex: 'Georg Lukacs From Romanticism to Bolshevism Lowy', limit=25
+[search_openalex.py] Retrieved 5 papers...
+[search_openalex.py] Search complete: 5 papers found
+[search_openalex.py] Cached results (cache key: openalex_31718bc414421836)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Georg Lukacs From Romanticism to Bolshevism Lowy",
+  "results": [
+    {
+      "openalex_id": "W2086073578",
+      "doi": "10.1177/072551368100300118",
+      "title": "Book Reviews : Michael Lowy, Georg Lukacs: From Romanticism to Bolshevism, New Left Books, London, 1979 (rrp A$32.00). Andrew Arato &amp; Paul Breines, The Young Lukacs and the Origins of Western Marxism, Pluto Press, London, 1979 (rrp A$14.95)",
+      "authors": [
+        {
+          "name": "John Murphy",
+          "openalex_id": "A5090991647",
+          "orcid": "https://orcid.org/0000-0003-0200-7778"
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-05-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Thesis Eleven",
+        "type": "journal",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2086073578"
+    },
+    {
+      "openalex_id": "W4231084330",
+      "doi": "10.1080/03017608008413268",
+      "title": "Book notes",
+      "authors": [],
+      "publication_year": 1980,
+      "publication_date": "1980-12-01",
+      "abstract": "Atkinson, Dorothy; Dallin, Alexander; Warshofsky Lapidus, Gail (eds), Women in Russia, Harvester Press, Sussex, 1978, pp. 410, \u00a311.50. Beloff, Nora, No Travel Like Russian Travel, Allen & Unwin, London, 1979, pp. 185, \u00a35.95. Bettelheim, Charles, Class Struggles in the USSR: Second Period 1923\u20131930, Harvester Press, Sussex, 1978, pp. 640, \u00a312.50. Bromke, Adam and Novak, Derry, (eds.) The Communist States in the Era of Detente 1971\u20131977, Mosaic Press, Oakville, Canada, 1978, pp. 305. $7.95. Cahm, Eric and Fisera, Vladimir, (eds.), Socialism and Nationalism, Vol 2, Spokesman, Nottingham, 1979, pp. 132, \u00a32.50. Camiller, Patrick and Rothschild, John, (trs), Power and Opposition in Post Revolutionary Societies, Ink Links, London, 1979, pp. 281, \u00a37.95 cloth, \u00a33.50 paper. Dukes, Paul, October and the World, MacMillan, London, 1979, pp. 224, \u00a310.00 cloth, \u00a34.95 paper. Michael Ellman, Socialist Planning, Cambridge University Press, London 1979, pp. 300, Cloth \u00a315.00. Fine, Ben and Harris, Lawrence, Rereading Capital, MacMillan, London, 1979, pp. 184, \u00a37.95 cloth, \u00a33.50 paper. Giddens, Andrew, Central Problems in Social Theory, MacMillan, London, 1979, pp. 294, \u00a310.00 cloth, \u00a33.95 paper. Carl Gardener, (ed), Media, Politics and Culture. A Socialist View, MacMillan, London 1979, pp. 197 \u00a38.95 Oskar Hippe: . .. Und unsere Fahn \u2018ist rot: Erinnerungen an sechzig Jahre in der Arbeiterbewegung. Junius Verlag, Hamburg, 1979, pp.286, DM 20. Peter Kulemann: Am Beispiel des Austro\u2010Marxismus: Sozialdemokratische Arbeiterbewegung in Osterreich von Hainfeld bis zur Dollfuss\u2010Diktatur. Junius Verlag, Hamburg, 507pp., DM28. Lenin, V.I., and Trotsky, L., Kronstadt, Monad Press, New York, 1979, pp. 159, \u00a31.50. Liebich, Andre (ed), The Future of Socialism in Europe, Interuniversity Centre for European Studies, Montreal, 1979, pp. 328, $15.00. Lowy, Michael, Georg Lukacs: From Romanticism to Bolshevism, NLB, London, 1979, pp. 219, \u00a310.95. Markovic, M., and Petrovic, G. (eds), Praxis, D. Reidel Publishing Co., Dordrecht, 1979, pp. 403, $55.30 cloth, $23.70 paper. Medvedev, Zhores, Soviet Science, Oxford University Press, Oxford, 1979, pp. 262, \u00a35.95. Norton, T.M., and Ollman, Bertell, Studies in Socialist Pedagogy, Monthly Review Press, New York and London, 1978, pp. 405, \u00a39.75. Poster, Mark, Sartre's Marxism, Pluto Press, London, 1979, pp. 133, \u00a32.95. E. A. Preobrazhensky: The Crisis of Soviet Industrialisation/Selected Essays, Edited with Introduction by D. Filtzer, M. E. Sharpe Inc., New York, 1979, pp. 275, $25. Rose, Michael, Servants of Post\u2010Industrial Power?, Sociologie du Travail in Modern France, Mac\u2010Millan, London, 1979, pp. 226, \u00a312.00. Rubin, I.I., A History of Economic Thought, Inklinks, London, 1979, pp.440, \u00a35.95, paper, \u00a312.00 cloth. Trotsky, L., Writings, Supplement 1929\u201333, Pathfinder, New York, 1979, pp.428, $5.45. Some 300 letters and articles additional to the major collection of Trotsky's works produced by Pathfinder. Trotsky, L., 1879\u20131940: In den Augen von Zeitgenossen, Junius Verlag, Hamburg, 1979, 190, DM16. Trotsky, L., How the Revolution Armed: Vol 1, 1918: The Military Writings and Speeches of Leon Trotsky, New Park, London, 1979, pp.592, \u00a310. Wald, A.M., James T. Farrell: The Revolutionary Socialist Years, New York University Press, New York, 1978, pp. 190.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Critique",
+        "type": "journal",
+        "issn": [
+          "0301-7605",
+          "1748-8605"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms",
+        "Soviet and Russian History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4231084330"
+    },
+    {
+      "openalex_id": "W4388028154",
+      "doi": "10.1590/0101-3173.2024.v47.n1.e0240004",
+      "title": "Reflections on Luk\u00e1cs\u2019 realist view of literature from a literary-critical and philosophical perspective",
+      "authors": [
+        {
+          "name": "Hui Zhang",
+          "openalex_id": "A5101772783",
+          "orcid": "https://orcid.org/0009-0009-7631-5598",
+          "institutions": [
+            "Chongqing Technology and Business University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-30",
+      "abstract": "Abstract: In the age of scientism, it is not a surprise to revisit Luk\u00e1cs\u2019 realist view of literature. Although some scholars have criticized his holism view, his realist view of literature is exactly what the times need, in terms of its concern for the reality of human life and its criticism of social reality. This general view is useful in realizing the realistic effect of literary criticism based on the criticism of an irrational general view. However, people overlook this point when criticizing his general and ideological view. His \u201crealism\u201d is not the same as the \u201cimitation\u201d of classical realism, nor is it the same as the \u201creproduction\u201d of critical realism. The creation of art, including literature, is not just a simple adherence to social reality, but a reflection of the overall historical social reality through archetypes.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Trans/Form/A\u00e7\u00e3o",
+        "type": "journal",
+        "issn": [
+          "0101-3173",
+          "1980-539X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.scielo.br/j/trans/a/9fMw8ppKfxvwGZjFCVzKj4c/?lang=en&format=pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W4388028154"
+    },
+    {
+      "openalex_id": "W178415999",
+      "doi": "10.12681/eadd/0929",
+      "title": "\u0395\u039d\u0399\u0391\u0399\u039f\u03a3 \u039c\u0391\u03a1\u039e\u0399\u039a\u039f\u03a3 \u039b\u039f\u0393\u039f\u03a3 \u039a\u0391\u0399 \u0399\u0394\u0395\u039f\u039b\u039f\u0393\u0399\u0391",
+      "authors": [
+        {
+          "name": "\u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a3 \u03a7\u03a1\u03a5\u03a3\u0397\u03a3",
+          "openalex_id": "A5097609069"
+        }
+      ],
+      "publication_year": 1988,
+      "publication_date": "1988-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10442/hedi/0929"
+      },
+      "topics": [
+        "Classical Antiquity Studies",
+        "Byzantine Studies and History"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W178415999"
+    },
+    {
+      "openalex_id": "W2483994138",
+      "doi": null,
+      "title": "Arnold Hauser (1892-1978): biograf\u00eda intelectual de un marxista rom\u00e1ntico",
+      "authors": [
+        {
+          "name": "Daria Saccone",
+          "openalex_id": "A5084742471"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-05",
+      "abstract": "Este estudio es una biograf\u00eda intelectual del historiador y te\u00f3rico del arte marxista Arnold Hauser. A la luz del recorrido biogr\u00e1fico y del bagaje cultural del autor, se examina toda su obra y se discuten en particular los temas m\u00e1s caracter\u00edsticos de su teor\u00eda: la cuesti\u00f3n del arte como superestructura ideol\u00f3gica, el arte como consuelo ante el caos de la existencia y el arte como producto de la industria cultural. Adem\u00e1s se analiza un ensayo en particular \u2013Manierismo\u2013 en tanto que summa te\u00f3rica del autor. A trav\u00e9s de estas investigaciones se extraen las caracter\u00edsticas principales de un pensador complejo en cuya identidad intelectual coexist\u00edan la tradici\u00f3n rom\u00e1ntica alemana y la teor\u00eda del arte marxista.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Tesis Doctorals en Xarxa (Consorci de Serveis Universitaris de Catalunya)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10803/384311"
+      },
+      "topics": [
+        "Italian Literature and Culture",
+        "Philosophical Thought and Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2483994138"
+    }
+  ],
+  "count": 5,
+  "errors": []
+}

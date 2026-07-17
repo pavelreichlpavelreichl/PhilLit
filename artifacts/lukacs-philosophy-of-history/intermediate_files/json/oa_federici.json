@@ -1,0 +1,388 @@
+[search_openalex.py] Searching OpenAlex: 'Federici Development of Lukacs Realism', limit=25
+[search_openalex.py] Retrieved 10 papers...
+[search_openalex.py] Search complete: 10 papers found
+[search_openalex.py] Cached results (cache key: openalex_37e0b79a112636ae)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Federici Development of Lukacs Realism",
+  "results": [
+    {
+      "openalex_id": "W4405386029",
+      "doi": "10.1080/17483107.2024.2435571",
+      "title": "Factors influencing adoption and sustained use of rehabilitation technologies: a scoping review and qualitative analysis",
+      "authors": [
+        {
+          "name": "Sharon Olsen",
+          "openalex_id": "A5082748167",
+          "orcid": "https://orcid.org/0000-0002-7453-9127",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Xiao Min Lilian Lim",
+          "openalex_id": "A5115439089",
+          "institutions": [
+            "Auckland University of Technology",
+            "Suburban Community Hospital"
+          ]
+        },
+        {
+          "name": "Gemma Alder",
+          "openalex_id": "A5048955922",
+          "orcid": "https://orcid.org/0000-0002-8833-0375",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Verna Stavric",
+          "openalex_id": "A5081465071",
+          "orcid": "https://orcid.org/0000-0002-9144-4189",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Nada Signal",
+          "openalex_id": "A5044108136",
+          "orcid": "https://orcid.org/0000-0001-9595-0532",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-13",
+      "abstract": "PURPOSE: Rehabilitation technology (RT) development has grown, however evidence suggests poor uptake by therapists and patients, with many devices abandoned. Successful implementation encompasses both \"adoption,\" where RT is first utilized, and \"sustained use,\" wherein RT remains in use over time. This scoping review and qualitative analysis aimed to explore the extent and nature of the relevant evidence base and investigate factors that influence adoption and sustained use of RT in clinical practice, from the perspectives of patients and therapists. METHODS: A systematic search was conducted to identify qualitative and quantitative articles investigating adoption and/or sustained use of RT. Study characteristics were analyzed quantitatively. Factors influencing adoption and sustained use were analyzed using a two-stage thematic analysis. Stage 1 employed an inductive approach, analyzing data related to RT adoption from review papers. Stage 2 employed an abductive approach, where data related to sustained use from primary research and reviews was mapped to Stage 1 themes and new themes were identified. RESULTS: The review included 42 articles. The majority of articles explored RT adoption. Thematic analysis revealed five themes. Four influenced adoption of RT: (1) \"Knowledge\" about RT; (2) \"Design\" of RT; (3) \"Circumstances and Characteristics;\" and, (4) the \"Person-centered\" approach. These were confirmed and refined in the sustained use analysis, and a fifth theme, \"Healthcare Ecosystem,\" was identified. CONCLUSION: These findings highlight factors influencing adoption and sustained use of RT, providing insights for development and implementation of technology in rehabilitation clinical practice. Further research is needed to identify strategies that facilitate sustained use of RT.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Disability and Rehabilitation Assistive Technology",
+        "type": "journal",
+        "issn": [
+          "1748-3107",
+          "1748-3115"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17483107.2024.2435571"
+      },
+      "topics": [
+        "Stroke Rehabilitation and Recovery",
+        "Assistive Technology in Communication and Mobility",
+        "Occupational Therapy Practice and Research"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W4405386029"
+    },
+    {
+      "openalex_id": "W1849671009",
+      "doi": "10.18745/th.16331",
+      "title": "Contrasting Debates and Perspectives from Second and Third Wave Feminists in Britain: Class, Work and Activism",
+      "authors": [
+        {
+          "name": "Lindsey German",
+          "openalex_id": "A5108495619"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-20",
+      "abstract": "The dissertation rests firstly on the author\u2019s previously published work (German, 1989; German, 2007; German, 2013) which attempted to analyse the position of women in British society in terms of their relationship to class, work and oppression; and secondly on original research in the form of interviews with a number of Second Wave and Third Wave feminists, which aimed to elicit their responses to a variety of questions in relation to class, women\u2019s role at work, and feminist activism. The aim is to contrast the expectations and influences of the different generations of feminists in order to understand what has motivated them and what issues continued to be important for them. The research investigates differences between the two groups of women, considering the extent to which this reflects the different economic and social circumstances in which they were shaped politically. It argues that there is a strong ideological commitment to women\u2019s equality across the different age groups, itself based on the inability of successive generations to achieve full equality, but that there are considerable differences of approach to activism and campaigning priorities, as well as to some theoretical questions. It considers the extent to which the Third Wave reflects a fragmentation from Second Wave approaches. It argues that the continued centrality of class in understanding women\u2019s oppression and other forms of oppression is related to the discrepancy between the expectations of oppressed groups for equality and capitalism\u2019s structural inability to deliver such equality.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "University of Hertfordshire Research Archive (University of Hertfordshire)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2299/16331"
+      },
+      "topics": [
+        "Gender, Feminism, and Media",
+        "Cultural Industries and Urban Development",
+        "Music History and Culture"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W1849671009"
+    },
+    {
+      "openalex_id": "W226884807",
+      "doi": "10.5840/humanitas2011241/22",
+      "title": "More than 'Parchment Barriers': The Ethical Center of American Constitutionalism",
+      "authors": [
+        {
+          "name": "Michael P. Federici",
+          "openalex_id": "A5083473983",
+          "institutions": [
+            "Mercyhurst University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Much has been written in the past century about the state of American constitutionaHsm and the poUtical culture that serves as its animating force.Some scholars have argued that American constitutionalism has evolved so far from its founding principles that political practice today would be unrecognizable by the eighteenth-century Framers.These critics submit that the way to restore constitutionalism to its original form lies in insisting that public officials, and especially judges, abide by the Framers' constitutional intent.Before one can assess such claims, it is necessary to analyze several aspects of American constitutionalism.We must understand not only what constitutionalism is, but also what is required to maintain a constitutional order over time.This analysis must include attention to the historical, theoretical, and ethical characteristics of constitutionalism.More specifically, it involves developing an understanding of the relationship between liberty and power as well as that between the written and unwritten constitutions.Within the context of the unwritten constitution, central problems of order are discovered.These relate to the kind of character and personality re-",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Humanitas",
+        "type": "journal",
+        "issn": [
+          "1066-7210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.pdcnet.org/collection/fshow?id=humanitas_2011_0024_0001_0028_0054&pdfname=humanitas_2011_0024_0001_0028_0054.pdf&file_type=pdf"
+      },
+      "topics": [
+        "American Constitutional Law and Politics",
+        "Legal Systems and Judicial Processes"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W226884807"
+    },
+    {
+      "openalex_id": "W2299725470",
+      "doi": "10.14288/1.0093546",
+      "title": "Marginalia: notes toward a science of the literary text",
+      "authors": [
+        {
+          "name": "M\u00e1ssimo Verdicchio",
+          "openalex_id": "A5034948270"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "The need for a science of the literary text is created when a startling number of critical theories succeed in mystifying rather than in clarifying the work of literature. The literary text disappears and it is replaced by one of its possible interpretations: certain aspects of the text are selected to serve as explanation for the whole. Even in more current critical trends the tendency is to subordinate the literary text to the methodology and to view it as one form of expression in an all-embracing typology of texts. In all of these cases the applied methodological canons are all foreign to the literary work in that they were elaborated to explain objects other than literature. When these canons are utilized to explain literature they are bound to give us only a partial and unsatisfactory rendering of its real complexity. To found a science of the literary text and to depart from the traditional critical approaches it is necessary first of all to define what is a literary text and what is this literariness which distinguishes it from other texts. On these bases a methodology is elaborated which is proper only to the literary text and to no other object. The manner in which we have attempted to approach the problem can be generally divided into two stages: deconstruction and reconstruction. The first stage indicates a process of demystification of the literary text by means of a critique of the basic methodological assumptions of the more dominant and current critical trends. As a result, the second stage points to the attempt to determine the laws which govern the production of the literary work: literary laws which underlie any literary work, an understanding of which is necessary to the explication of literature. This double theoretical undertaking can be more specifically subdivided into four parts: l) Marginalia: a general critical account of the basic critical fallacies of modern literary criticism; 2) Theory: a definition of the literary text and of the laws which condition literary production; 3) Theoretical Practice: the elaboration of a critical methodology developed in terms of literary laws; h) Critical Practice: the practical application of this method to a contemporary novel. In consideration of the complexity and difficulty of the task we are aware of the limitations and of the inadequacies of our own theoretical effort, and we cannot but present our findings as suggestions towards a future and more rigorous scientific elaboration. The paper itself indicates where the major obstacles are to be found and what are the major fallacies to be avoided. The main purpose of this thesis, for writer and reader alike, is then to contribute to a greater degree of critical self-clarification.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/19581"
+      },
+      "topics": [
+        "Linguistic Studies and Language Acquisition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2299725470"
+    },
+    {
+      "openalex_id": "W7110510608",
+      "doi": null,
+      "title": "Transformation of the State and Class Relations: Furthering Authoritarianism in Turkey",
+      "authors": [
+        {
+          "name": "Topal Y\u0131lmaz, Aylin",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yalman, Osman Galip",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-09",
+      "abstract": "This paper aims to contribute to the debate on the transformation of state in different historically specific contexts by problematising the concept of authoritarian neoliberalism. It intends to do so by exploring the reorganisation of social forces and transformation of state power within an authoritarian state form as exemplified by the case of Turkey. It will also attempt to refresh class analysis in order to develop a better understanding of different modalities of reproduction of labour quite often without economic and social security. This is where the Gramscian theoretical framework gains saliency in understanding specific moments of collective will formation in the context of different ideological environments. This will entail an analysis of the extent to which and the methods by which popular classes are contained so as to preclude the development of counter-hegemonic strategies. This is pertinent to come to terms with the recent political developments in Turkey which could better be conceived - rather than simply in terms of a regime change - as a shift from one authoritarian form of state to another, specification of which is yet to be theorised in the light of the authoritarian turn experienced in several other capitalist countries",
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "source": {
+        "name": "OpenMETU (Middle East Technical University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.historicalmaterialism.org/sites/default/files/2017-11/Abstracts_0.pdf"
+      },
+      "topics": [
+        "Turkey's Politics and Society",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7110510608"
+    },
+    {
+      "openalex_id": "W3138835895",
+      "doi": null,
+      "title": "\u2018Roller derby changed my life\u2019: rethinking Marxist theory of emancipatory praxis through a case study of women\u2019s flat-track roller derby",
+      "authors": [
+        {
+          "name": "Polly Lisa Bennett",
+          "openalex_id": "A5050962353"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "This thesis develops upon theories of alienation, social reproduction, ideology and emancipation through a study of how roller derby changes skaters\u2019 lives. The thesis focuses on research participants\u2019 experiences of their bodies within a women-led sport that rejects mainstream conceptions of femininity. It demonstrates how a reimagining of the body through physical activity in an alternative, liberating and mutually-supportive subculture can lead to a renewed sense of power and a rejection of internalised ideological constraints. The thesis describes a five-year, ethnographic case study of roller derby in and around Melbourne, Australia. The thesis draws upon observation of major events, and in-depth interviews with a selection of local skaters and visiting international coaches and organisers, all of whom identified with the saying \u2018roller derby changed my life\u2019. The skaters\u2019 life changes are various: leaving abusive relationships; coming out as same-sex attracted or transgender; changing their appreciation for their bodies; or \u2018finally finding myself\u2019. The thesis asks, why? It discovered several, inter-connected responses. First, freedom and fulfilment come from becoming physically strong but also competent in a technically difficult sport. Skaters coming to understand what the body can do, for the first time in their lives, is common even to those starting out. Secondly, skaters perform within a subculture that reshapes gendered subjectivity in life-changing ways. The sport\u2019s culture is not only \u2018queer accepting\u2019 but often \u2018out and proud\u2019. This leads to participants\u2019 deep reappraisals of intimate relationships and senses of self. Thirdly, the pattern of self-actualisation is connected to the sport\u2019s ethic of being run \u2018by the skater, for the skater\u2019. Participants reported finding themselves and their \u2018people\u2019 for the first time. This is intimately tied to a rethinking of their bodies in action and to resisting the constraints of mainstream femininity in new ways. Past debates regarding freedom from alienation within Marxism and critical social theory have focussed heavily on the resistance to estrangement of labour within \u2018the economy\u2019. In contrast, this thesis explores how participation in cultural activities such as sport, especially when run by the participants, may also provide examples of human flourishing. In doing this, the thesis discusses the intersections between production and social reproduction in both contributing to alienation \u2013 especially for women\u2019s and feminised bodies \u2013 and in being catalysts for social change. The thesis follows in the footsteps of Marxists such as Harry Cleaver, CLR James and Stuart Hall in emphasising the forms of social change evident in alternative cultural practice. The thesis also stands within re-theorisation of social reproduction, particularly in the work of Tithi Bhattacharya and Lise Vogel. That sport can provide radical practices of human flourishing is a rare finding in Marxist studies of sport. The thesis finds that subcultures such as roller derby provide an indication of conditions that contribute to freedom from alienation as well as of forms of social reproduction that contribute to human flourishing. The thesis concludes that conditions of freedom, mutual support and participant control must exist if alternative physical practices are truly to contribute to emancipatory praxis.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Victoria University Research Repository (Victoria University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://vuir.vu.edu.au/41780/"
+      },
+      "topics": [
+        "Sports, Gender, and Society",
+        "Gender Roles and Identity Studies",
+        "Gender, Feminism, and Media"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3138835895"
+    },
+    {
+      "openalex_id": "W30176192",
+      "doi": "10.1111/1556-4029.13845",
+      "title": "John Dewey, historiography, and the practice of history",
+      "authors": [
+        {
+          "name": "Seth J. Bartee",
+          "openalex_id": "A5024787000",
+          "institutions": [
+            "East Tennessee State University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "John Dewey was America's foremost authority on many of the critical issues in the twentieth century. Dewey dedicated his professional career as an expert on the major branches of philosophy. A neglected aspect of Dewey's philosophy is his writings on historiography, the philosophy of history, and his influence on American historians. Dewey affected several generations of historians from the Progressive historians to the practical realists of today. This study evaluates Dewey's pragmatism as a legitimate strain in American historiography. James Harvey Robinson and Charles Beard claimed Dewey as an influence. Later historians such as Richard Hofstadter and Joyce Appleby insist his methods make for more responsible-minded historians. There is enough material from American historians to assert that Dewey and Deweyan pragmatism influenced and still impacts historians into the twenty-first century.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Journal of Forensic Sciences",
+        "type": "journal",
+        "issn": [
+          "0022-1198",
+          "1556-4029"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dc.etsu.edu/etd/1859"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography",
+        "Hermeneutics and Narrative Identity",
+        "Schopenhauer and Stefan Zweig"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W30176192"
+    },
+    {
+      "openalex_id": "W4213350538",
+      "doi": "10.7765/9781526125828.00016",
+      "title": "Bibliography",
+      "authors": [
+        {
+          "name": "Andrew Hadfield",
+          "openalex_id": "A5024131106",
+          "orcid": "https://orcid.org/0000-0003-1608-9524"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-24",
+      "abstract": "Street theatre and the production of postindustrial space explores how street theatre transforms industrial space into postindustrial space. Deindustrializing communities have increasingly turned to cultural projects to commemorate industrial heritage while simultaneously generating surplus value and jobs in a changing economy. Through analysis of French street theatre companies working out of converted industrial sites, this book reveals how theatre and performance more generally participate in and make historical sense of ongoing urban and economic change. The book argues, firstly, that deindustrialization and redevelopment rely on the spatial and temporal logics of theatre and performance. Redevelopment requires theatrical events and performative acts that revise, resituate, and re-embody particular pasts. The book proposes working memory as a central metaphor for these processes. The book argues, secondly, that in contemporary France street theatre has emerged as working memory's privileged artistic form. If the transition from industrial to postindustrial space relies on theatrical logics, those logics will manifest differently depending on geographic context. The book links the proliferation of street theatre in France since the 1970s to the crisis in Fordist-Taylorist modernity. How have street theatre companies converted spaces of manufacturing into spaces of theatrical production? How do these companies (with municipal governments and developers) connect their work to the work that occurred in these spaces in the past? How do those connections manifest in theatrical events, and how do such events give shape and meaning to redevelopment? Street theatre\u2019s function is both economic and historiographic. It makes the past intelligible as past and useful to the present.",
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "Manchester University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.manchesterhive.com/downloadpdf/9781526125828/9781526125828.00016.pdf"
+      },
+      "topics": [
+        "Cultural Identity and Heritage",
+        "North African History and Literature",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 701,
+      "url": "https://openalex.org/W4213350538"
+    },
+    {
+      "openalex_id": "W2770240120",
+      "doi": null,
+      "title": "Sexing Empire : The Ontology of Racialized Gender and Sexuality in the Hemispheric Southwest through Mexican American and Chicana Narrative",
+      "authors": [
+        {
+          "name": "Bernadine Marie Hern\u00e1ndez",
+          "openalex_id": "A5083448908"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This dissertation sets out to trace the material and social relations and legacies of racialized gender and sexuality from 1870 to the contemporary moment in the hemispheric Southwest through Mexican American (Californiana, Tejana, Hispana) and Chicana narrative by examining multiple empires and governances, Spanish, Mexican, and U.S. This dissertation aims to trace the sexual economies of the Southwest in the nineteenth and early twentieth centuries to interrogate how gender and sexuality is materially used for production and reproduction and how historical relations inform notions of racialized gender and sexuality for Chicana bodies in the contemporary moment. This study traverses a long historical period not to trace a colonial historical moment, but rather, to trace a colonial and then imperial legacy of productive to unproductive racialized sexualities between dominant and subordinate populations in the Southwest. It intervenes in Chicana/o Studies, Gender and Sexuality Studies, and American literary history as it traces the shifts in economic systems and sexual economies and how those shifts after 1848 produce gender and sexual norms. In addition to this examination, this dissertation utilizes decolonial and Chicana feminist theory to interrogate how Mexicana gender and sexuality is informed by black and native bodies and how sexual economies produce material relations and racialized gender and sexuality. The literary narratives of the Mexican American and Chicana works I examine trace matters of sexualization, sex, and gender in the late nineteenth, early twentieth, and the contemporary moment, particularly the critical role sexual and gender arrangements have in creating categories of differentiation and distinguishing the subjugated from the subjugator. The social classification that racialized gender and sexuality regulates is not a fixed and/or ignored act, but rather a perversely critical one. Imperial governance in the nineteenth-century depended on the regulation and surveillance of sexual economies and their changing histories of productivity. This is the first significant point this dissertation makes. Wrestling with is the ever- evolving comparative framework between Mexican American/ Chicana, Native, and Black Studies and the co-constitutive relations between these different \"groups\" throughout history, I argue that the tensions and literary strategies used in the Mexican American narrative and legal cases I examine uncover the contradictory and co-constitutive position of Mexican American female. Lastly, the dissertation has a long historical lineage, which frames the last chapter and the discourse of the excessive Chicana in the contemporary moment. Tracing a history of gender and sexual norms in the Southwest that informs the processes of differentiation and the regulation and management of certain bodies, I utilize multiple historical flashpoints to untangle how racialized gender and sexuality informs proper subjects of the borderlands and forgets the historical elements persistent in forgetting how violent structures were formed up and against deviant and excessive racialized bodies",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/0wf2t9qk"
+      },
+      "topics": [
+        "Latin American and Latino Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2770240120"
+    },
+    {
+      "openalex_id": "W4285999074",
+      "doi": "10.1017/9781009178372.023",
+      "title": "Bibliography",
+      "authors": [],
+      "publication_year": 2022,
+      "publication_date": "2022-07-21",
+      "abstract": "A summary is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the \u2018Save PDF\u2019 action button.",
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/67FD28448968ACF4621849AE613F2005/9781009178389bib_389-422.pdf/bibliography.pdf"
+      },
+      "topics": [
+        "World Wars: History, Literature, and Impact",
+        "Race, History, and American Society",
+        "Historical Economic and Social Studies"
+      ],
+      "referenced_works_count": 547,
+      "url": "https://openalex.org/W4285999074"
+    }
+  ],
+  "count": 10,
+  "errors": []
+}

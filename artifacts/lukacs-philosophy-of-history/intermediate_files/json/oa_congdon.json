@@ -1,0 +1,1608 @@
+[search_openalex.py] Searching OpenAlex: 'The Young Lukacs Congdon', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_c4c9ea0c49aeaea8)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "The Young Lukacs Congdon",
+  "results": [
+    {
+      "openalex_id": "W2027476196",
+      "doi": null,
+      "title": "The young Luk\u00e1cs",
+      "authors": [
+        {
+          "name": "Lee Walter Congdon",
+          "openalex_id": "A5104355678"
+        }
+      ],
+      "publication_year": 1983,
+      "publication_date": "1983-01-01",
+      "abstract": "Based upon recently found manuscripts and correspondence, Young is the first comprehensive and fully researched portrait of Georg Lukacs to appear in any language. Lee Congdon finds in the young Lukacs's estrangement from his family and from Hungarian society roots for his continuing concern with the philosophic problem of alienation.The chance discovery in 1972 of Lukacs's early manuscripts and correspondence has made possible an authoritative intellectual biography of this major Marxist thinker. Congdon has mined the wealth of material in the Lukacs Archives in Budapest and drawn upon Hungarian scholarship that is all but unknown in the West. The result is a biography that reveals the relationship between the ideas Lukacs entertained, the world in which he lived, and the conditions of his personal existence.Congdon argues that Lukacs's understanding of Simmel, Dostoevski, and Hegel was profoundly affected by the world of fin de siecle Europe, the Great War, and the Russian Revolution. The evolution of Lukacs's own ideas, Congdon finds, was an expression of his relationships with three women -- Irma Siedler, Ljena Grabenko, and Gertrud Bortstieber. No one, writing in any language, has previously examined Lukacs's life and work in this context.Although Congdon acknowledges some sympathy for the young Lukacs and his enthusiasms, he shows that the brilliant and sensitive thinker, in the words of Dostoevski, started out with the idea of unrestricted freedom and . . . arrived at unrestricted despotism. The tragedy of Lukacs, he concludes, was that he hated injustice more than he loved human beings.Originally published in 1983.A UNC Press Enduring Edition -- UNC Press Enduring Editions use the latest in digital technology to make available again books from our distinguished backlist that were previously out of print. These editions are published unaltered from the original, and are presented in affordable paperback formats, bringing readers both historical and cultural value.",
+      "cited_by_count": 19,
+      "type": "book",
+      "source": {
+        "name": "Medical Entomology and Zoology",
+        "type": "journal",
+        "issn": [
+          "0424-7086",
+          "2185-5609"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Post-Communist Economic and Political Transition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2027476196"
+    },
+    {
+      "openalex_id": "W3149263688",
+      "doi": null,
+      "title": "Georg Lukacs and Organizing Class Consciousness",
+      "authors": [
+        {
+          "name": "Robert Lanning",
+          "openalex_id": "A5012782020"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-01",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "book",
+      "source": {
+        "name": "University of Minnesota Digital Conservancy (University of Minnesota)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/11299/219237"
+      },
+      "topics": [
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3149263688"
+    },
+    {
+      "openalex_id": "W3138713941",
+      "doi": "10.1136/rmdopen-2020-001435",
+      "title": "Prevalence of autoimmune diseases and other associated conditions in children and young adults with juvenile idiopathic arthritis",
+      "authors": [
+        {
+          "name": "Daniel J. Lovell",
+          "openalex_id": "A5068517463",
+          "orcid": "https://orcid.org/0000-0003-1604-0130",
+          "institutions": [
+            "Cincinnati Children's Hospital Medical Center"
+          ]
+        },
+        {
+          "name": "Bin Huang",
+          "openalex_id": "A5061534057",
+          "orcid": "https://orcid.org/0000-0001-9724-675X",
+          "institutions": [
+            "Cincinnati Children's Hospital Medical Center"
+          ]
+        },
+        {
+          "name": "Chen Chen",
+          "openalex_id": "A5103956375",
+          "orcid": "https://orcid.org/0009-0002-5110-2368",
+          "institutions": [
+            "Cincinnati Children's Hospital Medical Center"
+          ]
+        },
+        {
+          "name": "Sheila T. Angeles\u2010Han",
+          "openalex_id": "A5069429484",
+          "orcid": "https://orcid.org/0000-0002-9552-6464",
+          "institutions": [
+            "Cincinnati Children's Hospital Medical Center"
+          ]
+        },
+        {
+          "name": "Teresa A. Simon",
+          "openalex_id": "A5086239129",
+          "orcid": "https://orcid.org/0000-0003-4042-0715",
+          "institutions": [
+            "Bristol-Myers Squibb (United States)",
+            "University Physicians"
+          ]
+        },
+        {
+          "name": "Hermine I. Brunner",
+          "openalex_id": "A5021386589",
+          "orcid": "https://orcid.org/0000-0001-9478-2987",
+          "institutions": [
+            "Cincinnati Children's Hospital Medical Center"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-01",
+      "abstract": "OBJECTIVE: Many autoimmune diseases share common pathogenic mechanisms; however, there are limited studies quantifying the coexistence of autoimmune diseases and associated conditions in patients with juvenile idiopathic arthritis (JIA). This large US-based study estimated and compared the prevalence of multiple coexisting autoimmune diseases in patients with JIA with a general paediatric (GP) patient population. METHODS: This retrospective cohort study was conducted using registry data from the Cincinnati Children's Hospital Medical Center (January 2010-October 2018). The prevalence of multiple autoimmune diseases was estimated in patients (age <21 years) with JIA and a control group from the GP patient population. Crude prevalences of 26 prespecified autoimmune diseases and associated conditions were compared using Bayesian Poisson regression modelling for each year up to the end of the study period. RESULTS: Overall, 2026 patients were included in the JIA cohort and 41 572 in the GP cohort. Of 26 autoimmune diseases and associated conditions evaluated, 14 (53.8%) had a significantly higher prevalence in the JIA cohort compared with the GP cohort. In total, seven (26.9%) autoimmune diseases or associated conditions had a >20-fold increased prevalence in the JIA cohort compared with the GP cohort. CONCLUSION: In this study, patients with JIA had a greater prevalence of a large number of coexisting autoimmune diseases and associated conditions compared with the GP population. Physicians should consider coexisting autoimmune diseases in the treatment and management of patients with JIA.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": {
+        "name": "RMD Open",
+        "type": "journal",
+        "issn": [
+          "2056-5933"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://rmdopen.bmj.com/content/rmdopen/7/1/e001435.full.pdf"
+      },
+      "topics": [
+        "Autoimmune and Inflammatory Disorders Research",
+        "Systemic Lupus Erythematosus Research",
+        "Adolescent and Pediatric Healthcare"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W3138713941"
+    },
+    {
+      "openalex_id": "W1604522551",
+      "doi": null,
+      "title": "Cat-Map: putting cataract on the map.",
+      "authors": [
+        {
+          "name": "Alan Shiels",
+          "openalex_id": "A5024630093",
+          "orcid": "https://orcid.org/0000-0003-4610-596X"
+        },
+        {
+          "name": "Thomas M. Bennett",
+          "openalex_id": "A5011247953",
+          "orcid": "https://orcid.org/0000-0002-8867-1110"
+        },
+        {
+          "name": "J. Fielding Hejtmancik",
+          "openalex_id": "A5091699331",
+          "orcid": "https://orcid.org/0000-0002-4788-0362"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-10-08",
+      "abstract": "Lens opacities, or cataract(s), may be inherited as a classic Mendelian disorder usually with early-onset or, more commonly, acquired with age as a multi-factorial or complex trait. Many genetic forms of cataract have been described in mice and other animal models. Considerable progress has been made in mapping and identifying the genes and mutations responsible for inherited forms of cataract, and genetic determinants of age-related cataract are beginning to be discovered. To provide a convenient and accurate summary of current information focused on the increasing genetic complexity of Mendelian and age-related cataract we have created an online chromosome map and reference database for cataract in humans and mice (Cat-Map).",
+      "cited_by_count": 266,
+      "type": "article",
+      "source": {
+        "name": "PubMed",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.wustl.edu/cgi/viewcontent.cgi?article=2793&context=open_access_pubs"
+      },
+      "topics": [
+        "Connexins and lens biology",
+        "Biochemical effects in animals",
+        "Aldose Reductase and Taurine"
+      ],
+      "referenced_works_count": 112,
+      "url": "https://openalex.org/W1604522551"
+    },
+    {
+      "openalex_id": "W2018868898",
+      "doi": "10.1007/s00018-009-8668-7",
+      "title": "The Notch signaling pathway: Transcriptional regulation at Notch target genes",
+      "authors": [
+        {
+          "name": "Tilman Borggrefe",
+          "openalex_id": "A5036409925",
+          "institutions": [
+            "Max Planck Institute of Immunobiology and Epigenetics"
+          ]
+        },
+        {
+          "name": "Franz Oswald",
+          "openalex_id": "A5055339113",
+          "orcid": "https://orcid.org/0000-0002-2923-5765",
+          "institutions": [
+            "Universit\u00e4t Ulm"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-21",
+      "abstract": "The Notch gene encodes a transmembrane receptor that gave the name to the evolutionary highly conserved Notch signaling cascade. It plays a pivotal role in the regulation of many fundamental cellular processes such as proliferation, stem cell maintenance and differentiation during embryonic and adult development. After specific ligand binding, the intracellular part of the Notch receptor is cleaved off and translocates to the nucleus, where it binds to the transcription factor RBP-J. In the absence of activated Notch, RBP-J represses Notch target genes by recruiting a corepressor complex. Here, we review Notch signaling with a focus on gene regulatory events at Notch target genes. This is of utmost importance to understand Notch signaling since certain RBP-J associated cofactors and particular epigenetic marks determine the specificity of Notch target gene expression in different cell types. We subsequently summarize the current knowledge about Notch target genes and the physiological significance of Notch signaling in development and cancer.",
+      "cited_by_count": 673,
+      "type": "article",
+      "source": {
+        "name": "Cellular and Molecular Life Sciences",
+        "type": "journal",
+        "issn": [
+          "1420-682X",
+          "1420-9071"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00018-009-8668-7.pdf"
+      },
+      "topics": [
+        "Developmental Biology and Gene Regulation",
+        "Epigenetics and DNA Methylation",
+        "Kruppel-like factors research"
+      ],
+      "referenced_works_count": 180,
+      "url": "https://openalex.org/W2018868898"
+    },
+    {
+      "openalex_id": "W1493805700",
+      "doi": "10.1002/ajpa.22536",
+      "title": "Birth is but our death begun: A bioarchaeological assessment of skeletal emaciation in immature human skeletons in the context of environmental, social, and subsistence transition",
+      "authors": [
+        {
+          "name": "Gwen Robbins Schug",
+          "openalex_id": "A5071431577",
+          "orcid": "https://orcid.org/0000-0002-3928-9230",
+          "institutions": [
+            "Appalachian State University"
+          ]
+        },
+        {
+          "name": "Haviva M. Goldman",
+          "openalex_id": "A5069248703",
+          "orcid": "https://orcid.org/0000-0002-0903-6646",
+          "institutions": [
+            "Drexel University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-17",
+      "abstract": "The second millennium BC was a period of significant social and environmental changes in prehistoric India. After the disintegration of the Indus civilization, in a phase known as the Early Jorwe (1400-1000 BC), hundreds of agrarian villages flourished in the Deccan region of west-central India. Environmental degradation, combined with unsustainable agricultural practices, contributed to the abandonment of many communities around 1000 BC. Inamgaon was one of a handful of villages to persist into the Late Jorwe phase (1000-700 BC), wherein reliance on dry-plough agricultural production declined. Previous research demonstrated a significant decline in body size (stature and body mass index) through time, which is often used to infer increased levels of biocultural stress in bioarchaeology. This article assesses evidence for growth disruption in the immature human skeletal remains from Inamgaon by correlating measures of whole bone morphology with midshaft femur compact bone geometry and histology. Growth derangement is observable in immature archaeological femora as an alteration in the expected amount and distribution of bone mass and porosity in the midshaft cross-section. Cross-section shape matched expectations for older infants with the acquisition of bipedal locomotion. These results support the hypothesis that small body size was related to disruptions in homeostasis and high levels of biocultural stress in the Late Jorwe at Inamgaon. Further, the combined use of geometric properties and histological details provides a method for teasing apart the complex interactions among activity and \"health,\" demonstrating how biocultural stressors affect the acquisition and quality of bone mass.",
+      "cited_by_count": 45,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Physical Anthropology",
+        "type": "journal",
+        "issn": [
+          "0002-9483",
+          "1096-8644"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://libres.uncg.edu/ir/uncg/f/G_Robbins_Schug_Birth_2014.pdf"
+      },
+      "topics": [
+        "Forensic Anthropology and Bioarchaeology Studies",
+        "Paleopathology and ancient diseases",
+        "Pleistocene-Era Hominins and Archaeology"
+      ],
+      "referenced_works_count": 140,
+      "url": "https://openalex.org/W1493805700"
+    },
+    {
+      "openalex_id": "W2913725860",
+      "doi": "10.3390/genes10030192",
+      "title": "Beyond Biodiversity: Can Environmental DNA (eDNA) Cut It as a Population Genetics Tool?",
+      "authors": [
+        {
+          "name": "Clare I. M. Adams",
+          "openalex_id": "A5023988550",
+          "orcid": "https://orcid.org/0000-0002-3379-7795",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Michael Knapp",
+          "openalex_id": "A5087982457",
+          "orcid": "https://orcid.org/0000-0002-0937-5664",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Neil J. Gemmell",
+          "openalex_id": "A5065672420",
+          "orcid": "https://orcid.org/0000-0003-0671-3637",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Gert\u2010Jan Jeunen",
+          "openalex_id": "A5065194254",
+          "orcid": "https://orcid.org/0000-0001-7458-3550",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Michael Bunce",
+          "openalex_id": "A5085536018",
+          "orcid": "https://orcid.org/0000-0002-0302-4206",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Miles D. Lamare",
+          "openalex_id": "A5037116623",
+          "orcid": "https://orcid.org/0000-0001-8656-7240",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Helen R. Taylor",
+          "openalex_id": "A5082231892",
+          "orcid": "https://orcid.org/0000-0001-7951-0772",
+          "institutions": [
+            "University of Otago"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-01",
+      "abstract": "Population genetic data underpin many studies of behavioral, ecological, and evolutionary processes in wild populations and contribute to effective conservation management. However, collecting genetic samples can be challenging when working with endangered, invasive, or cryptic species. Environmental DNA (eDNA) offers a way to sample genetic material non-invasively without requiring visual observation. While eDNA has been trialed extensively as a biodiversity and biosecurity monitoring tool with a strong taxonomic focus, it has yet to be fully explored as a means for obtaining population genetic information. Here, we review current research that employs eDNA approaches for the study of populations. We outline challenges facing eDNA-based population genetic methodologies, and suggest avenues of research for future developments. We advocate that with further optimizations, this emergent field holds great potential as part of the population genetics toolkit.",
+      "cited_by_count": 238,
+      "type": "article",
+      "source": {
+        "name": "Genes",
+        "type": "journal",
+        "issn": [
+          "2073-4425"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2073-4425/10/3/192/pdf?version=1551954747"
+      },
+      "topics": [
+        "Environmental DNA in Biodiversity Studies",
+        "Identification and Quantification in Food",
+        "Species Distribution and Climate Change"
+      ],
+      "referenced_works_count": 216,
+      "url": "https://openalex.org/W2913725860"
+    },
+    {
+      "openalex_id": "W1964591425",
+      "doi": "10.1371/journal.pgen.1002565",
+      "title": "Tcf7 Is an Important Regulator of the Switch of Self-Renewal and Differentiation in a Multipotential Hematopoietic Cell Line",
+      "authors": [
+        {
+          "name": "Jia Qian Wu",
+          "openalex_id": "A5060109423",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Montrell Seay",
+          "openalex_id": "A5059563926",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Vincent Schulz",
+          "openalex_id": "A5013315514",
+          "orcid": "https://orcid.org/0000-0001-6333-4284",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Manoj Hariharan",
+          "openalex_id": "A5089000748",
+          "orcid": "https://orcid.org/0000-0002-1006-5372",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "David Tuck",
+          "openalex_id": "A5016816358",
+          "orcid": "https://orcid.org/0000-0001-7313-5158",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Jin Lian",
+          "openalex_id": "",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Jiang Du",
+          "openalex_id": "A5100412676",
+          "orcid": "https://orcid.org/0000-0003-2147-569X",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Minyi Shi",
+          "openalex_id": "A5112748392",
+          "orcid": "https://orcid.org/0000-0003-1616-8353",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Zhijia Ye",
+          "openalex_id": "A5102842792",
+          "orcid": "https://orcid.org/0000-0002-9333-1604",
+          "institutions": [
+            "Army Medical University"
+          ]
+        },
+        {
+          "name": "Mark Gerstein",
+          "openalex_id": "A5042321575",
+          "orcid": "https://orcid.org/0000-0002-9746-3719",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "M Snyder",
+          "openalex_id": "A5024120181",
+          "orcid": "https://orcid.org/0000-0003-0784-7987",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Sherman M. Weissman",
+          "openalex_id": "A5112337459",
+          "institutions": [
+            "Yale University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-03-08",
+      "abstract": "A critical problem in biology is understanding how cells choose between self-renewal and differentiation. To generate a comprehensive view of the mechanisms controlling early hematopoietic precursor self-renewal and differentiation, we used systems-based approaches and murine EML multipotential hematopoietic precursor cells as a primary model. EML cells give rise to a mixture of self-renewing Lin-SCA+CD34+ cells and partially differentiated non-renewing Lin-SCA-CD34- cells in a cell autonomous fashion. We identified and validated the HMG box protein TCF7 as a regulator in this self-renewal/differentiation switch that operates in the absence of autocrine Wnt signaling. We found that Tcf7 is the most down-regulated transcription factor when CD34+ cells switch into CD34- cells, using RNA-Seq. We subsequently identified the target genes bound by TCF7, using ChIP-Seq. We show that TCF7 and RUNX1 (AML1) bind to each other's promoter regions and that TCF7 is necessary for the production of the short isoforms, but not the long isoforms of RUNX1, suggesting that TCF7 and the short isoforms of RUNX1 function coordinately in regulation. Tcf7 knock-down experiments and Gene Set Enrichment Analyses suggest that TCF7 plays a dual role in promoting the expression of genes characteristic of self-renewing CD34+ cells while repressing genes activated in partially differentiated CD34- state. Finally a network of up-regulated transcription factors of CD34+ cells was constructed. Factors that control hematopoietic stem cell (HSC) establishment and development, cell growth, and multipotency were identified. These studies in EML cells demonstrate fundamental cell-intrinsic properties of the switch between self-renewal and differentiation, and yield valuable insights for manipulating HSCs and other differentiating systems.",
+      "cited_by_count": 114,
+      "type": "article",
+      "source": {
+        "name": "PLoS Genetics",
+        "type": "journal",
+        "issn": [
+          "1553-7390",
+          "1553-7404"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1002565&type=printable"
+      },
+      "topics": [
+        "Epigenetics and DNA Methylation",
+        "Immune Cell Function and Interaction",
+        "T-cell and B-cell Immunology"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W1964591425"
+    },
+    {
+      "openalex_id": "W2752343115",
+      "doi": "10.3356/jrr-16-32.1",
+      "title": "No Substitute for Survival: Perturbation Analyses Using a Golden Eagle Population Model Reveal Limits to Managing for Take",
+      "authors": [
+        {
+          "name": "Jason D. Tack",
+          "openalex_id": "A5054288125",
+          "orcid": "https://orcid.org/0000-0002-1539-145X",
+          "institutions": [
+            "Colorado Parks and Wildlife",
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "Barry R. Noon",
+          "openalex_id": "A5110568285",
+          "institutions": [
+            "Colorado Parks and Wildlife",
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "Zachary H. Bowen",
+          "openalex_id": "A5029451077",
+          "orcid": "https://orcid.org/0000-0002-8656-1831",
+          "institutions": [
+            "United States Geological Survey",
+            "University of Waterloo",
+            "Colorado Parks and Wildlife",
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "Lauren Strybos",
+          "openalex_id": "A5033289590",
+          "institutions": [
+            "United States Geological Survey",
+            "University of Waterloo",
+            "Colorado Parks and Wildlife",
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "Bradley C. Fedy",
+          "openalex_id": "A5011824385",
+          "orcid": "https://orcid.org/0000-0003-3933-4043",
+          "institutions": [
+            "United States Geological Survey",
+            "University of Waterloo",
+            "Colorado Parks and Wildlife",
+            "Colorado State University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-01",
+      "abstract": "Conserving populations of long-lived birds of prey, characterized by a slow life-history (e.g., high survival and low reproductive output), requires a thorough understanding of how variation in their vital rates differentially affects population growth. Stochastic population modeling provides a framework for exploring variation in complex life histories to better understand how environmental and demographic variation within individual vital rates affects population dynamics. Specifically, we used life-stage simulation analysis (LSA) to identify those life-history characteristics that most affect population growth and are amenable to management actions. The Golden Eagle (Aquila chrysaetos) is a wide-ranging raptor of conservation concern, which has been adopted as a focal species for conservation planning. Golden Eagle population trends in western North America currently appear stable. Yet an expanding human footprint that may increase mortality stimulated our investigation into the ability of populations to sustain reduced survival. We fit mixed-effects models to published estimates of vital rates to estimate the mean and process variation of productivity (young fledged per pair) and survival for use in a LSA framework. As expected, breeding adult survival had the greatest relative effect on population growth, though productivity explained the most variation in growth. Based on perturbation analyses, we demonstrate that even minor reductions in breeding adult survival (,4.5%) caused otherwise stable populations to decline. Despite its importance, precise estimates of spatial and temporal variation in breeding adult survival are poorly documented. Importantly, we found that the ability for increases in reproductive output to compensate for decreased survival was very limited. To maintain stable populations, declines in survival .4% required increases in productivity that generally exceed the evolutionary potential for Golden Eagles. Our findings support the current U.S. Fish and Wildlife conservation strategy which mitigates eagle ''take'' via efforts to reduce mortality elsewhere.",
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "Journal of Raptor Research",
+        "type": "journal",
+        "issn": [
+          "0892-1016",
+          "2162-4569"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://bioone.org/journals/Journal-of-Raptor-Research/volume-51/issue-3/JRR-16-32.1/No-Substitute-for-Survival--Perturbation-Analyses-Using-a-Golden/10.3356/JRR-16-32.1.pdf"
+      },
+      "topics": [
+        "Avian ecology and behavior",
+        "Wildlife Ecology and Conservation",
+        "Species Distribution and Climate Change"
+      ],
+      "referenced_works_count": 53,
+      "url": "https://openalex.org/W2752343115"
+    },
+    {
+      "openalex_id": "W2142463666",
+      "doi": "10.1890/es10-00171.1",
+      "title": "Irrawaddy dolphin demography in the Mekong River: an application of mark\u2013resight models",
+      "authors": [
+        {
+          "name": "Gerard E. Ryan",
+          "openalex_id": "A5081838635",
+          "orcid": "https://orcid.org/0000-0003-0183-7630",
+          "institutions": [
+            "University of Cambodia",
+            "WWF-Cambodia",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Vern\u00e9 Dove",
+          "openalex_id": "A5062571756",
+          "institutions": [
+            "Murdoch University"
+          ]
+        },
+        {
+          "name": "Fernando Trujillo",
+          "openalex_id": "A5072930842",
+          "orcid": "https://orcid.org/0000-0002-5327-8618",
+          "institutions": [
+            "Universidad Aut\u00f3noma de Colombia"
+          ]
+        },
+        {
+          "name": "Paul F. Doherty",
+          "openalex_id": "A5044301991",
+          "institutions": [
+            "Colorado State University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-05-01",
+      "abstract": "Riverine Irrawaddy dolphin populations are critically endangered and much uncertainty exists over the population status in the Mekong River of northeast Cambodia and southern Lao People's Democratic Republic (Lao PDR). We conducted 11 surveys over three years to estimate abundance at each survey as well as survival and the probability of individuals becoming unavailable for detection between surveys. We utilized novel mark\u2013resight estimators to account for the detection process in estimating these parameters. Annual survival was 0.977 (0.040 SE) and movement in (0.060) and out (0.018) of an observable state was low. We estimated abundance at 84.5 (95% CI = 77.9\u201391.2) with little change over our surveys. We also estimated recruitment and population growth rate for the marked, and presumably older, individuals by estimating seniority using a reverse-time model. Seniority was estimated at 0.999 (0.028 SE), recruitment at 0.001 and population growth rate at 0.978. Although the population size appears to be stable, we believe this represents the slow disappearance of a long-lived animal with no recruitment. Along with the isolated nature of the population and reduced population size as compared to historical estimates, we believe this population is in serious threat of extirpation. We believe there may be as few as 7 or 8 animals in Lao PDR and that the species is at risk of extinction there in the short-term. Although recent management actions (e.g., outlawing of explosive fishing and some restriction on the use of gill-nets) have likely been beneficial we believe identifying population goals to work towards, identifying additional management actions to improve recruitment, and designing the survey methods to best estimate the success of these actions is needed.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "Ecosphere",
+        "type": "journal",
+        "issn": [
+          "2150-8925"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00171.1"
+      },
+      "topics": [
+        "Marine animal studies overview",
+        "Wildlife Ecology and Conservation",
+        "Avian ecology and behavior"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W2142463666"
+    },
+    {
+      "openalex_id": "W2048198700",
+      "doi": "10.1007/s13311-014-0320-z",
+      "title": "Promoting Autophagic Clearance: Viable Therapeutic Targets in Alzheimer's Disease",
+      "authors": [
+        {
+          "name": "Lauren G. Friedman",
+          "openalex_id": "A5026137318",
+          "institutions": [
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Yasir H. Qureshi",
+          "openalex_id": "A5069729446",
+          "orcid": "https://orcid.org/0000-0002-2729-2440",
+          "institutions": [
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Wai Haung Yu",
+          "openalex_id": "A5024970198",
+          "orcid": "https://orcid.org/0000-0001-7186-6731",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-12-02",
+      "abstract": null,
+      "cited_by_count": 84,
+      "type": "article",
+      "source": {
+        "name": "Neurotherapeutics",
+        "type": "journal",
+        "issn": [
+          "1878-7479",
+          "1933-7213"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13311-014-0320-z.pdf"
+      },
+      "topics": [
+        "Autophagy in Disease and Therapy",
+        "Alzheimer's disease research and treatments",
+        "Parkinson's Disease Mechanisms and Treatments"
+      ],
+      "referenced_works_count": 231,
+      "url": "https://openalex.org/W2048198700"
+    },
+    {
+      "openalex_id": "W3121324376",
+      "doi": "10.3389/fevo.2021.569741",
+      "title": "The Effects of Weather on Avian Growth and Implications for Adaptation to Climate Change",
+      "authors": [
+        {
+          "name": "Drew Sauve",
+          "openalex_id": "A5029063267",
+          "orcid": "https://orcid.org/0000-0002-6318-3719",
+          "institutions": [
+            "Queen's University"
+          ]
+        },
+        {
+          "name": "Vicki L. Friesen",
+          "openalex_id": "A5076919820",
+          "orcid": "https://orcid.org/0000-0002-4921-1170",
+          "institutions": [
+            "Queen's University"
+          ]
+        },
+        {
+          "name": "Anne Charmantier",
+          "openalex_id": "A5000375110",
+          "orcid": "https://orcid.org/0000-0002-0691-2647",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "\u00c9cole Pratique des Hautes \u00c9tudes",
+            "Universit\u00e9 de Montpellier",
+            "Centre d'\u00c9cologie Fonctionnelle et \u00c9volutive",
+            "Universit\u00e9 Paul-Val\u00e9ry Montpellier",
+            "Institut de Recherche pour le D\u00e9veloppement"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-22",
+      "abstract": "Climate change is forecasted to generate a range of evolutionary changes and plastic responses. One important aspect of avian responses to climate change is how weather conditions may change nestling growth and development. Early life growth is sensitive to environmental effects and can potentially have long-lasting effects on adult phenotypes and fitness. A detailed understanding of both how and when weather conditions affect the entire growth trajectory of a nestling may help predict population changes in phenotypes and demography under climate change. This review covers three main topics on the impacts of weather variation (air temperature, rainfall, wind speed, solar radiation) on nestling growth. Firstly, we highlight why understanding the effects of weather on nestling growth might be important in understanding adaptation to, and population persistence in, environments altered by climate change. Secondly, we review the documented effects of weather variation on nestling growth curves. We investigate both altricial and precocial species, but we find a limited number of studies on precocial species in the wild. Increasing temperatures and rainfall have mixed effects on nestling growth, while increasing windspeeds tend to have negative impacts on the growth rate of open cup nesting species. Thirdly, we discuss how weather variation might affect the evolution of nestling growth traits and suggest that more estimates of the inheritance of and selection acting on growth traits in natural settings are needed to make evolutionary predictions. We suggest that predictions will be improved by considering concurrently changing selection pressures like urbanization. The importance of adaptive plastic or evolutionary changes in growth may depend on where a species or population is located geographically and the species\u2019 life-history. Detailed characterization of the effects of weather on growth patterns will help answer whether variation in avian growth frequently plays a role in adaption to climate change.",
+      "cited_by_count": 69,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Ecology and Evolution",
+        "type": "journal",
+        "issn": [
+          "2296-701X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fevo.2021.569741/pdf"
+      },
+      "topics": [
+        "Avian ecology and behavior",
+        "Animal Behavior and Reproduction",
+        "Wildlife Ecology and Conservation"
+      ],
+      "referenced_works_count": 240,
+      "url": "https://openalex.org/W3121324376"
+    },
+    {
+      "openalex_id": "W2342867323",
+      "doi": "10.1007/s12310-016-9191-2",
+      "title": "Associations Between Teacher-Reported School Climate and Depressive Symptoms in Australian Adolescents: A 5-Year Longitudinal Study",
+      "authors": [
+        {
+          "name": "Patrick P\u00f6ssel",
+          "openalex_id": "A5039783108",
+          "orcid": "https://orcid.org/0000-0002-5851-4253",
+          "institutions": [
+            "University of Louisville"
+          ]
+        },
+        {
+          "name": "Christopher R. Rakes",
+          "openalex_id": "A5087033983",
+          "orcid": "https://orcid.org/0000-0003-0378-9388",
+          "institutions": [
+            "University of Maryland, Baltimore County"
+          ]
+        },
+        {
+          "name": "Kathleen Moritz Rudasill",
+          "openalex_id": "A5060396641",
+          "orcid": "https://orcid.org/0000-0002-9415-8575",
+          "institutions": [
+            "University of Nebraska\u2013Lincoln"
+          ]
+        },
+        {
+          "name": "Michael Sawyer",
+          "openalex_id": "A5042061414",
+          "orcid": "https://orcid.org/0000-0002-7834-0561",
+          "institutions": [
+            "University of Adelaide"
+          ]
+        },
+        {
+          "name": "Susan H. Spence",
+          "openalex_id": "A5088169055",
+          "orcid": "https://orcid.org/0000-0002-7022-6676",
+          "institutions": [
+            "Griffith University"
+          ]
+        },
+        {
+          "name": "Jeanie Sheffield",
+          "openalex_id": "A5086484529",
+          "orcid": "https://orcid.org/0000-0002-9628-5033",
+          "institutions": [
+            "University of Queensland"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-04-29",
+      "abstract": null,
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "School Mental Health",
+        "type": "journal",
+        "issn": [
+          "1866-2625",
+          "1866-2633"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12310-016-9191-2.pdf"
+      },
+      "topics": [
+        "Child and Adolescent Psychosocial and Emotional Development",
+        "Early Childhood Education and Development",
+        "Youth Substance Use and School Attendance"
+      ],
+      "referenced_works_count": 100,
+      "url": "https://openalex.org/W2342867323"
+    },
+    {
+      "openalex_id": "W3163333506",
+      "doi": "10.15406/jdc.2019.03.00115",
+      "title": "Cosmetics in use: a pharmacological review",
+      "authors": [
+        {
+          "name": "Abdul Kader Mohiuddin",
+          "openalex_id": "A5046937215",
+          "orcid": "https://orcid.org/0000-0003-1596-9757",
+          "institutions": [
+            "World University of Bangladesh"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Cosmetics\" really comes from its utilization in Ancient Rome. They were commonly delivered by female slaves known as \"cosmetae,\" which is the place \"cosmetics\" originated from. Cosmetics are utilized to upgrade appearance. Makeup has been around for a long time. The primary known individuals who utilized cosmetics to upgrade their beauty were the Egyptians. Makeup those days was simply basic eye shading or some material for the body. Presently a-days makeup assumes an imperative job for the two men and women. In developmental brain science, social challenge of appearance reinforces women's wants for perfect beauty. As indicated by \"The Origin of Species\", people have developed to exchange qualities to future ages through sexual determination that respects the body state of perfect beauty as astounding richness. Also, since women's beauty has as of late been viewed as an upper hand to make social power, a body that satisfies the social guidelines of a culture could accomplish restricted social assets. It's hard to believe, but it\u2019s true, even men have turned out to be more beauty cognizant and are worried about their looks. Cosmetics can be delivered in the natural and hypoallergenic structure to fulfill the needs of clients. Makeup is utilized as a beauty help to help develop the self-esteem and certainty of a person. The significance of cosmetics has expanded the same number of individuals need to remain youthful and alluring. Cosmetics are promptly accessible today as creams, lipstick, scents, eye shadows, nail shines, hair showers and so forth. Different cosmetics like face powder offer gleam to the skin subsequent to applying the base cream. At that point we have lipsticks, which are connected by numerous women all things considered. They are produced using wax and cocoa butter in the ideal sum. Cosmetics like creams, gels, and colognes are utilized consistently by the two women and men. Creams go about as a chemical for the face as a rule. All the more as of late enemy of maturing creams have been made which can hold more youthful looking skin for a long time. The best cleansing specialists are cleansing cream, cleanser and water. Cosmetic creams fill in as skin sustenance for hard, dry and dry skin. It fundamentally greases up, diminishes and expels undesirable earth from the skin. Some famous fat creams that are utilized incorporate Vaseline and Lanolin. Dry creams are utilized in the assembling of cleanser and gelatin which is utilized as a base for the skin. Hair care has turned out to be one of the quickest creating markets in the beauty business. Numerous young fellows swing to oils and gels to keep up and style their hair. Items like hair gels, oils, and moisturizers have been acquainted in the market with assistance ensure hair fall and dandruff. A few callings, similar to the entertainment biz industry, center on the significance of the external appearance. Numerous identities and craftsmen have used makeup to beat the brutal lights and the glare of camera flashes. They know the significance of their looks and keep up them by utilizing an assortment of cosmetics. Their appearance is their most profitable resource and they accept each undertaking to show up as the fans need them to show up. Late research has demonstrated that makeup helps in assurance from destructive beams of the sun. Numerous beauty items producers have used the necessities of individuals to shield themselves and their skin from the beams of the sun. This is an extraordinary achievement on the grounds that prior make up and sun assurance could not mix together. Today Cosmetics help to upgrade our appearance and make us feel increasingly certain. With more cosmetics available today than any other time in recent memory, it ends up clear to us that they assume an extraordinary job in our regular daily existence (Figure 1).",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Journal of Dermatology & Cosmetology",
+        "type": "journal",
+        "issn": [
+          "2574-9943"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://medcraveonline.com/JDC/JDC-03-00115.pdf"
+      },
+      "topics": [
+        "Olfactory and Sensory Function Studies",
+        "Biochemical Analysis and Sensing Techniques",
+        "melanin and skin pigmentation"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W3163333506"
+    },
+    {
+      "openalex_id": "W3126594314",
+      "doi": "10.3390/cells10020295",
+      "title": "Targeting Diet and Exercise for Neuroprotection and Neurorecovery in Glaucoma",
+      "authors": [
+        {
+          "name": "James R. Tribble",
+          "openalex_id": "A5009710952",
+          "orcid": "https://orcid.org/0000-0001-8301-7358",
+          "institutions": [
+            "Karolinska Institutet",
+            "S:t Eriks \u00d6gonsjukhus"
+          ]
+        },
+        {
+          "name": "Flora Hui",
+          "openalex_id": "A5020215128",
+          "orcid": "https://orcid.org/0000-0003-2218-9951",
+          "institutions": [
+            "The University of Melbourne",
+            "Australian College of Optometry",
+            "Centre for Eye Research Australia"
+          ]
+        },
+        {
+          "name": "Melissa J\u00f6e",
+          "openalex_id": "A5090625518",
+          "orcid": "https://orcid.org/0000-0001-8516-4706",
+          "institutions": [
+            "Karolinska Institutet",
+            "S:t Eriks \u00d6gonsjukhus"
+          ]
+        },
+        {
+          "name": "Katharina Bell",
+          "openalex_id": "A5032164477",
+          "orcid": "https://orcid.org/0000-0003-4127-1635",
+          "institutions": [
+            "Singapore National Eye Center",
+            "Singapore Eye Research Institute"
+          ]
+        },
+        {
+          "name": "Vicki Chrysostomou",
+          "openalex_id": "A5008513234",
+          "institutions": [
+            "Singapore National Eye Center",
+            "Singapore Eye Research Institute",
+            "Duke-NUS Medical School"
+          ]
+        },
+        {
+          "name": "Jonathan G. Crowston",
+          "openalex_id": "A5110843028",
+          "institutions": [
+            "Singapore National Eye Center",
+            "Centre for Eye Research Australia",
+            "Singapore Eye Research Institute",
+            "Duke-NUS Medical School"
+          ]
+        },
+        {
+          "name": "Pete A. Williams",
+          "openalex_id": "A5049410413",
+          "orcid": "https://orcid.org/0000-0001-6194-8397",
+          "institutions": [
+            "Karolinska Institutet",
+            "S:t Eriks \u00d6gonsjukhus"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-02-01",
+      "abstract": "Glaucoma is a leading cause of blindness worldwide. In glaucoma, a progressive dysfunction and death of retinal ganglion cells occurs, eliminating transfer of visual information to the brain. Currently, the only available therapies target the lowering of intraocular pressure, but many patients continue to lose vision. Emerging pre-clinical and clinical evidence suggests that metabolic deficiencies and defects may play an important role in glaucoma pathophysiology. While pre-clinical studies in animal models have begun to mechanistically uncover these metabolic changes, some existing clinical evidence already points to potential benefits in maintaining metabolic fitness. Modifying diet and exercise can be implemented by patients as an adjunct to intraocular pressure lowering, which may be of therapeutic benefit to retinal ganglion cells in glaucoma.",
+      "cited_by_count": 52,
+      "type": "article",
+      "source": {
+        "name": "Cells",
+        "type": "journal",
+        "issn": [
+          "2073-4409"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2073-4409/10/2/295/pdf?version=1612324334"
+      },
+      "topics": [
+        "Neurological Disorders and Treatments",
+        "Glaucoma and retinal disorders",
+        "Biochemical effects in animals"
+      ],
+      "referenced_works_count": 225,
+      "url": "https://openalex.org/W3126594314"
+    },
+    {
+      "openalex_id": "W3122005668",
+      "doi": "10.20944/preprints201902.0048.v1",
+      "title": "Beyond Biodiversity: Can Environmental DNA (eDNA) Cut it as a Population Genetics Tool?",
+      "authors": [
+        {
+          "name": "Clare I. M. Adams",
+          "openalex_id": "A5023988550",
+          "orcid": "https://orcid.org/0000-0002-3379-7795",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Michael Knapp",
+          "openalex_id": "A5087982457",
+          "orcid": "https://orcid.org/0000-0002-0937-5664",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Neil J. Gemmell",
+          "openalex_id": "A5065672420",
+          "orcid": "https://orcid.org/0000-0003-0671-3637",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Gert\u2010Jan Jeunen",
+          "openalex_id": "A5065194254",
+          "orcid": "https://orcid.org/0000-0001-7458-3550",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Michael Bunce",
+          "openalex_id": "A5085536018",
+          "orcid": "https://orcid.org/0000-0002-0302-4206",
+          "institutions": [
+            "Curtin University"
+          ]
+        },
+        {
+          "name": "Miles D. Lamare",
+          "openalex_id": "A5037116623",
+          "orcid": "https://orcid.org/0000-0001-8656-7240",
+          "institutions": [
+            "University of Otago"
+          ]
+        },
+        {
+          "name": "Helen R. Taylor",
+          "openalex_id": "A5082231892",
+          "orcid": "https://orcid.org/0000-0001-7951-0772",
+          "institutions": [
+            "University of Otago"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-05",
+      "abstract": "Population genetic data underpin many studies of behavioral, ecological, and evolutionary processes in wild populations and contribute to effective conservation management. However, collecting genetic samples can be challenging when working with endangered, invasive, or cryptic species. Environmental DNA (eDNA) offers a way to sample genetic material non-invasively without requiring visual observation. While eDNA has been trialed extensively as a biodiversity and biosecurity monitoring tool with a strong taxonomic focus, it has yet to be fully explored as a means for obtaining population genetic information. Here, we review current research that employs eDNA approaches for the study of populations. We outline challenges facing eDNA-based population genetic methodologies, and suggest avenues of research for future developments. We advocate that with further optimizations, this emergent field holds great potential as part of the population genetics toolkit.",
+      "cited_by_count": 28,
+      "type": "preprint",
+      "source": {
+        "name": "Preprints.org",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.preprints.org/manuscript/201902.0048/v1/download"
+      },
+      "topics": [
+        "Environmental DNA in Biodiversity Studies",
+        "Identification and Quantification in Food",
+        "Microbial Community Ecology and Physiology"
+      ],
+      "referenced_works_count": 158,
+      "url": "https://openalex.org/W3122005668"
+    },
+    {
+      "openalex_id": "W2527961880",
+      "doi": null,
+      "title": "Imagination Movers: The Creation of Conservative Counter-Narratives in Reaction to Consensus Liberalism",
+      "authors": [
+        {
+          "name": "Seth James Bartee",
+          "openalex_id": "A5009439671"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-25",
+      "abstract": "The purpose of this study was to explore what exactly bound post-Second World War American conservatives together. Since modern conservatism's recent birth in the United States in the last half century or more, many historians have claimed that both anti-communism and capitalism kept conservatives working in cooperation. My contention was that the intellectual founder of postwar conservatism, Russell Kirk, made imagination, and not anti-communism or capitalism, the thrust behind that movement in his seminal work The Conservative Mind. In The Conservative Mind, published in 1953, Russell Kirk created a conservative genealogy that began with English parliamentarian Edmund Burke. Using Burke and his dislike for the modern revolutionary spirit, Kirk uncovered a supposedly conservative seed that began in late eighteenth-century England, and traced it through various interlocutors into the United States that culminated in the writings of American expatriate poet T.S. Eliot. What Kirk really did was to create a counter-narrative to the American liberal tradition that usually began with the French Revolution and revolutionary figures such as English-American revolutionary Thomas Paine. One of my goals was to demystify the fusionist thesis, which states that conservatism is a monolithic entity of shared qualities. I demonstrated that major differences existed from conservatism's postwar origins in 1953. I do this by using the concept of textual communities. A textual community is a group of people led by a privileged interpreter\u2014someone such as Russell Kirk\u2014who translates a text, for example Burke's Reflections on the Revolution in France, for followers. What happens in a textual community is that the privileged interpreter explains to followers how to read a text and then forms boundaries around a particular rendering of a book. I argue that conservatism was full of these textual communities and privileged interpreters. Therefore, in consecutive chapters, I look at the careers of Russell Kirk, John Lukacs, Christopher Lasch, and Paul Gottfried to demonstrate how this concept fleshed out from 1953 and well into the first decade of the new millennium.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "VTechWorks (Virginia Tech)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10919/73149"
+      },
+      "topics": [
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2527961880"
+    },
+    {
+      "openalex_id": "W2811055248",
+      "doi": null,
+      "title": "Bela Zalai und die Metaphysik des reinen Seins",
+      "authors": [
+        {
+          "name": "Barry Smith",
+          "openalex_id": "A5051216244",
+          "orcid": "https://orcid.org/0000-0003-1384-116X"
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-01-01",
+      "abstract": "Between 1910 und 1915 the Hungarian philosopher B\u00e9la Zalai (1882-1915) developed his \u201ccomparative metaphysics of systems\u201d, which had a significant influence on both the young Georg Luk\u00e1cs and also on Karl Mannheim. Through an analysis of Zalai\u2019s approach to metaphysics, we show how he served to mediate between the realist Austrian philosophy of Meinong and of the early Husserl on the one side, and the German (idealistic, Kantian) philosophy then dominant in Hungary.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "PhilPapers (PhilPapers Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Psychoanalysis and Social Critique",
+        "Critical Theory and Philosophy",
+        "Economic and Social Issues"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2811055248"
+    },
+    {
+      "openalex_id": "W175996167",
+      "doi": "10.3844/ajavsp.2014.194.202",
+      "title": "Selenium and Cadmium Tissue Concentrations and the CASA Sperm Motility Analysis after Administration to Rats",
+      "authors": [
+        {
+          "name": "R. Toman",
+          "openalex_id": "A5031165795",
+          "orcid": "https://orcid.org/0000-0002-0092-6132",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        },
+        {
+          "name": "Sv\u00e4toslav Hluch\u00fd",
+          "openalex_id": "A5083302931",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        },
+        {
+          "name": "P\u00e9ter Mass\u00e1nyi",
+          "openalex_id": "A5017839123",
+          "orcid": "https://orcid.org/0000-0002-4216-0948",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        },
+        {
+          "name": "Norbert Luk\u00e1\u010d",
+          "openalex_id": "A5006836774",
+          "orcid": "https://orcid.org/0000-0002-4565-2083",
+          "institutions": [
+            "Constantine the Philosopher University in Nitra"
+          ]
+        },
+        {
+          "name": "M\u00e1ria Adamkovi\u010dov\u00e1",
+          "openalex_id": "A5035957176",
+          "orcid": "https://orcid.org/0000-0003-0602-812X",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        },
+        {
+          "name": "Michal Cabaj",
+          "openalex_id": "A5066515167",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        },
+        {
+          "name": "Zuzana H\u00e1jkov\u00e1",
+          "openalex_id": "A5004131932",
+          "institutions": [
+            "Slovak University of Agriculture in Nitra"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-01",
+      "abstract": "The accumulation of Selenium (Se) and Cadmium (Cd) and their effects on sperm motility parameters in rats were investigated. Male rats were dosed with Cd (group A: 2 mg kg -1 b.w., intraperitoneally, group B: 30 mg L -1 , per os in drinking water) and Se (group D: 2 mg kg -1 b.w., intraperitoneally, group E: 5 mg L -1 , per os in drinking water). 36 h after an intraperitoneal (i.p.) and after 90 days of per oral (p.o.) administration of Cd and Se, the samples of liver, kidney, adipose tissue and muscle tissue (m. quadriceps femoris) were collected and content of Cd was analyzed using an Electrothermal Atomic Absorption Spectrometry (ETAAS) and Se using a Hydride Generation Atomic Absorption Spectrometry (HG-AAS) methods. Sperm motility parameters were performed using a Computer-Assisted Sperm Analysis (CASA) method. A significant increase in Cd (p<0.0001) and Se (p<0.01) in liver, Cd (p<0.05) in kidney and adipose tissue and Cd (p<0.0001) and Se (p<0.01) in muscle tissue were found after an i.p. administration of Cd. After the per oral Cd administration, increases in Cd (p<0.0001) in liver, Cd and Se (p<0.0001) in kidney, Se in adipose tissue (p<0.05) and in muscle tissue (p<0.0001) contents were observed. In group D, increase in Se in liver and kidney (p<0.0001), in muscle (p<0.05) and the decrease in kidney Cd contents (p<0.0001) were found. Significant increase in Se in liver, kidney, adipose tissue (p<0.0001) and in muscle (p<0.01) contents were recorded in group E. All evaluated sperm motility parameters significantly decreased in groups B, D and E. Intraperitoneal administration of Cd caused the significant decrease in the motility (p<0.01), progressive motility (p<0.001), Straightness (STR) and Beat-Cross Frequency (BCF) (p<0.05) in exposed males. The concentration of selenium in tissues changes in relation to cadmium intake and vice-versa. Increased intake of Se negatively affects the sperm motility. Cd intake affected the sperm motility more significantly after a per oral administration than that exposed intraperitoneally. Both elements can increase their levels in the organism and it can result to symptoms of reduced male fertility or infertility.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Animal and Veterinary Sciences",
+        "type": "journal",
+        "issn": [
+          "1557-4555",
+          "1557-4563"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://thescipub.com/pdf/10.3844/ajavsp.2014.194.202"
+      },
+      "topics": [
+        "Heavy Metal Exposure and Toxicity",
+        "Selenium in Biological Systems",
+        "Trace Elements in Health"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W175996167"
+    },
+    {
+      "openalex_id": "W2749924548",
+      "doi": null,
+      "title": "Nest-Site Selection and Neonate Survival of Eastern Box Turtles (Terrapene carolina carolina) in Michigan\u2019s Northern Lower Peninsula",
+      "authors": [
+        {
+          "name": "Joseph T. Altobelli",
+          "openalex_id": "A5052669391",
+          "orcid": "https://orcid.org/0000-0001-7717-9131"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Turtles (Order Testudines) are experiencing global declines largely due to anthropogenic influences such as habitat fragmentation, illegal collection and sales, and the threat of global climate change. Removal of individuals from the adult age-classes means there is now a greater need to understand the survival of neonate and juvenile turtle age-classes. In this study I examined a population of eastern box turtles (Terrapene carolina carolina) at the northern limit of their range in Michigan\u2019s lower peninsula. The objectives of my thesis were 1. to determine the microhabitat factors that influence nestsite selection by female box turtles and how selected microhabitat and environmental factors affect box turtle nest success and 2. create known-fate annual survival estimates for hatchling box turtles through the first year of life. Box turtles select nest sites with a higher percent of bare soil and lower amounts of understory vegetation compared to random sites and avoid nesting on north facing slopes. Larger clutch sizes as well as a lower percent of bare soil at the nest site increased the probability of nest success. Depredation and exposure to suboptimal environmental conditions were the primary sources of neonate mortality from 2013-2015, and annual survival estimates for neonate box turtles predicted survival to decrease through the first year of life with a steep drop in the probability of survival from nest emergence in the fall, before leveling off at 50% for overwintering (day 50 = .503; SE = 0.067), then gradually decreasing again with spring emergence till reaching 0% survival short of the 1 year mark (day 335 = 0.0). Similar studies should be conducted across the geographic range of Eastern Box Turtles to better understand the major threats to the survival of other box turtle populations.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "ScholarWorks - GVSU (Grand Valley State University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.gvsu.edu/theses/853"
+      },
+      "topics": [
+        "Turtle Biology and Conservation",
+        "Rabies epidemiology and control",
+        "Sports injuries and prevention"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2749924548"
+    },
+    {
+      "openalex_id": "W4386120647",
+      "doi": "10.1002/lol2.10352",
+      "title": "Seagrass spatial data synthesis from north\u2010east <scp>Australia</scp>, <scp>Torres Strait</scp> and <scp>Gulf of Carpentaria</scp>, 1983 to 2022",
+      "authors": [
+        {
+          "name": "Alex B. Carter",
+          "openalex_id": "A5027210069",
+          "orcid": "https://orcid.org/0000-0003-2303-0010",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "S.A. McKenna",
+          "openalex_id": "A5059475723",
+          "orcid": "https://orcid.org/0000-0003-3393-9439",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Michael Rasheed",
+          "openalex_id": "A5081870150",
+          "orcid": "https://orcid.org/0000-0002-8316-7644",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Helen Taylor",
+          "openalex_id": "A5036312993",
+          "orcid": "https://orcid.org/0000-0002-7845-5588",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Carel Van Wetering",
+          "openalex_id": "A5103038771",
+          "orcid": "https://orcid.org/0000-0002-6055-1125",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Katie Chartrand",
+          "openalex_id": "A5026733555",
+          "orcid": "https://orcid.org/0000-0002-0030-961X",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Carissa Reason",
+          "openalex_id": "A5072529079",
+          "orcid": "https://orcid.org/0000-0002-4651-1645",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Catherine Collier",
+          "openalex_id": "A5055571388",
+          "orcid": "https://orcid.org/0000-0001-9494-6582",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "L. T. Shepherd",
+          "openalex_id": "A5111065318",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Jane Mellors",
+          "openalex_id": "A5091061316",
+          "orcid": "https://orcid.org/0000-0001-5387-5351",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Len McKenzie",
+          "openalex_id": "A5003963547",
+          "orcid": "https://orcid.org/0000-0003-1294-3770",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Norman C. Duke",
+          "openalex_id": "A5086019733",
+          "orcid": "https://orcid.org/0000-0003-2081-9120",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "Anthony Roelofs",
+          "openalex_id": "A5009174381",
+          "institutions": [
+            "IP Australia"
+          ]
+        },
+        {
+          "name": "Nico J. Smit",
+          "openalex_id": "A5075429532",
+          "orcid": "https://orcid.org/0000-0001-7950-193X",
+          "institutions": [
+            "Government of the Northern Territory"
+          ]
+        },
+        {
+          "name": "Rachel Groom",
+          "openalex_id": "A5072250076",
+          "orcid": "https://orcid.org/0000-0001-9938-7222",
+          "institutions": [
+            "Charles Darwin University"
+          ]
+        },
+        {
+          "name": "D. J. Barrett",
+          "openalex_id": "A5083560609",
+          "institutions": [
+            "Tharawal Aboriginal"
+          ]
+        },
+        {
+          "name": "S. N. Evans",
+          "openalex_id": "A5111972463",
+          "institutions": [
+            "Tharawal Aboriginal"
+          ]
+        },
+        {
+          "name": "C. Roland Pitcher",
+          "openalex_id": "A5013601436",
+          "orcid": "https://orcid.org/0000-0003-2075-4347",
+          "institutions": [
+            "Commonwealth Scientific and Industrial Research Organisation",
+            "Health Sciences and Nutrition"
+          ]
+        },
+        {
+          "name": "Nicole Murphy",
+          "openalex_id": "A5054571556",
+          "orcid": "https://orcid.org/0000-0002-2396-2881",
+          "institutions": [
+            "Commonwealth Scientific and Industrial Research Organisation",
+            "Health Sciences and Nutrition"
+          ]
+        },
+        {
+          "name": "Martha J. Carlisle",
+          "openalex_id": "A5022000126",
+          "institutions": [
+            "Port Kennedy Association"
+          ]
+        },
+        {
+          "name": "M David",
+          "openalex_id": "",
+          "institutions": [
+            "Port Kennedy Association"
+          ]
+        },
+        {
+          "name": "Siosinamele Lui",
+          "openalex_id": "A5014312326",
+          "institutions": [
+            "Port Kennedy Association"
+          ]
+        },
+        {
+          "name": "Torres Strait Indigenous Rangers",
+          "openalex_id": "",
+          "institutions": [
+            "James Cook University"
+          ]
+        },
+        {
+          "name": "RG Coles",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-3192-3778",
+          "institutions": [
+            "James Cook University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-23",
+      "abstract": "Abstract The Gulf of Carpentaria and Torres Strait in north\u2010eastern Australia support globally significant seagrass ecosystems that underpin fishing and cultural heritage of the region. Reliable data on seagrass distribution are critical to understanding how these ecosystems are changing, while managing for resilience. Spatial data on seagrass have been collected since the early 1980s, but the early data were poorly curated. Some was not publicly available, and some already lost. We validated and synthesized historical seagrass spatial data to create a publicly available database. We include a site layer of 48,612 geolocated data points including information on seagrass presence/absence, sediment, collection date, and data custodian. We include a polygon layer with 641 individual seagrass meadows. Thirteen seagrass species are identified in depths ranging from intertidal to 38 m below mean sea level. Our synthesis includes scientific survey data from 1983 to 2022 and provides an important evidence base for marine resource management.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Limnology and Oceanography Letters",
+        "type": "journal",
+        "issn": [
+          "2378-2242"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lol2.10352"
+      },
+      "topics": [
+        "Marine and coastal plant biology",
+        "Marine and fisheries research",
+        "Marine Biology and Ecology Research"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W4386120647"
+    },
+    {
+      "openalex_id": "W4390874895",
+      "doi": "10.31389/lsepress.wmf",
+      "title": "Dead Men\u2019s Propaganda: Ideology and Utopia in Comparative Communications Studies",
+      "authors": [
+        {
+          "name": "Terhi Rantanen",
+          "openalex_id": "A5074082481",
+          "orcid": "https://orcid.org/0000-0002-5345-6699"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-15",
+      "abstract": "In Dead Men\u2019s Propaganda: Ideology and Utopia in Comparative Communications Studies, Terhi Rantanen investigates the shaping of early comparative communications research between the 1920s and 1950s, notably the work of academics and men of practice in the United States. Often neglected, this intellectual thread is highly relevant to understanding the 21st-century\u2019s challenges of war and rival streams of propaganda. Borrowing her conceptual lenses from Karl Mannheim and Robert Merton, Rantanen draws on detailed archival research and case studies to analyse the extent and importance of work outside and inside the academy, illuminating the work of pioneers in the field. Some of these were well-known academics such as Harold Lasswell and the authors of the seminal book Four Theories of the Press. Others operated in the world of news agencies, such as Associated Press's Kent Cooper, or were marginalised as \u00e9migr\u00e9 scholars, notably Paul Kecskemeti and Nathan Leites. Her study shows how comparative communications, from its very beginning, can be understood as governed by the Mannheimian concepts of ideology and utopia and the power play between them. The close relationship between these two concepts resulted in a bias in knowledge production, contributed to dominant narratives of generational conflicts, and to the demarcation of Insiders and Outsiders. By focusing on a generation at the forefront of comparative communications at this pivotal time in the 20th century, this book challenges orthodoxies in the intellectual histories of communication studies.",
+      "cited_by_count": 4,
+      "type": "book",
+      "source": {
+        "name": "LSE Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.lse.ac.uk/id/eprint/123939/1/dead-mens-propaganda.pdf"
+      },
+      "topics": [
+        "Media Studies and Communication"
+      ],
+      "referenced_works_count": 405,
+      "url": "https://openalex.org/W4390874895"
+    },
+    {
+      "openalex_id": "W3041317316",
+      "doi": "10.6084/m9.figshare.12424547",
+      "title": "Arnold Hauser, Walter Benjamin and the mythologization of history",
+      "authors": [
+        {
+          "name": "C\u00e9sar Salda\u00f1a Puerto",
+          "openalex_id": "A5084209295",
+          "orcid": "https://orcid.org/0000-0001-6408-052X"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "There are conspicuous parallelisms \u2014and symmetries\u2014 between the scholarly fates of Walter Benjamin and Arnold Hauser. While the first failed to attain any sort of success during his lifetime, the latter\u2019s instant widespread diffusion went hand in hand with an ambiguous academic reception. However, if Benjamin posthumously grew to become a major author, Hauser remained an outsider, whose figure has faded and re-emerged with dubious fortune. In spite of opposite lucks, both authors were marked by a strong anti-positivistic attitude which sought to establish a distinct methodology for the social sciences, striving to understand the present through art criticism. Departing from broad considerations of their philosophical backgrounds, this paper will further illustrate their similarities and differences by examining shared accusations that weight on them: their controversial forms of Marxism point to a conception of art criticism that handles historical narrative as myths, rendering their methods close to psychoanalytical dream interpretation.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Figshare",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://figshare.com/articles/Arnold_Hauser_Walter_Benjamin_and_the_mythologization_of_history/12424547"
+      },
+      "topics": [
+        "Walter Benjamin Studies Compilation",
+        "Art, Politics, and Modernism",
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3041317316"
+    },
+    {
+      "openalex_id": "W2964854741",
+      "doi": "10.5195/ahea.2019.348",
+      "title": "Ervin Sink\u00f3's Search for Community: The Early Years, 1898-1919",
+      "authors": [
+        {
+          "name": "George De\u00e1k",
+          "openalex_id": "A5058337711"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-01",
+      "abstract": "Before the political shift that occurred in1989, the biographies of early communists who had participated in the Hungarian Soviet Republic of 1919 could not be the subjects of critical histories. Later, such historical actors were either vilified or simply neglected. This article contributes to the reversal of this neglect by examining the youth of the novelist Ervin Sink\u00f3 (1898-1967), who both participated in the rule of the Soviet Republic and authored Optimist\u00e1k, T\u00f6rt\u00e9nelmi reg\u00e9ny 1918-1919-b\u0151l [\u2018The Optimists, a Historical Novel About 1918-1919\u2019]. This article describes how the experience of anti-Semitism and traumas caused by the First World War led Sink\u00f3 through a number of fluid, intermediary stages that culminated in his support of communism; eventually, however, Sink\u00f3\u2019s experiences within the Soviet Republic\u2019s regime prompted him to abandon communism in favor of an idiosyncratic form of Christianity. From another perspective, this work also traces the concurrent development of Sink\u00f3's personality, from that of an aggressive adolescent to a compassionate adult.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Hungarian Cultural Studies",
+        "type": "journal",
+        "issn": [
+          "2471-965X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ahea.pitt.edu/ojs/index.php/ahea/article/download/348/642"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Hungarian Social, Economic and Educational Studies"
+      ],
+      "referenced_works_count": 4,
+      "url": "https://openalex.org/W2964854741"
+    },
+    {
+      "openalex_id": "W4318273175",
+      "doi": null,
+      "title": "The Tolnay\u2013Panofsky affair&#13;\\nor, loyalty to the youth: Max Dvo\u0159\u00e1k, the Vienna School, and the Sunday Circle",
+      "authors": [
+        {
+          "name": "Csilla Mark\u00f3ja",
+          "openalex_id": "A5059766390",
+          "institutions": [
+            "Hungarian Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Kata Bal\u00e1zs",
+          "openalex_id": "A5084360967"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-01",
+      "abstract": "The conflict between Charles de Tolnay and Erwin Panofsky that grew unprecedentedly acrimonious in the history of the discipline \u2013 the so-called Tolnay\u2013Panofsky affair \u2013 was more than mere personal bickering. The documents clearly reveal that the \u2018affair\u2019, which basically affected financial and professional positions, was based on embarrassingly ordinary, occasionally petty-minded questions instead of scientific arguments, and led to a break of relationship probably in spring 1943. It also directs the attention to the science political consequences of the hierarchic establishment of American science financing and academia in general in the interwar years and the 1940s, and to differences between European and American scholarship. It can be gleaned that Tolnay\u2019s efforts to be allotted raised stipends (often by a great degree, as the documents unanimously testify) and a confirmed position led to the deterioration of his relationship with the Princeton IAS leaders and community \u2013 in spite of the fact that the former leader of the Institute Flexner took Tolnay\u2019s side, at times with threats to Panofsky and Oppenheimer, and accusing Panofsky of professional jealousy. Though Tolnay received a raised scholarship up to 4000 dollars for three years, the institute decided to part with him in 1948. In the background of the affair, however, one may discover conflicts based on the diverging views on art history by Panofsky and Tolnay rooted far deeper, in the elementary influences of the Vienna School of Art History on the one hand, and of the Sunday Circle and Gy\u00f6rgy Luk\u00e1cs, on the other. The art philosophical aspects and methodological consequences of these dissenting concepts of art history may bear significance for the practitioners of the discipline today as well.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Repository of the Academy's Library (Library of the Hungarian Academy of Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://real.mtak.hu/111961/1/Markoja.pdf"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "European Cultural and National Identity",
+        "Central European national history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4318273175"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

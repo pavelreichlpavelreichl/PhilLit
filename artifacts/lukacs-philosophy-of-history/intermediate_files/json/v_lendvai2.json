@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Gyorgy Lukacs 1902-1918 His way to Marx...' author=Ferenc L. Lendvai year=2008
+[verify_paper.py] Paper found: György Lukács 1902–1918: His way to Marx... (score: 64.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Gyorgy Lukacs 1902-1918 His way to Marx",
+    "author": "Ferenc L. Lendvai",
+    "year": 2008
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-008-9052-0",
+      "title": "Gy\u00f6rgy Luk\u00e1cs 1902\u20131918: His way to Marx",
+      "authors": [
+        {
+          "family": "Lendvai",
+          "given": "Ferenc L."
+        }
+      ],
+      "editors": [],
+      "year": 2008,
+      "container_title": "Studies in East European Thought",
+      "volume": "60",
+      "issue": "1-2",
+      "page": "55-73",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/s11212-008-9052-0",
+      "score": 64.23283
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

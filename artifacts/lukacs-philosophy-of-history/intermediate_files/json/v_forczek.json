@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1007/s11212-022-09536-4
+[verify_paper.py] DOI verified: The post festum-rationality of history in Georg Lu...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11212-022-09536-4"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-022-09536-4",
+      "title": "The post festum-rationality of history in Georg Luk\u00e1cs\u2019 Ontology",
+      "authors": [
+        {
+          "family": "Forczek",
+          "given": "\u00c1kos"
+        }
+      ],
+      "editors": [],
+      "year": 2023,
+      "container_title": "Studies in East European Thought",
+      "volume": "76",
+      "issue": "2",
+      "page": "177-192",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11212-022-09536-4"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

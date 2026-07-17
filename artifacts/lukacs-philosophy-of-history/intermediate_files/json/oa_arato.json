@@ -1,0 +1,513 @@
+[search_openalex.py] Searching OpenAlex: 'The Young Lukacs and the Origins of Western Marxism Arato Breines', limit=25
+[search_openalex.py] Retrieved 14 papers...
+[search_openalex.py] Search complete: 14 papers found
+[search_openalex.py] Cached results (cache key: openalex_713d2e351a10cfa5)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "The Young Lukacs and the Origins of Western Marxism Arato Breines",
+  "results": [
+    {
+      "openalex_id": "W2086073578",
+      "doi": "10.1177/072551368100300118",
+      "title": "Book Reviews : Michael Lowy, Georg Lukacs: From Romanticism to Bolshevism, New Left Books, London, 1979 (rrp A$32.00). Andrew Arato &amp; Paul Breines, The Young Lukacs and the Origins of Western Marxism, Pluto Press, London, 1979 (rrp A$14.95)",
+      "authors": [
+        {
+          "name": "John Murphy",
+          "openalex_id": "A5090991647",
+          "orcid": "https://orcid.org/0000-0003-0200-7778"
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-05-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Thesis Eleven",
+        "type": "journal",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Eastern European Communism and Reforms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2086073578"
+    },
+    {
+      "openalex_id": "W2767286532",
+      "doi": null,
+      "title": "Spectral Socialisms: Marxism-Leninism and the Future of Marxist Thought in Post-Socialist Bulgaria",
+      "authors": [
+        {
+          "name": "Zhivka Valiavicharska",
+          "openalex_id": "A5067460794"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Asking what discursive conditions enabled the unchallenged reign of neoliberal capitalism in Eastern Europe after 1989, this dissertation argues that Stalinist philosophy leaves a silent yet powerful structuring legacy in post-socialist politics and intellectual discourse. Stalinist Marxism-Leninism has survived in the presumption that there is a necessary relationship between authoritarianism and politics on the left, and conversely, between democracy and free-market capitalism. Rejecting the premise that there is an inevitable, trans-historical relationship between socialism and authoritarianism, this project locates the historical juncture that sealed them together in the discursive production of Leninism and the doctrines of Dialectical Materialism and Historical Materialism during Stalinist Soviet Union. With a focus on socialist Bulgaria, the dissertation examines the political uses and material effects of the Stalinist ideologemes throughout the intellectual history of East-European Marxist thought. In addition, it retrieves Marxist humanist intellectual movements from the post-Stalinist 1960s and 1970s, which contested the legitimacy of the Stalinist doctrine. Challenging Marxism-Leninism's claim to the historical inevitability of state authoritarianism, they imagined a \"third way\" for socialism's future--a third way between liberal democracy and authoritarian socialism. In conclusion, the dissertation turns to the question of what possibility for politics on the left remains in the post-socialist historical conditions, a left that finds itself inevitably implicated in the histories of state socialisms. Redressing these foreclosures requires recovering the emancipatory ideas and practices out of the contradictory experiences of the socialist past and reformulating their critical potentials for the future.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/6j85900c"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767286532"
+    },
+    {
+      "openalex_id": "W2094480850",
+      "doi": "10.5354/0719-5338.2012.25864",
+      "title": "Peruzzotti, Enrique y Mart\u00edn Plot (editores) (2013). Critical Theory and Democracy. Civil society, dictatorship, and constitutionalism in Andrew Arato\u2019s democratic theory. Routledge",
+      "authors": [
+        {
+          "name": "Claudia Heiss",
+          "openalex_id": "A5059844327",
+          "orcid": "https://orcid.org/0000-0002-2690-7175"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-12-30",
+      "abstract": "Qu tienen que ver las transiciones",
+      "cited_by_count": 2,
+      "type": "book-review",
+      "source": {
+        "name": "Pol\u00edtica Revista de Ciencia Pol\u00edtica",
+        "type": "journal",
+        "issn": [
+          "0716-1077",
+          "0719-5338"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistapolitica.uchile.cl/index.php/RP/article/download/25864/27188"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2094480850"
+    },
+    {
+      "openalex_id": "W3165681272",
+      "doi": "10.17234/zgb.29.10",
+      "title": "Tertium datur. Luk\u00e1cs\u2019 Early Aesthetics and Ethics as Mirrored in \"Die Eigenart des \u00c4sthetischen\"",
+      "authors": [
+        {
+          "name": "Ivana Perica",
+          "openalex_id": "A5069827452",
+          "orcid": "https://orcid.org/0000-0002-4556-3785",
+          "institutions": [
+            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Considering common compartmentalizations of Lukacs\u2019 work into the early, mature, and late phase, the article explores elements that speak to what critics regard as a \u203acontinuity thesis\u2039. Against possible assumptions on the prevalence of form in his early work and the dominance of the aesthetics of content in the later phases, the article explores the dialectical relationship of form and content, which comes to represent a leitmotif in Lukacs\u2019 work as a whole. Here, the early specificity of form does not consist of its domination over content but in the inability of the aesthetic to tackle the social problems of a modernity in which art and life part ways.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Zagreber Germanistische Beitr\u00e4ge",
+        "type": "journal",
+        "issn": [
+          "1330-0946",
+          "1849-1766"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://hrcak.srce.hr/file/369020"
+      },
+      "topics": [
+        "Central European national history",
+        "German Literature and Culture Studies",
+        "Franz Kafka Literary Studies"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W3165681272"
+    },
+    {
+      "openalex_id": "W4400917581",
+      "doi": "10.1515/opphil-2024-0014",
+      "title": "\u201cIt Would be Helpful to Know Which Textbook Teaches the \u2018Dialectic\u2019 he Advocates.\u201d Inserting Luk\u00e1cs into the Neurath\u2013Horkheimer Debate",
+      "authors": [
+        {
+          "name": "Paolo Tripodi",
+          "openalex_id": "A5016405337",
+          "orcid": "https://orcid.org/0000-0002-2972-9546",
+          "institutions": [
+            "University of Turin"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": "Abstract The present article aims at providing some clarification on the Horkheimer-Neurath 1937 debate, so as to make three main claims: (a) around 1937 (even though perhaps neither in the early 1930s, at the time of his review of Mannheim\u2019s Ideology and Utopia , nor after the Second World War, at the time of Adorno\u2019s disenchanted statement, \u201cthe whole is the false\u201d), Horkheimer belonged to the Hegelian-Marxist tradition stemming from Luk\u00e1cs\u2019s History and Class Conscioussness (1923); (b) notwithstanding Neurath\u2019s semantic and epistemological holism, his fallibilism, his rejection of Wertfreiheit in the social sciences, his commitment to socialism, there is still a gulf between his position and Horkheimer\u2019s, for Neurath did not accept the main methodological claim made by the latter, namely, the Luk\u00e1cs-inspired view that what \u201cconstitutes the decisive difference between Marxism and bourgeois thought\u201d is the Hegelian \u201cpoint of view of totality\u201d; (c) highlighting the main differences between Neurath\u2019s and Luk\u00e1cs\u2019s versions of Marxism \u2013 one concerning the very idea of dialectic, and the other concerning the epistemic privilege of the proletariat \u2013 can throw some light on and help understand better the distinctive features of Luk\u00e1cs\u2019s Hegelianization of Marxism.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Open Philosophy",
+        "type": "journal",
+        "issn": [
+          "2543-8875"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0014/pdf"
+      },
+      "topics": [
+        "Philosophy, Science, and History",
+        "Critical Theory and Philosophy",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4400917581"
+    },
+    {
+      "openalex_id": "W7125387417",
+      "doi": "10.1017/s1369415425101039",
+      "title": "Reification, Abstraction, Idealism: Georg Luk\u00e1cs on the Categorial Form of Capitalism",
+      "authors": [
+        {
+          "name": "Katherina Kinzel",
+          "openalex_id": "A5035269656",
+          "orcid": "https://orcid.org/0009-0009-8206-828X",
+          "institutions": [
+            "Utrecht University"
+          ]
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-01-22",
+      "abstract": "Abstract Georg Luk\u00e1cs\u2019s History and Class Consciousness (1923) has often been criticised for its idealism. I discuss Luk\u00e1cs\u2019s critique of reification in light of these charges, identifying two different idealist vocabularies of (neo-)Kantian and Hegelian origin, respectively. I show that the function of the former is critical: refracting Marx\u2019s analysis of social form through a Kantian form/content distinction allows Luk\u00e1cs to critique capitalism as the domination of form over content. Luk\u00e1cs\u2019s Hegelian leanings are more problematic, however, as they constrain his own insights into the conditioned and contingent character of political practice and history.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13341F5CD2BD02A911165BFF4C6D3693/S1369415425101039a.pdf/div-class-title-reification-abstraction-idealism-georg-lukacs-on-the-categorial-form-of-capitalism-div.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Weber, Simmel, Sociological Theory",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W7125387417"
+    },
+    {
+      "openalex_id": "W4232013765",
+      "doi": "10.5354/0716-1077.2012.25864",
+      "title": "Peruzzotti, Enrique y Mart\u00edn Plot (editores) (2013). Critical Theory and Democracy. Civil society, dictatorship, and constitutionalism in Andrew Arato\u2019s democratic theory. Routledge",
+      "authors": [
+        {
+          "name": "Claudia Heiss",
+          "openalex_id": "A5059844327",
+          "orcid": "https://orcid.org/0000-0002-2690-7175"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-12-30",
+      "abstract": "\u00bf Qu\u00e9 tienen que ver las transiciones",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Pol\u00edtica Revista de Ciencia Pol\u00edtica",
+        "type": "journal",
+        "issn": [
+          "0716-1077",
+          "0719-5338"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.5354/0716-1077.2012.25864"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Critical Theory and Philosophy",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W4232013765"
+    },
+    {
+      "openalex_id": "W7167081523",
+      "doi": "10.1177/07255136261459471",
+      "title": "Reification re-specified: The power of commodity-mediated societalisation",
+      "authors": [
+        {
+          "name": "Mirela Ivanova",
+          "openalex_id": "A5016139021",
+          "orcid": "https://orcid.org/0000-0003-0528-7752",
+          "institutions": [
+            "University of Basel"
+          ]
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-07-02",
+      "abstract": "Against broader readings that extend reification across different social spheres, this article argues that the concept gains analytical precision when anchored in the economic fabric of society. It understands reification as arising from capitalist societalisation mediated by the commodity form. The concept designates a double form of power: first, the impersonal and abstract power generated by commodity-mediated relations; and second, the ideological power through which this historically specific order appears natural and unchangeable, fostering economic fatalism. The article also distinguishes reification from capitalist rationalisation, showing how fragmented rational calculation both presupposes and reproduces an irrational social totality. It further highlights the non-essentialist account of subjectivity on which the theory relies and clarifies the relation between reification and capitalist alienation. In doing so, it outlines a more precise framework for historicising reification and analysing its relation to socio-economic and political phenomena in contemporary capitalism.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Thesis Eleven",
+        "type": "journal",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/07255136261459471?download=true"
+      },
+      "topics": [
+        "Political Economy and Marxism",
+        "Agriculture, Land Use, Rural Development",
+        "Elite Sociology and Global Capitalism"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W7167081523"
+    },
+    {
+      "openalex_id": "W4407911432",
+      "doi": "10.70831/to100.8",
+      "title": "A T\u00f6rt\u00e9nelem \u00e9s oszt\u00e1lytudat, Karl Korsch \u00e9s az \u00e9rt\u00e9kkritika",
+      "authors": [
+        {
+          "name": "Alp\u00e1r Losoncz",
+          "openalex_id": "A5116411256"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": "Luk\u00e1cs Gy\u00f6rgy \u00e9s Karl Korsch gondolati teljes\u00edtm\u00e9nyei a 20. sz\u00e1zad h\u00faszas \u00e9veiben egyszerre konverg\u00e1lnak \u00e9s diverg\u00e1lnak. Sz\u00e1momra a legfontosabb az a t\u00e9ny, hogy mindketten r\u00e9szt v\u00e1llaltak a kritikai politikai gazdas\u00e1gtan \u00e9s a filoz\u00f3fia \u00f6tv\u00f6zet\u00e9nek megform\u00e1l\u00e1s\u00e1ban, noha jelzem, hogy elj\u00e1r\u00e1saik hi\u00e1nyoss\u00e1gokat is foglalnak magukban. Viszont a baloldali sz\u00edntereken \u00fajabban nemzetk\u00f6zi reput\u00e1ci\u00f3t \u00e9lvez\u0151 \u00e9rt\u00e9kkritika (Robert Kurz, Anselm Jappe, etc.) szempontj\u00e1b\u00f3l mindketten szigor\u00fa v\u00e1d al\u00e1 helyez\u0151dnek mint a marxi gondolkod\u00e1s regressz\u00edv folyamatainak el\u0151remozd\u00edt\u00f3i. Ezen tanulm\u00e1ny, abb\u00f3l kiindulva, hogy minden k\u00fcl\u00f6nbs\u00e9g ellen\u00e9re, Luk\u00e1cs \u00e9s Korsch egy\u00fctt t\u00e1rgyalhat\u00f3, meghat\u00e1rozott perspekt\u00edv\u00e1k alapj\u00e1n, apologetikus szempontokat sorakoztat fel az \u00e9rt\u00e9kkritika gondolataival szemben. K\u00fcl\u00f6n\u00f6sen az \u00e9rt\u00e9kkritika k\u00e9t v\u00e1dj\u00e1t elemzi, \u00e9s \u00fagy \u00e9rvel, hogy ezen v\u00e1dak voltak\u00e9ppen \u00f6sszef\u00fcgg\u0151 jelleg\u0171ek. Az egyik v\u00e1d az oszt\u00e1lyfogalom el\u00e9v\u00fclts\u00e9g\u00e9re, fel\u00fcletes dimenzi\u00f3kat megjelen\u00edt\u0151 mibenl\u00e9t\u00e9re vonatkozik. Az oszt\u00e1lyfogalom mind Lu\u00adk\u00e1cs, mind Korsch sz\u00e1m\u00e1ra kit\u00fcntetett fontoss\u00e1g\u00fa, s\u0151t gondolkod\u00e1suk alappill\u00e9r\u00e9t jelenti, minthogy az objektivit\u00e1s \u00e9s a szubjektivit\u00e1s dialektik\u00e1j\u00e1t k\u00edv\u00e1nj\u00e1k \u00e9rv\u00e9nyre juttatni. A m\u00e1sik v\u00e1d arra vonatkozik, hogy v\u00e1ls\u00e1gfiloz\u00f3fi\u00e1jukb\u00f3l elt\u0171nnek a determinisztikus aspektusok, \u00e9s ezzel legyeng\u00edtik a marxizmus v\u00e1ls\u00e1gelm\u00e9let\u00e9nek tov\u00e1bb\u00e9l\u00e9si es\u00e9lyeit. Ezzel szemben kimutathat\u00f3, hogy az objekt\u00edv/szubjekt\u00edv dialektik\u00e1t az eml\u00edtett k\u00e9t gondolkod\u00f3n\u00e1l a kritikai \u00e9rtelemben vett politikai gazdas\u00e1gtan rehabilit\u00e1ci\u00f3ja mozgatja, amelynek alapvet\u0151 impulzusai, Luk\u00e1cs messianisztikus von\u00e1sai \u00e9s Korsch empirizmusa ellen\u00e9re, tov\u00e1bbra is figyelemrem\u00e9lt\u00f3ak. A v\u00e1ls\u00e1gelm\u00e9letet nem lehet elszak\u00edtani az oszt\u00e1lyfiloz\u00f3fi\u00e1t\u00f3l, \u00e9s amennyiben Luk\u00e1cs gondolatait az eldologiasod\u00e1s kapcs\u00e1n nem \u00e9rtelmezz\u00fck redukt\u00edvan (mint \u201ekognit\u00edv deform\u00e1ci\u00f3t\u201d, pl.), \u00fagy ezek p\u00e1rbesz\u00e9dbe ker\u00fclhetnek a k\u00e9sei kapitalizmus dinamik\u00e1j\u00e1nak jelent\u00e9seivel. Luk\u00e1cs \u00e9s Korsch az \u00e9rt\u00e9kkritik\u00e1val szemben olyan perspekt\u00edv\u00e1t k\u00edn\u00e1lnak, amely r\u00e9v\u00e9n \u2013 persze az eml\u00edtett k\u00e9t gondolkod\u00f3t \u00e9rint\u0151 kritikai \u00e9rtelmez\u00e9s seg\u00edts\u00e9g\u00e9vel \u2013 \u00fajragondolhat\u00f3ak a v\u00e1ls\u00e1gelm\u00e9let \u00e9s az oszt\u00e1lylogika szempontjai.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://replika.hu/system/files/archivum/to100-losoncz.pdf"
+      },
+      "topics": [
+        "Hungarian Social, Economic and Educational Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4407911432"
+    },
+    {
+      "openalex_id": "W3181499146",
+      "doi": "10.4000/variations.1989",
+      "title": "Le Parti de Luk\u00e1cs et la praxis sociale",
+      "authors": [
+        {
+          "name": "Richard Westerman",
+          "openalex_id": "A5045220378",
+          "orcid": "https://orcid.org/0000-0002-8635-3928",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "Les textes fondateurs de la Th\u00e9orie critique, Histoire et Conscience de classe de Luk\u00e1cs et Marxisme et philosophie de Karl Korsch, \u00e9taient le produit d\u2019une crise dans le marxisme europ\u00e9en. Publi\u00e9s tous les deux en 1923, ils repr\u00e9sentaient une r\u00e9ponse aux r\u00e9volutions r\u00e9ussies et \u00e9chou\u00e9es : alors que les bolch\u00e9viques avaient pris le contr\u00f4le de la Russie en d\u00e9pit de son sous-d\u00e9veloppement, les gouvernements communistes en Hongrie et en Allemagne avaient \u00e9t\u00e9 rapidement renvers\u00e9s en raison d\u2019un ...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Variations",
+        "type": "journal",
+        "issn": [
+          "1968-3960"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.openedition.org/variations/pdf/1989"
+      },
+      "topics": [
+        "Political and Social Issues",
+        "French Historical and Cultural Studies"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W3181499146"
+    },
+    {
+      "openalex_id": "W2802220653",
+      "doi": "10.15448/10.15448/1984-6746.2018.1.29650",
+      "title": "New Left Encounters with Marx",
+      "authors": [
+        {
+          "name": "Dick Howard",
+          "openalex_id": "A5003198595",
+          "institutions": [
+            "Stony Brook University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-23",
+      "abstract": "The article uses the ideal of a New Left to conceptualize the underlying unity of diverse political experiences during the past half century. Although Marx is not the direct object of this reconstruction, his specter is a recurring presence at those \u201cnodal points\u201d where the imperative to move to \u201canother element\u201d becomes apparent. These are moments when the spirit that has animated a movement can advance no further; it is faced with new obstacles, which may be self-created. The article analyzes from a participant\u2019s perspective the development of the New Left in the U.S., France and West Germany as it tried to articulate what is dubbed the \"unknown dimension\" of Marx\u2019s theoretical project.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Veritas (Porto Alegre)",
+        "type": "journal",
+        "issn": [
+          "0042-3955",
+          "1984-6746"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://revistaseletronicas.pucrs.br/ojs/index.php/veritas/article/download/29650/16745"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2802220653"
+    },
+    {
+      "openalex_id": "W7137760268",
+      "doi": null,
+      "title": "Reappraisals",
+      "authors": [
+        {
+          "name": "Peter Uwe Hohendahl",
+          "openalex_id": "A5129482831"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Reappraisals is a provocative account of the development of modern critical theory in Germany and the United States. Focusing on the period since World War II, Peter Uwe Hohendahl explores key debates on the function of critical theory, illuminating the diverse positions and alliances among the participants. Bringing together six essays, as well as new introductory and concluding chapters, Hohendahl interprets and subjects to critical scrutiny many of the central ideas of the Frankfurt School. He first maps the trajectory of neomarxist criticism in Germany to the 1980s. Individual chapters then focus on the work of Georg Luk\u00e1cs, Theodor W. Adorno, and J\u00fcrgen Habermas, and on such issues as the politicization of German criticism after 1965 under the influence of the Frankfurt School. ; Reappraisals is a provocative account of the development of modern critical theory in Germany and the United States. Focusing on the period since World War II, Peter Uwe Hohendahl explores key debates on the function of critical theory, illuminating the diverse positions and alliances among the participants. Bringing together six essays, as well as new introductory and concluding chapters, Hohendahl interprets and subjects to critical scrutiny many of the central ideas of the Frankfurt School. He first maps the trajectory of neomarxist criticism in Germany to the 1980s. Individual chapters then focus on the work of Georg Lukacs, Theodor W. Adorno, and J\u00fcrgen Habermas, and on such issues as the politicization of German criticism after 1965 under the influence of the Frankfurt School.",
+      "cited_by_count": 0,
+      "type": "other",
+      "source": {
+        "name": "Directory of Open access Books (OAPEN Foundation)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/62137/1/9781501705458.pdf"
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W7137760268"
+    },
+    {
+      "openalex_id": "W2246627120",
+      "doi": "10.22439/kur2919813820",
+      "title": "Tiden r\u00e5ber p\u00e5 ...........? Kommentar til nogle aktuelle tendenser i marxismen",
+      "authors": [
+        {
+          "name": "Finn Dam Rasmussen",
+          "openalex_id": "A5012825137",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-12-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Kurasje",
+        "type": "journal",
+        "issn": [
+          "0455-0641"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://rauli.cbs.dk/index.php/kurasje/article/download/3820/4109"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2246627120"
+    },
+    {
+      "openalex_id": "W2584727891",
+      "doi": "10.11606/d.8.2015.tde-22062015-140405",
+      "title": "Romance e modernidade no jovem Luk\u00e1cs",
+      "authors": [
+        {
+          "name": "Anouch Neves de Oliveira Kurkdjian",
+          "openalex_id": "A5075787116",
+          "orcid": "https://orcid.org/0000-0001-9716-7234",
+          "institutions": [
+            "Universidad Tec De Oriente"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-27",
+      "abstract": "This dissertation aims to present a reading of the essay A theory of the novel, by Georg Lukcs, paying special attention to the link between the novel form and modernity formulated by the author. To this end, the moments of dialogue that Lukcs' work establishes with the theory of the novel of Friedrich Schlegel were retraced. It is not an attempt to track influences that may be present in the essay, but to show how The theory of the novel can be reconstructed from the critiques of the romantic theory of the novel. We intend to point out how the investigation of the novel form, the form that like no other expresses the \"transcendental homelessness\", consists for Lukcs in a gateway to and critique of the experience of alienation that takes place in the modern world.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://www.teses.usp.br/teses/disponiveis/8/8132/tde-22062015-140405/publico/2015_AnouchNevesDeOliveiraKurkdjian_VOrig.pdf"
+      },
+      "topics": [
+        "Cultural, Media, and Literary Studies",
+        "Critical Theory and Philosophy",
+        "Arts and Performance Studies"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W2584727891"
+    }
+  ],
+  "count": 14,
+  "errors": []
+}

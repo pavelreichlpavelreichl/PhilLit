@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Apotheosizing the Party Lukacs Chvostismus und Dia...' author=Lee Congdon year=2007
+[verify_paper.py] Paper found: Apotheosizing the Party: Lukács’s Chvostismus und ... (score: 79.0)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Apotheosizing the Party Lukacs Chvostismus und Dialektik",
+    "author": "Lee Congdon",
+    "year": 2007
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-007-9039-2",
+      "title": "Apotheosizing the Party: Luk\u00e1cs\u2019s Chvostismus und Dialektik",
+      "authors": [
+        {
+          "family": "Congdon",
+          "given": "Lee"
+        }
+      ],
+      "editors": [],
+      "year": 2007,
+      "container_title": "Studies in East European Thought",
+      "volume": "59",
+      "issue": "4",
+      "page": "281-292",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/s11212-007-9039-2",
+      "score": 79.00756
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

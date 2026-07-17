@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.1017/S1479244317000373
+[verify_paper.py] DOI verified: FROM MYSHKIN TO MARXISM: THE ROLE OF DOSTOEVSKY RE...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1017/S1479244317000373"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1017/s1479244317000373",
+      "title": "FROM MYSHKIN TO MARXISM: THE ROLE OF DOSTOEVSKY RECEPTION IN LUK\u00c1CS'S REVOLUTIONARY ETHICS",
+      "authors": [
+        {
+          "family": "WESTERMAN",
+          "given": "RICHARD"
+        }
+      ],
+      "editors": [],
+      "year": 2017,
+      "container_title": "Modern Intellectual History",
+      "volume": "16",
+      "issue": "3",
+      "page": "927-960",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1017/s1479244317000373"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Verifying DOI: 10.17234/zgb.29.10
+[verify_paper.py] DOI verified: Tertium datur. Lukács’ Early Aesthetics and Ethics...
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.17234/zgb.29.10"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.17234/zgb.29.10",
+      "title": "Tertium datur. Luk\u00e1cs\u2019 Early Aesthetics and Ethics as Mirrored in \"Die Eigenart des \u00c4sthetischen\"",
+      "authors": [
+        {
+          "family": "Perica",
+          "given": "Ivana"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Zagreber germanistische Beitr\u00e4ge",
+      "volume": "29",
+      "issue": "",
+      "page": "183-208",
+      "publisher": "Faculty of Humanities and Social Sciences, University of Zagreb",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.17234/zgb.29.10"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

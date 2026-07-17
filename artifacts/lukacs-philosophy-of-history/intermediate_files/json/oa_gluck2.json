@@ -1,0 +1,309 @@
+[search_openalex.py] Searching OpenAlex: '"Georg Lukacs" "His Generation" 1900-1918', limit=25
+[search_openalex.py] Retrieved 8 papers...
+[search_openalex.py] Search complete: 8 papers found
+[search_openalex.py] Cached results (cache key: openalex_152d00083e1536d5)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "\"Georg Lukacs\" \"His Generation\" 1900-1918",
+  "results": [
+    {
+      "openalex_id": "W2329140503",
+      "doi": "10.2307/1873427",
+      "title": "Georg Lukacs and His Generation, 1900-1918",
+      "authors": [
+        {
+          "name": "Lee Congdon",
+          "openalex_id": "A5108364240"
+        },
+        {
+          "name": "Mary Gluck",
+          "openalex_id": "A5018323667"
+        }
+      ],
+      "publication_year": 1986,
+      "publication_date": "1986-10-01",
+      "abstract": null,
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "The American Historical Review",
+        "type": "journal",
+        "issn": [
+          "0002-8762",
+          "1937-5239"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Central European national history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2329140503"
+    },
+    {
+      "openalex_id": "W2333566740",
+      "doi": "10.2307/2071091",
+      "title": "Georg Lukacs and his Generation 1900-1918.",
+      "authors": [
+        {
+          "name": "Martin Jay",
+          "openalex_id": "A5108707103"
+        },
+        {
+          "name": "Mary Gluck",
+          "openalex_id": "A5018323667"
+        }
+      ],
+      "publication_year": 1986,
+      "publication_date": "1986-09-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Contemporary Sociology A Journal of Reviews",
+        "type": "journal",
+        "issn": [
+          "0094-3061",
+          "1939-8638"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neurology and Historical Studies",
+        "Medical History and Research",
+        "Academic and Historical Perspectives in Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2333566740"
+    },
+    {
+      "openalex_id": "W2323809091",
+      "doi": "10.2307/4611567",
+      "title": "Georg Lukacs and His Generation, 1900-1918",
+      "authors": [
+        {
+          "name": "Franklin Hugh Adler",
+          "openalex_id": "A5017702524"
+        },
+        {
+          "name": "Mary Gluck",
+          "openalex_id": "A5018323667"
+        }
+      ],
+      "publication_year": 1986,
+      "publication_date": "1986-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "The Antioch Review",
+        "type": "journal",
+        "issn": [
+          "0003-5769",
+          "2326-9707"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Central European national history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2323809091"
+    },
+    {
+      "openalex_id": "W4245071704",
+      "doi": "10.2307/1770320",
+      "title": "Georg Lukacs and His Generation, 1900-1918",
+      "authors": [
+        {
+          "name": "Walter L. Adamson",
+          "openalex_id": "A5079116268"
+        },
+        {
+          "name": "Mary Gluck",
+          "openalex_id": "A5018323667"
+        }
+      ],
+      "publication_year": 1990,
+      "publication_date": "1990-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Comparative Literature",
+        "type": "journal",
+        "issn": [
+          "0010-4124",
+          "1945-8517"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Central European national history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4245071704"
+    },
+    {
+      "openalex_id": "W4318273175",
+      "doi": null,
+      "title": "The Tolnay\u2013Panofsky affair&#13;\\nor, loyalty to the youth: Max Dvo\u0159\u00e1k, the Vienna School, and the Sunday Circle",
+      "authors": [
+        {
+          "name": "Csilla Mark\u00f3ja",
+          "openalex_id": "A5059766390",
+          "institutions": [
+            "Hungarian Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Kata Bal\u00e1zs",
+          "openalex_id": "A5084360967"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-01",
+      "abstract": "The conflict between Charles de Tolnay and Erwin Panofsky that grew unprecedentedly acrimonious in the history of the discipline \u2013 the so-called Tolnay\u2013Panofsky affair \u2013 was more than mere personal bickering. The documents clearly reveal that the \u2018affair\u2019, which basically affected financial and professional positions, was based on embarrassingly ordinary, occasionally petty-minded questions instead of scientific arguments, and led to a break of relationship probably in spring 1943. It also directs the attention to the science political consequences of the hierarchic establishment of American science financing and academia in general in the interwar years and the 1940s, and to differences between European and American scholarship. It can be gleaned that Tolnay\u2019s efforts to be allotted raised stipends (often by a great degree, as the documents unanimously testify) and a confirmed position led to the deterioration of his relationship with the Princeton IAS leaders and community \u2013 in spite of the fact that the former leader of the Institute Flexner took Tolnay\u2019s side, at times with threats to Panofsky and Oppenheimer, and accusing Panofsky of professional jealousy. Though Tolnay received a raised scholarship up to 4000 dollars for three years, the institute decided to part with him in 1948. In the background of the affair, however, one may discover conflicts based on the diverging views on art history by Panofsky and Tolnay rooted far deeper, in the elementary influences of the Vienna School of Art History on the one hand, and of the Sunday Circle and Gy\u00f6rgy Luk\u00e1cs, on the other. The art philosophical aspects and methodological consequences of these dissenting concepts of art history may bear significance for the practitioners of the discipline today as well.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Repository of the Academy's Library (Library of the Hungarian Academy of Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://real.mtak.hu/111961/1/Markoja.pdf"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "European Cultural and National Identity",
+        "Central European national history"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4318273175"
+    },
+    {
+      "openalex_id": "W4247736181",
+      "doi": "10.7551/mitpress/9142.001.0001",
+      "title": "Ecstatic Worlds",
+      "authors": [
+        {
+          "name": "Janine Marchessault",
+          "openalex_id": "A5060988371"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "new ways to couple the",
+      "cited_by_count": 3,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://direct.mit.edu/books/monograph/3529/bookpreview-pdf/2341223"
+      },
+      "topics": [
+        "Utopian, Dystopian, and Speculative Fiction",
+        "Travel Writing and Literature",
+        "Historical Economic and Social Studies"
+      ],
+      "referenced_works_count": 206,
+      "url": "https://openalex.org/W4247736181"
+    },
+    {
+      "openalex_id": "W2244471637",
+      "doi": null,
+      "title": "Literaturbesprechung zu: Kathleen Gerson: Hard choices. How women decide about work, career, and motherhood. Berkeley and Los Angeles: University of California Press 1985",
+      "authors": [
+        {
+          "name": "Angelika T\u00f6lke",
+          "openalex_id": "A5045730930"
+        }
+      ],
+      "publication_year": 1988,
+      "publication_date": "1988-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "book-review",
+      "source": {
+        "name": "Social Science Open Access Repository (GESIS \u2013 Leibniz Institute for the Social Sciences)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.ssoar.info/ssoar/handle/document/4848"
+      },
+      "topics": [
+        "Work-Family Balance Challenges",
+        "Labor Movements and Unions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2244471637"
+    },
+    {
+      "openalex_id": "W2067235553",
+      "doi": "10.5195/ahea.2012.70",
+      "title": "Disputed Past: The Friendship and Competing Memories of Anna Lesznai and Emma Rito\u00f3k",
+      "authors": [
+        {
+          "name": "Judith Szapor",
+          "openalex_id": "A5049805597",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "This paper is part of a larger research project that explores the contributions of women intellectuals to the nationalistic, anti-liberal rhetoric of the early 1920s and the gendered aspect of the official ideology of the Horthy-era. The paper probes the connection of the personal and the political by exploring the shared history and competing memories of two woman writers, Anna Lesznai (1885-1966) and Emma Rito\u00f3k (1868-1945). The writers were friends and founding members of the Sunday Circle in 1915 but ended up in opposite camps during the 1918-19 revolutions. Rito\u00f3k, with C\u00e9cile Tormay, became a champion of the counter-revolution, contributing to its anti-Semitic ideology and rhetoric. Lesznai, the wife of Oszk\u00e1r J\u00e1szi and a supporter of the Republic of Councils, was forced to flee and she spent the rest of her life in exile. Their diaries and autobiographical novels reflect the two writers\u2019 diagonally opposing perspectives on their past and their shared intellectual and spiritual home, the Sunday Circle. The juxtaposition of their respective biographies and literary works offers insight into the process of re-interpreting and re-writing the past, whether for personal or political ends. It also illustrates the broader contours and irreparable breach between the Left and the nationalistic Right in Hungarian political and intellectual life after 1919.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Hungarian Cultural Studies",
+        "type": "journal",
+        "issn": [
+          "2471-965X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ahea.pitt.edu/ojs/index.php/ahea/article/download/70/60"
+      },
+      "topics": [
+        "Historical Geopolitical and Social Dynamics",
+        "Central European national history"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2067235553"
+    }
+  ],
+  "count": 8,
+  "errors": []
+}
