@@ -11,7 +11,7 @@
 - [x] Phase 3: Research domains sequentially
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections sequentially
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
 
@@ -38,17 +38,14 @@
 
 [2026-07-17] Phase 5: All 9 sections drafted sequentially (Sonnet): synthesis-section-1.md (Introduction) through synthesis-section-9.md (Conclusion).
 
-## Current Task
+[2026-07-17] Phase 6: Assembled literature-review-final.md (9 sections + YAML frontmatter), normalized headings, deduplicated bibliography (141 unique sources, no duplicates found across domains), generated Chicago author-date References (133 cited entries), fixed several raw-BibTeX-key citation artifacts in Sections 4/5 and disambiguated five same-author-same-year collisions (Baehrens 2023a/b, Rockmore 1992a/b, Kavoulakos 2018a/b, López 2020a/b, Lukács 1978a/b), removed one erroneous fuzzy-matched uncited reference (Elliott "Further Adventures"), lint passed clean, moved intermediate files to intermediate_files/.
 
-Phase 6: Assemble final review, dedupe bibliography, generate references, lint, clean up.
+## WORKFLOW COMPLETE
+
+Final outputs:
+- artifacts/lukacs-philosophy-of-history/literature-review-final.md (~8,300 words, 9 sections)
+- artifacts/lukacs-philosophy-of-history/literature-all.bib (141 sources)
 
 ## Next Steps
 
-1. Run assemble_review.py to build literature-review-final.md
-2. Run normalize_headings.py
-3. Run dedupe_bib.py to build literature-all.bib
-4. Run generate_bibliography.py to append References
-5. Run lint_md.py and fix issues
-6. Move intermediate files to intermediate_files/
-7. Optional DOCX conversion
-8. Commit and push final Phase 6 output
+None — workflow complete. (Optional DOCX conversion attempted separately if pandoc available.)
