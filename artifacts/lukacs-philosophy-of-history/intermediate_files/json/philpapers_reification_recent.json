@@ -1,0 +1,68 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Lukacs reification', limit=20
+[search_philpapers.py] Retrieved 7 entries...
+[search_philpapers.py] Search complete: 7 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Lukacs reification",
+  "results": [
+    {
+      "title": "Alexander Lerchner, The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness",
+      "url": "https://philpapers.org/rec/LERTAF",
+      "philpapers_id": "LERTAF",
+      "snippet": "Computational functionalism dominates current debates on AI consciousness. This is the hypothesis that subjective experience emerges entirely from abstract causal topology, regardless of the underlying physical substrate. We argue this view ...",
+      "page_age": "2026-03-09T05:05:03",
+      "author": [
+        {
+          "type": "person",
+          "name": "Alexander Lerchner"
+        }
+      ]
+    },
+    {
+      "title": "Intimacy by Design: Definition, State of Research, and ...",
+      "url": "https://philpapers.org/rec/SZCIBD",
+      "philpapers_id": "SZCIBD",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2026-06-30T00:00:00"
+    },
+    {
+      "title": "exploring the emerging phenomenon of addiction in the AI ...",
+      "url": "https://philpapers.org/rec/ALOAIA-2",
+      "philpapers_id": "ALOAIA",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2025-08-01T00:00:00"
+    },
+    {
+      "title": "Yichen Luo, Black Holes Inside and Out: A Philosophical Treatise on Black Hole Physics",
+      "url": "https://philpapers.org/rec/LUOBHI",
+      "philpapers_id": "LUOBHI",
+      "snippet": "This thesis explores the conceptual foundations of black hole physics through two interconnected aims. First, drawing on philosophical work on scientific modeling, explanation, and idealization, I elucidate the mathematical and methodological ...",
+      "page_age": "2025-09-10T00:00:00"
+    },
+    {
+      "title": "Omri Asscher, The case for humanities-based studies of AI ...",
+      "url": "https://philpapers.org/rec/ASSTCF",
+      "philpapers_id": "ASSTCF",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2026-06-30T00:00:00"
+    },
+    {
+      "title": "borders and migration management in the era of ...",
+      "url": "https://philpapers.org/rec/BLARWG",
+      "philpapers_id": "BLARWG",
+      "snippet": "A citation index of Philosophy containing thousands of bibliographies.",
+      "page_age": "2025-09-27T00:00:00"
+    },
+    {
+      "title": "Lauren Guilmette & Ada Jaarsma (eds.), Feminist Making, Doing, and Sensing: Experiments in Philosophy",
+      "url": "https://philpapers.org/rec/GUIFMD",
+      "philpapers_id": "GUIFMD",
+      "snippet": "Placing pressure on what it means to \u201cdo\u201d feminist philosophy, Feminist Making, Doing, and Sensing offers an innovative and critical rethinking of feminist philosophical practice and feminist philosophy as a disciplinary ...",
+      "page_age": "2026-04-28T17:55:02"
+    }
+  ],
+  "count": 7,
+  "errors": []
+}

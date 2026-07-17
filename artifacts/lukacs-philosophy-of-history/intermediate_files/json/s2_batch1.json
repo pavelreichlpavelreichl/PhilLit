@@ -1,0 +1,264 @@
+[s2_batch.py] Connecting to Semantic Scholar API...
+[s2_batch.py] Batch fetching 10 paper(s)...
+[s2_batch.py] Processing 10 responses...
+[s2_batch.py] Found 10 papers, 0 not found
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "10 paper IDs",
+  "results": [
+    {
+      "paperId": "cc7ec83cf19ea36803a93fb282006bb4954cd565",
+      "title": "What is reification in Georg Luk\u00e1cs\u2019s early Marxist work?",
+      "authors": [
+        {
+          "name": "Konstantinos Kavoulakos",
+          "authorId": "118503890"
+        }
+      ],
+      "year": 2020,
+      "abstract": "After the initial formulation of the concept of reification in Georg Luk\u00e1cs\u2019s History and Class Consciousness (HCC, 1923), a series of confusing uses of it within critical theory have contributed to blurring its contours. In his pre-Marxist work, while analyzing the social rationalization process, Luk\u00e1cs located the modern form of mediation between subject and object and connected it with certain effects on the level of human consciousness and behavior. This very scheme is repeated and refined in HCC. In the Reification essay, Luk\u00e1cs uses the neo-Kantian concept of the \u201cform of objectivity\u201d to grasp the central constitutive form of all kinds of objects in bourgeois society. He interprets Marx\u2019s commodity form as the \u201carchetype\u201d of all capitalist objectivity, which consists in converting qualitative contents into quantitative categories. Thus, the formal/calculative rationality of exchange penetrates all kinds of objectification in modern society. In Luk\u00e1cs\u2019s view, only in its modern, universalized form does rational objectification bring about the phenomenon of reification, i.e. the de-historicization and political neutralization of the social relations that constitute the social system and the dominant forms of consciousness. This systemic, cultural, and political understanding of reification can prove to be fruitful in the context of contemporary discussions on democratic transformative praxis.",
+      "citationCount": 7,
+      "doi": "10.1177/0725513619889693",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cc7ec83cf19ea36803a93fb282006bb4954cd565",
+      "venue": "Thesis Eleven",
+      "journal": {
+        "name": "Thesis Eleven",
+        "pages": "41 - 59",
+        "volume": "157"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1177/0725513619889693"
+    },
+    {
+      "paperId": "27bfa1b6151dcddf5a9c38aa0e4ffeaa93e177c0",
+      "title": "Luk\u00e1cs\u2019 antinomic \u2018standpoint of the proletariat\u2019: From philosophical to socio-historical determination",
+      "authors": [
+        {
+          "name": "A. Jaffe",
+          "authorId": "51164715"
+        }
+      ],
+      "year": 2020,
+      "abstract": "In History and Class Consciousness\u2019 central essay \u2018Reification and the Consciousness of the Proletariat\u2019, Luk\u00e1cs resolved the antinomies of bourgeois philosophy in the revolutionary \u2018standpoint of the proletariat\u2019. Luk\u00e1cs\u2019 strategy in deriving this proletarian standpoint, however, transposed the logical necessity appropriate to philosophical determinations into possibilities for revolutionary praxis imbedded in socio-historical contexts. Further, since the standpoint is determined as the necessary solution to bourgeois antinomies, it must be conceived singularly, rather than through its manifest diversity. As the key to mediating the social totality beyond antinomies, the \u2018standpoint of the proletariat\u2019 is therefore merely reflectively posited and one-sidedly determined. While many have developed logical, social-analytic, and political problems associated with determining the proletariat by way of its imputed or party-determined rather than empirical consciousness, few point to the very concept \u2018standpoint of the proletariat\u2019 as the source for these problems due to the fact that it is an abstractly derived solution to a philosophically posed problem. Socio-historical determination working with the modality of possibility can resolve Luk\u00e1cs\u2019 antinomic determination of the standpoint of the proletariat.",
+      "citationCount": 0,
+      "doi": "10.1177/0725513620911841",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/27bfa1b6151dcddf5a9c38aa0e4ffeaa93e177c0",
+      "venue": "",
+      "journal": {
+        "name": "Thesis Eleven",
+        "pages": "60 - 79",
+        "volume": "157"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1177/0725513620911841"
+    },
+    {
+      "paperId": "9f577097e8ea68011dc74bb5252ee7fba7d88468",
+      "title": "Luk\u00e1cs: The antinomies of bourgeois philosophy and the absolute",
+      "authors": [
+        {
+          "name": "D. L\u00f3pez",
+          "authorId": "2053967050"
+        }
+      ],
+      "year": 2020,
+      "abstract": "I reconstruct Luk\u00e1cs\u2019s immanent critique of German Idealism, found within his essay \u2018Reification and the Consciousness of the Proletariat\u2019 (in History and Class Consciousness), in order to foreground his philosophical reflection on the concepts of mediation, logic, genesis and praxis. I situate this reflection within his philosophy of praxis as a whole before highlighting the dialectical development of these terms within it. They are posited initially as abstract, methodological demands and are subsequently concretised and enriched, via Luk\u00e1cs\u2019s critical evaluation of the antinomies he discovers in Kant, Fichte, Schelling and Hegel. My reconstruction is both exegetical and critical. I demonstrate that Luk\u00e1cs\u2019s concept of praxis (as the culmination of mediation, logic and genesis) is explicitly intended to both bear the weight of Hegel\u2019s Absolute and overcome it. On this basis, I propose a novel immanent critique of Luk\u00e1cs\u2019s philosophy of praxis, suggesting that while Luk\u00e1cs wishes his concept of praxis to express a living, present and ontologically novel truth, his insight is won \u2013 in the fashion of Hegelian philosophy \u2013 after the historical event upon which it is built, as a philosophical reflection. Luk\u00e1cs\u2019s self-contradiction is that while he regards his philosophy of praxis as having overcome speculative, Hegelian philosophy, in fact, the position he generates remains firmly but unconsciously within it. Consequently, Luk\u00e1cs\u2019s philosophy of praxis possesses a theological dimension and must be regarded as an example of the kind of \u2018conceptual mythology\u2019 he sought to overcome.",
+      "citationCount": 2,
+      "doi": "10.1177/0725513620911859",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9f577097e8ea68011dc74bb5252ee7fba7d88468",
+      "venue": "",
+      "journal": {
+        "name": "Thesis Eleven",
+        "pages": "110 - 132",
+        "volume": "157"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1177/0725513620911859"
+    },
+    {
+      "paperId": "75ba6bfab452291fe4a962018dbf7255a78c9d51",
+      "title": "Luk\u00e1cs in the 1920s and the 2020s: The practice and praxis of intellectual history",
+      "authors": [
+        {
+          "name": "R. Westerman",
+          "authorId": "144550804"
+        }
+      ],
+      "year": 2020,
+      "abstract": "This article examines different intellectual-historical approaches to the work of Georg Luk\u00e1cs, arguing that a methodology similar to that of the Cambridge School is, curiously, that most in line with Luk\u00e1cs\u2019s own approach. I begin with some general methodological comments on intellectual history, before showing that a proper appreciation of the discourses within which Luk\u00e1cs was situated is essential to understanding both the specifics and the overall project of History and Class Consciousness. Finally, I argue that situating thinkers like Luk\u00e1cs properly within their time does not reduce them to museum pieces; rather, by seeking to capture the alterity of the past without reducing it to familiarity, we may de-reify our own world-views.",
+      "citationCount": 1,
+      "doi": "10.1177/0725513620911798",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/75ba6bfab452291fe4a962018dbf7255a78c9d51",
+      "venue": "",
+      "journal": {
+        "name": "Thesis Eleven",
+        "pages": "24 - 40",
+        "volume": "157"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1177/0725513620911798"
+    },
+    {
+      "paperId": "9331ea3311cf306eab97168874549795e89b3250",
+      "title": "\u201cObjective Possibility\u201d in Luk\u00e1cs\u2019s History and Class Consciousness",
+      "authors": [
+        {
+          "name": "Tyrus Miller",
+          "authorId": "2412453048"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract This study explores the pivotal concept of \u201cobjective possibility\u201d within Luk\u00e1cs\u2019s History and Class Consciousness, a concept that has received less attention compared to more prominent ideas such as reification or totality. Luk\u00e1cs frequently refers to \u201cobjective possibility\u201d and related terms in essays like \u201cWhat Is Orthodox Marxism?\u201d and \u201cClass Consciousness,\u201d emphasizing its importance in understanding class consciousness theoretically. The term\u2019s roots for Luk\u00e1cs derive from Max Weber\u2019s methodological writings, which drew from John Stuart Mill and Johannes von Kries and applied to historical and social causation. However, Luk\u00e1cs diverges from Weber\u2019s use, focusing not on counterfactual historical events but on latent historical tensions in the present that can be actualized through collective action. The study argues that Luk\u00e1cs integrates Weberian objective possibility with Marxist and Hegelian language, utilizing it within a modal social ontology. This approach allows Luk\u00e1cs to theorize key questions of class consciousness, historical action, and revolution. By drawing on Hegel\u2019s dialectics of possibility, actuality, and necessity, as well as Marxian contradictions in material conditions, Luk\u00e1cs reconfigures objective possibility from a heuristic tool for the writing of history to an ontologically significant element in the field of historical action.",
+      "citationCount": 0,
+      "doi": "10.1515/opphil-2024-0025",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9331ea3311cf306eab97168874549795e89b3250",
+      "venue": "Open Philosophy",
+      "journal": {
+        "name": "Open Philosophy",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1515/opphil-2024-0025"
+    },
+    {
+      "paperId": "81cdf67e3456db01ee50f846a45bfcff623d2e46",
+      "title": "Modality and Actuality: Luk\u00e1cs\u2019s Criticism of Hegel in History and Class Consciousness",
+      "authors": [
+        {
+          "name": "Gaetano Rametta",
+          "authorId": "2074314210"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract The present article tries to show the originality of Luk\u00e1cs\u2019s theory of Actuality (Wirklichkeit) by comparing it with the same notion in Hegel\u2019s Logic. It results that Luk\u00e1cs\u2019s interpretation of Marxism and the Russian Revolution depends on a clear and independent theoretical position with regard to Hegel and his Idealistic theory of Modality. Particular importance is given to the new conception of the Dialectical interplay between the notions of Objective Possibility and Historical Necessity.",
+      "citationCount": 0,
+      "doi": "10.1515/opphil-2024-0005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81cdf67e3456db01ee50f846a45bfcff623d2e46",
+      "venue": "Open Philosophy",
+      "journal": {
+        "name": "Open Philosophy",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1515/opphil-2024-0005"
+    },
+    {
+      "paperId": "61d2bc558e4eb0ae38d17c04655944e302c01f20",
+      "title": "The Marxist Method as the Foundation of Social Criticism \u2013 Luk\u00e1cs\u2019 Perspective",
+      "authors": [
+        {
+          "name": "Mateus Soares de Souza",
+          "authorId": "2308432761"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract The investigation into the foundations of social critique has increasingly gained importance in the tradition known as Critical Theory. In this context, I will analyze Luk\u00e1cs\u2019 work, particularly History and Class Consciousness, to comprehend the foundation he provides for social critique, rooted in the adoption of Marxism as a method. I posit that the escalating disjunction between the critique of the object and the critique of theory is attributable to the deepening social fragmentation engendered by capitalist structures. This inherent characteristic underscores the imperative for a cohesive amalgamation of epistemic and socio-ontological critique. To elucidate Luk\u00e1cs\u2019 model of critique, I will give particular attention to the chapter \u201cWhat Is Orthodox Marxism?\u201d. By doing this, I aim to elucidate Luk\u00e1cs\u2019 assertion that the Marxist method facilitates a harmonious integration between the epistemic and socio-ontological dimensions of life, once it incorporates crucial categories such as historicity, totality, reciprocal action, and mediation. Furthermore, his method underscores the symbiotic relationship between some elements of the political economy and the German philosophical tradition, which shapes Luk\u00e1cs\u2019 conceptualization of critique.",
+      "citationCount": 1,
+      "doi": "10.1515/opphil-2024-0019",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/61d2bc558e4eb0ae38d17c04655944e302c01f20",
+      "venue": "Open Philosophy",
+      "journal": {
+        "name": "Open Philosophy",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "_queryId": "DOI:10.1515/opphil-2024-0019"
+    },
+    {
+      "paperId": "ee57e6ad8f78bafd1c5a7465d21b8e51a0bb3f5a",
+      "title": "\u201cIt Would be Helpful to Know Which Textbook Teaches the \u2018Dialectic\u2019 he Advocates.\u201d Inserting Luk\u00e1cs into the Neurath\u2013Horkheimer Debate",
+      "authors": [
+        {
+          "name": "P. Tripodi",
+          "authorId": "50521339"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract The present article aims at providing some clarification on the Horkheimer-Neurath 1937 debate, so as to make three main claims: (a) around 1937 (even though perhaps neither in the early 1930s, at the time of his review of Mannheim\u2019s Ideology and Utopia, nor after the Second World War, at the time of Adorno\u2019s disenchanted statement, \u201cthe whole is the false\u201d), Horkheimer belonged to the Hegelian-Marxist tradition stemming from Luk\u00e1cs\u2019s History and Class Conscioussness (1923); (b) notwithstanding Neurath\u2019s semantic and epistemological holism, his fallibilism, his rejection of Wertfreiheit in the social sciences, his commitment to socialism, there is still a gulf between his position and Horkheimer\u2019s, for Neurath did not accept the main methodological claim made by the latter, namely, the Luk\u00e1cs-inspired view that what \u201cconstitutes the decisive difference between Marxism and bourgeois thought\u201d is the Hegelian \u201cpoint of view of totality\u201d; (c) highlighting the main differences between Neurath\u2019s and Luk\u00e1cs\u2019s versions of Marxism \u2013 one concerning the very idea of dialectic, and the other concerning the epistemic privilege of the proletariat \u2013 can throw some light on and help understand better the distinctive features of Luk\u00e1cs\u2019s Hegelianization of Marxism.",
+      "citationCount": 1,
+      "doi": "10.1515/opphil-2024-0014",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ee57e6ad8f78bafd1c5a7465d21b8e51a0bb3f5a",
+      "venue": "Open Philosophy",
+      "journal": {
+        "name": "Open Philosophy",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "_queryId": "DOI:10.1515/opphil-2024-0014"
+    },
+    {
+      "paperId": "abc68ebde675902e71fceaf010b443bca4243c54",
+      "title": "What does reification conceal?",
+      "authors": [
+        {
+          "name": "T. Hedrick",
+          "authorId": "117218454"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.19079/metodo.9.2.121",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/abc68ebde675902e71fceaf010b443bca4243c54",
+      "venue": "Metodo",
+      "journal": {
+        "name": "Metodo"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.19079/metodo.9.2.121"
+    },
+    {
+      "paperId": "4f73b9c547431a2ce7f3abfde939487e36fba22c",
+      "title": "Populism and the Logic of Commodity Fetishism: Luk\u00e1cs\u2019s Theory of Reification and Authoritarian Leaders",
+      "authors": [
+        {
+          "name": "R. Westerman",
+          "authorId": "144550804"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1163/9789004430082_016",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4f73b9c547431a2ce7f3abfde939487e36fba22c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "289-321",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1163/9789004430082_016"
+    }
+  ],
+  "count": 10,
+  "errors": []
+}

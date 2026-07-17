@@ -1,0 +1,42 @@
+[s2_search.py] Searching Semantic Scholar: 'The Philosophy of Praxis Marx Lukacs and the Frankfurt School Feenberg', limit=20
+[s2_search.py] Rate limited, backing off (attempt 1/5)...
+[s2_search.py] Retrying after 1.6s backoff...
+[s2_search.py] Rate limited, backing off (attempt 2/5)...
+[s2_search.py] Retrying after 2.1s backoff...
+[s2_search.py] Retrieved 1/1 papers...
+[s2_search.py] Search complete: 1 papers found
+[s2_search.py] Cached results (cache key: s2_44fddca60c728fbd)
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "The Philosophy of Praxis Marx Lukacs and the Frankfurt School Feenberg",
+  "results": [
+    {
+      "paperId": "86aab53086a00bb165c3017b155761e43aba4ff8",
+      "title": "Andrew Feenberg , The Philosophy of Praxis: Marx, Luk\u00e1cs and the Frankfurt School . Reviewed by",
+      "authors": [
+        {
+          "name": "Darrell P. Arnold",
+          "authorId": "117853479"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/86aab53086a00bb165c3017b155761e43aba4ff8",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy in review",
+        "pages": "137-139",
+        "volume": "35"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,280 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Second International Marxism Kautsky Bernstein Lukacs', limit=20
+[search_philpapers.py] Retrieved 18 entries...
+[search_philpapers.py] Search complete: 18 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Second International Marxism Kautsky Bernstein Lukacs",
+  "results": [
+    {
+      "title": "L. Colletti, The Marxism of the Second International",
+      "url": "https://philpapers.org/rec/COLTMO-13",
+      "philpapers_id": "COLTMO",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "L. Colletti"
+        }
+      ],
+      "extra_snippets": [
+        "Main Currents of Marxism: Its Rise, Growth, and Dissolution.B. R. - 1980 - Review of Metaphysics 33 (3):635-637. Added to PP 2014-01-17 Downloads 37 (#1,178,984) 6 months 8 (#1,284,992) ... Historical materialism and ethics: Eduard Bernstein's revisionist perspective.Manfred Steger - 1992 - History of European Ideas 14 (5):647-663.",
+        "The golden age and its return in the marxism of the second international.Vincent Geoghegan - 1989 - Utopian Studies 2:60-68.",
+        "COLLETTI, L., \"Il marxismo e Hegel\". [REVIEW]G. P.",
+        "The First \"Telos\" International Conference \"The New Marxism\" October 8-11, 1970, Waterloo, Ontario.Ben Mijuskovic - 1970 - Telos: Critical Theory of the Contemporary 6:294."
+      ]
+    },
+    {
+      "title": "Gy\u00f6rgy Luk\u00e1cs, Marx's Basic Ontological Principles",
+      "url": "https://philpapers.org/rec/LUKMBO",
+      "philpapers_id": "LUKMBO",
+      "snippet": "L&#x27;esprit de scission: \u00e9tudes sur Marx, Gramsci, Luk\u00e1cs.Andr\u00e9 Tosel - 1991 - Presses Univ. Franche-Comt\u00e9. Marx: A Beginner&#x27;s Guide.Gill Hands - 2000 - Hodder &amp; Stoughton. On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "extra_snippets": [
+        "L'esprit de scission: \u00e9tudes sur Marx, Gramsci, Luk\u00e1cs.Andr\u00e9 Tosel - 1991 - Presses Univ. Franche-Comt\u00e9. Marx: A Beginner's Guide.Gill Hands - 2000 - Hodder & Stoughton. On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism."
+      ]
+    },
+    {
+      "title": "Karl Kautsky (ed.), The Road to Power",
+      "url": "https://philpapers.org/rec/KAUTRT-3",
+      "philpapers_id": "KAUTRT",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "extra_snippets": [
+        "The Road to Power was a highly controversial political pamphlet published in 1909\u2014an important document for the understanding of the Wilhelmine Empire and especially of the German Social Democratic Party and Kautsky's role in it\u2014and it was Kautsky's last major attack on the revisionists' hope for a gradual \"growth in socialism\" without any drastic changes in the political order.",
+        "On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+        "Democracy in Karl Kautsky\u2019s theory of ultra-imperialism.Thomas Furse - 2026 - Thesis Eleven 192 (1):3-22. Marxism after Marx: Karl Kautsky\u2019s Disputed Legacy.Ben Lewis - 2017 - Historical Materialism 25 (3):141-147.",
+        "Archive Marxism and the Union Bureaucracy: Karl Kautsky on Samuel Gompers and the German Free Trade Unions.Daniel Gaido - 2008 - Historical Materialism 16 (3):115-136."
+      ]
+    },
+    {
+      "title": "Ben Lewis, Marxism after Marx: Karl Kautsky\u2019s Disputed Legacy",
+      "url": "https://philpapers.org/rec/LEWMAM-18",
+      "philpapers_id": "LEWMAM",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Ben Lewis"
+        }
+      ],
+      "extra_snippets": [
+        "Today, Karl Kautsky is mainly remembered for his polemics against the young Bolshevik regime or as the \u2018renegade\u2019 in Lenin\u2019sThe Proletarian Revolution and the Renegade Kautsky, which pillories him for his wavering stance in opposing World War I and his outright hostility to the Russian Revolution of October 1917.",
+        "On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+        "Archive Marxism and the Union Bureaucracy: Karl Kautsky on Samuel Gompers and the German Free Trade Unions.Daniel Gaido - 2008 - Historical Materialism 16 (3):115-136.",
+        "Friedrich Engels' Briefwechsel mit Karl Kautsky: 2., durch die Briefe Karl Kautskys Vervollstandigte Ausg. von \"aus der Fruhzeit des Marxismus\".Friedrich Engels & Karl Kautsky - 1955 - Danubia-Verlag."
+      ]
+    },
+    {
+      "title": "Stefan Sullivan, Marx for a Post-Communist Era: On Poverty, Corruption and Banality",
+      "url": "https://philpapers.org/rec/SULMFA-4",
+      "philpapers_id": "SULMFA",
+      "snippet": "As such, the work, after two introductory chapters, leaves behind Marxology and its familiar cast of characters (Bernstein, Kautsky, Adorno, Lukacs, Fanon, Horkheimer, Marcuse, etc.) to address both neo-Marxist and non-Marxist interpretations of these obstacles.",
+      "page_age": null,
+      "extra_snippets": [
+        "As such, the work, after two introductory chapters, leaves behind Marxology and its familiar cast of characters (Bernstein, Kautsky, Adorno, Lukacs, Fanon, Horkheimer, Marcuse, etc.) to address both neo-Marxist and non-Marxist interpretations of these obstacles.",
+        "Marcuse's Hegelian Marxism, Marx's Grundrisse, Hegel's Dialectic.Russell Rockwell - 2013 - Radical Philosophy Review 16 (1):289-306.",
+        "Marx After Marxism: The Philosophy of Karl Marx.Tom Rockmore - 2002 - Wiley-Blackwell."
+      ]
+    },
+    {
+      "title": "Stefan Sullivan, Marx for a postcommunist era: on poverty, corruption, and banality",
+      "url": "https://philpapers.org/rec/SULMFA",
+      "philpapers_id": "SULMFA",
+      "snippet": "As such, the work, after two introductory chapters, leaves behind Marxology and its familiar cast of characters (Bernstein, Kautsky, Adorno, Lukacs, Fanon, Horkheimer, Marcuse, etc.) to address both neo-Marxist and non-Marxist interpretations of these obstacles.",
+      "page_age": "2009-01-28T00:00:00",
+      "extra_snippets": [
+        "As such, the work, after two introductory chapters, leaves behind Marxology and its familiar cast of characters (Bernstein, Kautsky, Adorno, Lukacs, Fanon, Horkheimer, Marcuse, etc.) to address both neo-Marxist and non-Marxist interpretations of these obstacles.",
+        "Marcuse's Hegelian Marxism, Marx's Grundrisse, Hegel's Dialectic.Russell Rockwell - 2013 - Radical Philosophy Review 16 (1):289-306.",
+        "On Marxism in the Wentieth Century.Tom Rockmore - 2008 - In In Kant's Wake: Philosophy in the Twentieth Century. Oxford: Wiley-Blackwell.",
+        "On Marxism and Realism: A Reply to Branwen Gruffyd Jones.Sean Creaven - 2005 - Historical Materialism 13 (2):223-240."
+      ]
+    },
+    {
+      "title": "Karl Kautsky & H. J. Stenning, The Economic Doctrines of Karl Marx, Etc",
+      "url": "https://philpapers.org/rec/KAUTED-2",
+      "philpapers_id": "KAUTED",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null
+    },
+    {
+      "title": "James Muldoon, Luise Kautsky: The \u2018Forgotten Soul\u2019 of the Socialist Movement",
+      "url": "https://philpapers.org/rec/MULLKT",
+      "philpapers_id": "MULLKT",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Muldoon"
+        }
+      ],
+      "extra_snippets": [
+        "On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+        "Friedrich Engels' Briefwechsel mit Karl Kautsky: 2., durch die Briefe Karl Kautskys Vervollstandigte Ausg. von \"aus der Fruhzeit des Marxismus\".Friedrich Engels & Karl Kautsky - 1955 - Danubia-Verlag. Added to PP 2021-02-03 Downloads 42 (#1,105,424) 6 months 8 (#1,137,566) ... No citations found. ... Gender and the \u201cGreat Man\u201d: Recovering Philosophy's \u201cWives of the Canon\u201d.Jennifer Forestal & Menaka Philips - 2018 - Hypatia 33 (4):587-592. Die materialistische geschichsauffassung.Karl Kautsky - 1927 - Berlin,: J.",
+        "Marxism after Marx: Karl Kautsky\u2019s Disputed Legacy.Ben Lewis - 2017 - Historical Materialism 25 (3):141-147.",
+        "Karl Kautsky: Ethics and Marxism.Burns Tony - 2001 - In Lawrence Wilde, Marxism's ethical thinkers. New York: Palgrave."
+      ]
+    },
+    {
+      "title": "Lars T. Lih, The tasks of our times: Kautsky\u2019s Road to Power in Germany and Russia",
+      "url": "https://philpapers.org/rec/LIHTTO",
+      "philpapers_id": "LIHTTO",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Lars T. Lih"
+        }
+      ],
+      "extra_snippets": [
+        "On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+        "In the end, Road to Power helped inspire Kautsky\u2019s greatest fans turned fiercest foes to make what he considered a tragic mistake: the October revolution. ... Setup an account with your affiliations in order to access resources via your University's proxy server \u00b7 Sign in / register and customize your OpenURL resolver ... Marxism after Marx: Karl Kautsky\u2019s Disputed Legacy.Ben Lewis - 2017 - Historical Materialism 25 (3):141-147.",
+        "Archive Marxism and the Union Bureaucracy: Karl Kautsky on Samuel Gompers and the German Free Trade Unions.Daniel Gaido - 2008 - Historical Materialism 16 (3):115-136. Added to PP 2018-07-11 Downloads 89 (#497,276) 6 months 11 (#1,088,840) ... No citations found. ... Dictatorship of the \u201cProletariat\u201d.Stanis\u0142aw Dronicz & Les\u0142aw Kawalec - 2011 - Dialogue and Universalism 21 (3):137-150. The Road to Power.Karl Kautsky (ed.)",
+        "Karl Kautsky, 1854-1938: Marxism in the Classical Years.Gary P."
+      ]
+    },
+    {
+      "title": "Daniel Gaido, 'The American Worker' and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart's Why Is There No Socialism in the United States?",
+      "url": "https://philpapers.org/rec/DANTAW",
+      "philpapers_id": "DANTAW",
+      "snippet": "Democracy in Karl Kautsky\u2019s theory of ultra-imperialism.Thomas Furse - forthcoming - Thesis Eleven. On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Daniel Gaido"
+        }
+      ],
+      "extra_snippets": [
+        "This article is an introduction to the first English edition of Karl Kautsky's article series \"The American Worker\" (Karl Kautsky, \u201cDer amerikanische Arbeiter\u201d, Die neue Zeit, 24. 1905-1906, 1. Bd., 1906, H. 21, S. 676-683, H. 22, S. 717-727, H. 23, S. 740-752, H.",
+        "Democracy in Karl Kautsky\u2019s theory of ultra-imperialism.Thomas Furse - forthcoming - Thesis Eleven. On the Formation of Marxism: Karl Kautsky's Theory of Capitalism, the Marxism of the Second International and Karl Marx's Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+        "Marxism and social democracy: The revisionist debate, 1896\u20131898.Christopher Lloyd - 1990 - History of European Ideas 12 (6):857-858. Samuel Gompers.Karl Kautsky - 2008 - Historical Materialism 16 (3):137-146.",
+        "Archive Marxism and the Union Bureaucracy: Karl Kautsky on Samuel Gompers and the German Free Trade Unions.Daniel Gaido - 2008 - Historical Materialism 16 (3):115-136."
+      ]
+    },
+    {
+      "title": "Csaba Varga (ed.), Marxian Legal Theory",
+      "url": "https://philpapers.org/rec/VARMLT",
+      "philpapers_id": "VARMLT",
+      "snippet": "{texts from Western &amp; Eastern Marxism} Introduction xiii\u2013xxvii; ORIGINS L. S. MAMUT \u2018Questions of Law in Marx\u2019s Capital\u2019 [1968] 3\u201310, PETER SCH\u00d6TTLER \u2018Friedrich Engels and Karl Kautsky as Critics of \u00bbLegal ...",
+      "page_age": null,
+      "extra_snippets": [
+        "{texts from Western & Eastern Marxism} Introduction xiii\u2013xxvii; ORIGINS L. S. MAMUT \u2018Questions of Law in Marx\u2019s Capital\u2019 [1968] 3\u201310, PETER SCH\u00d6TTLER \u2018Friedrich Engels and Karl Kautsky as Critics of \u00bbLegal Socialism\u00ab\u2019 [1986] 11\u201342, WILLIAM LEON MCBRIDE \u2018The Concept of Justice in Marx, Engels, and Others\u2019 [1975] 43\u201357; BOUNDARIES WILLIAM LEON MCBRIDE \u2018Marxism and Natural Law\u2019 [1970] 61\u201387, ZDRAVKO GREBO \u2018\u00bbKelsenism\u00ab and Marxism\u2019 [1985] 89\u2013107, K\u00c1LM\u00c1N KULCS\u00c1R \u2018The Historical Concept in the Science of Law of the XXth Century\u2019 [1963] 109\u2013148; TRENDS EUGENE KAMENKA \u2018A Marxist Theory of Law?\u2019 [1983] 151\u2013177, R.",
+        "WARRINGTON \u2018Pashukanis and the Commodity Form Theory\u2019 [1981] 179\u2013200, EUGENE KAMENKA \u2018Luk\u00e1cs and Law\u2019 [1987] [= books1981/review] 201\u2013208, MICHAEL JAWORSKYJ \u2018Soviet Critique of the \u00bbBourgeois\u00ab Philosophy of Law\u2019 [1960] 209\u2013232, RICHARD KINSEY \u2018Marxism and the Law: Preliminary Analyses\u2019 [1978] 233\u2013258; CONTEMPORARY ISSUES IMRE SZAB\u00d3 \u2018The Notion of Law\u2019 [1976] 261\u2013270, WIESLAW LANG \u2018Law and Morality from a Marxist Point of View\u2019 [1976] 271\u2013286, JERZY KOWALSKI \u2018Idea of Equality and the Law\u2019 [1985] 287\u2013291, JERZY WR\u00d3BLEWSKI \u2018Problems of Legality in",
+        "Pas\u030cukanis on ideology and the juridical (a note on The General theory of law and Marxism).Rafa\u0142 Man\u0301ko - 2025 - In Gian-Giacomo Fusco, Przemys\u0142aw Tacik & Cosmin Sebastian Cercel, Legal form: Pashukanis and the Marxist critique of law.",
+        "Decentring Marxism: The Pozna\u0144 School and Socialist International Law in Eastern Europe after 1945.Jakub Szumski - 2024 - In Raluca Grosescu & Ned Richardson-Little, Socialism and International Law: The Cold War and Its Legacies."
+      ]
+    },
+    {
+      "title": "Alasdair C. MacIntyre, Marxism and Christianity",
+      "url": "https://philpapers.org/rec/MACMAC-2",
+      "philpapers_id": "MACMAC",
+      "snippet": "Contending that Marxism achieved its unique position in part by adopting the content and functions of Christianity, MacIntyre details the religious attitudes and modes of belief that appear in Marxist doctrine as it developed historically from the philosophies of Hegel and Feuerbach, and as it has been carried on by latter-day interpreters from Rosa Luxemburg and Trotsky to Kautsky and Lukacs.",
+      "page_age": null,
+      "extra_snippets": [
+        "Contending that Marxism achieved its unique position in part by adopting the content and functions of Christianity, MacIntyre details the religious attitudes and modes of belief that appear in Marxist doctrine as it developed historically from the philosophies of Hegel and Feuerbach, and as it has been carried on by latter-day interpreters from Rosa Luxemburg and Trotsky to Kautsky and Lukacs.",
+        "Marxism \u2014 Communism \u2014 Christianity (Comments on J.",
+        "Kuczy\u0144ski's \"Marxism and Christianity\").Jos\u00e9 Mar\u00eda Valverde - 1977 - Dialectics and Humanism 4 (2):127-128.",
+        "Marxism and Christianity.Don Wiebe - 1984 - Philosophical Studies (Dublin) 30:356-357."
+      ]
+    },
+    {
+      "title": "Georg Luk\u00e1cs, History and Class Consciousness: Studies in Marxist Dialectics",
+      "url": "https://philpapers.org/rec/LUKHAC",
+      "philpapers_id": "LUKHAC",
+      "snippet": "A series of essays treating, among other topics, the definition of orthodox Marxism, the question of legality and illegality, Rosa Luxemburg as a Marxist, the changing function of Historic Marxism, class consciousness, and the ...",
+      "page_age": null,
+      "extra_snippets": [
+        "A series of essays treating, among other topics, the definition of orthodox Marxism, the question of legality and illegality, Rosa Luxemburg as a Marxist, the changing function of Historic Marxism, class consciousness, and the ...",
+        "Back to Hegel! : Georg Luk\u00e1s, Dialectics, and Hegelian Marxism.Anders Burman - 2018 - In Anders Burman & Anders Baronek, Hegelian Marxism: The Uses of Hegel\u2019s Philosophy in Marxist Theory from Georg Luk\u00e1cs to Slavoj \u017di\u017eek. S\u00f6dert\u00f6rns h\u00f6gskola.",
+        "\u201cObjective Possibility\u201d in Luk\u00e1cs\u2019s History and Class Consciousness.Tyrus Miller - 2024 - Open Philosophy 7 (1):161-518. The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93.",
+        "Images of society: Essays on the sociological theories of tocqueville, Marx and Durkheim. By Gianfranco Poggi. Stanford and London: Oxford university press, 1972. Pp. XVI+ 267. $8.95. History and class consciousness: Studies in Marxist dialectics. By Georg Luk\u00e1cs."
+      ]
+    },
+    {
+      "title": "Paul le Blanc, The Absence of Socialism in the United States: Contextualising Kautsky's 'American Worker'",
+      "url": "https://philpapers.org/rec/PAUTAO-2",
+      "philpapers_id": "PAUTAO",
+      "snippet": "Marxism and philosophy.Karl Korsch - 1970 - New York,: M[onthly] R[eview Press. A Defence of &#x27;History and Class Consciousness&#x27;.Georg Luk\u00e1cs - 2005 - Studies in East European Thought 57 (1):81-84.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Paul le Blanc"
+        }
+      ],
+      "extra_snippets": [
+        "Marxism and philosophy.Karl Korsch - 1970 - New York,: M[onthly] R[eview Press. A Defence of 'History and Class Consciousness'.Georg Luk\u00e1cs - 2005 - Studies in East European Thought 57 (1):81-84.",
+        "'The American Worker' and the Theory of Permanent Revolution: Karl Kautsky on Werner Sombart's Why Is There No Socialism in the United States?Daniel Gaido - 2003 - Historical Materialism 11 (4):79-123. Archive Marxism and the Union Bureaucracy: Karl Kautsky on Samuel Gompers and the German Free Trade Unions.Daniel Gaido - 2008 - Historical Materialism 16 (3):115-136.",
+        "Karl Kautsky and Marxist Historiography.Paul Blackledge - 2006 - Science and Society 70 (3):337-359."
+      ]
+    },
+    {
+      "title": "Teodor Shanin, Late Marx and the Russian Road: Marx and \"the Peripheries of Capitalism\"",
+      "url": "https://philpapers.org/rec/SHALMA-4",
+      "philpapers_id": "SHALMA",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "extra_snippets": [
+        "The complexity of historical time in the Latin American Marxism: Variegated social formations and structural heterogeneity in the work of Ren\u00e9 Zavaleta and An\u00edbal Quijano.Fabian Cabaluz & Tom\u00e1s Torres L\u00f3pez - 2024 - Thesis Eleven 182 (1):57-74."
+      ]
+    },
+    {
+      "title": "Titus Stahl, Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "url": "https://philpapers.org/rec/STAGGL",
+      "philpapers_id": "STAGGL",
+      "snippet": "In History and Class Consciousness, Luk\u00e1cs laid out a wide-ranging critique of the phenomenon of \u201creification\u201d in capitalism and formulated a vision of Marxism as a self-conscious transformation of society.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Titus Stahl"
+        }
+      ],
+      "extra_snippets": [
+        "Georg (Gy\u00f6rgy) Luk\u00e1cs (1885\u20131971) was a literary theorist and philosopher who is widely viewed as one of the founders of \u201cWestern Marxism\u201d. Luk\u00e1cs is best known for his pre-World War II writings in literary theory, aesthetic theory and Marxist philosophy.",
+        "Michael Lowy, \"Georg Lukacs - From Romanticism to Bolshevism\" & Andrew Arato and Paul Breines, \"The Young Lukacs and the Origins of Western Marxism\".Robert Anchor - 1981 - Telos: Critical Theory of the Contemporary 48. Diskurs\u00fcberschneidungen Georg Luk\u00e1cs und Andere: Akten Des Internationalen Georg-Luk\u00e1cs-Symposiums \"Perspektiven Der Forschung\" Essen 1989.Werner Jung & Internationales Georg-Luk\u00e1cs-Symposium \"Perspektiven der Forschung\" - 1993",
+        "Today, his most widely read works are the Theory of the Novel of 1916 and History and Class Consciousness of 1923. In History and Class Consciousness, Luk\u00e1cs laid out a wide-ranging critique of the phenomenon of \u201creification\u201d in capitalism and formulated a vision of Marxism as a self-conscious transformation of society.",
+        "Das Prinzip Verdinglichung: Studie zur Philosophie Georg Luk\u00e1cs'.R\u00fcdiger Dannemann - 1987 \u00b7 The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93."
+      ]
+    },
+    {
+      "title": "Richard Michael McDonough, Karl Marx\u2019s Exuberant Praise Of Capitalism",
+      "url": "https://philpapers.org/rec/MCDKME",
+      "philpapers_id": "MCDKME",
+      "snippet": "On the Formation of Marxism: Karl Kautsky&#x27;s Theory of Capitalism, the Marxism of the Second International and Karl Marx&#x27;s Critique of Political Economy.Jukka Gronow - 2017 - Historical Materialism.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Richard Michael McDonough"
+        }
+      ]
+    },
+    {
+      "title": "Tom Meisenhelder, The Contemporary Significance of Karl Korsch\u2019s Marxism",
+      "url": "https://philpapers.org/rec/MEITCS",
+      "philpapers_id": "MEITCS",
+      "snippet": "(The Present State of the Problem of Marxism and Philosophy: An Anti-Critique.-Introduction to the Critique of the Gotha Programme.) (Translated ... With an Introduction by Fred Halliday.).Karl Korsch - 1970 - New York: M[Onthly] R[Eview Press. Hegel, Lukacs and Korsch: On the Emancipatory Significance of the Dialectic in Critical Marxism.F.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Tom Meisenhelder"
+        }
+      ],
+      "extra_snippets": [
+        "An Anthology of Western Marxism: From Luk\u00e1cs and Gramsci to Socialist-Feminism.Roger S.",
+        "(The Present State of the Problem of Marxism and Philosophy: An Anti-Critique.-Introduction to the Critique of the Gotha Programme.) (Translated ... With an Introduction by Fred Halliday.).Karl Korsch - 1970 - New York: M[Onthly] R[Eview Press. Hegel, Lukacs and Korsch: On the Emancipatory Significance of the Dialectic in Critical Marxism.F.",
+        "Marxismus Und Philosophie.Karl Korsch - 1966 - Wien, Europa Verlag."
+      ]
+    }
+  ],
+  "count": 18,
+  "errors": []
+}
