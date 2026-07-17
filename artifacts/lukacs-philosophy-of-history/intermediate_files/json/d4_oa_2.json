@@ -1,0 +1,912 @@
+[search_openalex.py] Searching OpenAlex: 'Lukacs Hegel philosophy of history' (year=2000-2025), limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_5e56df8ec0e0f493)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lukacs Hegel philosophy of history",
+  "results": [
+    {
+      "openalex_id": "W2060614752",
+      "doi": "10.1080/09672559.2011.631147",
+      "title": "Hegel, Alienation, and the Phenomenological Development of Consciousness",
+      "authors": [
+        {
+          "name": "Gavin Rae",
+          "openalex_id": "A5058894420",
+          "orcid": "https://orcid.org/0000-0003-0987-1454",
+          "institutions": [
+            "American University in Cairo"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-02-01",
+      "abstract": "Abstract While it has long been recognized that the concept 'alienation' plays a crucial role in Hegel's Phenomenology of Spirit and indeed his overall philosophical project, too often commentators simply note its importance without providing an in-depth discussion of this important concept. I aim to remedy this by providing an extended discussion of the role that alienation plays in the phenomenological development of consciousness. To do so, I first, briefly, outline the project that Hegel undertakes in the Phenomenology of Spirit, before undertaking an analytic of the concept 'alienation' to show that: (a) Hegel distinguishes between 'alienation as estrangement' (Entfremdung) and 'alienation as externalisation' (Enta\u00fcsserung); and (b) the two senses of the term are intimately, if differently, related to concepts such as objectivity and objectification. I then show that, while he recognizes that the experience of alienation may be an undesirable aspect of consciousness's existence, Hegel maintains that experiencing a particular combination of the two senses of alienation allows consciousness to overcome its alienation. The conclusion drawn is that properly understanding Hegel's subtle and multi-dimensional account of alienation provides us with insight into this concept, Hegel's conception of consciousness, and his wider philosophical project. Keywords: Hegelalienationconsciousnessobjectificationphenomenology Notes 1 Jean Hyppolite, Logic and Existence, trans. L. Lawlor and A. Sen (Albany: State University of New York Press, 1997), p.178. 2 Hans-Georg Gadamer, Hegel's Dialectic: Five Hermeneutical Studies, trans. C. P. Smith (London: Yale University Press, 1976), p.106. 3 Georg Lukacs, The Young Hegel: Studies in the Relation between Dialectics and Economics, trans. R. Livingstone (Cambridge, MA: MIT Press, 1975), p. 538. 4 Richard Schacht, Alienation (New York: Anchor Books, 1970), p. 3. 5 Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit, trans. A. V. Miller (Oxford: Oxford University Press, 1977). [Hereafter cited in the text as PS]. 6 Philip J. Kain, Hegel and the Other: A Study of the Phenomenology of Spirit (New York: State University of New York, 2005), pp. 10\u201313. 7 For a detailed discussion of the issues surrounding the various transitions between the various shapes of consciousness see: Robert Pippin, 'You Can't Get There from Here: Transition Problems in Hegel's Phenomenology of Spirit', in Frederick C. Beiser (ed.) The Cambridge Companion to Hegel, (Cambridge: Cambridge University Press, 1999), pp. 52\u201385. 8 Stephen Houlgate, An Introduction to Hegel: Freedom, Truth and History (Oxford: Blackwell, 2005), p. 51. 9 Georg Wilhelm Friedrich Hegel, Introduction to the Lectures on the History of Philosophy, trans. T. Knox and A. V. Miller (Oxford: Oxford University Press, 2003), p. 82. [Hereafter cited in the text as HP]. 10 Hyppolite, Logic and Existence, p. 103. 11 Daniel Berthold-Bond, Hegel's Grand Synthesis: A Study of Being, Thought, and History (Albany: State University of New York Press, 1989), p. 104. 12 For a more detailed discussion of the relationship between spirit, subjectivity, and objectivity in Absolute Knowing see: Walter D. Ludwig, 'Hegel's Conception of Absolute Knowing', The Owl of Minerva, 21(1) (1989), pp.5\u201319. 13 On this point see: Stephen Houlgate, 'Power, Egoism and the \"Open\" Self in Nietzsche and Hegel', Journal of the British Society for Phenomenology, 22(3) (October 1991), pp. 120\u201338. 14 Stanley Rosen, G. W. F. Hegel: An Introduction to the Science of Wisdom (London: Yale University Press, 1974), p. 173. 15 Kain, Hegel and the Other, pp.156\u201369. 16 Louis Dupr\u00e9, 'Hegel's Concept of Alienation and Marx's Re-Interpretation of It', Hegel-Studien, 7 (1972), pp. 217\u201336. 17 Eric von der Luft, 'An Early Interpretation of Hegel's Phenomenology of Spirit', Hegel-Studien, 24 (1989), pp. 183\u201394. 18 Abigail L. Rosenthal, 'A Hegelian Key to Hegel's Method', Journal of the History of Philosophy, 9 (1971), pp. 205\u201312. 19 Murray Greene, 'Alienation within a Problematic of Substance and Subject', Social Research, 33 (1966), pp. 355\u201374; 367\u20138. 20 Karl Marx, 'Economic and Philosophical Manuscripts (1844)', in Early Writings, trans. R. Livingstone and G. Benton (London: Penguin, 1992), pp. 279\u2013400; 386\u20137.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0967-2559",
+          "1466-4542"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Ethics and Theory",
+        "Philosophy and Historical Thought",
+        "Kantian Philosophy and Modern Interpretations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2060614752"
+    },
+    {
+      "openalex_id": "W2009499399",
+      "doi": "10.1558/crit.v10i3.341",
+      "title": "Second Nature and Recognition: Hegel and the Social Space",
+      "authors": [
+        {
+          "name": "Italo Testa",
+          "openalex_id": "A5022234943",
+          "orcid": "https://orcid.org/0000-0001-5232-6254",
+          "institutions": [
+            "University of Parma"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-12-30",
+      "abstract": "In this article I intend to show the strict relation between the notions of \"second nature\" and \"recognition\". To do so I begin with a problem (circularity) proper to the theory of Hegelian and post-Hegelian Anerkennung. The solution strategy I propose is significant also in terms of bringing into focus the problems connected with a notion of \"space of reasons\" that stems from the Hegelian concept of \"Spirit\". I thus broach the notion of \"second nature\" as a bridge-concept that can play a key role both for a renewal of the theory of Anerkennung and for a rethinking of the \"space of reasons\" within the debate between Robert Brandom and John McDowell. Against this background I illustrate the novel ties introduced by the dialectical conception of the relation between first and second nature developed by Hegel and the contribution this idea can make to a revisited theory of recognition as a phenomenon articulated on two levels. I then return to the question of the space of reasons to show the contribution the renewed conception of recognition as second nature makes to the definition of its intrinsic sociality as something that is not in principle opposed to a sense of naturalness.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Critical Horizons",
+        "type": "journal",
+        "issn": [
+          "1440-9917",
+          "1568-5160"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/TESSNA.pdf"
+      },
+      "topics": [
+        "Kantian Philosophy and Modern Interpretations",
+        "Philosophical and Historical Studies",
+        "Philosophical Ethics and Theory"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W2009499399"
+    },
+    {
+      "openalex_id": "W2379280820",
+      "doi": null,
+      "title": "On Luk\u00e1cs' History and Class Consciousness",
+      "authors": [
+        {
+          "name": "WU Xiao-min",
+          "openalex_id": "A5037404235",
+          "orcid": "https://orcid.org/0000-0001-9454-9886"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "As one of the most significant documents on Marxist philosophy in the twentieth century, Lukacs' History and Class Consciousness' importance lies, above all, in the aspect of the foundation of ontology. The achievements of this book are concerned not only with criticizing Mehring- \u041f \u043b e x a H o B 's orthodox  explanative direction dealing with Marx's philosophy (especially pointing out the great danger of this direction treating Marx's understanding as an unchangeable subject), but in reality with the most important and urgent ontological foundation question of Marx's philosophy from many aspects. It is a pity, however, this book's own explanative direction towards Marx's philosophy ends at Hegel: it belongs to Hegel judged from the whole situation of its ontology; and it still belongs to Hegel judged from its many scattered wonderful viewpoints. The critical point here is that Lukacs' work failed in really understanding the basic premises and the naive nature of the entire form of metaphysics, in puncturing the inner nature of consciousness, and in decisively terminating the epistemological (or notion method's) direction constructed by ontology.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Yunnan Daxue xuebao. Shehui kexue ban",
+        "type": "journal",
+        "issn": [
+          "1671-7511"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2379280820"
+    },
+    {
+      "openalex_id": "W586590558",
+      "doi": null,
+      "title": "The Philosophical Roots of Anti-Capitalism: Essays on History, Culture, and Dialectical Thought",
+      "authors": [
+        {
+          "name": "David M. Black",
+          "openalex_id": "A5017753023",
+          "orcid": "https://orcid.org/0000-0002-5969-3329"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-12-11",
+      "abstract": "Introduction Part One The Philosophical Roots of Anti-Capitalism 1 - The 'Secret Identity' of the Commodity Form 2 - The Capitalism of Philosophy? The Greek Origins of Abstraction 3 - Rethinking the 'Origins of Abstraction' 4 - Comedy and Tragedy 5 - The Poiesis of Orpheus -Fragmentation and Wholeness 6 - Hegel's Minerva 7 - Community and Civil Society 8 - Kant and the 'Autonomous Intellect' 9 - Capitalism: De-Socialized Labor 10 - Absolute Negativity as Anti-Capitalism Part Two Critique of the Situationist Dialect: Art, Class-Consciousnesness, and Reification 1 - Art Surrealism and the Crisis of the Object In the Beginning was the Letter Unitary Urbanism, Derive and Detournement Asger Jorn, the Artists and the Founding of the Situationist International 2 - Class Consciousness Socialisme ou Barbarie The Critique of Everyday Life and the Hegelian Dialectic 3 - Reification The Theory of the Spectacle-Commodity and the Influence of Georg Lukacs Situationist Council Communism The Integrated Spectacle and Globalization Part Three Essays Labor and Value: from the Greek Polis to Globalized State-Capitalism Reification in the 21st Century - Lukacs' Dialectic Ends of History and New Beginnings: Hegel and the 'Dialectics of Philosophy and Organization' Conclusion - Philosophy and Revolution in the Twenty-First Century",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ci.nii.ac.jp/ncid/BB14492458"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W586590558"
+    },
+    {
+      "openalex_id": "W3149263688",
+      "doi": null,
+      "title": "Georg Lukacs and Organizing Class Consciousness",
+      "authors": [
+        {
+          "name": "Robert Lanning",
+          "openalex_id": "A5012782020"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-01",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "book",
+      "source": {
+        "name": "University of Minnesota Digital Conservancy (University of Minnesota)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/11299/219237"
+      },
+      "topics": [
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3149263688"
+    },
+    {
+      "openalex_id": "W3178483135",
+      "doi": "10.3390/philosophies6030056",
+      "title": "Aesthetic Theory and the Philosophy of Nature",
+      "authors": [
+        {
+          "name": "Said Mikki",
+          "openalex_id": "A5066018053",
+          "orcid": "https://orcid.org/0000-0002-0225-1941",
+          "institutions": [
+            "University of Illinois Urbana-Champaign",
+            "Zhejiang University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-06",
+      "abstract": "We investigate the fundamental relationship between philosophical aesthetics and the philosophy of nature, arguing for a position in which the latter encompasses the former. Two traditions are set against each other, one is natural aesthetics, whose covering philosophy is Idealism, and the other is the aesthetics of nature, the position defended in this article, with the general program of a comprehensive philosophy of nature as its covering theory. Our approach is philosophical, operating within the framework of the ontology of the process of the production of art, inspired especially by the views of Antonin Artaud, Nietzsche, Heidegger, Bakhtin, Deleuze, and Guattari. We interrogate Dilthey and Worringer while outlining an ontology of art based on the production of nonhuman images and a nonpersonal experiential field of nature.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Philosophies",
+        "type": "journal",
+        "issn": [
+          "2409-9287"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2409-9287/6/3/56/pdf?version=1625622903"
+      },
+      "topics": [
+        "Environmental Philosophy and Ethics",
+        "Philosophy, Ethics, and Existentialism",
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W3178483135"
+    },
+    {
+      "openalex_id": "W2148009046",
+      "doi": null,
+      "title": "Philosophy of New Jazz: Reconstructing Adorno",
+      "authors": [
+        {
+          "name": "Dustin Garlitz",
+          "openalex_id": "A5056247887",
+          "orcid": "https://orcid.org/0000-0002-9409-5121",
+          "institutions": [
+            "University of South Florida"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Theodor W. Adorno, the towering twentieth century German intellectual figure and distinctive musical thinker, was legendary for being over-critical of jazz music. Through a consideration at his admiration for avant-garde chamber and symphonic music, I plan to develop a position that, surprisingly, points towards a theory of unacknowledged acceptance of jazz. The style of jazz that will be the newly constructed musical idiom of admiration for Adorno will be of the heterodox variety. My method of reconstruction will be to interrogate the inconsistencies in Adorno's critical musical writings, and negate such negations with factual evidence of affirmation found in the avant-garde jazz community. This Hegelian approach to musical scholarship has not been as common in the field's published literature as it should be.\\nA linear motive that will be initiated by this treatise's unfolding will be to restore the integrity to jazz culture which Adorno ravished in the realm of critical theory from the 1930's through the middle part of the twentieth century. Adorno's two primary interests will undergo a type synthesis in this study that will render justice to both music and philosophy. Early in the study, Adorno's youth experiences with Simmel and Kracauer (as well as his later apprenticeship with Walter Benjamin) will be discussed and an effort will be made to determine how such studies altered Adorno's aesthetic values. I am particularly interested in mapping the development of the theory of aura from Benjamin to Adorno, and how auratic art differs from aura-exuding music. Next, an avant-garde jazz composer will be looked at. This will be done to enforce the point that the next generation of jazz musicians who Adorno disliked so much had firmly committed aesthetic values of their own.\\nThe modern social philosophical thought that informed these values, which include Kant's Third Critique up to Anthony Giddens' concept of a double hermeneutic, intersect with Adorno's intellectual background. Thus the scholarly aesthetic distance between the 'new jazz' musician and Adorno, I will show not really that wide.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Digital Commons - University of South Florida (University of South Florida)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=3182&context=etd"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Music History and Culture",
+        "Schopenhauer and Stefan Zweig"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2148009046"
+    },
+    {
+      "openalex_id": "W4233917764",
+      "doi": "10.25138/2.2.a.4",
+      "title": "Heidegger, Hegel, Marx: Marcuse and the Theory of Historicity",
+      "authors": [
+        {
+          "name": "Jeffry Ocay",
+          "openalex_id": "A5046251702"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-01",
+      "abstract": "he search for a historically conscious individual who is disposed to \"radical action\" is the main thrust of this paper. This is premised on the following claims: first, that the modern society is a pathological society whose rules, most often but not necessarily, imply control and domination; thus a \"refusal\" to abide by these rules is the most appropriate alternative available; and, second, that there is still hope for the Enlightenment's project of emancipation, that is, such \"refusal,\" which means a political fight for liberation, is still winnable no matter how formidable the forces of domination may be. But this paper can only do so much. I do not offer any universal and prefab solution to the pathological society. What I do instead is argue that the emergence of a historically conscious individual who is disposed to \"radical action,\" which eventually leads to a \"collective radical action,\" is still possible today. I also argue that \"radical action\" presupposes an awareness of the concrete socio-historical situations, thus the importance of \"historicity.\" This is done through a reconstructive reading of Marcuse's Critical Theory. In fact, my argument is just an echo on what Marcuse did more than four decades ago.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Kritike An Online Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "1908-7330"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.25138/2.2.a.4"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W4233917764"
+    },
+    {
+      "openalex_id": "W1566058601",
+      "doi": "10.1002/9780470998809.ch8",
+      "title": "Cultural Studies and Philosophy: An Intervention",
+      "authors": [
+        {
+          "name": "Douglas Kellner",
+          "openalex_id": "A5084229007",
+          "orcid": "https://orcid.org/0000-0002-1643-6744"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-01-01",
+      "abstract": "Since cultural studies has become a global popular in the past two decades, philosophy has been an unthematized and often suppressed dimension of the enterprise. While many trained in philosophy, such as myself, have engaged in the practice of cultural studies, few have reflected on the philosophical dimension and the role of philosophy within the project. The lack of reflection and debate over the function of philosophy within cultural studies and general suppression of such concerns have rendered cultural studies vulnerable to problematic philosophical positions and/or have vitiated the enterprise due to inadequately developed philosophical dimensions.",
+      "cited_by_count": 10,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9780470998809.ch8"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Cultural Studies and Colonialism",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 56,
+      "url": "https://openalex.org/W1566058601"
+    },
+    {
+      "openalex_id": "W2096634410",
+      "doi": "10.18052/www.scipress.com/ilshs.61.145",
+      "title": "Lukacs and Reflection Theory",
+      "authors": [
+        {
+          "name": "Hani Yahyanejad",
+          "openalex_id": "A5042410084",
+          "institutions": [
+            "Semnan University"
+          ]
+        },
+        {
+          "name": "Ensieh Shabanirad",
+          "openalex_id": "A5082330648",
+          "institutions": [
+            "University of Tehran"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-10-01",
+      "abstract": "This essay claims that the rejection of Luka\u0301cs\u2019s realism is quite problematic, in the sense that his opponents such as Adorno and Althusser symbolically used the name of Luka\u0301cs and perpetuated the suspicion of Luka\u0301cs\u2019s compromise with Stalinism. The essay argues that Luka\u0301cs\u2019s model of reflection is not couched in Stalin\u2019s socialist realism, a theory that assumes the transparency between aesthetic forms and reality, but rather raises the essential problems of the condition of writers in capitalist society. Luka\u0301cs\u2019s realism aims at providing a practical strategy to overcome cultural reification, focusing on the mediation between an author and his material condition. An investigation of Luka\u0301cs\u2019s realism reveals that Luka\u0301cs\u2019s way of understanding realism arises from his emphasis on objectivity rather than subjective reflection such as Kantian philosophy. The essay claims that this is the kernel of Luka\u0301csean reflection theory signified by an aesthetic of realism definitively opposed to Stalin\u2019s socialist realism. From this perspective, the essay takes Althusserian Marxism as the occasion to stage a wide consideration of anti-realism. It proposes to elucidate the implicit assumptions behind the decline of Luka\u0301cs\u2019s realism, and the reification of cultural fields that gradually came to dominate Western literary apparatuses.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "International Letters of Social and Humanistic Sciences",
+        "type": "journal",
+        "issn": [
+          "2300-2697"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.scipress.com/ILSHS.61.145.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political theory and Gramsci",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2096634410"
+    },
+    {
+      "openalex_id": "W420020946",
+      "doi": "10.7591/9781501723278",
+      "title": "The Forms of Historical Fiction",
+      "authors": [
+        {
+          "name": "Harry E. Shaw",
+          "openalex_id": "A5068032353"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-05-26",
+      "abstract": "Harry Shaw\u2019s aim is to promote a fuller understanding of nineteenth-century historical fiction by revealing its formal possibilities and limitations. His wide-ranging book establishes a typology of the ways in which history was used in prose fiction during the nineteenth century, examining major works by Sir Walter Scott\u2014the first modern historical novelist\u2014and by Balzac, Hugo, Anatole France, Eliot, Thackeray, Dickens, and Tolstoy",
+      "cited_by_count": 109,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.7591/9781501723278"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W420020946"
+    },
+    {
+      "openalex_id": "W2111561369",
+      "doi": "10.1111/1467-8675.12101",
+      "title": "Crisis? Capitalism is Doing Very Well. How is Critical Theory?",
+      "authors": [
+        {
+          "name": "Albena Azmanova",
+          "openalex_id": "A5028739115",
+          "orcid": "https://orcid.org/0000-0002-2471-2016"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-01",
+      "abstract": "Social critique in the late twentieth century has inadvertently given impetus to neoliberal, flexible, 'networked' capitalismclaimed Luc Boltanski and Eve Chiapello in The New Spirit of Capitalism. Is Critical Theory in Frankfurt School tradition guilty of such a charge? What are the analytical tools at its disposal for mounting a critique of neoliberal capitalism? After addressing the crisis of capitalism as a distinct object of critique, this article examines the way some of the most valuable achievements of Critical Theory have depleted its resources for a critique of contemporary capitalism. It then offers a model of critique able to target both injustices rooted in the unequal distribution of power (relational domination) and those rooted in the operative logic of capital reproduction (systemic domination) by focusing attention on the key structural contradictions of contemporary capitalism.",
+      "cited_by_count": 244,
+      "type": "article",
+      "source": {
+        "name": "Constellations",
+        "type": "journal",
+        "issn": [
+          "1351-0487",
+          "1467-8675"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8675.12101"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Political Economy and Marxism",
+        "Critical Realism in Sociology"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2111561369"
+    },
+    {
+      "openalex_id": "W3046616555",
+      "doi": "10.18523/2617-1678.2020.5.90-102",
+      "title": "Do We Need Hegel? (Reader\u2019s Notes to the Ukrainian Translation of \u201cThe Phenomenology of Spirit\u201d)",
+      "authors": [
+        {
+          "name": "Viktor Kozlovskyi",
+          "openalex_id": "A5059182272",
+          "orcid": "https://orcid.org/0000-0001-8302-3977"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-28",
+      "abstract": "The article considers the Ukrainian translation of the latest edition of Hegel's work \u201cThe Phenomenology of Spirit\u201d (2019). The analysis focuses on the conformity of this translation with the generally accepted world requirements and norms that put forward the translation and publication of classical philosophical texts. The historical circumstances of the appearance of \u201cPh\u00e4nomenologie des Geistes\u201d (1807) are briefly considered, as well as the history of its editing and republishing in the 19-20th cent., and it is shown that without this history any translation cannot be considered as acceptable.Manuscript received 01.03.2020",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "NaUKMA Research Papers Philosophy and Religious Studies",
+        "type": "journal",
+        "issn": [
+          "2617-1678",
+          "2617-5703"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://nzpr.ukma.edu.ua/article/download/208866/209020"
+      },
+      "topics": [
+        "Philosophical and Historical Studies",
+        "Philosophical Ethics and Theory",
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W3046616555"
+    },
+    {
+      "openalex_id": "W53044924",
+      "doi": null,
+      "title": "Modern German thought from Kant to Habermas : an annotated German-Language reader",
+      "authors": [
+        {
+          "name": "Henk de Berg",
+          "openalex_id": "A5030426785"
+        },
+        {
+          "name": "Duncan Large",
+          "openalex_id": "A5068566055",
+          "orcid": "https://orcid.org/0000-0001-6555-7334"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "German-language thinkers such as Kant, Marx, Nietzsche, and Freud are central to modernity. Yet their reception in the English-speaking world has largely depended on translations, a situation that has often hampered full engagement with the rhetorical and philosophical complexity of the German history of ideas. The present volume, the first of its kind, is a response to this situation. After an introduction charting the remarkable flowering of German-language thought since the eighteenth century, it offers extracts -- in the original German -- from sixteen major philosophical texts, with extensive introductions and annotations in English. All extracts are carefully chosen to introduce the individual thinkers while allowing the reader to pursue broader themes such as the fate of reason or the history of modern selfhood. The book offers students and scholars of German a complement to linguistic, historical, and literary study by giving them access to the wealth of German-language philosophy. It represents a new way into the work of a succession of thinkers who have defined modern philosophy and thus remain of crucial relevance today. The philosophers: Immanuel Kant, G. W. F. Hegel, Ludwig Feuerbach, Karl Marx, Arthur Schopenhauer, Friedrich Nietzsche, Sigmund Freud, Martin Heidegger, Walter Benjamin, Georg Lukacs, Max Horkheimer and Theodor Adorno, Jurgen Habermas. Henk de Berg is Professor of German at the University of Sheffield. Duncan Large is Professor of German at Swansea University.",
+      "cited_by_count": 2,
+      "type": "book",
+      "source": {
+        "name": "Camden House eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nietzsche, Schopenhauer, and Hegel"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W53044924"
+    },
+    {
+      "openalex_id": "W4311152226",
+      "doi": "10.1007/978-3-031-13591-0",
+      "title": "Art and Politics in Roger Scruton's Conservative Philosophy",
+      "authors": [
+        {
+          "name": "Ferenc H\u00f6rcher",
+          "openalex_id": "A5065866357",
+          "orcid": "https://orcid.org/0000-0001-8390-0116",
+          "institutions": [
+            "Institute of Philosophy",
+            "Hungarian Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-12",
+      "abstract": null,
+      "cited_by_count": 5,
+      "type": "book",
+      "source": {
+        "name": "Palgrave studies in classical liberalism",
+        "type": "book series",
+        "issn": [
+          "2662-6470",
+          "2662-6489"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/HRCAAP.pdf"
+      },
+      "topics": [
+        "Political and Economic history of UK and US",
+        "Foucault, Power, and Ethics",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4311152226"
+    },
+    {
+      "openalex_id": "W1988010437",
+      "doi": "10.1111/j.1467-8330.2012.00981.x",
+      "title": "<i>The Gramscian Moment: Philosophy, Hegemony and Marxism</i> by Peter D. Thomas",
+      "authors": [
+        {
+          "name": "Michael Ekers",
+          "openalex_id": "A5072574408",
+          "orcid": "https://orcid.org/0000-0003-2859-873X",
+          "institutions": [
+            "University of Toronto",
+            "Institute of Geography of the Slovak Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-07",
+      "abstract": "Peter D. Thomas , The Gramscian Moment: Philosophy, Hegemony and Marxism . Leiden : Brill , 2009 . ISBN 978 90 04 167711 ( cloth ). Antonio Gramsci has had something of a spectral presence in geography, often looming in the background of regulation theory and analyses of the local state. Recently, a decided turn to Gramsci can be witnessed in research on political ecology, globalization, philosophy and space. For anyone interested in Gramsci, Peter Thomas\u2019The Gramscian Moment is quickly becoming required reading given its exhaustive presentation of Gramsci's thought and politics. The Gramscian Moment has the ambitious task of providing a philologically accurate reading of Gramsci in the hope of renewing Marxist philosophy and working-class movements. The starting point for Thomas is a philological reconstruction of Gramsci necessary for combating two influential, yet limiting, readings of Gramsci, specifically Althusser's (1970) critiques levelled in Reading Capital and Perry Anderson's (1976) landmark \u201cThe antinomies of Antonio Gramsci\u201d published in New Left Review. In Reading Capital (Althusser and Balibar 1970), Althusser levelled a series of criticisms against Gramsci, suggesting that Gramsci's adherence to Hegel leads him to produce a flat totality, incapable of determining social dynamics from a scientific (anti-historicist) vantage point. At the same time, Althusser's infamous anti-humanism led him to argue that the Italian's work was tainted by voluntarism and faith in the conscious will of social actors. This reading of Gramsci shaped debates throughout the 1960s and 1970s, and as Thomas argues, continues to hold sway today, predominantly within philosophical circles. If Gramsci is often understood through an Althusserian lens, Perry Anderson's influential criticism of the Prison Notebooks is the second reading of Gramsci through which many approach his work. Anderson argued that Gramsci's work was beset by a number of slippages that ultimately amount to contradictory accounts of the state, hegemony and the relationship between the \u2018East\u2019 and the \u2018West\u2019. As Thomas recounts, Anderson is suspect of Gramsci's notion of civil hegemony and the situating of political possibilities within wars of position, civil society and cultural struggles. Despite the authoritative and seductive character of Anderson's argument, Thomas argues that his engagement with Gramsci imposes a series of schemas and dualisms onto his work that close attention to his carceral writings do not support. If Althusser provides a problematic philosophical caricature of Gramsci and Anderson asserts the political bankruptcy of his work, Thomas strives to resuscitate Gramsci from these bleak assessments. The remainder of the book is dedicated to this task. However, perhaps more interesting to readers than the responses to Althusser and Anderson is the detailed exposition of Gramsci's method, literary style, politics and philosophy. Although The Gramscian Moment is a long, painstaking read, one comes away with a greatly enriched understanding of Gramsci's broad style of Marxism, both as a political practice and a philosophy, which as Thomas suggests, cannot be teased apart without doing harm to Gramsci's philosophy of praxis. In Chapter 3, Thomas builds his case against Anderson and Althusser through examining the literary form of the Prison Notebooks. It is wrong to search for a hidden structure to the Prison Notebooks, argues Thomas, yet Anderson searched for a systematic treatment of concepts in Gramsci's work. When he found distinct accounts of the state and hegemony, he mistakenly accused Gramsci of conceptual slippage. Thomas argues that slippage is not the problem as the different content of notes reflects Gramsci's ongoing refinement and extension of key arguments. At the same time, Thomas argues that the fragmentary character of the notes is not a reflection of his imprisonment, but rather, reflects a deeper ontological and epistemological position emphasizing a historicist and dialogical approach. According to Thomas, it is only through a close philological reading of Gramsci that we can develop a \u201chistorical image\u201d of his work that attends to the continued development and refinement of his thought. Chapters 4 and 5 reassess Anderson's stifling political evaluation of Gramsci. Thomas\u2019 mode of response is to present Gramsci as a much more dialectic thinker than Anderson affords. On issues of consent and coercion, war of position and war of manoeuvre, civil society and political society and the \u201cEast\u201d and the \u201cWest\u201d, Thomas does a brilliant job of undermining dualistic treatments of these terms. Thomas\u2019 reading of Gramsci emphasizes the identity and distinction of the terms found in each couplet, which anchors his analysis of political power and the means through which the working class can become hegemonic. Given the earthworks and trenches that exist in the West, a class that aspires to be hegemonic must pass through the different, yet unified, moments of civil and political hegemony before reconstituting the state\u2014the final war of manoeuvre. In chapter 6, Thomas demonstrates how Gramsci's political reflections were not idle thoughts, but again, were based on his attempt to develop a revolutionary strategy adequate to the West, yet always in connection to the revolutionary movements experienced the East. Gramsci's Leninism, argues Thomas, is both in the conceptualization and actualization of hegemony, encapsulated in the political strategy of the United Front. The attempt to align the interests and support of allied classes with the working class was the practical form of Gramsci's theorizations. For Thomas, Gramsci's development of the United Front and philosophy of praxis are \u201cdecisive for the re-emergence of any genuinely mass, class-based politics\u201d (242), a point I will return to at the end of the review. The final three chapters of the book (chapters 7\u20139) provide a detailed discussion of Gramsci's philosophy of praxis, which is commonly understood as a code utilized by Gramsci to evade his prison censors. Thomas dispels this notion and suggests that the philosophy of praxis represents the core of Gramsci's philosophy of Marxism. In a note titled \u201cThe concept of \u2018orthodoxy\u2019\u201dGramsci (1971:465) argued that \u201cthe philosophy of praxis is absolute \u2018historicism\u2019, the absolute secularization and earthliness of thought, an absolute humanism of history. It is along this line that one must trace the thread of the new conception of the world.\u201d In the final three chapters Thomas traces the meaning of this passage, with the aim of presenting a nuanced \u201cconception of the world\u201d capable of reenergizing Marxist thought and practice. Chapter 7 examines the notion of absolute historicism, which is the concept that literally grounds the Prison Notebooks. Historicizing involves tracking how philosophies and types of knowledge exist in sedimented form in the actions of different social classes. In this respect, knowledge/ideologies are never independent from the specific practices through which they are lived and transformed. As Thomas\u2019 discussion illustrates, emphasizing the historical determinations of philosophy, ideology and politics opens these interrelated dimensions of social life to the possibility of change, or more specifically, the radical possibility that philosophies and ideologies could contribute to the establishment of working class hegemony. Thomas argues that for the working class to be engaged in a process of becoming, it must subject its own philosophies and ideologies to historical criticism, providing an understanding of its own propositions and assumptions. Such a critique contributes to the coherence and political efficacy of the philosophy of praxis. Thomas builds on these themes in chapter 8, examining Gramsci's treatment of immanence, or what he also describes as \u201cthe absolute secularisation and earthliness of thought\u201d. Thomas argues that Gramsci's understanding of immanence can be traced back to Marx's (1998[1845]:569) second thesis in the Theses on Feuerbach, which highlights \u201cthe this-worldliness of his thinking in practice\u201d. The notion of absolute immanence allows Thomas to argue that science and philosophy are superstructures, not separate from social and economic life, but rather organizing aspects of the relationship between humanity and nature. Gramsci extends this immanentist perspective to language, which together with philosophy and science, is a social practice that is part of the struggle for hegemony. The perspective of immanence within the philosophy of praxis is meant to highlight different relations of force, which Thomas describes as \u201cthe differential intensity, efficacy and specificity of social practices in their historical becoming\u201d (449). It is this aspect of Gramsci's work that highlights his anti-reductionism. One final point needs to be made about absolute immanence. Gramsci's immanentist approach leads him to highlight how senso commune and philosophy are in Thomas\u2019 words \u201c\u2018sedimented\u2019 in each other\u201d (298). Hegemony, as Thomas explains, involves a critique of both senso commune and philosophies, which must both gain greater coherence in order to inform \u201cthe this-worldliness\u201d of thought crucial to the \u201cproduction of the identity of theory and practice\u201d which becomes \u201c\u2018a part of the historical process,\u2019 as a \u2018critical act\u2019\u201d (383). The final \u201cmoment\u201d in Gramsci's philosophy of praxis highlighted in Thomas\u2019 reconstruction is the notion of absolute humanism. Contrary to Althusser, Gramsci did not rely on a voluntarist subject that could bring about radical change. As Thomas argues, Gramsci holds the capacity of subjects to act in tension with an appreciation of the broad relations that historically make the person. Gramsci again builds on Theses on Feuerbach to argue that the person (la persona) is an \u201censemble of historically determined social relations\u201d that is constantly in the process of \u201cbecoming\u201d (Gramsci 1971:133). In addition, Gramsci's understanding of absolute humanism is closely connected to the question of intellectuals and their capacity to reinforce the capitalist integral state or establish transformative \u201cconceptions of the world\u201d. Gramsci's treatment of the person comes together with his understanding of intellectuals in the figure of the democratic philosopher \u201cunderstood as a concrete embodiment of the general political perspective\u201d (125). The democratic philosopher is the sounding board for the social collective that seeks to bring coherence to the aspirations of the working class and their hegemonic aspirations. This treatment of philosophy turns traditional notions of philosophy on their head, illustrating the social basis of philosophy and the necessary political content of philosophical practice. Absolute historicism, absolute immanence and absolute humanism collectively comprise Gramsci's philosophy of praxis. Thomas holds these dimensions of Gramsci's work as essential to the revitalization of Marxist philosophy and working class movements. However, Thomas spends much less time dwelling on how Gramsci can revitalize working class movements in the current conjuncture, even though he suggests that this was one of his motives for writing the book. Yet to bastaradize \u017di\u017eek's (2006:118) analysis of Lukacs: How does [Gramsci's] work stand in relation to today's constellation? Is it still alive?\u2026 How do we today stand in relation to\u2014in the eyes of\u2014[Gramsci]? Are we still able to commit the act proper, described by [Gramsci]? Which social agent is, on account of its radical dislocation, today able to accomplish it? These are questions Thomas needs to ask if he really wants to renew working class movements, yet unfortunately they receive scant attention in his book. Who comprises the working class that he constantly shoulders with the historical task of bringing about a communist future? Is Gramsci's notion of class adequate for contemporary radical politics? Is an unspecified working class the only social group capable of transformative politics? These questions are important as Thomas is silent on issues of gender, \u201crace\u201d, sexuality and colonialism and the social movements pursuing these issues. There is no attempt to interrogate how social movements connected to these aspects of social difference force us to reconsider aspects of Gramsci's work. I admit that pushing Thomas to answer these queries may seem unfair given the impressiveness of his overall argument. However, in the absence of addressing these questions, post-Marxists may find their suspicions over an essentialized class subject in Gramsci confirmed, even though there is ample evidence in Gramsci's writings go demonstrate that he had a socially differentiated understanding of history, geography and politics. Part of the appeal of Gramsci is his integral style of Marxism and his early examination of sexuality, gender, \u201crace\u201d, \u201cinternal colonialism\u201d, and relationships between the working class and peasantry. Gramsci's analysis of social difference is provocative yet clearly insufficient. Nonetheless, if the appeal of post-Marxist project\u2014such as Laclau and Mouffe's (1985)\u2014is their inclusion of new social movements into their analysis, then it seems important to consider how this can be achieved without the long march away from Marxism. Thomas\u2019 discussion of la persona, his understanding of superstructures in the plural, and his emphasis on relations of force represent considerable theoretical resources for working through these questions. Bringing Thomas\u2019 philosophical concerns to bear on Gramsci's treatment of difference could potentially serve as an important rejoinder to post-Marxist readings of Gramsci. Such a project must be undertaken if the Gramscian moment is to be realized and not locked in the past.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Antipode",
+        "type": "journal",
+        "issn": [
+          "0066-4812",
+          "1467-8330"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-8330.2012.00981.x"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Marxism and Critical Theory"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W1988010437"
+    },
+    {
+      "openalex_id": "W2012854000",
+      "doi": "10.1080/002017400414881",
+      "title": "Modernity and Morality in Habermas's Discourse Ethics",
+      "authors": [
+        {
+          "name": "James Gordon Finlayson",
+          "openalex_id": "A5033736964",
+          "orcid": "https://orcid.org/0000-0003-0570-6048"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-09-01",
+      "abstract": "As far as Discourse Ethics is concerned this is an important and unresolved issue in its own right. But I also want to elaborate the wider significance of this failure.",
+      "cited_by_count": 246,
+      "type": "article",
+      "source": {
+        "name": "Inquiry",
+        "type": "journal",
+        "issn": [
+          "0020-174X",
+          "1502-3923"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/abs/10.1080/002017400414881"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2012854000"
+    },
+    {
+      "openalex_id": "W3169095061",
+      "doi": "10.1215/26410478-8855203",
+      "title": "The Ethical Life of Counter-Communities",
+      "authors": [
+        {
+          "name": "Daniel Loick",
+          "openalex_id": "A5061203797",
+          "orcid": "https://orcid.org/0000-0001-5927-8267"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-01",
+      "abstract": "Abstract This article explores the normative structure of counter-communities. These communities do not simply fulfill a compensatory function for excluded or oppressed groups; their specific sociality is transcendent of society at large. The article outlines this notion of the \u201csuperiority of the subjugated\u201d with Hegel and explains its social-theoretical relevance by turning to Marx and Engels. This tradition of thought offers two explanations for the superiority of subjugated sociality, one that relies on a philosophy of history (the servant's way of existence anticipates a coming sociality), and one that relies on anthropological premises (servants have an already-present access to specific social potentials of their species being that the masters are missing). After considering these two options with regard to the proletariat as a form of subjugated sociality, the article makes the case for a general theory of the ethical life of counter-communities and applies it to the examples of queer and diasporic forms of collectivity. In closing, the article explores the success conditions of counter-collectivization as well as names some social-theoretical implications.",
+      "cited_by_count": 19,
+      "type": "article",
+      "source": {
+        "name": "Critical Times",
+        "type": "journal",
+        "issn": [
+          "2641-0478"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://read.dukeupress.edu/critical-times/article-pdf/4/1/1/927603/1loick.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W3169095061"
+    },
+    {
+      "openalex_id": "W2992613228",
+      "doi": null,
+      "title": "History, Reason and Hope: A Comparative Study of Kant, Hayek and Habermas: Dialogue on Personal and Political Ethics",
+      "authors": [
+        {
+          "name": "Richard B. Day",
+          "openalex_id": "A5108430085"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-09-22",
+      "abstract": "In Critique of Practical Reason, Immanuel Kant expressed awe and admiration for the starred heaven above me and moral law within me. With reference to heavens, Kant was struck by human insignificance in the incalculable vastness of worlds upon worlds, of within systems, over endless ages. Within this sensible of cosmic proportions, appeared to be but an animal-like being, condemned to return to dust of planet which itself is a mere speck in universe. At same time, however, Kant believed that every human consciousness contains within itself universality of moral law. As intelligible beings, we live a life independent of animality and even of entire world of sense. The moral law elevates human existence into a world ... which can be sensed only by intellect. Moral self-determination, said Kant, radiates into infinite. (1) Lucien Goldmann's interpretation of Kant emphasizes need to overcome this division between sensible and intelligible domains. Kant conceived moral autonomy as an attribute of rational individuals, but he also contemplated universal community, integrated through practical Idea of human freedom--an ethical commonwealth and kingdom of ends. Goldmann argues that absolute necessity of realizing this totality is the centre of Kant's thought. (2) For solution, he looks to Kant's philosophy of history. In The Contest of Faculties, Kant claimed that it is possible to have priori if the prophet himself occasions and produces events he predicts'. (3) In French Revolution, Kant saw evidence that man has quality or power of being cause and.., author of his own improvement'. (4) Goldmann interprets Kant's view of history as opening way to subsequent philosophies of totality in work of Hegel, Marx and Lukacs. (5) Jurgen Habermas claims, however, that dialectical concept of totality has today collapsed into its disjecta membra. (6) Instrumental and strategic reason have suppressed practical discourse, and economic and social systems objectify human subjects in accordance with systemic functional imperatives. Nevertheless, Habermas remains committed to Kant's faith in human reason. He argues that personal and social pathologies resulting from systemic integration inevitably reproduce human need for shared meaning and purpose. In imperatives of language and everyday speech, he finds implicit an speech situation which sustains hope for human behaviour guided (in part at least) by good reasons. (7) Today concept of totality has reappeared in an unexpected quarter. Friedrich Hayek, often regarded as spiritual father of modern conservatism, draws upon Kantian influences in accounting for Great Society and extended order of market economy. In liberal ideal of voluntary market exchanges, coordinated through universal laws, Hayek thinks Kant's aspirations have been fulfilled by modern capitalism. Hayek's pursuit of totality, however, takes new twist. Whereas Hegel, Marx and Lukacs saw social reason as ultimate determinant of human interaction, Hayek's evolutionary epistemology suggests opposite: social evolution, both cultural and economic, turns out to be author of human consciousness. By comparing Hayek's work with that of Kant and Habermas, I shall argue that Hayek collapses Kant's project rather than continuing it. 1. Immanuel Kant: Reason as Philosophical Explanation of History Kant considered distinction between inner compulsion of moral law and external causality of nature to be fundamental. The moral law transcends all particulars of time and space and is distinct from all principles that determine events in nature. (8) Facts, conventions and experience are absolutely inconsequential in moral judgements: anyone so misled as to make into basic moral principle something derived from this source would be in danger of grossest and most pernicious errors. \u2026",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Economic Theory and Institutions"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2992613228"
+    },
+    {
+      "openalex_id": "W4389616034",
+      "doi": "10.5209/kant.88890",
+      "title": "The Concept of Teleology in Kant, Hegel, and Marx",
+      "authors": [
+        {
+          "name": "Eugene Clayton",
+          "openalex_id": "A5028899264",
+          "institutions": [
+            "Universit\u00e9 de Picardie Jules Verne"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-12-12",
+      "abstract": "Breaking with Aristotle\u2019s Physics, Kant effects a theoretical reconception of teleology. It is this paper\u2019s contention that the truth of the Kantian conception of teleology as \u2018a purposiveness of nature in behalf of our faculty for cognizing it\u2019 is not that of being a solution to Hume\u2019s problem of induction or the condition for the possibility of subjective cognition of the empirical, but that it is a theoretical means of the subjective domination over the objective. A materialist reading of Hegel\u2019s criticism of Kant\u2019s antinomy of teleological judgment in the Science of Logic is then proposed. Finally, the non-teleological nature of capital is demonstrated.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Con-Textos Kantianos International Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "2386-7655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.ucm.es/index.php/KANT/article/download/88890/4564456567671"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Philosophical Ethics and Theory",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W4389616034"
+    },
+    {
+      "openalex_id": "W2912637417",
+      "doi": "10.23889/suthesis.46244",
+      "title": "Raymond Williams and European Marxism: Lukacs, Sartre, Gramsci",
+      "authors": [
+        {
+          "name": "Daniel Gerke",
+          "openalex_id": "A5097546409",
+          "institutions": [
+            "Swansea University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The Western Marxist tradition from Lukacs to Colletti is usually considered a continental European one, with no major British representative. This thesis presents the Welsh cultural critic and novelist Raymond Williams as a critical Anglophone participant in that tradition. The development of Williams's cultural materialism, far from being the product of a rigid 'British' empiricism, was centrally influenced by the ideas of Western Marxist thinkers. At the core of this influence, and of the 'European' rationalist element in Williams's work, is the concept of 'totality', an abiding concern with which Williams shares with the Western Marxists. The three European Marxists to whom Williams's intellectual development is most indebted are those whom he described, in 1972, as 'Marxism's alternative tradition': Georg Lukacs (1885-1971), Jean-Paul Sartre and Antonio Gramsci (1891Gramsci ( -1937)). The work of these thinkers, as it slowly appears in English, confirms Williams's insistence on 'total' analysis and permits him to generate a Marxism capable of reconciling subjective experience with the complex materiality of social relations. I read the theoretical apparatus which results from these transnational interactions as a literary and a philosophical realism committed both to the aesthetic representation of the social totality and to the interaction of experience with objective reality. The form of political praxis engendered by these European influences is a 'revolutionary culturalism' in which the working-class attains hegemony by realising its experience and interests in a concrete culture.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://cronfa.swan.ac.uk/Record/cronfa46244/Download/0046244-06122018123054.pdf"
+      },
+      "topics": [
+        "Political theory and Gramsci",
+        "Political Economy and Marxism",
+        "Anarchism and Radical Politics"
+      ],
+      "referenced_works_count": 216,
+      "url": "https://openalex.org/W2912637417"
+    },
+    {
+      "openalex_id": "W2040785052",
+      "doi": "10.1524/dzph.2011.59.5.717",
+      "title": "Verdinglichung und Freiheit",
+      "authors": [
+        {
+          "name": "Timo J\u00fctten",
+          "openalex_id": "A5077887342",
+          "orcid": "https://orcid.org/0000-0001-9865-507X"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-10-01",
+      "abstract": "In this paper I examine Lukacs\u2019 claim that the overcoming of reification amounts to the realization of the identity philosophies of Fichte and Hegel. I suggest that Lukacs does indeed contrast reification with a Hegelian conception of social freedom that remains plausible today. Reification occurs when the preconditions of freedom and social participation are eroded through practices such as commodification and juridification. I conclude with the claim that reification diminishes freedom, and that criticism of reification is itself a form of freedom.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Deutsche Zeitschrift f\u00fcr Philosophie",
+        "type": "journal",
+        "issn": [
+          "0012-1045",
+          "2192-1482"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/JTTVUF.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Hannah Arendt's Political Philosophy",
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2040785052"
+    },
+    {
+      "openalex_id": "W2967112033",
+      "doi": "10.21638/11701/spbu17.2018.108",
+      "title": "Unfinished Revolution: the political philosophy of the Frankfurt School",
+      "authors": [
+        {
+          "name": "Boris V. Markov",
+          "openalex_id": "A5043141833",
+          "orcid": "https://orcid.org/0000-0003-3755-6742"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": ". . , , ,",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Vestnik of Saint Petersburg University Philosophy and Conflict Studies",
+        "type": "journal",
+        "issn": [
+          "2541-9382",
+          "2542-2278"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://dspace.spbu.ru/bitstream/11701/9353/1/08-Markov.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2967112033"
+    },
+    {
+      "openalex_id": "W2943417023",
+      "doi": "10.18490/sosars.559108",
+      "title": "RELINKING THE SOCIAL AND THE POLITICAL: HEGEL, MARX AND THE POLICE AS SOCIALISATION OF THE STATE POWER",
+      "authors": [
+        {
+          "name": "Erol Suba\u015fi",
+          "openalex_id": "A5086418916",
+          "orcid": "https://orcid.org/0000-0001-5710-9988"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-29",
+      "abstract": "Georg Wilhelm Frederick Hegel has been one of the most influential philosophers of all time. His original philosophical system has been the subject of many studies from various disciplines including philosophy, political science, law, sociology and many more. Despite his long-term popularity, his complex and multi-dimensional philosophy still allow for further investigations on distinct problems. Although many studies have been carried out on him, only a few writers have been able to draw attention to his ideas concerning police power. Hence, this paper, within the problematic of differentiation of state (political) and bourgeois civil society (social), addresses the question of police in Hegel\u2019s thought and the Marx\u2019s critique of it. The study argues that the police power appears in Hegel\u2019s thought as the socialisation of the state power.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Sosyoloji ara\u015ft\u0131rmalar\u0131 dergisi/Sosyoloji aras\u0327t\u0131rmalar\u0131 dergisi",
+        "type": "journal",
+        "issn": [
+          "1302-4426",
+          "2148-9947"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://dergipark.org.tr/en/download/article-file/704891"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Economic and Social Issues",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W2943417023"
+    },
+    {
+      "openalex_id": "W2065291222",
+      "doi": "10.2298/fid1404087j",
+      "title": "Philosophy and war: Hegel\u2019s therapeutic movement of the spirit",
+      "authors": [
+        {
+          "name": "Rastko Jovanov",
+          "openalex_id": "A5079932943",
+          "orcid": "https://orcid.org/0000-0001-5226-5375",
+          "institutions": [
+            "Institute of Philosophy of the Slovak Academy of Sciences",
+            "Institute for Philosophy and Social Theory"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "In addition to Axel Honneth?s thesis on the therapeutic function of the concept of ethical life in Hegel?s philosophy, I want to underline two moments which, to my mind, show Hegel?s views on the therapeutic dimension of both philosophy and the war against the pathology of civil society more clearly. In this context, (a) philosophy performs a corrective function by fostering the individual?s virtue conceived as an ethical duty of care both for oneself and for others. The main aim of Hegel?s practical philosophy is hence to return the individual from abstract subjective concepts to his concrete everyday intersubjective practices, and to show him the way to understand himself and the social world as originally related to each other; (b) one of the main problems for the moral development of individuals consists in their propensity to perceive the good in particularist and selfish terms: in this context events such as natural disasters or wars can be seen as performing a therapeutic function by teaching individuals to view the good in more principled and general terms.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Filozofija i drustvo",
+        "type": "journal",
+        "issn": [
+          "0353-5738",
+          "2334-8577"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.doiserbia.nb.rs/ft.aspx?id=0353-57381404087J"
+      },
+      "topics": [
+        "War, Ethics, and Justification",
+        "Philosophical Ethics and Theory",
+        "Hannah Arendt's Political Philosophy"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2065291222"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}
