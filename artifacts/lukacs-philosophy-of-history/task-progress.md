@@ -9,7 +9,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains sequentially
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections sequentially
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -34,11 +34,13 @@
   - Domain 7: Frankfurt School, Western Marxism, later reception (22 sources)
   Total: ~135 sources across 7 domain .bib files (before dedup).
 
+[2026-07-17] Phase 4: synthesis-outline.md produced (Opus). 7 body sections (20 subsections) + Introduction + Conclusion, ~5000-6500 word target.
+
 ## Current Task
 
-Phase 4: Invoke synthesis-planner (Opus) to design outline from literature-domain-1.bib through literature-domain-7.bib
+Phase 5: Invoke synthesis-writer sequentially (Sonnet) for each of 9 sections (Introduction, §1-§7, Conclusion)
 
 ## Next Steps
 
-1. Invoke synthesis-planner agent to produce synthesis-outline.md
-2. Commit and push Phase 4 output
+1. Write synthesis-section-1.md (Introduction) through synthesis-section-9.md (Conclusion), one at a time
+2. Commit and push after each section (or batch commits per phase completion)
