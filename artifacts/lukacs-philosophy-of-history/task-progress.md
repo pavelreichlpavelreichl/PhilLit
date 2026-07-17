@@ -10,7 +10,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains sequentially
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review sections sequentially
+- [x] Phase 5: Write review sections sequentially
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
@@ -36,11 +36,19 @@
 
 [2026-07-17] Phase 4: synthesis-outline.md produced (Opus). 7 body sections (20 subsections) + Introduction + Conclusion, ~5000-6500 word target.
 
+[2026-07-17] Phase 5: All 9 sections drafted sequentially (Sonnet): synthesis-section-1.md (Introduction) through synthesis-section-9.md (Conclusion).
+
 ## Current Task
 
-Phase 5: Invoke synthesis-writer sequentially (Sonnet) for each of 9 sections (Introduction, §1-§7, Conclusion)
+Phase 6: Assemble final review, dedupe bibliography, generate references, lint, clean up.
 
 ## Next Steps
 
-1. Write synthesis-section-1.md (Introduction) through synthesis-section-9.md (Conclusion), one at a time
-2. Commit and push after each section (or batch commits per phase completion)
+1. Run assemble_review.py to build literature-review-final.md
+2. Run normalize_headings.py
+3. Run dedupe_bib.py to build literature-all.bib
+4. Run generate_bibliography.py to append References
+5. Run lint_md.py and fix issues
+6. Move intermediate files to intermediate_files/
+7. Optional DOCX conversion
+8. Commit and push final Phase 6 output
