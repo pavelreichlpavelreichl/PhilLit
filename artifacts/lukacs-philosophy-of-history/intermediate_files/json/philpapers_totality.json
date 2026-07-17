@@ -1,0 +1,310 @@
+[search_philpapers.py] Connecting to Brave API for philpapers_via_brave search...
+[search_philpapers.py] Searching philpapers.org: 'Lukacs totality', limit=20
+[search_philpapers.py] Retrieved 17 entries...
+[search_philpapers.py] Search complete: 17 entries found
+{
+  "status": "success",
+  "source": "philpapers_via_brave",
+  "query": "Lukacs totality",
+  "results": [
+    {
+      "title": "Brian J. Shaw, Totality, Realism, and the Type: Luk\u00e1cs' Later Literary Criticism as Political Theory",
+      "url": "https://philpapers.org/rec/SHATRA-5",
+      "philpapers_id": "SHATRA",
+      "snippet": "Lukacs&#x27;s post-1930 literary criticism ... Class Consciousness (1923). No longer the self-knowledge of a militant proletariat, totality emerges as the contemplative vision of great bourgeois novelists....",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Brian J. Shaw"
+        }
+      ],
+      "extra_snippets": [
+        "Lukacs's post-1930 literary criticism reveals a problematic continuity with the theory of totality articulated in History and Class Consciousness (1923). No longer the self-knowledge of a militant proletariat, totality emerges as the contemplative vision of great bourgeois novelists.",
+        "On Luk\u00e1cs\u2019s Dialectic of Totality and Its Revolutionary Significance.\u7ea2\u73cd \u5f20 - 2023 - Advances in Philosophy 12 (4):715-720.",
+        "A Review Of Young Luk\u00e1cs' Totality-dialectic.",
+        "Georg Luk\u00e1cs: Magus Realismus?Sara Nadal-Melsi\u00f3 - 2004 - Diacritics 34 (2):62-84."
+      ]
+    },
+    {
+      "title": "Martin Jay, The Concept of Totality in Lukacs and Adorno",
+      "url": "https://philpapers.org/rec/JAYTCO",
+      "philpapers_id": "JAYTCO",
+      "snippet": "Review of Martin Jay: Marxism and Totality: The Adventures of a Concept from Lukacs to Habermas.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Martin Jay"
+        }
+      ],
+      "extra_snippets": [
+        "Marxism & Totality: The Adventures of a Concept from Lukacs to Habermas.G.",
+        "Review of Martin Jay: Marxism and Totality: The Adventures of a Concept from Lukacs to Habermas.",
+        "Luk\u00e1cs Theory of the Offensive.Giairo Daghini - 1971 - Telos: Critical Theory of the Contemporary 10:147.",
+        "On the Late Luk\u00e1cs.Marco Macci\u00f2 - 1972 - Telos: Critical Theory of the Contemporary 11:135."
+      ]
+    },
+    {
+      "title": "James Schmidt, The Concrete Totality and Lukacs' Concept of Proletarian Bildung",
+      "url": "https://philpapers.org/rec/SCHTCT-8",
+      "philpapers_id": "SCHTCT",
+      "snippet": "Marxism &amp; Totality: The Adventures of a Concept from Lukacs to Habermas.G.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Schmidt"
+        }
+      ],
+      "extra_snippets": [
+        "The Concept of Totality in Lukacs and Adorno.Martin Jay - 1977 - Telos: Critical Theory of the Contemporary 1977 (32):117-137.",
+        "Marxism & Totality: The Adventures of a Concept from Lukacs to Habermas.G.",
+        "On the Late Luk\u00e1cs.Marco Macci\u00f2 - 1972 - Telos: Critical Theory of the Contemporary 11:135.",
+        "Hauser and Lukacs.Peter C."
+      ]
+    },
+    {
+      "title": "Sheng-Long Ma, A Review Of Young Luk\u00e1cs' Totality-dialectic",
+      "url": "https://philpapers.org/rec/MAARO",
+      "philpapers_id": "MAARO",
+      "snippet": "Luk\u00e1cs used the totality-dialectic to analyze capitalist society and found the phenomenon of reification, the antinomies of bourgeois thought and the standpoint of the proletariat.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Sheng-Long Ma"
+        }
+      ],
+      "extra_snippets": [
+        "By read, \"History and Class Consciousness\", the author believes that the main object of the same young Lukacs from the perspective of Marxist dialectics is always interpreted as the main object of each generation, the overall nature of each agency dialectic, he used this method of analysis capitalist society, capitalist society come to the full materialization of the bourgeois ideology of the antinomy and proletarian class consciousness, class position; young Lukacs dialectics of totality, digging out the humanitarian dimension of Marx's dialectic, echo The clamor of the times, but due to rule out the dimensions of scientific doctrine, ignoring their own self-regulatory approach, easy to dogma and dogmatic.",
+        "It is advanced by young G. Luk\u00e1cs that Marxist dialectic was interpreted as totality-dialectic of history and mediation in the light of the identity of subject and object. Luk\u00e1cs used the totality-dialectic to analyze capitalist society and found the phenomenon of reification, the antinomies of bourgeois thought and the standpoint of the proletariat.",
+        "The first Marxist reflection of Georg Luk\u00e1cs.Jiayang Qin - 2023 - Thesis Eleven 178 (1):72-84. Dialectics unbound: on the possibility of total writing.Maxwell Kennel - 2013 - Brooklyn, NY: BABEL Working Group.",
+        "Lukacs' Theory of Reification.Andrew Arato - 1972 - Telos: Critical Theory of the Contemporary 1972 (11):25-66."
+      ]
+    },
+    {
+      "title": "Richard A. Cohen, Levinas and Luk\u00e1cs: Totality and Infinity",
+      "url": "https://philpapers.org/rec/COHLAL",
+      "philpapers_id": "COHLAL",
+      "snippet": "Although Levinas never mentions Lukacs by name, given that Lukacs was of the just previous generation, the generation of Levinas\u2019s teachers, and that their lifespans included sixty-five years of overlap, given that Lukacs\u2019 books, especially his magnum opus History and Class Consciousness, published in 1923, would almost certainly have been known to Levinas, and given that Levinas own masterpiece, Totality and Infinity, published in 1961, the word \u201ctotality\u201d emblazoned on its title, begins with an extended discussion of political philosophy centered on the question of war, peace and ethics approached via a critique of totality, it is very possible that Levinas had Lukacs consciously in mind as a major interlocutor.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Richard A. Cohen"
+        }
+      ],
+      "extra_snippets": [
+        "Although Levinas never mentions Lukacs by name, given that Lukacs was of the just previous generation, the generation of Levinas\u2019s teachers, and that their lifespans included sixty-five years of overlap, given that Lukacs\u2019 books, especially his magnum opus History and Class Consciousness, published in 1923, would almost certainly have been known to Levinas, and given that Levinas own masterpiece, Totality and Infinity, published in 1961, the word \u201ctotality\u201d emblazoned on its title, begins with an extended discussion of political philosophy centered on the question of war, peace and ethics approached via a critique of totality, it is very possible that Levinas had Lukacs consciously in mind as a major interlocutor.",
+        "Raoul Moati, Levinas and the night of being: a guide to totality and infinity, translated by Daniel Wyche, New York: Fordham University Press, 2017, 217 + xvii pp., ISBN: 9780823273201.Zachary Willcutt - 2022 - Continental Philosophy Review 55 (3):397-403.",
+        "Levinas and the Night of Being: A Guide to Totality and Infinity.Raoul Moati - 2017 - New York: Fordham University Press.",
+        "Some Notes on the Title of Levinas\u2019s Totality and Infinity and its First Sentence.Richard A."
+      ]
+    },
+    {
+      "title": "Pamela Ann Parker, Lukacs on Kant: A Study in Dialectical Materialism",
+      "url": "https://philpapers.org/rec/PARLOK",
+      "philpapers_id": "PARLOK",
+      "snippet": "These dichotomies and contradictions all fall under Lukacs&#x27;s general term &quot;the problem of the thing-in-itself.&quot; ;Having analyzed Kant&#x27;s philosophy and its grounding in capitalism, Lukacs proposes a Marxist resolution of the Kantian problems. This resolution is based on the concept of concrete totality.",
+      "page_age": null,
+      "extra_snippets": [
+        "These dichotomies and contradictions all fall under Lukacs's general term \"the problem of the thing-in-itself.\" ;Having analyzed Kant's philosophy and its grounding in capitalism, Lukacs proposes a Marxist resolution of the Kantian problems. This resolution is based on the concept of concrete totality.",
+        "A Review Of Young Luk\u00e1cs' Totality-dialectic.",
+        "This dissertation is an examination of George Lukacs's essay \"The Antinomies of Bourgeois Thought.\" In this essay Lukacs presents a Marxist interpretation of Kant's philosophy. This dissertation discusses that interpretation, as ...",
+        "This concept is both Hegelian and Marxist, and is the centerpiece of Lukacs's particular Marxist position in History and Class Consciousness. He takes this position in response to revisionist Marxism. \"The Antinomies of Bourgeois Thought\" is one facet of Lukacs's anti-revisionist argument in History and Class Consciousness"
+      ]
+    },
+    {
+      "title": "G. L. Ulmen, Marxism & Totality: The Adventures of a Concept from Lukacs to Habermas",
+      "url": "https://philpapers.org/rec/ULMMT",
+      "philpapers_id": "ULMMT",
+      "snippet": "Totality, Realism, and the Type: Luk\u00e1cs&#x27; Later Literary Criticism as Political Theory.Brian J.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. L. Ulmen"
+        }
+      ],
+      "extra_snippets": [
+        "Georg [Gy\u00f6rgy] Luk\u00e1cs.Titus Stahl - 2013 - Stanford Encyclopedia of Philosophy. The Concrete Totality and Lukacs' Concept of Proletarian Bildung.J.",
+        "The Concept of Totality in Lukacs and Adorno.M.",
+        "Totality, Realism, and the Type: Luk\u00e1cs' Later Literary Criticism as Political Theory.Brian J.",
+        "The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs.Joseph Fracchia - 2013 - Historical Materialism 21 (1):69-93."
+      ]
+    },
+    {
+      "title": "James Schmidt, The Concrete Totality and Luk\u00e1cs' Concept of Proletarian \"Bildung\"",
+      "url": "https://philpapers.org/rec/SCHTCT-21",
+      "philpapers_id": "SCHTCT",
+      "snippet": "Marxism and Totality: The Adventures of a Concept From Lukacs to Habermas.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "James Schmidt"
+        }
+      ],
+      "extra_snippets": [
+        "Praxis und Totalit\u00e4t. Luk\u00e1cs' Ontologie des Gesellschaftlichen Seins im Lichte aktueller sozialontologischer Debatten.Titus Stahl - 2015 - Jahrbuch der Internationalen Georg-Luk\u00e1cs-Gesellschaft 14:123-150.",
+        "The Concrete Totality and Lukacs' Concept of Proletarian Bildung.J.",
+        "A Review Of Young Luk\u00e1cs' Totality-dialectic.",
+        "Marxism and Totality: The Adventures of a Concept From Lukacs to Habermas."
+      ]
+    },
+    {
+      "title": "Stuart Elden & Adam David Morton, Introduction to \u2018The Luk\u00e1cs Question\u2019",
+      "url": "https://philpapers.org/rec/ELDITT-2",
+      "philpapers_id": "ELDITT",
+      "snippet": "What follows is an interview by Patrick Tort with Henri Lefebvre on the \u2018Luk\u00e1cs question\u2019, arising from an earlier lecture delivered by the latter in Hungary in 1955. The interview is important for the light it sheds on the power of truth in relation to the Party, issues of proletarian science, class consciousness, and literary and aesthetic politics. Most crucially, the interview touches on the concept of the \u2018socialisation of society\u2019, or dialectical totality, in which elements are incorporated as internally related to the structure of a whole.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Stuart Elden"
+        },
+        {
+          "type": "person",
+          "name": "Adam David Morton"
+        }
+      ],
+      "extra_snippets": [
+        "What follows is an interview by Patrick Tort with Henri Lefebvre on the \u2018Luk\u00e1cs question\u2019, arising from an earlier lecture delivered by the latter in Hungary in 1955. The interview is important for the light it sheds on the power of truth in relation to the Party, issues of proletarian science, class consciousness, and literary and aesthetic politics. Most crucially, the interview touches on the concept of the \u2018socialisation of society\u2019, or dialectical totality, in which elements are incorporated as internally related to the structure of a whole.",
+        "Georg Luk\u00e1cs: The Man, his Work, and his Ideas.B. H. - 1970 - Review of Metaphysics 24 (2):350-350. Totality, Interpretation and Dialectic: On the Normative Foundations of Critical Marxist Social Theory.Kevin Michael Clark - 1980 - Dissertation, The Pennsylvania State University",
+        "Lukacs on Kant: A Study in Dialectical Materialism.Pamela Ann Parker - 1981 - Dissertation, Cornell University \u00b7 Totalit\u00e4t bei Georg Luk\u00e1cs und in nachfolgenden Diskussionen.Silvie Brocke Ruecker - 1973 - R\u00fccker.",
+        "A Review Of Young Luk\u00e1cs' Totality-dialectic."
+      ]
+    },
+    {
+      "title": "Gyo\u0308rgy Luka\u0301cs, Conversations with Luka\u0301cs",
+      "url": "https://philpapers.org/rec/LUKCWL-3",
+      "philpapers_id": "LUKCWL",
+      "snippet": "A Review Of Young Luk\u00e1cs&#x27; Totality-dialectic.",
+      "page_age": null,
+      "extra_snippets": [
+        "Using the technique of prepared questions, Conversations with Lukacs is a brilliant gathering of thoughts and insights covering topics as ontology, the techniques of manipulative societies, the pitfalls of combating Stalinism with Stalinist methods, and the problems of intellectuals in advanced capitalist societies.",
+        "Above all, there is the restatement of Lukacs unshaken conviction that the working class, with all the changes that have occurred in its way of life and composition, is still the historical carrier of social transformation. Lukacs's interlocutors in these four conversations are Hans Heinz Holz, Leo Kofler, and Wolfgang Abendroth.",
+        "Each of them engages Lukacs in separate dialogues, on being and consciousness (Holz), on society and the individual (Kofler), and on the elements of scientific politics (Abendroth). Lukacs, Abendroth, and Holz work toward a \"Provisional Summary\" in the last conversation.",
+        "This gives these conversations with Lukacs a more than anecdotal value; for the unmediated way in which thought is produced in conversation corresponds exactly to that primary level of experience, the data of everyday reality, whose theoretical value Lukacs emphasizes...."
+      ]
+    },
+    {
+      "title": "Daniel Andr\u00e9s L\u00f3pez, Luk\u00e1cs: Praxis and the Absolute",
+      "url": "https://philpapers.org/rec/LPELPA",
+      "philpapers_id": "LPELPA",
+      "snippet": "In Luk\u00e1cs: Praxis and the Absolute, Daniel Andr\u00e9s L\u00f3pez reassembles Luk\u00e1cs\u2019s philosophy of praxis on a Hegelian basis, as a conceptual-historical totality, both defending him and proposing an unprecedented, immanent critique that raises problems for Marxian philosophy as a whole.",
+      "page_age": null,
+      "extra_snippets": [
+        "In Luk\u00e1cs: Praxis and the Absolute, Daniel Andr\u00e9s L\u00f3pez reassembles Luk\u00e1cs\u2019s philosophy of praxis on a Hegelian basis, as a conceptual-historical totality, both defending him and proposing an unprecedented, immanent critique that raises problems for Marxian philosophy as a whole.",
+        "Recovering Georg Luk\u00e1cs.Daniel Lopez - 2015 - Historical Materialism 23 (1):265-289. Praxis und Totalit\u00e4t.",
+        "Luk\u00e1cs' Ontologie des Gesellschaftlichen Seins im Lichte aktueller sozialontologischer Debatten.Titus Stahl - 2015 - Jahrbuch der Internationalen Georg-Luk\u00e1cs-Gesellschaft 14:123-150.",
+        "Praxis and Method: A Sociological Dialogue with Luk\u00e1cs, Gramsci and the Early Frankfurt School.Richard Kilminster - 1979 - Routledge & Kegan Paul Books."
+      ]
+    },
+    {
+      "title": "Steven M. Vogel, Nature and Natural Science in 'Traditional' and 'Critical' Marxism: Engels and Lukacs",
+      "url": "https://philpapers.org/rec/VOGNAN",
+      "philpapers_id": "VOGNAN",
+      "snippet": "A Review Of Young Luk\u00e1cs&#x27; Totality-dialectic.",
+      "page_age": null,
+      "extra_snippets": [
+        "The status of nature and of the natural sciences in two distinct strains within Marxist philosophy is examined. \"Traditional\" or orthodox Marxism is represented by Engels: it is argued that his ...",
+        "He is forced to view dialectics as fundamentally non-epistemological, and as a result the significance of his own best insights--that the transformation of nature by labor is crucial to what nature is, that the \"dialectics of nature\" involves a dialectic between nature and society, that the end of \"prehistory\" involves the overthrow of the appearance of society as \"like\" nature --escapes him. ;The \"critical\" tradition is represented by Lukacs: here a much more appropriate and sophisticated epistemology is connected to a strong \"separatist\" thesis that society and nature must be kept sharply distinct by philosophy.",
+        "The model of knowledge as passive observation of an external and independent reality is epistemologically untenable, according to Lukacs, not because society is not such a realm, but because the model itself is inherently inconsistent, and issues in a series of fundamental antinomies.",
+        "Lukacs' separatism, however, seems to leave these antinomies in place , ignoring the radical and thorough-going character of his own epistemological critique. ;A non-separatist reading of Lukacs is attempted, in which it is suggested that the independence and externality of nature too, as well as that of society, must be put into question."
+      ]
+    },
+    {
+      "title": "Titus Stahl, Praxis und Totalit\u00e4t. Luk\u00e1cs' Ontologie des Gesellschaftlichen Seins im Lichte aktueller sozialontologischer Debatten",
+      "url": "https://philpapers.org/rec/STAPUT-3",
+      "philpapers_id": "STAPUT",
+      "snippet": "Cekic und Luk\u00e1cs \u00fcber die Ontologie des gesellschaftlichen Seins: &quot;Die Priorit\u00e4tsfrage&quot;.\u008eIvojin Nikolic - 1990 - Analecta Husserliana 31:193. Totalit\u00e4t bei Georg Luk\u00e1cs und in nachfolgenden Diskussionen.Silvie Brocke Ruecker - 1973 - R\u00fccker.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Titus Stahl"
+        }
+      ],
+      "extra_snippets": [
+        "Intellektuelle Verantwortung. \u00dcber relative Autonomie k\u00fcnstlerischer wie theoretischer Literatur und soziale Relevanz geistiger Arbeit.Konstantin Baehrens - 2016 - In Luk\u00e1cs 2016. Jahrbuch der Internationalen Georg-Luk\u00e1cs-Gesellschaft.",
+        "Georg Luk\u00e1cs \u00fcber die Ontologie des gesellschaftlichen Seins und die Marxsche Auffassung der Gesellschaft.Ferenc L.",
+        "Georg Luk\u00e1c\u015b Kritik der gesellschaftlichen Vernunft Krise des Marxismus und marxistische Ontologie.R\u00fcdiger Dannemann - 1992 - Deutsche Zeitschrift f\u00fcr Philosophie 40 (1-2):163-174.",
+        "Produzione e filosofia. Sul concetto di ontologia in Luk\u00e1cs.Matteo Gargani - 2017 - Hildesheim-Z\u00fcrich-New York: Georg Olms Verlag."
+      ]
+    },
+    {
+      "title": "Peter C. Ludz, Hauser and Lukacs",
+      "url": "https://philpapers.org/rec/LUDHAL-2",
+      "philpapers_id": "LUDHAL",
+      "snippet": "Lukacs&#x27; and Husserl&#x27;s Critique of Science.Mihaly Vajda - 1978 - Telos: Critical Theory of the Contemporary 1978 (38):104-118. The Concept of Totality in Lukacs and Adorno.Martin Jay - 1977 - Telos: Critical Theory of the Contemporary 1977 (32):117-137.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "Peter C. Ludz"
+        }
+      ],
+      "extra_snippets": [
+        "Luk\u00e1cs Theory of the Offensive.Giairo Daghini - 1971 - Telos: Critical Theory of the Contemporary 10:147.",
+        "Lukacs in Weimar.Ferenc Feher - 1979 - Telos: Critical Theory of the Contemporary 1979 (39):113-136.",
+        "Dialectic and Materialism in Lukacs.Paul Piccone - 1972 - Telos: Critical Theory of the Contemporary 1972 (11):105-133.",
+        "Notes on Lukacs' Ontology.F. Feher, A. Heller, G."
+      ]
+    },
+    {
+      "title": "B. H., Georg Luk\u00e1cs: The Man, his Work, and his Ideas",
+      "url": "https://philpapers.org/rec/HGLT",
+      "philpapers_id": "HGLT",
+      "snippet": "Parkinson, in addition to writing the introduction, has an essay on the nature of Besonderheit, the central category of Luk\u00e1cs&#x27; aesthetics. He translates Besonderheit as &quot;speciality&quot; or &quot;the special.&quot; Roy Pascal digs into Luk\u00e1cs&#x27; concept of totality as developed in the \u00c4sthetik and as applied in his critique of Walter Scott and of Kafka.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "B. H."
+        }
+      ],
+      "extra_snippets": [
+        "The \"ought-ridden\" character of Luk\u00e1cs' thought, M\u00e9sz\u00e1ros claims, is both the source of some of his great intellectual achievements and of some of his great failures, particularly when he substitutes ideology and moral postulates for mediated, concrete reality. Those interested in the development of the concept of the dialectic from Hegel to Marx and from Marx to the present will find M\u00e9sz\u00e1ros' discussion of Luk\u00e1cs' categories of \"totality\" and \"mediation\" informative and thought-provoking.",
+        "Parkinson, in addition to writing the introduction, has an essay on the nature of Besonderheit, the central category of Luk\u00e1cs' aesthetics. He translates Besonderheit as \"speciality\" or \"the special.\" Roy Pascal digs into Luk\u00e1cs' concept of totality as developed in the \u00c4sthetik and as applied in his critique of Walter Scott and of Kafka.",
+        "There are few books in any language which attempt to survey the whole range of Luk\u00e1cs' work. English readers may, therefore, consider themselves fortunate to have available the present volume and, ...",
+        "In addition, there is an essay by David Craig on how, in Luk\u00e1cs' view, history molds literature, and another essay by Stanley Mitchell on Luk\u00e1cs' concept of the \"beautiful.\" All in all, while the book does not represent a definitive or inclusive introduction to the work of Luk\u00e1cs, it does constitute an important landmark in presenting many important dimensions of his thought, as well as some highly critical appraisals of its validity and importance.--H."
+      ]
+    },
+    {
+      "title": "G. Lukacs, The Dialectic of Labor: Beyond Causality and Teleology",
+      "url": "https://philpapers.org/rec/LUKTDO-2",
+      "philpapers_id": "LUKTDO",
+      "snippet": "A Review Of Young Luk\u00e1cs&#x27; Totality-dialectic.",
+      "page_age": null,
+      "author": [
+        {
+          "type": "person",
+          "name": "G. Lukacs"
+        }
+      ],
+      "extra_snippets": [
+        "Dialectic and Materialism in Lukacs.Paul Piccone - 1972 - Telos: Critical Theory of the Contemporary 1972 (11):105-133.",
+        "Hegel, Lukacs and Korsch: On the Emancipatory Significance of the Dialectic in Critical Marxism.Furio Cerutti - 1975 - Telos: Critical Theory of the Contemporary 1975 (26):165-174.",
+        "Lukacs' Theory of Reification.Andrew Arato - 1972 - Telos: Critical Theory of the Contemporary 1972 (11):25-66.",
+        "Reading Hegel after Marx: Luk\u00e1cs and the Question of Teleology.Filippo Menozzi - 2022 - International Critical Thought 1."
+      ]
+    },
+    {
+      "title": "Silvia Federici, The Development of Lukacs' Realism",
+      "url": "https://philpapers.org/rec/FEDTDO-3",
+      "philpapers_id": "FEDTDO",
+      "snippet": "A Review Of Young Luk\u00e1cs&#x27; Totality-dialectic.",
+      "page_age": null,
+      "extra_snippets": [
+        "Lukacs' intellectual career is conventionally divided into three main periods, each governed by a different philosophical perspective and separated from the others by a true epistemological coupure. Thus, the neo-Kantian idealism ...",
+        "Perepiska [Letters], Mikhail Lifschitz and Gy\u00f6rgy Luk\u00e1cs, Moscow: Grundrisse, 2011; Pisma V. Dostalu, V. Arslanovu, M. Mikhailovu [Letters to V. Dostal, V. Arslanov, M. Mikhailov], Mikhail Lifschitz, Moscow: Grundrisse, 2011. [REVIEW]Evgeni V.",
+        "The Hegelian and Schillerian Context of Luk\u00e1cs\u2019 Concept of Aesthetic Realism and Historical Novels About Tyranny and Class.Norman Arthur Fischer - 2024 - In Marxism and the Moral Basis of Art: Luk\u00e1cs and German Idealist Art Theory. Cham: Springer Nature Switzerland.",
+        "Revisiting Luk\u00e1cs\u2019 theory of realism.Galin Tihanov - 2020 - Thesis Eleven 159 (1):57-63."
+      ]
+    }
+  ],
+  "count": 17,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+[fetch_sep.py] Connecting to Stanford Encyclopedia of Philosophy...
+[fetch_sep.py] Fetching SEP article: lukacs
+[fetch_sep.py] Parsing article content...
+[fetch_sep.py] Article fetched: Georg [György] Lukács
+{
+  "status": "success",
+  "source": "sep",
+  "query": "lukacs",
+  "results": [
+    {
+      "url": "https://plato.stanford.edu/entries/lukacs/",
+      "entry_name": "lukacs",
+      "title": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
