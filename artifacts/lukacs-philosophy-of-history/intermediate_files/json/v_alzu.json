@@ -1,0 +1,41 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Considerations for an update of the concept of soc...' author=Alzu year=2020
+[verify_paper.py] Rate limited, backing off (attempt 1/5)...
+[verify_paper.py] Retrying after 1.1s backoff...
+[verify_paper.py] Paper found: Consideraciones para una actualización del concept... (score: 45.8)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Considerations for an update of the concept of social totality based upon the work of Georg Luk\u00e1cs",
+    "author": "Alzu",
+    "year": 2020
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.17533/udea.ef.n62a05",
+      "title": "Consideraciones para una actualizaci\u00f3n del concepto de totalidad social con base en la obra de Georg Luk\u00e1cs.",
+      "authors": [
+        {
+          "family": "Alzu",
+          "given": "Alejandro Nahuel"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Estudios de Filosof\u00eda",
+      "volume": "",
+      "issue": "62",
+      "page": "",
+      "publisher": "Universidad de Antioquia",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.17533/udea.ef.n62a05",
+      "score": 45.813137
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

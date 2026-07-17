@@ -1,0 +1,20 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Lukács's Concept of Imputed Consciousness in Reali...' author=Lanning year=2002
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Luk\u00e1cs's Concept of Imputed Consciousness in Realist Literature",
+    "author": "Lanning",
+    "year": 2002
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (27.1) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

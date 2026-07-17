@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Lukács on Science: A New Act in the Tragedy...' author=Burkett year=2013
+[verify_paper.py] Paper found: Lukács on Science: A New Act in the Tragedy... (score: 52.6)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Luk\u00e1cs on Science: A New Act in the Tragedy",
+    "author": "Burkett",
+    "year": 2013
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/1569206x-12341313",
+      "title": "Luk\u00e1cs on Science: A New Act in the Tragedy",
+      "authors": [
+        {
+          "family": "Burkett",
+          "given": "Paul"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Historical Materialism",
+      "volume": "21",
+      "issue": "3",
+      "page": "3-15",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1163/1569206x-12341313",
+      "score": 52.598343
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

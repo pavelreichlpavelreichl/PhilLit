@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Reading Hegel after Marx: Lukács and the Question ...' author=Menozzi year=2022
+[verify_paper.py] Paper found: Reading Hegel after Marx: Lukács and the Question ... (score: 77.2)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Reading Hegel after Marx: Luk\u00e1cs and the Question of Teleology",
+    "author": "Menozzi",
+    "year": 2022
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/21598282.2022.2035792",
+      "title": "Reading Hegel after Marx: Luk\u00e1cs and the Question of Teleology",
+      "authors": [
+        {
+          "family": "Menozzi",
+          "given": "Filippo"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "International Critical Thought",
+      "volume": "12",
+      "issue": "1",
+      "page": "98-115",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1080/21598282.2022.2035792",
+      "score": 77.15537
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

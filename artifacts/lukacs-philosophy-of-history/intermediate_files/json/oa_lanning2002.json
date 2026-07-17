@@ -1,0 +1,79 @@
+[search_openalex.py] Searching OpenAlex: 'Lanning imputed consciousness realist literature', limit=25
+[search_openalex.py] Retrieved 2 papers...
+[search_openalex.py] Search complete: 2 papers found
+[search_openalex.py] Cached results (cache key: openalex_55f5d8da0db78368)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lanning imputed consciousness realist literature",
+  "results": [
+    {
+      "openalex_id": "W796953248",
+      "doi": null,
+      "title": "Transforming systems engineering principles into integrated project team practice",
+      "authors": [
+        {
+          "name": "Stuart Arnold",
+          "openalex_id": "A5053153436",
+          "orcid": "https://orcid.org/0000-0003-0630-3259"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "This investigation considers the composition, status, principles and defence acquisition setting of systems engineering. From these some opportunities for enhancement of its practice are considered. &#13;\\nIt opens with a re-assessment of the disciplinary essence of systems engineering. Systems engineering is considered as an amalgam of three components \u2013 systems reasoning, engineering and management \u2013 that form a coherent and distinctive discipline. It is advanced that a fresh balance of system-related factors, characterised in this text as systems reasoning, is the distinguishing essence of systems engineering. It conveys a rationale for present-day practice and provides a basis for advancements.&#13;\\nConsideration is given to the construction of a systems engineering framework, built from a re-interpretation of engineering and management science constructs. A triptych of viewpoints of systems engineering, comprising connected representations of business process, organisational capability and individual competence, is proposed and outlined. These three essential views define a paradigm of systems engineering able to structure present-day engineering complexities and risks, and permit project and enterprise control of business achievement and risk exposure.&#13;\\nAn analysis of the UK MOD acquisition setting for systems engineering, and an Integrated Project Team Leader survey of prevailing system engineering attitudes, experiences, expectations and concerns, set the scene for practice advancements. The first of these is based on a rigorous view of what capability means and how this impacts IPT technical contributions and responsibilities. The effectiveness of the current MOD acquisition cycle is then considered. An alternative, that might better serve the changing nature of investment constraints and effective capability delivery, is presented. Approaches to systems engineering planning are then analysed and a conclusion drawn regarding a planning instrument for IPTs that balances prescription, guidance and didacticism.&#13;\\nAn assessment of how requirements assist and hinder working with customers and suppliers dissects the intent and content of requirements, including their contrasting technical and commercial purposes. System descriptions, their relationship and their concordance are then considered in a detailed look inside the technical processes, and this includes the principles and methods employed to design architecture. The resolution of current conflicts and confusions over architecture is seen to lie in observance of disciplined systems engineering principles. Finally the systems engineering views of humans inside and outside the system boundary are explored, and the investigation closes with a consideration of the degree to which systems engineering may reasonably address social influences.",
+      "cited_by_count": 9,
+      "type": "dissertation",
+      "source": {
+        "name": "CERES (Cranfield University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1826/3033"
+      },
+      "topics": [
+        "Systems Engineering Methodologies and Applications",
+        "Technology Assessment and Management",
+        "Complex Systems and Decision Making"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W796953248"
+    },
+    {
+      "openalex_id": "W3172097289",
+      "doi": null,
+      "title": "The Hope and History Debate in Fundamental Theology",
+      "authors": [
+        {
+          "name": "David Patrick Collits",
+          "openalex_id": "A5046747444"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "The hope and history debate in twentieth century Catholic theology concerned to what extent the object(s) of eschatological hope could be realised within history. Its context was the \u2018secularisation of Christian eschatology\u2019. On the one hand, Joseph Ratzinger, who was indebted to the philosophical work of Josef Pieper, considered hope\u2019s object to belong to the realm of gift. He was sceptical of the extent to which hope could be manufactured by human means within history. On the other, Edward Schillebeeckx, Johann Baptist Metz and Gustavo Guti\u00e9rrez presented theologies of futurity, including political theology and liberation theology, in which the realisation of eschatological goals in the historical future became an important object of hope. The protagonists\u2019 positions depended upon the decisions they took in fundamental theology. They are aligned in broad terms to the Communio and Concilium \u2018schools\u2019 of post-conciliar Catholic theology. These \u2018schools\u2019 embody importantly different presentations of fundamental theology still at large today. The different areas of fundamental theology engaged by the hope-history debate include metaphysics and the philosophy of history, Christology, the nature-grace debate and soteriology. The Communio perspective on fundamental theology, represented by Ratzinger, adopts an analogical metaphysics and a theology of history aware of the limits of any philosophy of history and its claims to exhaustive knowledge of history\u2019s progress. It privileges the place of Christ, understood in Chalcedonian terms, in the understanding of hope and salvation history, his novelty in relation to nature and his centrality to the redemption. The Concilium interpretation, represented by Schillebeeckx, Metz and Guti\u00e9rrez, incorporate elements of Hegelian-Marxist philosophy, view Christ through politico-historical lens and adopt a Rahnerian theology of grace, in which Christ\u2019s novelty and centrality to nature, grace and the redemption are downplayed, and the redemption is understood as involving the integration of historical and eschatological reality.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "ResearchOnline@ND (The University of Notre Dame)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.nd.edu.au/theses/283"
+      },
+      "topics": [
+        "Christian Theology and Mission",
+        "Pentecostalism and Christianity Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3172097289"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

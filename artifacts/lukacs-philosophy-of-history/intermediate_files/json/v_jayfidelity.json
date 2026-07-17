@@ -1,0 +1,38 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Fidelity to the Event? Lukács' History and Class C...' author=Jay
+[verify_paper.py] Paper found: Fidelity to the Event? Lukács’ History and Class C... (score: 65.3)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Fidelity to the Event? Luk\u00e1cs' History and Class Consciousness and the Russian Revolution",
+    "author": "Jay"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11212-018-9307-3",
+      "title": "Fidelity to the Event? Luk\u00e1cs\u2019 History and Class Consciousness and the Russian Revolution",
+      "authors": [
+        {
+          "family": "Jay",
+          "given": "Martin"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "Studies in East European Thought",
+      "volume": "70",
+      "issue": "2-3",
+      "page": "195-213",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1007/s11212-018-9307-3",
+      "score": 65.34777
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

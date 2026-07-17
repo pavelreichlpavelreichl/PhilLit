@@ -1,0 +1,691 @@
+[search_openalex.py] Searching OpenAlex: 'Lukacs Praxis and the Absolute Lopez', limit=25
+[search_openalex.py] Retrieved 19 papers...
+[search_openalex.py] Search complete: 19 papers found
+[search_openalex.py] Cached results (cache key: openalex_72c53079e7b5795f)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lukacs Praxis and the Absolute Lopez",
+  "results": [
+    {
+      "openalex_id": "W1555728724",
+      "doi": "10.4324/9781315053615-9",
+      "title": "Racist Speech, Democracy, and the First Amendment",
+      "authors": [
+        {
+          "name": "Robert C. Post",
+          "openalex_id": "A5005663941",
+          "orcid": "https://orcid.org/0000-0002-2581-919X",
+          "institutions": [
+            "Yale University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-12-07",
+      "abstract": "Motivated by an alarming increase in racist incidents, universities throughout the Nation have turned toward the task of restraining racist expression. The justification for these restraints, and their relationship to first amendment values, has become a matter of intense controversy. Even a brief survey of the contemporary debate reveals it to be rich with textured and complex characterizations of the harms of racist expression. A recurring theme in the contemporary literature is that racist expression ought to be regulated because it creates what has been termed \u201cdeontic\u201d harm. Universities and colleges characteristically seek to regulate racist communications that \u201cdirectly create a substantial and immediate interference with the educational processes of the University,\u201d without articulating exactly how racist expression can cause that interference. The very reason that racist speech harms individual persons is because it so violently ruptures the forms of social respect that are necessary for the maintenance of individual personality.",
+      "cited_by_count": 104,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315053615-9&type=chapterpdf"
+      },
+      "topics": [
+        "Law, Rights, and Freedoms",
+        "Hate Speech and Cyberbullying Detection"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W1555728724"
+    },
+    {
+      "openalex_id": "W2928426979",
+      "doi": null,
+      "title": "The Antinomies of Poverty Law and a Theory of Dialogic Empowerment",
+      "authors": [
+        {
+          "name": "Anthony V. Alfieri",
+          "openalex_id": "A5032881461",
+          "orcid": "https://orcid.org/0009-0009-0808-3764"
+        }
+      ],
+      "publication_year": 1987,
+      "publication_date": "1987-01-01",
+      "abstract": null,
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "University of Miami School of Law Institutional Repository (University of Miami)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1589&context=fac_articles"
+      },
+      "topics": [
+        "Human Rights and Development",
+        "Foucault, Power, and Ethics",
+        "Income, Poverty, and Inequality"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2928426979"
+    },
+    {
+      "openalex_id": "W3180284834",
+      "doi": "10.1007/s10746-021-09592-5",
+      "title": "How Do Social Structures Become Taken for Granted? Social Reproduction in Calm and Crisis",
+      "authors": [
+        {
+          "name": "Ryan Gunderson",
+          "openalex_id": "A5006067529",
+          "orcid": "https://orcid.org/0000-0002-3837-0723",
+          "institutions": [
+            "Miami University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-06",
+      "abstract": null,
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Human Studies",
+        "type": "journal",
+        "issn": [
+          "0163-8548",
+          "1572-851X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10746-021-09592-5.pdf"
+      },
+      "topics": [
+        "Psychological Well-being and Life Satisfaction",
+        "Organic Food and Agriculture"
+      ],
+      "referenced_works_count": 110,
+      "url": "https://openalex.org/W3180284834"
+    },
+    {
+      "openalex_id": "W4250450837",
+      "doi": "10.1017/s0020859000002509",
+      "title": "Bibliography",
+      "authors": [],
+      "publication_year": 1964,
+      "publication_date": "1964-04-01",
+      "abstract": "In this booklet, which is based in the main on Matx' Theses on Feuerbach, Engels' essay on Feuerbach at the end of classical German philosophy, his Anti-Duhring and his Dialectics of Nature, Marx' and Engels' German Ideology as well as Lenin's philosophical writings, the interrelation between social praxis and theory is set forth. The author moves along well-known Marxist lines; he does not treat difficult questions such as the exact definition of which is to be considered, out of several possibilities, the \"matter\" of \"materialism\", although \"idealism\" and \"religion\" are condemned time and again.",
+      "cited_by_count": 1,
+      "type": "paratext",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/170018E9DC3EF9BCC21D6B80547DD682/S0020859000002509a.pdf/div-class-title-bibliography-div.pdf"
+      },
+      "topics": [
+        "World Wars: History, Literature, and Impact",
+        "Human auditory perception and evaluation",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4250450837"
+    },
+    {
+      "openalex_id": "W4416225457",
+      "doi": "10.1080/21645515.2025.2583577",
+      "title": "Effect of human papillomavirus (HPV) vaccine on HPV type replacement and sexual behaviors in the post-vaccine era: A cross-sectional study",
+      "authors": [
+        {
+          "name": "Jiahe Zhang",
+          "openalex_id": "",
+          "institutions": [
+            "Sir Run Run Shaw Hospital",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Yan Chen",
+          "openalex_id": "A5100612715",
+          "orcid": "https://orcid.org/0009-0004-6856-263X",
+          "institutions": [
+            "Sir Run Run Shaw Hospital",
+            "Hangzhou Medical College",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Siji Chen",
+          "openalex_id": "A5102380574",
+          "institutions": [
+            "Sir Run Run Shaw Hospital",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Chunting Hua",
+          "openalex_id": "A5062605011",
+          "orcid": "https://orcid.org/0000-0002-3173-2883",
+          "institutions": [
+            "Sir Run Run Shaw Hospital",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Hao Cheng",
+          "openalex_id": "A5100720636",
+          "orcid": "https://orcid.org/0000-0001-5089-6747",
+          "institutions": [
+            "Sir Run Run Shaw Hospital",
+            "Zhejiang University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-11-14",
+      "abstract": "Human Papillomavirus (HPV) vaccination has been implemented for more than 15 years to prevent HPV infection and associated precancerous lesions. However, limited data are available regarding the long-term impacts of HPV vaccination, particularly concerning cross-protection and type replacement. Using data from the 2007-2016 National Health and Nutrition Examination Survey (NHANES), we employed the survey-weighted Student's t-tests, chi-square tests, and logistic regression models to examine the association between vaccine effectiveness and timing of vaccination. Among 9040 females aged 18 years and over, vaccination showed great effectiveness against both vaccine-targeted and non-vaccine-targeted high-risk HPV (hrHPV) among those vaccinated before sexual debut. After full adjustment, participants vaccinated after sex had a 48% increased risk of hrHPV infection (OR (95% CI) = 1.48 (1.16, 1.88)) compared to unvaccinated participants, and their sexual behaviors were more active as well. The most prevalent HPV subtypes were HPV 16/51/52/66, and the prevalence of subtypes 18/35/52/66/68 differed significantly across racial groups. Despite the prevalence of most hrHPV subtypes declined continuously or fluctuated over time, it is noteworthy that the infection rate of HPV 66 increased by 59% compared to the unvaccinated (95% CI: 0.18-0.92). Continuous surveillance is warranted for hrHPV types antigenically distant from vaccine strains, as early type replacement may be emerging. Given the notable difference in effectiveness based on vaccination timing, public-health education should emphasize both the benefits and limitations of HPV vaccination in the context of sexual health.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Human Vaccines & Immunotherapeutics",
+        "type": "journal",
+        "issn": [
+          "2164-5515",
+          "2164-554X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/21645515.2025.2583577?needAccess=true"
+      },
+      "topics": [
+        "Cervical Cancer and HPV Research",
+        "Reproductive tract infections research",
+        "Head and Neck Cancer Studies"
+      ],
+      "referenced_works_count": 59,
+      "url": "https://openalex.org/W4416225457"
+    },
+    {
+      "openalex_id": "W1578528896",
+      "doi": null,
+      "title": "Two perspectives on Philippine literature and society",
+      "authors": [
+        {
+          "name": "Luis V. Teodoro",
+          "openalex_id": "A5018067038"
+        },
+        {
+          "name": "Epifanio San Juan",
+          "openalex_id": "A5104039504"
+        }
+      ],
+      "publication_year": 1981,
+      "publication_date": "1981-01-01",
+      "abstract": "This collection consists of two related papers on Philippine literature written by two renown authors, who link it with liberation, US imperialism, communism, and the overarching concept of freedom.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "ScholarSpace (University of Hawaii at Manoa)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10125/15303"
+      },
+      "topics": [
+        "Philippine History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1578528896"
+    },
+    {
+      "openalex_id": "W202837909",
+      "doi": null,
+      "title": "Musikwissenschaftlicher Paradigmenwechsel?: zum Stellenwert marxistischer Ans\u00e4tze in der Musikforschung ; Dokumentation einer internationalen Fachtagung vom 5.-7. November 1999 in Oldenburg",
+      "authors": [
+        {
+          "name": "Wolfgang Martin Stroh",
+          "openalex_id": "A5089237893"
+        },
+        {
+          "name": "G\u00fcnter Mayer",
+          "openalex_id": "A5041783466",
+          "orcid": "https://orcid.org/0000-0003-3010-4049"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "abstract": "10 Jahre nach dem Fall der Berliner Mauer trafen sich in der Carl von Ossietzky Universit\u00e4t Oldenburg 60 Musikwissenschaftlerinnen und Musikwissenschaftler aus 12 L\u00e4ndern Ost- und Westeuropas sowie Lateinamerikas, um marxistische Ans\u00e4tze in der Musikforschung kritisch und perspektivisch zu reflektieren. Die Referate und Beitr\u00e4ge dieser Tagung sind im vorliegenden Band dokumentiert. Sie spiegeln den Versuch wider, eine verloren gegangene Diskussionskultur wieder aufzugreifen, weltweit-l\u00e4nderspezifisch Bilanz zu ziehen, Kapitalismuskritik neu zu formulieren und Biografisches mit Systematischem zu verkn\u00fcpfen. Es lohnt sich auch f\u00fcr die junge, der b\u00fcrgerlichen Musikwissenschaft \u00fcberdr\u00fcssige Musikwissenschafts-Generation, sich mit den marxistischen Ans\u00e4tzen in der Musikforschung zu besch\u00e4ftigen. Die vorliegende Dokumentation soll hierf\u00fcr Anregungen bieten und eine Grundlage schaffen.",
+      "cited_by_count": 1,
+      "type": "book",
+      "source": {
+        "name": "Carl von Ossiezky University of Oldenburg",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://oops.uni-oldenburg.de/609/61/strmus00.pdf"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Music History and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W202837909"
+    },
+    {
+      "openalex_id": "W953176769",
+      "doi": "10.53846/goediss-2122",
+      "title": "Untersuchungen zur Biosynthese und Aktivit\u00e4t ausgew\u00e4hlter Plecomakrolide sowie chemisches Screening von Actinomyceten",
+      "authors": [
+        {
+          "name": "Tim Schuhmann",
+          "openalex_id": "A5043879670",
+          "orcid": "https://orcid.org/0000-0003-3922-3095"
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "This Ph.D. thesis deals with the isolation and structure elucidation of microbial secondary metabolites and comprises studies of their biosynthesis and biological activity.The first part focuses on investigations towards the biogenesis of the V-ATPase inhibitors bafilomycin A1 and B1. By feeding of [13C]-labelled precursors to the producing strain Streptomyces griseus 3822-14F followed by NMR-spectroscopic analysis of the metabolites the biosynthetic origin of all carbon atoms in the bafilomycin skeleton could be proven. Of special interest was a methoxylated C2-unit, which is also present in the antibiotic concanamycin A. The concanamycin biosynthesis gene cluster is currently being sequenced within a BMBF project. Preliminary data were evaluated and a hypothetical biosynthetic pathway for the unusual C2-units based on the results of feeding experiments could be proposed.To reveal the inhibitory mode of action of bafilomycin A1, a photoaffinity labelled derivative was synthesized. In addition, two bromine atoms were introduced into the molecule. This allows detection via mass spectrometry after cross linking with the active center of the enzyme has occured.The core of another part is the chemical screening of 17 actinomycetes strains, which were isolated from soil samples. Five of them showed a promising secondary metabolite pattern and were the basis for further investigations. These led to the characterization of 16 natural products, from which six showed novel structures. Among them was the bicyclic spiroketal okaspirodiol. In cooperation with Prof. Dr. J. Piel (University of Bonn) Streptomyces sp. strain JP90, which has been isolated from the marine tunicate Aplidium lenticulum, was additionally investigated. From this endosymbiont, seven secondary metabolites could be isolated, from which two were not known to literature so far, including a phosphorus containing compound.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ediss.uni-goettingen.de/bitstream/11858/00-1735-0000-0006-AE9C-8/1/schuhmann.pdf"
+      },
+      "topics": [
+        "Microbial Natural Products and Biosynthesis",
+        "Synthetic Organic Chemistry Methods",
+        "ATP Synthase and ATPases Research"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W953176769"
+    },
+    {
+      "openalex_id": "W7125387417",
+      "doi": "10.1017/s1369415425101039",
+      "title": "Reification, Abstraction, Idealism: Georg Luk\u00e1cs on the Categorial Form of Capitalism",
+      "authors": [
+        {
+          "name": "Katherina Kinzel",
+          "openalex_id": "A5035269656",
+          "orcid": "https://orcid.org/0009-0009-8206-828X",
+          "institutions": [
+            "Utrecht University"
+          ]
+        }
+      ],
+      "publication_year": 2026,
+      "publication_date": "2026-01-22",
+      "abstract": "Abstract Georg Luk\u00e1cs\u2019s History and Class Consciousness (1923) has often been criticised for its idealism. I discuss Luk\u00e1cs\u2019s critique of reification in light of these charges, identifying two different idealist vocabularies of (neo-)Kantian and Hegelian origin, respectively. I show that the function of the former is critical: refracting Marx\u2019s analysis of social form through a Kantian form/content distinction allows Luk\u00e1cs to critique capitalism as the domination of form over content. Luk\u00e1cs\u2019s Hegelian leanings are more problematic, however, as they constrain his own insights into the conditioned and contingent character of political practice and history.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Kantian Review",
+        "type": "journal",
+        "issn": [
+          "1369-4154",
+          "2044-2394"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13341F5CD2BD02A911165BFF4C6D3693/S1369415425101039a.pdf/div-class-title-reification-abstraction-idealism-georg-lukacs-on-the-categorial-form-of-capitalism-div.pdf"
+      },
+      "topics": [
+        "Critical Theory and Philosophy",
+        "Weber, Simmel, Sociological Theory",
+        "Political theory and Gramsci"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W7125387417"
+    },
+    {
+      "openalex_id": "W3085120818",
+      "doi": null,
+      "title": "Translation Without Medicalization: An Ethnography of the Interdisciplinary Building of a Medical and Health Humanities Program",
+      "authors": [
+        {
+          "name": "Sharon Rushing",
+          "openalex_id": "A5051909743"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "This dissertation is an examination of knowledge production and its legitimation in medical education. In this ethnography, I study an interdisciplinary faculty workgroup as they build a medical and health humanities program at the University of California, Riverside, from everyday academic practices of faculty and medical students, to programmatic and course development, and implementation. I explore the workgroup\u2019s discursive practices of knowledge production, and its articulation with the relations of power inherent in biomedical power/knowledge. Drawing from Foucault\u2019s archaeologies/genealogies of power, and application of discourse analysis, I examine the effects of power embedded in social, cultural, and historical contexts to make visible what knowledges are authorized and what knowledges are marginalized in biomedicine\u2019s discursive formations. I consider the social context of the workgroup\u2019s discourse, its functions and meanings, and its positioning as it engages with biomedical discourse to decentralize, open space, and co-construct health and illness knowledges. I argue that the workgroup\u2019s program development is an act of power that challenges empirical biomedical knowledge production in medical education. \\tThrough observation of course implementation, I examine medical student practices that reify and resist both humanities, and biomedical discourse. And, the everyday ways medical students illustrate Foucault\u2019s \u201cdocile\u201d bodies as they enact biomedicine\u2019s techniques of disciplinary power. I argue that the enactment of disciplinary techniques reifies biomedical knowledge authority over alternative knowledges. Conversely, considering medical students\u2019 attitudes and behaviors toward biomedical measures of \u201ccompetency\u201d, I illustrate how biomedical discursive practices constrain their agency. I argue that through acts, attitudes, and beliefs that center their agency, students resist biomedicine\u2019s techniques of power. While biomedical knowledges produce the doctors we need, it simultaneously limits potential for emancipatory discourses of care. I argue that medical training that forecloses alternative discourse of students, and knowledges is structurally violent. This study contributes to current discourse in medical and health humanities that centers on integration of pluralistic knowledges and its operationalization. Giving attention to the ways in which discourse production in everyday practices can decentralized dominant narratives, this research contributes to understandings of how interdisciplinary knowledges of health expand perceptions of medical and health humanities knowledge praxis imaginaries.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/54h6t70f"
+      },
+      "topics": [
+        "Empathy and Medical Education"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3085120818"
+    },
+    {
+      "openalex_id": "W2467314175",
+      "doi": "10.14288/1.0092494",
+      "title": "The Manifestoes and aesthetics of twentieth century Venezuelan poetic groups : from modernity to postmodernity",
+      "authors": [
+        {
+          "name": "Kevin Lance Dykstra",
+          "openalex_id": "A5018906261"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This dissertation observes and discusses the characteristics of Venezuelan poetry in the twentieth century as it relates to the transition from Modernity to Postmodernity. It first discusses the characteristics of Modernity and the development of Postmodernity in Western philosophical thought. These characteristics are then applied to the context of Latin America and, specifically, Venezuela. The concept of Modernity is discussed in terms of political and aesthetic developments in Venezuelan poetry during three distinct political and economic periods of the twentieth century. The first stage is presented as a period of authoritarian rule, the second as a fledgling, and struggling, democracy, and the third as a democratic charade leading to a \"crisis of Modernity\". This study demonstrates that there has been a steady movement throughout the century from Modernity to Postmodernity in the aesthetic production of Venezuelan poetic groups. It shows how and why Venezuelan poetic groups began to reject Modernity's insistence that the subject is capable of categorizing and ordering the world into a rational and progressive system of knowledge. As the century progressed, poetic groups began to consider the futility of seeking a systematic, logical, and controlled approach to reality. By the 1980s, Venezuelan poets tended to avoid the ideological \"metanarratives\" that had been prevalent in the poetry of prior generations.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "cIRcle (University of British Columbia)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2429/17629"
+      },
+      "topics": [
+        "Cultural and political discourse analysis",
+        "Cultural and Social Studies in Latin America",
+        "Youth Culture and Social Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2467314175"
+    },
+    {
+      "openalex_id": "W600444430",
+      "doi": null,
+      "title": "The prose fiction of Cesar Vallejo and Vicente Huidobro",
+      "authors": [
+        {
+          "name": "Jeffrey C. Fisher",
+          "openalex_id": "A5073572346",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "abstract": "A Beil & H ow ellInform ation C o m p a n y 3 0 0 N orth Z e e b R o a d .A nn Arbor.Ml 4 8 1 0 6 -1 3 4 5 U S A 3 1 3 .7 6 1 -4 7 0 0 8 0 0 .5 2 1 -0 6 0 0I wish to express my sincerest gratitude to Dr. Stephen Sunmerhill for the special attention he gave to this project and, most especially, for",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "OhioLink ETD Center (Ohio Library and Information Network)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://rave.ohiolink.edu/etdc/view?acc_num=osu14876885075027"
+      },
+      "topics": [
+        "Literary and Cultural Studies",
+        "Historical and Literary Analyses",
+        "Comparative Literary Analysis and Criticism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W600444430"
+    },
+    {
+      "openalex_id": "W3098748451",
+      "doi": "10.26180/5f31ed0eb8ad8",
+      "title": "Expressions of value in education: credit, money and the case of foreign qualification recognition in Australia\u2019s skilled migration program",
+      "authors": [
+        {
+          "name": "Peter Hurley",
+          "openalex_id": "A5113069698"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "This study examines the nature of expressions of value in education. It uses monetary theory to argue that representations like qualifications have the same three functions as money. These functions are as a measure of value, a store of value and a medium of exchange. To explore these issues in a real-life situation, this study uses foreign qualification recognition (FQR) in Australia\u2019s skilled migration program, which is a process used to determine who can migrate to Australia. The study finds that rather than assessing skill, the process recognises the credit relations associated with certain educational experiences.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "INDIGO (University of Illinois at Chicago)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://figshare.com/articles/thesis/Expressions_of_value_in_education_credit_money_and_the_case_of_foreign_qualification_recognition_in_Australia_s_skilled_migration_program/12786689"
+      },
+      "topics": [
+        "Global Educational Policies and Reforms",
+        "Global Education and Multiculturalism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3098748451"
+    },
+    {
+      "openalex_id": "W167885646",
+      "doi": null,
+      "title": "Awaking to the dream: Education, leadership, and political-cultural formation in four Neo-Zapatista communities of Chiapas",
+      "authors": [
+        {
+          "name": "Victor I. Rodriguez",
+          "openalex_id": "A5026921073"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "The Zapatista National Liberation Army (EZLN), which surfaced on January 1'' 1994, has generated a great deal of interest among social scientists, as expressed in the publication of several books and articles that analyze the uprising. Education, however, is one aspect of the neo-Zapatista movement that social scientist have not explored in those publications. After the uprising, the EZLN along with its base communities undertook the development of an education system autonomously from the Mexican state. The goal of this thesis, therefore, is to understand the role of that education system on the politicalcultural formation of the neo-Zapatista movement. Based on field research conducted in four neo-Zapatista communities and on the analysis of the relationship between regional culture, education, and leadership, this thesis concludes that one of the roles of the education system is the development, maintenance, and reproduction of a democratic leadership within the neo-Zapatista movement.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Summit (Simon Fraser University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://summit.sfu.ca/item/2441"
+      },
+      "topics": [
+        "Indigenous Cultures and Socio-Education",
+        "Indigenous Studies in Latin America",
+        "Latin American Cultural Politics"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W167885646"
+    },
+    {
+      "openalex_id": "W4247444437",
+      "doi": "10.1017/s002085900000465x",
+      "title": "Bibliography",
+      "authors": [],
+      "publication_year": 1974,
+      "publication_date": "1974-08-01",
+      "abstract": "At the time of St Augustine, the continued expectation of the millennium prophesied in the last book of the Bible became a kind of shibboleth, dubbed \"chiliasm\", for denouncing all sorts of revolutionary heresies, and on the same lines Engels and Kautsky used it as a means to identify precursors of their own movement. The author of the present case study shows, however, that what the revolutionary Anabaptists of the sixteenth century tried to take by force was the Kingdom of God, not the millennium. The latter had a \"speculative-escapist\" function; it was only evoked when the revolutionaries were in a tight corner.",
+      "cited_by_count": 0,
+      "type": "paratext",
+      "source": {
+        "name": "International Review of Social History",
+        "type": "journal",
+        "issn": [
+          "0020-8590",
+          "1469-512X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0001D1C07AA00546F7E0360815F322B9/S002085900000465Xa.pdf/div-class-title-bibliography-div.pdf"
+      },
+      "topics": [
+        "World Wars: History, Literature, and Impact",
+        "Human auditory perception and evaluation",
+        "Race, History, and American Society"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W4247444437"
+    },
+    {
+      "openalex_id": "W2921806512",
+      "doi": "10.17169/refubium-737",
+      "title": "Qualit\u00e4tsindikatoren in der Behandlung von Menschen mit Demenz \u2013 basierend auf den Routinedaten einer gesetzlichen Krankenkasse (BARMER GEK)",
+      "authors": [
+        {
+          "name": "Natalie Hackel",
+          "openalex_id": "A5056705525"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Ziel der vorliegenden Arbeit war es aufzuzeigen, inwiefern sich mit Routinedaten der Krankenkassen Qualit\u00e4t in der Behandlung von Demenzpatienten abbilden l\u00e4sst. Dies wurde versucht mit acht sogenannten Qualtit\u00e4tkriterien oder Qualit\u00e4tsindikatoren, exemplarisch aufgearbeitet f\u00fcr mehrere Aspekte in der Demenzbehandlung (Bildgebung bei Diagnosestellung, medikament\u00f6se Therapie, ambulante fach\u00e4rztliche Anbindung). Basis hierf\u00fcr waren \u00fcberwiegend Therapieempfehlungen, die in den revidierten S3-Leitlinien 2015 genannt wurden. Zur praktischen Veranschaulichung wurden die acht Qualit\u00e4tskriterien an den \u00fcber 8 Millionen Versicherten der Barmer GEK in absoluten Zahlen ermittelt. In einem weiteren Schritt wurden die so erhobenen Prozents\u00e4tze im nationalen und internationalen Vergleich diskutiert. Dabei wurde deutlich, dass trotz ausf\u00fchrlichen Literaturstudiums zum Teil nur bedingt vergleichbare Publikationen zur Verf\u00fcgung standen. H\u00e4ufig war die Zahl an Probanden sehr gering, es wurde explizit nur eine bestimmte Patientensubgruppe thematisiert (beispielsweise Pflegeheimmitbewohner) oder die Einschlusskriterien f\u00fcr Medikamente unterschiedlich angewendet. In der vorliegenden Arbeit wurde versucht, dies alles entsprechend zu ber\u00fccksichtigen, um abschlie\u00dfend aufzuzeigen, dass Routinedaten der Krankenkassen durchaus daf\u00fcr geeignet sind, Qualit\u00e4t in der Behandlung von Menschen mit Demenz (mit) abzubilden. Routinedaten erfahren viel Kritik, allerdings beschreiben sie doch am besten Teile der Versorgungsrealit\u00e4t von den Patienten, die von den gesetzlichen Krankenkassen als dement erfasst werden. Wenn man Qualit\u00e4tsindikatoren als Fr\u00fchwarnsystem betrachtet, so k\u00f6nnen sie auf eine Unter- oder Fehlversorgung von Versicherten mit Demenz hinweisen.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Refubium (Universit\u00e4tsbibliothek der Freien Universit\u00e4t Berlin)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://refubium.fu-berlin.de/handle/fub188/22939"
+      },
+      "topics": [
+        "Health and Medical Studies",
+        "Medical Practices and Rehabilitation",
+        "Medical and Health Sciences Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2921806512"
+    },
+    {
+      "openalex_id": "W2344422937",
+      "doi": null,
+      "title": "Untersuchung des Einflusses von Endotoxin (Lipopolysaccariden) auf die Leberfunktion an Wildtyp-, heterozygoten und Somatostation-Rezeptor-2A-Knockout-M\u00e4usen",
+      "authors": [
+        {
+          "name": "Saskia med. Wunderlich",
+          "openalex_id": "A5063772426"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-04-08",
+      "abstract": "Es war Ziel der vorliegenden Arbeit zu pr\u00fcfen, ob der Somatostatinrezeptor (SSTR) 2A bei der systemischen inflammatorischen Reaktion und der damit verbundenen Leberfunktionsst\u00f6rung eine Rolle spielt und somit eine m\u00f6gliche Zielstruktur f\u00fcr eine therapeutische Intervention beim Sepsis-induzierten Leberversagen darstellen k\u00f6nnte. Als Sepsis-Modell diente die Gabe von Lipopolysacchariden (LPS) bei der Maus. Untersucht wurden vergleichend verschiedene Leberfunktionsparameter an SSTR2A-Wildtyp-, heterozygoten und SSTR2A-Knockout-M\u00e4usen, denen 24 Stunden zuvor eine 0,9%ige NaCl-L\u00f6sung oder LPS verabreicht worden war. Analysiert wurden unter anderem die Biotransformationskapazit\u00e4t, die Transporterfunktion, der Glykogengehalt der Lebern und Parameter f\u00fcr oxidativen Stress. Die vorliegenden Untersuchungen ergaben erwartungsgem\u00e4\u00df, dass eine Behandlung von M\u00e4usen mit LPS zu einer Verschlechterung der Leberfunktion f\u00fchrt. So waren bei allen drei Tiergruppen nach der Gabe von LPS der Glykogengehalt, die Biotransformationskapazit\u00e4t und die Transporterfunktion der Leber vermindert, w\u00e4hrend der oxidative Stress erh\u00f6ht war. Bei vielen der analysierten Parameter zeigte sich auch, dass SSTR2A-Knockout-M\u00e4use empfindlicher auf eine LPS-Verabreichung reagieren als heterozygote und insbesondere SSTR2A-Wildtyp-Tiere. Insgesamt weisen die Ergebnisse der vorliegenden Arbeit darauf hin, dass der SSTR2A im Rahmen einer schweren systemischen inflammatorischen Reaktion einen protektiven Einfluss auf die Leberfunktion aus\u00fcbt. Der SSTR2A k\u00f6nnte daher beim Sepsis-induzierten Leberversagen eine m\u00f6gliche Zielstruktur f\u00fcr eine therapeutische Intervention darstellen. Hier sind weiterf\u00fchrende Untersuchungen notwendig, in denen die Effekte langwirksamer Somatostatin-Analoga wie Octreotid oder Pasireotid bei einer Leberfunktionsst\u00f6rung im Rahmen einer Sepsis gepr\u00fcft werden sollten.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Common Library Network (Der Gemeinsame Bibliotheksverbund)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://nbn-resolving.org/urn:nbn:de:gbv:27-20130408-110148-0"
+      },
+      "topics": [
+        "Immune Response and Inflammation",
+        "S100 Proteins and Annexins",
+        "Inflammation biomarkers and pathways"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2344422937"
+    },
+    {
+      "openalex_id": "W4212922979",
+      "doi": "10.1007/s00112-021-01292-9",
+      "title": "Abstracts der 59.\u00a0Jahrestagung der \u00d6sterreichischen Gesellschaft f\u00fcr Kinder- und Jugendheilkunde 2021",
+      "authors": [],
+      "publication_year": 2021,
+      "publication_date": "2021-09-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "conference-abstract",
+      "source": {
+        "name": "Monatsschrift Kinderheilkunde",
+        "type": "journal",
+        "issn": [
+          "0026-9298",
+          "1433-0474"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00112-021-01292-9.pdf"
+      },
+      "topics": [
+        "Health and Medical Studies"
+      ],
+      "referenced_works_count": 2,
+      "url": "https://openalex.org/W4212922979"
+    },
+    {
+      "openalex_id": "W2527375719",
+      "doi": "10.17169/refubium-7642",
+      "title": "Arthropoden-\u00fcbertragene Krankheitserreger bei Hunden und F\u00fcchsen in Brandenburg",
+      "authors": [
+        {
+          "name": "Jana M. Liesner",
+          "openalex_id": "A5052345791"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Der von Stechm\u00fccken \u00fcbertragene Zoonoseerreger Dirofilaria repens kommt bisher in \u00f6stlichen und s\u00fcdlichen Regionen Europas vor, ist jedoch noch nicht endemisch in Deutschland. Dieser Parasit wurde in den letzten Jahren wiederholt in Hunden aus Brandenburg und Baden-W\u00fcrttemberg sowie in heimischen M\u00fcckenarten nachgewiesen. Ziel dieser Studie war es, das Vorkommen von D. repens und weiteren von Fl\u00f6hen, Zecken oder Stechm\u00fccken \u00fcbertragenen Erregern im Bundesland Brandenburg bei Hunden und Rotf\u00fcchsen zu untersuchen. Es sollten Hinweise bez\u00fcglich der aktuellen epidemiologischen Situation in dieser Region gewonnen werden und die Frage einer m\u00f6glichen Endemisierung von D. repens untersucht werden. Insgesamt wurden 1023 Hundeblutproben sowie 195 Fuchsmilz- und 179 Fuchsblutproben im Zeitraum April 2013 bis September 2014 untersucht. Bei allen Proben erfolgte eine DNA-Isolation und im Anschluss verschiedene Polymerase-Kettenreaktionen (PCR), um das Vorkommen von Filarien, Anaplasma phagozytophilum, Candidatus Neoehrlichia mikurensis, Ehrlichia canis, Rickettsia spp. und Piroplasmen zu untersuchen. In sechs von ingesamt 1023 untersuchten Hundeblutproben (0,6 %) wurde mittels PCR Filarien-DNA nachgewiesen, darunter in zwei Hunden D. repens, in zwei D. immitis und in zwei weiteren Acanthocheilonema reconditum. Einer der zwei positiven D. repens Hunde stammte aus einem Tierheim in Brandenburg, bei dem anderen Hund ist die Herkunft unbekannt. Interessanterweise wiesen beide ITS-1 Sequenzen von D. repens 100 % \u00dcbereinstimmung mit D. repens bei einer durch Europa gereisten Japanerin auf. Zudem zeigten diese ITS-1 Sequenzen von D. repens eine 97 % bzw. 98 % genetische \u00c4hnlichkeit zu der bisher nur in Hong Kong, China beschriebenen Spezies Dirofilaria hongkongensis. A. phagocytophilum wurde in 15 Hunden (1,5 %), Candidatus N. mikurensis in drei Hunden (0,3 %) und E. canis in einem Hund (0,1 %) detektiert. Letzterer wies zudem eine Koinfektion mit D. repens auf. Eine Infektion mit Rickettsia spp. wiesen 0,8 % der Hunde auf, darunter sieben mit Rickettsia raoultii und einer mit Rickettsia felis. Bei einem Hund (0,1 %) wurde Babesia canis nachgewiesen, es lagen jedoch keine weiteren Informationen zu der Herkunft vor. In 85 (47,5 %) von insgesamt 179 untersuchten Rotfuchsblutproben wurden Piroplasmen nachgewiesen und dabei wurden 10 von 11 mittels Gensequenzierung weiter untersuchten positiven Proben als Theileria annae identifiziert. Bei einer weiteren Probe lag eine Kreuzreaktivit\u00e4t der PCR mit einer Kokzidie vor, diese Probe wurde als Sarcocystis arctica identifiziert. Der Rotfuchs kann somit auch hierzulande als Reservoirwirt f\u00fcr T. annae angesehen werden. F\u00fcr alle anderen Erreger aus der Studie waren die Fuchsproben negativ. Ein Fragebogen f\u00fcr die Besitzer diente der Auskunft \u00fcber Herkunft, erfolgte Reisen mit Hund und Parasitenprophylaxe. Insgesamt lagen Angaben hierzu von circa einem Viertel aller Besitzer aus der Studie vor. Es wurde bei der Auswertung ein hoher Anteil von hinsichtlich der Infestation mit Ektoparasiten ungesch\u00fctzten Hunden mit 74,2 % (n = 233) identifiziert, da bei diesen Hunden keine Parasitenprophylaxe erfolgte. Bei der Herkunft der Hunde zeigte sich, dass 21,2 % (n = 236) der Hunde aus Tierheimen im In- oder Ausland stammten. Bei diesen Hunden konnte eine Herkunft aus potenziellen Endemiegebieten nicht ausgeschlossen werden. 102 Besitzer (41,6 %) gaben an, mit ihrem Hund (zum Teil) auf Reisen zu gehen (n = 245), 47 Besitzer (19,2 %) sind zudem mit ihrem Hund au\u00dferhalb von Deutschland auf Reisen (innerhalb und au\u00dferhalb der EU, n = 245). Ein endemisches Vorkommen von D. repens bei Hunden oder F\u00fcchsen in Brandenburg konnte in dieser Studie nicht best\u00e4tigt werden. Die Gefahr der Endemisierung ist jedoch als hoch anzusehen, da der Erreger wiederholt in Hunden und in M\u00fccken aus dieser Region nachgewiesen wurde. Auch das Vorkommen weiterer \"emerging pathogens\", wie Candidatus N. mikurensis, wurde bei Hunden in dieser Studie nachgewiesen und der Erreger ist daher als potenzielles Risiko f\u00fcr den Hund, aber auch f\u00fcr den Menschen in dieser Region anzusehen. Die m\u00f6gliche Endemisierung von D. repens sowie aktuelle Pr\u00e4valenzen von VBDs sollten Gegenstand weiterer, m\u00f6glichst deutschlandweiter Untersuchungen sein, um das Infektionsrisiko f\u00fcr Mensch und Tier genauer einsch\u00e4tzen zu k\u00f6nnen. Tier- als auch Humanmedizinern kommt dabei in der Forschung, Prophylaxe, Diagnostik sowie in der Therapie von VBDs eine zentrale Rolle zu. Die Basis hierf\u00fcr stellt von tier\u00e4rztlicher Seite die Aufkl\u00e4rung der Tierbesitzer \u00fcber die Infektionen und \u00fcber die Bedeutung einer medikament\u00f6sen Prophylaxe bei ihren Haustieren dar, die proaktiv angegangen werden sollte.",
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "source": {
+        "name": "Refubium (Universit\u00e4tsbibliothek der Freien Universit\u00e4t Berlin)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://refubium.fu-berlin.de/handle/fub188/3442"
+      },
+      "topics": [
+        "Forensic Entomology and Diptera Studies",
+        "Dermatological diseases and infestations",
+        "Zoonotic diseases and public health"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2527375719"
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

@@ -1,0 +1,925 @@
+[search_openalex.py] Searching OpenAlex: 'Lukacs Tailism dialectic', limit=25
+[search_openalex.py] Retrieved 25 papers...
+[search_openalex.py] Search complete: 25 papers found
+[search_openalex.py] Cached results (cache key: openalex_4da99df8f4e5da44)
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Lukacs Tailism dialectic",
+  "results": [
+    {
+      "openalex_id": "W1505630202",
+      "doi": null,
+      "title": "A defence of history and class consciousness : tailism and the dialectic",
+      "authors": [
+        {
+          "name": "Gy\u00f6rgy Luk\u00e1cs",
+          "openalex_id": "A5018150376"
+        },
+        {
+          "name": "Esther Leslie",
+          "openalex_id": "A5021521861",
+          "orcid": "https://orcid.org/0000-0003-4712-2753"
+        },
+        {
+          "name": "John Rees",
+          "openalex_id": "A5075627915"
+        },
+        {
+          "name": "Slavoj \u017di\u017eek",
+          "openalex_id": "A5091549348",
+          "orcid": "https://orcid.org/0000-0003-4672-6942"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "Lukacs's masterpiece History and Class Consciousness (1923) is commonly held to be the foundational text for the tradition known as Western Marxism. As Stalinism took over, Lukacs was subjected to attacks for deviations from the party line. In the mid 1920's Lukacs wrote a passionate response to this onslaught.",
+      "cited_by_count": 119,
+      "type": "book",
+      "source": {
+        "name": "Verso eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1505630202"
+    },
+    {
+      "openalex_id": "W2080943250",
+      "doi": "10.2307/3684627",
+      "title": "The Political Unconscious: Narrative as a Socially Symbolic Act",
+      "authors": [
+        {
+          "name": "Alice N. Benston",
+          "openalex_id": "A5077469154"
+        },
+        {
+          "name": "Fredric Jameson",
+          "openalex_id": "A5019765592"
+        }
+      ],
+      "publication_year": 1983,
+      "publication_date": "1983-01-01",
+      "abstract": "be obvious that no work in the area of narrative analysis can afford to ignore the fundamental contributions of Northrop Frye, the codifica tion by A. J. Greimas of the whole Formalist and semiotic traditions, the heritage of a certain Christian hermeneutics, and above all, the indispensable explorations by Freud of the logic of dreams, and by Claude Levi-Strauss of the logic of \"primitive\" storytelling and pensee sauvage, not to speak of the flawed yet monumental achievements in this area of the greatest Marxist philosopher of modern times, Georg Lukacs. These divergent and unequal bodies of work are here interro gated and evaluated from the perspective of the specific critical and interpretive task of the present volume, namely to restructure the prob lematics of ideology, of the unconscious and of desire, of representa tion, of history, and of cultural production, around the all-informing process of narrative, which I take to be (here using the shorthand of philosophical idealism) the central function or instance of the human",
+      "cited_by_count": 1174,
+      "type": "article",
+      "source": {
+        "name": "SubStance",
+        "type": "journal",
+        "issn": [
+          "0049-2426",
+          "1527-2095"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jstor.org/institutionSearch?redirectUri=%2fstable%2f3684627"
+      },
+      "topics": [
+        "Contemporary Literature and Criticism",
+        "Narrative Theory and Analysis"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2080943250"
+    },
+    {
+      "openalex_id": "W2494911007",
+      "doi": "10.2307/3684202",
+      "title": "The Political Unconscious: Narrative as Socially Symbolic Act",
+      "authors": [
+        {
+          "name": "John Brenkman",
+          "openalex_id": "A5086992682"
+        },
+        {
+          "name": "Fredric Jameson",
+          "openalex_id": "A5019765592"
+        }
+      ],
+      "publication_year": 1983,
+      "publication_date": "1983-01-01",
+      "abstract": "be obvious that no work in the area of narrative analysis can afford to ignore the fundamental contributions of Northrop Frye, the codifica tion by A. J. Greimas of the whole Formalist and semiotic traditions, the heritage of a certain Christian hermeneutics, and above all, the indispensable explorations by Freud of the logic of dreams, and by Claude Levi-Strauss of the logic of \"primitive\" storytelling and pensee sauvage, not to speak of the flawed yet monumental achievements in this area of the greatest Marxist philosopher of modern times, Georg Lukacs. These divergent and unequal bodies of work are here interro gated and evaluated from the perspective of the specific critical and interpretive task of the present volume, namely to restructure the prob lematics of ideology, of the unconscious and of desire, of representa tion, of history, and of cultural production, around the all-informing process of narrative, which I take to be (here using the shorthand of philosophical idealism) the central function or instance of the human",
+      "cited_by_count": 101,
+      "type": "article",
+      "source": {
+        "name": "SubStance",
+        "type": "journal",
+        "issn": [
+          "0049-2426",
+          "1527-2095"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jstor.org/institutionSearch?redirectUri=%2fstable%2f3684202"
+      },
+      "topics": [
+        "Rhetoric and Communication Studies"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2494911007"
+    },
+    {
+      "openalex_id": "W2064078227",
+      "doi": "10.7202/016589ar",
+      "title": "Historical Materialism and the Writing of Canadian History: A Dialectical View",
+      "authors": [
+        {
+          "name": "Bryan D. Palmer",
+          "openalex_id": "A5060517090"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-10-10",
+      "abstract": "Surveying the historical writing in Canada that has adopted the approach of historical materialism, this paper presents a new perspective on Marxist theory and its relevance to the study of the past. It both links Canadian historical materialist texts to a series of important international debates and suggests the significance of dialectics in the development of Marxism's approach to the past.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Canadian Historical Association",
+        "type": "journal",
+        "issn": [
+          "0847-4478",
+          "1712-6274"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.erudit.org/fr/revues/jcha/2006-v17-n2-jcha1833/016589ar.pdf"
+      },
+      "topics": [
+        "Canadian Identity and History"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W2064078227"
+    },
+    {
+      "openalex_id": "W420020946",
+      "doi": "10.7591/9781501723278",
+      "title": "The Forms of Historical Fiction",
+      "authors": [
+        {
+          "name": "Harry E. Shaw",
+          "openalex_id": "A5068032353"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-05-26",
+      "abstract": "Harry Shaw\u2019s aim is to promote a fuller understanding of nineteenth-century historical fiction by revealing its formal possibilities and limitations. His wide-ranging book establishes a typology of the ways in which history was used in prose fiction during the nineteenth century, examining major works by Sir Walter Scott\u2014the first modern historical novelist\u2014and by Balzac, Hugo, Anatole France, Eliot, Thackeray, Dickens, and Tolstoy",
+      "cited_by_count": 109,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.7591/9781501723278"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W420020946"
+    },
+    {
+      "openalex_id": "W2938764052",
+      "doi": "10.1186/s13287-019-1212-2",
+      "title": "Skin tissue engineering: wound healing based on stem-cell-based therapeutic strategies",
+      "authors": [
+        {
+          "name": "Azar Nourian Dehkordi",
+          "openalex_id": "A5085842424",
+          "institutions": [
+            "National Institute of Genetic Engineering and Biotechnology"
+          ]
+        },
+        {
+          "name": "Fatemeh Mirahmadi Babaheydari",
+          "openalex_id": "A5056833224",
+          "institutions": [
+            "Shahrekord University of Medical Sciences"
+          ]
+        },
+        {
+          "name": "Mohammad Chehelgerdi",
+          "openalex_id": "A5011999603",
+          "orcid": "https://orcid.org/0000-0002-3483-9424",
+          "institutions": [
+            "Biotechnology Research Center",
+            "Islamic Azad University of Shahrekord"
+          ]
+        },
+        {
+          "name": "Shiva Raeisi Dehkordi",
+          "openalex_id": "A5048029228",
+          "institutions": [
+            "Shahrekord University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-29",
+      "abstract": "Normal wound healing is a dynamic and complex multiple phase process involving coordinated interactions between growth factors, cytokines, chemokines, and various cells. Any failure in these phases may lead wounds to become chronic and have abnormal scar formation. Chronic wounds affect patients' quality of life, since they require repetitive treatments and incur considerable medical costs. Thus, much effort has been focused on developing novel therapeutic approaches for wound treatment. Stem-cell-based therapeutic strategies have been proposed to treat these wounds. They have shown considerable potential for improving the rate and quality of wound healing and regenerating the skin. However, there are many challenges for using stem cells in skin regeneration. In this review, we present some sets of the data published on using embryonic stem cells, induced pluripotent stem cells, and adult stem cells in healing wounds. Additionally, we will discuss the different angles whereby these cells can contribute to their unique features and show the current drawbacks.",
+      "cited_by_count": 532,
+      "type": "article",
+      "source": {
+        "name": "Stem Cell Research & Therapy",
+        "type": "journal",
+        "issn": [
+          "1757-6512"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://stemcellres.biomedcentral.com/track/pdf/10.1186/s13287-019-1212-2"
+      },
+      "topics": [
+        "Wound Healing and Treatments",
+        "Mesenchymal stem cell research",
+        "Planarian Biology and Electrostimulation"
+      ],
+      "referenced_works_count": 264,
+      "url": "https://openalex.org/W2938764052"
+    },
+    {
+      "openalex_id": "W2921998925",
+      "doi": "10.1007/s40685-019-0096-4",
+      "title": "When rational decision-making becomes irrational: a critical assessment and re-conceptualization of intuition effectiveness",
+      "authors": [
+        {
+          "name": "Christian Julmi",
+          "openalex_id": "A5078606851",
+          "orcid": "https://orcid.org/0000-0002-7368-7814",
+          "institutions": [
+            "FernUniversit\u00e4t in Hagen"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-07",
+      "abstract": "Abstract Intuition can lead to more effective decision-making than analysis under certain conditions. This assumption can be regarded as common sense. However, dominant research streams on intuition effectiveness in decision-making conceptualize intuition inadequately, because intuition is considered either detrimental or as a form of analysis. Current findings in general intuition research show that intuition is a holistic form of information processing that is distinct from analysis and can be superior in some cases. To reconcile this mismatch, this article first critically assesses dominant conceptions on intuition effectiveness and then offers a re-conceptualization that builds on current findings of general intuition research. Basically, the article suggests the structuredness of the decision problem as the main criterion for intuition effectiveness, and proposes organization information processing theory to establish this link conceptually. It is not the uncertainty but the equivocality of decision problems that call for an intuitive approach. The article conclusively derives implications for further research and discusses potential restrictions and constraints.",
+      "cited_by_count": 71,
+      "type": "article",
+      "source": {
+        "name": "BuR - Business Research",
+        "type": "journal",
+        "issn": [
+          "1866-8658",
+          "2198-2627",
+          "2198-3402"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s40685-019-0096-4.pdf"
+      },
+      "topics": [
+        "Decision-Making and Behavioral Economics",
+        "Experimental Behavioral Economics Studies",
+        "Team Dynamics and Performance"
+      ],
+      "referenced_works_count": 199,
+      "url": "https://openalex.org/W2921998925"
+    },
+    {
+      "openalex_id": "W200108960",
+      "doi": "10.1515/zfsoz-1994-0301",
+      "title": "Modern, Anti, Post, and Neo: How Social Theories Have Tried to Understand the \u201cNew World\u201d of \u201cOur Time\u201d",
+      "authors": [
+        {
+          "name": "Jeffrey C. Alexander",
+          "openalex_id": "A5058196351",
+          "orcid": "https://orcid.org/0000-0003-3600-8023"
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-06-01",
+      "abstract": "Abstract This article links the cognitive contents of the different theoretical perspectives that have emerged since World War II to their meaning-making functions, and links both to their social origins broadly understood. It views social theorists as intellectuals who try to understand the crisis of their times. In doing so, they draw not only upon the cognitive resources of earlier social theories but upon the structured traditions of cultural codes and narratives. In order to explain the new and often unnerving experiences of their changing societies, intellectuals develop binary oppositions whose constructions of sacrality and profanity allow them to place the present in relation to a simplified past and future, thus creating \u201chistory.\u201d Social theory is also built upon changing narrative forms, genres of collective heroism, romantic individualism, tragedy, comedy, realism, and irony. The author suggests that in recent years the comic and ironic perspectives of postmodern theory have been challenged by a neo-modern perspective that is more heroic and romantic and more confident about solving the \u201cproblems of our time.\u201d",
+      "cited_by_count": 98,
+      "type": "article",
+      "source": {
+        "name": "Zeitschrift f\u00fcr Soziologie",
+        "type": "journal",
+        "issn": [
+          "0340-1804",
+          "2366-0325"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.degruyter.com/document/doi/10.1515/zfsoz-1994-0301/pdf"
+      },
+      "topics": [
+        "Weber, Simmel, Sociological Theory",
+        "Social and Cultural Dynamics",
+        "Management and Organizational Studies"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W200108960"
+    },
+    {
+      "openalex_id": "W4401596325",
+      "doi": "10.1515/opphil-2024-0027",
+      "title": "Critique of Reification of Art and Creativity in the Digital Age: A Luk\u00e1csian Approach to AI and NFT Art",
+      "authors": [
+        {
+          "name": "Zoran Poposki",
+          "openalex_id": "A5035431115",
+          "orcid": "https://orcid.org/0000-0002-1694-7341",
+          "institutions": [
+            "Education University of Hong Kong"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": "Abstract This article critically examines the emergent phenomena of AI-generated and NFT art through the lens of Georg Luk\u00e1cs\u2019 theory of reification and its existential implications. Luk\u00e1cs argued that under capitalism, social relations and human experiences are transformed into objective, quantifiable commodities, leading to a fragmented and alienated consciousness. Applying this framework to AI and NFT art, these technologies can be said to represent extreme examples of the reification of art and creativity in the digital age. AI art generators reduce artistic production to abstract, computable properties divorced from lived experience, while NFTs transform digital art into speculative commodities, imposing the logic of private property and exchange value onto the previously open domain of online culture. The existential dimension of this reification is explored, raising questions about the nature of creativity, originality, and the value of art in an increasingly financialized and automated world. The article suggests that a Luk\u00e1csian critique must not only diagnose the reified character of these cultural forms but also identify their potential for resistance and transformation, pointing toward a re-humanized and emancipatory vision of art in the digital age. Contemporary theorists such as Tiziana Terranova, Nick Dyer-Witheford, and Benjamin Noys are invoked to further elucidate these issues.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Open Philosophy",
+        "type": "journal",
+        "issn": [
+          "2543-8875"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0027/pdf"
+      },
+      "topics": [
+        "Aesthetic Perception and Analysis",
+        "Digital Media and Visual Art",
+        "Art, Technology, and Culture"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W4401596325"
+    },
+    {
+      "openalex_id": "W2148009046",
+      "doi": null,
+      "title": "Philosophy of New Jazz: Reconstructing Adorno",
+      "authors": [
+        {
+          "name": "Dustin Garlitz",
+          "openalex_id": "A5056247887",
+          "orcid": "https://orcid.org/0000-0002-9409-5121",
+          "institutions": [
+            "University of South Florida"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Theodor W. Adorno, the towering twentieth century German intellectual figure and distinctive musical thinker, was legendary for being over-critical of jazz music. Through a consideration at his admiration for avant-garde chamber and symphonic music, I plan to develop a position that, surprisingly, points towards a theory of unacknowledged acceptance of jazz. The style of jazz that will be the newly constructed musical idiom of admiration for Adorno will be of the heterodox variety. My method of reconstruction will be to interrogate the inconsistencies in Adorno's critical musical writings, and negate such negations with factual evidence of affirmation found in the avant-garde jazz community. This Hegelian approach to musical scholarship has not been as common in the field's published literature as it should be.\\nA linear motive that will be initiated by this treatise's unfolding will be to restore the integrity to jazz culture which Adorno ravished in the realm of critical theory from the 1930's through the middle part of the twentieth century. Adorno's two primary interests will undergo a type synthesis in this study that will render justice to both music and philosophy. Early in the study, Adorno's youth experiences with Simmel and Kracauer (as well as his later apprenticeship with Walter Benjamin) will be discussed and an effort will be made to determine how such studies altered Adorno's aesthetic values. I am particularly interested in mapping the development of the theory of aura from Benjamin to Adorno, and how auratic art differs from aura-exuding music. Next, an avant-garde jazz composer will be looked at. This will be done to enforce the point that the next generation of jazz musicians who Adorno disliked so much had firmly committed aesthetic values of their own.\\nThe modern social philosophical thought that informed these values, which include Kant's Third Critique up to Anthony Giddens' concept of a double hermeneutic, intersect with Adorno's intellectual background. Thus the scholarly aesthetic distance between the 'new jazz' musician and Adorno, I will show not really that wide.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Digital Commons - University of South Florida (University of South Florida)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=3182&context=etd"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Music History and Culture",
+        "Schopenhauer and Stefan Zweig"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2148009046"
+    },
+    {
+      "openalex_id": "W2937332230",
+      "doi": "10.32855/fcapital.200601.012",
+      "title": "The Other Frankfurt School",
+      "authors": [
+        {
+          "name": "Mark P. Worrell",
+          "openalex_id": "A5034203619"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-01",
+      "abstract": "As director of the Institute of Social Research (\"Frankfurt School\"), Max Horkheimer led an exodus of radical scholars across Europe and the Atlantic, cultivated rich networks of international support, oversaw important research projects, and authored or oversaw the production of some of the most influential, scholarly texts of the twentieth century. And as the leader of an organization with financial resources Horkheimer extended a lifeline to numerous scholars desperately in need of assistance. [1] Yet, his relationship toward the Institute (ISR) was complicated upon arrival in the United States and it led, over time, to a decisive rupture between the so-called \"inner circle\" and the \"dispersed forces\" of critical sociology working along the periphery of the Institute.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Fast Capitalism",
+        "type": "journal",
+        "issn": [
+          "1930-014X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/download/70/60"
+      },
+      "topics": [
+        "Critical Theory and Philosophy"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2937332230"
+    },
+    {
+      "openalex_id": "W11984417",
+      "doi": "10.1097/00006205-200204000-00008",
+      "title": "\"What have the Romans ever done for us?\" Academic and activist forms of movement theorizing",
+      "authors": [
+        {
+          "name": "Colin Barker",
+          "openalex_id": "A5110383581"
+        },
+        {
+          "name": "Laurence Cox",
+          "openalex_id": "A5090745043",
+          "orcid": "https://orcid.org/0000-0002-8464-0464"
+        }
+      ],
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "abstract": "The most common chronic bloodborne infection in the United States, hepatitis C virus (HCV) is the most frequent reason for liver transplantation. Unfortunately, most infected individuals don't realize they're HCV positive and only discover the disease after severe liver damage has occurred. Here, update your knowledge on the epidemiology, transmission and risk factors, diagnosis, clinical presentation, and management of chronic HCV. Insight on counseling and quality of life issues for infected patients is also included.",
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "The Nurse Practitioner",
+        "type": "journal",
+        "issn": [
+          "0361-1817",
+          "1538-8662"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.maynoothuniversity.ie/428/1/AFPPVIII.pdf"
+      },
+      "topics": [
+        "Oral History, Memory, Narrative Analysis"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W11984417"
+    },
+    {
+      "openalex_id": "W74830124",
+      "doi": "10.22459/ipae.12.2010.06",
+      "title": "Dingo scalping and the frontier economy in the north-west of South Australia",
+      "authors": [
+        {
+          "name": "Diana Young",
+          "openalex_id": "A5006083715",
+          "orcid": "https://orcid.org/0000-0002-5443-3712"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-12-01",
+      "abstract": null,
+      "cited_by_count": 9,
+      "type": "book-chapter",
+      "source": {
+        "name": "ANU Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.22459/ipae.12.2010.06"
+      },
+      "topics": [
+        "Pleistocene-Era Hominins and Archaeology"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W74830124"
+    },
+    {
+      "openalex_id": "W2767286532",
+      "doi": null,
+      "title": "Spectral Socialisms: Marxism-Leninism and the Future of Marxist Thought in Post-Socialist Bulgaria",
+      "authors": [
+        {
+          "name": "Zhivka Valiavicharska",
+          "openalex_id": "A5067460794"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "Asking what discursive conditions enabled the unchallenged reign of neoliberal capitalism in Eastern Europe after 1989, this dissertation argues that Stalinist philosophy leaves a silent yet powerful structuring legacy in post-socialist politics and intellectual discourse. Stalinist Marxism-Leninism has survived in the presumption that there is a necessary relationship between authoritarianism and politics on the left, and conversely, between democracy and free-market capitalism. Rejecting the premise that there is an inevitable, trans-historical relationship between socialism and authoritarianism, this project locates the historical juncture that sealed them together in the discursive production of Leninism and the doctrines of Dialectical Materialism and Historical Materialism during Stalinist Soviet Union. With a focus on socialist Bulgaria, the dissertation examines the political uses and material effects of the Stalinist ideologemes throughout the intellectual history of East-European Marxist thought. In addition, it retrieves Marxist humanist intellectual movements from the post-Stalinist 1960s and 1970s, which contested the legitimacy of the Stalinist doctrine. Challenging Marxism-Leninism's claim to the historical inevitability of state authoritarianism, they imagined a \"third way\" for socialism's future--a third way between liberal democracy and authoritarian socialism. In conclusion, the dissertation turns to the question of what possibility for politics on the left remains in the post-socialist historical conditions, a left that finds itself inevitably implicated in the histories of state socialisms. Redressing these foreclosures requires recovering the emancipatory ideas and practices out of the contradictory experiences of the socialist past and reformulating their critical potentials for the future.",
+      "cited_by_count": 2,
+      "type": "dissertation",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/6j85900c"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2767286532"
+    },
+    {
+      "openalex_id": "W200163720",
+      "doi": null,
+      "title": "Expensive Shit: Aesthetic Economies of Waste in Postcolonial Africa",
+      "authors": [
+        {
+          "name": "Sarah L. Lincoln",
+          "openalex_id": "A5022327993"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-07-03",
+      "abstract": "&lt;p&gt;This dissertation proposes a reading of postcolonial African literature in light of the continent's continued status as a \"remnant\" of globalization--a waste product, trash heap, disposable raw material, and degraded offcut of the processes that have so greatly enriched, dignified and beautified their beneficiaries. The \"excremental\" vision of African authors, poets and filmmakers reflects their critical consciousness of the imbalances and injustices that characterize African societies and polities under pressure from monetized capitalism and domestic corruption. The figure of superfluity, excess, destruction or extravagance--concepts gathered together under the sign of \"waste\"--is a central thematic, symbolic, and formal feature of many postcolonial African works, and I suggest that literature functions in this context to document, critique, and offer alternatives to the culture of waste that predominates in political and social life on the continent. &lt;/p&gt;&lt;p&gt;The argument covers a range of geographical and historical ground, from the \"excremental\" preoccupations and stylistics of early postcolonial African fiction, to contemporary South Africa, where political anxieties about the relative superfluity of entire populations to the project of neoliberal development are articulated through the aesthetic challenges of representing the past while remaining open to productive futurity. Through chapters on excremental literature and the politics of allegory; corruption, debt and economy in Senegalese film; magical realism and inflation in Nigeria; and recycling and aesthetics in transitional South Africa, I argue for a reading of postcolonial African fiction as a mode of political ecology, an aesthetics that draws its energies directly from the problem of waste management figured in the works. &lt;/p&gt;&lt;p&gt;Drawing on theoretical perspectives from Walter Benjamin and postcolonial marxism to poststructuralist literary philosophy, the \"new economic criticism,\" and psychoanalysis, I investigate how African artists themselves make sense of the continent's increasing superfluity to the global economy, its role only as \"la poubelle\"--the world's trash heap--where toxic waste and excess capital alike are sent to die.&lt;/p&gt;",
+      "cited_by_count": 24,
+      "type": "dissertation",
+      "source": {
+        "name": "DukeSpace (Duke University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10161/696"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "South African History and Culture",
+        "Walter Benjamin Studies Compilation"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W200163720"
+    },
+    {
+      "openalex_id": "W2339765316",
+      "doi": null,
+      "title": "Allegories of drought and of gardens in the novels of J.M. Coetzee and Dambudzo Marechera",
+      "authors": [
+        {
+          "name": "Charles Grant Lilford",
+          "openalex_id": "A5030917976"
+        }
+      ],
+      "publication_year": 1996,
+      "publication_date": "1996-01-01",
+      "abstract": "This thesis examines the trope of Allegory in the work of two Southern African writers, JM Coetzee and Dambudzo Marechera. It discusses the trope's use in redefining the dominant theme of the dialectic between scarcity and plenty. In much of Southern African literature, this dialectic is expressed allegorically. Drought represents a physical and spiritual lack while gardens represent human attempts to respond to that lack by creating fertility and meaning. The thesis is based on the premise that Southern African literature is best understood from as wide a perspective as possible. Coetzee and Marechera redefine the form and the content of a variety of texts, both African and non-African. In order to study this process of redefinition more closely, I have placed the work of each writer within the context of other genres of writing. Many critics view Marechera's writing as modernistic and European. I attempt to establish his unconscious reliance upon African traditional narrative, particularly the Shona rungano. Marechera uses Shona orature as a mythic pre-text for the more explicitly allegorical sections of his House of Hunger. Similarly, several of Coetzee's novels allegorise concerns around drought found in novels of settlement in Southern Africa. Both writers work within a more global tradition of writing about scarcity and plenty. The garden also appears in Homer, Milton, Rousseau, Voltaire, Dickens and Rushdie, among others, as a site of refuge from poverty and oppression. Contextual chapters examine other texts handling these related themes as background for those chapters which deal with Marechera and Coetzee's work in depth. The thesis makes use of the twentieth-century theory of allegory, particularly as presented by Edwin Honig, Angus Fletcher and Maureen Quilligan. It examines the relationship between consciously allegorical texts, like those written by Coetzee and Marechera, and the unconscious and ubiquitous . use of allegory as an instrument of rhetoric in ostensibly realistic or philosophical texts. Coetzee and Marechera use allegory in critiquing dominant forms of discourse and this thesis uses close critical reading to expose the links between their allegory and its pre-texts.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Open University of Cape Town (University of Cape Town)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/11427/18705"
+      },
+      "topics": [
+        "South African History and Culture"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2339765316"
+    },
+    {
+      "openalex_id": "W3169095061",
+      "doi": "10.1215/26410478-8855203",
+      "title": "The Ethical Life of Counter-Communities",
+      "authors": [
+        {
+          "name": "Daniel Loick",
+          "openalex_id": "A5061203797",
+          "orcid": "https://orcid.org/0000-0001-5927-8267"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-01",
+      "abstract": "Abstract This article explores the normative structure of counter-communities. These communities do not simply fulfill a compensatory function for excluded or oppressed groups; their specific sociality is transcendent of society at large. The article outlines this notion of the \u201csuperiority of the subjugated\u201d with Hegel and explains its social-theoretical relevance by turning to Marx and Engels. This tradition of thought offers two explanations for the superiority of subjugated sociality, one that relies on a philosophy of history (the servant's way of existence anticipates a coming sociality), and one that relies on anthropological premises (servants have an already-present access to specific social potentials of their species being that the masters are missing). After considering these two options with regard to the proletariat as a form of subjugated sociality, the article makes the case for a general theory of the ethical life of counter-communities and applies it to the examples of queer and diasporic forms of collectivity. In closing, the article explores the success conditions of counter-collectivization as well as names some social-theoretical implications.",
+      "cited_by_count": 19,
+      "type": "article",
+      "source": {
+        "name": "Critical Times",
+        "type": "journal",
+        "issn": [
+          "2641-0478"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://read.dukeupress.edu/critical-times/article-pdf/4/1/1/927603/1loick.pdf"
+      },
+      "topics": [
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W3169095061"
+    },
+    {
+      "openalex_id": "W4245203904",
+      "doi": "10.1163/9789004301849_005",
+      "title": "Historical Materialism and the Writing of Canadian History: A Dialectical View",
+      "authors": [
+        {
+          "name": "Bryan D. Palmer",
+          "openalex_id": "A5060517090"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "Surveying the historical writing in Canada that has adopted the approach of historical materialism, this paper presents a new perspective on Marxist theory and its relevance to the study of the past. It both links Canadian historical materialist texts to a series of important international debates and suggests the significance of dialectics in the development of Marxism's approach to the past.",
+      "cited_by_count": 0,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/book/9789004301849/B9789004301849_005.pdf"
+      },
+      "topics": [
+        "Canadian Identity and History"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W4245203904"
+    },
+    {
+      "openalex_id": "W1779928969",
+      "doi": "10.26530/oapen_459284",
+      "title": "Indigenous participation in Australian economies : Historical and anthropological perspectives",
+      "authors": [
+        {
+          "name": "Ian Keen",
+          "openalex_id": "A5110435145"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "These researchers were",
+      "cited_by_count": 45,
+      "type": "book",
+      "source": {
+        "name": "ANU Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/33722/1/459284.pdf"
+      },
+      "topics": [
+        "Cultural Heritage Management and Preservation",
+        "Indigenous Health, Education, and Rights",
+        "Historical and Cultural Archaeology Studies"
+      ],
+      "referenced_works_count": 211,
+      "url": "https://openalex.org/W1779928969"
+    },
+    {
+      "openalex_id": "W2317358254",
+      "doi": "10.1080/14735784.2010.515400",
+      "title": "In the Blink of an Eye: The Augenblick of Sudden Change and Transformative Learning in Luk\u00e1cs and Benjamin",
+      "authors": [
+        {
+          "name": "Matthew Carlin",
+          "openalex_id": "A5046090593",
+          "orcid": "https://orcid.org/0000-0002-0955-9463",
+          "institutions": [
+            "Pratt Institute"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-11-01",
+      "abstract": "Although much work dedicated to clarifying the link between learning and change has made a sincere effort to show how change can be a part of the learning process of every individual's life, the progressive functionalist approach to understanding this link in developmental psychology has created a blind spot when it comes to a consideration of the possibilities of sudden change. Developmental approaches to understanding change are also evident in macro\u2010level politics, and they have increasingly become part of other spheres of social life such as education where the individualized inculcation of skills has come to define the progressive mantra of learning and telos of schooling. Instead of remaining within the confines of liberal progressivism or functionalism that advance a notion of transformation in gradual, piecemeal, and developmental terms, change needs to be re\u2010conceptualised to account for the ways that learning can be a momentous, sudden, and sometimes violent event. To this end this article discusses temporal, sensory, and perceptual change through use of the concept of \u2018Augenblick\u2019 \u2013 a German term connoting a fleeting moment of time normally associated with a form of sight. Focusing on the theories of education inherent in the work of Georg Luk\u00e1cs and Walter Benjamin this article demonstrates how micro\u2010 and macro\u2010 forms of expressions of the Augenblick occurring at not only the individual, but also the social level in the context of revolutionary politics force us to rethink the ways that the dominance of liberal conceptions of learning prefigure the horizon of the possibility of change.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Culture, theory and critique/Culture, theory & critique",
+        "type": "journal",
+        "issn": [
+          "1473-5776",
+          "1473-5784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://e-space.mmu.ac.uk/619641/8/CTC-In%20the%20Blink%20of%20and%20Eye%20The%20Augenblick%20of%20Sudden%20Change%20and%20Transformative%20Learning%20in%20Lukacs%20and%20Benjamin%20%281%29.pdf"
+      },
+      "topics": [
+        "Critical Theory and Political Philosophy",
+        "Critical Theory and Philosophy",
+        "Philosophy, Ethics, and Existentialism"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2317358254"
+    },
+    {
+      "openalex_id": "W3163564279",
+      "doi": "10.1353/book.58460",
+      "title": "The Forms of Historical Fiction",
+      "authors": [
+        {
+          "name": "Shaw, Harry E.",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "Harry Shaw\u2019s aim is to promote a fuller understanding of nineteenth-century historical fiction by revealing its formal possibilities and limitations. His wide-ranging book establishes a typology of the ways in which history was used in prose fiction during the nineteenth century, examining major works by Sir Walter Scott\u2014the first modern historical novelist\u2014and by Balzac, Hugo, Anatole France, Eliot, Thackeray, Dickens, and Tolstoy.",
+      "cited_by_count": 5,
+      "type": "book",
+      "source": {
+        "name": "Cornell University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1353/book.58460"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3163564279"
+    },
+    {
+      "openalex_id": "W4384197168",
+      "doi": "10.5840/humanitas1994718",
+      "title": "A tragicomedy in one acte - gratuit Postmortem for a Defunct Ideology: A Dialectical Underworld Analysis",
+      "authors": [
+        {
+          "name": "Arnold Beichman",
+          "openalex_id": "A5012422493",
+          "institutions": [
+            "Hoover Institution"
+          ]
+        }
+      ],
+      "publication_year": 1994,
+      "publication_date": "1994-01-01",
+      "abstract": "SCENE: A sumptuous high-ceilinged marbled conference chamber in a thinktank-looking two-story building in HellA nicely landscaped garden, dotted with small villas each of which are surrounded by high walls.It's that part of Hell to which only deserving intellectuals are consigned.They have every luxury and convenience and no punishment-except one.The only torture visited upon its denizens is that they must live in solitary; no debates, conversations, gossip, faction meetings, conspiracies, cross-talk, backbiting.Their only source of news is the Gehenna News Network or GNN.The only people they see are the goblins who deliver their meals.On rare special occasions like the present one they are allowed to meet and talk.^The room is bathed in a ^ The last such emergency meeting occurred thirty-eight years ago, in November 1956, to discuss Krushchev's \"anti-Stalin speech\" in February 1956 and the Red Army suppression of the Hungarian rebellion the following October.",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Humanitas",
+        "type": "journal",
+        "issn": [
+          "1066-7210"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.pdcnet.org/collection/fshow?id=humanitas_1994_0007_0001_0062_0072&pdfname=humanitas_1994_0007_0001_0062_0072.pdf&file_type=pdf"
+      },
+      "topics": [
+        "Philosophy, History, and Historiography"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4384197168"
+    },
+    {
+      "openalex_id": "W2811424923",
+      "doi": "10.1017/mor.2018.7",
+      "title": "Revisiting the Relationship between Justice and Extra-Role Behavior: The Role of State Ownership",
+      "authors": [
+        {
+          "name": "Xi Chen",
+          "openalex_id": "A5100329886",
+          "orcid": "https://orcid.org/0000-0001-9581-8996",
+          "institutions": [
+            "University of Nottingham Ningbo China",
+            "New York University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-29",
+      "abstract": "ABSTRACT State ownership is an important phenomenon in the world economy, especially in transition economies. Previous research has focused on how state ownership influences organizational performance, but few studies have been conducted on how state ownership influences employees. I propose that different ownership structures trigger different relational models among employees who pay attention to organizational justice consistent with their model to guide their extra-role behavior. Specifically, state-owned organizations reinforce employees\u2019 relational concern and direct employees\u2019 attention to procedural justice, whereas privatized organizations highlight employees' instrumental concern and direct their attention to distributive justice. I leverage a sample of organizations in China to explore how different ownership structures activate different relational models among employees and alter the relationship between organizational justice and employees\u2019 extra-role behaviors. I find that state ownership attenuates and even reverses the positive relationship between distributive justice and extra-role behaviors. Conversely, state ownership exaggerates the positive relationship between a critical procedural justice dimension (participation in decision making) and employee extra-role behaviors. Implications for the micro-foundations of corporate governance and institutional change, organizational justice literature, and cross-cultural research are developed. This study also generates new insights for transition economies such as China.",
+      "cited_by_count": 10,
+      "type": "article",
+      "source": {
+        "name": "Management and Organization Review",
+        "type": "journal",
+        "issn": [
+          "1740-8776",
+          "1740-8784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/939E4FD52D90A9162FDB98B34E0A7C19/S1740877618000074a.pdf/div-class-title-revisiting-the-relationship-between-justice-and-extra-role-behavior-the-role-of-state-ownership-div.pdf"
+      },
+      "topics": [
+        "Corporate Finance and Governance",
+        "Corporate Social Responsibility Reporting",
+        "Job Satisfaction and Organizational Behavior"
+      ],
+      "referenced_works_count": 125,
+      "url": "https://openalex.org/W2811424923"
+    },
+    {
+      "openalex_id": "W2085293812",
+      "doi": "10.1353/book.72317",
+      "title": "European Landed Elites in the Nineteenth Century",
+      "authors": [
+        {
+          "name": "David Spring",
+          "openalex_id": "A5081276513",
+          "institutions": [
+            "Johns Hopkins University",
+            "Chapter Arts Centre"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "percent held by the English landed elite.The latter figure would rise to 69 percent if elite status in England were attached to estates from 300 to 1,000 acres as \\\\\u2022as the case in France and clse,\\\u2022here on the Continent. 1: 1 All this, of course, tells us nothing about the number of French landowners or about the range in size of their estates.As noted earlier, however, large French estates were not as conspicuous as the English-an impression shared by\u2022 that inveterate worshipper of aristocracies, Benjamin Disraeli, who chose to scorn the French: \"\\Vhere are their territories?I he sneered] ... Henry Hope and de Rothschild could bu,\u2022 them alJ.\"1-1In at least one important respect-in the proportion of the national territory owned-the pattern of Prussian land0\\n1ership was more like the English than the French.Prussian landowners with estates of 3 7 5 acres and more-,,\u2022hich Prussian statisticians in the 1850s defined as large estates and ,vhich contemporaries regarded as elite estates numbered about 15,000, in a countr_v that was about twice the size of England.In aggregate these Prussian landowners held about 40 percent of the land of Prussia in 1858, a proportion that increased in prime Junker provinces such as Pomerania and Posen to 62 percent and 57 percent respectively. 1\" Although it does not seem possible to be pre cise about the number of estates over 10,000 acres, evidence suggests that they\u2022 ,,\u2022ere less numerous than English estates of that size.In short, the Prussian landed elite ,ms a more homogeneous body than the English. 11;Prussian statistics, like the French, need a \\\\\u2022ord of caution.The\ufffd\u2022 provide certain figures on what are called Rittergiiter, that is, \"privi leged\" estates, or manorial jurisdictions. 17These figures show that among some 12,000 Rittergiiter from I 8 3 5 to 1864 there ,,\u2022ere 14,400 sales, 1, 300 foreclosures, and 7,900 hereditary transmissions.Historians considering these figures ha,\u2022e said that th.ey sho\\\\\u2022 \"a t,vo-hundred percent turnover in the o\\\\\u2022nership of some 12,000 large estates in the eastern provinces, \" and that each estate \"changed hands on average more than t,,\u2022icc (2.14 times) during these thirty years.\" 18These arc misleading statements if, as would seem to be their purport, they are intended to suggest an unusual measure of social mobilit\ufffd\u2022, to indicate a marked weakening of traditional landed power in Prussia.First, they incl udc hereditary transmissions ,,\u2022ith sales; but hereditary transmis sions are logicall\ufffd\u2022 to be contrasted with sales, not lumped\u2022 with them.Moreover, even if sales arc considered separately, what is implied is uncertain.The figures tell nothing about the nature of the sales.How many of them, for example, were sales from small to large landowners, that is, were transfers ,vithin the land0\\n1ing class?Finally, while the D ,\\ \\' I D SP RI :\\ c;",
+      "cited_by_count": 55,
+      "type": "book",
+      "source": {
+        "name": "Johns Hopkins University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1353/book.72317"
+      },
+      "topics": [
+        "European Political History Analysis",
+        "Australian History and Society",
+        "Historical Gender and Feminism Studies"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2085293812"
+    },
+    {
+      "openalex_id": "W2898013356",
+      "doi": "10.25501/soas.00028831",
+      "title": "A critical theory of Eurocentrism.",
+      "authors": [
+        {
+          "name": "Nicholas D. Hostettler",
+          "openalex_id": "A5054501193"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "Conventional accounts of Eurocentrism tend not to recognise their own Eurocentricity. Critical theory mitigates this lack of historical reflexivity by disclosing the deep structures of Eurocentrism in the modern tradition of political and social theory and in the forms of modern social relations and social formation. 'Eurocentrism' tends to express negative judgements about the world and its representation from the perspective of civil sociality and its sense of commutative justice, and to point to distorted distributions of modem goods. That perspective is treated here as the ideologeme which provides the conceptual framework of the Eurocentric, 'Modem Imaginary'. This ideologeme it establishes the forms of civil sociality as transhistorical, universals. It also operates as an empirico-transcendent doublet, generating the tradition's contradictory and antinomial categorical structure. The Eurocentric nature of this contradictory structure is disclosed in terms of the critical realist conception of anthropic irrealism. A similar work of categorical transformation discloses the Eurocentric forms of the modem world system. Concretely, Eurocentrism emerges through the competitive universalisation of European (and neo-European) states; their tendencies towards the institution of transnational hegemony; and projects for the Europeanisation and/or functional subordination of the non-European. In terms of abstract social relations, Eurocentric universalisation tends to the creation of global social totalities mediated by the really abstract relations of civil society. A general account of the contradictions between the abstract and concrete dimensions of Europic social formation is provided with an interpretation of Marx's Capital in terms of real irrealism. Also, the epistemic and sociological critiques of Eurocentrism are drawn together as internally related dimensions of the Europic Problematic: the combined and uneven dialectical universalisation of the categories and forms of civil sociality. The implications for critical theory, meanwhile, are that it comes to be understood as critical-theoretical anti-Eurocentrism in contrast to the theoretical-Eurocentrism of traditional theory.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "Center for International and Regional Studies (Georgetown University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://eprints.soas.ac.uk/28831/1/10673000.pdf"
+      },
+      "topics": [
+        "Elite Sociology and Global Capitalism",
+        "Political Economy and Marxism"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2898013356"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

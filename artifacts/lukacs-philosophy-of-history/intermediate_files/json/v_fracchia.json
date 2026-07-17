@@ -1,0 +1,39 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='The Philosophical Leninism and Eastern 'Western Ma...' author=Fracchia year=2013
+[verify_paper.py] Paper found: The Philosophical Leninism and Eastern ‘Western Ma... (score: 83.4)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "The Philosophical Leninism and Eastern 'Western Marxism' of Georg Luk\u00e1cs",
+    "author": "Fracchia",
+    "year": 2013
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1163/1569206x-12341282",
+      "title": "The Philosophical Leninism and Eastern \u2018Western Marxism\u2019 of Georg Luk\u00e1cs",
+      "authors": [
+        {
+          "family": "Fracchia",
+          "given": "Joseph"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Historical Materialism",
+      "volume": "21",
+      "issue": "1",
+      "page": "69-93",
+      "publisher": "Walter de Gruyter GmbH",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.1163/1569206x-12341282",
+      "score": 83.42327
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

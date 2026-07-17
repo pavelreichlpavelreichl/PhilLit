@@ -1,0 +1,43 @@
+[verify_paper.py] Connecting to CrossRef API...
+[verify_paper.py] Searching CrossRef: title='Marxism and Totality: The Adventures of a Concept ...' author=Jay year=1984
+[verify_paper.py] Paper found: Marxism and Totality: The Adventures of a Concept ... (score: 73.5)
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "title": "Marxism and Totality: The Adventures of a Concept from Lukacs to Habermas",
+    "author": "Jay",
+    "year": 1984
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.2307/488366",
+      "title": "Marxism and Totality: The Adventures of a Concept from Lukacs to Habermas",
+      "authors": [
+        {
+          "family": "Cresap",
+          "given": "Steven"
+        },
+        {
+          "family": "Jay",
+          "given": "Martin"
+        }
+      ],
+      "editors": [],
+      "year": 1984,
+      "container_title": "New German Critique",
+      "volume": "",
+      "issue": "33",
+      "page": "256",
+      "publisher": "JSTOR",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "bibliographic_search",
+      "url": "https://doi.org/10.2307/488366",
+      "score": 73.46704
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
