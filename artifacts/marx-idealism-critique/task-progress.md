@@ -11,7 +11,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research 7 domains (run sequentially, not in parallel, per user instruction)
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review for each section in parallel
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -33,11 +33,15 @@
 
 Known source issues (self-limiting, documented per `docs/known-issues/philpapers-rate-limiting.md` precedent): OpenAlex and CORE were persistently rate-limited/timed-out across most domains; compensated via PhilPapers, Semantic Scholar, CrossRef, and SEP/IEP. Several NDPR abstract-fallback false-positive matches were caught and manually corrected (entries marked INCOMPLETE instead of using fabricated abstracts) — citation integrity was preserved throughout. A handful of named works (Mészáros 1970, Sartre's *Critique of Dialectical Reason*, Thompson's *The Poverty of Theory* in some domains) could not be verified to bibliographic standard and were omitted/flagged rather than fabricated.
 
+[2026-09-02] Phase 4: `synthesis-planner` produced `synthesis-outline.md`: Introduction + 6 body sections (13 subsections) + Conclusion, target ~4300-4800 words (fuller end of range per project priority on comprehensiveness). 76 usable (complete-metadata) papers cited out of 126 pre-dedup entries.
+
+**Gap investigated and accepted**: a substantial cluster of foundational/namesake texts (Althusser's *For Marx* and *Reading Capital*, Thompson's *The Poverty of Theory*, Cohen's *Karl Marx's Theory of History*, Elster's *Making Sense of Marx*, Mészáros, Ollman 1971, Ilyenkov, Uchida, Smith, and others) are flagged INCOMPLETE (no verifiable abstract) and excluded from direct synthesis citation per project's anti-hallucination convention (`conventions.md`: entries without abstracts remain in BibTeX for transparency but are excluded from synthesis). Attempted a remediation pass via `enrich_bibliography.py` on a scratch copy of `literature-domain-3.bib`: OpenAlex and CORE are both currently rate-limited (429) and the script behaved unreliably (marked all entries INCOMPLETE, including ones with existing valid abstracts, and reported a BibTeX syntax error) — unsafe to run against the real files right now. Accepted the synthesis-planner's mitigation instead: represent excluded positions via complete-metadata secondary sources that directly engage them, and document the limitation explicitly in the review (Section 2 and Notable Gaps). This is the correct application of the project's "Accurate" > "Comprehensive" priority ordering — no fabricated abstracts/metadata.
+
 ## Current Task
 
-Phase 4: Outlining synthesis review across domains.
+Phase 5: Writing review sections (run sequentially per user instruction, not in parallel).
 
 ## Next Steps
 
-1. Invoke `synthesis-planner` agent to design a tight outline from the 7 domain `.bib` files.
-2. Copy outline and this tracker to `artifacts/marx-idealism-critique/`, commit, push.
+1. Write each of the 8 sections (Introduction, Sections 1-6, Conclusion) one at a time via `synthesis-writer`.
+2. Copy sections and this tracker to `artifacts/marx-idealism-critique/`, commit, push.
