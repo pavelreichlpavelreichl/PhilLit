@@ -13,7 +13,7 @@
 - [x] Phase 3: Research 7 domains (run sequentially, not in parallel, per user instruction)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (run sequentially per user instruction)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
 
@@ -39,14 +39,16 @@ Known source issues (self-limiting, documented per `docs/known-issues/philpapers
 
 [2026-09-02] Phase 5: All 8 sections written sequentially (synthesis-section-1.md through -8.md, ~7,875 words total, above the outline's ~4300-4800 target — writers deliberately retained fuller analytical coverage over strict word-count adherence, consistent with the project's "comprehensive/rigorous over concise" priority ordering). All assigned papers cited (76 distinct sources across sections); INCOMPLETE-flagged texts (Althusser, Cohen, Elster founding texts, etc.) explicitly named and flagged as excluded-from-citation in the relevant sections (2, 3, 4) per project convention, with mitigation via complete-metadata secondary sources.
 
+[2026-09-02] Phase 6: Assembled 8 sections into `literature-review-final.md` (YAML frontmatter added), normalized headings (numbered `## Section N: Title` / `### N.M Title`; removed a stray `### Section Summary` heading and three writer-added `**Word count: N**` scratch lines that had leaked into the body). Deduplicated the 7 domain `.bib` files into `literature-all.bib` (124 unique entries after removing 2 duplicates). Generated the References section (75/124 entries matched as cited, Chicago author-date style). Linted the final markdown — 0 issues. Pandoc not installed; DOCX conversion skipped (optional step). Moved all intermediate files (domain bib files, outline, plan, section drafts, JSON API caches) into `intermediate_files/`; removed `reviews/.active-review` pointer.
+
+**Final deliverables**: `literature-review-final.md` (~9,000 words, 8 sections + References), `literature-all.bib` (124 entries, 75 cited). Both copied to `artifacts/marx-idealism-critique/` per user instruction (reviews/ is scratch/local only).
+
+**Source issues summary** (for final report): OpenAlex and CORE were persistently rate-limited (HTTP 429) throughout the session across most domains and during a later remediation attempt; Semantic Scholar and CrossRef intermittently returned errors in a few domains. All were compensated via alternative sources (PhilPapers, SEP/IEP, remaining working APIs) per the project's documented graceful-degradation pattern. No fabricated metadata or abstracts at any point — several NDPR false-positive abstract matches were caught and manually corrected. A substantial cluster of foundational namesake texts (Althusser's *For Marx*/*Reading Capital*, Cohen's *Karl Marx's Theory of History*, Elster's *Making Sense of Marx*, Mészáros, Ollman 1971, Ilyenkov, Uchida, Smith, Sayers, Thompson, Geras, and others) could not be verified with a retrievable abstract and are therefore present in the domain `.bib` files (for transparency/reference-manager import) but excluded from direct synthesis citation; their positions are represented in the review via complete-metadata secondary sources that engage them directly, with the gap explicitly flagged in-text (Sections 2, 3, 4) rather than silently omitted.
+
 ## Current Task
 
-Phase 6: Assembling final review, deduplicating bibliography, generating references, linting, and publishing to artifacts/.
+Workflow complete. Literature review finished: `literature-review-final.md`.
 
 ## Next Steps
 
-1. Assemble sections into `literature-review-final.md` with YAML frontmatter; normalize headings.
-2. Dedupe the 7 domain `.bib` files into `literature-all.bib`.
-3. Generate References section from `literature-all.bib`.
-4. Lint the final markdown.
-5. Clean up intermediate files in `reviews/`; copy final outputs to `artifacts/marx-idealism-critique/`, commit, push.
+None — review complete. Optional future remediation: retry `enrich_bibliography.py` once OpenAlex/CORE rate limits clear, to recover abstracts for the flagged foundational texts and enable their direct citation in a revised draft.
