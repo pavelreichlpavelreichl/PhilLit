@@ -10,7 +10,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
-- [ ] Phase 3: Research 7 domains in parallel
+- [x] Phase 3: Research 7 domains (run sequentially, not in parallel, per user instruction)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review for each section in parallel
 - [ ] Phase 6: Assemble final review files and move intermediate files
@@ -21,12 +21,23 @@
 
 [2026-09-02] Phase 2: `literature-review-planner` produced `lit-review-plan.md` with 7 domains (est. 74-97 papers): (1) Marx's Primary Critique of Hegel — Texts and Development; (2) Young Hegelians and Feuerbach as Intermediary; (3) The Break Debate — Continuity vs. Rupture (Althusser); (4) Dialectical Method in Capital — Systematic Dialectics/Value-Form vs. Analytical Marxism; (5) Hegelian/Western Marxism vs. Anti-Humanist Response (incl. alienation/humanism debate); (6) Historical Materialism vs. Idealist Philosophy of History — Teleology, Determinism, Structure/Agency; (7) Recent/Contemporary Scholarship — New Reading of Marx, MEGA2 Philology.
 
+[2026-09-02] Phase 3: All 7 `domain-literature-researcher` agents completed (run sequentially, one at a time, per explicit user instruction to avoid hitting API/concurrency limits — deviating from the skill's default parallel-launch guidance). Results:
+- Domain 1 (Marx's Primary Critique of Hegel — Texts/Development): 19 papers
+- Domain 2 (Young Hegelians and Feuerbach): 16 papers
+- Domain 3 (Break Debate — Continuity vs. Rupture): 15 papers
+- Domain 4 (Dialectical Method in Capital): 19 papers
+- Domain 5 (Hegelian/Western Marxism vs. Anti-Humanism): 18 papers
+- Domain 6 (Historical Materialism vs. Idealist Philosophy of History): 23 papers
+- Domain 7 (Recent/Contemporary Scholarship): 16 papers
+- **Total: 126 papers** across 7 domain `.bib` files (pre-deduplication)
+
+Known source issues (self-limiting, documented per `docs/known-issues/philpapers-rate-limiting.md` precedent): OpenAlex and CORE were persistently rate-limited/timed-out across most domains; compensated via PhilPapers, Semantic Scholar, CrossRef, and SEP/IEP. Several NDPR abstract-fallback false-positive matches were caught and manually corrected (entries marked INCOMPLETE instead of using fabricated abstracts) — citation integrity was preserved throughout. A handful of named works (Mészáros 1970, Sartre's *Critique of Dialectical Reason*, Thompson's *The Poverty of Theory* in some domains) could not be verified to bibliographic standard and were omitted/flagged rather than fabricated.
+
 ## Current Task
 
-Phase 3: Researching 7 domains in parallel via `domain-literature-researcher` agents.
+Phase 4: Outlining synthesis review across domains.
 
 ## Next Steps
 
-1. Launch all 7 domain researchers in parallel (single message, 7 Task calls).
-2. Wait for all to complete.
-3. Copy `.bib` files and this tracker to `artifacts/marx-idealism-critique/`, commit, push.
+1. Invoke `synthesis-planner` agent to design a tight outline from the 7 domain `.bib` files.
+2. Copy outline and this tracker to `artifacts/marx-idealism-critique/`, commit, push.
