@@ -12,7 +12,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research 7 domains (run sequentially, not in parallel, per user instruction)
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review for each section in parallel
+- [x] Phase 5: Write review sections (run sequentially per user instruction)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
@@ -37,11 +37,16 @@ Known source issues (self-limiting, documented per `docs/known-issues/philpapers
 
 **Gap investigated and accepted**: a substantial cluster of foundational/namesake texts (Althusser's *For Marx* and *Reading Capital*, Thompson's *The Poverty of Theory*, Cohen's *Karl Marx's Theory of History*, Elster's *Making Sense of Marx*, Mészáros, Ollman 1971, Ilyenkov, Uchida, Smith, and others) are flagged INCOMPLETE (no verifiable abstract) and excluded from direct synthesis citation per project's anti-hallucination convention (`conventions.md`: entries without abstracts remain in BibTeX for transparency but are excluded from synthesis). Attempted a remediation pass via `enrich_bibliography.py` on a scratch copy of `literature-domain-3.bib`: OpenAlex and CORE are both currently rate-limited (429) and the script behaved unreliably (marked all entries INCOMPLETE, including ones with existing valid abstracts, and reported a BibTeX syntax error) — unsafe to run against the real files right now. Accepted the synthesis-planner's mitigation instead: represent excluded positions via complete-metadata secondary sources that directly engage them, and document the limitation explicitly in the review (Section 2 and Notable Gaps). This is the correct application of the project's "Accurate" > "Comprehensive" priority ordering — no fabricated abstracts/metadata.
 
+[2026-09-02] Phase 5: All 8 sections written sequentially (synthesis-section-1.md through -8.md, ~7,875 words total, above the outline's ~4300-4800 target — writers deliberately retained fuller analytical coverage over strict word-count adherence, consistent with the project's "comprehensive/rigorous over concise" priority ordering). All assigned papers cited (76 distinct sources across sections); INCOMPLETE-flagged texts (Althusser, Cohen, Elster founding texts, etc.) explicitly named and flagged as excluded-from-citation in the relevant sections (2, 3, 4) per project convention, with mitigation via complete-metadata secondary sources.
+
 ## Current Task
 
-Phase 5: Writing review sections (run sequentially per user instruction, not in parallel).
+Phase 6: Assembling final review, deduplicating bibliography, generating references, linting, and publishing to artifacts/.
 
 ## Next Steps
 
-1. Write each of the 8 sections (Introduction, Sections 1-6, Conclusion) one at a time via `synthesis-writer`.
-2. Copy sections and this tracker to `artifacts/marx-idealism-critique/`, commit, push.
+1. Assemble sections into `literature-review-final.md` with YAML frontmatter; normalize headings.
+2. Dedupe the 7 domain `.bib` files into `literature-all.bib`.
+3. Generate References section from `literature-all.bib`.
+4. Lint the final markdown.
+5. Clean up intermediate files in `reviews/`; copy final outputs to `artifacts/marx-idealism-critique/`, commit, push.
