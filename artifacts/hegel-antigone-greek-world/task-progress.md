@@ -8,7 +8,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
-- [ ] Phase 3: Research domains (sequentially, per user request)
+- [x] Phase 3: Research domains (sequentially, per user request)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequentially, per user request)
 - [ ] Phase 6: Assemble final review files and move intermediate files
@@ -26,10 +26,27 @@
 [2026-09-07] Phase 1: Environment verified (CORE rate-limited, non-blocking, optional source).
 [2026-09-07] Phase 2: lit-review-plan.md created — 7 domains: (1) Hegel's Primary Texts, (2) Core Interpretive Debates (divine/human law, family/state), (3) Gender, Kinship, and Feminist Reception, (4) Tragedy and the Tragic in Hegel's Philosophy, (5) Polis-to-Empire Transition, (6) Critical and Classicist Responses, (7) Comparative Philosophical Readings (Kierkegaard, Lacan, Žižek, Derrida, Steiner).
 
+[2026-09-07] Phase 3: All 7 domains researched sequentially:
+  - Domain 1 (Hegel's Primary Texts): 22 papers
+  - Domain 2 (Core Interpretive Debates): 17 papers
+  - Domain 3 (Gender/Kinship/Feminist Reception): 16 papers
+  - Domain 4 (Tragedy and the Tragic): 14 papers
+  - Domain 5 (Polis to Empire transition): 14 papers
+  - Domain 6 (Classicist/Critical Responses): 13 papers
+  - Domain 7 (Comparative Readings: Kierkegaard/Lacan/Žižek/Derrida/Steiner): 16 papers
+  - Total: 112 papers before deduplication (Phase 6 will dedupe/merge)
+
+## Source Issues (cumulative, for final report)
+
+- CORE API: persistently rate-limited (HTTP 429) across nearly the entire session; contributed almost no abstracts. Non-required/optional source per project config.
+- OpenAlex: intermittently rate-limited (HTTP 429), especially during primary search stages in Domains 1-3 and 5-7; often recovered for abstract-enrichment passes. Semantic Scholar, PhilPapers, SEP, and CrossRef verification served as reliable fallbacks throughout.
+- Recurring data-quality issue: the NDPR abstract-enrichment fallback (loose title fuzzy-matching) repeatedly attached wrong-book abstracts to several entries across multiple domains. All researchers caught and corrected these, marking affected entries INCOMPLETE rather than keeping mismatched/fabricated abstracts. A large fraction of entries across domains are marked INCOMPLETE (no independently verified abstract) but are retained with researcher-written CORE ARGUMENT notes grounded in publisher descriptions/reviews/web search, not fabricated content.
+- A few classic works could not be independently bibliographically verified and were omitted per accuracy-first policy (documented per-domain in each .bib's NOTABLE_GAPS): e.g., A.C. Bradley's essay, Critchley's *Tragedy, the Greeks, and Us*, Szondi's *Essay on the Tragic* (Domain 4); Söderbäck's edited volume (Domain 3).
+
 ## Current Task
 
-Starting Phase 3: domain research, one domain at a time (sequential, per user request).
+Starting Phase 4: synthesis outline across all 7 domains.
 
 ## Next Steps
 
-1. Invoke domain-literature-researcher for Domain 1, wait for completion, then Domain 2, ... through Domain 7.
+1. Invoke synthesis-planner agent with all 7 BibTeX files and the original plan.
