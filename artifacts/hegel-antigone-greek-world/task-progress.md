@@ -9,7 +9,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequentially, per user request)
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequentially, per user request)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -43,10 +43,12 @@
 - Recurring data-quality issue: the NDPR abstract-enrichment fallback (loose title fuzzy-matching) repeatedly attached wrong-book abstracts to several entries across multiple domains. All researchers caught and corrected these, marking affected entries INCOMPLETE rather than keeping mismatched/fabricated abstracts. A large fraction of entries across domains are marked INCOMPLETE (no independently verified abstract) but are retained with researcher-written CORE ARGUMENT notes grounded in publisher descriptions/reviews/web search, not fabricated content.
 - A few classic works could not be independently bibliographically verified and were omitted per accuracy-first policy (documented per-domain in each .bib's NOTABLE_GAPS): e.g., A.C. Bradley's essay, Critchley's *Tragedy, the Greeks, and Us*, Szondi's *Essay on the Tragic* (Domain 4); Söderbäck's edited volume (Domain 3).
 
+[2026-09-07] Phase 4: synthesis-outline.md created — 9 sections (Introduction + 7 debate-organized sections + Conclusion), 24 subsections, target 6500-8000 words, ~95-105 unique citations after dedup. 4 cross-domain duplicate BibTeX keys flagged for Phase 6 dedupe_bib.py.
+
 ## Current Task
 
-Starting Phase 4: synthesis outline across all 7 domains.
+Starting Phase 5: writing 9 sections sequentially (Introduction, Sections 1-7, Conclusion).
 
 ## Next Steps
 
-1. Invoke synthesis-planner agent with all 7 BibTeX files and the original plan.
+1. Invoke synthesis-writer for Introduction (synthesis-section-1.md), then each subsequent section in outline order through Conclusion (synthesis-section-9.md), one at a time.
