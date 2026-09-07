@@ -10,7 +10,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequentially, per user request)
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review sections (sequentially, per user request)
+- [x] Phase 5: Write review sections (sequentially, per user request)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
@@ -45,10 +45,21 @@
 
 [2026-09-07] Phase 4: synthesis-outline.md created — 9 sections (Introduction + 7 debate-organized sections + Conclusion), 24 subsections, target 6500-8000 words, ~95-105 unique citations after dedup. 4 cross-domain duplicate BibTeX keys flagged for Phase 6 dedupe_bib.py.
 
+[2026-09-07] Phase 5: All 9 sections written sequentially (~10,900 words total, above the 6500-8000 target but within the outline's explicit "don't artificially compress" allowance given comprehensiveness priority):
+  - synthesis-section-1.md: Introduction (558 words)
+  - synthesis-section-2.md: Section 1, Textual Foundations (925 words)
+  - synthesis-section-3.md: Section 2, Divine Law/Human Law Debate (1415 words)
+  - synthesis-section-4.md: Section 3, Feminist Reception (1331 words)
+  - synthesis-section-5.md: Section 4, Tragedy and the Tragic (1273 words)
+  - synthesis-section-6.md: Section 5, Polis to Empire (1936 words)
+  - synthesis-section-7.md: Section 6, Classicist/Philosophical Critiques (1248 words)
+  - synthesis-section-8.md: Section 7, Comparative Afterlives (1613 words)
+  - synthesis-section-9.md: Conclusion (637 words)
+
 ## Current Task
 
-Starting Phase 5: writing 9 sections sequentially (Introduction, Sections 1-7, Conclusion).
+Starting Phase 6: assembly, heading normalization, bib dedup, bibliography generation, linting, cleanup.
 
 ## Next Steps
 
-1. Invoke synthesis-writer for Introduction (synthesis-section-1.md), then each subsequent section in outline order through Conclusion (synthesis-section-9.md), one at a time.
+1. Run assemble_review.py, normalize_headings.py, dedupe_bib.py, generate_bibliography.py, lint_md.py, then clean up intermediate files and copy final outputs to artifacts/hegel-antigone-greek-world/.
