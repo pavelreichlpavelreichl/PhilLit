@@ -11,7 +11,7 @@
 - [x] Phase 3: Research domains (sequentially, per user request)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (sequentially, per user request)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
 
@@ -56,10 +56,25 @@
   - synthesis-section-8.md: Section 7, Comparative Afterlives (1613 words)
   - synthesis-section-9.md: Conclusion (637 words)
 
-## Current Task
+[2026-09-08] Phase 6: Assembled, normalized, deduplicated, bibliography-generated, linted, and cleaned up.
+  - assemble_review.py: combined 9 sections (80,620 bytes) into literature-review-final.md with YAML frontmatter.
+  - normalize_headings.py: normalized 13 headings (em-dash -> colon in section/subsection titles).
+  - dedupe_bib.py: aggregated 7 domain .bib files (112 entries) into literature-all.bib; removed 1 exact-key duplicate (finlayson1999conflict).
+  - Manual cleanup: removed 3 additional cross-domain duplicates that used different citation keys for the same work (not caught by key/DOI-based dedup, as flagged by the synthesis-planner): houlgate1986nietzsche (kept houlgate1986hegel), alznauer2021tragedy (kept alznauer2021hegel), vandenberge2017sophocles (kept vandenberge2017antigone). Final literature-all.bib: 108 unique entries.
+  - generate_bibliography.py: matched 103/108 entries as cited in-text; appended Chicago author-date References section.
+  - lint_md.py: passed clean, no issues.
+  - Final review: ~11,000 words of prose (~12,553 words total including References), 9 sections (Introduction, Sections 1-7, Conclusion), 103 references.
+  - Pandoc not installed in this environment; DOCX conversion skipped (optional step).
+  - Intermediate files moved to intermediate_files/ (json/ subdirectory plus domain bib files, outline, section drafts, plan, this progress file). reviews/.active-review pointer removed.
 
-Starting Phase 6: assembly, heading normalization, bib dedup, bibliography generation, linting, cleanup.
+## Final Source Issues Report
 
-## Next Steps
+- **CORE API**: persistently rate-limited (HTTP 429) across nearly the entire session (from initial environment check through all 7 domains); contributed almost no abstracts directly. Optional/non-required source per project config — did not block any domain from meeting its expected paper count.
+- **OpenAlex**: intermittently rate-limited (HTTP 429), especially during primary search stages in Domains 1-3 and 5-7; recovered for abstract-enrichment passes in most domains. Semantic Scholar, PhilPapers, SEP, and CrossRef verification served as reliable fallbacks throughout, and no domain fell short of its expected paper count as a result.
+- **Recurring data-quality issue (caught and corrected by researchers, not a fabrication risk)**: the NDPR abstract-enrichment fallback (loose title fuzzy-matching) repeatedly attached wrong-book abstracts to several entries across multiple domains (e.g., Roche/Husain mismatch in Domain 4; Vernant-Vidal-Naquet/Segal mismatches in Domain 6; Sjöholm/Kane mismatch in Domain 7). All researchers detected and corrected these before finalizing, marking affected entries INCOMPLETE rather than keeping mismatched or fabricated abstracts. Roughly one-third of the ~108 final entries are marked INCOMPLETE (no independently verified abstract) but remain citable on the strength of researcher-written CORE ARGUMENT notes grounded in publisher descriptions, published reviews, or verified web search — never fabricated content. Synthesis writers were instructed to prefer verified-abstract entries for lead/topic-sentence claims and reserve INCOMPLETE entries for supporting citations, and largely followed this convention (a few High-importance INCOMPLETE entries — e.g., Irigaray 1985, Butler 2000, Roche 1998 — were cited with an explicit in-text caveat where no fuller-verified alternative existed for a foundational claim).
+- **Sources omitted per accuracy-first policy**: A few classic/frequently-cited works could not be independently bibliographically verified (via CrossRef, S2, OpenAlex, or reliable web search) and were deliberately excluded rather than risk a fabricated or unverifiable citation: A.C. Bradley's "Hegel's Theory of Tragedy," Simon Critchley's *Tragedy, the Greeks, and Us*, Peter Szondi's *An Essay on the Tragic* (all flagged in Domain 4's NOTABLE_GAPS), and Fanny Söderbäck's edited volume *Feminist Readings of Antigone* (Domain 3's NOTABLE_GAPS). A reader wanting the review's full scope should be aware these well-known works are absent for verification reasons, not because they were judged irrelevant.
+- **Cross-domain duplicate bibliography keys**: 3 pairs of entries (see Phase 6 notes above) described the same work under two different citation keys because independent domain researchers each verified and annotated it separately; caught during Phase 4 outline planning and resolved during Phase 6 assembly.
 
-1. Run assemble_review.py, normalize_headings.py, dedupe_bib.py, generate_bibliography.py, lint_md.py, then clean up intermediate files and copy final outputs to artifacts/hegel-antigone-greek-world/.
+## Workflow Complete
+
+literature-review-final.md and literature-all.bib are the final deliverables, copied to `artifacts/hegel-antigone-greek-world/` per user instruction (git-tracked; `reviews/` remains local scratch only).
