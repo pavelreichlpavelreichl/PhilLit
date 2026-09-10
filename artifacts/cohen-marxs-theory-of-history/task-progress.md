@@ -9,29 +9,22 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains (7 domains)
 - [x] Phase 3: Research 7 domains (sequential, per user instruction)
-- [ ] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review for each section in parallel
+- [x] Phase 4: Outline synthesis review across domains
+- [ ] Phase 5: Write review for each section (sequential)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
 
-[2026-09-09] Phase 1: Environment verified (brave, crossref OK; S2/OpenAlex transient rate-limit, non-blocking).
-[2026-09-09] Phase 2: literature-review-planner produced 7 domains, 58-82 estimated papers.
-[2026-09-10] Phase 3: All 7 domains researched sequentially (one at a time, per user instruction to avoid rate limits):
-  - Domain 1 (Textual Foundations): 19 entries
-  - Domain 2 (Contemporary Reception 1978-85): 13 entries
-  - Domain 3 (Functional Explanation Debate): 17 entries
-  - Domain 4 (Analytical Marxism/September Group): 14 entries
-  - Domain 5 (Cohen's Self-Revisions): 11 entries
-  - Domain 6 (Determinism/Class-Struggle Critiques): 9 entries
-  - Domain 7 (Hegelian/Historicist/Feminist Critiques): 11 entries
-  Total: 94 bibliography entries. Note: E.P. Thompson's *Poverty of Theory* was verified NOT to directly engage Cohen (targets Althusser/Poulantzas/Popper instead) — this was checked empirically rather than assumed, per plan's guidance.
-  A container restart occurred mid-Phase-3 after Domain 5 completed; its output file survived on disk and was validated intact before continuing.
+[2026-09-09] Phase 1: Environment verified.
+[2026-09-09] Phase 2: 7 domains planned.
+[2026-09-10] Phase 3: All 7 domains researched (94 bib entries total).
+[2026-09-10] Phase 4: synthesis-planner produced outline: Intro + 7 sections (with 8 subsections) + Conclusion, ~5800-6500 word target, ~43 unique citable papers (43/94 entries have verified abstracts; 51 flagged INCOMPLETE and excluded from citation per project convention, but retained in .bib files for transparency). Outline explicitly flags 5 "Notable Gap" areas (contemporary reception, Elster/Roemer founding papers, Cohen's self-revision primary texts, Sayers's direct Hegelian critique, Vogel's founding feminist text) where positions are reconstructed via secondary complete-metadata sources rather than the excluded originals.
 
 ## Current Task
 
-Starting Phase 4: synthesis outline.
+Starting Phase 5: write sections sequentially (per user instruction to work sequentially, one section at a time rather than parallel).
 
 ## Next Steps
 
-1. Invoke synthesis-planner agent to design outline from the 7 domain bibliographies.
+1. Write Introduction, then Section 1 through Section 7 (with subsections), then Conclusion, one at a time.
+2. Sections: Intro, Sec1 (Core Theses), Sec2 (Contemporary Reception), Sec3 (Functional Explanation Debate), Sec4 (Analytical Marxism), Sec5 (Self-Revisions), Sec6 (Class-Struggle Primacy), Sec7 (External Critiques), Conclusion. 9 section files total.
