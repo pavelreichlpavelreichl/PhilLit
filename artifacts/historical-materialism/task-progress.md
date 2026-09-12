@@ -10,7 +10,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains sequentially (11 domains, one at a time per user request)
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review for each section (run sequentially per user request)
+- [x] Phase 5: Write review for each section (run sequentially per user request)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
@@ -23,15 +23,21 @@
 
 [2026-09-12] Phase 4: synthesis-planner produced synthesis-outline.md: Introduction + 8 sections (16 subsections) + Conclusion, organized dialectically (not domain-by-domain) tracing the theory's career from orthodoxy through humanist/structuralist/analytical/class-relational revisions, external critique, and extensions (feminist/world-systems/ecological) to contemporary defenses. ~110-115 distinct papers cited, ~85% of space to post-Marx material, target length ~6000-6500 words. Includes explicit redundancy-avoidance coordination notes for the Phase 5 writers (6 specific overlap points flagged).
 
+[2026-09-12] Phase 5: All 10 sections written sequentially, one synthesis-writer agent at a time (Introduction, Sections 1-8, Conclusion). Word counts: Intro 525, S1 676, S2 1283, S3 658, S4 1086, S5 685, S6 993, S7 1098, S8 447, Conclusion 563 (~8000 words total). Writers consistently applied citation-integrity discipline: several INCOMPLETE/no-abstract .bib entries were either dropped or cited cautiously via note-field content only, never fabricated or quoted without verification. Coordination notes from the outline (avoiding redundant treatment of Brenner/neo-Smithian-Marxism, Habermas/post-Marxism, Chibber 2011, Poulantzas-Gramsci convergence, duplicate Wood/Ruben citations) were followed by each writer.
+
 ## Current Task
 
-Phase 4 complete and committed. Starting Phase 5: sequential section writing.
+Phase 5 complete and committed. Starting Phase 6: assembly, dedup, bibliography, lint, cleanup.
 
 ## Next Steps
 
-1. Invoke synthesis-writer agent once per outline section (Introduction, Sections 1-8, Conclusion = 10 sections), sequentially, one at a time per user request.
-2. Each writer receives the outline, its section's relevant domain .bib files, and the coordination notes.
-3. Mirror all synthesis-section-*.md to artifacts/historical-materialism/, commit, push at phase end.
+1. Run assemble_review.py to combine sections with YAML frontmatter.
+2. Run normalize_headings.py.
+3. Run dedupe_bib.py across all 11 domain .bib files -> literature-all.bib.
+4. Run generate_bibliography.py to append References section.
+5. Run lint_md.py and fix any issues.
+6. Clean up intermediate files in reviews/historical-materialism/.
+7. Copy final literature-review-final.md (+.docx if available) and literature-all.bib to artifacts/historical-materialism/, commit, push.
 
 ## Notes on deviations from default workflow (per user instruction)
 
