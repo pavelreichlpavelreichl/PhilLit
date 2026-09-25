@@ -7,7 +7,7 @@
 ## Progress Status
 
 - [x] Phase 1: Verify environment and determine execution mode
-- [ ] Phase 2: Structure literature review domains
+- [x] Phase 2: Structure literature review domains
 - [ ] Phase 3: Research domains in parallel
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review for each section in parallel
@@ -22,13 +22,14 @@
 ## Completed Tasks
 
 [2026-09-25] Phase 1: Environment verified (with noted OpenAlex/CORE rate limiting); working directory created.
+[2026-09-25] Phase 2: `lit-review-plan.md` created (7 domains): (1) Communicative Action & Discourse Ethics, (2) The Public Sphere, (3) Discourse Theory of Law and Democracy, (4) Deliberative Democracy, (5) Constitutional Patriotism, (6) Cosmopolitanism/Postnational Constellation, (7) Critiques and Alternative Perspectives.
 
 ## Current Task
 
-Phase 2: Structure literature review into domains via `literature-review-planner` agent.
+Phase 3: Research the 7 domains. Per user instruction to run everything sequentially (avoid hitting limits), domain researchers are launched ONE AT A TIME rather than in parallel (deviation from skill default).
 
 ## Next Steps
 
-1. Invoke `literature-review-planner` with the research idea.
-2. Review resulting `lit-review-plan.md`.
-3. Mirror plan to `artifacts/habermas-political-philosophy/` and commit.
+1. Invoke `domain-literature-researcher` for Domain 1, wait for completion.
+2. Repeat sequentially for Domains 2-7.
+3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
