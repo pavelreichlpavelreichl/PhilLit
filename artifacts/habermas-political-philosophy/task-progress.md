@@ -34,12 +34,14 @@
 
 [2026-09-25] Phase 3, Domain 4 (Deliberative Democracy) complete: `literature-domain-4.bib`, 14 entries. Covers Habermas-Rawls debate, independent proceduralist accounts (Cohen, Gutmann & Thompson, Dryzek), field overviews (Bohman, Chambers), systemic/institutional turn (Mansbridge et al.), agonistic critique vs. defense (Mouffe, Brady), and empirical political science (Fishkin, Smith & Setälä, Lafont) addressing the plan's identified empirical-literature gap. 3 entries INCOMPLETE.
 
+[2026-09-25] Phase 3, Domain 5 (Constitutional Patriotism) complete: `literature-domain-5.bib`, 12 entries (1 primary anchor + 11 secondary). Covers reconstructive defense (Cronin, Ingram, Michelman, Müller), the "thin identity cannot sustain solidarity" critique (Markell, Hayward), postnational/EU extension (Lacroix's "Habermas vs Habermas," Rosenfeld), and Historikerstreit grounding (Pensky, Müller's "Origins"). 7 entries INCOMPLETE (no abstract resolved).
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-4 done; proceeding to Domain 5.
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-5 done; proceeding to Domain 6.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 5 (Constitutional Patriotism), wait for completion.
-2. Repeat sequentially for Domains 6-7.
+1. Invoke `domain-literature-researcher` for Domain 6 (Cosmopolitanism/Postnational Constellation), wait for completion.
+2. Then Domain 7 (Critiques and Alternative Perspectives).
 3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
