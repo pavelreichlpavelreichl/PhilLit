@@ -49,12 +49,14 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 [2026-09-25] Phase 5, Section 1 (Introduction) complete: 478 words, cites habermas1996between, susen2017habermas, baxter2011habermas, rehg1994insight. Trailing word-count annotation stripped from output for clean final document.
 
+[2026-09-25] Phase 5, Section 2 (A: Communicative Rationality, Discourse Ethics, and the Idealization Objection) complete: ~565 words, cites all 9 outline papers (Rehg, Baxter, Flynn/Wirts paired debate, O'Donovan, Gledhill, Finlayson, Kapoor, Steinhoff, Susen).
+
 ## Current Task
 
-Phase 5: Writing review sections sequentially (per user instruction, one at a time). Section 1 (Introduction) done; proceeding to Section 2 (A: Communicative Rationality, Discourse Ethics, and the Idealization Objection).
+Phase 5: Writing review sections sequentially. Sections 1-2 done; proceeding to Section 3 (B: The Public Sphere).
 
 ## Next Steps
 
-1. Launch `synthesis-writer` for Section 2 (outline's "### A. ..."), using literature-domain-1.bib.
-2. Continue sequentially through Sections 3-7 (B, C, D, E, Conclusion).
+1. Launch `synthesis-writer` for Section 3 (outline's "### B. ..."), using literature-domain-2.bib.
+2. Continue sequentially through Sections 4-7 (C, D, E, Conclusion).
 3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section (stripping any trailing word-count annotations first).
