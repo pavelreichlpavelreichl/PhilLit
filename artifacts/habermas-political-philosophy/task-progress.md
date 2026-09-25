@@ -45,12 +45,16 @@
 [2026-09-25] Phase 4: `synthesis-outline.md` created (5 subsections A-E within "Key Debates and Positions," plus Intro/Conclusion). Planner flagged 36/104 entries as INCOMPLETE (no abstract) and excluded from synthesis per project convention (conventions.md: entries without verified abstracts are excluded from synthesis text, though retained in .bib for transparency) — most consequential: entire Müller contribution (constitutional patriotism's central theorist) and both Domain 3 anchor anthologies.
 [2026-09-25] Ran a targeted re-verification pass (not a new domain search) on the 36 flagged entries, since OpenAlex/CORE rate limits had partly cleared. Recovered 5 genuine abstracts via CORE/S2: `ingram2016morallyenlightened`, `rosenfeldarato1998habermaslaw` (the Domain 3 anchor anthology), `susen2009emancipation`, `roele2014vicious`, `cohen1989deliberation`. Updated the 4 affected .bib files and revised `synthesis-outline.md` to include these 5 entries (now ~73 distinct papers). Confirmed the Müller items (Domain 5) and 25 others remain genuinely unindexed (not a rate-limit artifact) after this dedicated attempt — accepted as a documented, permanent limitation per project convention (no fabricated abstracts).
 
+Section mapping decided: 7 output files — synthesis-section-1.md (Introduction) through synthesis-section-7.md (Conclusion), covering Introduction, A, B, C, D, E, Conclusion in order.
+
+[2026-09-25] Phase 5, Section 1 (Introduction) complete: 478 words, cites habermas1996between, susen2017habermas, baxter2011habermas, rehg1994insight. Trailing word-count annotation stripped from output for clean final document.
+
 ## Current Task
 
-Phase 5: Write review sections in parallel per the finalized outline.
+Phase 5: Writing review sections sequentially (per user instruction, one at a time). Section 1 (Introduction) done; proceeding to Section 2 (A: Communicative Rationality, Discourse Ethics, and the Idealization Objection).
 
 ## Next Steps
 
-1. Read `synthesis-outline.md` to confirm section list: Introduction, Section A-E (as one "Key Debates and Positions" umbrella with 5 subsections — confirm with synthesis-writer how outline sections map to output files), Conclusion.
-2. Launch `synthesis-writer` for each section sequentially (per user instruction), passing relevant .bib files.
-3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section.
+1. Launch `synthesis-writer` for Section 2 (outline's "### A. ..."), using literature-domain-1.bib.
+2. Continue sequentially through Sections 3-7 (B, C, D, E, Conclusion).
+3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section (stripping any trailing word-count annotations first).
