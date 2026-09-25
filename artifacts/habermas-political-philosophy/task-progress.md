@@ -42,12 +42,15 @@
 
 **PHASE 3 COMPLETE.** Total: 104 BibTeX entries across 7 domain files (17+15+15+14+12+14+17).
 
+[2026-09-25] Phase 4: `synthesis-outline.md` created (5 subsections A-E within "Key Debates and Positions," plus Intro/Conclusion). Planner flagged 36/104 entries as INCOMPLETE (no abstract) and excluded from synthesis per project convention (conventions.md: entries without verified abstracts are excluded from synthesis text, though retained in .bib for transparency) — most consequential: entire Müller contribution (constitutional patriotism's central theorist) and both Domain 3 anchor anthologies.
+[2026-09-25] Ran a targeted re-verification pass (not a new domain search) on the 36 flagged entries, since OpenAlex/CORE rate limits had partly cleared. Recovered 5 genuine abstracts via CORE/S2: `ingram2016morallyenlightened`, `rosenfeldarato1998habermaslaw` (the Domain 3 anchor anthology), `susen2009emancipation`, `roele2014vicious`, `cohen1989deliberation`. Updated the 4 affected .bib files and revised `synthesis-outline.md` to include these 5 entries (now ~73 distinct papers). Confirmed the Müller items (Domain 5) and 25 others remain genuinely unindexed (not a rate-limit artifact) after this dedicated attempt — accepted as a documented, permanent limitation per project convention (no fabricated abstracts).
+
 ## Current Task
 
-Phase 4: Outline synthesis review across domains via `synthesis-planner` agent.
+Phase 5: Write review sections in parallel per the finalized outline.
 
 ## Next Steps
 
-1. Invoke `synthesis-planner` with working directory, list of 7 `.bib` files, and the plan.
-2. Review resulting `synthesis-outline.md`.
-3. Mirror outline to `artifacts/habermas-political-philosophy/` and commit.
+1. Read `synthesis-outline.md` to confirm section list: Introduction, Section A-E (as one "Key Debates and Positions" umbrella with 5 subsections — confirm with synthesis-writer how outline sections map to output files), Conclusion.
+2. Launch `synthesis-writer` for each section sequentially (per user instruction), passing relevant .bib files.
+3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section.
