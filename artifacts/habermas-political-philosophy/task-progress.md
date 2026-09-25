@@ -9,8 +9,8 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequentially)
-- [ ] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review for each section in parallel
+- [x] Phase 4: Outline synthesis review across domains
+- [x] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
@@ -59,12 +59,19 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 [2026-09-25] Phase 5, Section 6 (E: Rival Foundations) complete: ~505 words, cites zurn2003identity, forst2007first, stahl2013habermas. Honneth/Fraser-Honneth presented only as reported within Zurn/Forst per the INCOMPLETE-exclusion convention.
 
+[2026-09-25] Phase 5, Section 7 (Conclusion) complete: ~490 words, cites habermas1996between, susen2017habermas, forst2007first, allen2016end.
+
+**PHASE 5 COMPLETE.** All 7 sections written (synthesis-section-1.md through -7.md, ~3620 words total body text before assembly/references).
+
 ## Current Task
 
-Phase 5: Writing review sections sequentially. Sections 1-6 done; proceeding to Section 7 (Conclusion — final section).
+Phase 6: Assemble final review, generate bibliography, lint, clean up intermediate files.
 
 ## Next Steps
 
-1. Launch `synthesis-writer` for Section 7 (Conclusion), using literature-domain-1.bib, literature-domain-3.bib, literature-domain-7.bib.
-2. Mirror to `artifacts/habermas-political-philosophy/` and commit — this completes Phase 5.
-3. Proceed to Phase 6 (assembly, dedup bibliography, generate references, lint).
+1. Run assemble_review.py to produce literature-review-final.md with YAML frontmatter, then normalize_headings.py.
+2. Run dedupe_bib.py across the 7 domain .bib files to produce literature-all.bib.
+3. Run generate_bibliography.py to append Chicago-style References section.
+4. Run lint_md.py and fix any issues.
+5. Move intermediate files; remove reviews/.active-review pointer.
+6. Mirror final literature-review-final.md and literature-all.bib to artifacts/habermas-political-philosophy/ and commit (this is the final deliverable commit).
