@@ -36,12 +36,14 @@
 
 [2026-09-25] Phase 3, Domain 5 (Constitutional Patriotism) complete: `literature-domain-5.bib`, 12 entries (1 primary anchor + 11 secondary). Covers reconstructive defense (Cronin, Ingram, Michelman, Müller), the "thin identity cannot sustain solidarity" critique (Markell, Hayward), postnational/EU extension (Lacroix's "Habermas vs Habermas," Rosenfeld), and Historikerstreit grounding (Pensky, Müller's "Origins"). 7 entries INCOMPLETE (no abstract resolved).
 
+[2026-09-25] Phase 3, Domain 6 (Cosmopolitanism/Postnational Constellation) complete: `literature-domain-6.bib`, 14 entries. Covers discourse-theoretic cosmopolitanism/Kant-Habermas relation (Fine & Smith, Mertens), realist/statist skepticism (Scheuerman, Streeck, Roele), and EU institutional-design debates (Lubenow, Patberg, Cohen, Lupel, Fine on Eurocentrism). 4 entries INCOMPLETE (2 caught NDPR false-positive matches were manually stripped).
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-5 done; proceeding to Domain 6.
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-6 done; proceeding to Domain 7 (final domain).
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 6 (Cosmopolitanism/Postnational Constellation), wait for completion.
-2. Then Domain 7 (Critiques and Alternative Perspectives).
-3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
+1. Invoke `domain-literature-researcher` for Domain 7 (Critiques and Alternative Perspectives).
+2. Mirror `.bib` file to `artifacts/habermas-political-philosophy/` and commit — this completes Phase 3.
+3. Proceed to Phase 4 (synthesis-planner).
