@@ -24,12 +24,16 @@
 [2026-09-25] Phase 1: Environment verified (with noted OpenAlex/CORE rate limiting); working directory created.
 [2026-09-25] Phase 2: `lit-review-plan.md` created (7 domains): (1) Communicative Action & Discourse Ethics, (2) The Public Sphere, (3) Discourse Theory of Law and Democracy, (4) Deliberative Democracy, (5) Constitutional Patriotism, (6) Cosmopolitanism/Postnational Constellation, (7) Critiques and Alternative Perspectives.
 
+## Completed Tasks (cont.)
+
+[2026-09-25] Phase 3, Domain 1 (Communicative Action and Discourse Ethics) complete: `literature-domain-1.bib`, 17 entries (15 secondary + 2 primary anchors). Source issues: OpenAlex rate-limited (429) throughout; SEP full-text fetch/context extraction timed out repeatedly (used search snippets instead); 5 entries flagged INCOMPLETE (no abstract found) and excluded from synthesis.
+
 ## Current Task
 
-Phase 3: Research the 7 domains. Per user instruction to run everything sequentially (avoid hitting limits), domain researchers are launched ONE AT A TIME rather than in parallel (deviation from skill default).
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domain 1 done; proceeding to Domain 2.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 1, wait for completion.
-2. Repeat sequentially for Domains 2-7.
+1. Invoke `domain-literature-researcher` for Domain 2 (The Public Sphere), wait for completion.
+2. Repeat sequentially for Domains 3-7.
 3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
