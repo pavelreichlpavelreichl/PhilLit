@@ -28,12 +28,14 @@
 
 [2026-09-25] Phase 3, Domain 1 (Communicative Action and Discourse Ethics) complete: `literature-domain-1.bib`, 17 entries (15 secondary + 2 primary anchors). Source issues: OpenAlex rate-limited (429) throughout; SEP full-text fetch/context extraction timed out repeatedly (used search snippets instead); 5 entries flagged INCOMPLETE (no abstract found) and excluded from synthesis.
 
+[2026-09-25] Phase 3, Domain 2 (The Public Sphere) complete: `literature-domain-2.bib`, 15 entries. Feminist/historical critique (Landes, Eley, Warner counterpublics), internal reassessments (Mansbridge, Hofmann, O'Mahony, Kellner), digital/networked extensions (Papacharissi, Staab & Thiel, Seeliger & Sevignani, Fuchs, Copeland). Fraser's "Rethinking the Public Sphere" intentionally not duplicated (already in Domain 1). 5 entries INCOMPLETE (no genuine abstract found). OpenAlex/CORE intermittently rate-limited; SEP full-text fetch hung again (used snippets).
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domain 1 done; proceeding to Domain 2.
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-2 done; proceeding to Domain 3.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 2 (The Public Sphere), wait for completion.
-2. Repeat sequentially for Domains 3-7.
+1. Invoke `domain-literature-researcher` for Domain 3 (Discourse Theory of Law and Democracy), wait for completion.
+2. Repeat sequentially for Domains 4-7.
 3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
