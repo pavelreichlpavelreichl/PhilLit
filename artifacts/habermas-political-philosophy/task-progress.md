@@ -11,7 +11,7 @@
 - [x] Phase 3: Research domains (sequentially)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (sequentially)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Notes
 
@@ -63,15 +63,21 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 **PHASE 5 COMPLETE.** All 7 sections written (synthesis-section-1.md through -7.md, ~3620 words total body text before assembly/references).
 
+[2026-09-25] Phase 6 complete. Key steps and fixes:
+- Assembled 7 sections into literature-review-final.md; added the outline's missing "## Key Debates and Positions" wrapper heading (the 5 subsections A-E had been written without it) so normalize_headings.py could correctly produce "## Section 1: Key Debates and Positions" with "### 1.1"-"### 1.5" subsections.
+- Ran dedupe_bib.py (DOI-based; reported "no duplicates found") but then found and manually removed 4 same-work duplicates across domain files that differed by citation key with no shared DOI: `habermas1996between`/`habermas1996betweenfacts` (same book), `baxter2011habermas`/`baxter2011habermasdiscourse` (same monograph, the latter INCOMPLETE+unused), `calhoun1992introduction` and `mansbridge2012conflict` (both INCOMPLETE, unused, and colliding on surname+year with a different actually-cited work by the same author — a real risk for the citation matcher).
+- Ran generate_bibliography.py; audited its surname+year proximity matching against the actual text and found two real defects to fix, both since corrected: (1) `wirts2014defense` and `baxter2011habermas` were missing from the References list because their bib `year` field didn't match the year the review text cited them by — verified the TRUE publication years via CrossRef/Semantic Scholar (Wirts 2013, not 2014; Baxter 2011, not the 2020 ebook-reprint DOI CrossRef returned) and fixed the .bib year fields (text was already correct for both). (2) `dryzek2000deliberative` had the reverse problem — its bib year (2002) and the review's citation ("Dryzek 2002") were BOTH wrong; verified via CrossRef/S2 that the actual original publication is Oxford University Press, 2000, and corrected both the .bib field and the in-text citation.
+- Restored `@book` type (from `@misc`) for 11 cited monographs/edited volumes so titles render italicized per Chicago style rather than quoted; this reintroduced "missing publisher" validator errors, so looked up and added verified publishers for each (Baxter: Stanford UP; Rehg: UC Press; Calhoun: MIT Press; Hofmann: Fairleigh Dickinson UP; Habermas 1996: MIT Press; Rosenfeld & Arato: UC Press; Gutmann & Thompson: Princeton UP; Lafont: Oxford UP; Bailey: Routledge; Allen: Columbia UP).
+- Fixed remaining LaTeX-escape characters (e.g. `{\"u}`) to proper UTF-8 across literature-all.bib and domain files per `bib_validator.py`.
+- Caught and removed one false-positive citation match: `fraserhonneth2003redistribution` (INCOMPLETE, explicitly not cited per the review's own text) was transiently miscounted as cited during one intermediate diagnostic pass due to "Zurn (2003)...Fraser..." proximity in the same sentence; confirmed on a clean re-run it is correctly excluded from the final References (72 entries).
+- lint_md.py: clean (no issues). bib_validator.py: clean except 3 pre-existing, non-blocking "missing author" flags on editor-only @misc entries (all uncited/excluded from synthesis) — a known validator limitation, not a data error.
+- Moved intermediate files to `intermediate_files/`; removed `reviews/.active-review`. Final state in `reviews/habermas-political-philosophy/`: `literature-review-final.md`, `literature-all.bib`.
+- Mirrored final deliverables (literature-review-final.md, literature-all.bib) and all corrected domain-N.bib / synthesis-section files to `artifacts/habermas-political-philosophy/`.
+
 ## Current Task
 
-Phase 6: Assemble final review, generate bibliography, lint, clean up intermediate files.
+**WORKFLOW COMPLETE.** Final deliverable: `artifacts/habermas-political-philosophy/literature-review-final.md` (~3,600 words body, 72-entry Chicago-style References section) and `artifacts/habermas-political-philosophy/literature-all.bib` (99 entries, including INCOMPLETE ones retained for transparency).
 
 ## Next Steps
 
-1. Run assemble_review.py to produce literature-review-final.md with YAML frontmatter, then normalize_headings.py.
-2. Run dedupe_bib.py across the 7 domain .bib files to produce literature-all.bib.
-3. Run generate_bibliography.py to append Chicago-style References section.
-4. Run lint_md.py and fix any issues.
-5. Move intermediate files; remove reviews/.active-review pointer.
-6. Mirror final literature-review-final.md and literature-all.bib to artifacts/habermas-political-philosophy/ and commit (this is the final deliverable commit).
+None — review complete. Final commit and push pending.
