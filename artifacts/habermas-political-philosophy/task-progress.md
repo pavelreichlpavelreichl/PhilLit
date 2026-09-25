@@ -8,7 +8,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
-- [ ] Phase 3: Research domains in parallel
+- [x] Phase 3: Research domains (sequentially)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review for each section in parallel
 - [ ] Phase 6: Assemble final review files and move intermediate files
@@ -38,12 +38,16 @@
 
 [2026-09-25] Phase 3, Domain 6 (Cosmopolitanism/Postnational Constellation) complete: `literature-domain-6.bib`, 14 entries. Covers discourse-theoretic cosmopolitanism/Kant-Habermas relation (Fine & Smith, Mertens), realist/statist skepticism (Scheuerman, Streeck, Roele), and EU institutional-design debates (Lubenow, Patberg, Cohen, Lupel, Fine on Eurocentrism). 4 entries INCOMPLETE (2 caught NDPR false-positive matches were manually stripped).
 
+[2026-09-25] Phase 3, Domain 7 (Critiques and Alternative Perspectives) complete: `literature-domain-7.bib`, 16 entries. Covers agonistic/radical-democratic critique (Khan, Russell & Montin on Rancière, Erman, Kaltsas on Connolly), systems-theoretic critique (Kjaer, Harste, Rustemi & Jovanoski on Luhmann), postcolonial/decolonial critique (Bailey ed., Allen, Rees, Kempf on Fanon), and intra-critical-theory revision (Honneth, Fraser & Honneth, Forst, Zurn, Stahl). 4 entries INCOMPLETE.
+
+**PHASE 3 COMPLETE.** Total: 104 BibTeX entries across 7 domain files (17+15+15+14+12+14+17).
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-6 done; proceeding to Domain 7 (final domain).
+Phase 4: Outline synthesis review across domains via `synthesis-planner` agent.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 7 (Critiques and Alternative Perspectives).
-2. Mirror `.bib` file to `artifacts/habermas-political-philosophy/` and commit — this completes Phase 3.
-3. Proceed to Phase 4 (synthesis-planner).
+1. Invoke `synthesis-planner` with working directory, list of 7 `.bib` files, and the plan.
+2. Review resulting `synthesis-outline.md`.
+3. Mirror outline to `artifacts/habermas-political-philosophy/` and commit.
