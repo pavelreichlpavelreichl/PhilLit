@@ -32,12 +32,14 @@
 
 [2026-09-25] Phase 3, Domain 3 (Discourse Theory of Law and Democracy) complete: `literature-domain-3.bib`, 15 entries (1 primary anchor + 14 secondary). Covers co-originality thesis debate (Cooke, Duke, Cronin, Rummens vs. Rehg & Bohman, Pedersen), proceduralist rule-of-law/judicial-review reconstruction (Zurn, Cronin, Baxter), and cross-tradition critique (positivist, Marxist/critical-legal, Frankfurt-School-internal). 8 entries INCOMPLETE (no abstract found); a caught NDPR false-positive (wrong book matched) was manually removed rather than kept.
 
+[2026-09-25] Phase 3, Domain 4 (Deliberative Democracy) complete: `literature-domain-4.bib`, 14 entries. Covers Habermas-Rawls debate, independent proceduralist accounts (Cohen, Gutmann & Thompson, Dryzek), field overviews (Bohman, Chambers), systemic/institutional turn (Mansbridge et al.), agonistic critique vs. defense (Mouffe, Brady), and empirical political science (Fishkin, Smith & Setälä, Lafont) addressing the plan's identified empirical-literature gap. 3 entries INCOMPLETE.
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-3 done; proceeding to Domain 4.
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-4 done; proceeding to Domain 5.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 4 (Deliberative Democracy), wait for completion.
-2. Repeat sequentially for Domains 5-7.
+1. Invoke `domain-literature-researcher` for Domain 5 (Constitutional Patriotism), wait for completion.
+2. Repeat sequentially for Domains 6-7.
 3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
