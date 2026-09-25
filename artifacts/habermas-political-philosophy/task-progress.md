@@ -30,12 +30,14 @@
 
 [2026-09-25] Phase 3, Domain 2 (The Public Sphere) complete: `literature-domain-2.bib`, 15 entries. Feminist/historical critique (Landes, Eley, Warner counterpublics), internal reassessments (Mansbridge, Hofmann, O'Mahony, Kellner), digital/networked extensions (Papacharissi, Staab & Thiel, Seeliger & Sevignani, Fuchs, Copeland). Fraser's "Rethinking the Public Sphere" intentionally not duplicated (already in Domain 1). 5 entries INCOMPLETE (no genuine abstract found). OpenAlex/CORE intermittently rate-limited; SEP full-text fetch hung again (used snippets).
 
+[2026-09-25] Phase 3, Domain 3 (Discourse Theory of Law and Democracy) complete: `literature-domain-3.bib`, 15 entries (1 primary anchor + 14 secondary). Covers co-originality thesis debate (Cooke, Duke, Cronin, Rummens vs. Rehg & Bohman, Pedersen), proceduralist rule-of-law/judicial-review reconstruction (Zurn, Cronin, Baxter), and cross-tradition critique (positivist, Marxist/critical-legal, Frankfurt-School-internal). 8 entries INCOMPLETE (no abstract found); a caught NDPR false-positive (wrong book matched) was manually removed rather than kept.
+
 ## Current Task
 
-Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-2 done; proceeding to Domain 3.
+Phase 3: Research the 7 domains sequentially (per user instruction, one domain researcher at a time rather than parallel, to avoid hitting limits). Domains 1-3 done; proceeding to Domain 4.
 
 ## Next Steps
 
-1. Invoke `domain-literature-researcher` for Domain 3 (Discourse Theory of Law and Democracy), wait for completion.
-2. Repeat sequentially for Domains 4-7.
+1. Invoke `domain-literature-researcher` for Domain 4 (Deliberative Democracy), wait for completion.
+2. Repeat sequentially for Domains 5-7.
 3. Mirror each `.bib` file to `artifacts/habermas-political-philosophy/` and commit after each domain completes.
