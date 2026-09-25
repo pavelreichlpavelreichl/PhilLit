@@ -57,12 +57,14 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 [2026-09-25] Phase 5, Section 5 (D: Political Identity and Its Global Extension) complete: ~660 words (after adding a brief lupel2005tasks mention that the writer had initially omitted since it wasn't in the outline's content-description prose, only its paper list). Cites all 20 outline papers. Includes the required Müller-exclusion note.
 
+[2026-09-25] Phase 5, Section 6 (E: Rival Foundations) complete: ~505 words, cites zurn2003identity, forst2007first, stahl2013habermas. Honneth/Fraser-Honneth presented only as reported within Zurn/Forst per the INCOMPLETE-exclusion convention.
+
 ## Current Task
 
-Phase 5: Writing review sections sequentially. Sections 1-5 done; proceeding to Section 6 (E: Rival Foundations).
+Phase 5: Writing review sections sequentially. Sections 1-6 done; proceeding to Section 7 (Conclusion — final section).
 
 ## Next Steps
 
-1. Launch `synthesis-writer` for Section 6 (outline's "### E. ..."), using literature-domain-7.bib.
-2. Then Section 7 (Conclusion), using literature-domain-1.bib, literature-domain-3.bib, literature-domain-7.bib.
-3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section — this completes Phase 5.
+1. Launch `synthesis-writer` for Section 7 (Conclusion), using literature-domain-1.bib, literature-domain-3.bib, literature-domain-7.bib.
+2. Mirror to `artifacts/habermas-political-philosophy/` and commit — this completes Phase 5.
+3. Proceed to Phase 6 (assembly, dedup bibliography, generate references, lint).
