@@ -53,12 +53,14 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 [2026-09-25] Phase 5, Section 3 (B: The Public Sphere) complete: ~560 words, cites all 11 outline papers.
 
+[2026-09-25] Phase 5, Section 4 (C: Discourse Theory of Law, Democracy, and Deliberation) complete: ~830 words, cites all 27 outline papers. Writer noted 5 papers (kjaer2021systems, rustemijovanoski2021controversy, russellmontin2015rationality, erman2009wrong, kaltsas2019habermas) were actually cataloged in literature-domain-7.bib rather than -3/-4 (they're the Luhmann/agonism critique papers) — writer located and verified them there correctly; no fabrication, just a file-mapping note for the record.
+
 ## Current Task
 
-Phase 5: Writing review sections sequentially. Sections 1-3 done; proceeding to Section 4 (C: Discourse Theory of Law, Democracy, and Deliberation — the largest section, 27 papers).
+Phase 5: Writing review sections sequentially. Sections 1-4 done; proceeding to Section 5 (D: Political Identity and Its Global Extension).
 
 ## Next Steps
 
-1. Launch `synthesis-writer` for Section 4 (outline's "### C. ..."), using literature-domain-3.bib and literature-domain-4.bib.
-2. Continue sequentially through Sections 5-7 (D, E, Conclusion).
+1. Launch `synthesis-writer` for Section 5 (outline's "### D. ..."), using literature-domain-5.bib, literature-domain-6.bib, and literature-domain-7.bib (for the postcolonial cluster).
+2. Continue sequentially through Sections 6-7 (E, Conclusion).
 3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section (stripping any trailing word-count annotations first).
