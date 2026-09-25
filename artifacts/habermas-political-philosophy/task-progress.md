@@ -55,12 +55,14 @@ Section mapping decided: 7 output files — synthesis-section-1.md (Introduction
 
 [2026-09-25] Phase 5, Section 4 (C: Discourse Theory of Law, Democracy, and Deliberation) complete: ~830 words, cites all 27 outline papers. Writer noted 5 papers (kjaer2021systems, rustemijovanoski2021controversy, russellmontin2015rationality, erman2009wrong, kaltsas2019habermas) were actually cataloged in literature-domain-7.bib rather than -3/-4 (they're the Luhmann/agonism critique papers) — writer located and verified them there correctly; no fabrication, just a file-mapping note for the record.
 
+[2026-09-25] Phase 5, Section 5 (D: Political Identity and Its Global Extension) complete: ~660 words (after adding a brief lupel2005tasks mention that the writer had initially omitted since it wasn't in the outline's content-description prose, only its paper list). Cites all 20 outline papers. Includes the required Müller-exclusion note.
+
 ## Current Task
 
-Phase 5: Writing review sections sequentially. Sections 1-4 done; proceeding to Section 5 (D: Political Identity and Its Global Extension).
+Phase 5: Writing review sections sequentially. Sections 1-5 done; proceeding to Section 6 (E: Rival Foundations).
 
 ## Next Steps
 
-1. Launch `synthesis-writer` for Section 5 (outline's "### D. ..."), using literature-domain-5.bib, literature-domain-6.bib, and literature-domain-7.bib (for the postcolonial cluster).
-2. Continue sequentially through Sections 6-7 (E, Conclusion).
-3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section (stripping any trailing word-count annotations first).
+1. Launch `synthesis-writer` for Section 6 (outline's "### E. ..."), using literature-domain-7.bib.
+2. Then Section 7 (Conclusion), using literature-domain-1.bib, literature-domain-3.bib, literature-domain-7.bib.
+3. Mirror each `synthesis-section-N.md` to `artifacts/habermas-political-philosophy/` and commit after each section — this completes Phase 5.
