@@ -12,7 +12,7 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research 6 domains (sequentially)
 - [x] Phase 4: Outline synthesis review (chronological by decade/year)
-- [ ] Phase 5: Write review sections (sequentially)
+- [x] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
@@ -25,11 +25,12 @@
 
 2026-09-30 Phase 4: synthesis-outline.md + section-keys.md (12 writer chunks + Introduction + Conclusion). Orchestrator script-verified the key assignment (all years match) and removed 1 duplicate (wendling2009technology in d4); total now 446 entries.
 
+2026-09-30 Phase 5: synthesis-section-1..14.md written sequentially (Introduction, 12 chronological chunks, Conclusion); 446 item lines verified against key lists; no dashes.
+
 ## Current Task
 
-Phase 5: write 12 sections W1..W12 sequentially (synthesis-section-1.md .. 12.md), keys in section-keys.md
+Phase 6: assemble into artifacts/marx/
 
 ## Next Steps
 
-1. Writers W1-W12 sequentially (introduction and conclusion writers too)
-2. Phase 6 assembly into artifacts/marx/
+1. Fix data issues (McNeill 2021 misattached abstract; cheng2026state author order), then assemble, dedupe bib, generate bibliography, lint, output to artifacts/marx/
