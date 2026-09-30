@@ -25,9 +25,11 @@
 2026-09-30 Phase 3 Domain 2 (2013-2015): `literature-domain-2.bib`, 45 entries (15/15/15), validators pass. 10 INCOMPLETE (summaries grounded in NDPR/publisher pages).
 2026-09-30 HOOK ISSUE: SubagentStop `metadata_cleaner.py` runs over ALL domain .bib files after each researcher stops and overwrites `year` from the first DOI-matching API record (and drops unverifiable DOIs, and strips @comment headers). It had altered 3 D1 entries (rockmore2011 2011->2010, sensen2012 2012->2015, heis2010 DOI removed); orchestrator restored them by hand and moved DOI into `url` so the hook no-ops (simulated on copies of D1 and D2: 0 changes). Later researchers must simulate the cleaner on a copy before finishing.
 
+2026-09-30 Phase 3 Domain 3 (2016-2018): `literature-domain-3.bib`, 45 entries (14/16/15), validators pass, cleaner simulation 0 changes on D1-D3. First attempt hit a session rate limit (429) and was retried successfully. Plan-seed corrections: Lu-Adler *Kant and the Science of Logic* is 2018 (not 2023), so exclude from D5.
+
 ## Current Task
 
-Phase 3, Domain 3 (2016-2018) running; Domains 1-2 done
+Phase 3, Domain 4 (2019-2021) running; Domains 1-3 done
 
 ## Next Steps
 
