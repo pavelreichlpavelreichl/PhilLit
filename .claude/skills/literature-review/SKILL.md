@@ -6,6 +6,8 @@ allowed-tools: Bash, Read, Write, Grep, Glob, Edit
 
 # Literature Review Workflow
 
+> **Standing rules (see `CLAUDE.md`, "Standing rules for every literature review")**: write final outputs to `artifacts/<topic>/` (not `reviews/`, which is scratch only), commit and push at the end of each phase, and run all agents sequentially. These override the parallel-execution and `reviews/` output instructions below.
+
 ## Overview
 
 This skill coordinates the production of a focused, insight-driven, rigorous, and accurate literature review for philosophy research proposals. The skill coordinates specialized subagents using the Task tool to execute a structured 6-phase workflow.

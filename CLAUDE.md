@@ -40,6 +40,13 @@ When asked to perform a new literature review:
 2. The skill creates a new directory in `reviews/` with an informative short name (e.g., `reviews/epistemic-autonomy-ai/`)
 3. The skill coordinates specialized subagents via the Task tool to complete all phases
 
+## Standing rules for every literature review
+
+These apply to every review and override any conflicting wording in the skill or agent files (including its "in parallel" and `reviews/` output instructions):
+
+- Always write final outputs to `artifacts/<topic>/` (not `reviews/`), then `git add`, `git commit`, and `git push` at the end of each phase. Treat `reviews/` as scratch/local only.
+- Do everything sequentially, one agent at a time, so as to avoid hitting limits.
+
 # Workflow Architecture
 
 **`/literature-review` skill** — Main entry point. Runs in main conversation with Task tool access. Coordinates the 6-phase workflow:
