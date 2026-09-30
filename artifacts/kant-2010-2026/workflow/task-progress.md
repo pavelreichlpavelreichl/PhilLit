@@ -27,9 +27,11 @@
 
 2026-09-30 Phase 3 Domain 3 (2016-2018): `literature-domain-3.bib`, 45 entries (14/16/15), validators pass, cleaner simulation 0 changes on D1-D3. First attempt hit a session rate limit (429) and was retried successfully. Plan-seed corrections: Lu-Adler *Kant and the Science of Logic* is 2018 (not 2023), so exclude from D5.
 
+2026-09-30 Domain 3 checkpointed to artifacts. Domain 4 attempts 1 and 2 were killed by container restarts (raw search JSON survived, no .bib). Domain 4 is now run as three sequential single-year runs (4a=2019, 4b=2020, 4c=2021) appending incrementally to `literature-domain-4.bib`; shared brief at intermediate_files/d4/BRIEF.md. Resume rule: if a run dies, check literature-domain-4.bib and intermediate_files/d4/progress_4*.txt and relaunch only the missing year.
+
 ## Current Task
 
-Phase 3, Domain 4 (2019-2021) running; Domains 1-3 done
+Phase 3, Domain 4 run 4a (2019) running; Domains 1-3 done
 
 ## Next Steps
 
