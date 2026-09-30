@@ -78,7 +78,7 @@ Years: 1995 (10), 1996 (10), 1997 (10), 1998 (11), 1999 (11). Key list: section-
 Years: 2000 (13), 2001 (11), 2002 (11), 2003 (11), 2004 (11). Key list: section-keys.md, W3.
 
 ### Subsection 2.2: 2005-2009 (writer W4; 53 entries)
-Years: 2005 (11), 2006 (11), 2007 (11), 2008 (11), 2009 (10). Key list: section-keys.md, W4. Note the year mismatches: kliman2007reclaiming is placed in 2006 and buchwalter1991hegel in 2008.
+Years: 2005 (11), 2006 (11), 2007 (11), 2008 (11), 2009 (9). Key list: section-keys.md, W4. Note the year mismatches: kliman2007reclaiming is placed in 2006 and buchwalter1991hegel in 2008.
 
 ---
 
