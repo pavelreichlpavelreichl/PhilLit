@@ -11,7 +11,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research 6 domains (sequentially)
-- [ ] Phase 4: Outline synthesis review (chronological by decade/year)
+- [x] Phase 4: Outline synthesis review (chronological by decade/year)
 - [ ] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -23,11 +23,13 @@
 
 2026-09-30 Phase 3: 6 domain files, 447 entries (D1 59, D2 96, D3 75, D4 69, D5 46, D6 102); every year 1990-2026 has >=10 combined. Source issues: OpenAlex 429 for search (used only in enrichment); discovery mainly Semantic Scholar + CrossRef verification; SEP/IEP/PhilPapers/Brave/CORE mostly unused; ~100 entries INCOMPLETE (no abstract, title-based notes); 8 DOI-less books flagged unverified-crossref in D5.
 
+2026-09-30 Phase 4: synthesis-outline.md + section-keys.md (12 writer chunks + Introduction + Conclusion). Orchestrator script-verified the key assignment (all years match) and removed 1 duplicate (wendling2009technology in d4); total now 446 entries.
+
 ## Current Task
 
-Phase 4: synthesis outline (chronological by decade/year)
+Phase 5: write 12 sections W1..W12 sequentially (synthesis-section-1.md .. 12.md), keys in section-keys.md
 
 ## Next Steps
 
-1. Invoke synthesis-planner
-2. Phase 5 writers sequentially, Phase 6 assembly into artifacts/marx/
+1. Writers W1-W12 sequentially (introduction and conclusion writers too)
+2. Phase 6 assembly into artifacts/marx/
