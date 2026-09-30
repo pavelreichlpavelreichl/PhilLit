@@ -9,7 +9,7 @@
 ## Progress Status
 
 - [x] Phase 1: Verify environment and determine execution mode
-- [ ] Phase 2: Structure literature review domains
+- [x] Phase 2: Structure literature review domains
 - [ ] Phase 3: Research domains (sequentially)
 - [ ] Phase 4: Outline synthesis review (chronological by decade/year)
 - [ ] Phase 5: Write review sections (sequentially)
@@ -19,10 +19,12 @@
 
 2026-09-30 Phase 1: environment check. OpenAlex returned HTTP 429 on 3 consecutive checks; all other sources OK. User approved proceeding.
 
+2026-09-30 Phase 2: created lit-review-plan.md (6 domains; search partitions, not thematic sections)
+
 ## Current Task
 
-Phase 2
+Phase 3: research 6 domains sequentially (literature-domain-1.bib .. 6.bib)
 
 ## Next Steps
 
-1. Invoke literature-review-planner
+1. Run domain-literature-researcher for domains 1-6, one at a time
