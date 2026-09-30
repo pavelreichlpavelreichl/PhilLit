@@ -13,7 +13,7 @@
 - [x] Phase 3: Research 6 domains (sequentially)
 - [x] Phase 4: Outline synthesis review (chronological by decade/year)
 - [x] Phase 5: Write review sections (sequentially)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
 
@@ -27,9 +27,11 @@
 
 2026-09-30 Phase 5: synthesis-section-1..14.md written sequentially (Introduction, 12 chronological chunks, Conclusion); 446 item lines verified against key lists; no dashes.
 
+2026-09-30 Phase 6: assembled literature-review-final.md (446 entries, References 446/446), literature-all.bib; lint clean. Fixes: McNeill 2021 misattached abstract removed; Cheng 2026 author order; Wood 1998 author normalized.
+
 ## Current Task
 
-Phase 6: assemble into artifacts/marx/
+Complete
 
 ## Next Steps
 
