@@ -20,9 +20,14 @@
 2026-09-30 Phase 1: Environment check. JSON status "error" solely because OpenAlex returns 503 (anonymous search paused, upstream). Brave, CrossRef, S2, arXiv, CORE OK. Proceeding without OpenAlex.
 2026-09-30 Phase 2: Created `lit-review-plan.md` (6 sequential year-block domains: 2010-12, 2013-15, 2016-18, 2019-21, 2022-24, 2025-26; ~170-255 entries est.)
 
+2026-09-30 Phase 3 Domain 1 (2010-2012): `literature-domain-1.bib`, 43 entries (14/14/15), validators pass. Known tool bug: enrich_bibliography NDPR fuzzy match attaches wrong reviews (2 fixed by hand); check abstract_source=ndpr in later domains. Carry-forward to D2: Wuerth, Formosa, Matherne (2013), Heidemann vol., Kant-Kongress XI.
+
+2026-09-30 Phase 3 Domain 2 (2013-2015): `literature-domain-2.bib`, 45 entries (15/15/15), validators pass. 10 INCOMPLETE (summaries grounded in NDPR/publisher pages).
+2026-09-30 HOOK ISSUE: SubagentStop `metadata_cleaner.py` runs over ALL domain .bib files after each researcher stops and overwrites `year` from the first DOI-matching API record (and drops unverifiable DOIs, and strips @comment headers). It had altered 3 D1 entries (rockmore2011 2011->2010, sensen2012 2012->2015, heis2010 DOI removed); orchestrator restored them by hand and moved DOI into `url` so the hook no-ops (simulated on copies of D1 and D2: 0 changes). Later researchers must simulate the cleaner on a copy before finishing.
+
 ## Current Task
 
-Phase 3, Domain 1 (2010-2012)
+Phase 3, Domain 3 (2016-2018) running; Domains 1-2 done
 
 ## Next Steps
 
