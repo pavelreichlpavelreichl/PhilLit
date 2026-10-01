@@ -12,7 +12,7 @@
 - [x] Phase 2: Structure literature review domains (one domain per year-block)
 - [x] Phase 3: Research domains (sequentially)
 - [x] Phase 4: Outline synthesis review (chronological by year)
-- [ ] Phase 5: Write review for each section (sequentially)
+- [x] Phase 5: Write review for each section (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
@@ -37,9 +37,11 @@
 
 2026-10-01 Phase 4 COMPLETE: `synthesis-outline.md` (17 year sections + Introduction + Conclusion; 251 keys verified against `intermediate_files/entries_digest.tsv`: every key once, correct year). Writers run SEQUENTIALLY: section-1 Introduction; section-2..7 year blocks (2010-12, 2013-15, 2016-18, 2019-21, 2022-24, 2025-26); section-8 Conclusion (last). Phase 6 notes: normalize_headings.py enforces 'Section N' numbering and would rename year headings, so verify/skip it; generate_bibliography.py matches surname+year (a/b letters for same-author-same-year: Kant 2012, Guyer 2024, Merritt 2018 must be checked by hand).
 
+2026-10-01 Phase 5 COMPLETE (writers run sequentially): synthesis-section-1 (Introduction, 334 words), -2..-7 (year blocks 2010-12 ... 2025-26; 251 bullets, all outline keys in outline order, verified with intermediate_files/check_section.py), -8 (Conclusion, ~450 words; all cited works appear in year sections). Writer 5 hit a session rate limit after finishing its file; file verified complete. Known small items for Phase 6/final read: a few bullets flagged LONG? by the checker (Frierson 2013, Conant 2016, Naturfreiheit 2018, Gomes 2022, Guyer 2024a); a/b letters for Kant 2012, Guyer 2024, Merritt 2018 must be handled in the References step.
+
 ## Current Task
 
-Phase 5: writers sequential, section-1 (Introduction) first
+Phase 6: assemble final review to artifacts/kant-2010-2026/
 
 ## Next Steps
 
