@@ -11,7 +11,7 @@
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains (one domain per year-block)
 - [x] Phase 3: Research domains (sequentially)
-- [ ] Phase 4: Outline synthesis review (chronological by year)
+- [x] Phase 4: Outline synthesis review (chronological by year)
 - [ ] Phase 5: Write review for each section (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
@@ -35,9 +35,11 @@
 
 2026-10-01 Phase 3 COMPLETE. Domain 6 (2025-2026): `literature-domain-6.bib`, 28 entries (2025: 15, 2026: 13). Total 251 entries across 6 domain files (43/45/45/45/45/28), all pass bib_validator and strict metadata_validator; metadata_cleaner simulation 0 changes on all six; no duplicate keys. Bash permission allow added in .claude/settings.local.json (gitignored) per user request. Phase 3 deliverables copied to artifacts/kant-2010-2026/workflow/.
 
+2026-10-01 Phase 4 COMPLETE: `synthesis-outline.md` (17 year sections + Introduction + Conclusion; 251 keys verified against `intermediate_files/entries_digest.tsv`: every key once, correct year). Writers run SEQUENTIALLY: section-1 Introduction; section-2..7 year blocks (2010-12, 2013-15, 2016-18, 2019-21, 2022-24, 2025-26); section-8 Conclusion (last). Phase 6 notes: normalize_headings.py enforces 'Section N' numbering and would rename year headings, so verify/skip it; generate_bibliography.py matches surname+year (a/b letters for same-author-same-year: Kant 2012, Guyer 2024, Merritt 2018 must be checked by hand).
+
 ## Current Task
 
-Phase 4: outline synthesis (chronological by year, 17 year sections), sequential
+Phase 5: writers sequential, section-1 (Introduction) first
 
 ## Next Steps
 
