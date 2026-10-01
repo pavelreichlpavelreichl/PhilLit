@@ -31,9 +31,11 @@
 
 2026-10-01 Phase 3 Domain 4 (2019-2021): `literature-domain-4.bib`, 45 entries (15/15/15) via single-year runs 4a/4b/4c; validators strict 45/45, cleaner 0 changes on D1-D4; header present. Hook issue handled by moving DOI to `url` for 7 entries. 6 INCOMPLETE (4 articles, 2 books). Domain 5 (2022-2024) also run as single-year runs 5a/5b/5c with brief at intermediate_files/d5/BRIEF.md; resume rule as for D4.
 
+2026-10-01 Phase 3 Domain 5 (2022-2024): `literature-domain-5.bib`, 45 entries (15/15/15) via runs 5a/5b/5c; strict 45/45; cleaner 0 changes on D1-D5; header present. 1 INCOMPLETE (book). Domain 6 (2025-2026) run as 6a (2025) and 6b (2026, partial, + finalisation); brief at intermediate_files/d6/BRIEF.md.
+
 ## Current Task
 
-Phase 3, Domain 5 run 5a (2022) running; Domains 1-4 done
+Phase 3, Domain 6 run 6a (2025) running; Domains 1-5 done
 
 ## Next Steps
 
