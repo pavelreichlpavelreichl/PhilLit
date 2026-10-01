@@ -13,7 +13,7 @@
 - [x] Phase 3: Research domains (sequentially)
 - [x] Phase 4: Outline synthesis review (chronological by year)
 - [x] Phase 5: Write review for each section (sequentially)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
 
@@ -39,9 +39,11 @@
 
 2026-10-01 Phase 5 COMPLETE (writers run sequentially): synthesis-section-1 (Introduction, 334 words), -2..-7 (year blocks 2010-12 ... 2025-26; 251 bullets, all outline keys in outline order, verified with intermediate_files/check_section.py), -8 (Conclusion, ~450 words; all cited works appear in year sections). Writer 5 hit a session rate limit after finishing its file; file verified complete. Known small items for Phase 6/final read: a few bullets flagged LONG? by the checker (Frierson 2013, Conant 2016, Naturfreiheit 2018, Gomes 2022, Guyer 2024a); a/b letters for Kant 2012, Guyer 2024, Merritt 2018 must be handled in the References step.
 
+2026-10-01 Phase 6 COMPLETE: assembled `literature-review-final.md` (Introduction, 17 year sections 2010-2026 with 251 entries, Conclusion, References 251/251 matched), `literature-all.bib` (251 entries, no duplicates). normalize_headings.py deliberately skipped (it would rename year headings to 'Section N'). a/b letters added by hand for Kant 2012, Merritt 2018, Guyer 2024; 'Hardback' journal-title artifact and LaTeX/backtick quote artifacts fixed in the final md. lint_md passes. pandoc not installed: no DOCX. Final outputs in artifacts/kant-2010-2026/; workflow files in artifacts/kant-2010-2026/workflow/. reviews/.active-review removed.
+
 ## Current Task
 
-Phase 6: assemble final review to artifacts/kant-2010-2026/
+Workflow complete
 
 ## Next Steps
 
