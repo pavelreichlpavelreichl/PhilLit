@@ -1,0 +1,47 @@
+@comment{
+====================================================================
+DOMAIN: Domain 2, Kant scholarship 2013-2015 (publication years 2013, 2014, 2015)
+SEARCH_DATE: 2026-09-30
+PAPERS_FOUND: 45 (High: 6, Medium: 35, Low: 4); per year: 2013: 15, 2014: 15, 2015: 15
+SEARCH_SOURCES: SEP (17 Kant entries, bibliographies), IEP (9 entries; no 2013-2015 items in the parsed bibliographies), PhilPapers via Brave, Semantic Scholar (per-year sweeps of about 115 Query Bank queries), CrossRef (journal article lists for about 55 ISSNs by publication year and by print year, book discovery, DOI verification, review search), NDPR (sitemap and review fetches), CORE and the abstract resolver (get_abstract.py), WebSearch and WebFetch for publisher pages and the North American Kant Society prize list. search_openalex.py was not used.
+====================================================================
+
+DOMAIN_OVERVIEW:
+Three debates in theoretical philosophy run through the block. The two-aspect (one-world) versus two-world readings of transcendental idealism are represented by Marshall (2013), Stang (2014) and Allais's Manifest Reality (2015); the conceptualism and nonconceptualism question, extended by naive-realist readings of perception, by Tolley (2013), Gomes (2014), Onof and Schulting (2015) and Stephenson (2015); and the reading of the Deduction and the Paralogisms in historical context by Dyck (2014) and Allison (2015). The empirical side of Kant's thought is prominent: Friedman's Construction of Nature (2013), Frierson's empirical psychology (2014) and the anthropology and biology volumes of Cohen and of Goy and Watkins (2014), together with Mensch on epigenesis (2013), Watkins on the early Kant and Newton (2013), McNulty on chemical laws (2015) and Hall on the Opus postumum (2014).
+
+In practical philosophy the entries move between moral psychology and motivation (Grenberg 2013, Wuerth 2013 and 2014, Ware 2014), the Lectures on Ethics (Denis and Sensen, dated 2014 by CrossRef), commentary (Trampota et al. on the Doctrine of Virtue, 2013; Schönecker and Wood on the Groundwork, 2015) and the constructivism and realism question (Wuerth's moral realism, O'Neill's constructivist reading of reason). Political and critical work is led by Maliks (2014) and by Flikschuh and Ypi's Kant and Colonialism (2014), with Mikkelsen's translation of the race essays (2013), Mills on race (2014) and Hay on Kantian feminism (2013). Reception is covered by Golob (Heidegger on Kant, 2013), Beiser (neo-Kantianism, 2014) and Gardner and Grist (2015), and reference work by the Pisa Kant-Kongress proceedings (2013), the Kant-Lexikon (2015) and Reading Kant's Lectures (2015).
+
+Year dates follow the CrossRef print date. Denis and Sensen (print 2014-12-31) and Ginsborg (print 2014-11-27), which are conventionally cited as 2015, therefore fall in 2014; Maliks (SEP 2015) and Palmquist (SEP 2016) also differ from their CrossRef print dates, and articles that were online-first in an earlier year (for example Gomes, Stang, Matherne, Wuerth) are dated by their print volume. Each case is explained in the entry's YEAR NOTE.
+
+RELEVANCE_TO_PROJECT:
+The block records the empirical-science and moral-psychology strand, the post-2012 perception debates and a volume-length treatment of Kant and colonialism (Flikschuh and Ypi). It also contains the monographs of the period on transcendental idealism and the Deduction (Allais, Allison) and on Kant's mind (Dyck, Frierson, Wuerth) that carry NDPR or multiple journal reviews and SEP listings.
+
+Year x primary-subfield table (first subfield tag of each entry; entries may carry secondary tags):
+  Subfield                                       2013  2014  2015  Total
+  Theoretical (tp-*)                                3     4     7     14
+  Practical (pp-ethics, pp-mm-virtue)               3     3     2      8
+  Political/legal (pp-right-politics)               1     2     0      3
+  Aesthetics/teleology (aes-teleo)                  2     2     1      5
+  Religion                                          1     0     1      2
+  Anthropology/race/gender (anthro-hist-edu)        2     2     1      5
+  Pre-critical/Opus postumum                        1     1     0      2
+  Reception (recep-*)                               1     1     1      3
+  Edition/reference                                 1     0     2      3
+  Total                                            15    15    15     45
+
+NOTABLE_GAPS:
+Empty or thin cells: race, colonialism, gender, animals and disability in 2015 (no candidate cleared the significance rule; Storey on 'second thoughts' on race and Harfouch and Nale on racial mind-body unions were seen but carry few indicators); animals and disability in all three years (Korsgaard, 'Kantian Ethics, Animals, and the Law', 2013, was excluded as an extension of Kantian ethics rather than Kant interpretation); religion in 2014 (Michalson's Critical Guide and Pasternack's Routledge guidebook were screened out on indicators); the Opus postumum beyond Hall (2014); pre-critical work beyond Watkins (2013); education and pedagogy; Metaphysics of Morals and virtue in 2014 and 2015 (Surprenant 2014 screened out); science and mathematics in 2014 (Massimi on laws and Heis in the Canadian Journal of Philosophy special issue on Kant's mathematics were screened out to keep the block within its cap); no NDPR review was found for Friedman, Mensch, Insole, Dyck, Frierson's Empirical Psychology, Maliks, Goy and Watkins, Allison, O'Neill or Palmquist, so those rest on citations, journal reviews and SEP listings.
+CONSIDERED_NOT_INCLUDED (with reasons): Formosa, EJP 21(2) 2013 (carry-forward; S2 26, CrossRef 16, not in the retrieved SEP bibliographies, below the included practical-philosophy entries); Heidemann (ed.), Kant and Non-Conceptual Content (year ambiguous: SEP kant-mind and PhilPapers 2012, S2 2013, CrossRef online 2014-06 with no print date; no NDPR review found); Kerstein, How to Treat Persons (2013) and Stern, Kantian Ethics (2015; about half the essays concern later reception), which are Kantian theory rather than Kant interpretation; Waxman (2013), Sweet (2013), Timmermann (AGPh 2013), Wood's Free Development of Each (2014; Kant and successors), Vinci (2014), Boehm (2014), Golob's Heidegger monograph (2014; Kant is not the principal interlocutor), Landy (2015), Rauscher (2015), Luft (2015), Gava and Stern (2015), Cavallar (2015), Schafer's Philosophy Compass surveys (2015) and Proops, Stang and McLear (2015), all screened out on indicators or on the per-year cap.
+INCOMPLETE ENTRIES (no abstract field, flagged INCOMPLETE and no-abstract by the enrichment step; each SUMMARY is grounded in the source named by its summary-source tag): books: mensch2013organicism (University of Chicago Press description via web search), dyck2014rational (OUP page; the resolver's text was front matter and was dropped), beiser2014neokantianism (NDPR), allison2015deduction (OUP page), ferrarin2015powers (NDPR; the resolver's text was garbled and was dropped), gardner2015turn (NDPR; the resolver's text was a table of contents and was dropped), palmquist2015religion (Wiley description via web search); articles: ware2014sensibility (Project MUSE abstract via web search; the resolver's text was the article's opening and was dropped), mills2014race (journal page abstract via web search), mcnulty2015regulative (University of Minnesota Experts page abstract via web search). The enrichment script's NDPR fuzzy match attached reviews of other books to allison2015deduction (a review of a Heidegger lecture course) and palmquist2015religion (a review of a Kant translation); both were removed by hand. The NDPR abstracts kept (mikkelsen2013race, ginsborg2014normativity) were checked and match the books. DOI handling: nine entries (friedman2013construction, wuerth2013sense, matherne2013aesthetic, gomes2014naive, stang2014nonidentity, denis2014ethics, allais2015manifest, reath2015practical, ferrarin2015powers) carry the DOI in the url field rather than in a doi field, because the SubagentStop metadata_cleaner overwrites the year from the first DOI-matching API record, and for these DOIs S2 and CrossRef records disagree (online-first year, or an S2 record dated 2015-2017), which would move them across year blocks.
+
+SYNTHESIS_GUIDANCE:
+Year sections can be organised by the subfield and debate tags; cross-reference Marshall (2013), Stang (2014) and Allais (2015) for the two-aspect line, and Tolley (2013), Gomes (2014), Onof and Schulting (2015) and Stephenson (2015) for the perception line. Where an entry's YEAR NOTE records a conventional date one year later (Denis and Sensen, Ginsborg, Maliks, Palmquist), the CrossRef print year has been kept so that the year assignment is reproducible.
+
+KEY_POSITIONS:
+- Two-aspect, one-world and non-phenomenalist readings of transcendental idealism: Marshall 2013, Stang 2014, Allais 2015.
+- Nonconceptualism and naive realism about perception: Tolley 2013, Gomes 2014, Onof and Schulting 2015, Stephenson 2015.
+- Empirical psychology, anthropology and the life sciences in Kant: Mensch 2013, Frierson 2013 and 2014, Cohen 2014, Goy and Watkins 2014, Hall 2014.
+- Moral realism versus constructivism and moral feeling: Wuerth 2013 and 2014, Ware 2014, O'Neill 2015.
+- Kant, race and colonialism: Mikkelsen 2013, Flikschuh and Ypi 2014, Mills 2014.
+====================================================================
+}

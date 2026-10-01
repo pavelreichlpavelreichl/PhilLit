@@ -10,7 +10,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode
 - [x] Phase 2: Structure literature review domains (one domain per year-block)
-- [ ] Phase 3: Research domains (sequentially)
+- [x] Phase 3: Research domains (sequentially)
 - [ ] Phase 4: Outline synthesis review (chronological by year)
 - [ ] Phase 5: Write review for each section (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
@@ -33,9 +33,11 @@
 
 2026-10-01 Phase 3 Domain 5 (2022-2024): `literature-domain-5.bib`, 45 entries (15/15/15) via runs 5a/5b/5c; strict 45/45; cleaner 0 changes on D1-D5; header present. 1 INCOMPLETE (book). Domain 6 (2025-2026) run as 6a (2025) and 6b (2026, partial, + finalisation); brief at intermediate_files/d6/BRIEF.md.
 
+2026-10-01 Phase 3 COMPLETE. Domain 6 (2025-2026): `literature-domain-6.bib`, 28 entries (2025: 15, 2026: 13). Total 251 entries across 6 domain files (43/45/45/45/45/28), all pass bib_validator and strict metadata_validator; metadata_cleaner simulation 0 changes on all six; no duplicate keys. Bash permission allow added in .claude/settings.local.json (gitignored) per user request. Phase 3 deliverables copied to artifacts/kant-2010-2026/workflow/.
+
 ## Current Task
 
-Phase 3, Domain 6 run 6a (2025) running; Domains 1-5 done
+Phase 4: outline synthesis (chronological by year, 17 year sections), sequential
 
 ## Next Steps
 

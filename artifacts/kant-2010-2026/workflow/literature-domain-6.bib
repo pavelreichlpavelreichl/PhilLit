@@ -1,3 +1,66 @@
+@comment{
+====================================================================
+DOMAIN: Domain 6, Kant scholarship 2025-2026 (publication year 2025 in full; 2026 through 2026-09-30)
+SEARCH_DATE: 2026-10-01 (two sequential single-year runs: 6a = 2025, 6b = 2026). Both earlier full-block attempts were killed by container restarts and left no usable output, so both runs started from scratch.
+PAPERS_FOUND: 28 (High: 4, Medium: 21, Low: 3); per year: 2025: 15 (High 2, Medium 12, Low 1), 2026: 13 (High 2, Medium 9, Low 2)
+SEARCH_SOURCES: Semantic Scholar (per-year sweeps of the Query Bank with no citation floor, 181 queries for 2026 plus gap queries; title and DOI batch lookups), CrossRef REST (journal article lists by ISSN for the core venues, queried by publication date and by print date; book, monograph, edited-book and book-part lists by Kant query terms; DOI-level metadata; review search by title), PhilPapers and the open web via Brave/WebSearch (publisher and review pages), WebFetch (Princeton University Press page for Hunter 2026), NDPR (sitemap check; the sitemap held no 2026 reviews, one 2025 review is recorded under Bruno), SEP (get_sep_context.py for the four High entries across 17 Kant entries: 68 calls, all with no hits, as expected for 2025-2026 works), abstract resolution via S2, OpenAlex-backed records returned by the enrichment script, CORE and CrossRef. search_openalex.py was not used. IEP was not searched in the 6a and 6b runs.
+====================================================================
+
+DOMAIN_OVERVIEW:
+2025 and 2026 contain few works with accumulated citations, so significance in this domain rests on venue, publisher, series, author standing, reviews and early citations, all recorded as data in each entry. The largest visible outputs are Cambridge University Press Elements and monographs (about two fifths of the entries), Oxford, Princeton and Bloomsbury books, and articles in Nous, Philosophy and Phenomenological Research, the Journal of the History of Philosophy, the European Journal of Philosophy, Kant-Studien and Mind. Three features stand out in the 2025 entries: continued attention to the origin and structure of the first Critique (Anderson on Hume and the Antinomy, Stang on Kant's critique of metaphysics and contemporary meta-metaphysics, Hogan on the Nutshell argument), applied and contextual work on the Metaphysics of Morals (Timmermann on the right to lie, Sabourin on marriage, Williams on corporations and Kant), and the Kant-and-race debate (Kleingeld's Mind critical notice of Lu-Adler's book).
+
+The 2026 entries (through 2026-09-30) add a historicist and religion-centred reading of the whole critical project (Hunter, The Kantian Religion, Princeton), a collected-essays volume on transcendental idealism and method by Guyer, a Kant-and-Freud study of the mind (Longuenesse), a reassessment of the Prolegomena-Groundwork parallel (Kleingeld, Kant-Studien), pre-critical metaphysics read with grounding theory (Schnieder), a Kantian challenge to predictive processing (Schlicht), the law-morality question in the Doctrine of Right (Brecher and Hirsch, an open-access CUP volume), moral feeling (Noller), autonomy and life in Kant and Hegel (Khurana), art criticism (Tuna) and Kant's relation to colonial slavery and racial capitalism (Lu-Adler, online first). Trends named in the plan are only partly visible: Kant and technology appears mainly in articles screened out for significance (for example Sticker on the Formula of Humanity and AI use, Philosophy and Technology 2026), and consolidation work on Kant and the Aristotelian, Stoic and Hegelian traditions appears in CUP volumes (Gobsch and Land, The Aristotelian Kant; Merritt, Kant's Transformation of Stoic Philosophy; both not included for the quota).
+
+Few works respond explicitly to the dominant readings of the 2010s; the clearest cases are Hunter (against the systematic-philosophical reading), Khurana (against the self-legislation model of autonomy), Guyer (criticism of Kant's argument for transcendental idealism while defending the transcendental method) and Schlicht (against predictive-processing realism).
+
+RELEVANCE_TO_PROJECT:
+Completes the chronology up to the end of September 2026 and tests which recent works already carry non-citation indicators of significance. Citation counts are near zero in both years (S2 and CrossRef is-referenced-by-count between 0 and 6 for most entries, 20 for Kleingeld 2025 in Mind), so the synthesis should present these years as a record of notable publications and reviews, not as settled landmarks.
+
+Year x primary-subfield table (first subfield tag of each entry; entries may carry secondary tags):
+  Subfield                                        2025  2026  Total
+  Theoretical CPR/metaphysics (tp-cpr)               3     3      6
+  Mind (tp-mind)                                     0     2      2
+  Science/math/logic (tp-science-math)               1     1      2
+  Practical ethics (pp-ethics)                       3     2      5
+  Metaphysics of Morals/virtue (pp-mm-virtue)        2     0      2
+  Political/legal (pp-right-politics)                1     1      2
+  Aesthetics/teleology (aes-teleo)                   1     1      2
+  Anthropology/race/gender/animals (anthro-hist-edu) 1     1      2
+  Religion (primary)                                 0     1      1
+  Pre-critical (primary)                             0     1      1
+  Opus postumum (primary)                            1     0      1
+  Reception (recep-*, primary)                       1     0      1
+  Edition/translation (primary)                      1     0      1
+  Reference (primary)                                0     0      0
+  Total                                             15    13     28
+  Secondary tags: 2025: tp-science-math 3 (Hogan, Thomson, Kant 2025 Logic edition), pp-ethics 1 (Kleingeld), pp-right-politics 1 (Sabourin), precritical 1 (Kain), recep-phenom 1 and recep-neokantian 1 (Bruno); 2026: tp-cpr 1 (Schlicht), tp-mind 1 (Noller), pp-ethics 1 (Kleingeld), pp-mm-virtue 1 (Brecher and Hirsch), pp-right-politics 1 (Lu-Adler), precritical 1 (Carson), recep-idealism 1 (Khurana), recep-other 2 (Longuenesse, Schlicht).
+  Importance: 2025: High 2 (Kleingeld, Bruno), Medium 12, Low 1 (Kant 2025 Logic edition); 2026: High 2 (Guyer, Hunter), Medium 9, Low 2 (Carson, Tuna). Types: 2025: 11 monographs or Elements, 3 articles, 1 translation or edition; 2026: 7 monographs (two of them CUP Elements, Carson and Noller), 1 edited volume, 5 articles.
+  Debate tags: race and colonialism (Kleingeld 2025, Lu-Adler 2026), gender (Sabourin 2025), constructivism (Cureton 2025, Khurana 2026), two-aspect (Hogan 2025).
+
+NOTABLE_GAPS:
+Empty or thin cells. Opus postumum: one 2025 entry (Thomson) and none in 2026 (S2 returned no 2026 results for the Opus postumum, transition and ether queries; the only 2026 item found is Zhang's review of Thomson, Graduate Faculty Philosophy Journal). Pre-critical: Kain 2025 (secondary tag) and Schnieder 2026; no 2025 primary entry. Religion: none in 2025; one in 2026 (Hunter). Animals, disability and education: none in either year (2026 items found were low-visibility articles or non-Anglophone journal pieces, for example Kinoshita on Kant's theory of education, and a book review of Interpreting Kant for Education, London Review of Education). Gender: one 2025 entry (Sabourin); the 2026 gender article (Sanchez Madrid, Canadian Journal of Philosophy, online 2026-09-17) was not included. Teleology and biology: none in 2026 (Teufel 2025 only). Mind and cognition: none in 2025. Reception: one 2025 entry (Bruno) and, in 2026, only secondary reception tags (Khurana, Longuenesse, Schlicht); Kant and Cassirer (eds. Pollok and Filieri, Meiner) and Kant and the Space of Feelings (eds. Fabbianelli and Falduto, De Gruyter) carry 2026 online dates only and no print date, and were left out. Editions, translations and reference works: one 2025 entry (the Volckmann Logic edition); none in 2026 (S2 returned no 2026 results for the Cambridge Edition, Kant-Kongress and Companion queries; the Naturrecht Feyerabend edition reviewed in Kant-Studien 117(1) is dated 2024 by CrossRef). No NDPR reviews dated 2026 exist in the NDPR sitemap, and the search_ndpr.py fuzzy search returned no usable output in this run, so NDPR coverage for 2026 books is unknown. Year-boundary effect: CrossRef print dates after 2026-09-30 (for example Laub, Kant als Geograph, print 2026-12-08, Mentis) were treated as announced, not yet published, and excluded.
+Shortfall against the targets: 2025 has 15 entries (target 10-15); 2026 has 13 (brief target about 5-10; the surplus reflects a large number of 2026 CUP and journal items with verifiable print dates). No Domain 6 seed was unverified (there were no seeds).
+INCOMPLETE ENTRIES: kleingeld2025antiracism (article; summary grounded in the publisher page, no abstract found), kant2025logicvolckmann (translation or edition book; summary grounded in the publisher page), hunter2026kantianreligion (book; summary grounded in the Princeton University Press page retrieved in-session; the NDPR review attached by the enrichment script was a review of a different book, Weithman on religion and citizenship, and was removed). The enrichment script also attached an unrelated NDPR review (a review of The Life of the Mind, a book on phenomenological externalism) to longuenesse2026organization; it was removed and replaced by the CrossRef abstract. CrossRef abstracts were added by hand for hogan2025nutshell, schlicht2026predictive, noller2026respect and longuenesse2026organization, which the script had marked INCOMPLETE. No ndpr-sourced abstract remains in the file.
+Source issues: S2 rate-limited some queries (re-run until each query returned success or a genuine not_found; five 2026 queries, on the Inaugural Dissertation, the Opus postumum transition, the Cambridge Edition, Kant-Kongress proceedings and Companion to Kant, returned no results); CrossRef returned non-JSON for five journal-year lists in the first pass (Critical Inquiry, Dialogue, Metaphilosophy, Journal of Aesthetic Education, Journal of Ethics) and was re-run successfully; search_ndpr.py returned no usable output. S2 holds no record for two 2026 books (Longuenesse; Brecher and Hirsch), so their S2 counts are recorded as absent.
+
+CONSIDERED_NOT_INCLUDED (with reasons):
+2025: Guyer and Wood, second edition of the Cambridge Critique of Pure Reason (reissue with updated introduction and bibliography); Kjosavik, Kraus (Ideas of Reason), Lenczewska, Hildebrand, Russell (Mind), McNulty (JAPA), Lu-Adler (response to Kleingeld's critical notice, screened for the quota), Mosayebi, Gava, Sturm and Vesper (Routledge), Moggach, Hui (Kant Machine), Merritt (a Stoic-themed item screened in 6a; the 2026 CUP book is listed under 2026), Kojeve, Willaschek (translation); reviews dated 2026 of 2025 books (Falkenstein on Anderson, Zhang on Thomson, Brecher on Sabourin, Vereb and Baumeister on Heneghan, Beiser, Ellis and Fisher on Bruno) are reviews and not entries.
+2026: Gobsch and Land (eds.), The Aristotelian Kant (CUP, print 2026-01-31; online 2025-12-15); Peters, A Kantian Theory of Moral Character (CUP, print 2026-05-31); Merritt, Kant's Transformation of Stoic Philosophy (CUP, print 2026-08-31); Walla, Kant on Property Rights and International Law, and Vrousalis, Kant on Citizenship and Poverty (CUP Elements, print 2026-02-28 and 2026-03-31); Shorter-Bourhanou, Kant's Universalism and the Concept of Race (OUP, print 2026-05-19; the race debate is represented by Lu-Adler 2026); Englander, Reason and the Good in Leibniz, Kant and Hegel (CUP; Kant is one of three thinkers); Goh, The Materiality of Literature (CUP; literary theory); Gonzalez Quintero, Kant's Modern Debates (Bloomsbury, print 2026, no review or abstract beyond the publisher text); Vesper, Kant ueber Schoenheit und systematische Einheit der Natur (Springer, German-language); Sommer, Form and Matter in Early German Idealism, and Paetsch, Deleuze's Philosophy of Time and Logic (post-Kantian rather than Kant scholarship); Bremner, The Unity of Reason, Reconsidered (JHP 64(2)); Sticker, The Formula of Humanity and AI Use (Philosophy and Technology 39(2); the main Kant-and-AI item, left out as a short applied article with CrossRef count 2); Stratmann (BJHP) and Chaplin (BJHP) on Wolff, Kant and pre-critical metaphysics (online 2026, no print date yet); Sanchez Madrid (Kant's Sexism Reconsidered, Canadian Journal of Philosophy, online 2026-09-17); Hunter's History of European Ideas article on Kant's ascesis (companion to the book); the Vaihinger section of Kant-Studien 117(3) and other Kant-Studien and Kantian Review 31(1)-(2) articles (de Boer, Biondi, Wolf in Kantian Review, Bauer on truth, Orlander, Love and others; no early indicators beyond venue); the Canadian Journal of Philosophy symposium on Sutherland's Kant's Mathematical World (online 2026; the book dates from 2022); Fisher (EJP), Beiser (BJHP), Tenenbaum (Ethics) and Nyholm (Ethics) reviews of books dated 2023-2025; Streumer, A New Transcendental Argument for Robust Realism (Ratio; not Kant scholarship); Schweitzer (Presses universitaires de Rennes, French-language), Laub (excluded by date), Borowski translation (Polish), Brazilian Dialetica volumes (non-Anglophone, no international indicators).
+
+SYNTHESIS_GUIDANCE:
+Present 2025 and 2026 as a short closing section in the year-by-year list, flagging that significance indicators are early (publisher, venue, author standing, reviews in Philosophy in Review and Con-Textos Kantianos for Brecher and Hirsch, in Philosophy in Review for Hunter, and in the Journal of Transcendental Philosophy and Con-Textos Kantianos for Noller; an NDPR review for Bruno). Cross-reference by debate tag: race (Kleingeld 2025 with Lu-Adler 2026, and Domain 5 entries on the race debate), constructivism and autonomy (Cureton 2025, Khurana 2026), the late and pre-critical work (Thomson 2025, Kain 2025, Schnieder 2026), law and morality (Williams 2025, Brecher and Hirsch 2026). Treat the INCOMPLETE entries (Kleingeld 2025, the Volckmann edition, Hunter 2026) as grounded in publisher text only.
+
+KEY_POSITIONS:
+- Origins, structure and limits of the critical metaphysics: Anderson 2025, Stang 2025, Hogan 2025, Wolf 2026, Guyer 2026, Kleingeld 2026, Schnieder 2026.
+- Kant and science, mathematics and mind: Stan 2025, Thomson 2025 (Opus postumum), Carson 2026, Longuenesse 2026, Schlicht 2026.
+- Ethics, autonomy and the Metaphysics of Morals: Cureton 2025, Kain 2025, Timmermann 2025, Sabourin 2025, Noller 2026, Khurana 2026.
+- Right, law and political economy: Williams 2025, Brecher and Hirsch 2026.
+- Race, colonialism and gender: Kleingeld 2025, Sabourin 2025 (marriage), Lu-Adler 2026.
+- Religion, teleology and aesthetics: Teufel 2025, Hunter 2026, Tuna 2026.
+- Reception and editions: Bruno 2025, Heneghan 2025 (environmental ethics), the Volckmann Logic edition 2025.
+====================================================================
+}
+
 @book{anderson2025skeptical,
   author = {Anderson, Abraham},
   title = {The Skeptical Roots of Critique: Hume's Attack on Theology and the Origin of Kant's Antinomy},
@@ -11,7 +74,10 @@ SUBFIELD AND DEBATE: Theoretical philosophy: the origin and development of the C
 SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Oxford University Press. Review found by CrossRef search: Falkenstein, Kantian Review (2026). NDPR review: not found.
 
 YEAR NOTE: CrossRef gives online publication 2025-01-23 and print publication 2025-03-12.},
-  keywords = {kant, tp-cpr, debate-other-hume, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, tp-cpr, debate-other-hume, type-monograph, Medium, summary-source-abstract},
+  abstract = {
+  abstract_source = {s2},
+ Kant says that it was “the objection of David Hume that first . . . interrupted my dogmatic slumber”; he also says that “it was the fourfold Antinomy . . . that first woke me from dogmatic slumber.” But how can the Critique of Pure Reason be at once a response to Hume’s skepticism and the result of the Antinomy? The Skeptical Roots of Critique resolves this problem by showing that the Antinomy, like the Critique as a whole, stems from Hume’s attack on metaphysics. The Antinomy grew out of Hume’s challenge to the causal principle of rationalism and to the metaphysics founded on that principle.},
 }
 
 @article{stang2025obsolete,
@@ -30,7 +96,9 @@ SUBFIELD AND DEBATE: Theoretical philosophy and metaphysics: a Kantian challenge
 SIGNIFICANCE INDICATORS: S2 citations 1 and CrossRef is-referenced-by-count 1 (retrieved 2026-10-01). Venue: Philosophy and Phenomenological Research 111(1).
 
 YEAR NOTE: CrossRef gives online publication 2025-04-04 and print publication 2025-07.},
-  keywords = {kant, tp-cpr, debate-other-metametaphysics, type-article, Medium, summary-source-abstract}
+  keywords = {kant, tp-cpr, debate-other-metametaphysics, type-article, Medium, summary-source-abstract},
+  abstract = {I raise a problem about the possibility of metaphysics originally due to Kant: what explains the fact that the terms in our metaphysical theories (e.g., ‘property’, ‘grounding’) refer to entities and structures (e.g., properties, grounding) in the world? I distinguish a meta‐metaphysical view that can easily answer such questions (‘deflationism’) from a meta‐metaphysical view for which this explanatory task is more difficult (which I call the ‘substantive’ view of metaphysics). I then canvass responses that the substantive metaphysician can give to this Kantian demand for an explanation of reference in metaphysics. I argue that these responses are either inadequate or depend, implicitly or explicitly, on the idea of ‘joint carving’: carving at the joints is part of the explanation of referencefacts quite generally and our metaphysical terms in particular refer because they carve at the joints. I examine Ted Sider's recent work on joint carving and structure and argue that it cannot fill the explanatory gap. I conclude that this is reason ceterus paribus to reject the substantive view of metaphysics. Kant's critique, far from being obsolete, applies to the most cutting‐edge of contemporary meta‐metaphysical views.},
+  abstract_source = {s2},
 }
 
 @article{hogan2025nutshell,
@@ -49,7 +117,9 @@ SUBFIELD AND DEBATE: Theoretical philosophy and philosophy of space and geometry
 SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Venue: Nous 59(3).
 
 YEAR NOTE: CrossRef and S2 give online publication 2024-09-24 (S2 year 2024); print publication is 2025-09 (volume 59, issue 3), and the entry is dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
-  keywords = {kant, tp-cpr, tp-science-math, debate-two-aspect, type-article, Medium, summary-source-abstract}
+  keywords = {kant, tp-cpr, tp-science-math, debate-two-aspect, type-article, Medium, summary-source-abstract},
+  abstract = {The significance or vacuity of the statement, “Everything has just doubled in size,” attracted considerable attention last century from scientists and philosophers. Presenting his conventionalism in geometry, Poincaré insisted on the emptiness of a hypothesis that all objects have doubled in size overnight. Such expansion could have meaning, he argued, “only for those who reason as if space were absolute … it would be better to say that space being relative, nothing at all has happened.” The logical empiricists concurred, viewing the universal doubling hypothesis as illustrating the intrinsic metrical amorphousness of continuous manifolds. It is striking, therefore, to find Kant invoking a universal contraction in space and time to support his famous doctrine of transcendental idealism. In one of several completely neglected passages, he writes: “The proof that the things in space and time are mere appearances can also be grounded on the fact that the whole world could be contained in a nutshell and the entirety of elapsed time in a second without the least difference being met with.” Kant's “also” may suggest an idealist argument distinct from any proposed in published works. Here I ask: What is the meaning of Kant's Nutshell Argument for Idealism?},
+  abstract_source = {crossref},
 }
 
 @book{stan2025natural,
@@ -65,7 +135,9 @@ SUBFIELD AND DEBATE: Philosophy of science: the Metaphysical Foundations of Natu
 SIGNIFICANCE INDICATORS: S2 citations 5 and CrossRef is-referenced-by-count 6 (retrieved 2026-10-01). Publisher: Cambridge University Press (Cambridge Elements). No review found by CrossRef search or NDPR search.
 
 YEAR NOTE: CrossRef gives online publication 2025-08-04 and print publication 2025-08-21.},
-  keywords = {kant, tp-science-math, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, tp-science-math, type-monograph, Medium, summary-source-abstract},
+  abstract = {This Element analyzes Kant's metaphysics and epistemology of the exact science of nature. It explains his theory of true motion and ontology of matter. In addition, it reconstructs the patterns of evidential reasoning behind Kant's foundational doctrines.},
+  abstract_source = {s2},
 }
 
 @book{thomson2025opus,
@@ -81,7 +153,10 @@ SUBFIELD AND DEBATE: Opus postumum and the late metaphysics of nature: whether t
 SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Bloomsbury. Review found by CrossRef search: Zhang, Graduate Faculty Philosophy Journal (2026). NDPR review: not found.
 
 YEAR NOTE: CrossRef gives 2025 for print and issued dates, without month.},
-  keywords = {kant, opus-postumum, tp-science-math, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, opus-postumum, tp-science-math, type-monograph, Medium, summary-source-abstract},
+  abstract = {Focusing on moments of continuity and rupture, as well as the thin lines of fracture in Critical philosophy itself,Metaphysics of Nature and Failure in Kant’sOpus postumum navigates the rough terrain of Kant’s final thoughts.Terrence Thomson argues thatOpus postumumconstitutes Kant’s last attempt to deliver on the promise of a system of speculative reason in a work called ‘metaphysics of nature’. He journeys through the drafts left on Kant’s desk when he died to encounter their failure to establish this work rather than their projected success. Far from this signaling that we give up on serious study of theOpus postumum, however, Thomson shows how failure is not something Kant shied away from but rather embraced as fuel for his continued thinking. Indeed, it is this failure that opens the door to a greater understanding of the dissonances at the core of Critical philosophy itself. Moreover, it indicates what it means to be in the process of philosophizing and that Kant was well-aware that to think often means to repeatedly fail.
+  abstract_source = {s2},
+ Suggesting how the very call for a metaphysics to be established upon the Critical philosophy can only ever fail to abide by the threshold it sets up, this book offers a new perspective on the central bind Kant repeatedly confronts inOpus postumumwithin the modern European tradition of philosophy. To deliver the system of metaphysics Kant calls for means to transgress the bounds of Critical philosophy, but to attempt to deliver it is nonetheless an unavoidable part of Critical philosophy itself.},
 }
 
 @book{cureton2025sovereign,
@@ -97,7 +172,10 @@ SUBFIELD AND DEBATE: Practical philosophy: Kantian autonomy and practical reason
 SIGNIFICANCE INDICATORS: S2 citations 1 and CrossRef is-referenced-by-count 2 (retrieved 2026-10-01). Publisher: Oxford University Press. No review found by CrossRef search or NDPR search.
 
 YEAR NOTE: CrossRef gives online publication 2025-01-27 and print publication 2025-04-17.},
-  keywords = {kant, pp-ethics, debate-constructivism, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-ethics, debate-constructivism, type-monograph, Medium, summary-source-abstract},
+  abstract = {
+  abstract_source = {s2},
+ We often invoke reason, rationality, reasonableness, reasons, and related concepts in common sense. Despite what many serious thinkers claim, the reason of everyday life is far more substantive than cold logic or calculating self-interest. This book explores the idea that our power of reason includes an expansive set of governing abilities, motives, and principles. It develops this novel theory drawing on a wide variety of Kant’s texts and highlighting themes in ordinary ways of speaking and thinking that have not been sufficiently investigated. The book’s unifying idea is of an autonomous person who governs herself completely by reason. The Sovereignty Conception of Reason dramatically extends traditional Kantian conceptions of rational self-governance. We can use reason to govern our many mental powers, not just to make choices. We can legislate, execute, and adjudicate in ourselves all kinds of rational standards, not just moral ones. The Sovereignty Conception of Reason holds that our reason includes substantive interests in various things. Part of having a rational nature is to care about knowledge, enlightenment, happiness, solidarity, and other things for their own sake. The Sovereignty Conception of Reason also holds that our reason includes a principle of justifiability according to which mental acts of all kinds are required by reason if and because they are justifiable to rational people on the basis of their substantive interests of reason. The book contrasts the Sovereignty Conception of Reason with other prominent theories and explores rational principles concerning beneficence, coercion, deception, friendship, respect, happiness, and self-development.},
 }
 
 @book{kain2025goodwill,
@@ -113,7 +191,9 @@ SUBFIELD AND DEBATE: Practical philosophy and the development of Kant's ethics: 
 SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Oxford University Press. No review found by CrossRef search or NDPR search.
 
 YEAR NOTE: CrossRef gives online (issued) publication 2025-11-19 and print publication 2025-12-23.},
-  keywords = {kant, pp-ethics, precritical, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-ethics, precritical, type-monograph, Medium, summary-source-abstract},
+  abstract = {Abstract The good will and the dignity of humanity are central, but often overlooked or controverted, elements of Kant’s moral philosophy. This book investigates the origins and emergence of Kant’s moral philosophy and the significance to it of the good will and the dignity of humanity, beginning with some of Kant’s early published works, notes and drafts, and student notes from lectures across various disciplines that he gave over the course of several decades prior to the publication of the Groundwork of the Metaphysics of Morals (1785). The book begins with a historical and philosophical reconstruction of Kant’s conception of the divine will, which reflected, influenced, and informed his developing moral philosophy. The book then provides a detailed interpretation of the emergence of Kant’s moral philosophy prior to the publication of the Groundwork. This study of the place of the good will and the dignity of humanity in Kant’s thought sheds new light on the origins and content of Kant’s published works on moral philosophy in the 1780s.},
+  abstract_source = {openalex},
 }
 
 @book{timmermann2025lie,
@@ -129,7 +209,9 @@ SUBFIELD AND DEBATE: Practical philosophy: the Metaphysics of Morals and the dut
 SIGNIFICANCE INDICATORS: S2 book-level record not located (title search returned only the Critical Inquiry review); CrossRef is-referenced-by-count 3 (retrieved 2026-10-01). Publisher: Cambridge University Press. Review found by CrossRef search: Krajewski, Critical Inquiry 52(1) (2025). NDPR review: not found.
 
 YEAR NOTE: CrossRef gives online publication 2025-07-18 and print publication 2025-08-31.},
-  keywords = {kant, pp-mm-virtue, debate-other-lying, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-mm-virtue, debate-other-lying, type-monograph, Medium, summary-source-abstract},
+  abstract = {In his 1797 essay 'On a Supposed Right to Lie from Love of Humanity', Kant argues that when only a confident lie might save a friend, one must, if asked, reply truthfully and thus betray his hiding-place to the person who wants to kill him. This is the first monograph to explore Kant's essay in detail. Jens Timmermann examines the background of the piece (Kant was provoked by Benjamin Constant and his translator, Carl Friedrich Cramer); the history of the example (which was also discussed by, amongst others, Augustine, Fichte and Johann David Michaelis); the peculiarities of Constant's version of the case; and Kant's core argument against Constant: lying, or a right to lie, would undermine contractual rights and spell disaster for all humanity. This rich, interpretative resource, which includes a facing-page translation of Kant's essay, will be of wide interest to Kant scholars and moral philosophers.},
+  abstract_source = {openalex},
 }
 
 @book{sabourin2025marriage,
@@ -145,7 +227,9 @@ SUBFIELD AND DEBATE: Practical philosophy and Kant on gender: marriage in the Do
 SIGNIFICANCE INDICATORS: S2 citations 10 and CrossRef is-referenced-by-count 10 (retrieved 2026-10-01). Publisher: Cambridge University Press (Cambridge Elements, Elements in the Philosophy of Immanuel Kant, as named in the Kant-Studien review title). Review found by CrossRef search: Brecher, Kant-Studien (2026). NDPR review: not found.
 
 YEAR NOTE: CrossRef gives online publication 2025-03-10 and print publication 2025-04-30.},
-  keywords = {kant, pp-mm-virtue, pp-right-politics, debate-gender, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-mm-virtue, pp-right-politics, debate-gender, type-monograph, Medium, summary-source-abstract},
+  abstract = {This Element proposes a new understanding of Kant's account of marriage by examining the context and background conversations that shaped its development and by discussing the conception of equality at its core. Marriage as Kant understands it relies on a certain form of equality between spouses. Yet this conception of equality does not precede marriage, and carries important limitations – one of which being its inaccessibility to a significant proportion of the German population at the time. The protections and rights conferred by marriage were thus not accessible to all. Their shared preoccupation with this issue allows the author to put Kant's thoughts in relation with those of eighteenth-century feminist writers Theodor von Hippel and Marianne Ehrmann. Despite these limitations, the author finds that Kant's conception of marriage is compatible with the achievement of certain egalitarian goals, suggesting that it may be able to improve women's lives in a liberal state.},
+  abstract_source = {s2},
 }
 
 @book{williams2025incorporated,
@@ -161,7 +245,9 @@ SUBFIELD AND DEBATE: Political and legal philosophy: Kant on corporate bodies, i
 SIGNIFICANCE INDICATORS: S2 citations 5 and CrossRef is-referenced-by-count 6 (retrieved 2026-10-01). Publisher: Cambridge University Press (open access on Cambridge Core per the abstract). No review found by CrossRef search or NDPR search.
 
 YEAR NOTE: CrossRef gives online publication 2025-09-30 and print publication 2025-11-30.},
-  keywords = {kant, pp-right-politics, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-right-politics, type-monograph, Medium, summary-source-abstract},
+  abstract = {Corporations are legal bodies with duties and powers distinct from those of individual people. Kant discusses them in many places. He endorses universities and churches; he criticises feudal orders and some charitable foundations; he condemns early business corporations' overseas activities. This Element argues that Kant's practical philosophy offers a systematic basis for understanding these bodies. Corporations bridge the central distinctions of his practical philosophy: ethics versus right, public versus private right. Corporations can extend freedom, structure moral activity, and aid progress towards more rightful conditions. Kant's thought also highlights a fundamental threat. In every corporation, some people exercise the corporation's legal powers, without the liability they would face as private individuals. This threatens Kant's principle of innate equality: no citizen should have greater legal rights than any other. This Element explores the justifications and safeguards needed to deal with this threat. This title is also available as Open Access on Cambridge Core.},
+  abstract_source = {s2},
 }
 
 @book{teufel2025teleology,
@@ -177,7 +263,9 @@ SUBFIELD AND DEBATE: Aesthetics and teleology: purposiveness and reflective judg
 SIGNIFICANCE INDICATORS: S2 citations 8 and CrossRef is-referenced-by-count 9 (retrieved 2026-10-01). Publisher: Cambridge University Press (Cambridge Elements). No review found by CrossRef search or NDPR search.
 
 YEAR NOTE: CrossRef gives online publication 2025-04-17 and print publication 2025-04-30.},
-  keywords = {kant, aes-teleo, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, aes-teleo, type-monograph, Medium, summary-source-abstract},
+  abstract = {Kant's mature teleological philosophy in the Critique of the Power of Judgment is predicated on innovations that address a set of unprecedented challenges arising from within critical philosophy. The challenges are (1) a threat of “transcendental chaos” between sensibility and understanding, emerging from the structure of critical epistemology; (2) a threat of “critical chaos” between determination and reflection, generated by Kant's response to that first threat. The innovations include (a) a transcendental conception of purposiveness, (b) a principle of nature's purposiveness based on that conception, (c) a power of judgment governed by that principle, (d) and so governed in an unusual (self-given and self-governing) way, (e) a view on which nature does make leaps. This Element argues that Kant's mature teleological philosophy – and a fortiori Kant's aesthetics and philosophy of biology – cannot be understood without a fully systematic account of these challenges and innovations, and it presents such an account.},
+  abstract_source = {s2},
 }
 
 @article{kleingeld2025antiracism,
@@ -196,7 +284,7 @@ SUBFIELD AND DEBATE: Anthropology, race and colonialism: the Kant and race debat
 SIGNIFICANCE INDICATORS: CrossRef is-referenced-by-count 20 (retrieved 2026-10-01); S2 record not located. Venue: Mind 134(535). Debate role: draws a published reply (Lu-Adler, Critical Philosophy of Race).
 
 YEAR NOTE: CrossRef gives online publication 2024-06-01 (issued date) and print publication 2025-08-14 (volume 134, issue 535); dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
-  keywords = {kant, anthro-hist-edu, pp-ethics, debate-race, debate-colonialism, type-article, High, summary-source-publisher}
+  keywords = {kant, anthro-hist-edu, pp-ethics, debate-race, debate-colonialism, type-article, High, summary-source-publisher, INCOMPLETE, no-abstract}
 }
 
 @book{heneghan2025environmental,
@@ -212,7 +300,9 @@ SUBFIELD AND DEBATE: Practical philosophy and environmental ethics: the highest 
 SIGNIFICANCE INDICATORS: S2 book-level record not located; CrossRef is-referenced-by-count 1 (retrieved 2026-10-01). Publisher: Edinburgh University Press. Reviews found by CrossRef search: Vereb, Kantian Review (2026); Baumeister, Environmental Philosophy (2026). NDPR review: not found.
 
 YEAR NOTE: CrossRef gives print and issued publication 2025-01-31 and online publication 2025-09-18; a second CrossRef record for the same title (De Gruyter eBook, DOI 10.1515/9781399531559) gives print 2025-12-31 and online 2024-11-25.},
-  keywords = {kant, pp-ethics, debate-other-environment, type-monograph, Medium, summary-source-abstract}
+  keywords = {kant, pp-ethics, debate-other-environment, type-monograph, Medium, summary-source-abstract},
+  abstract = {This book argues that a Kantian perspective on the good illuminates a structural tension in human moral thought particularly relevant to the environmental crisis. Kant’s ethics reveals that we are naturally inclined to believe that pursuing our interests is reconcilable with the promotion of the general good. This inclination leads us to expect an abundance of environmental “win-wins,” in which we can fulfil our environmental duties without sacrificing any material interests. If the argument of this book is correct, however, this thought has no basis in reality. It is, in fact, only an instance of that broader inclination, which in philosophical terms might be called “consolation.” The way forward for humanity as it enters the Anthropocene must instead run through some form of non-consolatory hope. This would involve an acknowledgement of the difficult choices ahead—a necessary first step to forming a coherent and rational hope for a better world.},
+  abstract_source = {openalex},
 }
 
 @book{bruno2025facticity,
@@ -228,7 +318,10 @@ SUBFIELD AND DEBATE: Reception: post-Kantian German idealism, neo-Kantian and ph
 SIGNIFICANCE INDICATORS: S2 citations 5 and CrossRef is-referenced-by-count 4 (retrieved 2026-10-01). Publisher: Oxford University Press. NDPR review: yes (2025.10.9, reviewer Crowell). Other reviews found by CrossRef search: Beiser, British Journal for the History of Philosophy (2026); Fisher, European Journal of Philosophy (2026); Ellis, Graduate Faculty Philosophy Journal (2026); author's response in British Journal for the History of Philosophy (2026).
 
 YEAR NOTE: CrossRef gives online (issued) publication 2025-01-30 and print publication 2025-03-04.},
-  keywords = {kant, recep-idealism, recep-phenom, recep-neokantian, type-monograph, High, summary-source-abstract}
+  keywords = {kant, recep-idealism, recep-phenom, recep-neokantian, type-monograph, High, summary-source-abstract},
+  abstract = {
+  abstract_source = {s2},
+ Facticity and the Fate of Reason After Kant is the first history of the concept of facticity. It shows that this concept’s coining, transmission, and repurposing by post-Kantian thinkers leaves a lasting divide concerning the question of whether a science of intelligibility can tolerate brute facts. ‘Facticity’ is associated with phenomenology, for which it denotes undeducibly brute conditions of intelligibility. While this suggests an affirmative answer to the post-Kantian question, ‘facticity’ originates with German idealism, whose proponents answer negatively. Fichte coins ‘facticity’ to denote intolerably brute conditions that are putatively presupposed by reason. A science of intelligibility must eliminate bruteness to be systematic, as Fichte says, or presuppositionless, as Hegel says. Moreover, eliminating bruteness requires dialectical logic, which Fichte invents and Hegel develops, to deduce conditions of intelligibility from reason’s self-contradictions. German idealism’s logical revolution provokes Heidegger’s objection that dialectic ineluctably presupposes factical conditions of lived experience, which must be interpreted hermeneutically. The untold history of ‘facticity’ thus contains the deepest parting of the ways after Kant. On the one hand, Hegel follows Fichte in pursuing a presuppositionless science, although Schelling charges Hegel with presupposing both that science’s value and existence itself. On the other hand, Heidegger rejects presuppositionlessness for a hermeneutics of facticity. The trajectory from German idealism to phenomenology is accordingly one in which facticity initially impedes the science of intelligibility yet ultimately characterizes the situation in which this science is possible. Within this trajectory, reason is fated to transform from the hand holding the world to the thrown activity of being-in-the-world.},
 }
 
 @book{kant2025logicvolckmann,
@@ -245,5 +338,274 @@ SUBFIELD AND DEBATE: Edition of primary sources: student transcripts of Kant's l
 SIGNIFICANCE INDICATORS: S2 record not located; CrossRef is-referenced-by-count 2 (retrieved 2026-10-01). Publisher: Brill | Fink (series jena-sophia, volume 6). A related announcement by Martin Walter appears in Kant-Studien 116(4) (Mitteilungen zur Logiknachschrift Volckmanns, print 2025). No NDPR review found.
 
 YEAR NOTE: CrossRef gives print and issued publication 2025-09-05. Edition of a transcript from about 1782.},
-  keywords = {kant, edition-trans, tp-science-math, type-translation-edition, Low, summary-source-publisher}
+  keywords = {kant, edition-trans, tp-science-math, type-translation-edition, Low, summary-source-publisher, INCOMPLETE, no-abstract}
+}
+
+@article{wolf2026conclusions,
+  author = {Wolf, W. Clark},
+  title = {Kant's Conclusions in the Transcendental Aesthetic},
+  journal = {Journal of the History of Philosophy},
+  year = {2026},
+  volume = {64},
+  number = {1},
+  pages = {101--124},
+  doi = {10.1353/hph.2026.a979223},
+  note = {SUMMARY: Argues that Kant's claim in the Transcendental Aesthetic that things in themselves are not in space does not deny anything about mind-independent reality: it says only that space is not a necessary constraint on things as a kind. On this reading Kant's view escapes the neglected alternative objection, which rests on taking the Aesthetic to make negative assertions about things in themselves (abstract).
+
+SUBFIELD AND DEBATE: Theoretical philosophy: the Transcendental Aesthetic and transcendental idealism; the neglected alternative problem and the status of claims about things in themselves.
+
+SIGNIFICANCE INDICATORS: S2 citations 1 and CrossRef is-referenced-by-count 1 (retrieved 2026-10-01). Venue: Journal of the History of Philosophy 64(1). No review applicable (article).},
+  keywords = {kant, tp-cpr, debate-other-neglected-alternative, type-article, Medium, summary-source-abstract},
+  abstract = {abstract:In the Transcendental Aesthetic (TA), Kant is typically held to make negative assertions about things in themselves, namely that they are not spatial or temporal. These negative assertions stand behind the neglected alternative problem for Kant’s transcendental idealism. In this paper, I show in a new way how Kant’s view is not subject to this objection, by showing that Kant’s claim that things ‘in themselves’ are not in space means that space is not a necessary constraint on things as a kind. This claim does not involve the denial about mind-independent reality that inspires the neglected alternative objection.},
+  abstract_source = {s2},
+}
+
+@article{schnieder2026psr,
+  author = {Schnieder, Benjamin},
+  title = {The Principle of Sufficient Reason in Kant's Nova Dilucidatio},
+  journal = {European Journal of Philosophy},
+  year = {2026},
+  volume = {34},
+  number = {2},
+  pages = {599--620},
+  doi = {10.1111/ejop.70041},
+  note = {SUMMARY: Reassesses Kant's early treatment of the Principle of Sufficient Reason in the Nova dilucidatio, relating his conceptual framework (sufficient reason; antecedently and consequently determining reasons) to Wolff, Crusius and contemporary grounding theory. It argues that his two proofs, from indeterminacy and from exclusion, fail by conflating epistemic with objective notions of reasons and by sliding from entailment to grounding, and separates his Aristotle-inspired insight that p is true because p from any full PSR, which it uses to resist Della Rocca's defence of the PSR (abstract).
+
+SUBFIELD AND DEBATE: Pre-critical metaphysics: the Nova dilucidatio, and the PSR and grounding in the Wolffian and Crusian setting.
+
+SIGNIFICANCE INDICATORS: S2 citations 1 and CrossRef is-referenced-by-count 1 (retrieved 2026-10-01). Venue: European Journal of Philosophy 34(2).
+
+YEAR NOTE: CrossRef gives online publication 2026-03-10 and print publication 2026-06 (volume 34, issue 2).},
+  keywords = {kant, precritical, debate-other-psr, type-article, Medium, summary-source-abstract},
+  abstract = {
+  abstract_source = {s2},
+ 
+ This paper reassesses Kant's early treatment of the Principle of Sufficient Reason (PSR) in the
+ Nova dilucidatio
+ , situating it historically and in contemporary grounding debates.
+ 
+ 
+ First, I lay out Kant's
+ conceptual framework
+ —his definition of a sufficient reason, and his distinction between antecedently and consequently determining reasons—relating it to Wolff and Crusius and to contemporary grounding theory. I argue that the framework yields valuable insights but also harbours instructive confusions.
+ 
+ 
+ Second, I reconstruct Kant's distinction between two
+ versions of the PSR
+ and two of his
+ proofs
+ —the arguments from indeterminacy and from exclusion. I show that the arguments fail, chiefly by conflating epistemic with objective notions of reasons and by sliding from entailment to grounding.
+ 
+ 
+ Third, I underscore Kant's emphasis on the
+ groundedness of truth
+ while separating his Aristotle‐inspired insight—that
+ p
+ is true because
+ p
+ —from any full PSR, and I use this distinction to resist a recent defence of the PSR by Della Rocca.
+},
+}
+
+@article{kleingeld2026strikingsimilarity,
+  author = {Kleingeld, Pauline},
+  title = {The ``Striking Similarity'' Between Kant's Prolegomena and the Groundwork},
+  journal = {Kant-Studien},
+  year = {2026},
+  volume = {117},
+  number = {2},
+  pages = {166--195},
+  doi = {10.1515/kant-2025-0040},
+  note = {SUMMARY: Takes up Kant's remark, made while writing the Prolegomena, of a striking similarity between the central problem of transcendental philosophy and that of moral philosophy. It argues that the Prolegomena and the Groundwork are closely parallel in their central problems, method, types of argument and even terminology, so that the Groundwork is the moral counterpart of the transcendental philosophy; it claims this clarifies the beginning of Groundwork II and the aim and argument of Groundwork III (abstract).
+
+SUBFIELD AND DEBATE: Theoretical and practical philosophy: the structure of the Groundwork's argument read against the Prolegomena; the unity of Kant's critical method.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Venue: Kant-Studien 117(2), the Kant-Gesellschaft journal.
+
+YEAR NOTE: CrossRef gives print publication 2026-06-02 and online publication 2026-06-04.},
+  keywords = {kant, tp-cpr, pp-ethics, debate-other-groundwork-structure, type-article, Medium, summary-source-abstract},
+  abstract = {Abstract When working on the Prolegomena, Kant remarked that there was a “striking similarity” between the central problem of his transcendental philosophy and that of moral philosophy, adding that he would present the solution to the latter shortly. Given that the Prolegomena deals with transcendental philosophy and his next book, the Groundwork, deals with moral philosophy, one might reasonably expect striking parallels between the two. At first glance, however, they appear quite dissimilar, and in the literature, they are not treated as closely related. In this essay, I argue that there are, in fact, remarkable similarities between the two works. They concern not only their central problems but also the method Kant uses to solve them, the types of arguments he develops in doing so, and even the terminology he uses to mark his steps. These similarities highlight both that Kant’s transcendental philosophy in the Prolegomena lays the groundwork for a metaphysics of nature and that his Groundwork for the metaphysics of morals is the moral counterpart to his transcendental philosophy. Moreover, they shed new light on crucial arguments of the Groundwork, especially on the beginning of the second section and the aim and argument of the third, thereby illuminating the structure of the argument of the book as a whole.},
+  abstract_source = {s2},
+}
+
+@book{guyer2026selectedessays,
+  author = {Guyer, Paul},
+  title = {Selected Essays on Kant II: Method, Idealism, and Purpose},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  doi = {10.1017/9781009647175},
+  note = {SUMMARY: Collects ten essays published since Kant and the Claims of Knowledge (1987) on Kant's critical metaphysics and epistemology. They address the meaning of transcendental idealism while criticising Kant's fundamental argument for it, the value of the transcendental method, Kant's teleological approach to philosophy, his relation to Locke and Leibniz, and the difference between his method and Peter Strawson's (publisher abstract).
+
+SUBFIELD AND DEBATE: Theoretical philosophy: transcendental idealism and transcendental method; a collected-essays volume by an author whose earlier essays shaped the debate on idealism.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Cambridge University Press. Award: the publisher abstract states the author won the 2024 International Kant Prize. No review found by CrossRef search or NDPR sitemap check (the sitemap has no 2026 entries).
+
+YEAR NOTE: CrossRef gives online and print publication 2026-05-14.},
+  keywords = {kant, tp-cpr, debate-other-transcendental-method, type-monograph, High, summary-source-abstract},
+  abstract = {Paul Guyer, winner of the 2024 International Kant Prize, is one of the world's leading Kant scholars. This volume collects ten of his essays on Kant's critical approach to metaphysics and epistemology that have been published since his path-breaking Kant and the Claims of Knowledge (Cambridge 1987). These essays resolve long-running debates about the meaning of Kant's doctrine of transcendental idealism while criticizing Kant's fundamental argument for the position; show what is nevertheless enduringly valuable in Kant's transcendental method; and situate Kant's work in theoretical philosophy in his teleological approach to philosophy in general.  The essays clarify Kant's inheritance from and disagreements with two of his most important predecessors, John Locke and Gottfried Wilhelm Leibniz, and analyse the difference between Kant's philosophical method and that of his most influential modern interpreter, Peter Strawson.},
+  abstract_source = {s2},
+}
+
+@book{carson2026mathematics,
+  author = {Carson, Emily},
+  title = {Philosophy of Mathematics from Descartes to Kant},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  doi = {10.1017/9781108982405},
+  note = {SUMMARY: A Cambridge Element on the debate in the 17th and 18th centuries over whether metaphysical truths admit proof as certain as geometrical truths. It examines how Descartes, Locke, Leibniz, Wolff, Lambert, Mendelssohn and Kant understood Euclidean demonstration and the certainty it secures, with emphasis on metaphysical and epistemological questions (publisher abstract).
+
+SUBFIELD AND DEBATE: Philosophy of mathematics: geometrical method and the Kantian contrast between mathematical construction and philosophical demonstration in the early-modern setting.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Cambridge University Press (Cambridge Elements). No review found by CrossRef search.
+
+YEAR NOTE: CrossRef gives online publication 2026-06-26 and print publication 2026-07-31.},
+  keywords = {kant, tp-science-math, precritical, type-monograph, Low, summary-source-abstract},
+  abstract = {The mathematical method and the nature of mathematical knowledge were subjects of intense philosophical discussion in the 17th and 18th centuries. In particular, there was a debate over whether metaphysical truths admit of distinct proof as geometrical truths do, and whether they may be known with the same degree of certainty. This comparison between geometry and philosophy required a proper understanding of how Euclidean demonstration secured certainty. This element examines attempts by Descartes, Locke, Leibniz, Wolff, Lambert, Mendelssohn and Kant to address this question. The emphasis is on metaphysical and epistemological questions about geometrical demonstration in the 17th- and 18th-centuries.},
+  abstract_source = {openalex},
+}
+
+@book{longuenesse2026organization,
+  author = {Longuenesse, Béatrice},
+  title = {The Organization of the Mind: Lessons from Kant and Freud},
+  publisher = {Oxford University Press},
+  year = {2026},
+  url = {https://doi.org/10.1093/9780197781296.001.0001},
+  note = {SUMMARY: Lays out connections between Kant's and Freud's views of the mind, against the accepted contrasts (rational forms necessary for cognition and moral motivation versus an irrational unconscious core). It argues that a more fine-grained reading finds proto-Freudian aspects in Kant and elements of a genealogy of the mind in Freud, and draws lessons for philosophy of mind and moral psychology (publisher abstract).
+
+SUBFIELD AND DEBATE: Mind and psychology, and the reception of Kant in psychoanalysis: Kantian consciousness and unity of representation versus the Freudian unconscious.
+
+SIGNIFICANCE INDICATORS: S2: no record found by DOI or title search; CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Oxford University Press. No review found by CrossRef search or NDPR sitemap check.
+
+YEAR NOTE: CrossRef gives print publication 2026-01-06 and issued (online) 2025-10-30; dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
+  keywords = {kant, tp-mind, recep-other, type-monograph, Medium, summary-source-abstract},
+  abstract = {The book lays out connections between Immanuel Kant’s and Sigmund Freud’s respective views of the mind. Those connections run afoul of generally accepted contrasts between the two views. Whereas Kant investigates the forms of rational thinking that are necessary conditions for theoretical cognition and moral motivation, in contrast, Freud reveals the irrational core of our mental life. Whereas conscious states and their unity play an essential role in Kant’s view of the mind, in contrast, Freud takes the core of our mental life to be unconscious and inhabited by insuperable conflicts. While acknowledging such contrasts, the book argues that a more fine-grained understanding of each thinker reveals proto-Freudian aspects in Kant’s view and elements for a genealogy of the mind as analyzed by Kant in Freud’s view. The two views remain irreducible to one another but understanding the development from one to the other yields important lessons for contemporary philosophy of mind and moral psychology.},
+  abstract_source = {crossref},
+}
+
+@article{schlicht2026predictive,
+  author = {Schlicht, Tobias},
+  title = {Predictive processing's flirt with transcendental idealism},
+  journal = {Noûs},
+  year = {2026},
+  volume = {60},
+  number = {1},
+  pages = {87--109},
+  url = {https://doi.org/10.1111/nous.12552},
+  note = {SUMMARY: Argues that many proponents of predictive processing endorse a form of Kantian transcendental idealism, by characterising experiential content as the brain's best current hypothesis about the world, and that this endorsement undermines the framework's three ambitions: completeness, Bayesian realism and naturalism. The argument draws on philosophy-of-science discussions of realism, computational models and the foundational role of consciousness for science (abstract).
+
+SUBFIELD AND DEBATE: Mind and cognitive science: Kantian transcendental idealism in predictive-processing theories of perception and cognition.
+
+SIGNIFICANCE INDICATORS: S2 citations 4 and CrossRef is-referenced-by-count 4 (retrieved 2026-10-01). Venue: Nous 60(1).
+
+YEAR NOTE: CrossRef gives online publication 2025-05-15 and print publication 2026-03 (volume 60, issue 1); dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
+  keywords = {kant, tp-mind, tp-cpr, recep-other, debate-other-predictive-processing, type-article, Medium, summary-source-abstract},
+  abstract = {The popular predictive processing (PP) framework posits prediction error minimization (PEM) as the sole mechanism in the brain that can account for all mental phenomena, including consciousness. I first highlight three ambitions associated with major presentations of PP: (1) Completeness (PP aims for a comprehensive account of mental phenomena), (2) Bayesian realism (PP claims that PEM is implemented in the brain rather than providing only a model), and (3) Naturalism (PP is typically presented as yielding a naturalistic view of the mind). Then I demonstrate that many proponents of PP also endorse a form of Kantian transcendental idealism (TI), based on a characterization of experiential content as the brain's currently best hypothesis about the world. I argue that endorsing this claim (4), that is, that we only experience the world as it appears, but not the world itself, sabotages achieving the three ambitions. The argument proceeds by discussing the prospects of each ambition in turn, drawing on discussions in the philosophy of science about realism and its alternatives, about the motivation and features of computational models, and about the foundational role of consciousness for science.},
+  abstract_source = {crossref},
+}
+
+@book{brecher2026lawmorality,
+  editor = {Brecher, Martin and Hirsch, Philipp-Alexander},
+  title = {Law and Morality in Kant},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  url = {https://doi.org/10.1017/9781009292030},
+  note = {SUMMARY: A volume of new essays on how law and morality relate in Kant: whether law is an application of general moral principles to legal institutions or has its own normativity irreducible to morality. The essays treat the justification of legal coercion, freedom and autonomy in law and politics, legal punishment and its ethical presuppositions, moral luck and permissive laws (publisher abstract).
+
+SUBFIELD AND DEBATE: Legal and political philosophy: the Doctrine of Right and its relation to the Doctrine of Virtue and moral philosophy (dependence versus independence of Right from morality).
+
+SIGNIFICANCE INDICATORS: S2: no record found for the volume by title search (only its reviews); CrossRef is-referenced-by-count 1 (retrieved 2026-10-01). Publisher: Cambridge University Press; the publisher abstract states the title is also available as Open Access. Reviews found by CrossRef search: Borbone, Philosophy in Review (2026); Pinheiro, Con-Textos Kantianos (2026). NDPR: no 2026 entries in the sitemap.
+
+YEAR NOTE: CrossRef gives online publication 2025-12-16 and print publication 2026-01-31; dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
+  keywords = {kant, pp-right-politics, pp-mm-virtue, type-edited-volume, Medium, summary-source-abstract},
+  abstract = {How do law and morality relate to each other in Kant's philosophy? Is law to be understood merely as an application of general moral principles to legal institutions, or does law have its own normativity that cannot be traced back to that of morality? This volume of new essays is a comprehensive treatment of law and morality in Kant, which also sheds new light on Kant's practical philosophy more broadly. The essays present different approaches to this core issue and address related topics including the justification of legal coercion, the role of freedom and autonomy for law and politics, legal punishment and the question of its ethical presuppositions, moral luck, and the role of permissive laws in Kant's legal and political philosophy. The volume will be of interest to researchers and graduate students working on Kant's moral and legal philosophy. This title is also available as Open Access on Cambridge Core},
+  abstract_source = {core},
+}
+
+@book{hunter2026kantianreligion,
+  author = {Hunter, Ian},
+  title = {The Kantian Religion},
+  publisher = {Princeton University Press},
+  year = {2026},
+  doi = {10.2307/jj.35079609},
+  note = {SUMMARY: A historical study that treats Kantian philosophy as a form of philosophical religion. Against the view of Kant as supplying a universal theory of knowledge and morality from timeless principles of the human mind, it argues that Kant's arguments were assembled from historical sources and served as ascetic devices for forming the Kantian philosopher's self, which his contemporaries took to be an extra-ecclesiastical path of spiritual and moral regeneration (publisher page).
+
+SUBFIELD AND DEBATE: Religion and the interpretation of the critical philosophy: a historicist, anti-foundationalist reading of Kant that contests the standard systematic-philosophical reading.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Princeton University Press (552 pages). Review found by CrossRef search: Bernstein, Philosophy in Review (2026). The publisher page carries endorsements by C. Insole and K. Haakonssen. An interview with the author appeared on the Journal of the History of Ideas blog (2026-08-17), and the author published the related article Kant's Philosophical Ascesis in History of European Ideas (2026, online). NDPR: no 2026 entries in the sitemap.
+
+YEAR NOTE: CrossRef gives print publication 2026-04-21 (US); the publisher page gives a UK date of 2026-06-16.},
+  keywords = {kant, religion, debate-other-historicism, type-monograph, High, summary-source-publisher, INCOMPLETE, no-abstract}
+}
+
+@article{luadler2026colonialslavery,
+  author = {Lu-Adler, Huaping},
+  title = {Kant, the Political Economy of Colonial Slavery, and Racial Capitalism},
+  journal = {Canadian Journal of Philosophy},
+  year = {2026},
+  doi = {10.1017/can.2026.10083},
+  note = {SUMMARY: Notes that Kant observed that enslaved Africans functioned as money in trade and that their number measured a nation's wealth, while he racialised the Negro as suited to slave labour, benefited indirectly from such labour, did not call colonial slavery unjust and at times signalled anti-abolitionist sympathies. On this background the paper asks what the prospects are for a deracialised, radical Kantian liberalism (abstract).
+
+SUBFIELD AND DEBATE: Race, colonialism and political economy: Kant's views on slavery and race and whether Kantian liberalism can be revised; contributes to the debate over Kant's racism and the universalist reading.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Venue: Canadian Journal of Philosophy (online first). The author's book Kant, Race, and Racism is the subject of the 2025 Mind critical notice by Kleingeld included in this file.
+
+YEAR NOTE: CrossRef gives online publication 2026-08-11 and no print date; the entry qualifies on the 2026 online date and has no volume or issue yet.},
+  keywords = {kant, anthro-hist-edu, pp-right-politics, debate-race, debate-colonialism, type-article, Medium, summary-source-abstract},
+  abstract = {
+  abstract_source = {s2},
+ Colonial slavery supercharged Europe’s prosperity in the eighteenth century. It was legally sanctioned, supported by state powers, and largely condoned by the public. Against this backdrop, Kant observed that “Negro slaves” functioned as money in trade, their number measured a nation’s wealth, and the slavery business was therefore intertwined with a competitive intra-European politics. Meanwhile, he racialized the “Negro” as uniquely suited for slave labor, indirectly benefited from such labor, refrained from calling colonial slavery an unjust institution, and occasionally signaled anti-abolitionist sympathies. Given these facts, what is the prospect of a deracialized, radical Kantian liberalism?},
+}
+
+@book{noller2026respect,
+  author = {Noller, Jörg},
+  title = {Kant on Respect (Achtung)},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  url = {https://doi.org/10.1017/9781009511049},
+  note = {SUMMARY: A Cambridge Element reconstructing Kant's statements on the moral feeling of respect (Achtung) by its position across the three Critiques, the Religion and the Metaphysics of Morals: noumenal causation, moral motivation, the dynamic sublime, and imputability and education. It argues from the self-reflective volitional structure of respect for a compatibilist account on which both the intellectualist and the affectivist interpretations are true (publisher abstract).
+
+SUBFIELD AND DEBATE: Moral psychology and moral motivation: respect as moral feeling, in the intellectualist versus affectivist debate on the Second Critique.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Cambridge University Press (Cambridge Elements). Reviews found by CrossRef search: Falduto, Journal of Transcendental Philosophy (2026); Rigolli, Con-Textos Kantianos (2026).
+
+YEAR NOTE: CrossRef gives online publication 2025-12-15 and print publication 2026-01-31; S2 gives 2025. Dated by print year per the project rule. The DOI is given as a url so that the metadata cleaner does not overwrite the year.},
+  keywords = {kant, pp-ethics, tp-mind, debate-other-moral-feeling, type-monograph, Medium, summary-source-abstract},
+  abstract = {This Element reconstructs Kant's puzzling statements about the moral feeling of respect (Achtung), which is 'a feeling self-wrought by means of a rational concept and therefore specifically different' from all common feelings (4:401n.). The focus is on the systematic position of respect within the framework of Kant's major works and within the faculties of the human mind. The concept of respect is discussed with regard to (i) the transcendental problem of noumenal causation in Kant's first Critique; (ii) the practical problem of moral motivation in Kant's second Critique; (iii) the aesthetic problem of feeling and the dynamic sublime in Kant's third Critique; and (iv) the problem of moral imputability and education in Kant's Religion and Metaphysics of Morals. By considering its self-reflective volitional structure, this Element argues for a compatibilist account of the moral feeling of respect, according to which both intellectualist and affectivist interpretations are true.},
+  abstract_source = {crossref},
+}
+
+@book{khurana2026lifefreedom,
+  author = {Khurana, Thomas},
+  title = {The Life of Freedom in Kant and Hegel},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  doi = {10.1017/9781009542432},
+  note = {SUMMARY: Argues that the dominant conception of autonomy generates the paradox of self-legislation and a dualistic opposition of freedom and nature, and develops from Kant's and Hegel's concepts of life an understanding of freedom as a form of life. On this view we are autonomous by inhabiting our living nature in the right way, which calls for a critical theory of second nature (publisher abstract).
+
+SUBFIELD AND DEBATE: Ethics and the theory of autonomy, with the Kant-Hegel reception: a critical reinterpretation of Kantian autonomy and self-legislation through the concept of life.
+
+SIGNIFICANCE INDICATORS: S2 citations 2 and CrossRef is-referenced-by-count 2 (retrieved 2026-10-01). Publisher: Cambridge University Press. No review found by CrossRef search or NDPR sitemap check.
+
+YEAR NOTE: CrossRef gives online publication 2026-04-07 and print publication 2026-04-30.},
+  keywords = {kant, pp-ethics, recep-idealism, debate-constructivism, type-monograph, Medium, summary-source-abstract},
+  abstract = {Autonomy is one of the central aspirations of our time, yet there is a growing worry that autonomy, as we have understood and practised it, has not liberated us but subjected us to new forms of domination. In his ground-breaking reinterpretation of Kant and Hegel, Thomas Khurana reveals the source of these problems in the very concept of autonomy and develops a new understanding of human self-determination. While the dominant conception of autonomy gives rise to the paradox of self-legislation and remains caught up in a dualistic opposition of freedom and nature, we can overcome these problems by understanding freedom as a form of life. Elaborating both Kant's and Hegel's compelling concepts of life, Khurana shows that we are not autonomous despite or against our living nature, but by inhabiting it in the right way. To understand freedom, we need a critical theory of our second nature.},
+  abstract_source = {s2},
+}
+
+@book{tuna2026artcriticism,
+  author = {Tuna, Emine Hande},
+  title = {Kantian Art Criticism},
+  publisher = {Cambridge University Press},
+  year = {2026},
+  doi = {10.1017/9781009620291},
+  note = {SUMMARY: Argues that Kant's aesthetics can ground a theory of art criticism despite his rejection of aesthetic testimony and of general rules of taste. It locates the solution in Kant's overlooked judgments of perfection, which mediate between aesthetic evaluations and descriptions of a work's non-aesthetic features (publisher abstract).
+
+SUBFIELD AND DEBATE: Aesthetics: the Critique of the Power of Judgment on judgments of taste, testimony and perfection; applies Kantian aesthetics to critical practice.
+
+SIGNIFICANCE INDICATORS: S2 citations 0 and CrossRef is-referenced-by-count 0 (retrieved 2026-10-01). Publisher: Cambridge University Press. No review found by CrossRef search or NDPR sitemap check.
+
+YEAR NOTE: CrossRef gives online publication 2026-06-23 and print publication 2026-08-31.},
+  keywords = {kant, aes-teleo, debate-other-aesthetic-testimony, type-monograph, Low, summary-source-abstract},
+  abstract = {Combining historical insight with contemporary theory, this book demonstrates that Kant's aesthetics can ground a robust theory of art criticism. It challenges the widespread view that Kant's rejection of aesthetic testimony – the idea that we cannot simply adopt someone else's judgment without first-hand experience - and his dismissal of general rules such as 'symmetry guarantees beauty' or 'a tragic ending ensures depth' leaves critics powerless. If testimony and rules are excluded, evaluations such as 'Blade Runner is a masterpiece' lose authority, while descriptions like 'most of the story takes place in perpetual rain and darkness' seems irrelevant to the critic's evaluation. This book locates the solution in Kant's overlooked judgments of perfection such as 'the film innovates within the neo-noir genre.' It reimagines what critical communication can be by positioning these judgments as mediators. They guide aesthetic evaluations and draw support from descriptions of a work's non-aesthetic features.},
+  abstract_source = {s2},
 }
