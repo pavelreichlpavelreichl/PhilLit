@@ -8,7 +8,7 @@
 
 - [x] Phase 1: Verify environment and determine execution mode (Full Autopilot, sequential)
 - [x] Phase 2: Structure literature review domains (7 domains)
-- [ ] Phase 3: Research domains (sequential)
+- [x] Phase 3: Research domains (sequential; 7 bib files, ~167 entries)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequential)
 - [ ] Phase 6: Assemble final review files and move intermediate files
@@ -19,9 +19,11 @@
 
 ## Current Task
 
-Phase 3: domain 1
+Phase 4: synthesis outline
 
 2026-10-09 Phase 2: Created lit-review-plan.md (7 domains)
+
+2026-10-09 Phase 3: literature-domain-1..7.bib complete (31/26/22/33/22/22/11). Source issues: OpenAlex/CORE HTTP 429; intermittent S2 rate limits; many entries lack abstracts (INCOMPLETE).
 
 ## Next Steps
 
