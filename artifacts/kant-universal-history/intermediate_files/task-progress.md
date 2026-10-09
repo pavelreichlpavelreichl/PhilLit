@@ -11,9 +11,11 @@
 - [x] Phase 3: Research domains (sequentially)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (sequentially)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
+
+2026-10-09 Phase 6: assembled literature-review-final.md (~8400 words, 172 references), literature-all.bib, DOCX; restored CrossRef metadata stripped by metadata_cleaner
 
 2026-10-09 Phase 5: synthesis-section-1..10.md written sequentially
 
@@ -27,7 +29,7 @@
 
 ## Current Task
 
-Phase 6: assembly
+Complete
 
 ## Next Steps
 
