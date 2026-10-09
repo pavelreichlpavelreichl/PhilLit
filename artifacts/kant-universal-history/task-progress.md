@@ -10,10 +10,12 @@
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequentially)
 - [x] Phase 4: Outline synthesis review across domains
-- [ ] Phase 5: Write review sections (sequentially)
+- [x] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
+
+2026-10-09 Phase 5: synthesis-section-1..10.md written sequentially
 
 2026-10-09 Phase 4: synthesis-outline.md (Intro, 8 sections, Conclusion; ~6600 words)
 
@@ -25,7 +27,7 @@
 
 ## Current Task
 
-Phase 5: section writing (sequential)
+Phase 6: assembly
 
 ## Next Steps
 
