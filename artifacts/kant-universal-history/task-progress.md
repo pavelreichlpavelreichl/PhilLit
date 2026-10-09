@@ -9,11 +9,13 @@
 - [x] Phase 1: Verify environment and determine execution mode (Full Autopilot, sequential)
 - [x] Phase 2: Structure literature review domains
 - [x] Phase 3: Research domains (sequentially)
-- [ ] Phase 4: Outline synthesis review across domains
+- [x] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
+
+2026-10-09 Phase 4: synthesis-outline.md (Intro, 8 sections, Conclusion; ~6600 words)
 
 2026-10-09 Phase 3: 7 domain BibTeX files (28, 43, 23, 31, 22, 36, 30 entries); fixed LaTeX escapes and edited-volume metadata
 
@@ -23,7 +25,7 @@
 
 ## Current Task
 
-Phase 4: synthesis outline
+Phase 5: section writing (sequential)
 
 ## Next Steps
 
