@@ -8,12 +8,14 @@
 
 - [x] Phase 1: Verify environment and determine execution mode (Full Autopilot, sequential)
 - [x] Phase 2: Structure literature review domains
-- [ ] Phase 3: Research domains (sequentially)
+- [x] Phase 3: Research domains (sequentially)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequentially)
 - [ ] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
+
+2026-10-09 Phase 3: 7 domain BibTeX files (28, 43, 23, 31, 22, 36, 30 entries); fixed LaTeX escapes and edited-volume metadata
 
 2026-10-09 Phase 2: Created lit-review-plan.md (7 domains)
 
@@ -21,7 +23,7 @@
 
 ## Current Task
 
-Phase 3: domain research (sequential)
+Phase 4: synthesis outline
 
 ## Next Steps
 
