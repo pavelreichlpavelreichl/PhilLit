@@ -11,7 +11,7 @@
 - [x] Phase 3: Research domains (sequential)
 - [x] Phase 4: Outline synthesis review across domains
 - [x] Phase 5: Write review sections (sequential)
-- [ ] Phase 6: Assemble final review files and move intermediate files
+- [x] Phase 6: Assemble final review files and move intermediate files
 
 ## Completed Tasks
 
@@ -25,9 +25,11 @@
 
 2026-10-26 Phase 5: 8 synthesis sections written
 
+2026-10-26 Phase 6: Final review assembled (165 references), lint clean, intermediates archived
+
 ## Current Task
 
-Phase 6: assembly
+Complete
 
 ## Next Steps
 
