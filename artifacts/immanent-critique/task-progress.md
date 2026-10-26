@@ -7,7 +7,7 @@
 ## Progress Status
 
 - [x] Phase 1: Verify environment and determine execution mode
-- [ ] Phase 2: Structure literature review domains
+- [x] Phase 2: Structure literature review domains
 - [ ] Phase 3: Research domains (sequential)
 - [ ] Phase 4: Outline synthesis review across domains
 - [ ] Phase 5: Write review sections (sequential)
@@ -17,10 +17,12 @@
 
 2026-10-26 Phase 1: Environment verified (S2/OpenAlex transient 429 on health check; searches work). Mode: Full Autopilot. Final outputs mirrored to artifacts/immanent-critique/ and committed per phase.
 
+2026-10-26 Phase 2: Created lit-review-plan.md (7 domains)
+
 ## Current Task
 
-Phase 2: domain planning
+Phase 3: domain research (sequential, Domain 1 of 7)
 
 ## Next Steps
 
-1. Invoke literature-review-planner
+1. Research domains 1-7 sequentially
